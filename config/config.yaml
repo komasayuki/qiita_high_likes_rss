@@ -1,0 +1,11 @@
+min_likes: 10
+likes_per_page: 100
+likes_max_pages: 20
+max_feed_entries: 200
+max_stored_days: 60
+max_stored_items: 1000
+site_title: "Qiita 人気記事 filtered"
+site_description: "Qiita popular items filtered by likes threshold"
+site_url: ""
+feed_path: "feed.xml"
+feed_source: "https://qiita.com/popular-items/feed"
