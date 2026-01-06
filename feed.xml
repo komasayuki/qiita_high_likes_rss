@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-06T22:09:25+09:00</updated>
+  <updated>2026-01-06T23:49:28+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -11,7 +11,7 @@
     <title>IT業界に蔓延する『ナンニデモPM』 それ、本当にプロジェクトマネジメント？</title>
     <link rel="alternate" href="https://qiita.com/katohiro_fi/items/b91a11cbcdd0e4967b8c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-04T17:47:30+09:00</updated>
-    <summary type="html">Likes: 259&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/katohiro_fi&quot;&gt;katohiro_fi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T22:16:38+09:00&lt;br/&gt;Updated: 2026-01-04T17:47:30+09:00&lt;br/&gt;最近、社内で「プロジェクトマネージャー（PM）に技術力は必要か？」という議論がありました。
+    <summary type="html">Likes: 261&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/katohiro_fi&quot;&gt;katohiro_fi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T22:16:38+09:00&lt;br/&gt;Updated: 2026-01-04T17:47:30+09:00&lt;br/&gt;最近、社内で「プロジェクトマネージャー（PM）に技術力は必要か？」という議論がありました。
 結論から言うと、私はこう思っています。
 
 PMに“技術力”は必要
@@ -22,7 +22,7 @@ PMに“技術力”は必要
     <title>Claude × Nano Banana Pro で料理漫画を自動生成するパイプラインを作った</title>
     <link rel="alternate" href="https://qiita.com/yongyong/items/cabcfb8c91b857cc164f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-06T14:31:10+09:00</updated>
-    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yongyong&quot;&gt;yongyong&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T21:27:39+09:00&lt;br/&gt;Updated: 2026-01-06T14:31:10+09:00&lt;br/&gt;TL;DR
+    <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yongyong&quot;&gt;yongyong&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T21:27:39+09:00&lt;br/&gt;Updated: 2026-01-06T14:31:10+09:00&lt;br/&gt;TL;DR
 
 Claude Opus でキャラクター設定とCSV形式のシナリオを作成
 
@@ -91,6 +91,15 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
 ただ、そ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e5789268d7ba860b4ca4</id>
+    <title>Windows を USB で持ち運ぶ：Hyper‑V + WinPE を使った VHDX ブート手法</title>
+    <link rel="alternate" href="https://qiita.com/carol0226/items/e5789268d7ba860b4ca4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-06T19:49:00+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T20:57:55+09:00&lt;br/&gt;Updated: 2026-01-06T19:49:00+09:00&lt;br/&gt;はじめに
+表題のとおり、Windows OS を USB メモリ上に導入して、任意の PC を使って利用するためのノウハウを共有したいと思います。
+本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3eab3b2d1c116ced79a7</id>
     <title>動くMermaid：矢印アニメーションで通信を表現する</title>
     <link rel="alternate" href="https://qiita.com/sakaimaging/items/3eab3b2d1c116ced79a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -98,15 +107,6 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sakaimaging&quot;&gt;sakaimaging&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T13:24:45+09:00&lt;br/&gt;Updated: 2026-01-03T19:35:29+09:00&lt;br/&gt;はじめに
 Mermaid では、flowchart の矢印に animation を指定することで、通信が流れる様子をアニメーションとして表現できます。
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e5789268d7ba860b4ca4</id>
-    <title>Windows を USB で持ち運ぶ：Hyper‑V + WinPE を使った VHDX ブート手法</title>
-    <link rel="alternate" href="https://qiita.com/carol0226/items/e5789268d7ba860b4ca4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-06T19:49:00+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T20:57:55+09:00&lt;br/&gt;Updated: 2026-01-06T19:49:00+09:00&lt;br/&gt;はじめに
-表題のとおり、Windows OS を USB メモリ上に導入して、任意の PC を使って利用するためのノウハウを共有したいと思います。
-本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ae9f2a8d3fc5fb20852f</id>
@@ -136,8 +136,8 @@ SAA (AWS Certified So...</summary>
     <id>tag:qiita.com,2026:5eab2570dbed38021851</id>
     <title>JavaエンジニアがTypeScriptに触れて違いを感じた6つのポイント</title>
     <link rel="alternate" href="https://qiita.com/ebichan_88/items/5eab2570dbed38021851?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-06T09:43:37+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ebichan_88&quot;&gt;ebichan_88&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T21:27:36+09:00&lt;br/&gt;Updated: 2026-01-06T09:43:37+09:00&lt;br/&gt;はじめに
+    <updated>2026-01-06T23:49:28+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ebichan_88&quot;&gt;ebichan_88&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T21:27:36+09:00&lt;br/&gt;Updated: 2026-01-06T23:49:28+09:00&lt;br/&gt;はじめに
 本記事は、JavaエンジニアがTypeScriptを扱う際に感じた違いを解説した記事です。
 これまで実務や個人開発でTypeScriptに触れていましたが、Javaの感覚でコードを読み進めていくと、TypeScript特有の概念や挙動に戸惑うことがありました。
 ...</summary>
@@ -159,7 +159,7 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
     <title>設計はAIと後で直せ。Claude Codeと駆け抜けた「Vibe Coding」16時間のOSS開発記</title>
     <link rel="alternate" href="https://qiita.com/take-yoda/items/bafb7b921bf8d16187ba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-05T18:54:12+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:54:12+09:00&lt;br/&gt;Updated: 2026-01-05T18:54:12+09:00&lt;br/&gt;設計なんて、後でAIと全部書き直せばいい
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:54:12+09:00&lt;br/&gt;Updated: 2026-01-05T18:54:12+09:00&lt;br/&gt;設計なんて、後でAIと全部書き直せばいい
 株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。
 本記事は、Rust初学者の私がClaude Codeと共に、合計16時間でOSSツール uv-sbom を作り上げた全記録です。
 
@@ -202,6 +202,24 @@ N+1問題を単なる「知識」ではなく、物理的なリソースの無�
 コードレビュー時に、AIの提案を鵜呑みにせず、パフォーマンス上のリスクを直感的に指摘できるメンタルモデル...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f85261a4f3638e1a69b4</id>
+    <title>【Web開発】TCP/IPを簡単に抑えておく</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/f85261a4f3638e1a69b4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-05T03:38:03+09:00</updated>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T03:38:03+09:00&lt;br/&gt;Updated: 2026-01-05T03:38:03+09:00&lt;br/&gt;はじめに
+この記事では、インターネット通信の基礎となるTCP/IPについて、初めて学ぶ方にも分かりやすく解説します。
+
+この記事で学べること
+
+TCP/IPの基本的な仕組み
+階層構造の考え方
+IPアドレスの役割
+TCPとUDPの違い
+実際の通信がどのように行われるか
+
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:473dd7b3dd5d5c3f6d05</id>
     <title>AIによる並列開発で個人のアウトプット限界を突破した1週間の記録</title>
     <link rel="alternate" href="https://qiita.com/takurot/items/473dd7b3dd5d5c3f6d05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -217,24 +235,6 @@ N+1問題を単なる「知識」ではなく、物理的なリソースの無�
     <updated>2026-01-05T14:50:34+09:00</updated>
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T14:10:36+09:00&lt;br/&gt;Updated: 2026-01-05T14:50:34+09:00&lt;br/&gt;マネージドなApache Spark環境「OCI Data Flow（データ・フロー）」サービスを用いて、クラウドストレージ上のデータを効率よく処理・分析する一連の仕組みを構築してみます。
 本記事では、OCI Data Flowを使って、まずSpark環境を「動かして結果を...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f85261a4f3638e1a69b4</id>
-    <title>【Web開発】TCP/IPを簡単に抑えておく</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/f85261a4f3638e1a69b4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-05T03:38:03+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T03:38:03+09:00&lt;br/&gt;Updated: 2026-01-05T03:38:03+09:00&lt;br/&gt;はじめに
-この記事では、インターネット通信の基礎となるTCP/IPについて、初めて学ぶ方にも分かりやすく解説します。
-
-この記事で学べること
-
-TCP/IPの基本的な仕組み
-階層構造の考え方
-IPアドレスの役割
-TCPとUDPの違い
-実際の通信がどのように行われるか
-
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:acfd6b9ff4e5d60e21ad</id>
