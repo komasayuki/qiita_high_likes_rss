@@ -147,7 +147,7 @@ SAA (AWS Certified So...</summary>
     <title>設計はAIと後で直せ。Claude Codeと駆け抜けた「Vibe Coding」16時間のOSS開発記</title>
     <link rel="alternate" href="https://qiita.com/take-yoda/items/bafb7b921bf8d16187ba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-05T18:54:12+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:54:12+09:00&lt;br/&gt;Updated: 2026-01-05T18:54:12+09:00&lt;br/&gt;設計なんて、後でAIと全部書き直せばいい
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:54:12+09:00&lt;br/&gt;Updated: 2026-01-05T18:54:12+09:00&lt;br/&gt;設計なんて、後でAIと全部書き直せばいい
 株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。
 本記事は、Rust初学者の私がClaude Codeと共に、合計16時間でOSSツール uv-sbom を作り上げた全記録です。
 
@@ -158,7 +158,7 @@ SAA (AWS Certified So...</summary>
     <title>H3ロケットの失敗から学ぶ、前提を疑う設計</title>
     <link rel="alternate" href="https://qiita.com/sh-ohtani/items/db798b2e5805c51a64c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-05T15:37:07+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sh-ohtani&quot;&gt;sh-ohtani&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T15:37:07+09:00&lt;br/&gt;Updated: 2026-01-05T15:37:07+09:00&lt;br/&gt;H3ロケットの失敗から学ぶ、前提を疑う設計
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sh-ohtani&quot;&gt;sh-ohtani&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T15:37:07+09:00&lt;br/&gt;Updated: 2026-01-05T15:37:07+09:00&lt;br/&gt;H3ロケットの失敗から学ぶ、前提を疑う設計
 
 ― 確認しても失敗するシステムは、なぜ生まれるのか
 GMOコネクトの大谷です。
@@ -254,6 +254,17 @@ Emacs備忘録（２０２４年版）という記事を投稿してから２年
 業務自動化の仕事をしていて、VBAやPower Automateなどを使った効率化を行ってきました。
 その中でも最近では、LLMを活用した「社内ナレッジ検索」や「文書分析」のニーズが高まっていると肌で感じています。
 そして、個人開発ではStreamlit + L...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:0b4a980f2f4bb073a9e0</id>
+    <title>Amplify &amp; AgentCoreのAIエージェントをAWS CDKでデプロイしよう！</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/0b4a980f2f4bb073a9e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-06T21:42:40+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T18:17:31+09:00&lt;br/&gt;Updated: 2026-01-06T21:42:40+09:00&lt;br/&gt;先日投稿したこちらの記事が好評だったため、AWS CDKを使ってフルIaCでデプロイする手順も解説します！
+
+フルサーバーレスで維持費激安なのが嬉しいポイントです。
+
+モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:604140a1050a71c35aa6</id>
