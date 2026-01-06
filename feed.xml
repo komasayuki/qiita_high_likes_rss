@@ -11,7 +11,7 @@
     <title>IT業界に蔓延する『ナンニデモPM』 それ、本当にプロジェクトマネジメント？</title>
     <link rel="alternate" href="https://qiita.com/katohiro_fi/items/b91a11cbcdd0e4967b8c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-04T17:47:30+09:00</updated>
-    <summary type="html">Likes: 250&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/katohiro_fi&quot;&gt;katohiro_fi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T22:16:38+09:00&lt;br/&gt;Updated: 2026-01-04T17:47:30+09:00&lt;br/&gt;最近、社内で「プロジェクトマネージャー（PM）に技術力は必要か？」という議論がありました。
+    <summary type="html">Likes: 252&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/katohiro_fi&quot;&gt;katohiro_fi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T22:16:38+09:00&lt;br/&gt;Updated: 2026-01-04T17:47:30+09:00&lt;br/&gt;最近、社内で「プロジェクトマネージャー（PM）に技術力は必要か？」という議論がありました。
 結論から言うと、私はこう思っています。
 
 PMに“技術力”は必要
@@ -22,7 +22,7 @@ PMに“技術力”は必要
     <title>Claude × Nano Banana Pro で料理漫画を自動生成するパイプラインを作った</title>
     <link rel="alternate" href="https://qiita.com/yongyong/items/cabcfb8c91b857cc164f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-06T14:31:10+09:00</updated>
-    <summary type="html">Likes: 84&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yongyong&quot;&gt;yongyong&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T21:27:39+09:00&lt;br/&gt;Updated: 2026-01-06T14:31:10+09:00&lt;br/&gt;TL;DR
+    <summary type="html">Likes: 87&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yongyong&quot;&gt;yongyong&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T21:27:39+09:00&lt;br/&gt;Updated: 2026-01-06T14:31:10+09:00&lt;br/&gt;TL;DR
 
 Claude Opus でキャラクター設定とCSV形式のシナリオを作成
 
@@ -104,7 +104,7 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
     <title>Windows を USB で持ち運ぶ：Hyper‑V + WinPE を使った VHDX ブート手法</title>
     <link rel="alternate" href="https://qiita.com/carol0226/items/e5789268d7ba860b4ca4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-06T19:49:00+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T20:57:55+09:00&lt;br/&gt;Updated: 2026-01-06T19:49:00+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T20:57:55+09:00&lt;br/&gt;Updated: 2026-01-06T19:49:00+09:00&lt;br/&gt;はじめに
 表題のとおり、Windows OS を USB メモリ上に導入して、任意の PC を使って利用するためのノウハウを共有したいと思います。
 本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
   </entry>
@@ -159,7 +159,7 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
     <title>設計はAIと後で直せ。Claude Codeと駆け抜けた「Vibe Coding」16時間のOSS開発記</title>
     <link rel="alternate" href="https://qiita.com/take-yoda/items/bafb7b921bf8d16187ba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-05T18:54:12+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:54:12+09:00&lt;br/&gt;Updated: 2026-01-05T18:54:12+09:00&lt;br/&gt;設計なんて、後でAIと全部書き直せばいい
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:54:12+09:00&lt;br/&gt;Updated: 2026-01-05T18:54:12+09:00&lt;br/&gt;設計なんて、後でAIと全部書き直せばいい
 株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。
 本記事は、Rust初学者の私がClaude Codeと共に、合計16時間でOSSツール uv-sbom を作り上げた全記録です。
 
@@ -219,6 +219,16 @@ N+1問題を単なる「知識」ではなく、物理的なリソースの無�
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:acfd6b9ff4e5d60e21ad</id>
+    <title>業務自動化エンジニアがDatabricks(Python/SQL)× LLMでRAG基盤を作ってみた</title>
+    <link rel="alternate" href="https://qiita.com/mamineko/items/acfd6b9ff4e5d60e21ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-04T16:55:43+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mamineko&quot;&gt;mamineko&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T16:55:43+09:00&lt;br/&gt;Updated: 2026-01-04T16:55:43+09:00&lt;br/&gt;はじめに
+業務自動化の仕事をしていて、VBAやPower Automateなどを使った効率化を行ってきました。
+その中でも最近では、LLMを活用した「社内ナレッジ検索」や「文書分析」のニーズが高まっていると肌で感じています。
+そして、個人開発ではStreamlit + L...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:604140a1050a71c35aa6</id>
     <title>【Google Cloud 】Private Service Connect を使ってVPC間の内部通信をする</title>
     <link rel="alternate" href="https://qiita.com/aaaabbbbb/items/604140a1050a71c35aa6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -255,15 +265,5 @@ GUIは直感的で便利ですが、業務やチームワークに深く組み�
 こんにちは！
 2026年最初の投稿として、最近注目を集めているIBM Bobについて書いていきます。
 IBM Bobは、AIアシスタントとして様々な機能を持っていますが、今回は特にBob Shell...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:acfd6b9ff4e5d60e21ad</id>
-    <title>業務自動化エンジニアがDatabricks(Python/SQL)× LLMでRAG基盤を作ってみた</title>
-    <link rel="alternate" href="https://qiita.com/mamineko/items/acfd6b9ff4e5d60e21ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-04T16:55:43+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mamineko&quot;&gt;mamineko&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T16:55:43+09:00&lt;br/&gt;Updated: 2026-01-04T16:55:43+09:00&lt;br/&gt;はじめに
-業務自動化の仕事をしていて、VBAやPower Automateなどを使った効率化を行ってきました。
-その中でも最近では、LLMを活用した「社内ナレッジ検索」や「文書分析」のニーズが高まっていると肌で感じています。
-そして、個人開発ではStreamlit + L...</summary>
   </entry>
 </feed>
