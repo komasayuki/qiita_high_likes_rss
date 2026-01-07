@@ -22,7 +22,7 @@ PMに“技術力”は必要
     <title>Claude × Nano Banana Pro で料理漫画を自動生成するパイプラインを作った</title>
     <link rel="alternate" href="https://qiita.com/yongyong/items/cabcfb8c91b857cc164f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-06T14:31:10+09:00</updated>
-    <summary type="html">Likes: 158&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yongyong&quot;&gt;yongyong&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T21:27:39+09:00&lt;br/&gt;Updated: 2026-01-06T14:31:10+09:00&lt;br/&gt;TL;DR
+    <summary type="html">Likes: 159&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yongyong&quot;&gt;yongyong&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T21:27:39+09:00&lt;br/&gt;Updated: 2026-01-06T14:31:10+09:00&lt;br/&gt;TL;DR
 
 Claude Opus でキャラクター設定とCSV形式のシナリオを作成
 
@@ -37,7 +37,7 @@ Canva で誤字脱字を修正（Nano Ban...</summary>
     <title>拝啓、出社できなかった日の俺へ。──人生が止まったその日から、俺の挑戦が始まった。</title>
     <link rel="alternate" href="https://qiita.com/Keita-0025/items/c0fb3bed10f49b0ed523?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-05T23:35:30+09:00</updated>
-    <summary type="html">Likes: 117&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Keita-0025&quot;&gt;Keita-0025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T23:35:30+09:00&lt;br/&gt;Updated: 2026-01-05T23:35:30+09:00&lt;br/&gt;はじめに：準備が整う日は来ない
+    <summary type="html">Likes: 120&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Keita-0025&quot;&gt;Keita-0025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T23:35:30+09:00&lt;br/&gt;Updated: 2026-01-05T23:35:30+09:00&lt;br/&gt;はじめに：準備が整う日は来ない
 準備が整う日は来ない。
 チャンスが目の前に来たら、まず掴む。
 **知識と技術は、掴んだあとに獲得すればいい。**それで問題ない。
@@ -122,6 +122,17 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:bafb7b921bf8d16187ba</id>
+    <title>設計はAIと後で直せ。Claude Codeと駆け抜けた「Vibe Coding」16時間のOSS開発記</title>
+    <link rel="alternate" href="https://qiita.com/take-yoda/items/bafb7b921bf8d16187ba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-05T18:54:12+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:54:12+09:00&lt;br/&gt;Updated: 2026-01-05T18:54:12+09:00&lt;br/&gt;設計なんて、後でAIと全部書き直せばいい
+株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。
+本記事は、Rust初学者の私がClaude Codeと共に、合計16時間でOSSツール uv-sbom を作り上げた全記録です。
+
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5eab2570dbed38021851</id>
     <title>JavaエンジニアがTypeScriptに触れて違いを感じた6つのポイント</title>
     <link rel="alternate" href="https://qiita.com/ebichan_88/items/5eab2570dbed38021851?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -129,17 +140,6 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
     <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ebichan_88&quot;&gt;ebichan_88&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T21:27:36+09:00&lt;br/&gt;Updated: 2026-01-06T23:49:28+09:00&lt;br/&gt;はじめに
 本記事は、JavaエンジニアがTypeScriptを扱う際に感じた違いを解説した記事です。
 これまで実務や個人開発でTypeScriptに触れていましたが、Javaの感覚でコードを読み進めていくと、TypeScript特有の概念や挙動に戸惑うことがありました。
-...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bafb7b921bf8d16187ba</id>
-    <title>設計はAIと後で直せ。Claude Codeと駆け抜けた「Vibe Coding」16時間のOSS開発記</title>
-    <link rel="alternate" href="https://qiita.com/take-yoda/items/bafb7b921bf8d16187ba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-05T18:54:12+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:54:12+09:00&lt;br/&gt;Updated: 2026-01-05T18:54:12+09:00&lt;br/&gt;設計なんて、後でAIと全部書き直せばいい
-株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。
-本記事は、Rust初学者の私がClaude Codeと共に、合計16時間でOSSツール uv-sbom を作り上げた全記録です。
-
 ...</summary>
   </entry>
   <entry>
