@@ -249,7 +249,7 @@ Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全
     <title>【C#】Channel&lt;T&gt;  でスレッド間通信をシンプルに</title>
     <link rel="alternate" href="https://qiita.com/Sakai_path/items/9bc0a7a0a68b50c8e138?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-07T12:22:24+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sakai_path&quot;&gt;Sakai_path&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T12:22:24+09:00&lt;br/&gt;Updated: 2026-01-07T12:22:24+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sakai_path&quot;&gt;Sakai_path&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T12:22:24+09:00&lt;br/&gt;Updated: 2026-01-07T12:22:24+09:00&lt;br/&gt;はじめに
 C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
 
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
@@ -320,6 +320,15 @@ OSS の コーディングAIエージェント Cline と Oracle データベー�
 そんな私が、生成AI（ChatGPT / Cla...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e5d0e562b85c3f6b5f27</id>
+    <title>【Select AI】クエリできすぎくんを使ってSelect AIを検証してみた（Part 1）</title>
+    <link rel="alternate" href="https://qiita.com/marfujim/items/e5d0e562b85c3f6b5f27?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-07T09:15:40+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/marfujim&quot;&gt;marfujim&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T09:15:39+09:00&lt;br/&gt;Updated: 2026-01-07T09:15:40+09:00&lt;br/&gt;はじめに
+「クエリできすぎくん」は、Select AIをGUI上から簡単に設定・検証できるツールです。
+AIプロファイルの作成やSQL生成、フィードバック管理などを全てブラウザ操作で行えるため、データベースを普段あまり触らない方でも  Select AIを気軽に試すことが...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:50d9d10938eea01d54f5</id>
     <title>パフォーマンスの悪いコードを指摘できるようになる</title>
     <link rel="alternate" href="https://qiita.com/Shoya-Miyata/items/50d9d10938eea01d54f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -365,15 +374,6 @@ TCPとUDPの違い
 
 Slack APIの3秒ルールとLambdaのコールドスタート問題
 Slack API（特にEvents APIやSlash Commands）をAWS Lambdaで受けていると、3秒ルー...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e5d0e562b85c3f6b5f27</id>
-    <title>【Select AI】クエリできすぎくんを使ってSelect AIを検証してみた（Part 1）</title>
-    <link rel="alternate" href="https://qiita.com/marfujim/items/e5d0e562b85c3f6b5f27?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-07T09:15:40+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/marfujim&quot;&gt;marfujim&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T09:15:39+09:00&lt;br/&gt;Updated: 2026-01-07T09:15:40+09:00&lt;br/&gt;はじめに
-「クエリできすぎくん」は、Select AIをGUI上から簡単に設定・検証できるツールです。
-AIプロファイルの作成やSQL生成、フィードバック管理などを全てブラウザ操作で行えるため、データベースを普段あまり触らない方でも  Select AIを気軽に試すことが...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3bd028c640d5f4ef0c23</id>
