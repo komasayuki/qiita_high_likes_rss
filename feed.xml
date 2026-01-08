@@ -22,7 +22,7 @@ PMに“技術力”は必要
     <title>拝啓、出社できなかった日の俺へ。──人生が止まったその日から、俺の挑戦が始まった。</title>
     <link rel="alternate" href="https://qiita.com/Keita-0025/items/c0fb3bed10f49b0ed523?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-09T00:02:14+09:00</updated>
-    <summary type="html">Likes: 179&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Keita-0025&quot;&gt;Keita-0025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T23:35:30+09:00&lt;br/&gt;Updated: 2026-01-09T00:02:14+09:00&lt;br/&gt;はじめに：準備が整う日は来ない
+    <summary type="html">Likes: 180&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Keita-0025&quot;&gt;Keita-0025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T23:35:30+09:00&lt;br/&gt;Updated: 2026-01-09T00:02:14+09:00&lt;br/&gt;はじめに：準備が整う日は来ない
 準備が整う日は来ない。
 チャンスが目の前に来たら、まず掴む。
 **知識と技術は、掴んだあとに獲得すればいい。**それで問題ない。
@@ -94,6 +94,15 @@ SAA (AWS Certified So...</summary>
 RAG（検索拡張生成）とは？...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:9e6595d7c6f6f0c90c4c</id>
+    <title>JSを使わずカルーセルを作る</title>
+    <link rel="alternate" href="https://qiita.com/kobayashimakoto/items/9e6595d7c6f6f0c90c4c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-06T08:29:44+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobayashimakoto&quot;&gt;kobayashimakoto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:32:18+09:00&lt;br/&gt;Updated: 2026-01-06T08:29:44+09:00&lt;br/&gt;はじめに
+カルーセルはWEBアプリケーションでよく採用されるUIコンポーネントの1つですが、一般的な実装パターンがなく、アクセシビリティを配慮しつつ実装するのも複雑で大変なので SlickやSwiperといったライブラリを採用するケースが多いのではないでしょうか。
+そんな...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1403f6be43bad5d085b3</id>
     <title>インターネットは軍事目的で始まった？歴史をざっくりと学ぶ</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/1403f6be43bad5d085b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -103,13 +112,13 @@ RAG（検索拡張生成）とは？...</summary>
 米国防総省のARPA（高等研究計画局）という機関が4台のコンピュータを繋いだのがはじまりです。3つの大学と、スタンフォード研究所（SRI）などの研究機関で繋がれており、ARPAN...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:9e6595d7c6f6f0c90c4c</id>
-    <title>JSを使わずカルーセルを作る</title>
-    <link rel="alternate" href="https://qiita.com/kobayashimakoto/items/9e6595d7c6f6f0c90c4c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-06T08:29:44+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobayashimakoto&quot;&gt;kobayashimakoto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:32:18+09:00&lt;br/&gt;Updated: 2026-01-06T08:29:44+09:00&lt;br/&gt;はじめに
-カルーセルはWEBアプリケーションでよく採用されるUIコンポーネントの1つですが、一般的な実装パターンがなく、アクセシビリティを配慮しつつ実装するのも複雑で大変なので SlickやSwiperといったライブラリを採用するケースが多いのではないでしょうか。
-そんな...</summary>
+    <id>tag:qiita.com,2026:a3e91b89b5ed9b266e91</id>
+    <title>情報はどうやって海を越えるのか？IPアドレスとDNSの関係性について</title>
+    <link rel="alternate" href="https://qiita.com/shibata1111/items/a3e91b89b5ed9b266e91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-07T18:15:47+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
+DNSは、URLに出てくる example.com みたいな名前を、通信に使えるIPアドレスに変換する仕組みです。
+インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ba93b20f744dc40c6690</id>
@@ -122,15 +131,6 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
 ただ、そ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a3e91b89b5ed9b266e91</id>
-    <title>情報はどうやって海を越えるのか？IPアドレスとDNSの関係性について</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/a3e91b89b5ed9b266e91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-07T18:15:47+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
-DNSは、URLに出てくる example.com みたいな名前を、通信に使えるIPアドレスに変換する仕組みです。
-インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:e5789268d7ba860b4ca4</id>
     <title>Windows を USB で持ち運ぶ：Hyper‑V + WinPE を使った VHDX ブート手法</title>
     <link rel="alternate" href="https://qiita.com/carol0226/items/e5789268d7ba860b4ca4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -140,6 +140,17 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
 本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:bafb7b921bf8d16187ba</id>
+    <title>設計はAIと後で直せ。Claude Codeと駆け抜けた「Vibe Coding」16時間のOSS開発記</title>
+    <link rel="alternate" href="https://qiita.com/take-yoda/items/bafb7b921bf8d16187ba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-05T18:54:12+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:54:12+09:00&lt;br/&gt;Updated: 2026-01-05T18:54:12+09:00&lt;br/&gt;設計なんて、後でAIと全部書き直せばいい
+株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。
+本記事は、Rust初学者の私がClaude Codeと共に、合計16時間でOSSツール uv-sbom を作り上げた全記録です。
+
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3eab3b2d1c116ced79a7</id>
     <title>動くMermaid：矢印アニメーションで通信を表現する</title>
     <link rel="alternate" href="https://qiita.com/sakaimaging/items/3eab3b2d1c116ced79a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -147,17 +158,6 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sakaimaging&quot;&gt;sakaimaging&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T13:24:45+09:00&lt;br/&gt;Updated: 2026-01-03T19:35:29+09:00&lt;br/&gt;はじめに
 Mermaid では、flowchart の矢印に animation を指定することで、通信が流れる様子をアニメーションとして表現できます。
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bafb7b921bf8d16187ba</id>
-    <title>設計はAIと後で直せ。Claude Codeと駆け抜けた「Vibe Coding」16時間のOSS開発記</title>
-    <link rel="alternate" href="https://qiita.com/take-yoda/items/bafb7b921bf8d16187ba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-05T18:54:12+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:54:12+09:00&lt;br/&gt;Updated: 2026-01-05T18:54:12+09:00&lt;br/&gt;設計なんて、後でAIと全部書き直せばいい
-株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。
-本記事は、Rust初学者の私がClaude Codeと共に、合計16時間でOSSツール uv-sbom を作り上げた全記録です。
-
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5eab2570dbed38021851</id>
@@ -195,7 +195,7 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
     <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-08T14:25:09+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
 自分でホームページを作ってログイン機能を実装しようとした時、こんな疑問に直面したことはありませんか？
 
 パスワードをそのまま保存していいの？
