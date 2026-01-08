@@ -126,7 +126,7 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
     <title>情報はどうやって海を越えるのか？IPアドレスとDNSの関係性について</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/a3e91b89b5ed9b266e91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-07T18:15:47+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
 DNSは、URLに出てくる example.com みたいな名前を、通信に使えるIPアドレスに変換する仕組みです。
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
   </entry>
@@ -191,6 +191,18 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:855524191d08f73a6748</id>
+    <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
+    <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-08T14:25:09+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
+自分でホームページを作ってログイン機能を実装しようとした時、こんな疑問に直面したことはありませんか？
+
+パスワードをそのまま保存していいの？
+ログイン後、URLを直打ちしたらログインせずに入れてしまうのでは？
+そもそも「ログインしている状態」ってどうやって維持さ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cb838bedfb33e9d5f1a7</id>
     <title>HTTPリクエストでどのような処理が行われているのか確認する</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/cb838bedfb33e9d5f1a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -211,6 +223,17 @@ Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全
 正しい利用方法やガイドについては、Mirosoft Learnや...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0b4a980f2f4bb073a9e0</id>
+    <title>Amplify &amp; AgentCoreのAIエージェントをAWS CDKでデプロイしよう！</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/0b4a980f2f4bb073a9e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-06T21:42:40+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T18:17:31+09:00&lt;br/&gt;Updated: 2026-01-06T21:42:40+09:00&lt;br/&gt;先日投稿したこちらの記事が好評だったため、AWS CDKを使ってフルIaCでデプロイする手順も解説します！
+
+フルサーバーレスで維持費激安なのが嬉しいポイントです。
+
+モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:71d6db6f9d4349a7c63f</id>
     <title>言語仕様ボリュームだけで見るC++の進化</title>
     <link rel="alternate" href="https://qiita.com/yohhoy/items/71d6db6f9d4349a7c63f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -220,29 +243,6 @@ Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全
 2025年12月現在&quot;C++26&quot;はISO/IEC標準規格としては未発行のため、代わりに最新Working Draft N5032（2025-12-15）を参照しています。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0b4a980f2f4bb073a9e0</id>
-    <title>Amplify &amp; AgentCoreのAIエージェントをAWS CDKでデプロイしよう！</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/0b4a980f2f4bb073a9e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-06T21:42:40+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T18:17:31+09:00&lt;br/&gt;Updated: 2026-01-06T21:42:40+09:00&lt;br/&gt;先日投稿したこちらの記事が好評だったため、AWS CDKを使ってフルIaCでデプロイする手順も解説します！
-
-フルサーバーレスで維持費激安なのが嬉しいポイントです。
-
-モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:855524191d08f73a6748</id>
-    <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-08T14:25:09+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
-自分でホームページを作ってログイン機能を実装しようとした時、こんな疑問に直面したことはありませんか？
-
-パスワードをそのまま保存していいの？
-ログイン後、URLを直打ちしたらログインせずに入れてしまうのでは？
-そもそも「ログインしている状態」ってどうやって維持さ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9bc0a7a0a68b50c8e138</id>
