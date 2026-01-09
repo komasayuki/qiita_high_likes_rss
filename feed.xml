@@ -107,7 +107,7 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
     <title>インターネットは軍事目的で始まった？歴史をざっくりと学ぶ</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/1403f6be43bad5d085b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-07T11:40:06+09:00</updated>
-    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T11:35:04+09:00&lt;br/&gt;Updated: 2026-01-07T11:40:06+09:00&lt;br/&gt;インターネットが開発されてからWebサイトができるまで
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T11:35:04+09:00&lt;br/&gt;Updated: 2026-01-07T11:40:06+09:00&lt;br/&gt;インターネットが開発されてからWebサイトができるまで
 インターネットの始まりは1969年。
 米国防総省のARPA（高等研究計画局）という機関が4台のコンピュータを繋いだのがはじまりです。3つの大学と、スタンフォード研究所（SRI）などの研究機関で繋がれており、ARPAN...</summary>
   </entry>
@@ -116,7 +116,7 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
     <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-08T14:25:09+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
 自分でホームページを作ってログイン機能を実装しようとした時、こんな疑問に直面したことはありませんか？
 
 パスワードをそのまま保存していいの？
@@ -172,6 +172,16 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:9bc0a7a0a68b50c8e138</id>
+    <title>【C#】Channel&lt;T&gt;  でスレッド間通信をシンプルに</title>
+    <link rel="alternate" href="https://qiita.com/Sakai_path/items/9bc0a7a0a68b50c8e138?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-07T12:22:24+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sakai_path&quot;&gt;Sakai_path&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T12:22:24+09:00&lt;br/&gt;Updated: 2026-01-07T12:22:24+09:00&lt;br/&gt;はじめに
+C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
+
+Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5eab2570dbed38021851</id>
     <title>JavaエンジニアがTypeScriptに触れて違いを感じた6つのポイント</title>
     <link rel="alternate" href="https://qiita.com/ebichan_88/items/5eab2570dbed38021851?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -180,16 +190,6 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 本記事は、JavaエンジニアがTypeScriptを扱う際に感じた違いを解説した記事です。
 これまで実務や個人開発でTypeScriptに触れていましたが、Javaの感覚でコードを読み進めていくと、TypeScript特有の概念や挙動に戸惑うことがありました。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9bc0a7a0a68b50c8e138</id>
-    <title>【C#】Channel&lt;T&gt;  でスレッド間通信をシンプルに</title>
-    <link rel="alternate" href="https://qiita.com/Sakai_path/items/9bc0a7a0a68b50c8e138?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-07T12:22:24+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sakai_path&quot;&gt;Sakai_path&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T12:22:24+09:00&lt;br/&gt;Updated: 2026-01-07T12:22:24+09:00&lt;br/&gt;はじめに
-C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
-
-Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0b4a980f2f4bb073a9e0</id>
@@ -215,6 +215,16 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cb838bedfb33e9d5f1a7</id>
+    <title>HTTPリクエストでどのような処理が行われているのか確認する</title>
+    <link rel="alternate" href="https://qiita.com/shibata1111/items/cb838bedfb33e9d5f1a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-07T17:33:59+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:33:58+09:00&lt;br/&gt;Updated: 2026-01-07T17:33:59+09:00&lt;br/&gt;HTTPとはなんなのか？
+HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウェブサーバーの間でHTMLファイルや画像などのウェブ情報をやり取りするための通信ルール（プロトコル）です。
+1回の通信で最低限起きていること
+1. ブ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
     <title>Microsoft 365 Copilotに色々な方法でパワポ作成を丸投げしてみた</title>
     <link rel="alternate" href="https://qiita.com/Oyu3m/items/7c9c19c257be35f5dcec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -232,16 +242,6 @@ Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mnoguchi&quot;&gt;mnoguchi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T17:07:20+09:00&lt;br/&gt;Updated: 2026-01-05T17:07:20+09:00&lt;br/&gt;はじめに
 ソフトウェア開発の現場では、論理や技術だけでは解決できない「人間」にまつわる課題が数多く存在します。会議で意見が出ない、レビューで感情的なすれ違いが起きる、設計がなかなか進まない、やる気が出ない――こうした悩みの多くは、人の心理や行動パターンに起因しています。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cb838bedfb33e9d5f1a7</id>
-    <title>HTTPリクエストでどのような処理が行われているのか確認する</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/cb838bedfb33e9d5f1a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-07T17:33:59+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:33:58+09:00&lt;br/&gt;Updated: 2026-01-07T17:33:59+09:00&lt;br/&gt;HTTPとはなんなのか？
-HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウェブサーバーの間でHTMLファイルや画像などのウェブ情報をやり取りするための通信ルール（プロトコル）です。
-1回の通信で最低限起きていること
-1. ブ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:71d6db6f9d4349a7c63f</id>
@@ -277,7 +277,7 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
     <title>モダンPython開発環境：uv＋ruff＋pytest</title>
     <link rel="alternate" href="https://qiita.com/ssc-yshikeda/items/d39facb5db154d69681c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-06T11:01:55+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssc-yshikeda&quot;&gt;ssc-yshikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T11:01:55+09:00&lt;br/&gt;Updated: 2026-01-06T11:01:55+09:00&lt;br/&gt;上図はNotebookLMで作成しました。
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssc-yshikeda&quot;&gt;ssc-yshikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T11:01:55+09:00&lt;br/&gt;Updated: 2026-01-06T11:01:55+09:00&lt;br/&gt;上図はNotebookLMで作成しました。
 
 はじめに
 Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」という組み合わせが定番でした。しかし、Rust製の高速ツールが台頭し、開発体験が劇的に向上しています。本記事では、Mac環...</summary>
