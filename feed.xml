@@ -103,6 +103,18 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:855524191d08f73a6748</id>
+    <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
+    <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-08T14:25:09+09:00</updated>
+    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
+自分でホームページを作ってログイン機能を実装しようとした時、こんな疑問に直面したことはありませんか？
+
+パスワードをそのまま保存していいの？
+ログイン後、URLを直打ちしたらログインせずに入れてしまうのでは？
+そもそも「ログインしている状態」ってどうやって維持さ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1403f6be43bad5d085b3</id>
     <title>インターネットは軍事目的で始まった？歴史をざっくりと学ぶ</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/1403f6be43bad5d085b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -110,18 +122,6 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
     <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T11:35:04+09:00&lt;br/&gt;Updated: 2026-01-07T11:40:06+09:00&lt;br/&gt;インターネットが開発されてからWebサイトができるまで
 インターネットの始まりは1969年。
 米国防総省のARPA（高等研究計画局）という機関が4台のコンピュータを繋いだのがはじまりです。3つの大学と、スタンフォード研究所（SRI）などの研究機関で繋がれており、ARPAN...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:855524191d08f73a6748</id>
-    <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-08T14:25:09+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
-自分でホームページを作ってログイン機能を実装しようとした時、こんな疑問に直面したことはありませんか？
-
-パスワードをそのまま保存していいの？
-ログイン後、URLを直打ちしたらログインせずに入れてしまうのでは？
-そもそも「ログインしている状態」ってどうやって維持さ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9e6595d7c6f6f0c90c4c</id>
@@ -192,6 +192,16 @@ Channel は、こうした「ステージ間の受け渡し」を .NET らしい
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cb838bedfb33e9d5f1a7</id>
+    <title>HTTPリクエストでどのような処理が行われているのか確認する</title>
+    <link rel="alternate" href="https://qiita.com/shibata1111/items/cb838bedfb33e9d5f1a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-07T17:33:59+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:33:58+09:00&lt;br/&gt;Updated: 2026-01-07T17:33:59+09:00&lt;br/&gt;HTTPとはなんなのか？
+HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウェブサーバーの間でHTMLファイルや画像などのウェブ情報をやり取りするための通信ルール（プロトコル）です。
+1回の通信で最低限起きていること
+1. ブ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0b4a980f2f4bb073a9e0</id>
     <title>Amplify &amp; AgentCoreのAIエージェントをAWS CDKでデプロイしよう！</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/0b4a980f2f4bb073a9e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -213,16 +223,6 @@ Channel は、こうした「ステージ間の受け渡し」を .NET らしい
 GMOコネクトの大谷です。
 H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」として大きく報じられました。
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cb838bedfb33e9d5f1a7</id>
-    <title>HTTPリクエストでどのような処理が行われているのか確認する</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/cb838bedfb33e9d5f1a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-07T17:33:59+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:33:58+09:00&lt;br/&gt;Updated: 2026-01-07T17:33:59+09:00&lt;br/&gt;HTTPとはなんなのか？
-HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウェブサーバーの間でHTMLファイルや画像などのウェブ情報をやり取りするための通信ルール（プロトコル）です。
-1回の通信で最低限起きていること
-1. ブ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
@@ -255,6 +255,16 @@ Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d39facb5db154d69681c</id>
+    <title>モダンPython開発環境：uv＋ruff＋pytest</title>
+    <link rel="alternate" href="https://qiita.com/ssc-yshikeda/items/d39facb5db154d69681c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-06T11:01:55+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssc-yshikeda&quot;&gt;ssc-yshikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T11:01:55+09:00&lt;br/&gt;Updated: 2026-01-06T11:01:55+09:00&lt;br/&gt;上図はNotebookLMで作成しました。
+
+はじめに
+Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」という組み合わせが定番でした。しかし、Rust製の高速ツールが台頭し、開発体験が劇的に向上しています。本記事では、Mac環...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4d28c47b1b6f7ef727cf</id>
     <title>【ポケモン×Java】知識編 ERROR #6 実行時エラーを防止するには？</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/4d28c47b1b6f7ef727cf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -271,16 +281,6 @@ Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全
 バトルの最中にゲームがフリーズする状態。
 止まる以上、「あとで考えよう」はできません。
 この章では、「どう直すか...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d39facb5db154d69681c</id>
-    <title>モダンPython開発環境：uv＋ruff＋pytest</title>
-    <link rel="alternate" href="https://qiita.com/ssc-yshikeda/items/d39facb5db154d69681c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-06T11:01:55+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssc-yshikeda&quot;&gt;ssc-yshikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T11:01:55+09:00&lt;br/&gt;Updated: 2026-01-06T11:01:55+09:00&lt;br/&gt;上図はNotebookLMで作成しました。
-
-はじめに
-Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」という組み合わせが定番でした。しかし、Rust製の高速ツールが台頭し、開発体験が劇的に向上しています。本記事では、Mac環...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4744d1d9cd9dde962652</id>
@@ -384,6 +384,14 @@ TCPとUDPの違い
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1adb4495e74c1dbcd6c6</id>
+    <title>Pythonで描くカオスの世界：二重振り子シミュレーターを作ってみよう</title>
+    <link rel="alternate" href="https://qiita.com/abcdefg123/items/1adb4495e74c1dbcd6c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-07T03:28:15+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/abcdefg123&quot;&gt;abcdefg123&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T03:27:15+09:00&lt;br/&gt;Updated: 2026-01-07T03:28:15+09:00&lt;br/&gt;「単純な仕組みなのに、予測不能な動きをする」。そんな物理現象の代表格が二重振り子です。
+一重の振り子は規則正しく揺れますが、振り子の先にもう一つの振り子をつなげるだけで、その軌道は驚くほど複雑で、少しの初期値の違いが将来の挙動を劇的に変えてしまいます。これがいわゆる**「カ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:091f7b3a976816b96145</id>
     <title>2025年振り返り：私たちがチャットをやめ、「推論」を始めた年</title>
     <link rel="alternate" href="https://qiita.com/quan_le/items/091f7b3a976816b96145?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -429,14 +437,6 @@ boto3を使ったPythonアプリケーションで、aws loginコマンドで認
     <updated>2026-01-07T10:05:17+09:00</updated>
     <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/melksg&quot;&gt;melksg&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T09:53:29+09:00&lt;br/&gt;Updated: 2026-01-07T10:05:17+09:00&lt;br/&gt;はじめに
 2025年12月1～5日に開催されたAWS re:Invent 2025に現地参加し、現地限定である「Gamified learning」について、GameDay、Jamに加えて今年度初開催のre:Architecture Rodeo、Tabletop Expe...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1adb4495e74c1dbcd6c6</id>
-    <title>Pythonで描くカオスの世界：二重振り子シミュレーターを作ってみよう</title>
-    <link rel="alternate" href="https://qiita.com/abcdefg123/items/1adb4495e74c1dbcd6c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-07T03:28:15+09:00</updated>
-    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/abcdefg123&quot;&gt;abcdefg123&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T03:27:15+09:00&lt;br/&gt;Updated: 2026-01-07T03:28:15+09:00&lt;br/&gt;「単純な仕組みなのに、予測不能な動きをする」。そんな物理現象の代表格が二重振り子です。
-一重の振り子は規則正しく揺れますが、振り子の先にもう一つの振り子をつなげるだけで、その軌道は驚くほど複雑で、少しの初期値の違いが将来の挙動を劇的に変えてしまいます。これがいわゆる**「カ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1a4e9cef5c452cb00f2c</id>
