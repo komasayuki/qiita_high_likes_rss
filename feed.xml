@@ -68,6 +68,18 @@ SAA (AWS Certified So...</summary>
 これ、目指している人ほど気になる一方で、いざ探すと“キラキラした成功談”か“技術だけの話”に偏りがちで、実務の肌...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:855524191d08f73a6748</id>
+    <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
+    <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-08T14:25:09+09:00</updated>
+    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
+自分でホームページを作ってログイン機能を実装しようとした時、こんな疑問に直面したことはありませんか？
+
+パスワードをそのまま保存していいの？
+ログイン後、URLを直打ちしたらログインせずに入れてしまうのでは？
+そもそも「ログインしている状態」ってどうやって維持さ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bd5266a987d082caea16</id>
     <title>【狂気の実証実験2】GPTsに電気ショック権限を付与してみた</title>
     <link rel="alternate" href="https://qiita.com/motoya0118/items/bd5266a987d082caea16?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -94,23 +106,11 @@ SAA (AWS Certified So...</summary>
 RAG（検索拡張生成）とは？...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:855524191d08f73a6748</id>
-    <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-08T14:25:09+09:00</updated>
-    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
-自分でホームページを作ってログイン機能を実装しようとした時、こんな疑問に直面したことはありませんか？
-
-パスワードをそのまま保存していいの？
-ログイン後、URLを直打ちしたらログインせずに入れてしまうのでは？
-そもそも「ログインしている状態」ってどうやって維持さ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:a3e91b89b5ed9b266e91</id>
     <title>情報はどうやって海を越えるのか？IPアドレスとDNSの関係性について</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/a3e91b89b5ed9b266e91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-07T18:15:47+09:00</updated>
-    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
+    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
 DNSは、URLに出てくる example.com みたいな名前を、通信に使えるIPアドレスに変換する仕組みです。
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
   </entry>
@@ -182,21 +182,11 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5eab2570dbed38021851</id>
-    <title>JavaエンジニアがTypeScriptに触れて違いを感じた6つのポイント</title>
-    <link rel="alternate" href="https://qiita.com/ebichan_88/items/5eab2570dbed38021851?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-06T23:49:28+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ebichan_88&quot;&gt;ebichan_88&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T21:27:36+09:00&lt;br/&gt;Updated: 2026-01-06T23:49:28+09:00&lt;br/&gt;はじめに
-本記事は、JavaエンジニアがTypeScriptを扱う際に感じた違いを解説した記事です。
-これまで実務や個人開発でTypeScriptに触れていましたが、Javaの感覚でコードを読み進めていくと、TypeScript特有の概念や挙動に戸惑うことがありました。
-...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:cb838bedfb33e9d5f1a7</id>
     <title>HTTPリクエストでどのような処理が行われているのか確認する</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/cb838bedfb33e9d5f1a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-07T17:33:59+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:33:58+09:00&lt;br/&gt;Updated: 2026-01-07T17:33:59+09:00&lt;br/&gt;HTTPとはなんなのか？
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:33:58+09:00&lt;br/&gt;Updated: 2026-01-07T17:33:59+09:00&lt;br/&gt;HTTPとはなんなのか？
 HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウェブサーバーの間でHTMLファイルや画像などのウェブ情報をやり取りするための通信ルール（プロトコル）です。
 1回の通信で最低限起きていること
 1. ブ...</summary>
@@ -206,10 +196,20 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
     <title>Microsoft 365 Copilotに色々な方法でパワポ作成を丸投げしてみた</title>
     <link rel="alternate" href="https://qiita.com/Oyu3m/items/7c9c19c257be35f5dcec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-07T01:53:34+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Oyu3m&quot;&gt;Oyu3m&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T01:53:34+09:00&lt;br/&gt;Updated: 2026-01-07T01:53:34+09:00&lt;br/&gt;前提
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Oyu3m&quot;&gt;Oyu3m&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T01:53:34+09:00&lt;br/&gt;Updated: 2026-01-07T01:53:34+09:00&lt;br/&gt;前提
 
 Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全然違うものが出来上がります。一部酷評しているのは製品を揶揄しているのではなく、結果を面白く表現しているだけです。
 正しい利用方法やガイドについては、Mirosoft Learnや...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5eab2570dbed38021851</id>
+    <title>JavaエンジニアがTypeScriptに触れて違いを感じた6つのポイント</title>
+    <link rel="alternate" href="https://qiita.com/ebichan_88/items/5eab2570dbed38021851?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-06T23:49:28+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ebichan_88&quot;&gt;ebichan_88&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T21:27:36+09:00&lt;br/&gt;Updated: 2026-01-06T23:49:28+09:00&lt;br/&gt;はじめに
+本記事は、JavaエンジニアがTypeScriptを扱う際に感じた違いを解説した記事です。
+これまで実務や個人開発でTypeScriptに触れていましたが、Javaの感覚でコードを読み進めていくと、TypeScript特有の概念や挙動に戸惑うことがありました。
+...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0b4a980f2f4bb073a9e0</id>
