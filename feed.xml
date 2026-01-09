@@ -62,7 +62,7 @@ SAA (AWS Certified So...</summary>
     <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-08T14:25:09+09:00</updated>
-    <summary type="html">Likes: 86&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 87&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
 自分でホームページを作ってログイン機能を実装しようとした時、こんな疑問に直面したことはありませんか？
 
 パスワードをそのまま保存していいの？
@@ -110,7 +110,7 @@ RAG（検索拡張生成）とは？...</summary>
     <title>情報はどうやって海を越えるのか？IPアドレスとDNSの関係性について</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/a3e91b89b5ed9b266e91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-07T18:15:47+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
+    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
 DNSは、URLに出てくる example.com みたいな名前を、通信に使えるIPアドレスに変換する仕組みです。
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
   </entry>
@@ -248,7 +248,7 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
     <title>【ポケモン×Java】知識編 ERROR #6 実行時エラーを防止するには？</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/4d28c47b1b6f7ef727cf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-08T14:12:28+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:12:28+09:00&lt;br/&gt;Updated: 2026-01-08T14:12:28+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:12:28+09:00&lt;br/&gt;Updated: 2026-01-08T14:12:28+09:00&lt;br/&gt;はじめに
 実行時エラーの一番の特徴は、
 途中でプログラムが止まることです。
 
@@ -327,6 +327,16 @@ OSS の コーディングAIエージェント Cline と Oracle データベー�
 はじめまして。東海地区で建築設計事務所を経営している建築士です。
 いきなりですが、私はプログラミングの知識はゼロです。Pythonは「ヘビの種類？」だと思っていました。
 そんな私が、生成AI（ChatGPT / Cla...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:a69ce52cc2862af7ebc9</id>
+    <title>Python開発の初速を上げるためのテンプレート設計</title>
+    <link rel="alternate" href="https://qiita.com/kobori_akira/items/a69ce52cc2862af7ebc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-09T16:06:28+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobori_akira&quot;&gt;kobori_akira&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T07:57:11+09:00&lt;br/&gt;Updated: 2026-01-09T16:06:28+09:00&lt;br/&gt;はじめに
+「ちょっとしたアイデアを試してみたい」と思ったとき、どのように開発を始めるでしょうか。
+おそらく「とりあえず書いてみる」というのが一般的だと思います。生成AIの活用が浸透した現在では、より「試しに書かせてみる」ということがやりやすくなりました。
+一方でそのように...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b5461b1ed9f98b0a42fc</id>
@@ -419,6 +429,17 @@ boto3を使ったPythonアプリケーションで、aws loginコマンドで認
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c241b9c10d259a9b4efc</id>
+    <title>AWS初心者がAmazon Connectで簡単なコールセンターを構築した話</title>
+    <link rel="alternate" href="https://qiita.com/tks_1128/items/c241b9c10d259a9b4efc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-08T21:08:48+09:00</updated>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tks_1128&quot;&gt;tks_1128&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T21:08:48+09:00&lt;br/&gt;Updated: 2026-01-08T21:08:48+09:00&lt;br/&gt;はじめに
+こんにちは。Tsukasaです！
+皆さんAmazon Connectはご存知でしょうか？
+私は昨年のAWS Summitで初めてこのサービスを知りました。
+中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3e99756853dbe5209660</id>
     <title>Copilot Studioを利用したデータ取得：ナレッジ（RAG）とツールの使い分けを仕様や挙動をもとに整理したい</title>
     <link rel="alternate" href="https://qiita.com/tomoyasasaki1204/items/3e99756853dbe5209660?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -472,27 +493,6 @@ if / elsif / else のような条件分岐が増える
 業務自動化の仕事をしていて、VBAやPower Automateなどを使った効率化を行ってきました。
 その中でも最近では、LLMを活用した「社内ナレッジ検索」や「文書分析」のニーズが高まっていると肌で感じています。
 そして、個人開発ではStreamlit + L...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a69ce52cc2862af7ebc9</id>
-    <title>Python開発の初速を上げるためのテンプレート設計</title>
-    <link rel="alternate" href="https://qiita.com/kobori_akira/items/a69ce52cc2862af7ebc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-09T16:06:28+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobori_akira&quot;&gt;kobori_akira&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T07:57:11+09:00&lt;br/&gt;Updated: 2026-01-09T16:06:28+09:00&lt;br/&gt;はじめに
-「ちょっとしたアイデアを試してみたい」と思ったとき、どのように開発を始めるでしょうか。
-おそらく「とりあえず書いてみる」というのが一般的だと思います。生成AIの活用が浸透した現在では、より「試しに書かせてみる」ということがやりやすくなりました。
-一方でそのように...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c241b9c10d259a9b4efc</id>
-    <title>AWS初心者がAmazon Connectで簡単なコールセンターを構築した話</title>
-    <link rel="alternate" href="https://qiita.com/tks_1128/items/c241b9c10d259a9b4efc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-08T21:08:48+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tks_1128&quot;&gt;tks_1128&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T21:08:48+09:00&lt;br/&gt;Updated: 2026-01-08T21:08:48+09:00&lt;br/&gt;はじめに
-こんにちは。Tsukasaです！
-皆さんAmazon Connectはご存知でしょうか？
-私は昨年のAWS Summitで初めてこのサービスを知りました。
-中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1a3e62d874cc376d42d6</id>
