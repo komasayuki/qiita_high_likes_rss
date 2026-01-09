@@ -62,7 +62,7 @@ SAA (AWS Certified So...</summary>
     <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-08T14:25:09+09:00</updated>
-    <summary type="html">Likes: 94&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
 自分でホームページを作ってログイン機能を実装しようとした時、こんな疑問に直面したことはありませんか？
 
 パスワードをそのまま保存していいの？
@@ -196,7 +196,7 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
     <title>HTTPリクエストでどのような処理が行われているのか確認する</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/cb838bedfb33e9d5f1a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-07T17:33:59+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:33:58+09:00&lt;br/&gt;Updated: 2026-01-07T17:33:59+09:00&lt;br/&gt;HTTPとはなんなのか？
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:33:58+09:00&lt;br/&gt;Updated: 2026-01-07T17:33:59+09:00&lt;br/&gt;HTTPとはなんなのか？
 HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウェブサーバーの間でHTMLファイルや画像などのウェブ情報をやり取りするための通信ルール（プロトコル）です。
 1回の通信で最低限起きていること
 1. ブ...</summary>
@@ -287,7 +287,7 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
     <title>Python開発の初速を上げるためのテンプレート設計</title>
     <link rel="alternate" href="https://qiita.com/kobori_akira/items/a69ce52cc2862af7ebc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-09T16:06:28+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobori_akira&quot;&gt;kobori_akira&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T07:57:11+09:00&lt;br/&gt;Updated: 2026-01-09T16:06:28+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobori_akira&quot;&gt;kobori_akira&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T07:57:11+09:00&lt;br/&gt;Updated: 2026-01-09T16:06:28+09:00&lt;br/&gt;はじめに
 「ちょっとしたアイデアを試してみたい」と思ったとき、どのように開発を始めるでしょうか。
 おそらく「とりあえず書いてみる」というのが一般的だと思います。生成AIの活用が浸透した現在では、より「試しに書かせてみる」ということがやりやすくなりました。
 一方でそのように...</summary>
@@ -339,6 +339,17 @@ OSS の コーディングAIエージェント Cline と Oracle データベー�
 そんな私が、生成AI（ChatGPT / Cla...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c241b9c10d259a9b4efc</id>
+    <title>AWS初心者がAmazon Connectで簡単なコールセンターを構築した話</title>
+    <link rel="alternate" href="https://qiita.com/tks_1128/items/c241b9c10d259a9b4efc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-08T21:08:48+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tks_1128&quot;&gt;tks_1128&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T21:08:48+09:00&lt;br/&gt;Updated: 2026-01-08T21:08:48+09:00&lt;br/&gt;はじめに
+こんにちは。Tsukasaです！
+皆さんAmazon Connectはご存知でしょうか？
+私は昨年のAWS Summitで初めてこのサービスを知りました。
+中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b5461b1ed9f98b0a42fc</id>
     <title>Slack APIの3秒ルールとLambdaコールドスタート、まずはメモリを上げよう</title>
     <link rel="alternate" href="https://qiita.com/koto-t/items/b5461b1ed9f98b0a42fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -384,17 +395,6 @@ TCPとUDPの違い
     <updated>2026-01-04T05:20:28+09:00</updated>
     <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/AInsights&quot;&gt;AInsights&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T05:20:28+09:00&lt;br/&gt;Updated: 2026-01-04T05:20:28+09:00&lt;br/&gt;ソフトウェアエンジニアリングにおけるプログラミング言語選定の戦略的アプローチ 🚀
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c241b9c10d259a9b4efc</id>
-    <title>AWS初心者がAmazon Connectで簡単なコールセンターを構築した話</title>
-    <link rel="alternate" href="https://qiita.com/tks_1128/items/c241b9c10d259a9b4efc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-08T21:08:48+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tks_1128&quot;&gt;tks_1128&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T21:08:48+09:00&lt;br/&gt;Updated: 2026-01-08T21:08:48+09:00&lt;br/&gt;はじめに
-こんにちは。Tsukasaです！
-皆さんAmazon Connectはご存知でしょうか？
-私は昨年のAWS Summitで初めてこのサービスを知りました。
-中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1adb4495e74c1dbcd6c6</id>
