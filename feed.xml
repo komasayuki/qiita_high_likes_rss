@@ -98,7 +98,7 @@ RAG（検索拡張生成）とは？...</summary>
     <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-08T14:25:09+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
 自分でホームページを作ってログイン機能を実装しようとした時、こんな疑問に直面したことはありませんか？
 
 パスワードをそのまま保存していいの？
@@ -110,7 +110,7 @@ RAG（検索拡張生成）とは？...</summary>
     <title>情報はどうやって海を越えるのか？IPアドレスとDNSの関係性について</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/a3e91b89b5ed9b266e91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-07T18:15:47+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
+    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
 DNSは、URLに出てくる example.com みたいな名前を、通信に使えるIPアドレスに変換する仕組みです。
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
   </entry>
@@ -119,7 +119,7 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
     <title>インターネットは軍事目的で始まった？歴史をざっくりと学ぶ</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/1403f6be43bad5d085b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-07T11:40:06+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T11:35:04+09:00&lt;br/&gt;Updated: 2026-01-07T11:40:06+09:00&lt;br/&gt;インターネットが開発されてからWebサイトができるまで
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T11:35:04+09:00&lt;br/&gt;Updated: 2026-01-07T11:40:06+09:00&lt;br/&gt;インターネットが開発されてからWebサイトができるまで
 インターネットの始まりは1969年。
 米国防総省のARPA（高等研究計画局）という機関が4台のコンピュータを繋いだのがはじまりです。3つの大学と、スタンフォード研究所（SRI）などの研究機関で繋がれており、ARPAN...</summary>
   </entry>
@@ -192,22 +192,11 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:0b4a980f2f4bb073a9e0</id>
-    <title>Amplify &amp; AgentCoreのAIエージェントをAWS CDKでデプロイしよう！</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/0b4a980f2f4bb073a9e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-06T21:42:40+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T18:17:31+09:00&lt;br/&gt;Updated: 2026-01-06T21:42:40+09:00&lt;br/&gt;先日投稿したこちらの記事が好評だったため、AWS CDKを使ってフルIaCでデプロイする手順も解説します！
-
-フルサーバーレスで維持費激安なのが嬉しいポイントです。
-
-モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:cb838bedfb33e9d5f1a7</id>
     <title>HTTPリクエストでどのような処理が行われているのか確認する</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/cb838bedfb33e9d5f1a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-07T17:33:59+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:33:58+09:00&lt;br/&gt;Updated: 2026-01-07T17:33:59+09:00&lt;br/&gt;HTTPとはなんなのか？
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:33:58+09:00&lt;br/&gt;Updated: 2026-01-07T17:33:59+09:00&lt;br/&gt;HTTPとはなんなのか？
 HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウェブサーバーの間でHTMLファイルや画像などのウェブ情報をやり取りするための通信ルール（プロトコル）です。
 1回の通信で最低限起きていること
 1. ブ...</summary>
@@ -217,10 +206,21 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
     <title>Microsoft 365 Copilotに色々な方法でパワポ作成を丸投げしてみた</title>
     <link rel="alternate" href="https://qiita.com/Oyu3m/items/7c9c19c257be35f5dcec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-07T01:53:34+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Oyu3m&quot;&gt;Oyu3m&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T01:53:34+09:00&lt;br/&gt;Updated: 2026-01-07T01:53:34+09:00&lt;br/&gt;前提
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Oyu3m&quot;&gt;Oyu3m&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T01:53:34+09:00&lt;br/&gt;Updated: 2026-01-07T01:53:34+09:00&lt;br/&gt;前提
 
 Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全然違うものが出来上がります。一部酷評しているのは製品を揶揄しているのではなく、結果を面白く表現しているだけです。
 正しい利用方法やガイドについては、Mirosoft Learnや...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:0b4a980f2f4bb073a9e0</id>
+    <title>Amplify &amp; AgentCoreのAIエージェントをAWS CDKでデプロイしよう！</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/0b4a980f2f4bb073a9e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-06T21:42:40+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T18:17:31+09:00&lt;br/&gt;Updated: 2026-01-06T21:42:40+09:00&lt;br/&gt;先日投稿したこちらの記事が好評だったため、AWS CDKを使ってフルIaCでデプロイする手順も解説します！
+
+フルサーバーレスで維持費激安なのが嬉しいポイントです。
+
+モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:db798b2e5805c51a64c1</id>
