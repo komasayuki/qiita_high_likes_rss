@@ -62,7 +62,7 @@ SAA (AWS Certified So...</summary>
     <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-08T14:25:09+09:00</updated>
-    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 86&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
 自分でホームページを作ってログイン機能を実装しようとした時、こんな疑問に直面したことはありませんか？
 
 パスワードをそのまま保存していいの？
@@ -110,7 +110,7 @@ RAG（検索拡張生成）とは？...</summary>
     <title>情報はどうやって海を越えるのか？IPアドレスとDNSの関係性について</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/a3e91b89b5ed9b266e91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-07T18:15:47+09:00</updated>
-    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
+    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
 DNSは、URLに出てくる example.com みたいな名前を、通信に使えるIPアドレスに変換する仕組みです。
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
   </entry>
@@ -182,6 +182,16 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
+    <title>Microsoft 365 Copilotに色々な方法でパワポ作成を丸投げしてみた</title>
+    <link rel="alternate" href="https://qiita.com/Oyu3m/items/7c9c19c257be35f5dcec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-07T01:53:34+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Oyu3m&quot;&gt;Oyu3m&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T01:53:34+09:00&lt;br/&gt;Updated: 2026-01-07T01:53:34+09:00&lt;br/&gt;前提
+
+Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全然違うものが出来上がります。一部酷評しているのは製品を揶揄しているのではなく、結果を面白く表現しているだけです。
+正しい利用方法やガイドについては、Mirosoft Learnや...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cb838bedfb33e9d5f1a7</id>
     <title>HTTPリクエストでどのような処理が行われているのか確認する</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/cb838bedfb33e9d5f1a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -190,16 +200,6 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウェブサーバーの間でHTMLファイルや画像などのウェブ情報をやり取りするための通信ルール（プロトコル）です。
 1回の通信で最低限起きていること
 1. ブ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
-    <title>Microsoft 365 Copilotに色々な方法でパワポ作成を丸投げしてみた</title>
-    <link rel="alternate" href="https://qiita.com/Oyu3m/items/7c9c19c257be35f5dcec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-07T01:53:34+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Oyu3m&quot;&gt;Oyu3m&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T01:53:34+09:00&lt;br/&gt;Updated: 2026-01-07T01:53:34+09:00&lt;br/&gt;前提
-
-Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全然違うものが出来上がります。一部酷評しているのは製品を揶揄しているのではなく、結果を面白く表現しているだけです。
-正しい利用方法やガイドについては、Mirosoft Learnや...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5eab2570dbed38021851</id>
@@ -376,20 +376,20 @@ TCPとUDPの違い
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1adb4495e74c1dbcd6c6</id>
+    <title>Pythonで描くカオスの世界：二重振り子シミュレーターを作ってみよう</title>
+    <link rel="alternate" href="https://qiita.com/abcdefg123/items/1adb4495e74c1dbcd6c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-07T03:28:15+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/abcdefg123&quot;&gt;abcdefg123&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T03:27:15+09:00&lt;br/&gt;Updated: 2026-01-07T03:28:15+09:00&lt;br/&gt;「単純な仕組みなのに、予測不能な動きをする」。そんな物理現象の代表格が二重振り子です。
+一重の振り子は規則正しく揺れますが、振り子の先にもう一つの振り子をつなげるだけで、その軌道は驚くほど複雑で、少しの初期値の違いが将来の挙動を劇的に変えてしまいます。これがいわゆる**「カ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3bd028c640d5f4ef0c23</id>
     <title>多様体論の全体像</title>
     <link rel="alternate" href="https://qiita.com/KimuraSoh/items/3bd028c640d5f4ef0c23?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-03T09:15:39+09:00</updated>
     <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KimuraSoh&quot;&gt;KimuraSoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T09:15:39+09:00&lt;br/&gt;Updated: 2026-01-03T09:15:39+09:00&lt;br/&gt;はじめに
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1adb4495e74c1dbcd6c6</id>
-    <title>Pythonで描くカオスの世界：二重振り子シミュレーターを作ってみよう</title>
-    <link rel="alternate" href="https://qiita.com/abcdefg123/items/1adb4495e74c1dbcd6c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-07T03:28:15+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/abcdefg123&quot;&gt;abcdefg123&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T03:27:15+09:00&lt;br/&gt;Updated: 2026-01-07T03:28:15+09:00&lt;br/&gt;「単純な仕組みなのに、予測不能な動きをする」。そんな物理現象の代表格が二重振り子です。
-一重の振り子は規則正しく揺れますが、振り子の先にもう一つの振り子をつなげるだけで、その軌道は驚くほど複雑で、少しの初期値の違いが将来の挙動を劇的に変えてしまいます。これがいわゆる**「カ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:091f7b3a976816b96145</id>
@@ -474,6 +474,16 @@ if / elsif / else のような条件分岐が増える
 そして、個人開発ではStreamlit + L...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a69ce52cc2862af7ebc9</id>
+    <title>Python開発の初速を上げるためのテンプレート設計</title>
+    <link rel="alternate" href="https://qiita.com/kobori_akira/items/a69ce52cc2862af7ebc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-09T16:06:28+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobori_akira&quot;&gt;kobori_akira&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T07:57:11+09:00&lt;br/&gt;Updated: 2026-01-09T16:06:28+09:00&lt;br/&gt;はじめに
+「ちょっとしたアイデアを試してみたい」と思ったとき、どのように開発を始めるでしょうか。
+おそらく「とりあえず書いてみる」というのが一般的だと思います。生成AIの活用が浸透した現在では、より「試しに書かせてみる」ということがやりやすくなりました。
+一方でそのように...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c241b9c10d259a9b4efc</id>
     <title>AWS初心者がAmazon Connectで簡単なコールセンターを構築した話</title>
     <link rel="alternate" href="https://qiita.com/tks_1128/items/c241b9c10d259a9b4efc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -522,16 +532,6 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/neko_the_shadow&quot;&gt;neko_the_shadow&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:12:16+09:00&lt;br/&gt;Updated: 2026-01-04T11:12:16+09:00&lt;br/&gt;はじめに
 競技プログラミングやパズル系の問題を解いていると、  「複数の配列から取りうる すべての組み合わせを列挙したい」という場面がよくあります。
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a69ce52cc2862af7ebc9</id>
-    <title>Python開発の初速を上げるためのテンプレート設計</title>
-    <link rel="alternate" href="https://qiita.com/kobori_akira/items/a69ce52cc2862af7ebc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-09T16:06:28+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobori_akira&quot;&gt;kobori_akira&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T07:57:11+09:00&lt;br/&gt;Updated: 2026-01-09T16:06:28+09:00&lt;br/&gt;はじめに
-「ちょっとしたアイデアを試してみたい」と思ったとき、どのように開発を始めるでしょうか。
-おそらく「とりあえず書いてみる」というのが一般的だと思います。生成AIの活用が浸透した現在では、より「試しに書かせてみる」ということがやりやすくなりました。
-一方でそのように...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4e3dd385af838f7228fa</id>
