@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-09T00:02:14+09:00</updated>
+  <updated>2026-01-09T16:06:28+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -62,7 +62,7 @@ SAA (AWS Certified So...</summary>
     <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-08T14:25:09+09:00</updated>
-    <summary type="html">Likes: 77&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
 自分でホームページを作ってログイン機能を実装しようとした時、こんな疑問に直面したことはありませんか？
 
 パスワードをそのまま保存していいの？
@@ -147,7 +147,7 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
     <title>【C#】Channel&lt;T&gt;  でスレッド間通信をシンプルに</title>
     <link rel="alternate" href="https://qiita.com/Sakai_path/items/9bc0a7a0a68b50c8e138?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-07T12:22:24+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sakai_path&quot;&gt;Sakai_path&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T12:22:24+09:00&lt;br/&gt;Updated: 2026-01-07T12:22:24+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sakai_path&quot;&gt;Sakai_path&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T12:22:24+09:00&lt;br/&gt;Updated: 2026-01-07T12:22:24+09:00&lt;br/&gt;はじめに
 C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
 
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
@@ -474,6 +474,17 @@ if / elsif / else のような条件分岐が増える
 そして、個人開発ではStreamlit + L...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c241b9c10d259a9b4efc</id>
+    <title>AWS初心者がAmazon Connectで簡単なコールセンターを構築した話</title>
+    <link rel="alternate" href="https://qiita.com/tks_1128/items/c241b9c10d259a9b4efc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-08T21:08:48+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tks_1128&quot;&gt;tks_1128&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T21:08:48+09:00&lt;br/&gt;Updated: 2026-01-08T21:08:48+09:00&lt;br/&gt;はじめに
+こんにちは。Tsukasaです！
+皆さんAmazon Connectはご存知でしょうか？
+私は昨年のAWS Summitで初めてこのサービスを知りました。
+中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1a3e62d874cc376d42d6</id>
     <title>SharePoint ルールを使ってリストの登録や更新を通知する</title>
     <link rel="alternate" href="https://qiita.com/eigogakuto/items/1a3e62d874cc376d42d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -513,15 +524,14 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c241b9c10d259a9b4efc</id>
-    <title>AWS初心者がAmazon Connectで簡単なコールセンターを構築した話</title>
-    <link rel="alternate" href="https://qiita.com/tks_1128/items/c241b9c10d259a9b4efc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-08T21:08:48+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tks_1128&quot;&gt;tks_1128&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T21:08:48+09:00&lt;br/&gt;Updated: 2026-01-08T21:08:48+09:00&lt;br/&gt;はじめに
-こんにちは。Tsukasaです！
-皆さんAmazon Connectはご存知でしょうか？
-私は昨年のAWS Summitで初めてこのサービスを知りました。
-中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
+    <id>tag:qiita.com,2026:a69ce52cc2862af7ebc9</id>
+    <title>Python開発の初速を上げるためのテンプレート設計</title>
+    <link rel="alternate" href="https://qiita.com/kobori_akira/items/a69ce52cc2862af7ebc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-09T16:06:28+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobori_akira&quot;&gt;kobori_akira&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T07:57:11+09:00&lt;br/&gt;Updated: 2026-01-09T16:06:28+09:00&lt;br/&gt;はじめに
+「ちょっとしたアイデアを試してみたい」と思ったとき、どのように開発を始めるでしょうか。
+おそらく「とりあえず書いてみる」というのが一般的だと思います。生成AIの活用が浸透した現在では、より「試しに書かせてみる」ということがやりやすくなりました。
+一方でそのように...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4e3dd385af838f7228fa</id>
