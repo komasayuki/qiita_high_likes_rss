@@ -62,7 +62,7 @@ SAA (AWS Certified So...</summary>
     <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-08T14:25:09+09:00</updated>
-    <summary type="html">Likes: 87&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 88&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
 自分でホームページを作ってログイン機能を実装しようとした時、こんな疑問に直面したことはありませんか？
 
 パスワードをそのまま保存していいの？
@@ -402,6 +402,17 @@ TCPとUDPの違い
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c241b9c10d259a9b4efc</id>
+    <title>AWS初心者がAmazon Connectで簡単なコールセンターを構築した話</title>
+    <link rel="alternate" href="https://qiita.com/tks_1128/items/c241b9c10d259a9b4efc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-08T21:08:48+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tks_1128&quot;&gt;tks_1128&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T21:08:48+09:00&lt;br/&gt;Updated: 2026-01-08T21:08:48+09:00&lt;br/&gt;はじめに
+こんにちは。Tsukasaです！
+皆さんAmazon Connectはご存知でしょうか？
+私は昨年のAWS Summitで初めてこのサービスを知りました。
+中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:091f7b3a976816b96145</id>
     <title>2025年振り返り：私たちがチャットをやめ、「推論」を始めた年</title>
     <link rel="alternate" href="https://qiita.com/quan_le/items/091f7b3a976816b96145?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -427,17 +438,6 @@ Emacs備忘録（２０２４年版）という記事を投稿してから２年
     <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/_YukiOgawa&quot;&gt;_YukiOgawa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T16:35:57+09:00&lt;br/&gt;Updated: 2026-01-05T16:35:57+09:00&lt;br/&gt;はじめに
 boto3を使ったPythonアプリケーションで、aws loginコマンドで認証したのに、15分くらいで「クレデンシャルが期限切れです」というエラーが出て困っていました。
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c241b9c10d259a9b4efc</id>
-    <title>AWS初心者がAmazon Connectで簡単なコールセンターを構築した話</title>
-    <link rel="alternate" href="https://qiita.com/tks_1128/items/c241b9c10d259a9b4efc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-08T21:08:48+09:00</updated>
-    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tks_1128&quot;&gt;tks_1128&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T21:08:48+09:00&lt;br/&gt;Updated: 2026-01-08T21:08:48+09:00&lt;br/&gt;はじめに
-こんにちは。Tsukasaです！
-皆さんAmazon Connectはご存知でしょうか？
-私は昨年のAWS Summitで初めてこのサービスを知りました。
-中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3e99756853dbe5209660</id>
