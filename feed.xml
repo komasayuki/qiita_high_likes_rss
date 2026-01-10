@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-10T14:18:40+09:00</updated>
+  <updated>2026-01-10T16:41:38+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -49,7 +49,7 @@ Canva で誤字脱字を修正（Nano Ban...</summary>
     <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-08T14:25:09+09:00</updated>
-    <summary type="html">Likes: 119&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 120&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
 自分でホームページを作ってログイン機能を実装しようとした時、こんな疑問に直面したことはありませんか？
 
 パスワードをそのまま保存していいの？
@@ -143,6 +143,18 @@ C#で非同期処理を組み立てていると、タスク間でデータを受
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:82c606539cc4fe31e2b9</id>
+    <title>Obsidian の個人的に便利だと思う使い方</title>
+    <link rel="alternate" href="https://qiita.com/CookieBox26/items/82c606539cc4fe31e2b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-10T16:41:38+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/CookieBox26&quot;&gt;CookieBox26&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T11:35:03+09:00&lt;br/&gt;Updated: 2026-01-10T16:41:38+09:00&lt;br/&gt;最近 Obsidian を使い始めたので、個人的に便利だと思った使い方や Tips をメモします。
+
+そもそも Obsidian とは
+Markdown ファイル群を閲覧・編集できるデスクトップアプリケーションです。
+スマホアプリもあります (iOS/Android)。
+O...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ba93b20f744dc40c6690</id>
     <title>自動化の[正解]は技術じゃなかった。 業務効率化をやってきて分かった現場のリアル</title>
     <link rel="alternate" href="https://qiita.com/mamineko/items/ba93b20f744dc40c6690?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -223,6 +235,16 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a69ce52cc2862af7ebc9</id>
+    <title>Python開発の初速を上げるためのテンプレート設計</title>
+    <link rel="alternate" href="https://qiita.com/kobori_akira/items/a69ce52cc2862af7ebc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-09T16:06:28+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobori_akira&quot;&gt;kobori_akira&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T07:57:11+09:00&lt;br/&gt;Updated: 2026-01-09T16:06:28+09:00&lt;br/&gt;はじめに
+「ちょっとしたアイデアを試してみたい」と思ったとき、どのように開発を始めるでしょうか。
+おそらく「とりあえず書いてみる」というのが一般的だと思います。生成AIの活用が浸透した現在では、より「試しに書かせてみる」ということがやりやすくなりました。
+一方でそのように...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:db798b2e5805c51a64c1</id>
     <title>H3ロケットの失敗から学ぶ、前提を疑う設計</title>
     <link rel="alternate" href="https://qiita.com/sh-ohtani/items/db798b2e5805c51a64c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -233,6 +255,14 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 GMOコネクトの大谷です。
 H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」として大きく報じられました。
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:8ae1e34e012a53aa8d1b</id>
+    <title>「Googleでの14年間で学んだ21の教訓」を 個人的な解釈でまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/Sakai_path/items/8ae1e34e012a53aa8d1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-09T18:22:33+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sakai_path&quot;&gt;Sakai_path&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T16:01:33+09:00&lt;br/&gt;Updated: 2026-01-09T18:22:33+09:00&lt;br/&gt;はじめに
+Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレクターを務める  Addy Osmani（アディ・オスマニ）氏が、14年間の経験から学んだ教訓をまとめた 『21 Lessons From 14 Years at Goo...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9554c4b96b45d0729a9c</id>
@@ -260,24 +290,6 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 バトルの最中にゲームがフリーズする状態。
 止まる以上、「あとで考えよう」はできません。
 この章では、「どう直すか...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8ae1e34e012a53aa8d1b</id>
-    <title>「Googleでの14年間で学んだ21の教訓」を 個人的な解釈でまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/Sakai_path/items/8ae1e34e012a53aa8d1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-09T18:22:33+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sakai_path&quot;&gt;Sakai_path&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T16:01:33+09:00&lt;br/&gt;Updated: 2026-01-09T18:22:33+09:00&lt;br/&gt;はじめに
-Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレクターを務める  Addy Osmani（アディ・オスマニ）氏が、14年間の経験から学んだ教訓をまとめた 『21 Lessons From 14 Years at Goo...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a69ce52cc2862af7ebc9</id>
-    <title>Python開発の初速を上げるためのテンプレート設計</title>
-    <link rel="alternate" href="https://qiita.com/kobori_akira/items/a69ce52cc2862af7ebc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-09T16:06:28+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobori_akira&quot;&gt;kobori_akira&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T07:57:11+09:00&lt;br/&gt;Updated: 2026-01-09T16:06:28+09:00&lt;br/&gt;はじめに
-「ちょっとしたアイデアを試してみたい」と思ったとき、どのように開発を始めるでしょうか。
-おそらく「とりあえず書いてみる」というのが一般的だと思います。生成AIの活用が浸透した現在では、より「試しに書かせてみる」ということがやりやすくなりました。
-一方でそのように...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d39facb5db154d69681c</id>
@@ -421,6 +433,32 @@ TCPとUDPの違い
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:23781b97f6477d84db17</id>
+    <title>年間500万円以上のコスト削減を実現したのに、どこかむなしいのはなぜか</title>
+    <link rel="alternate" href="https://qiita.com/qiita_mita/items/23781b97f6477d84db17?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-10T14:18:40+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/qiita_mita&quot;&gt;qiita_mita&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T22:21:47+09:00&lt;br/&gt;Updated: 2026-01-10T14:18:40+09:00&lt;br/&gt;目次
+
+初めに
+やったこと
+SHAP値処理の改修
+背景
+課題1：for文の中でlambda式を使用
+課題2：intをstrに変更している
+解決策
+実行時間
+回避コスト算出
+モデル作成における前処理スキップ
+背景
+解決策
+削減コスト算出
+なぜむなしいのか
+感想
+
+初めに
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bdb07ac14ff966b56d81</id>
     <title>【Power Automate】ガマンして読むと JSON への抵抗が少し和らぐ気がする記事</title>
     <link rel="alternate" href="https://qiita.com/eigogakuto/items/bdb07ac14ff966b56d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -456,32 +494,6 @@ Emacs備忘録（２０２４年版）という記事を投稿してから２年
     <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/_YukiOgawa&quot;&gt;_YukiOgawa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T16:35:57+09:00&lt;br/&gt;Updated: 2026-01-05T16:35:57+09:00&lt;br/&gt;はじめに
 boto3を使ったPythonアプリケーションで、aws loginコマンドで認証したのに、15分くらいで「クレデンシャルが期限切れです」というエラーが出て困っていました。
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:23781b97f6477d84db17</id>
-    <title>年間500万円以上のコスト削減を実現したのに、どこかむなしいのはなぜか</title>
-    <link rel="alternate" href="https://qiita.com/qiita_mita/items/23781b97f6477d84db17?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-10T14:18:40+09:00</updated>
-    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/qiita_mita&quot;&gt;qiita_mita&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T22:21:47+09:00&lt;br/&gt;Updated: 2026-01-10T14:18:40+09:00&lt;br/&gt;目次
-
-初めに
-やったこと
-SHAP値処理の改修
-背景
-課題1：for文の中でlambda式を使用
-課題2：intをstrに変更している
-解決策
-実行時間
-回避コスト算出
-モデル作成における前処理スキップ
-背景
-解決策
-削減コスト算出
-なぜむなしいのか
-感想
-
-初めに
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3e99756853dbe5209660</id>
