@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-09T16:06:28+09:00</updated>
+  <updated>2026-01-09T22:24:38+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -62,7 +62,7 @@ SAA (AWS Certified So...</summary>
     <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-08T14:25:09+09:00</updated>
-    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
 自分でホームページを作ってログイン機能を実装しようとした時、こんな疑問に直面したことはありませんか？
 
 パスワードをそのまま保存していいの？
@@ -532,6 +532,16 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/neko_the_shadow&quot;&gt;neko_the_shadow&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:12:16+09:00&lt;br/&gt;Updated: 2026-01-04T11:12:16+09:00&lt;br/&gt;はじめに
 競技プログラミングやパズル系の問題を解いていると、  「複数の配列から取りうる すべての組み合わせを列挙したい」という場面がよくあります。
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:bdb07ac14ff966b56d81</id>
+    <title>【Power Automate】ガマンして読むと JSON への抵抗が少し和らぐ気がする記事</title>
+    <link rel="alternate" href="https://qiita.com/eigogakuto/items/bdb07ac14ff966b56d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-09T22:24:38+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/eigogakuto&quot;&gt;eigogakuto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T21:57:19+09:00&lt;br/&gt;Updated: 2026-01-09T22:24:38+09:00&lt;br/&gt;序
+Power Automate を触っていて実行結果（履歴）を確認してみると、以下の画像の「出力」のように、何やら不思議な文字列の「かたまり」を目にしたことがあるかもしれません。
+
+[{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4e3dd385af838f7228fa</id>
