@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-09T22:24:38+09:00</updated>
+  <updated>2026-01-10T12:18:41+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -62,7 +62,7 @@ SAA (AWS Certified So...</summary>
     <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-08T14:25:09+09:00</updated>
-    <summary type="html">Likes: 106&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 110&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:25:09+09:00&lt;br/&gt;Updated: 2026-01-08T14:25:09+09:00&lt;br/&gt;はじめに
 自分でホームページを作ってログイン機能を実装しようとした時、こんな疑問に直面したことはありませんか？
 
 パスワードをそのまま保存していいの？
@@ -110,7 +110,7 @@ RAG（検索拡張生成）とは？...</summary>
     <title>情報はどうやって海を越えるのか？IPアドレスとDNSの関係性について</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/a3e91b89b5ed9b266e91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-07T18:15:47+09:00</updated>
-    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
+    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
 DNSは、URLに出てくる example.com みたいな名前を、通信に使えるIPアドレスに変換する仕組みです。
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
   </entry>
@@ -133,6 +133,16 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
 そんな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:9bc0a7a0a68b50c8e138</id>
+    <title>【C#】Channel&lt;T&gt;  でスレッド間通信をシンプルに</title>
+    <link rel="alternate" href="https://qiita.com/Sakai_path/items/9bc0a7a0a68b50c8e138?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-07T12:22:24+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sakai_path&quot;&gt;Sakai_path&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T12:22:24+09:00&lt;br/&gt;Updated: 2026-01-07T12:22:24+09:00&lt;br/&gt;はじめに
+C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
+
+Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ba93b20f744dc40c6690</id>
     <title>自動化の[正解]は技術じゃなかった。 業務効率化をやってきて分かった現場のリアル</title>
     <link rel="alternate" href="https://qiita.com/mamineko/items/ba93b20f744dc40c6690?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -141,16 +151,6 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
 私はこれまで、社内向けに 業務自動化・業務効率化ツール をいくつも作ってきました。
 Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組み合わせて、「人の仕事を楽にする」ためのツールを作ってきました。
 ただ、そ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9bc0a7a0a68b50c8e138</id>
-    <title>【C#】Channel&lt;T&gt;  でスレッド間通信をシンプルに</title>
-    <link rel="alternate" href="https://qiita.com/Sakai_path/items/9bc0a7a0a68b50c8e138?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-07T12:22:24+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sakai_path&quot;&gt;Sakai_path&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T12:22:24+09:00&lt;br/&gt;Updated: 2026-01-07T12:22:24+09:00&lt;br/&gt;はじめに
-C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
-
-Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e5789268d7ba860b4ca4</id>
@@ -413,6 +413,14 @@ TCPとUDPの違い
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8ae1e34e012a53aa8d1b</id>
+    <title>「Googleでの14年間で学んだ21の教訓」を 個人的な解釈でまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/Sakai_path/items/8ae1e34e012a53aa8d1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-09T18:22:33+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sakai_path&quot;&gt;Sakai_path&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T16:01:33+09:00&lt;br/&gt;Updated: 2026-01-09T18:22:33+09:00&lt;br/&gt;はじめに
+Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレクターを務める  Addy Osmani（アディ・オスマニ）氏が、14年間の経験から学んだ教訓をまとめた 『21 Lessons From 14 Years at Goo...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:091f7b3a976816b96145</id>
     <title>2025年振り返り：私たちがチャットをやめ、「推論」を始めた年</title>
     <link rel="alternate" href="https://qiita.com/quan_le/items/091f7b3a976816b96145?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -438,6 +446,16 @@ Emacs備忘録（２０２４年版）という記事を投稿してから２年
     <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/_YukiOgawa&quot;&gt;_YukiOgawa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T16:35:57+09:00&lt;br/&gt;Updated: 2026-01-05T16:35:57+09:00&lt;br/&gt;はじめに
 boto3を使ったPythonアプリケーションで、aws loginコマンドで認証したのに、15分くらいで「クレデンシャルが期限切れです」というエラーが出て困っていました。
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:bdb07ac14ff966b56d81</id>
+    <title>【Power Automate】ガマンして読むと JSON への抵抗が少し和らぐ気がする記事</title>
+    <link rel="alternate" href="https://qiita.com/eigogakuto/items/bdb07ac14ff966b56d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-10T12:18:41+09:00</updated>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/eigogakuto&quot;&gt;eigogakuto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T21:57:19+09:00&lt;br/&gt;Updated: 2026-01-10T12:18:41+09:00&lt;br/&gt;序
+Power Automate を触っていて実行結果（履歴）を確認してみると、以下の画像の「出力」のように、何やら不思議な文字列の「かたまり」を目にしたことがあるかもしれません。
+
+[{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3e99756853dbe5209660</id>
@@ -493,16 +511,6 @@ if / elsif / else のような条件分岐が増える
 業務自動化の仕事をしていて、VBAやPower Automateなどを使った効率化を行ってきました。
 その中でも最近では、LLMを活用した「社内ナレッジ検索」や「文書分析」のニーズが高まっていると肌で感じています。
 そして、個人開発ではStreamlit + L...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bdb07ac14ff966b56d81</id>
-    <title>【Power Automate】ガマンして読むと JSON への抵抗が少し和らぐ気がする記事</title>
-    <link rel="alternate" href="https://qiita.com/eigogakuto/items/bdb07ac14ff966b56d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-09T22:24:38+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/eigogakuto&quot;&gt;eigogakuto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T21:57:19+09:00&lt;br/&gt;Updated: 2026-01-09T22:24:38+09:00&lt;br/&gt;序
-Power Automate を触っていて実行結果（履歴）を確認してみると、以下の画像の「出力」のように、何やら不思議な文字列の「かたまり」を目にしたことがあるかもしれません。
-
-[{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1a3e62d874cc376d42d6</id>
