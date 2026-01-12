@@ -124,6 +124,18 @@ SHAP値処理の改修
 初...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:09f4a782cee077000c9e</id>
+    <title>人生初の副業で、要件定義・スケジュール管理・API申請・本業バッティングに全部やられた話</title>
+    <link rel="alternate" href="https://qiita.com/oageST/items/09f4a782cee077000c9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-10T21:19:37+09:00</updated>
+    <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/oageST&quot;&gt;oageST&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T21:19:37+09:00&lt;br/&gt;Updated: 2026-01-10T21:19:37+09:00&lt;br/&gt;はじめに
+BizCodeXで案件をご紹介いただき、人生初の副業に挑戦しました。
+正直に言うと、
+「技術的にできるか」よりも
+「要件定義・スケジュール管理・API申請・本業との両立」 の方が、何倍も大変でした。
+本記事では、初副業で実際に詰まったポイントや失敗、そこから学ん...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bd5266a987d082caea16</id>
     <title>【狂気の実証実験2】GPTsに電気ショック権限を付与してみた</title>
     <link rel="alternate" href="https://qiita.com/motoya0118/items/bd5266a987d082caea16?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -157,18 +169,6 @@ RAG（検索拡張生成）とは？...</summary>
     <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
 DNSは、URLに出てくる example.com みたいな名前を、通信に使えるIPアドレスに変換する仕組みです。
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:09f4a782cee077000c9e</id>
-    <title>人生初の副業で、要件定義・スケジュール管理・API申請・本業バッティングに全部やられた話</title>
-    <link rel="alternate" href="https://qiita.com/oageST/items/09f4a782cee077000c9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-10T21:19:37+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/oageST&quot;&gt;oageST&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T21:19:37+09:00&lt;br/&gt;Updated: 2026-01-10T21:19:37+09:00&lt;br/&gt;はじめに
-BizCodeXで案件をご紹介いただき、人生初の副業に挑戦しました。
-正直に言うと、
-「技術的にできるか」よりも
-「要件定義・スケジュール管理・API申請・本業との両立」 の方が、何倍も大変でした。
-本記事では、初副業で実際に詰まったポイントや失敗、そこから学ん...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1403f6be43bad5d085b3</id>
@@ -393,6 +393,14 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6d571c3585577572badf</id>
+    <title>BI は未だに「新しいもの」なのか？</title>
+    <link rel="alternate" href="https://qiita.com/yugoes1021/items/6d571c3585577572badf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-11T17:19:46+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yugoes1021&quot;&gt;yugoes1021&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T17:19:46+09:00&lt;br/&gt;Updated: 2026-01-11T17:19:46+09:00&lt;br/&gt;ふと思いました
+2025年も変わらず、Power BI の仕事をしていました。多くは、企業さんから依頼を受けて、初学者向けに Power BI の研修を担当していました。その他、データ周りのコンサルティングもやってきました。2026年も引き続き、大きく変わらない予定です。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bdb07ac14ff966b56d81</id>
     <title>【Power Automate】ガマンして読むと JSON への抵抗が少し和らぐ気がする記事</title>
     <link rel="alternate" href="https://qiita.com/eigogakuto/items/bdb07ac14ff966b56d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -401,14 +409,6 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 Power Automate を触っていて実行結果（履歴）を確認してみると、以下の画像の「出力」のように、何やら不思議な文字列の「かたまり」を目にしたことがあるかもしれません。
 
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6d571c3585577572badf</id>
-    <title>BI は未だに「新しいもの」なのか？</title>
-    <link rel="alternate" href="https://qiita.com/yugoes1021/items/6d571c3585577572badf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-11T17:19:46+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yugoes1021&quot;&gt;yugoes1021&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T17:19:46+09:00&lt;br/&gt;Updated: 2026-01-11T17:19:46+09:00&lt;br/&gt;ふと思いました
-2025年も変わらず、Power BI の仕事をしていました。多くは、企業さんから依頼を受けて、初学者向けに Power BI の研修を担当していました。その他、データ周りのコンサルティングもやってきました。2026年も引き続き、大きく変わらない予定です。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e5d0e562b85c3f6b5f27</id>
@@ -470,6 +470,18 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 そんな私が、生成AI（ChatGPT / Cla...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:811175c3695a5971b09d</id>
+    <title>【2026年1月12日時点】無料版Copilotで何ができるか調べてみた</title>
+    <link rel="alternate" href="https://qiita.com/sadabon444/items/811175c3695a5971b09d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-12T14:45:15+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T10:55:39+09:00&lt;br/&gt;Updated: 2026-01-12T14:45:15+09:00&lt;br/&gt;はじめに
+「プラスαの課金をすることなく使えるCopilotで、何ができるか」
+この記事では、2026年1月12日現時点での情報と、将来のロードマップを併せて紹介します。
+
+この記事の情報は、2026年1月12日現在のものです。
+またユーザーの呼称は、正式でなく便宜的な...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ce7da9207da2d5af986e</id>
     <title>Appleアプリ審査をスムーズに進めるための完全ガイド</title>
     <link rel="alternate" href="https://qiita.com/KaitoMuraoka/items/ce7da9207da2d5af986e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -525,16 +537,14 @@ TCPとUDPの違い
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:811175c3695a5971b09d</id>
-    <title>【2026年1月12日時点】無料版Copilotで何ができるか調べてみた</title>
-    <link rel="alternate" href="https://qiita.com/sadabon444/items/811175c3695a5971b09d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-12T14:45:15+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T10:55:39+09:00&lt;br/&gt;Updated: 2026-01-12T14:45:15+09:00&lt;br/&gt;はじめに
-「プラスαの課金をすることなく使えるCopilotで、何ができるか」
-この記事では、2026年1月12日現時点での情報と、将来のロードマップを併せて紹介します。
-
-この記事の情報は、2026年1月12日現在のものです。
-またユーザーの呼称は、正式でなく便宜的な...</summary>
+    <id>tag:qiita.com,2026:4387782ff8310427048e</id>
+    <title>AIエージェントがUIを生成する「Generative UI」を広く浅く理解したい</title>
+    <link rel="alternate" href="https://qiita.com/Takenoko4594/items/4387782ff8310427048e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-11T23:34:52+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takenoko4594&quot;&gt;Takenoko4594&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T23:34:52+09:00&lt;br/&gt;Updated: 2026-01-11T23:34:52+09:00&lt;br/&gt;はじめに
+「Generative UI」という単語をご存知でしょうか？
+Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
+AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1adb4495e74c1dbcd6c6</id>
@@ -551,16 +561,6 @@ TCPとUDPの違い
     <updated>2026-01-03T09:15:39+09:00</updated>
     <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KimuraSoh&quot;&gt;KimuraSoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T09:15:39+09:00&lt;br/&gt;Updated: 2026-01-03T09:15:39+09:00&lt;br/&gt;はじめに
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4387782ff8310427048e</id>
-    <title>AIエージェントがUIを生成する「Generative UI」を広く浅く理解したい</title>
-    <link rel="alternate" href="https://qiita.com/Takenoko4594/items/4387782ff8310427048e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-11T23:34:52+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takenoko4594&quot;&gt;Takenoko4594&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T23:34:52+09:00&lt;br/&gt;Updated: 2026-01-11T23:34:52+09:00&lt;br/&gt;はじめに
-「Generative UI」という単語をご存知でしょうか？
-Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
-AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8725b4d80fb2a9456e63</id>
