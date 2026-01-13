@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-13T16:18:51+09:00</updated>
+  <updated>2026-01-13T20:25:19+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -93,7 +93,7 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
     <title>人生初の副業で、要件定義・スケジュール管理・API申請・本業バッティングに全部やられた話</title>
     <link rel="alternate" href="https://qiita.com/oageST/items/09f4a782cee077000c9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-10T21:19:37+09:00</updated>
-    <summary type="html">Likes: 104&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/oageST&quot;&gt;oageST&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T21:19:37+09:00&lt;br/&gt;Updated: 2026-01-10T21:19:37+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 108&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/oageST&quot;&gt;oageST&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T21:19:37+09:00&lt;br/&gt;Updated: 2026-01-10T21:19:37+09:00&lt;br/&gt;はじめに
 BizCodeXで案件をご紹介いただき、人生初の副業に挑戦しました。
 正直に言うと、
 「技術的にできるか」よりも
@@ -105,7 +105,7 @@ BizCodeXで案件をご紹介いただき、人生初の副業に挑戦しまし
     <title>俺の設計が甘かったばかりにAIが精神を崩壊させてしまった件</title>
     <link rel="alternate" href="https://qiita.com/Blacpans/items/4c65053a3db0e3bb6ecb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-10T17:20:09+09:00</updated>
-    <summary type="html">Likes: 102&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Blacpans&quot;&gt;Blacpans&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T17:20:09+09:00&lt;br/&gt;Updated: 2026-01-10T17:20:09+09:00&lt;br/&gt;TL;DR
+    <summary type="html">Likes: 104&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Blacpans&quot;&gt;Blacpans&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T17:20:09+09:00&lt;br/&gt;Updated: 2026-01-10T17:20:09+09:00&lt;br/&gt;TL;DR
 
 AIに「全く同じこと」を頼み続けると、人間と同じく虚無に至る
 そうならないためにはタスクにランダム性をもたせるか、明示的にコンテキストを破棄させる必要がある
@@ -269,6 +269,16 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4387782ff8310427048e</id>
+    <title>AIエージェントがUIを生成する「Generative UI」を広く浅く理解したい</title>
+    <link rel="alternate" href="https://qiita.com/Takenoko4594/items/4387782ff8310427048e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-11T23:34:52+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takenoko4594&quot;&gt;Takenoko4594&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T23:34:52+09:00&lt;br/&gt;Updated: 2026-01-11T23:34:52+09:00&lt;br/&gt;はじめに
+「Generative UI」という単語をご存知でしょうか？
+Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
+AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a69ce52cc2862af7ebc9</id>
     <title>Python開発の初速を上げるためのテンプレート設計</title>
     <link rel="alternate" href="https://qiita.com/kobori_akira/items/a69ce52cc2862af7ebc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -289,21 +299,11 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 1. ブ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:4387782ff8310427048e</id>
-    <title>AIエージェントがUIを生成する「Generative UI」を広く浅く理解したい</title>
-    <link rel="alternate" href="https://qiita.com/Takenoko4594/items/4387782ff8310427048e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-11T23:34:52+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takenoko4594&quot;&gt;Takenoko4594&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T23:34:52+09:00&lt;br/&gt;Updated: 2026-01-11T23:34:52+09:00&lt;br/&gt;はじめに
-「Generative UI」という単語をご存知でしょうか？
-Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
-AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:811175c3695a5971b09d</id>
     <title>【2026年1月12日時点】無料版Copilotで何ができるか調べてみた</title>
     <link rel="alternate" href="https://qiita.com/sadabon444/items/811175c3695a5971b09d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-12T14:45:15+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T10:55:39+09:00&lt;br/&gt;Updated: 2026-01-12T14:45:15+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T10:55:39+09:00&lt;br/&gt;Updated: 2026-01-12T14:45:15+09:00&lt;br/&gt;はじめに
 「プラスαの課金をすることなく使えるCopilotで、何ができるか」
 この記事では、2026年1月12日現時点での情報と、将来のロードマップを併せて紹介します。
 
@@ -320,6 +320,18 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
 皆さんAmazon Connectはご存知でしょうか？
 私は昨年のAWS Summitで初めてこのサービスを知りました。
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:58be7519dee6a58f74d1</id>
+    <title>Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-11T15:03:40+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T15:03:27+09:00&lt;br/&gt;Updated: 2026-01-11T15:03:40+09:00&lt;br/&gt;この記事の対象読者
+
+JavaScriptの基本文法（関数、オブジェクト、コールバック）を理解している方
+Node.jsをインストールしてnpmコマンドを使ったことがある方
+Web API（REST API）という言葉を聞いたことがある方
+バックエンド開発に興味があり、最...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5eab2570dbed38021851</id>
@@ -341,18 +353,6 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
 フルサーバーレスで維持費激安なのが嬉しいポイントです。
 
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:58be7519dee6a58f74d1</id>
-    <title>Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-11T15:03:40+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T15:03:27+09:00&lt;br/&gt;Updated: 2026-01-11T15:03:40+09:00&lt;br/&gt;この記事の対象読者
-
-JavaScriptの基本文法（関数、オブジェクト、コールバック）を理解している方
-Node.jsをインストールしてnpmコマンドを使ったことがある方
-Web API（REST API）という言葉を聞いたことがある方
-バックエンド開発に興味があり、最...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:db798b2e5805c51a64c1</id>
@@ -438,8 +438,8 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
     <id>tag:qiita.com,2026:d16ad3a0b271924013ec</id>
     <title>【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-12T19:12:01+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-12T19:12:01+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
+    <updated>2026-01-13T20:25:19+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T20:25:19+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
 またなんか無限レンダリングされるとかなんか2回...</summary>
   </entry>
   <entry>
@@ -479,6 +479,19 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
     <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:22:12+09:00&lt;br/&gt;Updated: 2026-01-04T17:22:12+09:00&lt;br/&gt;この1週間、GitHubで複数のプロジェクトを同時並行で進め、AIを活用することで個人レベルでは不可能だったアウトプット量と質を実現しました。その軌跡と、それを可能にした「AI並列開発」の力について共有します。
 
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:45699be4eb9d7e0f3b8b</id>
+    <title>データベースはなぜ大切なのか？多くの人が説明できない概念的な考え方について</title>
+    <link rel="alternate" href="https://qiita.com/shibata1111/items/45699be4eb9d7e0f3b8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T16:17:16+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-13T16:17:16+09:00&lt;br/&gt;はじめに
+「データベースは重要だ」
+という言葉をよく耳にします。
+そしてデータベースが「技術的に」何故大切なのか？
+という事については調べればすぐに出てきます。
+しかし根本的な考え方やデータベースへの捉え方。
+データベースに対する「概念的な」大切さを説いている人は意外にも...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fee7b58641ae4c15f062</id>
@@ -565,19 +578,6 @@ TCPとUDPの違い
     <updated>2026-01-04T05:20:28+09:00</updated>
     <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/AInsights&quot;&gt;AInsights&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T05:20:28+09:00&lt;br/&gt;Updated: 2026-01-04T05:20:28+09:00&lt;br/&gt;ソフトウェアエンジニアリングにおけるプログラミング言語選定の戦略的アプローチ 🚀
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:45699be4eb9d7e0f3b8b</id>
-    <title>データベースはなぜ大切なのか？多くの人が説明できない概念的な考え方について</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/45699be4eb9d7e0f3b8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T16:17:16+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-13T16:17:16+09:00&lt;br/&gt;はじめに
-「データベースは重要だ」
-という言葉をよく耳にします。
-そしてデータベースが「技術的に」何故大切なのか？
-という事については調べればすぐに出てきます。
-しかし根本的な考え方やデータベースへの捉え方。
-データベースに対する「概念的な」大切さを説いている人は意外にも...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1adb4495e74c1dbcd6c6</id>
@@ -755,6 +755,22 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/neko_the_shadow&quot;&gt;neko_the_shadow&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:12:16+09:00&lt;br/&gt;Updated: 2026-01-04T11:12:16+09:00&lt;br/&gt;はじめに
 競技プログラミングやパズル系の問題を解いていると、  「複数の配列から取りうる すべての組み合わせを列挙したい」という場面がよくあります。
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ea928f214c6c99dee66e</id>
+    <title>Bunってなんだ？〜爆速JavaScriptランタイムの全貌と実践ガイド〜</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/ea928f214c6c99dee66e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-11T14:56:22+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T14:56:22+09:00&lt;br/&gt;Updated: 2026-01-11T14:56:22+09:00&lt;br/&gt;この記事の対象読者
+
+JavaScriptまたはTypeScriptの基本文法を理解している方
+Node.jsを使ったことがある方
+「Bunって速いらしいけど、実際どうなの？」と気になっている方
+
+この記事で得られること
+
+Bunの設計思想と内部アーキテクチャの理解
+B...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:204df7802b9855461f74</id>
