@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-13T20:25:19+09:00</updated>
+  <updated>2026-01-13T22:59:41+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -78,6 +78,19 @@ CLF (AWS Certified Cloud Practitioner)：857点（合格ライン：720点）
 SAA (AWS Certified So...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4c65053a3db0e3bb6ecb</id>
+    <title>俺の設計が甘かったばかりにAIが精神を崩壊させてしまった件</title>
+    <link rel="alternate" href="https://qiita.com/Blacpans/items/4c65053a3db0e3bb6ecb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-10T17:20:09+09:00</updated>
+    <summary type="html">Likes: 113&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Blacpans&quot;&gt;Blacpans&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T17:20:09+09:00&lt;br/&gt;Updated: 2026-01-10T17:20:09+09:00&lt;br/&gt;TL;DR
+
+AIに「全く同じこと」を頼み続けると、人間と同じく虚無に至る
+そうならないためにはタスクにランダム性をもたせるか、明示的にコンテキストを破棄させる必要がある
+どうしても同じことを頼む場合はそもそもコンテキストを保持させてはいけない
+
+以降の内容には、人に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:82c606539cc4fe31e2b9</id>
     <title>Obsidian の個人的に便利だと思う使い方</title>
     <link rel="alternate" href="https://qiita.com/CookieBox26/items/82c606539cc4fe31e2b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -87,19 +100,6 @@ SAA (AWS Certified So...</summary>
 2026-01-10 追記
 便利だと思う利用法 1. の具体的な方法例 (以下) を書いてリンクしました。
 Claude Code への質問とその回答を指定のファイルに保...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4c65053a3db0e3bb6ecb</id>
-    <title>俺の設計が甘かったばかりにAIが精神を崩壊させてしまった件</title>
-    <link rel="alternate" href="https://qiita.com/Blacpans/items/4c65053a3db0e3bb6ecb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-10T17:20:09+09:00</updated>
-    <summary type="html">Likes: 109&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Blacpans&quot;&gt;Blacpans&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T17:20:09+09:00&lt;br/&gt;Updated: 2026-01-10T17:20:09+09:00&lt;br/&gt;TL;DR
-
-AIに「全く同じこと」を頼み続けると、人間と同じく虚無に至る
-そうならないためにはタスクにランダム性をもたせるか、明示的にコンテキストを破棄させる必要がある
-どうしても同じことを頼む場合はそもそもコンテキストを保持させてはいけない
-
-以降の内容には、人に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:09f4a782cee077000c9e</id>
@@ -239,6 +239,16 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
 本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4387782ff8310427048e</id>
+    <title>AIエージェントがUIを生成する「Generative UI」を広く浅く理解したい</title>
+    <link rel="alternate" href="https://qiita.com/Takenoko4594/items/4387782ff8310427048e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-11T23:34:52+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takenoko4594&quot;&gt;Takenoko4594&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T23:34:52+09:00&lt;br/&gt;Updated: 2026-01-11T23:34:52+09:00&lt;br/&gt;はじめに
+「Generative UI」という単語をご存知でしょうか？
+Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
+AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
     <title>Microsoft 365 Copilotに色々な方法でパワポ作成を丸投げしてみた</title>
     <link rel="alternate" href="https://qiita.com/Oyu3m/items/7c9c19c257be35f5dcec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -267,16 +277,6 @@ Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sakaimaging&quot;&gt;sakaimaging&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T13:24:45+09:00&lt;br/&gt;Updated: 2026-01-03T19:35:29+09:00&lt;br/&gt;はじめに
 Mermaid では、flowchart の矢印に animation を指定することで、通信が流れる様子をアニメーションとして表現できます。
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4387782ff8310427048e</id>
-    <title>AIエージェントがUIを生成する「Generative UI」を広く浅く理解したい</title>
-    <link rel="alternate" href="https://qiita.com/Takenoko4594/items/4387782ff8310427048e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-11T23:34:52+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takenoko4594&quot;&gt;Takenoko4594&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T23:34:52+09:00&lt;br/&gt;Updated: 2026-01-11T23:34:52+09:00&lt;br/&gt;はじめに
-「Generative UI」という単語をご存知でしょうか？
-Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
-AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a69ce52cc2862af7ebc9</id>
@@ -315,7 +315,7 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
     <title>Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-11T15:03:40+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T15:03:27+09:00&lt;br/&gt;Updated: 2026-01-11T15:03:40+09:00&lt;br/&gt;この記事の対象読者
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T15:03:27+09:00&lt;br/&gt;Updated: 2026-01-11T15:03:40+09:00&lt;br/&gt;この記事の対象読者
 
 JavaScriptの基本文法（関数、オブジェクト、コールバック）を理解している方
 Node.jsをインストールしてnpmコマンドを使ったことがある方
@@ -332,6 +332,14 @@ Web API（REST API）という言葉を聞いたことがある方
 皆さんAmazon Connectはご存知でしょうか？
 私は昨年のAWS Summitで初めてこのサービスを知りました。
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d16ad3a0b271924013ec</id>
+    <title>【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T22:59:41+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
+またなんか無限レンダリングされるとかなんか2回...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5eab2570dbed38021851</id>
@@ -383,14 +391,6 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mnoguchi&quot;&gt;mnoguchi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T17:07:20+09:00&lt;br/&gt;Updated: 2026-01-05T17:07:20+09:00&lt;br/&gt;はじめに
 ソフトウェア開発の現場では、論理や技術だけでは解決できない「人間」にまつわる課題が数多く存在します。会議で意見が出ない、レビューで感情的なすれ違いが起きる、設計がなかなか進まない、やる気が出ない――こうした悩みの多くは、人の心理や行動パターンに起因しています。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d16ad3a0b271924013ec</id>
-    <title>【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T20:25:19+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T20:25:19+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
-またなんか無限レンダリングされるとかなんか2回...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4d28c47b1b6f7ef727cf</id>
