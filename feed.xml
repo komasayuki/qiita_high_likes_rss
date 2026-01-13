@@ -93,12 +93,25 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
     <title>人生初の副業で、要件定義・スケジュール管理・API申請・本業バッティングに全部やられた話</title>
     <link rel="alternate" href="https://qiita.com/oageST/items/09f4a782cee077000c9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-10T21:19:37+09:00</updated>
-    <summary type="html">Likes: 83&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/oageST&quot;&gt;oageST&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T21:19:37+09:00&lt;br/&gt;Updated: 2026-01-10T21:19:37+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 86&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/oageST&quot;&gt;oageST&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T21:19:37+09:00&lt;br/&gt;Updated: 2026-01-10T21:19:37+09:00&lt;br/&gt;はじめに
 BizCodeXで案件をご紹介いただき、人生初の副業に挑戦しました。
 正直に言うと、
 「技術的にできるか」よりも
 「要件定義・スケジュール管理・API申請・本業との両立」 の方が、何倍も大変でした。
 本記事では、初副業で実際に詰まったポイントや失敗、そこから学ん...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4c65053a3db0e3bb6ecb</id>
+    <title>俺の設計が甘かったばかりにAIが精神を崩壊させてしまった件</title>
+    <link rel="alternate" href="https://qiita.com/Blacpans/items/4c65053a3db0e3bb6ecb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-10T17:20:09+09:00</updated>
+    <summary type="html">Likes: 82&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Blacpans&quot;&gt;Blacpans&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T17:20:09+09:00&lt;br/&gt;Updated: 2026-01-10T17:20:09+09:00&lt;br/&gt;TL;DR
+
+AIに「全く同じこと」を頼み続けると、人間と同じく虚無に至る
+そうならないためにはタスクにランダム性をもたせるか、明示的にコンテキストを破棄させる必要がある
+どうしても同じことを頼む場合はそもそもコンテキストを保持させてはいけない
+
+以降の内容には、人に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:193f9df4db110f1bb817</id>
@@ -134,19 +147,6 @@ SHAP値処理の改修
 感想
 
 初...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4c65053a3db0e3bb6ecb</id>
-    <title>俺の設計が甘かったばかりにAIが精神を崩壊させてしまった件</title>
-    <link rel="alternate" href="https://qiita.com/Blacpans/items/4c65053a3db0e3bb6ecb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-10T17:20:09+09:00</updated>
-    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Blacpans&quot;&gt;Blacpans&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T17:20:09+09:00&lt;br/&gt;Updated: 2026-01-10T17:20:09+09:00&lt;br/&gt;TL;DR
-
-AIに「全く同じこと」を頼み続けると、人間と同じく虚無に至る
-そうならないためにはタスクにランダム性をもたせるか、明示的にコンテキストを破棄させる必要がある
-どうしても同じことを頼む場合はそもそもコンテキストを保持させてはいけない
-
-以降の内容には、人に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bd5266a987d082caea16</id>
@@ -222,6 +222,14 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
 ただ、そ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6d571c3585577572badf</id>
+    <title>BI は未だに「新しいもの」なのか？</title>
+    <link rel="alternate" href="https://qiita.com/yugoes1021/items/6d571c3585577572badf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-11T17:19:46+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yugoes1021&quot;&gt;yugoes1021&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T17:19:46+09:00&lt;br/&gt;Updated: 2026-01-11T17:19:46+09:00&lt;br/&gt;ふと思いました
+2025年も変わらず、Power BI の仕事をしていました。多くは、企業さんから依頼を受けて、初学者向けに Power BI の研修を担当していました。その他、データ周りのコンサルティングもやってきました。2026年も引き続き、大きく変わらない予定です。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e5789268d7ba860b4ca4</id>
     <title>Windows を USB で持ち運ぶ：Hyper‑V + WinPE を使った VHDX ブート手法</title>
     <link rel="alternate" href="https://qiita.com/carol0226/items/e5789268d7ba860b4ca4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -259,14 +267,6 @@ Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sakaimaging&quot;&gt;sakaimaging&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T13:24:45+09:00&lt;br/&gt;Updated: 2026-01-03T19:35:29+09:00&lt;br/&gt;はじめに
 Mermaid では、flowchart の矢印に animation を指定することで、通信が流れる様子をアニメーションとして表現できます。
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6d571c3585577572badf</id>
-    <title>BI は未だに「新しいもの」なのか？</title>
-    <link rel="alternate" href="https://qiita.com/yugoes1021/items/6d571c3585577572badf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-11T17:19:46+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yugoes1021&quot;&gt;yugoes1021&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T17:19:46+09:00&lt;br/&gt;Updated: 2026-01-11T17:19:46+09:00&lt;br/&gt;ふと思いました
-2025年も変わらず、Power BI の仕事をしていました。多くは、企業さんから依頼を受けて、初学者向けに Power BI の研修を担当していました。その他、データ周りのコンサルティングもやってきました。2026年も引き続き、大きく変わらない予定です。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a69ce52cc2862af7ebc9</id>
@@ -427,7 +427,7 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
     <title>Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-11T15:03:40+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T15:03:27+09:00&lt;br/&gt;Updated: 2026-01-11T15:03:40+09:00&lt;br/&gt;この記事の対象読者
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T15:03:27+09:00&lt;br/&gt;Updated: 2026-01-11T15:03:40+09:00&lt;br/&gt;この記事の対象読者
 
 JavaScriptの基本文法（関数、オブジェクト、コールバック）を理解している方
 Node.jsをインストールしてnpmコマンドを使ったことがある方
