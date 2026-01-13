@@ -89,6 +89,19 @@ SAA (AWS Certified So...</summary>
 Claude Code への質問とその回答を指定のファイルに保...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4c65053a3db0e3bb6ecb</id>
+    <title>俺の設計が甘かったばかりにAIが精神を崩壊させてしまった件</title>
+    <link rel="alternate" href="https://qiita.com/Blacpans/items/4c65053a3db0e3bb6ecb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-10T17:20:09+09:00</updated>
+    <summary type="html">Likes: 109&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Blacpans&quot;&gt;Blacpans&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T17:20:09+09:00&lt;br/&gt;Updated: 2026-01-10T17:20:09+09:00&lt;br/&gt;TL;DR
+
+AIに「全く同じこと」を頼み続けると、人間と同じく虚無に至る
+そうならないためにはタスクにランダム性をもたせるか、明示的にコンテキストを破棄させる必要がある
+どうしても同じことを頼む場合はそもそもコンテキストを保持させてはいけない
+
+以降の内容には、人に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:09f4a782cee077000c9e</id>
     <title>人生初の副業で、要件定義・スケジュール管理・API申請・本業バッティングに全部やられた話</title>
     <link rel="alternate" href="https://qiita.com/oageST/items/09f4a782cee077000c9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -99,19 +112,6 @@ BizCodeXで案件をご紹介いただき、人生初の副業に挑戦しまし
 「技術的にできるか」よりも
 「要件定義・スケジュール管理・API申請・本業との両立」 の方が、何倍も大変でした。
 本記事では、初副業で実際に詰まったポイントや失敗、そこから学ん...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4c65053a3db0e3bb6ecb</id>
-    <title>俺の設計が甘かったばかりにAIが精神を崩壊させてしまった件</title>
-    <link rel="alternate" href="https://qiita.com/Blacpans/items/4c65053a3db0e3bb6ecb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-10T17:20:09+09:00</updated>
-    <summary type="html">Likes: 104&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Blacpans&quot;&gt;Blacpans&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T17:20:09+09:00&lt;br/&gt;Updated: 2026-01-10T17:20:09+09:00&lt;br/&gt;TL;DR
-
-AIに「全く同じこと」を頼み続けると、人間と同じく虚無に至る
-そうならないためにはタスクにランダム性をもたせるか、明示的にコンテキストを破棄させる必要がある
-どうしても同じことを頼む場合はそもそもコンテキストを保持させてはいけない
-
-以降の内容には、人に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:193f9df4db110f1bb817</id>
@@ -311,6 +311,18 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 またユーザーの呼称は、正式でなく便宜的な...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:58be7519dee6a58f74d1</id>
+    <title>Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-11T15:03:40+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T15:03:27+09:00&lt;br/&gt;Updated: 2026-01-11T15:03:40+09:00&lt;br/&gt;この記事の対象読者
+
+JavaScriptの基本文法（関数、オブジェクト、コールバック）を理解している方
+Node.jsをインストールしてnpmコマンドを使ったことがある方
+Web API（REST API）という言葉を聞いたことがある方
+バックエンド開発に興味があり、最...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c241b9c10d259a9b4efc</id>
     <title>AWS初心者がAmazon Connectで簡単なコールセンターを構築した話</title>
     <link rel="alternate" href="https://qiita.com/tks_1128/items/c241b9c10d259a9b4efc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -320,18 +332,6 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 皆さんAmazon Connectはご存知でしょうか？
 私は昨年のAWS Summitで初めてこのサービスを知りました。
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:58be7519dee6a58f74d1</id>
-    <title>Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-11T15:03:40+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T15:03:27+09:00&lt;br/&gt;Updated: 2026-01-11T15:03:40+09:00&lt;br/&gt;この記事の対象読者
-
-JavaScriptの基本文法（関数、オブジェクト、コールバック）を理解している方
-Node.jsをインストールしてnpmコマンドを使ったことがある方
-Web API（REST API）という言葉を聞いたことがある方
-バックエンド開発に興味があり、最...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5eab2570dbed38021851</id>
@@ -385,6 +385,14 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d16ad3a0b271924013ec</id>
+    <title>【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T20:25:19+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T20:25:19+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
+またなんか無限レンダリングされるとかなんか2回...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4d28c47b1b6f7ef727cf</id>
     <title>【ポケモン×Java】知識編 ERROR #6 実行時エラーを防止するには？</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/4d28c47b1b6f7ef727cf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -433,14 +441,6 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 2025年12月現在&quot;C++26&quot;はISO/IEC標準規格としては未発行のため、代わりに最新Working Draft N5032（2025-12-15）を参照しています。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d16ad3a0b271924013ec</id>
-    <title>【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T20:25:19+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T20:25:19+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
-またなんか無限レンダリングされるとかなんか2回...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bdb07ac14ff966b56d81</id>
@@ -650,6 +650,22 @@ boto3を使ったPythonアプリケーションで、aws loginコマンドで認
 この3層...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ea928f214c6c99dee66e</id>
+    <title>Bunってなんだ？〜爆速JavaScriptランタイムの全貌と実践ガイド〜</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/ea928f214c6c99dee66e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-11T14:56:22+09:00</updated>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T14:56:22+09:00&lt;br/&gt;Updated: 2026-01-11T14:56:22+09:00&lt;br/&gt;この記事の対象読者
+
+JavaScriptまたはTypeScriptの基本文法を理解している方
+Node.jsを使ったことがある方
+「Bunって速いらしいけど、実際どうなの？」と気になっている方
+
+この記事で得られること
+
+Bunの設計思想と内部アーキテクチャの理解
+B...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f41f80af8eed80a9044f</id>
     <title>【令和８年最新版】GitHub CopilotにおけるAIモデルの違いや選定の考え方</title>
     <link rel="alternate" href="https://qiita.com/Free_Akito9120/items/f41f80af8eed80a9044f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -755,22 +771,6 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/neko_the_shadow&quot;&gt;neko_the_shadow&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:12:16+09:00&lt;br/&gt;Updated: 2026-01-04T11:12:16+09:00&lt;br/&gt;はじめに
 競技プログラミングやパズル系の問題を解いていると、  「複数の配列から取りうる すべての組み合わせを列挙したい」という場面がよくあります。
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ea928f214c6c99dee66e</id>
-    <title>Bunってなんだ？〜爆速JavaScriptランタイムの全貌と実践ガイド〜</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/ea928f214c6c99dee66e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-11T14:56:22+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T14:56:22+09:00&lt;br/&gt;Updated: 2026-01-11T14:56:22+09:00&lt;br/&gt;この記事の対象読者
-
-JavaScriptまたはTypeScriptの基本文法を理解している方
-Node.jsを使ったことがある方
-「Bunって速いらしいけど、実際どうなの？」と気になっている方
-
-この記事で得られること
-
-Bunの設計思想と内部アーキテクチャの理解
-B...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:204df7802b9855461f74</id>
