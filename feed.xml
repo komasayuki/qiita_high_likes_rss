@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-12T14:45:15+09:00</updated>
+  <updated>2026-01-12T19:12:01+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -171,6 +171,19 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4c65053a3db0e3bb6ecb</id>
+    <title>俺の設計が甘かったばかりにAIが精神を崩壊させてしまった件</title>
+    <link rel="alternate" href="https://qiita.com/Blacpans/items/4c65053a3db0e3bb6ecb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-10T17:20:09+09:00</updated>
+    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Blacpans&quot;&gt;Blacpans&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T17:20:09+09:00&lt;br/&gt;Updated: 2026-01-10T17:20:09+09:00&lt;br/&gt;TL;DR
+
+AIに「全く同じこと」を頼み続けると、人間と同じく虚無に至る
+そうならないためにはタスクにランダム性をもたせるか、明示的にコンテキストを破棄させる必要がある
+どうしても同じことを頼む場合はそもそもコンテキストを保持させてはいけない
+
+以降の内容には、人に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1403f6be43bad5d085b3</id>
     <title>インターネットは軍事目的で始まった？歴史をざっくりと学ぶ</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/1403f6be43bad5d085b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -178,19 +191,6 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
     <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T11:35:04+09:00&lt;br/&gt;Updated: 2026-01-07T11:40:06+09:00&lt;br/&gt;インターネットが開発されてからWebサイトができるまで
 インターネットの始まりは1969年。
 米国防総省のARPA（高等研究計画局）という機関が4台のコンピュータを繋いだのがはじまりです。3つの大学と、スタンフォード研究所（SRI）などの研究機関で繋がれており、ARPAN...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4c65053a3db0e3bb6ecb</id>
-    <title>俺の設計が甘かったばかりにAIが精神を崩壊させてしまった件</title>
-    <link rel="alternate" href="https://qiita.com/Blacpans/items/4c65053a3db0e3bb6ecb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-10T17:20:09+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Blacpans&quot;&gt;Blacpans&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T17:20:09+09:00&lt;br/&gt;Updated: 2026-01-10T17:20:09+09:00&lt;br/&gt;TL;DR
-
-AIに「全く同じこと」を頼み続けると、人間と同じく虚無に至る
-そうならないためにはタスクにランダム性をもたせるか、明示的にコンテキストを破棄させる必要がある
-どうしても同じことを頼む場合はそもそもコンテキストを保持させてはいけない
-
-以降の内容には、人に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9e6595d7c6f6f0c90c4c</id>
@@ -281,6 +281,14 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 1. ブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6d571c3585577572badf</id>
+    <title>BI は未だに「新しいもの」なのか？</title>
+    <link rel="alternate" href="https://qiita.com/yugoes1021/items/6d571c3585577572badf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-11T17:19:46+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yugoes1021&quot;&gt;yugoes1021&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T17:19:46+09:00&lt;br/&gt;Updated: 2026-01-11T17:19:46+09:00&lt;br/&gt;ふと思いました
+2025年も変わらず、Power BI の仕事をしていました。多くは、企業さんから依頼を受けて、初学者向けに Power BI の研修を担当していました。その他、データ周りのコンサルティングもやってきました。2026年も引き続き、大きく変わらない予定です。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c241b9c10d259a9b4efc</id>
     <title>AWS初心者がAmazon Connectで簡単なコールセンターを構築した話</title>
     <link rel="alternate" href="https://qiita.com/tks_1128/items/c241b9c10d259a9b4efc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -300,14 +308,6 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 本記事は、JavaエンジニアがTypeScriptを扱う際に感じた違いを解説した記事です。
 これまで実務や個人開発でTypeScriptに触れていましたが、Javaの感覚でコードを読み進めていくと、TypeScript特有の概念や挙動に戸惑うことがありました。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6d571c3585577572badf</id>
-    <title>BI は未だに「新しいもの」なのか？</title>
-    <link rel="alternate" href="https://qiita.com/yugoes1021/items/6d571c3585577572badf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-11T17:19:46+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yugoes1021&quot;&gt;yugoes1021&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T17:19:46+09:00&lt;br/&gt;Updated: 2026-01-11T17:19:46+09:00&lt;br/&gt;ふと思いました
-2025年も変わらず、Power BI の仕事をしていました。多くは、企業さんから依頼を受けて、初学者向けに Power BI の研修を担当していました。その他、データ周りのコンサルティングもやってきました。2026年も引き続き、大きく変わらない予定です。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0b4a980f2f4bb073a9e0</id>
@@ -333,6 +333,18 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:811175c3695a5971b09d</id>
+    <title>【2026年1月12日時点】無料版Copilotで何ができるか調べてみた</title>
+    <link rel="alternate" href="https://qiita.com/sadabon444/items/811175c3695a5971b09d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-12T14:45:15+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T10:55:39+09:00&lt;br/&gt;Updated: 2026-01-12T14:45:15+09:00&lt;br/&gt;はじめに
+「プラスαの課金をすることなく使えるCopilotで、何ができるか」
+この記事では、2026年1月12日現時点での情報と、将来のロードマップを併せて紹介します。
+
+この記事の情報は、2026年1月12日現在のものです。
+またユーザーの呼称は、正式でなく便宜的な...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b6019ae2702c58f98bea</id>
     <title>お名前.comの罠にハマった私が、AIを「超絶クレーマー」に改造した話</title>
     <link rel="alternate" href="https://qiita.com/momo22222/items/b6019ae2702c58f98bea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -351,6 +363,16 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4387782ff8310427048e</id>
+    <title>AIエージェントがUIを生成する「Generative UI」を広く浅く理解したい</title>
+    <link rel="alternate" href="https://qiita.com/Takenoko4594/items/4387782ff8310427048e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-11T23:34:52+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takenoko4594&quot;&gt;Takenoko4594&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T23:34:52+09:00&lt;br/&gt;Updated: 2026-01-11T23:34:52+09:00&lt;br/&gt;はじめに
+「Generative UI」という単語をご存知でしょうか？
+Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
+AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4d28c47b1b6f7ef727cf</id>
     <title>【ポケモン×Java】知識編 ERROR #6 実行時エラーを防止するには？</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/4d28c47b1b6f7ef727cf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -367,18 +389,6 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 バトルの最中にゲームがフリーズする状態。
 止まる以上、「あとで考えよう」はできません。
 この章では、「どう直すか...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:811175c3695a5971b09d</id>
-    <title>【2026年1月12日時点】無料版Copilotで何ができるか調べてみた</title>
-    <link rel="alternate" href="https://qiita.com/sadabon444/items/811175c3695a5971b09d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-12T14:45:15+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T10:55:39+09:00&lt;br/&gt;Updated: 2026-01-12T14:45:15+09:00&lt;br/&gt;はじめに
-「プラスαの課金をすることなく使えるCopilotで、何ができるか」
-この記事では、2026年1月12日現時点での情報と、将来のロードマップを併せて紹介します。
-
-この記事の情報は、2026年1月12日現在のものです。
-またユーザーの呼称は、正式でなく便宜的な...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b7609a0f538696bedbd7</id>
@@ -413,16 +423,6 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:4387782ff8310427048e</id>
-    <title>AIエージェントがUIを生成する「Generative UI」を広く浅く理解したい</title>
-    <link rel="alternate" href="https://qiita.com/Takenoko4594/items/4387782ff8310427048e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-11T23:34:52+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takenoko4594&quot;&gt;Takenoko4594&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T23:34:52+09:00&lt;br/&gt;Updated: 2026-01-11T23:34:52+09:00&lt;br/&gt;はじめに
-「Generative UI」という単語をご存知でしょうか？
-Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
-AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:bdb07ac14ff966b56d81</id>
     <title>【Power Automate】ガマンして読むと JSON への抵抗が少し和らぐ気がする記事</title>
     <link rel="alternate" href="https://qiita.com/eigogakuto/items/bdb07ac14ff966b56d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -431,6 +431,18 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
 Power Automate を触っていて実行結果（履歴）を確認してみると、以下の画像の「出力」のように、何やら不思議な文字列の「かたまり」を目にしたことがあるかもしれません。
 
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:58be7519dee6a58f74d1</id>
+    <title>Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-11T15:03:40+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T15:03:27+09:00&lt;br/&gt;Updated: 2026-01-11T15:03:40+09:00&lt;br/&gt;この記事の対象読者
+
+JavaScriptの基本文法（関数、オブジェクト、コールバック）を理解している方
+Node.jsをインストールしてnpmコマンドを使ったことがある方
+Web API（REST API）という言葉を聞いたことがある方
+バックエンド開発に興味があり、最...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e5d0e562b85c3f6b5f27</id>
@@ -459,18 +471,6 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
     <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:22:12+09:00&lt;br/&gt;Updated: 2026-01-04T17:22:12+09:00&lt;br/&gt;この1週間、GitHubで複数のプロジェクトを同時並行で進め、AIを活用することで個人レベルでは不可能だったアウトプット量と質を実現しました。その軌跡と、それを可能にした「AI並列開発」の力について共有します。
 
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:58be7519dee6a58f74d1</id>
-    <title>Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-11T15:03:40+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T15:03:27+09:00&lt;br/&gt;Updated: 2026-01-11T15:03:40+09:00&lt;br/&gt;この記事の対象読者
-
-JavaScriptの基本文法（関数、オブジェクト、コールバック）を理解している方
-Node.jsをインストールしてnpmコマンドを使ったことがある方
-Web API（REST API）という言葉を聞いたことがある方
-バックエンド開発に興味があり、最...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fee7b58641ae4c15f062</id>
@@ -719,6 +719,14 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/neko_the_shadow&quot;&gt;neko_the_shadow&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:12:16+09:00&lt;br/&gt;Updated: 2026-01-04T11:12:16+09:00&lt;br/&gt;はじめに
 競技プログラミングやパズル系の問題を解いていると、  「複数の配列から取りうる すべての組み合わせを列挙したい」という場面がよくあります。
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d16ad3a0b271924013ec</id>
+    <title>【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-12T19:12:01+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-12T19:12:01+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
+またなんか無限レンダリングされるとかなんか2回...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4e3dd385af838f7228fa</id>
