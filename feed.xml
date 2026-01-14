@@ -153,7 +153,7 @@ SHAP値処理の改修
     <title>【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-13T22:59:41+09:00</updated>
-    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
+    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
 またなんか無限レンダリングされるとかなんか2回...</summary>
   </entry>
   <entry>
@@ -226,7 +226,7 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
     <title>AIエージェントがUIを生成する「Generative UI」を広く浅く理解したい</title>
     <link rel="alternate" href="https://qiita.com/Takenoko4594/items/4387782ff8310427048e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-11T23:34:52+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takenoko4594&quot;&gt;Takenoko4594&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T23:34:52+09:00&lt;br/&gt;Updated: 2026-01-11T23:34:52+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takenoko4594&quot;&gt;Takenoko4594&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T23:34:52+09:00&lt;br/&gt;Updated: 2026-01-11T23:34:52+09:00&lt;br/&gt;はじめに
 「Generative UI」という単語をご存知でしょうか？
 Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
@@ -503,6 +503,13 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:01de1ee21d2491c54450</id>
+    <title>ハッカー視点で語る「Initial Access（初期侵入）」 〜 派手なExploitより、地味なパスワードが最強 〜</title>
+    <link rel="alternate" href="https://qiita.com/tkmiii_GiGOOO/items/01de1ee21d2491c54450?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T17:55:18+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tkmiii_GiGOOO&quot;&gt;tkmiii_GiGOOO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T10:24:42+09:00&lt;br/&gt;Updated: 2026-01-13T17:55:18+09:00&lt;br/&gt;本記事の内容は、セキュリティの仕組みを理解するための学習・研究を目的としています。 許可のない第三者のシステムへの攻撃や侵入行為は、法律で固く禁止されています。 検証を行う際は、必ずご自身が管理する環境、または許可を得た環境内でのみ実施してください。 本記事の情報を利用...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:658b77f0bb7c73f9f508</id>
     <title>Rust × Python × Polars で実現する、秒間420万イベントの爆速・高精度バックテスター「crypto-rs-backtester」</title>
     <link rel="alternate" href="https://qiita.com/takurot/items/658b77f0bb7c73f9f508?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -510,13 +517,6 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
     <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
 そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
 Google Colabで手軽に試せるの...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:01de1ee21d2491c54450</id>
-    <title>ハッカー視点で語る「Initial Access（初期侵入）」 〜 派手なExploitより、地味なパスワードが最強 〜</title>
-    <link rel="alternate" href="https://qiita.com/tkmiii_GiGOOO/items/01de1ee21d2491c54450?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T17:55:18+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tkmiii_GiGOOO&quot;&gt;tkmiii_GiGOOO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T10:24:42+09:00&lt;br/&gt;Updated: 2026-01-13T17:55:18+09:00&lt;br/&gt;本記事の内容は、セキュリティの仕組みを理解するための学習・研究を目的としています。 許可のない第三者のシステムへの攻撃や侵入行為は、法律で固く禁止されています。 検証を行う際は、必ずご自身が管理する環境、または許可を得た環境内でのみ実施してください。 本記事の情報を利用...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bdb07ac14ff966b56d81</id>
