@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-13T22:59:41+09:00</updated>
+  <updated>2026-01-14T09:34:49+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -197,7 +197,7 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
     <title>BI は未だに「新しいもの」なのか？</title>
     <link rel="alternate" href="https://qiita.com/yugoes1021/items/6d571c3585577572badf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-11T17:19:46+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yugoes1021&quot;&gt;yugoes1021&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T17:19:46+09:00&lt;br/&gt;Updated: 2026-01-11T17:19:46+09:00&lt;br/&gt;ふと思いました
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yugoes1021&quot;&gt;yugoes1021&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T17:19:46+09:00&lt;br/&gt;Updated: 2026-01-11T17:19:46+09:00&lt;br/&gt;ふと思いました
 2025年も変わらず、Power BI の仕事をしていました。多くは、企業さんから依頼を受けて、初学者向けに Power BI の研修を担当していました。その他、データ周りのコンサルティングもやってきました。2026年も引き続き、大きく変わらない予定です。...</summary>
   </entry>
   <entry>
@@ -208,6 +208,14 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
     <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobayashimakoto&quot;&gt;kobayashimakoto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:32:18+09:00&lt;br/&gt;Updated: 2026-01-06T08:29:44+09:00&lt;br/&gt;はじめに
 カルーセルはWEBアプリケーションでよく採用されるUIコンポーネントの1つですが、一般的な実装パターンがなく、アクセシビリティを配慮しつつ実装するのも複雑で大変なので SlickやSwiperといったライブラリを採用するケースが多いのではないでしょうか。
 そんな...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d16ad3a0b271924013ec</id>
+    <title>【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T22:59:41+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
+またなんか無限レンダリングされるとかなんか2回...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9bc0a7a0a68b50c8e138</id>
@@ -230,22 +238,38 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
 ただ、そ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:d16ad3a0b271924013ec</id>
-    <title>【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T22:59:41+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
-またなんか無限レンダリングされるとかなんか2回...</summary>
+    <id>tag:qiita.com,2026:811175c3695a5971b09d</id>
+    <title>【2026年1月12日時点】無料版Copilotで何ができるか調べてみた</title>
+    <link rel="alternate" href="https://qiita.com/sadabon444/items/811175c3695a5971b09d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-12T14:45:15+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T10:55:39+09:00&lt;br/&gt;Updated: 2026-01-12T14:45:15+09:00&lt;br/&gt;はじめに
+「プラスαの課金をすることなく使えるCopilotで、何ができるか」
+この記事では、2026年1月12日現時点での情報と、将来のロードマップを併せて紹介します。
+
+この記事の情報は、2026年1月12日現在のものです。
+またユーザーの呼称は、正式でなく便宜的な...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4387782ff8310427048e</id>
     <title>AIエージェントがUIを生成する「Generative UI」を広く浅く理解したい</title>
     <link rel="alternate" href="https://qiita.com/Takenoko4594/items/4387782ff8310427048e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-11T23:34:52+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takenoko4594&quot;&gt;Takenoko4594&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T23:34:52+09:00&lt;br/&gt;Updated: 2026-01-11T23:34:52+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takenoko4594&quot;&gt;Takenoko4594&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T23:34:52+09:00&lt;br/&gt;Updated: 2026-01-11T23:34:52+09:00&lt;br/&gt;はじめに
 「Generative UI」という単語をご存知でしょうか？
 Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:58be7519dee6a58f74d1</id>
+    <title>Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-11T15:03:40+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T15:03:27+09:00&lt;br/&gt;Updated: 2026-01-11T15:03:40+09:00&lt;br/&gt;この記事の対象読者
+
+JavaScriptの基本文法（関数、オブジェクト、コールバック）を理解している方
+Node.jsをインストールしてnpmコマンドを使ったことがある方
+Web API（REST API）という言葉を聞いたことがある方
+バックエンド開発に興味があり、最...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e5789268d7ba860b4ca4</id>
@@ -255,18 +279,6 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
     <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T20:57:55+09:00&lt;br/&gt;Updated: 2026-01-06T19:49:00+09:00&lt;br/&gt;はじめに
 表題のとおり、Windows OS を USB メモリ上に導入して、任意の PC を使って利用するためのノウハウを共有したいと思います。
 本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:811175c3695a5971b09d</id>
-    <title>【2026年1月12日時点】無料版Copilotで何ができるか調べてみた</title>
-    <link rel="alternate" href="https://qiita.com/sadabon444/items/811175c3695a5971b09d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-12T14:45:15+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T10:55:39+09:00&lt;br/&gt;Updated: 2026-01-12T14:45:15+09:00&lt;br/&gt;はじめに
-「プラスαの課金をすることなく使えるCopilotで、何ができるか」
-この記事では、2026年1月12日現時点での情報と、将来のロードマップを併せて紹介します。
-
-この記事の情報は、2026年1月12日現在のものです。
-またユーザーの呼称は、正式でなく便宜的な...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
@@ -297,18 +309,6 @@ Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sakaimaging&quot;&gt;sakaimaging&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T13:24:45+09:00&lt;br/&gt;Updated: 2026-01-03T19:35:29+09:00&lt;br/&gt;はじめに
 Mermaid では、flowchart の矢印に animation を指定することで、通信が流れる様子をアニメーションとして表現できます。
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:58be7519dee6a58f74d1</id>
-    <title>Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-11T15:03:40+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T15:03:27+09:00&lt;br/&gt;Updated: 2026-01-11T15:03:40+09:00&lt;br/&gt;この記事の対象読者
-
-JavaScriptの基本文法（関数、オブジェクト、コールバック）を理解している方
-Node.jsをインストールしてnpmコマンドを使ったことがある方
-Web API（REST API）という言葉を聞いたことがある方
-バックエンド開発に興味があり、最...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a69ce52cc2862af7ebc9</id>
@@ -411,6 +411,19 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 この章では、「どう直すか...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:45699be4eb9d7e0f3b8b</id>
+    <title>データベースはなぜ大切なのか？多くの人が説明できない概念的な考え方について</title>
+    <link rel="alternate" href="https://qiita.com/shibata1111/items/45699be4eb9d7e0f3b8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T16:17:16+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-13T16:17:16+09:00&lt;br/&gt;はじめに
+「データベースは重要だ」
+という言葉をよく耳にします。
+そしてデータベースが「技術的に」何故大切なのか？
+という事については調べればすぐに出てきます。
+しかし根本的な考え方やデータベースへの捉え方。
+データベースに対する「概念的な」大切さを説いている人は意外にも...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b7609a0f538696bedbd7</id>
     <title>資格懐疑派がAWS SAP取得を目指したきっかけと学習法</title>
     <link rel="alternate" href="https://qiita.com/toproad/items/b7609a0f538696bedbd7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -453,6 +466,17 @@ Power Automate を触っていて実行結果（履歴）を確認してみる�
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cb29c3208ac188dad5f1</id>
+    <title>OCIのノーコード・エージェントビルダー『Agent Factory』がリリース！触ってみた</title>
+    <link rel="alternate" href="https://qiita.com/yushibats/items/cb29c3208ac188dad5f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T21:26:42+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T20:31:02+09:00&lt;br/&gt;Updated: 2026-01-13T21:26:42+09:00&lt;br/&gt;Oracle AI Database Private Agent Factory（通称：Agent Factory） がリリースされました！
+本記事では、
+
+新サービス・ノーコード AI エージェントビルダー「Agent Factory」の概要と特徴
+OCI Marketp...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e5d0e562b85c3f6b5f27</id>
     <title>【Select AI】クエリできすぎくんを使ってSelect AIを検証してみた（Part 1）</title>
     <link rel="alternate" href="https://qiita.com/marfujim/items/e5d0e562b85c3f6b5f27?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -479,19 +503,6 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
     <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:22:12+09:00&lt;br/&gt;Updated: 2026-01-04T17:22:12+09:00&lt;br/&gt;この1週間、GitHubで複数のプロジェクトを同時並行で進め、AIを活用することで個人レベルでは不可能だったアウトプット量と質を実現しました。その軌跡と、それを可能にした「AI並列開発」の力について共有します。
 
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:45699be4eb9d7e0f3b8b</id>
-    <title>データベースはなぜ大切なのか？多くの人が説明できない概念的な考え方について</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/45699be4eb9d7e0f3b8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T16:17:16+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-13T16:17:16+09:00&lt;br/&gt;はじめに
-「データベースは重要だ」
-という言葉をよく耳にします。
-そしてデータベースが「技術的に」何故大切なのか？
-という事については調べればすぐに出てきます。
-しかし根本的な考え方やデータベースへの捉え方。
-データベースに対する「概念的な」大切さを説いている人は意外にも...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fee7b58641ae4c15f062</id>
@@ -580,6 +591,22 @@ TCPとUDPの違い
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ea928f214c6c99dee66e</id>
+    <title>Bunってなんだ？〜爆速JavaScriptランタイムの全貌と実践ガイド〜</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/ea928f214c6c99dee66e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-11T14:56:22+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T14:56:22+09:00&lt;br/&gt;Updated: 2026-01-11T14:56:22+09:00&lt;br/&gt;この記事の対象読者
+
+JavaScriptまたはTypeScriptの基本文法を理解している方
+Node.jsを使ったことがある方
+「Bunって速いらしいけど、実際どうなの？」と気になっている方
+
+この記事で得られること
+
+Bunの設計思想と内部アーキテクチャの理解
+B...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1adb4495e74c1dbcd6c6</id>
     <title>Pythonで描くカオスの世界：二重振り子シミュレーターを作ってみよう</title>
     <link rel="alternate" href="https://qiita.com/abcdefg123/items/1adb4495e74c1dbcd6c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -609,22 +636,6 @@ TCPとUDPの違い
 データを保存するところ（データベース層）
 
 この3層...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ea928f214c6c99dee66e</id>
-    <title>Bunってなんだ？〜爆速JavaScriptランタイムの全貌と実践ガイド〜</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/ea928f214c6c99dee66e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-11T14:56:22+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T14:56:22+09:00&lt;br/&gt;Updated: 2026-01-11T14:56:22+09:00&lt;br/&gt;この記事の対象読者
-
-JavaScriptまたはTypeScriptの基本文法を理解している方
-Node.jsを使ったことがある方
-「Bunって速いらしいけど、実際どうなの？」と気になっている方
-
-この記事で得られること
-
-Bunの設計思想と内部アーキテクチャの理解
-B...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8725b4d80fb2a9456e63</id>
@@ -664,6 +675,17 @@ Emacs備忘録（２０２４年版）という記事を投稿してから２年
     <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/_YukiOgawa&quot;&gt;_YukiOgawa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T16:35:57+09:00&lt;br/&gt;Updated: 2026-01-05T16:35:57+09:00&lt;br/&gt;はじめに
 boto3を使ったPythonアプリケーションで、aws loginコマンドで認証したのに、15分くらいで「クレデンシャルが期限切れです」というエラーが出て困っていました。
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:61ce0d16d6e59cb567be</id>
+    <title>スマホでコードを書くという選択肢</title>
+    <link rel="alternate" href="https://qiita.com/sijiaoh/items/61ce0d16d6e59cb567be?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-12T19:47:40+09:00</updated>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sijiaoh&quot;&gt;sijiaoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T18:47:06+09:00&lt;br/&gt;Updated: 2026-01-12T19:47:40+09:00&lt;br/&gt;スマホでコードを書きたい。
+電車の中、散歩の途中、ちょっとした待ち時間。PCを開けない場面で、ふとコードのことが気になる。あの関数、あのバグ、あの機能。でもスマホでは記号の入力が絶望的で、実用的ではありません。
+私もそう思っていました。
+
+コーディングエージェントとの出会い...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f41f80af8eed80a9044f</id>
@@ -732,6 +754,17 @@ if / elsif / else のような条件分岐が増える
 業務自動化の仕事をしていて、VBAやPower Automateなどを使った効率化を行ってきました。
 その中でも最近では、LLMを活用した「社内ナレッジ検索」や「文書分析」のニーズが高まっていると肌で感じています。
 そして、個人開発ではStreamlit + L...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:f095a319eac1e5cabf13</id>
+    <title>Nano Banana Proでフォトリアル(写実的)な写真を生成するプロンプト作成手法【Reproducible Photorealistic Nano Banana Pro JSON Prompts】</title>
+    <link rel="alternate" href="https://qiita.com/7mpy/items/f095a319eac1e5cabf13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T09:34:49+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/7mpy&quot;&gt;7mpy&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T21:21:54+09:00&lt;br/&gt;Updated: 2026-01-14T09:34:49+09:00&lt;br/&gt;awesome系のリポジトリは大量にあるがフォトリアル特化のプロンプトが欲しかったのでメモ
+作成したリポジトリ
+
+戦略
+フォトリアルな写真が作りたいなら様々なプロンプトで大量の写真を生成しフォトリアル順に順位付けする。topKのプロンプトを改修し、さらに写真を生成し順位...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1a3e62d874cc376d42d6</id>
