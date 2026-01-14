@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-14T11:42:22+09:00</updated>
+  <updated>2026-01-14T12:43:13+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -188,7 +188,7 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
     <title>【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-13T22:59:41+09:00</updated>
-    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
+    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
 またなんか無限レンダリングされるとかなんか2回...</summary>
   </entry>
   <entry>
@@ -276,7 +276,7 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
     <title>データベースはなぜ大切なのか？多くの人が説明できない概念的な考え方について</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/45699be4eb9d7e0f3b8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-13T16:17:16+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-13T16:17:16+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-13T16:17:16+09:00&lt;br/&gt;はじめに
 「データベースは重要だ」
 という言葉をよく耳にします。
 そしてデータベースが「技術的に」何故大切なのか？
@@ -344,6 +344,17 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 1. ブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cb29c3208ac188dad5f1</id>
+    <title>OCIのノーコード・エージェントビルダー『Agent Factory』がリリース！触ってみた</title>
+    <link rel="alternate" href="https://qiita.com/yushibats/items/cb29c3208ac188dad5f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T11:42:22+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T20:31:02+09:00&lt;br/&gt;Updated: 2026-01-14T11:42:22+09:00&lt;br/&gt;Oracle AI Database Private Agent Factory（通称：Agent Factory） がリリースされました！
+本記事では、
+
+新サービス・ノーコード AI エージェントビルダー「Agent Factory」の概要と特徴
+OCI Marketp...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c241b9c10d259a9b4efc</id>
     <title>AWS初心者がAmazon Connectで簡単なコールセンターを構築した話</title>
     <link rel="alternate" href="https://qiita.com/tks_1128/items/c241b9c10d259a9b4efc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -355,15 +366,15 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:cb29c3208ac188dad5f1</id>
-    <title>OCIのノーコード・エージェントビルダー『Agent Factory』がリリース！触ってみた</title>
-    <link rel="alternate" href="https://qiita.com/yushibats/items/cb29c3208ac188dad5f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T11:42:22+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T20:31:02+09:00&lt;br/&gt;Updated: 2026-01-14T11:42:22+09:00&lt;br/&gt;Oracle AI Database Private Agent Factory（通称：Agent Factory） がリリースされました！
-本記事では、
+    <id>tag:qiita.com,2026:61ce0d16d6e59cb567be</id>
+    <title>スマホでコードを書くという選択肢</title>
+    <link rel="alternate" href="https://qiita.com/sijiaoh/items/61ce0d16d6e59cb567be?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-12T19:47:40+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sijiaoh&quot;&gt;sijiaoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T18:47:06+09:00&lt;br/&gt;Updated: 2026-01-12T19:47:40+09:00&lt;br/&gt;スマホでコードを書きたい。
+電車の中、散歩の途中、ちょっとした待ち時間。PCを開けない場面で、ふとコードのことが気になる。あの関数、あのバグ、あの機能。でもスマホでは記号の入力が絶望的で、実用的ではありません。
+私もそう思っていました。
 
-新サービス・ノーコード AI エージェントビルダー「Agent Factory」の概要と特徴
-OCI Marketp...</summary>
+コーディングエージェントとの出会い...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5eab2570dbed38021851</id>
@@ -397,17 +408,6 @@ OCI Marketp...</summary>
 GMOコネクトの大谷です。
 H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」として大きく報じられました。
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:61ce0d16d6e59cb567be</id>
-    <title>スマホでコードを書くという選択肢</title>
-    <link rel="alternate" href="https://qiita.com/sijiaoh/items/61ce0d16d6e59cb567be?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-12T19:47:40+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sijiaoh&quot;&gt;sijiaoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T18:47:06+09:00&lt;br/&gt;Updated: 2026-01-12T19:47:40+09:00&lt;br/&gt;スマホでコードを書きたい。
-電車の中、散歩の途中、ちょっとした待ち時間。PCを開けない場面で、ふとコードのことが気になる。あの関数、あのバグ、あの機能。でもスマホでは記号の入力が絶望的で、実用的ではありません。
-私もそう思っていました。
-
-コーディングエージェントとの出会い...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b6019ae2702c58f98bea</id>
@@ -516,6 +516,30 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b1726a7a6054ed7e64df</id>
+    <title>アーキテクチャの本質は共通している？最も大切な責務分離という考え方</title>
+    <link rel="alternate" href="https://qiita.com/shibata1111/items/b1726a7a6054ed7e64df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T16:18:51+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T15:27:06+09:00&lt;br/&gt;Updated: 2026-01-13T16:18:51+09:00&lt;br/&gt;はじめに
+みなさんはWebシステムの3層アーキテクチャ(構造)についてご存じでしょうか？
+簡単に説明すると、Webシステムは
+
+画面を見せるところ（プレゼンテーション層）
+プロセスを実行するところ（アプリケーション層）
+データを保存するところ（データベース層）
+
+この3層...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:658b77f0bb7c73f9f508</id>
+    <title>Rust × Python × Polars で実現する、秒間420万イベントの爆速・高精度バックテスター「crypto-rs-backtester」</title>
+    <link rel="alternate" href="https://qiita.com/takurot/items/658b77f0bb7c73f9f508?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-12T04:42:24+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
+そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
+Google Colabで手軽に試せるの...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fee7b58641ae4c15f062</id>
     <title>AIエージェントと MCPサーバーで Oracle AWR レポートを生成・分析してみよう</title>
     <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/fee7b58641ae4c15f062?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -547,19 +571,19 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 そんな私が、生成AI（ChatGPT / Cla...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b1726a7a6054ed7e64df</id>
-    <title>アーキテクチャの本質は共通している？最も大切な責務分離という考え方</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/b1726a7a6054ed7e64df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T16:18:51+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T15:27:06+09:00&lt;br/&gt;Updated: 2026-01-13T16:18:51+09:00&lt;br/&gt;はじめに
-みなさんはWebシステムの3層アーキテクチャ(構造)についてご存じでしょうか？
-簡単に説明すると、Webシステムは
-
-画面を見せるところ（プレゼンテーション層）
-プロセスを実行するところ（アプリケーション層）
-データを保存するところ（データベース層）
-
-この3層...</summary>
+    <id>tag:qiita.com,2026:01de1ee21d2491c54450</id>
+    <title>ハッカー視点で語る「Initial Access（初期侵入）」 〜 派手なExploitより、地味なパスワードが最強 〜</title>
+    <link rel="alternate" href="https://qiita.com/tkmiii_GiGOOO/items/01de1ee21d2491c54450?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T17:55:18+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tkmiii_GiGOOO&quot;&gt;tkmiii_GiGOOO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T10:24:42+09:00&lt;br/&gt;Updated: 2026-01-13T17:55:18+09:00&lt;br/&gt;本記事の内容は、セキュリティの仕組みを理解するための学習・研究を目的としています。 許可のない第三者のシステムへの攻撃や侵入行為は、法律で固く禁止されています。 検証を行う際は、必ずご自身が管理する環境、または許可を得た環境内でのみ実施してください。 本記事の情報を利用...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:22c391addbdb74e7ace3</id>
+    <title>Unityでドンキーコングバナンザみたいにボクセルを扱う(メッシュ生成編)</title>
+    <link rel="alternate" href="https://qiita.com/0ali8hi26/items/22c391addbdb74e7ace3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T10:34:27+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/0ali8hi26&quot;&gt;0ali8hi26&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T10:34:25+09:00&lt;br/&gt;Updated: 2026-01-13T10:34:27+09:00&lt;br/&gt;初めまして、ウリノと申します。所属している山形大学のサークルの先輩からアドベントカレンダーやってみない？っていうお誘いがあり初めての記事投稿をさせてもらうことになりました。
+しかしながらいったい何を題材に書いたものか…そんなに語れることがない気がする…と思いながらもとりあえ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ea928f214c6c99dee66e</id>
@@ -633,13 +657,15 @@ TCPとUDPの違い
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:658b77f0bb7c73f9f508</id>
-    <title>Rust × Python × Polars で実現する、秒間420万イベントの爆速・高精度バックテスター「crypto-rs-backtester」</title>
-    <link rel="alternate" href="https://qiita.com/takurot/items/658b77f0bb7c73f9f508?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-12T04:42:24+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
-そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
-Google Colabで手軽に試せるの...</summary>
+    <id>tag:qiita.com,2026:f095a319eac1e5cabf13</id>
+    <title>Nano Banana Proでフォトリアル(写実的)な写真を生成するプロンプト作成手法【Reproducible Photorealistic Nano Banana Pro JSON Prompts】</title>
+    <link rel="alternate" href="https://qiita.com/7mpy/items/f095a319eac1e5cabf13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T09:34:49+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/7mpy&quot;&gt;7mpy&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T21:21:54+09:00&lt;br/&gt;Updated: 2026-01-14T09:34:49+09:00&lt;br/&gt;awesome系のリポジトリは大量にあるがフォトリアル特化のプロンプトが欲しかったのでメモ
+作成したリポジトリ
+
+戦略
+フォトリアルな写真が作りたいなら様々なプロンプトで大量の写真を生成しフォトリアル順に順位付けする。topKのプロンプトを改修し、さらに写真を生成し順位...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1adb4495e74c1dbcd6c6</id>
@@ -656,32 +682,6 @@ Google Colabで手軽に試せるの...</summary>
     <updated>2026-01-03T09:15:39+09:00</updated>
     <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KimuraSoh&quot;&gt;KimuraSoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T09:15:39+09:00&lt;br/&gt;Updated: 2026-01-03T09:15:39+09:00&lt;br/&gt;はじめに
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f095a319eac1e5cabf13</id>
-    <title>Nano Banana Proでフォトリアル(写実的)な写真を生成するプロンプト作成手法【Reproducible Photorealistic Nano Banana Pro JSON Prompts】</title>
-    <link rel="alternate" href="https://qiita.com/7mpy/items/f095a319eac1e5cabf13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T09:34:49+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/7mpy&quot;&gt;7mpy&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T21:21:54+09:00&lt;br/&gt;Updated: 2026-01-14T09:34:49+09:00&lt;br/&gt;awesome系のリポジトリは大量にあるがフォトリアル特化のプロンプトが欲しかったのでメモ
-作成したリポジトリ
-
-戦略
-フォトリアルな写真が作りたいなら様々なプロンプトで大量の写真を生成しフォトリアル順に順位付けする。topKのプロンプトを改修し、さらに写真を生成し順位...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:01de1ee21d2491c54450</id>
-    <title>ハッカー視点で語る「Initial Access（初期侵入）」 〜 派手なExploitより、地味なパスワードが最強 〜</title>
-    <link rel="alternate" href="https://qiita.com/tkmiii_GiGOOO/items/01de1ee21d2491c54450?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T17:55:18+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tkmiii_GiGOOO&quot;&gt;tkmiii_GiGOOO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T10:24:42+09:00&lt;br/&gt;Updated: 2026-01-13T17:55:18+09:00&lt;br/&gt;本記事の内容は、セキュリティの仕組みを理解するための学習・研究を目的としています。 許可のない第三者のシステムへの攻撃や侵入行為は、法律で固く禁止されています。 検証を行う際は、必ずご自身が管理する環境、または許可を得た環境内でのみ実施してください。 本記事の情報を利用...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:22c391addbdb74e7ace3</id>
-    <title>Unityでドンキーコングバナンザみたいにボクセルを扱う(メッシュ生成編)</title>
-    <link rel="alternate" href="https://qiita.com/0ali8hi26/items/22c391addbdb74e7ace3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T10:34:27+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/0ali8hi26&quot;&gt;0ali8hi26&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T10:34:25+09:00&lt;br/&gt;Updated: 2026-01-13T10:34:27+09:00&lt;br/&gt;初めまして、ウリノと申します。所属している山形大学のサークルの先輩からアドベントカレンダーやってみない？っていうお誘いがあり初めての記事投稿をさせてもらうことになりました。
-しかしながらいったい何を題材に書いたものか…そんなに語れることがない気がする…と思いながらもとりあえ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8725b4d80fb2a9456e63</id>
@@ -721,6 +721,29 @@ Emacs備忘録（２０２４年版）という記事を投稿してから２年
     <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/_YukiOgawa&quot;&gt;_YukiOgawa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T16:35:57+09:00&lt;br/&gt;Updated: 2026-01-05T16:35:57+09:00&lt;br/&gt;はじめに
 boto3を使ったPythonアプリケーションで、aws loginコマンドで認証したのに、15分くらいで「クレデンシャルが期限切れです」というエラーが出て困っていました。
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e64b9f26c54607f7862b</id>
+    <title>Web関係のセキュリティについて初心者でもわかるようにまとめてみた - OWASP Top 10:2025</title>
+    <link rel="alternate" href="https://qiita.com/shibata1111/items/e64b9f26c54607f7862b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T12:43:13+09:00</updated>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:32:15+09:00&lt;br/&gt;Updated: 2026-01-14T12:43:13+09:00&lt;br/&gt;はじめに
+セキュリティに問題があると、大変なことになります。
+普通のバグは不便で済むこともありますが、セキュリティの穴はアカウント乗っ取り、情報漏えい、サービス停止など、取り返しがつかない形で表に出やすいのです。
+そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:97b14db690c99ecfbbb1</id>
+    <title>2025年日本で出版された情報セキュリティ、サイバーセキュリティ関連書籍</title>
+    <link rel="alternate" href="https://qiita.com/sonodam/items/97b14db690c99ecfbbb1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T15:51:45+09:00</updated>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sonodam&quot;&gt;sonodam&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T15:09:29+09:00&lt;br/&gt;Updated: 2026-01-13T15:51:45+09:00&lt;br/&gt;11月
+
+脅威ハンティング　潜むサイバー攻撃を暴く技術（2025/11/28）
+
+PSIRT実践ガイド　〜企業と顧客を守る戦略的アプローチ〜（2025/11/25）
+
+Pythonで学ぶ Webアプリのセキュアコーディング 脆弱性の見つけ方・直し方が身につく実践入...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f41f80af8eed80a9044f</id>
@@ -791,19 +814,6 @@ if / elsif / else のような条件分岐が増える
 そして、個人開発ではStreamlit + L...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:97b14db690c99ecfbbb1</id>
-    <title>2025年日本で出版された情報セキュリティ、サイバーセキュリティ関連書籍</title>
-    <link rel="alternate" href="https://qiita.com/sonodam/items/97b14db690c99ecfbbb1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T15:51:45+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sonodam&quot;&gt;sonodam&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T15:09:29+09:00&lt;br/&gt;Updated: 2026-01-13T15:51:45+09:00&lt;br/&gt;11月
-
-脅威ハンティング　潜むサイバー攻撃を暴く技術（2025/11/28）
-
-PSIRT実践ガイド　〜企業と顧客を守る戦略的アプローチ〜（2025/11/25）
-
-Pythonで学ぶ Webアプリのセキュアコーディング 脆弱性の見つけ方・直し方が身につく実践入...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:1cf0721b201896d87ec3</id>
     <title>【無料】Gemini APIでPDFを丸ごと翻訳＆Markdown変換！図表の自動抽出もできる高度なOCRプログラムの解説</title>
     <link rel="alternate" href="https://qiita.com/yuki_2020/items/1cf0721b201896d87ec3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -852,6 +862,21 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/neko_the_shadow&quot;&gt;neko_the_shadow&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:12:16+09:00&lt;br/&gt;Updated: 2026-01-04T11:12:16+09:00&lt;br/&gt;はじめに
 競技プログラミングやパズル系の問題を解いていると、  「複数の配列から取りうる すべての組み合わせを列挙したい」という場面がよくあります。
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:44c3376cd87c3d1bc9f2</id>
+    <title>Aurora MySQL から S3 に直接 CSV 出力する【SELECT INTO OUTFILE S3】</title>
+    <link rel="alternate" href="https://qiita.com/h_ito_yzrh/items/44c3376cd87c3d1bc9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T09:54:45+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/h_ito_yzrh&quot;&gt;h_ito_yzrh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T09:54:45+09:00&lt;br/&gt;Updated: 2026-01-14T09:54:45+09:00&lt;br/&gt;アプリで大量レコードのCSV出力は重すぎる
+僕は常々思ってるんですが、
+CSV出力って面倒じゃないですか
+本来アプリがやるには重すぎる仕事なんじゃないかと思うんです
+大量レコードを出力する際、
+
+DBから1万件ずつデータ引っ張ってきて
+CSVファイルに書き込んで
+数GBの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:204df7802b9855461f74</id>
