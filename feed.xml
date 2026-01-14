@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-14T18:53:15+09:00</updated>
+  <updated>2026-01-14T23:28:54+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -192,6 +192,14 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6d571c3585577572badf</id>
+    <title>BI は未だに「新しいもの」なのか？</title>
+    <link rel="alternate" href="https://qiita.com/yugoes1021/items/6d571c3585577572badf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-11T17:19:46+09:00</updated>
+    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yugoes1021&quot;&gt;yugoes1021&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T17:19:46+09:00&lt;br/&gt;Updated: 2026-01-11T17:19:46+09:00&lt;br/&gt;ふと思いました
+2025年も変わらず、Power BI の仕事をしていました。多くは、企業さんから依頼を受けて、初学者向けに Power BI の研修を担当していました。その他、データ周りのコンサルティングもやってきました。2026年も引き続き、大きく変わらない予定です。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1403f6be43bad5d085b3</id>
     <title>インターネットは軍事目的で始まった？歴史をざっくりと学ぶ</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/1403f6be43bad5d085b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -201,19 +209,11 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
 米国防総省のARPA（高等研究計画局）という機関が4台のコンピュータを繋いだのがはじまりです。3つの大学と、スタンフォード研究所（SRI）などの研究機関で繋がれており、ARPAN...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:6d571c3585577572badf</id>
-    <title>BI は未だに「新しいもの」なのか？</title>
-    <link rel="alternate" href="https://qiita.com/yugoes1021/items/6d571c3585577572badf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-11T17:19:46+09:00</updated>
-    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yugoes1021&quot;&gt;yugoes1021&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T17:19:46+09:00&lt;br/&gt;Updated: 2026-01-11T17:19:46+09:00&lt;br/&gt;ふと思いました
-2025年も変わらず、Power BI の仕事をしていました。多くは、企業さんから依頼を受けて、初学者向けに Power BI の研修を担当していました。その他、データ周りのコンサルティングもやってきました。2026年も引き続き、大きく変わらない予定です。...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:45699be4eb9d7e0f3b8b</id>
     <title>データベースはなぜ大切なのか？多くの人が説明できない概念的な考え方について</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/45699be4eb9d7e0f3b8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-13T16:17:16+09:00</updated>
-    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-13T16:17:16+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-13T16:17:16+09:00&lt;br/&gt;はじめに
 「データベースは重要だ」
 という言葉をよく耳にします。
 そしてデータベースが「技術的に」何故大切なのか？
@@ -503,20 +503,20 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:658b77f0bb7c73f9f508</id>
+    <title>Rust × Python × Polars で実現する、秒間420万イベントの爆速・高精度バックテスター「crypto-rs-backtester」</title>
+    <link rel="alternate" href="https://qiita.com/takurot/items/658b77f0bb7c73f9f508?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-12T04:42:24+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
+そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
+Google Colabで手軽に試せるの...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:01de1ee21d2491c54450</id>
     <title>ハッカー視点で語る「Initial Access（初期侵入）」 〜 派手なExploitより、地味なパスワードが最強 〜</title>
     <link rel="alternate" href="https://qiita.com/tkmiii_GiGOOO/items/01de1ee21d2491c54450?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-13T17:55:18+09:00</updated>
     <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tkmiii_GiGOOO&quot;&gt;tkmiii_GiGOOO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T10:24:42+09:00&lt;br/&gt;Updated: 2026-01-13T17:55:18+09:00&lt;br/&gt;本記事の内容は、セキュリティの仕組みを理解するための学習・研究を目的としています。 許可のない第三者のシステムへの攻撃や侵入行為は、法律で固く禁止されています。 検証を行う際は、必ずご自身が管理する環境、または許可を得た環境内でのみ実施してください。 本記事の情報を利用...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:658b77f0bb7c73f9f508</id>
-    <title>Rust × Python × Polars で実現する、秒間420万イベントの爆速・高精度バックテスター「crypto-rs-backtester」</title>
-    <link rel="alternate" href="https://qiita.com/takurot/items/658b77f0bb7c73f9f508?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-12T04:42:24+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
-そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
-Google Colabで手軽に試せるの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bdb07ac14ff966b56d81</id>
@@ -557,6 +557,17 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f095a319eac1e5cabf13</id>
+    <title>Nano Banana Proでフォトリアル(写実的)な写真を生成するプロンプト作成手法【Reproducible Photorealistic Nano Banana Pro JSON Prompts】</title>
+    <link rel="alternate" href="https://qiita.com/7mpy/items/f095a319eac1e5cabf13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T09:34:49+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/7mpy&quot;&gt;7mpy&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T21:21:54+09:00&lt;br/&gt;Updated: 2026-01-14T09:34:49+09:00&lt;br/&gt;awesome系のリポジトリは大量にあるがフォトリアル特化のプロンプトが欲しかったのでメモ
+作成したリポジトリ
+
+戦略
+フォトリアルな写真が作りたいなら様々なプロンプトで大量の写真を生成しフォトリアル順に順位付けする。topKのプロンプトを改修し、さらに写真を生成し順位...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:22c391addbdb74e7ace3</id>
     <title>Unityでドンキーコングバナンザみたいにボクセルを扱う(メッシュ生成編)</title>
     <link rel="alternate" href="https://qiita.com/0ali8hi26/items/22c391addbdb74e7ace3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -594,17 +605,6 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 はじめまして。東海地区で建築設計事務所を経営している建築士です。
 いきなりですが、私はプログラミングの知識はゼロです。Pythonは「ヘビの種類？」だと思っていました。
 そんな私が、生成AI（ChatGPT / Cla...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f095a319eac1e5cabf13</id>
-    <title>Nano Banana Proでフォトリアル(写実的)な写真を生成するプロンプト作成手法【Reproducible Photorealistic Nano Banana Pro JSON Prompts】</title>
-    <link rel="alternate" href="https://qiita.com/7mpy/items/f095a319eac1e5cabf13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T09:34:49+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/7mpy&quot;&gt;7mpy&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T21:21:54+09:00&lt;br/&gt;Updated: 2026-01-14T09:34:49+09:00&lt;br/&gt;awesome系のリポジトリは大量にあるがフォトリアル特化のプロンプトが欲しかったのでメモ
-作成したリポジトリ
-
-戦略
-フォトリアルな写真が作りたいなら様々なプロンプトで大量の写真を生成しフォトリアル順に順位付けする。topKのプロンプトを改修し、さらに写真を生成し順位...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ea928f214c6c99dee66e</id>
@@ -814,6 +814,34 @@ if / elsif / else のような条件分岐が増える
 そして、個人開発ではStreamlit + L...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:44c3376cd87c3d1bc9f2</id>
+    <title>Aurora MySQL から S3 に直接 CSV 出力する【SELECT INTO OUTFILE S3】</title>
+    <link rel="alternate" href="https://qiita.com/h_ito_yzrh/items/44c3376cd87c3d1bc9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T09:54:45+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/h_ito_yzrh&quot;&gt;h_ito_yzrh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T09:54:45+09:00&lt;br/&gt;Updated: 2026-01-14T09:54:45+09:00&lt;br/&gt;アプリで大量レコードのCSV出力は重すぎる
+僕は常々思ってるんですが、
+CSV出力って面倒じゃないですか
+本来アプリがやるには重すぎる仕事なんじゃないかと思うんです
+大量レコードを出力する際、
+
+DBから1万件ずつデータ引っ張ってきて
+CSVファイルに書き込んで
+数GBの...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:31399825fe2a1a03550a</id>
+    <title>Claude Codeとghコマンドで、コードエディタをほぼ触らなくなった話</title>
+    <link rel="alternate" href="https://qiita.com/take-yoda/items/31399825fe2a1a03550a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T17:15:15+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T17:15:15+09:00&lt;br/&gt;Updated: 2026-01-13T17:15:15+09:00&lt;br/&gt;株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。
+今回はClaude CodeとGitHubを利用した開発についてのお話です。
+
+対象読者
+
+生成AI初心者の方
+難しい設定なしでも、大きく開発者体験が向上します。ユーザープロン...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:920a517db6ae869aa336</id>
     <title># イーロン・マスクが未来を語った時 - そして私はすべてを考え直さなければならなくなった</title>
     <link rel="alternate" href="https://qiita.com/TOMOSIA-LinhND/items/920a517db6ae869aa336?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -873,32 +901,18 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:44c3376cd87c3d1bc9f2</id>
-    <title>Aurora MySQL から S3 に直接 CSV 出力する【SELECT INTO OUTFILE S3】</title>
-    <link rel="alternate" href="https://qiita.com/h_ito_yzrh/items/44c3376cd87c3d1bc9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T09:54:45+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/h_ito_yzrh&quot;&gt;h_ito_yzrh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T09:54:45+09:00&lt;br/&gt;Updated: 2026-01-14T09:54:45+09:00&lt;br/&gt;アプリで大量レコードのCSV出力は重すぎる
-僕は常々思ってるんですが、
-CSV出力って面倒じゃないですか
-本来アプリがやるには重すぎる仕事なんじゃないかと思うんです
-大量レコードを出力する際、
+    <id>tag:qiita.com,2026:c130168ca3fc0f1f6aaa</id>
+    <title>Claude Codeに別のAIエージェント（Codex等）を相談役として付けてみた</title>
+    <link rel="alternate" href="https://qiita.com/hiropon122/items/c130168ca3fc0f1f6aaa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T23:28:54+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiropon122&quot;&gt;hiropon122&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T09:56:01+09:00&lt;br/&gt;Updated: 2026-01-14T23:28:54+09:00&lt;br/&gt;きっかけ
+Claude Codeには日頃から大変お世話になっていますが、完全にお任せというわけにも行かないのが実情です。
 
-DBから1万件ずつデータ引っ張ってきて
-CSVファイルに書き込んで
-数GBの...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:31399825fe2a1a03550a</id>
-    <title>Claude Codeとghコマンドで、コードエディタをほぼ触らなくなった話</title>
-    <link rel="alternate" href="https://qiita.com/take-yoda/items/31399825fe2a1a03550a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T17:15:15+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T17:15:15+09:00&lt;br/&gt;Updated: 2026-01-13T17:15:15+09:00&lt;br/&gt;株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。
-今回はClaude CodeとGitHubを利用した開発についてのお話です。
+計画段階でのレビュー - 「そのアプローチで大丈夫？」と確認したい
 
-対象読者
+実装中の軌道修正 - おかしな方向に進みそうなときに相談に乗りたい
 
-生成AI初心者の方
-難しい設定なしでも、大きく開発者体験が向上します。ユーザープロン...</summary>
+完了時...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7123e96470396ffc4819</id>
