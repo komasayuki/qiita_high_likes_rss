@@ -153,7 +153,7 @@ SHAP値処理の改修
     <title>【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-13T22:59:41+09:00</updated>
-    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
+    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
 またなんか無限レンダリングされるとかなんか2回...</summary>
   </entry>
   <entry>
@@ -408,6 +408,21 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b1726a7a6054ed7e64df</id>
+    <title>アーキテクチャの本質は共通している？最も大切な責務分離という考え方</title>
+    <link rel="alternate" href="https://qiita.com/shibata1111/items/b1726a7a6054ed7e64df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T16:18:51+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T15:27:06+09:00&lt;br/&gt;Updated: 2026-01-13T16:18:51+09:00&lt;br/&gt;はじめに
+みなさんはWebシステムの3層アーキテクチャ(構造)についてご存じでしょうか？
+簡単に説明すると、Webシステムは
+
+画面を見せるところ（プレゼンテーション層）
+プロセスを実行するところ（アプリケーション層）
+データを保存するところ（データベース層）
+
+この3層...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:db798b2e5805c51a64c1</id>
     <title>H3ロケットの失敗から学ぶ、前提を疑う設計</title>
     <link rel="alternate" href="https://qiita.com/sh-ohtani/items/db798b2e5805c51a64c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -418,21 +433,6 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 GMOコネクトの大谷です。
 H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」として大きく報じられました。
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b1726a7a6054ed7e64df</id>
-    <title>アーキテクチャの本質は共通している？最も大切な責務分離という考え方</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/b1726a7a6054ed7e64df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T16:18:51+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T15:27:06+09:00&lt;br/&gt;Updated: 2026-01-13T16:18:51+09:00&lt;br/&gt;はじめに
-みなさんはWebシステムの3層アーキテクチャ(構造)についてご存じでしょうか？
-簡単に説明すると、Webシステムは
-
-画面を見せるところ（プレゼンテーション層）
-プロセスを実行するところ（アプリケーション層）
-データを保存するところ（データベース層）
-
-この3層...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b6019ae2702c58f98bea</id>
@@ -507,7 +507,7 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
     <title>Rust × Python × Polars で実現する、秒間420万イベントの爆速・高精度バックテスター「crypto-rs-backtester」</title>
     <link rel="alternate" href="https://qiita.com/takurot/items/658b77f0bb7c73f9f508?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-12T04:42:24+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
 そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
 Google Colabで手軽に試せるの...</summary>
   </entry>
@@ -678,6 +678,19 @@ TCPとUDPの違い
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:97b14db690c99ecfbbb1</id>
+    <title>2025年日本で出版された情報セキュリティ、サイバーセキュリティ関連書籍</title>
+    <link rel="alternate" href="https://qiita.com/sonodam/items/97b14db690c99ecfbbb1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T15:51:45+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sonodam&quot;&gt;sonodam&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T15:09:29+09:00&lt;br/&gt;Updated: 2026-01-13T15:51:45+09:00&lt;br/&gt;11月
+
+脅威ハンティング　潜むサイバー攻撃を暴く技術（2025/11/28）
+
+PSIRT実践ガイド　〜企業と顧客を守る戦略的アプローチ〜（2025/11/25）
+
+Pythonで学ぶ Webアプリのセキュアコーディング 脆弱性の見つけ方・直し方が身につく実践入...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1adb4495e74c1dbcd6c6</id>
     <title>Pythonで描くカオスの世界：二重振り子シミュレーターを作ってみよう</title>
     <link rel="alternate" href="https://qiita.com/abcdefg123/items/1adb4495e74c1dbcd6c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -733,17 +746,32 @@ boto3を使ったPythonアプリケーションで、aws loginコマンドで認
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:97b14db690c99ecfbbb1</id>
-    <title>2025年日本で出版された情報セキュリティ、サイバーセキュリティ関連書籍</title>
-    <link rel="alternate" href="https://qiita.com/sonodam/items/97b14db690c99ecfbbb1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T15:51:45+09:00</updated>
-    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sonodam&quot;&gt;sonodam&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T15:09:29+09:00&lt;br/&gt;Updated: 2026-01-13T15:51:45+09:00&lt;br/&gt;11月
+    <id>tag:qiita.com,2026:44c3376cd87c3d1bc9f2</id>
+    <title>Aurora MySQL から S3 に直接 CSV 出力する【SELECT INTO OUTFILE S3】</title>
+    <link rel="alternate" href="https://qiita.com/h_ito_yzrh/items/44c3376cd87c3d1bc9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T09:54:45+09:00</updated>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/h_ito_yzrh&quot;&gt;h_ito_yzrh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T09:54:45+09:00&lt;br/&gt;Updated: 2026-01-14T09:54:45+09:00&lt;br/&gt;アプリで大量レコードのCSV出力は重すぎる
+僕は常々思ってるんですが、
+CSV出力って面倒じゃないですか
+本来アプリがやるには重すぎる仕事なんじゃないかと思うんです
+大量レコードを出力する際、
 
-脅威ハンティング　潜むサイバー攻撃を暴く技術（2025/11/28）
+DBから1万件ずつデータ引っ張ってきて
+CSVファイルに書き込んで
+数GBの...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:31399825fe2a1a03550a</id>
+    <title>Claude Codeとghコマンドで、コードエディタをほぼ触らなくなった話</title>
+    <link rel="alternate" href="https://qiita.com/take-yoda/items/31399825fe2a1a03550a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T17:15:15+09:00</updated>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T17:15:15+09:00&lt;br/&gt;Updated: 2026-01-13T17:15:15+09:00&lt;br/&gt;株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。
+今回はClaude CodeとGitHubを利用した開発についてのお話です。
 
-PSIRT実践ガイド　〜企業と顧客を守る戦略的アプローチ〜（2025/11/25）
+対象読者
 
-Pythonで学ぶ Webアプリのセキュアコーディング 脆弱性の見つけ方・直し方が身につく実践入...</summary>
+生成AI初心者の方
+難しい設定なしでも、大きく開発者体験が向上します。ユーザープロン...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f41f80af8eed80a9044f</id>
@@ -814,32 +842,18 @@ if / elsif / else のような条件分岐が増える
 そして、個人開発ではStreamlit + L...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:44c3376cd87c3d1bc9f2</id>
-    <title>Aurora MySQL から S3 に直接 CSV 出力する【SELECT INTO OUTFILE S3】</title>
-    <link rel="alternate" href="https://qiita.com/h_ito_yzrh/items/44c3376cd87c3d1bc9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T09:54:45+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/h_ito_yzrh&quot;&gt;h_ito_yzrh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T09:54:45+09:00&lt;br/&gt;Updated: 2026-01-14T09:54:45+09:00&lt;br/&gt;アプリで大量レコードのCSV出力は重すぎる
-僕は常々思ってるんですが、
-CSV出力って面倒じゃないですか
-本来アプリがやるには重すぎる仕事なんじゃないかと思うんです
-大量レコードを出力する際、
+    <id>tag:qiita.com,2026:c130168ca3fc0f1f6aaa</id>
+    <title>Claude Codeに別のAIエージェント（Codex等）を相談役として付けてみた</title>
+    <link rel="alternate" href="https://qiita.com/hiropon122/items/c130168ca3fc0f1f6aaa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T23:28:54+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiropon122&quot;&gt;hiropon122&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T09:56:01+09:00&lt;br/&gt;Updated: 2026-01-14T23:28:54+09:00&lt;br/&gt;きっかけ
+Claude Codeには日頃から大変お世話になっていますが、完全にお任せというわけにも行かないのが実情です。
 
-DBから1万件ずつデータ引っ張ってきて
-CSVファイルに書き込んで
-数GBの...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:31399825fe2a1a03550a</id>
-    <title>Claude Codeとghコマンドで、コードエディタをほぼ触らなくなった話</title>
-    <link rel="alternate" href="https://qiita.com/take-yoda/items/31399825fe2a1a03550a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T17:15:15+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T17:15:15+09:00&lt;br/&gt;Updated: 2026-01-13T17:15:15+09:00&lt;br/&gt;株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。
-今回はClaude CodeとGitHubを利用した開発についてのお話です。
+計画段階でのレビュー - 「そのアプローチで大丈夫？」と確認したい
 
-対象読者
+実装中の軌道修正 - おかしな方向に進みそうなときに相談に乗りたい
 
-生成AI初心者の方
-難しい設定なしでも、大きく開発者体験が向上します。ユーザープロン...</summary>
+完了時...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:920a517db6ae869aa336</id>
@@ -899,20 +913,6 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/neko_the_shadow&quot;&gt;neko_the_shadow&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:12:16+09:00&lt;br/&gt;Updated: 2026-01-04T11:12:16+09:00&lt;br/&gt;はじめに
 競技プログラミングやパズル系の問題を解いていると、  「複数の配列から取りうる すべての組み合わせを列挙したい」という場面がよくあります。
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c130168ca3fc0f1f6aaa</id>
-    <title>Claude Codeに別のAIエージェント（Codex等）を相談役として付けてみた</title>
-    <link rel="alternate" href="https://qiita.com/hiropon122/items/c130168ca3fc0f1f6aaa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T23:28:54+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiropon122&quot;&gt;hiropon122&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T09:56:01+09:00&lt;br/&gt;Updated: 2026-01-14T23:28:54+09:00&lt;br/&gt;きっかけ
-Claude Codeには日頃から大変お世話になっていますが、完全にお任せというわけにも行かないのが実情です。
-
-計画段階でのレビュー - 「そのアプローチで大丈夫？」と確認したい
-
-実装中の軌道修正 - おかしな方向に進みそうなときに相談に乗りたい
-
-完了時...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7123e96470396ffc4819</id>
