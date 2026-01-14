@@ -153,7 +153,7 @@ SHAP値処理の改修
     <title>【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-13T22:59:41+09:00</updated>
-    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
+    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
 またなんか無限レンダリングされるとかなんか2回...</summary>
   </entry>
   <entry>
@@ -707,6 +707,19 @@ Pythonで学ぶ Webアプリのセキュアコーディング 脆弱性の見つ
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:31399825fe2a1a03550a</id>
+    <title>Claude Codeとghコマンドで、コードエディタをほぼ触らなくなった話</title>
+    <link rel="alternate" href="https://qiita.com/take-yoda/items/31399825fe2a1a03550a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T17:15:15+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T17:15:15+09:00&lt;br/&gt;Updated: 2026-01-13T17:15:15+09:00&lt;br/&gt;株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。
+今回はClaude CodeとGitHubを利用した開発についてのお話です。
+
+対象読者
+
+生成AI初心者の方
+難しい設定なしでも、大きく開発者体験が向上します。ユーザープロン...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8725b4d80fb2a9456e63</id>
     <title>「cat file.txt &gt; /dev/null 2&gt;&amp;1」を実行した時に裏で何が行われているのか？</title>
     <link rel="alternate" href="https://qiita.com/tamagokakegohan2/items/8725b4d80fb2a9456e63?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -759,19 +772,6 @@ CSV出力って面倒じゃないですか
 DBから1万件ずつデータ引っ張ってきて
 CSVファイルに書き込んで
 数GBの...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:31399825fe2a1a03550a</id>
-    <title>Claude Codeとghコマンドで、コードエディタをほぼ触らなくなった話</title>
-    <link rel="alternate" href="https://qiita.com/take-yoda/items/31399825fe2a1a03550a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T17:15:15+09:00</updated>
-    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T17:15:15+09:00&lt;br/&gt;Updated: 2026-01-13T17:15:15+09:00&lt;br/&gt;株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。
-今回はClaude CodeとGitHubを利用した開発についてのお話です。
-
-対象読者
-
-生成AI初心者の方
-難しい設定なしでも、大きく開発者体験が向上します。ユーザープロン...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f41f80af8eed80a9044f</id>
