@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-14T09:34:49+09:00</updated>
+  <updated>2026-01-14T10:43:24+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -201,6 +201,14 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
 2025年も変わらず、Power BI の仕事をしていました。多くは、企業さんから依頼を受けて、初学者向けに Power BI の研修を担当していました。その他、データ周りのコンサルティングもやってきました。2026年も引き続き、大きく変わらない予定です。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d16ad3a0b271924013ec</id>
+    <title>【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T22:59:41+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
+またなんか無限レンダリングされるとかなんか2回...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9e6595d7c6f6f0c90c4c</id>
     <title>JSを使わずカルーセルを作る</title>
     <link rel="alternate" href="https://qiita.com/kobayashimakoto/items/9e6595d7c6f6f0c90c4c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -208,14 +216,6 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
     <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobayashimakoto&quot;&gt;kobayashimakoto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:32:18+09:00&lt;br/&gt;Updated: 2026-01-06T08:29:44+09:00&lt;br/&gt;はじめに
 カルーセルはWEBアプリケーションでよく採用されるUIコンポーネントの1つですが、一般的な実装パターンがなく、アクセシビリティを配慮しつつ実装するのも複雑で大変なので SlickやSwiperといったライブラリを採用するケースが多いのではないでしょうか。
 そんな...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d16ad3a0b271924013ec</id>
-    <title>【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T22:59:41+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
-またなんか無限レンダリングされるとかなんか2回...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9bc0a7a0a68b50c8e138</id>
@@ -226,6 +226,18 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
 C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
 
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:58be7519dee6a58f74d1</id>
+    <title>Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-11T15:03:40+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T15:03:27+09:00&lt;br/&gt;Updated: 2026-01-11T15:03:40+09:00&lt;br/&gt;この記事の対象読者
+
+JavaScriptの基本文法（関数、オブジェクト、コールバック）を理解している方
+Node.jsをインストールしてnpmコマンドを使ったことがある方
+Web API（REST API）という言葉を聞いたことがある方
+バックエンド開発に興味があり、最...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ba93b20f744dc40c6690</id>
@@ -254,22 +266,10 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
     <title>AIエージェントがUIを生成する「Generative UI」を広く浅く理解したい</title>
     <link rel="alternate" href="https://qiita.com/Takenoko4594/items/4387782ff8310427048e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-11T23:34:52+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takenoko4594&quot;&gt;Takenoko4594&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T23:34:52+09:00&lt;br/&gt;Updated: 2026-01-11T23:34:52+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takenoko4594&quot;&gt;Takenoko4594&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T23:34:52+09:00&lt;br/&gt;Updated: 2026-01-11T23:34:52+09:00&lt;br/&gt;はじめに
 「Generative UI」という単語をご存知でしょうか？
 Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:58be7519dee6a58f74d1</id>
-    <title>Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-11T15:03:40+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T15:03:27+09:00&lt;br/&gt;Updated: 2026-01-11T15:03:40+09:00&lt;br/&gt;この記事の対象読者
-
-JavaScriptの基本文法（関数、オブジェクト、コールバック）を理解している方
-Node.jsをインストールしてnpmコマンドを使ったことがある方
-Web API（REST API）という言葉を聞いたことがある方
-バックエンド開発に興味があり、最...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e5789268d7ba860b4ca4</id>
@@ -363,6 +363,19 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:45699be4eb9d7e0f3b8b</id>
+    <title>データベースはなぜ大切なのか？多くの人が説明できない概念的な考え方について</title>
+    <link rel="alternate" href="https://qiita.com/shibata1111/items/45699be4eb9d7e0f3b8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T16:17:16+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-13T16:17:16+09:00&lt;br/&gt;はじめに
+「データベースは重要だ」
+という言葉をよく耳にします。
+そしてデータベースが「技術的に」何故大切なのか？
+という事については調べればすぐに出てきます。
+しかし根本的な考え方やデータベースへの捉え方。
+データベースに対する「概念的な」大切さを説いている人は意外にも...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:db798b2e5805c51a64c1</id>
     <title>H3ロケットの失敗から学ぶ、前提を疑う設計</title>
     <link rel="alternate" href="https://qiita.com/sh-ohtani/items/db798b2e5805c51a64c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -411,19 +424,6 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 この章では、「どう直すか...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:45699be4eb9d7e0f3b8b</id>
-    <title>データベースはなぜ大切なのか？多くの人が説明できない概念的な考え方について</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/45699be4eb9d7e0f3b8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T16:17:16+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-13T16:17:16+09:00&lt;br/&gt;はじめに
-「データベースは重要だ」
-という言葉をよく耳にします。
-そしてデータベースが「技術的に」何故大切なのか？
-という事については調べればすぐに出てきます。
-しかし根本的な考え方やデータベースへの捉え方。
-データベースに対する「概念的な」大切さを説いている人は意外にも...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b7609a0f538696bedbd7</id>
     <title>資格懐疑派がAWS SAP取得を目指したきっかけと学習法</title>
     <link rel="alternate" href="https://qiita.com/toproad/items/b7609a0f538696bedbd7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -456,6 +456,17 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cb29c3208ac188dad5f1</id>
+    <title>OCIのノーコード・エージェントビルダー『Agent Factory』がリリース！触ってみた</title>
+    <link rel="alternate" href="https://qiita.com/yushibats/items/cb29c3208ac188dad5f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T10:43:24+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T20:31:02+09:00&lt;br/&gt;Updated: 2026-01-14T10:43:24+09:00&lt;br/&gt;Oracle AI Database Private Agent Factory（通称：Agent Factory） がリリースされました！
+本記事では、
+
+新サービス・ノーコード AI エージェントビルダー「Agent Factory」の概要と特徴
+OCI Marketp...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bdb07ac14ff966b56d81</id>
     <title>【Power Automate】ガマンして読むと JSON への抵抗が少し和らぐ気がする記事</title>
     <link rel="alternate" href="https://qiita.com/eigogakuto/items/bdb07ac14ff966b56d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -464,17 +475,6 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 Power Automate を触っていて実行結果（履歴）を確認してみると、以下の画像の「出力」のように、何やら不思議な文字列の「かたまり」を目にしたことがあるかもしれません。
 
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cb29c3208ac188dad5f1</id>
-    <title>OCIのノーコード・エージェントビルダー『Agent Factory』がリリース！触ってみた</title>
-    <link rel="alternate" href="https://qiita.com/yushibats/items/cb29c3208ac188dad5f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T21:26:42+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T20:31:02+09:00&lt;br/&gt;Updated: 2026-01-13T21:26:42+09:00&lt;br/&gt;Oracle AI Database Private Agent Factory（通称：Agent Factory） がリリースされました！
-本記事では、
-
-新サービス・ノーコード AI エージェントビルダー「Agent Factory」の概要と特徴
-OCI Marketp...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e5d0e562b85c3f6b5f27</id>
@@ -688,6 +688,15 @@ boto3を使ったPythonアプリケーションで、aws loginコマンドで認
 コーディングエージェントとの出会い...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:658b77f0bb7c73f9f508</id>
+    <title>Rust × Python × Polars で実現する、秒間420万イベントの爆速・高精度バックテスター「crypto-rs-backtester」</title>
+    <link rel="alternate" href="https://qiita.com/takurot/items/658b77f0bb7c73f9f508?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-12T04:42:24+09:00</updated>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
+そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
+Google Colabで手軽に試せるの...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f41f80af8eed80a9044f</id>
     <title>【令和８年最新版】GitHub CopilotにおけるAIモデルの違いや選定の考え方</title>
     <link rel="alternate" href="https://qiita.com/Free_Akito9120/items/f41f80af8eed80a9044f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -804,15 +813,6 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/neko_the_shadow&quot;&gt;neko_the_shadow&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:12:16+09:00&lt;br/&gt;Updated: 2026-01-04T11:12:16+09:00&lt;br/&gt;はじめに
 競技プログラミングやパズル系の問題を解いていると、  「複数の配列から取りうる すべての組み合わせを列挙したい」という場面がよくあります。
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:658b77f0bb7c73f9f508</id>
-    <title>Rust × Python × Polars で実現する、秒間420万イベントの爆速・高精度バックテスター「crypto-rs-backtester」</title>
-    <link rel="alternate" href="https://qiita.com/takurot/items/658b77f0bb7c73f9f508?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-12T04:42:24+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
-そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
-Google Colabで手軽に試せるの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:204df7802b9855461f74</id>
