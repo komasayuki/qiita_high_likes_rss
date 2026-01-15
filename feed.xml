@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-16T01:16:33+09:00</updated>
+  <updated>2026-01-16T01:30:17+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -336,6 +336,19 @@ C#で非同期処理を組み立てていると、タスク間でデータを受
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:90b34ef9abd910deb6ac</id>
+    <title>役割が混在してきたので「CLAUDE.md / サブエージェント / スラッシュコマンド / エージェントスキル」を改めてまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/fujisho1216/items/90b34ef9abd910deb6ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T09:24:08+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fujisho1216&quot;&gt;fujisho1216&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T09:24:08+09:00&lt;br/&gt;Updated: 2026-01-13T09:24:08+09:00&lt;br/&gt;はじめに
+直近、Claude Code を用いた開発を行っています。
+ただし、様々な機能がリリースする中でそれぞれの役割が整理しきれなくなりました。
+そこで、今回特に使い分けが混乱してきている下記 4 つの役割と使い方の違いをまとめました。
+
+CLAUDE.md
+サブエー...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ba93b20f744dc40c6690</id>
     <title>自動化の[正解]は技術じゃなかった。 業務効率化をやってきて分かった現場のリアル</title>
     <link rel="alternate" href="https://qiita.com/mamineko/items/ba93b20f744dc40c6690?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -344,19 +357,6 @@ Channel は、こうした「ステージ間の受け渡し」を .NET らしい
 私はこれまで、社内向けに 業務自動化・業務効率化ツール をいくつも作ってきました。
 Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組み合わせて、「人の仕事を楽にする」ためのツールを作ってきました。
 ただ、そ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:90b34ef9abd910deb6ac</id>
-    <title>役割が混在してきたので「CLAUDE.md / サブエージェント / スラッシュコマンド / エージェントスキル」を改めてまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/fujisho1216/items/90b34ef9abd910deb6ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T09:24:08+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fujisho1216&quot;&gt;fujisho1216&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T09:24:08+09:00&lt;br/&gt;Updated: 2026-01-13T09:24:08+09:00&lt;br/&gt;はじめに
-直近、Claude Code を用いた開発を行っています。
-ただし、様々な機能がリリースする中でそれぞれの役割が整理しきれなくなりました。
-そこで、今回特に使い分けが混乱してきている下記 4 つの役割と使い方の違いをまとめました。
-
-CLAUDE.md
-サブエー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:01de1ee21d2491c54450</id>
@@ -570,8 +570,8 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
     <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
     <title>FPGAボード Shrike Liteをお試し</title>
     <link rel="alternate" href="https://qiita.com/Lathe/items/241640a492adc2b5fc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-16T01:16:33+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Lathe&quot;&gt;Lathe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T03:31:29+09:00&lt;br/&gt;Updated: 2026-01-16T01:16:33+09:00&lt;br/&gt;所感
+    <updated>2026-01-16T01:30:17+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Lathe&quot;&gt;Lathe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T03:31:29+09:00&lt;br/&gt;Updated: 2026-01-16T01:30:17+09:00&lt;br/&gt;所感
 
 FPGAとマイコンを1ボードに搭載
 　Shrike LiteはマイコンとFPGAが搭載されたボードであり，
@@ -586,6 +586,18 @@ FPGAとマイコンを1ボードに搭載
     <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
 そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
 Google Colabで手軽に試せるの...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:a287336353a0a582bfb5</id>
+    <title>個人開発。AIと一緒にアプリを作ったら、普通にストア公開できた話</title>
+    <link rel="alternate" href="https://qiita.com/yniji/items/a287336353a0a582bfb5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T11:27:58+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yniji&quot;&gt;yniji&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T11:27:58+09:00&lt;br/&gt;Updated: 2026-01-14T11:27:58+09:00&lt;br/&gt;結論から書きます。
+AIがデザインし、コードを書いたアプリが、
+普通に App Store / Google Play の審査を通り、普通に公開できました。
+特別な裏技も、ゴリ押しもありません。
+ただし、放っておいてできた話ではありません。
+AIには、日本語で相当うるさく指...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f095a319eac1e5cabf13</id>
@@ -605,18 +617,6 @@ Google Colabで手軽に試せるの...</summary>
     <updated>2026-01-13T10:34:27+09:00</updated>
     <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/0ali8hi26&quot;&gt;0ali8hi26&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T10:34:25+09:00&lt;br/&gt;Updated: 2026-01-13T10:34:27+09:00&lt;br/&gt;初めまして、ウリノと申します。所属している山形大学のサークルの先輩からアドベントカレンダーやってみない？っていうお誘いがあり初めての記事投稿をさせてもらうことになりました。
 しかしながらいったい何を題材に書いたものか…そんなに語れることがない気がする…と思いながらもとりあえ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a287336353a0a582bfb5</id>
-    <title>個人開発。AIと一緒にアプリを作ったら、普通にストア公開できた話</title>
-    <link rel="alternate" href="https://qiita.com/yniji/items/a287336353a0a582bfb5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T11:27:58+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yniji&quot;&gt;yniji&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T11:27:58+09:00&lt;br/&gt;Updated: 2026-01-14T11:27:58+09:00&lt;br/&gt;結論から書きます。
-AIがデザインし、コードを書いたアプリが、
-普通に App Store / Google Play の審査を通り、普通に公開できました。
-特別な裏技も、ゴリ押しもありません。
-ただし、放っておいてできた話ではありません。
-AIには、日本語で相当うるさく指...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:97b14db690c99ecfbbb1</id>
