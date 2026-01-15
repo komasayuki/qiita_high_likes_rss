@@ -579,6 +579,18 @@ FPGAとマイコンを1ボードに搭載
 　ちなみに...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a287336353a0a582bfb5</id>
+    <title>個人開発。AIと一緒にアプリを作ったら、普通にストア公開できた話</title>
+    <link rel="alternate" href="https://qiita.com/yniji/items/a287336353a0a582bfb5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T11:27:58+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yniji&quot;&gt;yniji&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T11:27:58+09:00&lt;br/&gt;Updated: 2026-01-14T11:27:58+09:00&lt;br/&gt;結論から書きます。
+AIがデザインし、コードを書いたアプリが、
+普通に App Store / Google Play の審査を通り、普通に公開できました。
+特別な裏技も、ゴリ押しもありません。
+ただし、放っておいてできた話ではありません。
+AIには、日本語で相当うるさく指...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:658b77f0bb7c73f9f508</id>
     <title>Rust × Python × Polars で実現する、秒間420万イベントの爆速・高精度バックテスター「crypto-rs-backtester」</title>
     <link rel="alternate" href="https://qiita.com/takurot/items/658b77f0bb7c73f9f508?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -586,18 +598,6 @@ FPGAとマイコンを1ボードに搭載
     <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
 そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
 Google Colabで手軽に試せるの...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a287336353a0a582bfb5</id>
-    <title>個人開発。AIと一緒にアプリを作ったら、普通にストア公開できた話</title>
-    <link rel="alternate" href="https://qiita.com/yniji/items/a287336353a0a582bfb5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T11:27:58+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yniji&quot;&gt;yniji&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T11:27:58+09:00&lt;br/&gt;Updated: 2026-01-14T11:27:58+09:00&lt;br/&gt;結論から書きます。
-AIがデザインし、コードを書いたアプリが、
-普通に App Store / Google Play の審査を通り、普通に公開できました。
-特別な裏技も、ゴリ押しもありません。
-ただし、放っておいてできた話ではありません。
-AIには、日本語で相当うるさく指...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f095a319eac1e5cabf13</id>
@@ -953,6 +953,15 @@ if / elsif / else のような条件分岐が増える
 「AIでポ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0a4b93cccdd14ac285b9</id>
+    <title>PMって難しいよね</title>
+    <link rel="alternate" href="https://qiita.com/KENTAROSZK/items/0a4b93cccdd14ac285b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T00:07:39+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KENTAROSZK&quot;&gt;KENTAROSZK&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T00:07:39+09:00&lt;br/&gt;Updated: 2026-01-14T00:07:39+09:00&lt;br/&gt;参考記事を見ながら、自分が思ったことを残す。参考記事を見ていただいた方が学びが多いと思います。これは個人的なメモであり、今後の自分が振り返りで使えるように残したメモです。
+参考記事中に出てきた問いに自分なりに答える、そこで生まれた自分の思考や思い出を膨らましてメモ。
+時間が...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7123e96470396ffc4819</id>
     <title>Next.js 16 の重要な新機能をまとめて紹介します（第2回）</title>
     <link rel="alternate" href="https://qiita.com/TOMOSIA-HieuNT/items/7123e96470396ffc4819?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1039,15 +1048,6 @@ Rust の標準ライブラリには直接のユーティリティはありませ
     <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uy0ha&quot;&gt;uy0ha&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T21:26:37+09:00&lt;br/&gt;Updated: 2026-01-14T21:52:55+09:00&lt;br/&gt;開発のきっかけ
 私がIoTセキュリティに興味を持ったきっかけは、2018年に流行したマルウェア「Mirai」です。
 Miraiは、工場出荷時のID・パスワードがそのまま使用されているIoT機器に侵入し、遠隔操作を行うマルウェアです。このような単純な攻撃であるにもかかわらず...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0a4b93cccdd14ac285b9</id>
-    <title>PMって難しいよね</title>
-    <link rel="alternate" href="https://qiita.com/KENTAROSZK/items/0a4b93cccdd14ac285b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T00:07:39+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KENTAROSZK&quot;&gt;KENTAROSZK&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T00:07:39+09:00&lt;br/&gt;Updated: 2026-01-14T00:07:39+09:00&lt;br/&gt;参考記事を見ながら、自分が思ったことを残す。参考記事を見ていただいた方が学びが多いと思います。これは個人的なメモであり、今後の自分が振り返りで使えるように残したメモです。
-参考記事中に出てきた問いに自分なりに答える、そこで生まれた自分の思考や思い出を膨らましてメモ。
-時間が...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:204df7802b9855461f74</id>
