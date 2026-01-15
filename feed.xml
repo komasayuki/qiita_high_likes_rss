@@ -118,7 +118,7 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
     <title>データベースはなぜ大切なのか？多くの人が説明できない概念的な考え方について</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/45699be4eb9d7e0f3b8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-15T10:28:17+09:00</updated>
-    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-15T10:28:17+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 98&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-15T10:28:17+09:00&lt;br/&gt;はじめに
 「データベースは重要だ」
 という言葉をよく耳にします。
 そしてデータベースが「技術的に」何故大切なのか？
@@ -238,6 +238,16 @@ PRUMについて気になった方は、
 この章では、論...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e64b9f26c54607f7862b</id>
+    <title>Web関係のセキュリティについて初心者でもわかるようにまとめてみた - OWASP Top 10:2025</title>
+    <link rel="alternate" href="https://qiita.com/shibata1111/items/e64b9f26c54607f7862b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T12:43:13+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:32:15+09:00&lt;br/&gt;Updated: 2026-01-14T12:43:13+09:00&lt;br/&gt;はじめに
+セキュリティに問題があると、大変なことになります。
+普通のバグは不便で済むこともありますが、セキュリティの穴はアカウント乗っ取り、情報漏えい、サービス停止など、取り返しがつかない形で表に出やすいのです。
+そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:61ce0d16d6e59cb567be</id>
     <title>スマホでコードを書くという選択肢</title>
     <link rel="alternate" href="https://qiita.com/sijiaoh/items/61ce0d16d6e59cb567be?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -247,16 +257,6 @@ PRUMについて気になった方は、
 私もそう思っていました。
 
 コーディングエージェントとの出会い...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e64b9f26c54607f7862b</id>
-    <title>Web関係のセキュリティについて初心者でもわかるようにまとめてみた - OWASP Top 10:2025</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/e64b9f26c54607f7862b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T12:43:13+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:32:15+09:00&lt;br/&gt;Updated: 2026-01-14T12:43:13+09:00&lt;br/&gt;はじめに
-セキュリティに問題があると、大変なことになります。
-普通のバグは不便で済むこともありますが、セキュリティの穴はアカウント乗っ取り、情報漏えい、サービス停止など、取り返しがつかない形で表に出やすいのです。
-そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4387782ff8310427048e</id>
@@ -353,6 +353,19 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
     <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tkmiii_GiGOOO&quot;&gt;tkmiii_GiGOOO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T10:24:42+09:00&lt;br/&gt;Updated: 2026-01-13T17:55:18+09:00&lt;br/&gt;本記事の内容は、セキュリティの仕組みを理解するための学習・研究を目的としています。 許可のない第三者のシステムへの攻撃や侵入行為は、法律で固く禁止されています。 検証を行う際は、必ずご自身が管理する環境、または許可を得た環境内でのみ実施してください。 本記事の情報を利用...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:90b34ef9abd910deb6ac</id>
+    <title>役割が混在してきたので「CLAUDE.md / サブエージェント / スラッシュコマンド / エージェントスキル」を改めてまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/fujisho1216/items/90b34ef9abd910deb6ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T09:24:08+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fujisho1216&quot;&gt;fujisho1216&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T09:24:08+09:00&lt;br/&gt;Updated: 2026-01-13T09:24:08+09:00&lt;br/&gt;はじめに
+直近、Claude Code を用いた開発を行っています。
+ただし、様々な機能がリリースする中でそれぞれの役割が整理しきれなくなりました。
+そこで、今回特に使い分けが混乱してきている下記 4 つの役割と使い方の違いをまとめました。
+
+CLAUDE.md
+サブエー...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e5789268d7ba860b4ca4</id>
     <title>Windows を USB で持ち運ぶ：Hyper‑V + WinPE を使った VHDX ブート手法</title>
     <link rel="alternate" href="https://qiita.com/carol0226/items/e5789268d7ba860b4ca4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -405,19 +418,6 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 データを保存するところ（データベース層）
 
 この3層...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:90b34ef9abd910deb6ac</id>
-    <title>役割が混在してきたので「CLAUDE.md / サブエージェント / スラッシュコマンド / エージェントスキル」を改めてまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/fujisho1216/items/90b34ef9abd910deb6ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T09:24:08+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fujisho1216&quot;&gt;fujisho1216&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T09:24:08+09:00&lt;br/&gt;Updated: 2026-01-13T09:24:08+09:00&lt;br/&gt;はじめに
-直近、Claude Code を用いた開発を行っています。
-ただし、様々な機能がリリースする中でそれぞれの役割が整理しきれなくなりました。
-そこで、今回特に使い分けが混乱してきている下記 4 つの役割と使い方の違いをまとめました。
-
-CLAUDE.md
-サブエー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a69ce52cc2862af7ebc9</id>
@@ -658,6 +658,18 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a287336353a0a582bfb5</id>
+    <title>個人開発。AIと一緒にアプリを作ったら、普通にストア公開できた話</title>
+    <link rel="alternate" href="https://qiita.com/yniji/items/a287336353a0a582bfb5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T11:27:58+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yniji&quot;&gt;yniji&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T11:27:58+09:00&lt;br/&gt;Updated: 2026-01-14T11:27:58+09:00&lt;br/&gt;結論から書きます。
+AIがデザインし、コードを書いたアプリが、
+普通に App Store / Google Play の審査を通り、普通に公開できました。
+特別な裏技も、ゴリ押しもありません。
+ただし、放っておいてできた話ではありません。
+AIには、日本語で相当うるさく指...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fee7b58641ae4c15f062</id>
     <title>AIエージェントと MCPサーバーで Oracle AWR レポートを生成・分析してみよう</title>
     <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/fee7b58641ae4c15f062?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -687,18 +699,6 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 はじめまして。東海地区で建築設計事務所を経営している建築士です。
 いきなりですが、私はプログラミングの知識はゼロです。Pythonは「ヘビの種類？」だと思っていました。
 そんな私が、生成AI（ChatGPT / Cla...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a287336353a0a582bfb5</id>
-    <title>個人開発。AIと一緒にアプリを作ったら、普通にストア公開できた話</title>
-    <link rel="alternate" href="https://qiita.com/yniji/items/a287336353a0a582bfb5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T11:27:58+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yniji&quot;&gt;yniji&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T11:27:58+09:00&lt;br/&gt;Updated: 2026-01-14T11:27:58+09:00&lt;br/&gt;結論から書きます。
-AIがデザインし、コードを書いたアプリが、
-普通に App Store / Google Play の審査を通り、普通に公開できました。
-特別な裏技も、ゴリ押しもありません。
-ただし、放っておいてできた話ではありません。
-AIには、日本語で相当うるさく指...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ea928f214c6c99dee66e</id>
@@ -1039,6 +1039,15 @@ Rust の標準ライブラリには直接のユーティリティはありませ
     <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uy0ha&quot;&gt;uy0ha&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T21:26:37+09:00&lt;br/&gt;Updated: 2026-01-14T21:52:55+09:00&lt;br/&gt;開発のきっかけ
 私がIoTセキュリティに興味を持ったきっかけは、2018年に流行したマルウェア「Mirai」です。
 Miraiは、工場出荷時のID・パスワードがそのまま使用されているIoT機器に侵入し、遠隔操作を行うマルウェアです。このような単純な攻撃であるにもかかわらず...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:0a4b93cccdd14ac285b9</id>
+    <title>PMって難しいよね</title>
+    <link rel="alternate" href="https://qiita.com/KENTAROSZK/items/0a4b93cccdd14ac285b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T00:07:39+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KENTAROSZK&quot;&gt;KENTAROSZK&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T00:07:39+09:00&lt;br/&gt;Updated: 2026-01-14T00:07:39+09:00&lt;br/&gt;参考記事を見ながら、自分が思ったことを残す。参考記事を見ていただいた方が学びが多いと思います。これは個人的なメモであり、今後の自分が振り返りで使えるように残したメモです。
+参考記事中に出てきた問いに自分なりに答える、そこで生まれた自分の思考や思い出を膨らましてメモ。
+時間が...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:204df7802b9855461f74</id>
