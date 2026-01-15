@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-15T14:45:11+09:00</updated>
+  <updated>2026-01-16T01:16:33+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -118,7 +118,7 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
     <title>データベースはなぜ大切なのか？多くの人が説明できない概念的な考え方について</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/45699be4eb9d7e0f3b8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-15T10:28:17+09:00</updated>
-    <summary type="html">Likes: 99&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-15T10:28:17+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 102&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-15T10:28:17+09:00&lt;br/&gt;はじめに
 「データベースは重要だ」
 という言葉をよく耳にします。
 そしてデータベースが「技術的に」何故大切なのか？
@@ -238,6 +238,17 @@ PRUMについて気になった方は、
 この章では、論...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:61ce0d16d6e59cb567be</id>
+    <title>スマホでコードを書くという選択肢</title>
+    <link rel="alternate" href="https://qiita.com/sijiaoh/items/61ce0d16d6e59cb567be?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-15T12:43:09+09:00</updated>
+    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sijiaoh&quot;&gt;sijiaoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T18:47:06+09:00&lt;br/&gt;Updated: 2026-01-15T12:43:09+09:00&lt;br/&gt;スマホでコードを書きたい。
+電車の中、散歩の途中、ちょっとした待ち時間。PCを開けない場面で、ふとコードのことが気になる。あの関数、あのバグ、あの機能。でもスマホでは記号の入力が絶望的で、実用的ではありません。
+私もそう思っていました。
+
+コーディングエージェントとの出会い...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e64b9f26c54607f7862b</id>
     <title>Web関係のセキュリティについて初心者でもわかるようにまとめてみた - OWASP Top 10:2025</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/e64b9f26c54607f7862b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -246,17 +257,6 @@ PRUMについて気になった方は、
 セキュリティに問題があると、大変なことになります。
 普通のバグは不便で済むこともありますが、セキュリティの穴はアカウント乗っ取り、情報漏えい、サービス停止など、取り返しがつかない形で表に出やすいのです。
 そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:61ce0d16d6e59cb567be</id>
-    <title>スマホでコードを書くという選択肢</title>
-    <link rel="alternate" href="https://qiita.com/sijiaoh/items/61ce0d16d6e59cb567be?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-15T12:43:09+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sijiaoh&quot;&gt;sijiaoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T18:47:06+09:00&lt;br/&gt;Updated: 2026-01-15T12:43:09+09:00&lt;br/&gt;スマホでコードを書きたい。
-電車の中、散歩の途中、ちょっとした待ち時間。PCを開けない場面で、ふとコードのことが気になる。あの関数、あのバグ、あの機能。でもスマホでは記号の入力が絶望的で、実用的ではありません。
-私もそう思っていました。
-
-コーディングエージェントとの出会い...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4387782ff8310427048e</id>
@@ -350,7 +350,7 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
     <title>役割が混在してきたので「CLAUDE.md / サブエージェント / スラッシュコマンド / エージェントスキル」を改めてまとめてみた</title>
     <link rel="alternate" href="https://qiita.com/fujisho1216/items/90b34ef9abd910deb6ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-13T09:24:08+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fujisho1216&quot;&gt;fujisho1216&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T09:24:08+09:00&lt;br/&gt;Updated: 2026-01-13T09:24:08+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fujisho1216&quot;&gt;fujisho1216&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T09:24:08+09:00&lt;br/&gt;Updated: 2026-01-13T09:24:08+09:00&lt;br/&gt;はじめに
 直近、Claude Code を用いた開発を行っています。
 ただし、様々な機能がリリースする中でそれぞれの役割が整理しきれなくなりました。
 そこで、今回特に使い分けが混乱してきている下記 4 つの役割と使い方の違いをまとめました。
@@ -567,6 +567,18 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
+    <title>FPGAボード Shrike Liteをお試し</title>
+    <link rel="alternate" href="https://qiita.com/Lathe/items/241640a492adc2b5fc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-16T01:16:33+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Lathe&quot;&gt;Lathe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T03:31:29+09:00&lt;br/&gt;Updated: 2026-01-16T01:16:33+09:00&lt;br/&gt;所感
+
+FPGAとマイコンを1ボードに搭載
+　Shrike LiteはマイコンとFPGAが搭載されたボードであり，
+マイコンはRP2040（Raspberry Pi財団）が，FPGAはForgeFPGA SLG47910V（Renesas）が搭載されている．
+　ちなみに...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:658b77f0bb7c73f9f508</id>
     <title>Rust × Python × Polars で実現する、秒間420万イベントの爆速・高精度バックテスター「crypto-rs-backtester」</title>
     <link rel="alternate" href="https://qiita.com/takurot/items/658b77f0bb7c73f9f508?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -595,16 +607,16 @@ Google Colabで手軽に試せるの...</summary>
 しかしながらいったい何を題材に書いたものか…そんなに語れることがない気がする…と思いながらもとりあえ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
-    <title>FPGAボード Shrike Liteをお試し</title>
-    <link rel="alternate" href="https://qiita.com/Lathe/items/241640a492adc2b5fc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-15T01:53:35+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Lathe&quot;&gt;Lathe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T03:31:29+09:00&lt;br/&gt;Updated: 2026-01-15T01:53:35+09:00&lt;br/&gt;所感
-
-FPGAとマイコンを1ボードに搭載
-　Shrike LiteはマイコンとFPGAが搭載されたボードであり，
-マイコンはRP2040（Raspberry Pi財団）が，FPGAはForgeFPGA SLG47910V（Renesas）が搭載されている．
-　ちなみに...</summary>
+    <id>tag:qiita.com,2026:a287336353a0a582bfb5</id>
+    <title>個人開発。AIと一緒にアプリを作ったら、普通にストア公開できた話</title>
+    <link rel="alternate" href="https://qiita.com/yniji/items/a287336353a0a582bfb5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T11:27:58+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yniji&quot;&gt;yniji&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T11:27:58+09:00&lt;br/&gt;Updated: 2026-01-14T11:27:58+09:00&lt;br/&gt;結論から書きます。
+AIがデザインし、コードを書いたアプリが、
+普通に App Store / Google Play の審査を通り、普通に公開できました。
+特別な裏技も、ゴリ押しもありません。
+ただし、放っておいてできた話ではありません。
+AIには、日本語で相当うるさく指...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:97b14db690c99ecfbbb1</id>
@@ -658,18 +670,6 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a287336353a0a582bfb5</id>
-    <title>個人開発。AIと一緒にアプリを作ったら、普通にストア公開できた話</title>
-    <link rel="alternate" href="https://qiita.com/yniji/items/a287336353a0a582bfb5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T11:27:58+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yniji&quot;&gt;yniji&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T11:27:58+09:00&lt;br/&gt;Updated: 2026-01-14T11:27:58+09:00&lt;br/&gt;結論から書きます。
-AIがデザインし、コードを書いたアプリが、
-普通に App Store / Google Play の審査を通り、普通に公開できました。
-特別な裏技も、ゴリ押しもありません。
-ただし、放っておいてできた話ではありません。
-AIには、日本語で相当うるさく指...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:fee7b58641ae4c15f062</id>
     <title>AIエージェントと MCPサーバーで Oracle AWR レポートを生成・分析してみよう</title>
     <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/fee7b58641ae4c15f062?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -699,6 +699,20 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 はじめまして。東海地区で建築設計事務所を経営している建築士です。
 いきなりですが、私はプログラミングの知識はゼロです。Pythonは「ヘビの種類？」だと思っていました。
 そんな私が、生成AI（ChatGPT / Cla...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c130168ca3fc0f1f6aaa</id>
+    <title>Claude Codeに別のAIエージェント（Codex等）を相談役として付けてみた</title>
+    <link rel="alternate" href="https://qiita.com/hiropon122/items/c130168ca3fc0f1f6aaa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T23:28:54+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiropon122&quot;&gt;hiropon122&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T09:56:01+09:00&lt;br/&gt;Updated: 2026-01-14T23:28:54+09:00&lt;br/&gt;きっかけ
+Claude Codeには日頃から大変お世話になっていますが、完全にお任せというわけにも行かないのが実情です。
+
+計画段階でのレビュー - 「そのアプローチで大丈夫？」と確認したい
+
+実装中の軌道修正 - おかしな方向に進みそうなときに相談に乗りたい
+
+完了時...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ea928f214c6c99dee66e</id>
@@ -770,20 +784,6 @@ TCPとUDPの違い
     <updated>2026-01-04T05:20:28+09:00</updated>
     <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/AInsights&quot;&gt;AInsights&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T05:20:28+09:00&lt;br/&gt;Updated: 2026-01-04T05:20:28+09:00&lt;br/&gt;ソフトウェアエンジニアリングにおけるプログラミング言語選定の戦略的アプローチ 🚀
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c130168ca3fc0f1f6aaa</id>
-    <title>Claude Codeに別のAIエージェント（Codex等）を相談役として付けてみた</title>
-    <link rel="alternate" href="https://qiita.com/hiropon122/items/c130168ca3fc0f1f6aaa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T23:28:54+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiropon122&quot;&gt;hiropon122&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T09:56:01+09:00&lt;br/&gt;Updated: 2026-01-14T23:28:54+09:00&lt;br/&gt;きっかけ
-Claude Codeには日頃から大変お世話になっていますが、完全にお任せというわけにも行かないのが実情です。
-
-計画段階でのレビュー - 「そのアプローチで大丈夫？」と確認したい
-
-実装中の軌道修正 - おかしな方向に進みそうなときに相談に乗りたい
-
-完了時...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:44c3376cd87c3d1bc9f2</id>
