@@ -161,7 +161,7 @@ SHAP値処理の改修
     <title>データベースはなぜ大切なのか？多くの人が説明できない概念的な考え方について</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/45699be4eb9d7e0f3b8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-15T10:28:17+09:00</updated>
-    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-15T10:28:17+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-15T10:28:17+09:00&lt;br/&gt;はじめに
 「データベースは重要だ」
 という言葉をよく耳にします。
 そしてデータベースが「技術的に」何故大切なのか？
@@ -242,7 +242,7 @@ PRUMについて気になった方は、
     <title>スマホでコードを書くという選択肢</title>
     <link rel="alternate" href="https://qiita.com/sijiaoh/items/61ce0d16d6e59cb567be?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-15T12:43:09+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sijiaoh&quot;&gt;sijiaoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T18:47:06+09:00&lt;br/&gt;Updated: 2026-01-15T12:43:09+09:00&lt;br/&gt;スマホでコードを書きたい。
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sijiaoh&quot;&gt;sijiaoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T18:47:06+09:00&lt;br/&gt;Updated: 2026-01-15T12:43:09+09:00&lt;br/&gt;スマホでコードを書きたい。
 電車の中、散歩の途中、ちょっとした待ち時間。PCを開けない場面で、ふとコードのことが気になる。あの関数、あのバグ、あの機能。でもスマホでは記号の入力が絶望的で、実用的ではありません。
 私もそう思っていました。
 
@@ -885,6 +885,18 @@ if / elsif / else のような条件分岐が増える
 そして、個人開発ではStreamlit + L...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
+    <title>FPGAボード Shrike Liteをお試し</title>
+    <link rel="alternate" href="https://qiita.com/Lathe/items/241640a492adc2b5fc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-15T01:53:35+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Lathe&quot;&gt;Lathe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T03:31:29+09:00&lt;br/&gt;Updated: 2026-01-15T01:53:35+09:00&lt;br/&gt;所感
+
+FPGAとマイコンを1ボードに搭載
+　Shrike LiteはマイコンとFPGAが搭載されたボードであり，
+マイコンはRP2040（Raspberry Pi財団）が，FPGAはForgeFPGA SLG47910V（Renesas）が搭載されている．
+　ちなみに...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0382cd29211da54c1705</id>
     <title>イラスト苦手なデザイナーが今、既存キャラ制作でパワーアップするために使っているおすすめAI vol.2 〜Whisk編〜</title>
     <link rel="alternate" href="https://qiita.com/GIFCat/items/0382cd29211da54c1705?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -991,18 +1003,6 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/neko_the_shadow&quot;&gt;neko_the_shadow&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:12:16+09:00&lt;br/&gt;Updated: 2026-01-04T11:12:16+09:00&lt;br/&gt;はじめに
 競技プログラミングやパズル系の問題を解いていると、  「複数の配列から取りうる すべての組み合わせを列挙したい」という場面がよくあります。
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
-    <title>FPGAボード Shrike Liteをお試し</title>
-    <link rel="alternate" href="https://qiita.com/Lathe/items/241640a492adc2b5fc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-15T01:53:35+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Lathe&quot;&gt;Lathe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T03:31:29+09:00&lt;br/&gt;Updated: 2026-01-15T01:53:35+09:00&lt;br/&gt;所感
-
-FPGAとマイコンを1ボードに搭載
-　Shrike LiteはマイコンとFPGAが搭載されたボードであり，
-マイコンはRP2040（Raspberry Pi財団）が，FPGAはForgeFPGA SLG47910V（Renesas）が搭載されている．
-　ちなみに...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e3e6b7daa32c85550638</id>
