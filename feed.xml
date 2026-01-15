@@ -118,7 +118,7 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
     <title>データベースはなぜ大切なのか？多くの人が説明できない概念的な考え方について</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/45699be4eb9d7e0f3b8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-15T10:28:17+09:00</updated>
-    <summary type="html">Likes: 103&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-15T10:28:17+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 104&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-15T10:28:17+09:00&lt;br/&gt;はじめに
 「データベースは重要だ」
 という言葉をよく耳にします。
 そしてデータベースが「技術的に」何故大切なのか？
@@ -205,6 +205,16 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e64b9f26c54607f7862b</id>
+    <title>Web関係のセキュリティについて初心者でもわかるようにまとめてみた - OWASP Top 10:2025</title>
+    <link rel="alternate" href="https://qiita.com/shibata1111/items/e64b9f26c54607f7862b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T12:43:13+09:00</updated>
+    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:32:15+09:00&lt;br/&gt;Updated: 2026-01-14T12:43:13+09:00&lt;br/&gt;はじめに
+セキュリティに問題があると、大変なことになります。
+普通のバグは不便で済むこともありますが、セキュリティの穴はアカウント乗っ取り、情報漏えい、サービス停止など、取り返しがつかない形で表に出やすいのです。
+そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6d571c3585577572badf</id>
     <title>BI は未だに「新しいもの」なのか？</title>
     <link rel="alternate" href="https://qiita.com/yugoes1021/items/6d571c3585577572badf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -236,16 +246,6 @@ PRUMについて気になった方は、
 
 はじめに
 この章では、論...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e64b9f26c54607f7862b</id>
-    <title>Web関係のセキュリティについて初心者でもわかるようにまとめてみた - OWASP Top 10:2025</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/e64b9f26c54607f7862b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T12:43:13+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:32:15+09:00&lt;br/&gt;Updated: 2026-01-14T12:43:13+09:00&lt;br/&gt;はじめに
-セキュリティに問題があると、大変なことになります。
-普通のバグは不便で済むこともありますが、セキュリティの穴はアカウント乗っ取り、情報漏えい、サービス停止など、取り返しがつかない形で表に出やすいのです。
-そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:61ce0d16d6e59cb567be</id>
@@ -327,6 +327,19 @@ Web API（REST API）という言葉を聞いたことがある方
 またユーザーの呼称は、正式でなく便宜的な...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:90b34ef9abd910deb6ac</id>
+    <title>役割が混在してきたので「CLAUDE.md / サブエージェント / スラッシュコマンド / エージェントスキル」を改めてまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/fujisho1216/items/90b34ef9abd910deb6ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T09:24:08+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fujisho1216&quot;&gt;fujisho1216&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T09:24:08+09:00&lt;br/&gt;Updated: 2026-01-13T09:24:08+09:00&lt;br/&gt;はじめに
+直近、Claude Code を用いた開発を行っています。
+ただし、様々な機能がリリースする中でそれぞれの役割が整理しきれなくなりました。
+そこで、今回特に使い分けが混乱してきている下記 4 つの役割と使い方の違いをまとめました。
+
+CLAUDE.md
+サブエー...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9bc0a7a0a68b50c8e138</id>
     <title>【C#】Channel&lt;T&gt;  でスレッド間通信をシンプルに</title>
     <link rel="alternate" href="https://qiita.com/Sakai_path/items/9bc0a7a0a68b50c8e138?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -335,19 +348,6 @@ Web API（REST API）という言葉を聞いたことがある方
 C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
 
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:90b34ef9abd910deb6ac</id>
-    <title>役割が混在してきたので「CLAUDE.md / サブエージェント / スラッシュコマンド / エージェントスキル」を改めてまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/fujisho1216/items/90b34ef9abd910deb6ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T09:24:08+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fujisho1216&quot;&gt;fujisho1216&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T09:24:08+09:00&lt;br/&gt;Updated: 2026-01-13T09:24:08+09:00&lt;br/&gt;はじめに
-直近、Claude Code を用いた開発を行っています。
-ただし、様々な機能がリリースする中でそれぞれの役割が整理しきれなくなりました。
-そこで、今回特に使い分けが混乱してきている下記 4 つの役割と使い方の違いをまとめました。
-
-CLAUDE.md
-サブエー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ba93b20f744dc40c6690</id>
@@ -536,6 +536,18 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 この章では、「どう直すか...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a287336353a0a582bfb5</id>
+    <title>個人開発。AIと一緒にアプリを作ったら、普通にストア公開できた話</title>
+    <link rel="alternate" href="https://qiita.com/yniji/items/a287336353a0a582bfb5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T11:27:58+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yniji&quot;&gt;yniji&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T11:27:58+09:00&lt;br/&gt;Updated: 2026-01-14T11:27:58+09:00&lt;br/&gt;結論から書きます。
+AIがデザインし、コードを書いたアプリが、
+普通に App Store / Google Play の審査を通り、普通に公開できました。
+特別な裏技も、ゴリ押しもありません。
+ただし、放っておいてできた話ではありません。
+AIには、日本語で相当うるさく指...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b7609a0f538696bedbd7</id>
     <title>資格懐疑派がAWS SAP取得を目指したきっかけと学習法</title>
     <link rel="alternate" href="https://qiita.com/toproad/items/b7609a0f538696bedbd7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -578,18 +590,6 @@ FPGAとマイコンを1ボードに搭載
 　Shrike LiteはマイコンとFPGAが搭載されたボードであり，
 マイコンはRP2040（Raspberry Pi財団）が，FPGAはForgeFPGA SLG47910V（Renesas）が搭載されている．
 　ちなみに...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a287336353a0a582bfb5</id>
-    <title>個人開発。AIと一緒にアプリを作ったら、普通にストア公開できた話</title>
-    <link rel="alternate" href="https://qiita.com/yniji/items/a287336353a0a582bfb5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T11:27:58+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yniji&quot;&gt;yniji&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T11:27:58+09:00&lt;br/&gt;Updated: 2026-01-14T11:27:58+09:00&lt;br/&gt;結論から書きます。
-AIがデザインし、コードを書いたアプリが、
-普通に App Store / Google Play の審査を通り、普通に公開できました。
-特別な裏技も、ゴリ押しもありません。
-ただし、放っておいてできた話ではありません。
-AIには、日本語で相当うるさく指...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:658b77f0bb7c73f9f508</id>
@@ -643,6 +643,20 @@ Power Automate を触っていて実行結果（履歴）を確認してみる�
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c130168ca3fc0f1f6aaa</id>
+    <title>Claude Codeに別のAIエージェント（Codex等）を相談役として付けてみた</title>
+    <link rel="alternate" href="https://qiita.com/hiropon122/items/c130168ca3fc0f1f6aaa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T23:28:54+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiropon122&quot;&gt;hiropon122&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T09:56:01+09:00&lt;br/&gt;Updated: 2026-01-14T23:28:54+09:00&lt;br/&gt;きっかけ
+Claude Codeには日頃から大変お世話になっていますが、完全にお任せというわけにも行かないのが実情です。
+
+計画段階でのレビュー - 「そのアプローチで大丈夫？」と確認したい
+
+実装中の軌道修正 - おかしな方向に進みそうなときに相談に乗りたい
+
+完了時...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e5d0e562b85c3f6b5f27</id>
     <title>【Select AI】クエリできすぎくんを使ってSelect AIを検証してみた（Part 1）</title>
     <link rel="alternate" href="https://qiita.com/marfujim/items/e5d0e562b85c3f6b5f27?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -669,20 +683,6 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
     <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:22:12+09:00&lt;br/&gt;Updated: 2026-01-04T17:22:12+09:00&lt;br/&gt;この1週間、GitHubで複数のプロジェクトを同時並行で進め、AIを活用することで個人レベルでは不可能だったアウトプット量と質を実現しました。その軌跡と、それを可能にした「AI並列開発」の力について共有します。
 
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c130168ca3fc0f1f6aaa</id>
-    <title>Claude Codeに別のAIエージェント（Codex等）を相談役として付けてみた</title>
-    <link rel="alternate" href="https://qiita.com/hiropon122/items/c130168ca3fc0f1f6aaa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T23:28:54+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiropon122&quot;&gt;hiropon122&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T09:56:01+09:00&lt;br/&gt;Updated: 2026-01-14T23:28:54+09:00&lt;br/&gt;きっかけ
-Claude Codeには日頃から大変お世話になっていますが、完全にお任せというわけにも行かないのが実情です。
-
-計画段階でのレビュー - 「そのアプローチで大丈夫？」と確認したい
-
-実装中の軌道修正 - おかしな方向に進みそうなときに相談に乗りたい
-
-完了時...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fee7b58641ae4c15f062</id>
@@ -876,6 +876,15 @@ boto3を使ったPythonアプリケーションで、aws loginコマンドで認
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0a4b93cccdd14ac285b9</id>
+    <title>PMって難しいよね</title>
+    <link rel="alternate" href="https://qiita.com/KENTAROSZK/items/0a4b93cccdd14ac285b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T00:07:39+09:00</updated>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KENTAROSZK&quot;&gt;KENTAROSZK&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T00:07:39+09:00&lt;br/&gt;Updated: 2026-01-14T00:07:39+09:00&lt;br/&gt;参考記事を見ながら、自分が思ったことを残す。参考記事を見ていただいた方が学びが多いと思います。これは個人的なメモであり、今後の自分が振り返りで使えるように残したメモです。
+参考記事中に出てきた問いに自分なりに答える、そこで生まれた自分の思考や思い出を膨らましてメモ。
+時間が...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f41f80af8eed80a9044f</id>
     <title>【令和８年最新版】GitHub CopilotにおけるAIモデルの違いや選定の考え方</title>
     <link rel="alternate" href="https://qiita.com/Free_Akito9120/items/f41f80af8eed80a9044f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -954,15 +963,6 @@ if / elsif / else のような条件分岐が増える
 「AIでポ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:0a4b93cccdd14ac285b9</id>
-    <title>PMって難しいよね</title>
-    <link rel="alternate" href="https://qiita.com/KENTAROSZK/items/0a4b93cccdd14ac285b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T00:07:39+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KENTAROSZK&quot;&gt;KENTAROSZK&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T00:07:39+09:00&lt;br/&gt;Updated: 2026-01-14T00:07:39+09:00&lt;br/&gt;参考記事を見ながら、自分が思ったことを残す。参考記事を見ていただいた方が学びが多いと思います。これは個人的なメモであり、今後の自分が振り返りで使えるように残したメモです。
-参考記事中に出てきた問いに自分なりに答える、そこで生まれた自分の思考や思い出を膨らましてメモ。
-時間が...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:7123e96470396ffc4819</id>
     <title>Next.js 16 の重要な新機能をまとめて紹介します（第2回）</title>
     <link rel="alternate" href="https://qiita.com/TOMOSIA-HieuNT/items/7123e96470396ffc4819?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -990,6 +990,17 @@ Enhanced Routingとは？
 
 前回はセルラーノイズを応用し、マーブル模様を表示するところまでやっていました。
 今回は以下映像のような表現ができるところまでやりたいと思います...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ed2b64a94c7547133a85</id>
+    <title>無茶なスケジュール案件でも燃えにくくする「開発環境」と内部工程計画の考え方</title>
+    <link rel="alternate" href="https://qiita.com/masa-555/items/ed2b64a94c7547133a85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T13:55:19+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa-555&quot;&gt;masa-555&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T13:55:19+09:00&lt;br/&gt;Updated: 2026-01-13T13:55:19+09:00&lt;br/&gt;フリーランス・小さなソフトハウスのための
+セキュアに分離された開発環境を“こっそり”用意しておくことで、ヘッドカウント型ビジネスでも、きつめのスケジュール案件をなるべく燃やさずにこなすための話です。
+
+はじめに
+フリーランスや、いわゆるヘッドカウント型ソフトハウスとしてプ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1cf0721b201896d87ec3</id>
@@ -1042,6 +1053,16 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:32184382a409e664709c</id>
+    <title>AWS CLIのloginコマンドで別のAWSアカウントにアクセスする</title>
+    <link rel="alternate" href="https://qiita.com/inamuu/items/32184382a409e664709c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-15T01:43:21+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inamuu&quot;&gt;inamuu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T01:26:38+09:00&lt;br/&gt;Updated: 2026-01-15T01:43:21+09:00&lt;br/&gt;概要
+2025年末、AWS CLIがアップデートして、loginコマンドを使ってAWSのログインを行うことができるようになった。
+https://dev.classmethod.jp/articles/aws-cli-aws-login/
+この結果、ブラウザによる認証を経...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e3e6b7daa32c85550638</id>
     <title>ルーターでIoT機器の脆弱性を自動診断・隔離する仕組みを作ってみた</title>
     <link rel="alternate" href="https://qiita.com/uy0ha/items/e3e6b7daa32c85550638?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1049,17 +1070,6 @@ Rust の標準ライブラリには直接のユーティリティはありませ
     <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uy0ha&quot;&gt;uy0ha&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T21:26:37+09:00&lt;br/&gt;Updated: 2026-01-14T21:52:55+09:00&lt;br/&gt;開発のきっかけ
 私がIoTセキュリティに興味を持ったきっかけは、2018年に流行したマルウェア「Mirai」です。
 Miraiは、工場出荷時のID・パスワードがそのまま使用されているIoT機器に侵入し、遠隔操作を行うマルウェアです。このような単純な攻撃であるにもかかわらず...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ed2b64a94c7547133a85</id>
-    <title>無茶なスケジュール案件でも燃えにくくする「開発環境」と内部工程計画の考え方</title>
-    <link rel="alternate" href="https://qiita.com/masa-555/items/ed2b64a94c7547133a85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T13:55:19+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa-555&quot;&gt;masa-555&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T13:55:19+09:00&lt;br/&gt;Updated: 2026-01-13T13:55:19+09:00&lt;br/&gt;フリーランス・小さなソフトハウスのための
-セキュアに分離された開発環境を“こっそり”用意しておくことで、ヘッドカウント型ビジネスでも、きつめのスケジュール案件をなるべく燃やさずにこなすための話です。
-
-はじめに
-フリーランスや、いわゆるヘッドカウント型ソフトハウスとしてプ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:204df7802b9855461f74</id>
