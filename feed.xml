@@ -283,10 +283,11 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
     <link rel="alternate" href="https://qiita.com/yushibats/items/cb29c3208ac188dad5f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-15T08:28:58+09:00</updated>
     <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T20:31:02+09:00&lt;br/&gt;Updated: 2026-01-15T08:28:58+09:00&lt;br/&gt;Oracle AI Database Private Agent Factory（通称：Agent Factory） がリリースされました！
+
 本記事では、
 
 新サービス・ノーコード AI エージェントビルダー「Agent Factory」の概要と特徴
-OCI Marketp...</summary>
+OCI Market...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:58be7519dee6a58f74d1</id>
@@ -340,7 +341,7 @@ Channel は、こうした「ステージ間の受け渡し」を .NET らしい
     <title>役割が混在してきたので「CLAUDE.md / サブエージェント / スラッシュコマンド / エージェントスキル」を改めてまとめてみた</title>
     <link rel="alternate" href="https://qiita.com/fujisho1216/items/90b34ef9abd910deb6ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-13T09:24:08+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fujisho1216&quot;&gt;fujisho1216&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T09:24:08+09:00&lt;br/&gt;Updated: 2026-01-13T09:24:08+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fujisho1216&quot;&gt;fujisho1216&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T09:24:08+09:00&lt;br/&gt;Updated: 2026-01-13T09:24:08+09:00&lt;br/&gt;はじめに
 直近、Claude Code を用いた開発を行っています。
 ただし、様々な機能がリリースする中でそれぞれの役割が整理しきれなくなりました。
 そこで、今回特に使い分けが混乱してきている下記 4 つの役割と使い方の違いをまとめました。
@@ -1048,6 +1049,17 @@ Rust の標準ライブラリには直接のユーティリティはありませ
     <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uy0ha&quot;&gt;uy0ha&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T21:26:37+09:00&lt;br/&gt;Updated: 2026-01-14T21:52:55+09:00&lt;br/&gt;開発のきっかけ
 私がIoTセキュリティに興味を持ったきっかけは、2018年に流行したマルウェア「Mirai」です。
 Miraiは、工場出荷時のID・パスワードがそのまま使用されているIoT機器に侵入し、遠隔操作を行うマルウェアです。このような単純な攻撃であるにもかかわらず...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ed2b64a94c7547133a85</id>
+    <title>無茶なスケジュール案件でも燃えにくくする「開発環境」と内部工程計画の考え方</title>
+    <link rel="alternate" href="https://qiita.com/masa-555/items/ed2b64a94c7547133a85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T13:55:19+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa-555&quot;&gt;masa-555&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T13:55:19+09:00&lt;br/&gt;Updated: 2026-01-13T13:55:19+09:00&lt;br/&gt;フリーランス・小さなソフトハウスのための
+セキュアに分離された開発環境を“こっそり”用意しておくことで、ヘッドカウント型ビジネスでも、きつめのスケジュール案件をなるべく燃やさずにこなすための話です。
+
+はじめに
+フリーランスや、いわゆるヘッドカウント型ソフトハウスとしてプ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:204df7802b9855461f74</id>
