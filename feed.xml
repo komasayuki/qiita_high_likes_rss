@@ -95,7 +95,7 @@ SAA (AWS Certified So...</summary>
     <title>データベースはなぜ大切なのか？多くの人が説明できない概念的な考え方について</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/45699be4eb9d7e0f3b8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-15T10:28:17+09:00</updated>
-    <summary type="html">Likes: 110&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-15T10:28:17+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 114&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T16:01:44+09:00&lt;br/&gt;Updated: 2026-01-15T10:28:17+09:00&lt;br/&gt;はじめに
 「データベースは重要だ」
 という言葉をよく耳にします。
 そしてデータベースが「技術的に」何故大切なのか？
@@ -209,7 +209,7 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
     <title>Web関係のセキュリティについて初心者でもわかるようにまとめてみた - OWASP Top 10:2025</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/e64b9f26c54607f7862b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-14T12:43:13+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:32:15+09:00&lt;br/&gt;Updated: 2026-01-14T12:43:13+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:32:15+09:00&lt;br/&gt;Updated: 2026-01-14T12:43:13+09:00&lt;br/&gt;はじめに
 セキュリティに問題があると、大変なことになります。
 普通のバグは不便で済むこともありますが、セキュリティの穴はアカウント乗っ取り、情報漏えい、サービス停止など、取り返しがつかない形で表に出やすいのです。
 そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
@@ -236,7 +236,7 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
     <title>【ポケモン×Java】知識編 ERROR #7  ## 論理エラーは「止まらない」― だから気づけない？！</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/3ae7541a112833cad737?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-14T17:37:51+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T17:36:37+09:00&lt;br/&gt;Updated: 2026-01-14T17:37:51+09:00&lt;br/&gt;はじめまして。
+    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T17:36:37+09:00&lt;br/&gt;Updated: 2026-01-14T17:37:51+09:00&lt;br/&gt;はじめまして。
 株式会社PRUMでエンジニアをしている人見です。
 日々、プログラミング学習や実務の中で
 つまずきやすいポイントを整理して発信しています。
@@ -269,6 +269,19 @@ Generative UIは、生成AIやAIエージェントによってUIを生成する�
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:90b34ef9abd910deb6ac</id>
+    <title>役割が混在してきたので「CLAUDE.md / サブエージェント / スラッシュコマンド / エージェントスキル」を改めてまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/fujisho1216/items/90b34ef9abd910deb6ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T09:24:08+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fujisho1216&quot;&gt;fujisho1216&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T09:24:08+09:00&lt;br/&gt;Updated: 2026-01-13T09:24:08+09:00&lt;br/&gt;はじめに
+直近、Claude Code を用いた開発を行っています。
+ただし、様々な機能がリリースする中でそれぞれの役割が整理しきれなくなりました。
+そこで、今回特に使い分けが混乱してきている下記 4 つの役割と使い方の違いをまとめました。
+
+CLAUDE.md
+サブエー...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cb29c3208ac188dad5f1</id>
     <title>OCIのノーコード・エージェントビルダー『Agent Factory』がリリース！触ってみた</title>
     <link rel="alternate" href="https://qiita.com/yushibats/items/cb29c3208ac188dad5f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -279,19 +292,6 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
 
 新サービス・ノーコード AI エージェントビルダー「Agent Factory」の概要と特徴
 OCI Market...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:90b34ef9abd910deb6ac</id>
-    <title>役割が混在してきたので「CLAUDE.md / サブエージェント / スラッシュコマンド / エージェントスキル」を改めてまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/fujisho1216/items/90b34ef9abd910deb6ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T09:24:08+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fujisho1216&quot;&gt;fujisho1216&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T09:24:08+09:00&lt;br/&gt;Updated: 2026-01-13T09:24:08+09:00&lt;br/&gt;はじめに
-直近、Claude Code を用いた開発を行っています。
-ただし、様々な機能がリリースする中でそれぞれの役割が整理しきれなくなりました。
-そこで、今回特に使い分けが混乱してきている下記 4 つの役割と使い方の違いをまとめました。
-
-CLAUDE.md
-サブエー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9e6595d7c6f6f0c90c4c</id>
@@ -374,6 +374,18 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
     <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T20:57:55+09:00&lt;br/&gt;Updated: 2026-01-06T19:49:00+09:00&lt;br/&gt;はじめに
 表題のとおり、Windows OS を USB メモリ上に導入して、任意の PC を使って利用するためのノウハウを共有したいと思います。
 本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:a287336353a0a582bfb5</id>
+    <title>個人開発。AIと一緒にアプリを作ったら、普通にストア公開できた話</title>
+    <link rel="alternate" href="https://qiita.com/yniji/items/a287336353a0a582bfb5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T11:27:58+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yniji&quot;&gt;yniji&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T11:27:58+09:00&lt;br/&gt;Updated: 2026-01-14T11:27:58+09:00&lt;br/&gt;結論から書きます。
+AIがデザインし、コードを書いたアプリが、
+普通に App Store / Google Play の審査を通り、普通に公開できました。
+特別な裏技も、ゴリ押しもありません。
+ただし、放っておいてできた話ではありません。
+AIには、日本語で相当うるさく指...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
@@ -475,18 +487,6 @@ PRUMについて気になった方は、
 本記事は、JavaエンジニアがTypeScriptを扱う際に感じた違いを解説した記事です。
 これまで実務や個人開発でTypeScriptに触れていましたが、Javaの感覚でコードを読み進めていくと、TypeScript特有の概念や挙動に戸惑うことがありました。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a287336353a0a582bfb5</id>
-    <title>個人開発。AIと一緒にアプリを作ったら、普通にストア公開できた話</title>
-    <link rel="alternate" href="https://qiita.com/yniji/items/a287336353a0a582bfb5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T11:27:58+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yniji&quot;&gt;yniji&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T11:27:58+09:00&lt;br/&gt;Updated: 2026-01-14T11:27:58+09:00&lt;br/&gt;結論から書きます。
-AIがデザインし、コードを書いたアプリが、
-普通に App Store / Google Play の審査を通り、普通に公開できました。
-特別な裏技も、ゴリ押しもありません。
-ただし、放っておいてできた話ではありません。
-AIには、日本語で相当うるさく指...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0b4a980f2f4bb073a9e0</id>
@@ -603,6 +603,14 @@ FPGAとマイコンを1ボードに搭載
 フォトリアルな写真が作りたいなら様々なプロンプトで大量の写真を生成しフォトリアル順に順位付けする。topKのプロンプトを改修し、さらに写真を生成し順位...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:22c391addbdb74e7ace3</id>
+    <title>Unityでドンキーコングバナンザみたいにボクセルを扱う(メッシュ生成編)</title>
+    <link rel="alternate" href="https://qiita.com/0ali8hi26/items/22c391addbdb74e7ace3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-13T10:34:27+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/0ali8hi26&quot;&gt;0ali8hi26&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T10:34:25+09:00&lt;br/&gt;Updated: 2026-01-13T10:34:27+09:00&lt;br/&gt;初めまして、ウリノと申します。所属している山形大学のサークルの先輩からアドベントカレンダーやってみない？っていうお誘いがあり初めての記事投稿をさせてもらうことになりました。
+しかしながらいったい何を題材に書いたものか…そんなに語れることがない気がする…と思いながらもとりあえ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:658b77f0bb7c73f9f508</id>
     <title>Rust × Python × Polars で実現する、秒間420万イベントの爆速・高精度バックテスター「crypto-rs-backtester」</title>
     <link rel="alternate" href="https://qiita.com/takurot/items/658b77f0bb7c73f9f508?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -610,14 +618,6 @@ FPGAとマイコンを1ボードに搭載
     <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
 そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
 Google Colabで手軽に試せるの...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:22c391addbdb74e7ace3</id>
-    <title>Unityでドンキーコングバナンザみたいにボクセルを扱う(メッシュ生成編)</title>
-    <link rel="alternate" href="https://qiita.com/0ali8hi26/items/22c391addbdb74e7ace3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T10:34:27+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/0ali8hi26&quot;&gt;0ali8hi26&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T10:34:25+09:00&lt;br/&gt;Updated: 2026-01-13T10:34:27+09:00&lt;br/&gt;初めまして、ウリノと申します。所属している山形大学のサークルの先輩からアドベントカレンダーやってみない？っていうお誘いがあり初めての記事投稿をさせてもらうことになりました。
-しかしながらいったい何を題材に書いたものか…そんなに語れることがない気がする…と思いながらもとりあえ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:97b14db690c99ecfbbb1</id>
@@ -802,6 +802,15 @@ CSVファイルに書き込んで
 数GBの...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0a4b93cccdd14ac285b9</id>
+    <title>PMって難しいよね</title>
+    <link rel="alternate" href="https://qiita.com/KENTAROSZK/items/0a4b93cccdd14ac285b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T00:07:39+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KENTAROSZK&quot;&gt;KENTAROSZK&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T00:07:39+09:00&lt;br/&gt;Updated: 2026-01-14T00:07:39+09:00&lt;br/&gt;参考記事を見ながら、自分が思ったことを残す。参考記事を見ていただいた方が学びが多いと思います。これは個人的なメモであり、今後の自分が振り返りで使えるように残したメモです。
+参考記事中に出てきた問いに自分なりに答える、そこで生まれた自分の思考や思い出を膨らましてメモ。
+時間が...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1adb4495e74c1dbcd6c6</id>
     <title>Pythonで描くカオスの世界：二重振り子シミュレーターを作ってみよう</title>
     <link rel="alternate" href="https://qiita.com/abcdefg123/items/1adb4495e74c1dbcd6c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -816,15 +825,6 @@ CSVファイルに書き込んで
     <updated>2026-01-03T09:15:39+09:00</updated>
     <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KimuraSoh&quot;&gt;KimuraSoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T09:15:39+09:00&lt;br/&gt;Updated: 2026-01-03T09:15:39+09:00&lt;br/&gt;はじめに
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0a4b93cccdd14ac285b9</id>
-    <title>PMって難しいよね</title>
-    <link rel="alternate" href="https://qiita.com/KENTAROSZK/items/0a4b93cccdd14ac285b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T00:07:39+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KENTAROSZK&quot;&gt;KENTAROSZK&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T00:07:39+09:00&lt;br/&gt;Updated: 2026-01-14T00:07:39+09:00&lt;br/&gt;参考記事を見ながら、自分が思ったことを残す。参考記事を見ていただいた方が学びが多いと思います。これは個人的なメモであり、今後の自分が振り返りで使えるように残したメモです。
-参考記事中に出てきた問いに自分なりに答える、そこで生まれた自分の思考や思い出を膨らましてメモ。
-時間が...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:920a517db6ae869aa336</id>
