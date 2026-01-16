@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-16T10:59:44+09:00</updated>
+  <updated>2026-01-16T14:28:48+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -174,7 +174,7 @@ SHAP値処理の改修
     <title>Web関係のセキュリティについて初心者でもわかるようにまとめてみた - OWASP Top 10:2025</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/e64b9f26c54607f7862b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-14T12:43:13+09:00</updated>
-    <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:32:15+09:00&lt;br/&gt;Updated: 2026-01-14T12:43:13+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:32:15+09:00&lt;br/&gt;Updated: 2026-01-14T12:43:13+09:00&lt;br/&gt;はじめに
 セキュリティに問題があると、大変なことになります。
 普通のバグは不便で済むこともありますが、セキュリティの穴はアカウント乗っ取り、情報漏えい、サービス停止など、取り返しがつかない形で表に出やすいのです。
 そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
@@ -618,6 +618,25 @@ FPGAとマイコンを1ボードに搭載
     <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
 そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
 Google Colabで手軽に試せるの...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:90697508c14d8f2a5afe</id>
+    <title>Vue 3: computed で入力バリデーションをリアルタイム表示する</title>
+    <link rel="alternate" href="https://qiita.com/pomusuke36/items/90697508c14d8f2a5afe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-16T14:28:48+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/pomusuke36&quot;&gt;pomusuke36&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T14:28:48+09:00&lt;br/&gt;Updated: 2026-01-16T14:28:48+09:00&lt;br/&gt;1. この記事でやること
+
+学習アウトプットとして、computed を使って バリデーションを表示する
+
+2. 検証環境
+
+Vue 3.4.35
+Nuxt 3.12.4
+Node v22.20.0
+Yarn 1.22.18
+macOS Sequoia 15.6
+
+3...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c130168ca3fc0f1f6aaa</id>
