@@ -127,22 +127,22 @@ BizCodeXで案件をご紹介いただき、人生初の副業に挑戦しまし
 Claude Code への質問とその回答を指定のファイルに保...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e64b9f26c54607f7862b</id>
+    <title>Web関係のセキュリティについて初心者でもわかるようにまとめてみた - OWASP Top 10:2025</title>
+    <link rel="alternate" href="https://qiita.com/shibata1111/items/e64b9f26c54607f7862b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T12:43:13+09:00</updated>
+    <summary type="html">Likes: 92&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:32:15+09:00&lt;br/&gt;Updated: 2026-01-14T12:43:13+09:00&lt;br/&gt;はじめに
+セキュリティに問題があると、大変なことになります。
+普通のバグは不便で済むこともありますが、セキュリティの穴はアカウント乗っ取り、情報漏えい、サービス停止など、取り返しがつかない形で表に出やすいのです。
+そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d16ad3a0b271924013ec</id>
     <title>【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-13T22:59:41+09:00</updated>
     <summary type="html">Likes: 92&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
 またなんか無限レンダリングされるとかなんか2回...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e64b9f26c54607f7862b</id>
-    <title>Web関係のセキュリティについて初心者でもわかるようにまとめてみた - OWASP Top 10:2025</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/e64b9f26c54607f7862b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T12:43:13+09:00</updated>
-    <summary type="html">Likes: 91&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:32:15+09:00&lt;br/&gt;Updated: 2026-01-14T12:43:13+09:00&lt;br/&gt;はじめに
-セキュリティに問題があると、大変なことになります。
-普通のバグは不便で済むこともありますが、セキュリティの穴はアカウント乗っ取り、情報漏えい、サービス停止など、取り返しがつかない形で表に出やすいのです。
-そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:193f9df4db110f1bb817</id>
@@ -215,6 +215,18 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a287336353a0a582bfb5</id>
+    <title>個人開発。AIと一緒にアプリを作ったら、普通にストア公開できた話</title>
+    <link rel="alternate" href="https://qiita.com/yniji/items/a287336353a0a582bfb5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-14T11:27:58+09:00</updated>
+    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yniji&quot;&gt;yniji&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T11:27:58+09:00&lt;br/&gt;Updated: 2026-01-14T11:27:58+09:00&lt;br/&gt;結論から書きます。
+AIがデザインし、コードを書いたアプリが、
+普通に App Store / Google Play の審査を通り、普通に公開できました。
+特別な裏技も、ゴリ押しもありません。
+ただし、放っておいてできた話ではありません。
+AIには、日本語で相当うるさく指...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6d571c3585577572badf</id>
     <title>BI は未だに「新しいもの」なのか？</title>
     <link rel="alternate" href="https://qiita.com/yugoes1021/items/6d571c3585577572badf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -246,18 +258,6 @@ PRUMについて気になった方は、
 
 はじめに
 この章では、論...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a287336353a0a582bfb5</id>
-    <title>個人開発。AIと一緒にアプリを作ったら、普通にストア公開できた話</title>
-    <link rel="alternate" href="https://qiita.com/yniji/items/a287336353a0a582bfb5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-14T11:27:58+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yniji&quot;&gt;yniji&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T11:27:58+09:00&lt;br/&gt;Updated: 2026-01-14T11:27:58+09:00&lt;br/&gt;結論から書きます。
-AIがデザインし、コードを書いたアプリが、
-普通に App Store / Google Play の審査を通り、普通に公開できました。
-特別な裏技も、ゴリ押しもありません。
-ただし、放っておいてできた話ではありません。
-AIには、日本語で相当うるさく指...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:61ce0d16d6e59cb567be</id>
@@ -823,6 +823,19 @@ TCPとUDPの違い
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:67f7fc1c79173c9a6c44</id>
+    <title>Qiitaのいろいろランキング2025</title>
+    <link rel="alternate" href="https://qiita.com/Qiita/items/67f7fc1c79173c9a6c44?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-16T20:31:56+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Qiita&quot;&gt;Qiita&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T20:31:56+09:00&lt;br/&gt;Updated: 2026-01-16T20:31:56+09:00&lt;br/&gt;はじめに
+2025年のユーザーの皆さまの活動を、色々なカテゴリーでランキングにしました！
+今年も公式から提供していきます 
+過去のランキングを公開ストックリストとしてまとめました。ぜひご覧ください
+
+1年間のサマリー
+最初はQiitaのContributionと記事...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0382cd29211da54c1705</id>
     <title>イラスト苦手なデザイナーが今、既存キャラ制作でパワーアップするために使っているおすすめAI vol.2 〜Whisk編〜</title>
     <link rel="alternate" href="https://qiita.com/GIFCat/items/0382cd29211da54c1705?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -873,19 +886,6 @@ CSVファイルに書き込んで
     <updated>2026-01-03T09:15:39+09:00</updated>
     <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KimuraSoh&quot;&gt;KimuraSoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T09:15:39+09:00&lt;br/&gt;Updated: 2026-01-03T09:15:39+09:00&lt;br/&gt;はじめに
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:67f7fc1c79173c9a6c44</id>
-    <title>Qiitaのいろいろランキング2025</title>
-    <link rel="alternate" href="https://qiita.com/Qiita/items/67f7fc1c79173c9a6c44?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-16T20:31:56+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Qiita&quot;&gt;Qiita&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T20:31:56+09:00&lt;br/&gt;Updated: 2026-01-16T20:31:56+09:00&lt;br/&gt;はじめに
-2025年のユーザーの皆さまの活動を、色々なカテゴリーでランキングにしました！
-今年も公式から提供していきます 
-過去のランキングを公開ストックリストとしてまとめました。ぜひご覧ください
-
-1年間のサマリー
-最初はQiitaのContributionと記事...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:920a517db6ae869aa336</id>
@@ -944,6 +944,17 @@ Emacs備忘録（２０２４年版）という記事を投稿してから２年
     <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/_YukiOgawa&quot;&gt;_YukiOgawa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T16:35:57+09:00&lt;br/&gt;Updated: 2026-01-05T16:35:57+09:00&lt;br/&gt;はじめに
 boto3を使ったPythonアプリケーションで、aws loginコマンドで認証したのに、15分くらいで「クレデンシャルが期限切れです」というエラーが出て困っていました。
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9529bb67ac6ab6857b79</id>
+    <title>カメラが回る開発現場で学ぶ、エンジニアがビジネスで成長するための5つの視点</title>
+    <link rel="alternate" href="https://qiita.com/GIFCat/items/9529bb67ac6ab6857b79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-16T09:00:57+09:00</updated>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GIFCat&quot;&gt;GIFCat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T09:00:57+09:00&lt;br/&gt;Updated: 2026-01-16T09:00:57+09:00&lt;br/&gt;「開発風景を撮影させてください」
+
+そう言われた時、正直戸惑いました。
+エンジニアとして、コードを書いている姿をカメラに収められることへの抵抗感。でも、後にこのドキュメンタリー撮影が、私のエンジニアとしての成長を大きく後押ししてくれました。
+今回は、伝統工芸×AIエージェ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f41f80af8eed80a9044f</id>
@@ -1027,17 +1038,6 @@ GPT-5.2、Gemini 3、Claude 4.5 Opusの画像文字起こし性能の違い
 プロンプトの質が出力に与える影響の実...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:9529bb67ac6ab6857b79</id>
-    <title>カメラが回る開発現場で学ぶ、エンジニアがビジネスで成長するための5つの視点</title>
-    <link rel="alternate" href="https://qiita.com/GIFCat/items/9529bb67ac6ab6857b79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-16T09:00:57+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GIFCat&quot;&gt;GIFCat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T09:00:57+09:00&lt;br/&gt;Updated: 2026-01-16T09:00:57+09:00&lt;br/&gt;「開発風景を撮影させてください」
-
-そう言われた時、正直戸惑いました。
-エンジニアとして、コードを書いている姿をカメラに収められることへの抵抗感。でも、後にこのドキュメンタリー撮影が、私のエンジニアとしての成長を大きく後押ししてくれました。
-今回は、伝統工芸×AIエージェ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:7123e96470396ffc4819</id>
     <title>Next.js 16 の重要な新機能をまとめて紹介します（第2回）</title>
     <link rel="alternate" href="https://qiita.com/TOMOSIA-HieuNT/items/7123e96470396ffc4819?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1115,6 +1115,16 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/neko_the_shadow&quot;&gt;neko_the_shadow&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:12:16+09:00&lt;br/&gt;Updated: 2026-01-04T11:12:16+09:00&lt;br/&gt;はじめに
 競技プログラミングやパズル系の問題を解いていると、  「複数の配列から取りうる すべての組み合わせを列挙したい」という場面がよくあります。
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:f6f533b832015a83cf03</id>
+    <title>&quot;じぶん専属キャリアカウンセラー&quot;をNotebookLMで作ってみた</title>
+    <link rel="alternate" href="https://qiita.com/25Such/items/f6f533b832015a83cf03?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-15T09:23:11+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/25Such&quot;&gt;25Such&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T09:23:11+09:00&lt;br/&gt;Updated: 2026-01-15T09:23:11+09:00&lt;br/&gt;この記事は先日投稿した「はたらくを楽しく」する！&quot;times&quot;活用術の後日章でもあります。
+気になる方はこちら👆もご一読いただけると嬉しいです！
+
+先日、「はたらくを楽しく」する！&quot;times&quot;活用術でNotebookLMを使って下半期の振り返りをした話をご紹介しました...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:32184382a409e664709c</id>
