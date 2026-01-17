@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-17T11:10:57+09:00</updated>
+  <updated>2026-01-17T12:49:24+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -139,7 +139,7 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
     <title>Web関係のセキュリティについて初心者でもわかるようにまとめてみた - OWASP Top 10:2025</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/e64b9f26c54607f7862b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-14T12:43:13+09:00</updated>
-    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:32:15+09:00&lt;br/&gt;Updated: 2026-01-14T12:43:13+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 91&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:32:15+09:00&lt;br/&gt;Updated: 2026-01-14T12:43:13+09:00&lt;br/&gt;はじめに
 セキュリティに問題があると、大変なことになります。
 普通のバグは不便で済むこともありますが、セキュリティの穴はアカウント乗っ取り、情報漏えい、サービス停止など、取り返しがつかない形で表に出やすいのです。
 そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
@@ -515,8 +515,8 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
     <id>tag:qiita.com,2026:5557800c41eb43b43f2f</id>
     <title>個人開発者として実際にアプリを運営していく中で感じた個人開発の現実を言語化したいと思います。</title>
     <link rel="alternate" href="https://qiita.com/tatsuoNakano/items/5557800c41eb43b43f2f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-17T11:10:57+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuoNakano&quot;&gt;tatsuoNakano&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T18:53:04+09:00&lt;br/&gt;Updated: 2026-01-17T11:10:57+09:00&lt;br/&gt;序文
+    <updated>2026-01-17T12:49:24+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuoNakano&quot;&gt;tatsuoNakano&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T18:53:04+09:00&lt;br/&gt;Updated: 2026-01-17T12:49:24+09:00&lt;br/&gt;序文
 個人開発者はプログラミングができることなど必要最低条件でしかないです。しかし世の中には、プログラミングは万能技能であり、プログラミングができれば人生逆転可能であるなどという言動が巷に溢れています。その現状を啓蒙したいという思いが少しあり、今回この記事を執筆するに至り...</summary>
   </entry>
   <entry>
@@ -1014,6 +1014,19 @@ if / elsif / else のような条件分岐が増える
 そして、個人開発ではStreamlit + L...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b46a545a96e9150c457f</id>
+    <title>【LLM文字起こし性能比較】低解像度のAI泣かせ表データを読ませてみた結果（GPT-5.2 / Gemini 3 / Claude 4.5 Opus）</title>
+    <link rel="alternate" href="https://qiita.com/k2a_Y4a/items/b46a545a96e9150c457f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-16T09:37:07+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/k2a_Y4a&quot;&gt;k2a_Y4a&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T09:21:19+09:00&lt;br/&gt;Updated: 2026-01-16T09:37:07+09:00&lt;br/&gt;💡この記事で分かること
+
+GPT-5.2、Gemini 3、Claude 4.5 Opusの画像文字起こし性能の違い
+低解像度・特殊文字満載の表データに対する各モデルの対応力
+筆者の検証環境における最適な文字起こしモデルの選定結果
+
+プロンプトの質が出力に与える影響の実...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9529bb67ac6ab6857b79</id>
     <title>カメラが回る開発現場で学ぶ、エンジニアがビジネスで成長するための5つの視点</title>
     <link rel="alternate" href="https://qiita.com/GIFCat/items/9529bb67ac6ab6857b79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1102,19 +1115,6 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/neko_the_shadow&quot;&gt;neko_the_shadow&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:12:16+09:00&lt;br/&gt;Updated: 2026-01-04T11:12:16+09:00&lt;br/&gt;はじめに
 競技プログラミングやパズル系の問題を解いていると、  「複数の配列から取りうる すべての組み合わせを列挙したい」という場面がよくあります。
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b46a545a96e9150c457f</id>
-    <title>【LLM文字起こし性能比較】低解像度のAI泣かせ表データを読ませてみた結果（GPT-5.2 / Gemini 3 / Claude 4.5 Opus）</title>
-    <link rel="alternate" href="https://qiita.com/k2a_Y4a/items/b46a545a96e9150c457f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-16T09:37:07+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/k2a_Y4a&quot;&gt;k2a_Y4a&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T09:21:19+09:00&lt;br/&gt;Updated: 2026-01-16T09:37:07+09:00&lt;br/&gt;💡この記事で分かること
-
-GPT-5.2、Gemini 3、Claude 4.5 Opusの画像文字起こし性能の違い
-低解像度・特殊文字満載の表データに対する各モデルの対応力
-筆者の検証環境における最適な文字起こしモデルの選定結果
-
-プロンプトの質が出力に与える影響の実...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:32184382a409e664709c</id>
