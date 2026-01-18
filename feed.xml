@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-18T17:07:50+09:00</updated>
+  <updated>2026-01-18T23:28:37+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -369,6 +369,15 @@ Web API（REST API）という言葉を聞いたことがある方
 バックエンド開発に興味があり、最...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:097d51405416e93d5132</id>
+    <title>生成AIの収束先の存在を圏論で証明する</title>
+    <link rel="alternate" href="https://qiita.com/momo10/items/097d51405416e93d5132?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-17T20:27:13+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/momo10&quot;&gt;momo10&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T18:19:24+09:00&lt;br/&gt;Updated: 2026-01-17T20:27:13+09:00&lt;br/&gt;はじめに
+敵対的模倣学習の圏論的解釈について紹介します。
+近年、敵対的模倣学習 (Generative Adversarial Imitation Learning; GAIL) や、それを応用した RLHF (Reinforcement Learning from Hu...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:acc22c05c66826289f11</id>
     <title>【ポケモン×Java】Lv15：『ピカチュウも、ヒトカゲも、、、』～抽象化～</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/acc22c05c66826289f11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -394,15 +403,6 @@ PRUMについて気になった方は、
 
 この記事の情報は、2026年1月12日現在のものです。
 またユーザーの呼称は、正式でなく便宜的な...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:097d51405416e93d5132</id>
-    <title>生成AIの収束先の存在を圏論で証明する</title>
-    <link rel="alternate" href="https://qiita.com/momo10/items/097d51405416e93d5132?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-17T20:27:13+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/momo10&quot;&gt;momo10&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T18:19:24+09:00&lt;br/&gt;Updated: 2026-01-17T20:27:13+09:00&lt;br/&gt;はじめに
-敵対的模倣学習の圏論的解釈について紹介します。
-近年、敵対的模倣学習 (Generative Adversarial Imitation Learning; GAIL) や、それを応用した RLHF (Reinforcement Learning from Hu...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9bc0a7a0a68b50c8e138</id>
@@ -442,6 +442,16 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
 
 「分からなければ聞けばいい」
 「調べればす...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:f3028a229d0c42877cf4</id>
+    <title>Claude Codeが私の職場を激変させはじめた</title>
+    <link rel="alternate" href="https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T17:07:50+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engineerslowlife&quot;&gt;engineerslowlife&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T18:52:10+09:00&lt;br/&gt;Updated: 2026-01-18T17:07:50+09:00&lt;br/&gt;はじめに
+私は、大企業の精密機器メーカーに勤務するソフトウェアエンジニアですが、私の職場にも生成AIの大波がやってきました。
+全社的にClaude Codeを導入し、派遣社員・契約社員の人数を見直す可能性の検討が始まっています。
+私も現場のプロジェクトリーダーとして導入を...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b1726a7a6054ed7e64df</id>
@@ -516,16 +526,6 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウェブサーバーの間でHTMLファイルや画像などのウェブ情報をやり取りするための通信ルール（プロトコル）です。
 1回の通信で最低限起きていること
 1. ブ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f3028a229d0c42877cf4</id>
-    <title>Claude Codeが私の職場を激変させはじめた</title>
-    <link rel="alternate" href="https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-18T17:07:50+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engineerslowlife&quot;&gt;engineerslowlife&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T18:52:10+09:00&lt;br/&gt;Updated: 2026-01-18T17:07:50+09:00&lt;br/&gt;はじめに
-私は、大企業の精密機器メーカーに勤務するソフトウェアエンジニアですが、私の職場にも生成AIの大波がやってきました。
-全社的にClaude Codeを導入し、派遣社員・契約社員の人数を見直す可能性の検討が始まっています。
-私も現場のプロジェクトリーダーとして導入を...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c241b9c10d259a9b4efc</id>
@@ -886,6 +886,15 @@ TCPとUDPの違い
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c2e5d77c08c37532a3a3</id>
+    <title>Rust と Web でつくる軽量デスクトップアプリ：Tauri 完全ガイド</title>
+    <link rel="alternate" href="https://qiita.com/automation2025/items/c2e5d77c08c37532a3a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T23:28:37+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T09:50:06+09:00&lt;br/&gt;Updated: 2026-01-18T23:28:37+09:00&lt;br/&gt;はじめに：なぜ今 Tauri なのか
+Electron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。 dev
+Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用す...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0382cd29211da54c1705</id>
     <title>イラスト苦手なデザイナーが今、既存キャラ制作でパワーアップするために使っているおすすめAI vol.2 〜Whisk編〜</title>
     <link rel="alternate" href="https://qiita.com/GIFCat/items/0382cd29211da54c1705?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -936,15 +945,6 @@ CSVファイルに書き込んで
     <updated>2026-01-03T09:15:39+09:00</updated>
     <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KimuraSoh&quot;&gt;KimuraSoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T09:15:39+09:00&lt;br/&gt;Updated: 2026-01-03T09:15:39+09:00&lt;br/&gt;はじめに
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c2e5d77c08c37532a3a3</id>
-    <title>Rust と Web でつくる軽量デスクトップアプリ：Tauri 完全ガイド</title>
-    <link rel="alternate" href="https://qiita.com/automation2025/items/c2e5d77c08c37532a3a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-17T09:50:06+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T09:50:06+09:00&lt;br/&gt;Updated: 2026-01-17T09:50:06+09:00&lt;br/&gt;はじめに：なぜ今 Tauri なのか
-Electron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。 dev
-Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用す...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:199869941e2d6a8b46a0</id>
@@ -1227,6 +1227,17 @@ Rust の標準ライブラリには直接のユーティリティはありませ
 「先輩・同僚についていけるか心配。。。」
 自分らしく活躍するには、コーディングやツールなどのテクニカルスキルだけではなく、社会人としての常識・ヒューマンスキルも必要です。
 そんな悩みを解決す...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:910b7a6c1be97da2879d</id>
+    <title>エンジニアなら知っておきたいサーバーの基本</title>
+    <link rel="alternate" href="https://qiita.com/Suntory/items/910b7a6c1be97da2879d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-16T13:30:24+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Suntory&quot;&gt;Suntory&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T13:30:24+09:00&lt;br/&gt;Updated: 2026-01-16T13:30:24+09:00&lt;br/&gt;エンジニアなら知っておきたいサーバーの基本
+サーバーやネットワークについて勉強したのでざっくりと基本を説明します。
+知らなくてもコードは書けますが、知っておくとエラーが起きた時の対応が早くなったり、コードを書く以外の部分で役に立つと思います。
+
+1. Webアプリケーショ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:32184382a409e664709c</id>
