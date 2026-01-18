@@ -357,6 +357,16 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
 そんな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f3028a229d0c42877cf4</id>
+    <title>Claude Codeが私の職場を激変させはじめた</title>
+    <link rel="alternate" href="https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T17:07:50+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engineerslowlife&quot;&gt;engineerslowlife&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T18:52:10+09:00&lt;br/&gt;Updated: 2026-01-18T17:07:50+09:00&lt;br/&gt;はじめに
+私は、大企業の精密機器メーカーに勤務するソフトウェアエンジニアですが、私の職場にも生成AIの大波がやってきました。
+全社的にClaude Codeを導入し、派遣社員・契約社員の人数を見直す可能性の検討が始まっています。
+私も現場のプロジェクトリーダーとして導入を...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:58be7519dee6a58f74d1</id>
     <title>Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -376,16 +386,6 @@ Web API（REST API）という言葉を聞いたことがある方
     <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/momo10&quot;&gt;momo10&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T18:19:24+09:00&lt;br/&gt;Updated: 2026-01-17T20:27:13+09:00&lt;br/&gt;はじめに
 敵対的模倣学習の圏論的解釈について紹介します。
 近年、敵対的模倣学習 (Generative Adversarial Imitation Learning; GAIL) や、それを応用した RLHF (Reinforcement Learning from Hu...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f3028a229d0c42877cf4</id>
-    <title>Claude Codeが私の職場を激変させはじめた</title>
-    <link rel="alternate" href="https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-18T17:07:50+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engineerslowlife&quot;&gt;engineerslowlife&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T18:52:10+09:00&lt;br/&gt;Updated: 2026-01-18T17:07:50+09:00&lt;br/&gt;はじめに
-私は、大企業の精密機器メーカーに勤務するソフトウェアエンジニアですが、私の職場にも生成AIの大波がやってきました。
-全社的にClaude Codeを導入し、派遣社員・契約社員の人数を見直す可能性の検討が始まっています。
-私も現場のプロジェクトリーダーとして導入を...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:acc22c05c66826289f11</id>
@@ -699,6 +699,15 @@ FPGAとマイコンを1ボードに搭載
 Google Colabで手軽に試せるの...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c2e5d77c08c37532a3a3</id>
+    <title>Rust と Web でつくる軽量デスクトップアプリ：Tauri 完全ガイド</title>
+    <link rel="alternate" href="https://qiita.com/automation2025/items/c2e5d77c08c37532a3a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T23:28:37+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T09:50:06+09:00&lt;br/&gt;Updated: 2026-01-18T23:28:37+09:00&lt;br/&gt;はじめに：なぜ今 Tauri なのか
+Electron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。 dev
+Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用す...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c130168ca3fc0f1f6aaa</id>
     <title>Claude Codeに別のAIエージェント（Codex等）を相談役として付けてみた</title>
     <link rel="alternate" href="https://qiita.com/hiropon122/items/c130168ca3fc0f1f6aaa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -711,15 +720,6 @@ Claude Codeには日頃から大変お世話になっていますが、完全に
 実装中の軌道修正 - おかしな方向に進みそうなときに相談に乗りたい
 
 完了時...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c2e5d77c08c37532a3a3</id>
-    <title>Rust と Web でつくる軽量デスクトップアプリ：Tauri 完全ガイド</title>
-    <link rel="alternate" href="https://qiita.com/automation2025/items/c2e5d77c08c37532a3a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-18T23:28:37+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T09:50:06+09:00&lt;br/&gt;Updated: 2026-01-18T23:28:37+09:00&lt;br/&gt;はじめに：なぜ今 Tauri なのか
-Electron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。 dev
-Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用す...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0a4b93cccdd14ac285b9</id>
@@ -958,6 +958,17 @@ CSVファイルに書き込んで
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:910b7a6c1be97da2879d</id>
+    <title>エンジニアなら知っておきたいサーバーの基本</title>
+    <link rel="alternate" href="https://qiita.com/Suntory/items/910b7a6c1be97da2879d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-16T13:30:24+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Suntory&quot;&gt;Suntory&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T13:30:24+09:00&lt;br/&gt;Updated: 2026-01-16T13:30:24+09:00&lt;br/&gt;エンジニアなら知っておきたいサーバーの基本
+サーバーやネットワークについて勉強したのでざっくりと基本を説明します。
+知らなくてもコードは書けますが、知っておくとエラーが起きた時の対応が早くなったり、コードを書く以外の部分で役に立つと思います。
+
+1. Webアプリケーショ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:920a517db6ae869aa336</id>
     <title># イーロン・マスクが未来を語った時 - そして私はすべてを考え直さなければならなくなった</title>
     <link rel="alternate" href="https://qiita.com/TOMOSIA-LinhND/items/920a517db6ae869aa336?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1020,7 +1031,12 @@ boto3を使ったPythonアプリケーションで、aws loginコマンドで認
     <title>SaaS (クラウドサービス) の導入って、どうなったら成功なんだろう？</title>
     <link rel="alternate" href="https://qiita.com/yugoes1021/items/e8c76a30f6529c7af739?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-18T09:47:56+09:00</updated>
-    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yugoes1021&quot;&gt;yugoes1021&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T20:53:48+09:00&lt;br/&gt;Updated: 2026-01-18T09:47:56+09:00&lt;br/&gt;仕事で Power BI の初学者向け研修を企業さんから請け負ったり、コンサルティングをやっていると、実に様々な質問をいただきます。BI 製品ですから、データの扱い、品質の高いデータをいかに貯めるか？はもちろんのこと、周辺製品・関連サービスのより効率的な使い方など、時にアー...</summary>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yugoes1021&quot;&gt;yugoes1021&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T20:53:48+09:00&lt;br/&gt;Updated: 2026-01-18T09:47:56+09:00&lt;br/&gt;私の結論（解）を先に示しておきます
+「サービス導入後に仕事（作業量）が増えていたら、失敗」
+どうしてそう言えるのか。説明していきましょう。
+
+はじめに
+仕事で Power BI の初学者向け研修を企業さんから請け負ったり、コンサルティングをやっていると、実に様々な質問をい...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f41f80af8eed80a9044f</id>
@@ -1089,17 +1105,6 @@ if / elsif / else のような条件分岐が増える
 業務自動化の仕事をしていて、VBAやPower Automateなどを使った効率化を行ってきました。
 その中でも最近では、LLMを活用した「社内ナレッジ検索」や「文書分析」のニーズが高まっていると肌で感じています。
 そして、個人開発ではStreamlit + L...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:910b7a6c1be97da2879d</id>
-    <title>エンジニアなら知っておきたいサーバーの基本</title>
-    <link rel="alternate" href="https://qiita.com/Suntory/items/910b7a6c1be97da2879d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-16T13:30:24+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Suntory&quot;&gt;Suntory&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T13:30:24+09:00&lt;br/&gt;Updated: 2026-01-16T13:30:24+09:00&lt;br/&gt;エンジニアなら知っておきたいサーバーの基本
-サーバーやネットワークについて勉強したのでざっくりと基本を説明します。
-知らなくてもコードは書けますが、知っておくとエラーが起きた時の対応が早くなったり、コードを書く以外の部分で役に立つと思います。
-
-1. Webアプリケーショ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b46a545a96e9150c457f</id>
