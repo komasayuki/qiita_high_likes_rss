@@ -378,6 +378,16 @@ Web API（REST API）という言葉を聞いたことがある方
 近年、敵対的模倣学習 (Generative Adversarial Imitation Learning; GAIL) や、それを応用した RLHF (Reinforcement Learning from Hu...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f3028a229d0c42877cf4</id>
+    <title>Claude Codeが私の職場を激変させはじめた</title>
+    <link rel="alternate" href="https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T17:07:50+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engineerslowlife&quot;&gt;engineerslowlife&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T18:52:10+09:00&lt;br/&gt;Updated: 2026-01-18T17:07:50+09:00&lt;br/&gt;はじめに
+私は、大企業の精密機器メーカーに勤務するソフトウェアエンジニアですが、私の職場にも生成AIの大波がやってきました。
+全社的にClaude Codeを導入し、派遣社員・契約社員の人数を見直す可能性の検討が始まっています。
+私も現場のプロジェクトリーダーとして導入を...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:acc22c05c66826289f11</id>
     <title>【ポケモン×Java】Lv15：『ピカチュウも、ヒトカゲも、、、』～抽象化～</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/acc22c05c66826289f11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -413,16 +423,6 @@ PRUMについて気になった方は、
 C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
 
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f3028a229d0c42877cf4</id>
-    <title>Claude Codeが私の職場を激変させはじめた</title>
-    <link rel="alternate" href="https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-18T17:07:50+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engineerslowlife&quot;&gt;engineerslowlife&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T18:52:10+09:00&lt;br/&gt;Updated: 2026-01-18T17:07:50+09:00&lt;br/&gt;はじめに
-私は、大企業の精密機器メーカーに勤務するソフトウェアエンジニアですが、私の職場にも生成AIの大波がやってきました。
-全社的にClaude Codeを導入し、派遣社員・契約社員の人数を見直す可能性の検討が始まっています。
-私も現場のプロジェクトリーダーとして導入を...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cbdcda9c0251d66f252c</id>
@@ -713,6 +713,15 @@ Claude Codeには日頃から大変お世話になっていますが、完全に
 完了時...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c2e5d77c08c37532a3a3</id>
+    <title>Rust と Web でつくる軽量デスクトップアプリ：Tauri 完全ガイド</title>
+    <link rel="alternate" href="https://qiita.com/automation2025/items/c2e5d77c08c37532a3a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T23:28:37+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T09:50:06+09:00&lt;br/&gt;Updated: 2026-01-18T23:28:37+09:00&lt;br/&gt;はじめに：なぜ今 Tauri なのか
+Electron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。 dev
+Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用す...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0a4b93cccdd14ac285b9</id>
     <title>PMって難しいよね</title>
     <link rel="alternate" href="https://qiita.com/KENTAROSZK/items/0a4b93cccdd14ac285b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -743,15 +752,6 @@ Pythonで学ぶ Webアプリのセキュアコーディング 脆弱性の見つ
 Power Automate を触っていて実行結果（履歴）を確認してみると、以下の画像の「出力」のように、何やら不思議な文字列の「かたまり」を目にしたことがあるかもしれません。
 
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c2e5d77c08c37532a3a3</id>
-    <title>Rust と Web でつくる軽量デスクトップアプリ：Tauri 完全ガイド</title>
-    <link rel="alternate" href="https://qiita.com/automation2025/items/c2e5d77c08c37532a3a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-18T23:28:37+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T09:50:06+09:00&lt;br/&gt;Updated: 2026-01-18T23:28:37+09:00&lt;br/&gt;はじめに：なぜ今 Tauri なのか
-Electron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。 dev
-Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用す...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e5d0e562b85c3f6b5f27</id>
@@ -822,6 +822,17 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 そう言われた時、正直戸惑いました。
 エンジニアとして、コードを書いている姿をカメラに収められることへの抵抗感。でも、後にこのドキュメンタリー撮影が、私のエンジニアとしての成長を大きく後押ししてくれました。
 今回は、伝統工芸×AIエージェ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:199869941e2d6a8b46a0</id>
+    <title>⚡製図革命2.0⚡draw.io で図を作る AI スキルを作ってみた🚀</title>
+    <link rel="alternate" href="https://qiita.com/aktsmm/items/199869941e2d6a8b46a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-15T22:46:07+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aktsmm&quot;&gt;aktsmm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T20:11:02+09:00&lt;br/&gt;Updated: 2026-01-15T22:46:07+09:00&lt;br/&gt;こんにちは、「図を AI に描かせたい欲」が止まらないアーキテクトのやまぱんです 😊
+補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！
+間違っていたら 優しく 教えてください！
+以前、「製図革命」として AG-Diagram Maker を紹介しました。
+https...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ea928f214c6c99dee66e</id>
@@ -903,17 +914,6 @@ TCPとUDPの違い
 前回の記事「イラストが苦手な私が、既存キャラを無料AIでLINEスタンプ化できるか試した話」では、ChatGPTやCopilotなど様々なAIに挑み、なかなか手厳しい結果に終わりました。
 眼鏡は消えるわ、2頭身になるわ、クリーチャーが生まれるわ……。
 「AIでポ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:199869941e2d6a8b46a0</id>
-    <title>⚡製図革命2.0⚡draw.io で図を作る AI スキルを作ってみた🚀</title>
-    <link rel="alternate" href="https://qiita.com/aktsmm/items/199869941e2d6a8b46a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-15T22:46:07+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aktsmm&quot;&gt;aktsmm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T20:11:02+09:00&lt;br/&gt;Updated: 2026-01-15T22:46:07+09:00&lt;br/&gt;こんにちは、「図を AI に描かせたい欲」が止まらないアーキテクトのやまぱんです 😊
-補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！
-間違っていたら 優しく 教えてください！
-以前、「製図革命」として AG-Diagram Maker を紹介しました。
-https...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:44c3376cd87c3d1bc9f2</id>
