@@ -194,12 +194,21 @@ SHAP値処理の改修
     <title>AI時代の技術書との付き合いかた</title>
     <link rel="alternate" href="https://qiita.com/araom/items/cbdcda9c0251d66f252c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-16T18:38:50+09:00</updated>
-    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/araom&quot;&gt;araom&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T18:38:49+09:00&lt;br/&gt;Updated: 2026-01-16T18:38:50+09:00&lt;br/&gt;はじめに： なぜ今、あらためて「技術書」なのか
+    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/araom&quot;&gt;araom&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T18:38:49+09:00&lt;br/&gt;Updated: 2026-01-16T18:38:50+09:00&lt;br/&gt;はじめに： なぜ今、あらためて「技術書」なのか
 日々の業務に追われる中で、技術書を読んだり、最新技術を体系的にキャッチアップしたりする時間を、なかなか取れていない人も多いのではないでしょうか。
 一方で、昨今はAIの進化によって
 
 「分からなければ聞けばいい」
 「調べればす...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:097d51405416e93d5132</id>
+    <title>生成AIの収束先の存在を圏論で証明する</title>
+    <link rel="alternate" href="https://qiita.com/momo10/items/097d51405416e93d5132?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T08:27:09+09:00</updated>
+    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/momo10&quot;&gt;momo10&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T18:19:24+09:00&lt;br/&gt;Updated: 2026-01-19T08:27:09+09:00&lt;br/&gt;はじめに
+敵対的模倣学習の圏論的解釈について紹介します。
+近年、敵対的模倣学習 (Generative Adversarial Imitation Learning; GAIL) や、それを応用した RLHF (Reinforcement Learning from Hu...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bd5266a987d082caea16</id>
@@ -235,15 +244,6 @@ RAG（検索拡張生成）とは？...</summary>
     <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
 DNSは、URLに出てくる example.com みたいな名前を、通信に使えるIPアドレスに変換する仕組みです。
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:097d51405416e93d5132</id>
-    <title>生成AIの収束先の存在を圏論で証明する</title>
-    <link rel="alternate" href="https://qiita.com/momo10/items/097d51405416e93d5132?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T08:27:09+09:00</updated>
-    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/momo10&quot;&gt;momo10&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T18:19:24+09:00&lt;br/&gt;Updated: 2026-01-19T08:27:09+09:00&lt;br/&gt;はじめに
-敵対的模倣学習の圏論的解釈について紹介します。
-近年、敵対的模倣学習 (Generative Adversarial Imitation Learning; GAIL) や、それを応用した RLHF (Reinforcement Learning from Hu...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5557800c41eb43b43f2f</id>
@@ -411,6 +411,15 @@ Web API（REST API）という言葉を聞いたことがある方
 バックエンド開発に興味があり、最...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c2e5d77c08c37532a3a3</id>
+    <title>Rust と Web でつくる軽量デスクトップアプリ：Tauri 完全ガイド</title>
+    <link rel="alternate" href="https://qiita.com/automation2025/items/c2e5d77c08c37532a3a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T23:28:37+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T09:50:06+09:00&lt;br/&gt;Updated: 2026-01-18T23:28:37+09:00&lt;br/&gt;はじめに：なぜ今 Tauri なのか
+Electron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。
+Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用することで...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:acc22c05c66826289f11</id>
     <title>【ポケモン×Java】Lv15：『ピカチュウも、ヒトカゲも、、、』～抽象化～</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/acc22c05c66826289f11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -446,15 +455,6 @@ PRUMについて気になった方は、
 C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
 
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c2e5d77c08c37532a3a3</id>
-    <title>Rust と Web でつくる軽量デスクトップアプリ：Tauri 完全ガイド</title>
-    <link rel="alternate" href="https://qiita.com/automation2025/items/c2e5d77c08c37532a3a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-18T23:28:37+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T09:50:06+09:00&lt;br/&gt;Updated: 2026-01-18T23:28:37+09:00&lt;br/&gt;はじめに：なぜ今 Tauri なのか
-Electron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。
-Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用することで...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:01de1ee21d2491c54450</id>
@@ -496,6 +496,19 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
     <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T20:57:55+09:00&lt;br/&gt;Updated: 2026-01-06T19:49:00+09:00&lt;br/&gt;はじめに
 表題のとおり、Windows OS を USB メモリ上に導入して、任意の PC を使って利用するためのノウハウを共有したいと思います。
 本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5583156dec3b32acb400</id>
+    <title>【Python】クラス全員を救うために「実験レポート爆速生成ツール」を作って配布した話</title>
+    <link rel="alternate" href="https://qiita.com/afmi21/items/5583156dec3b32acb400?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-17T16:43:28+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/afmi21&quot;&gt;afmi21&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T16:43:28+09:00&lt;br/&gt;Updated: 2026-01-17T16:43:28+09:00&lt;br/&gt;はじめに
+高専生（エンジニアの卵たち）にとって、避けては通れないラスボス。
+それが 「実験レポート」 です。
+毎週のように課される実験、そしてレポート。
+中身を書くだけでも大変なのに、僕たちを地味に、しかし確実に削ってくるのが 「事務作業」 の数々です。
+
+毎回Wordの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
@@ -546,19 +559,6 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウェブサーバーの間でHTMLファイルや画像などのウェブ情報をやり取りするための通信ルール（プロトコル）です。
 1回の通信で最低限起きていること
 1. ブ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5583156dec3b32acb400</id>
-    <title>【Python】クラス全員を救うために「実験レポート爆速生成ツール」を作って配布した話</title>
-    <link rel="alternate" href="https://qiita.com/afmi21/items/5583156dec3b32acb400?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-17T16:43:28+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/afmi21&quot;&gt;afmi21&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T16:43:28+09:00&lt;br/&gt;Updated: 2026-01-17T16:43:28+09:00&lt;br/&gt;はじめに
-高専生（エンジニアの卵たち）にとって、避けては通れないラスボス。
-それが 「実験レポート」 です。
-毎週のように課される実験、そしてレポート。
-中身を書くだけでも大変なのに、僕たちを地味に、しかし確実に削ってくるのが 「事務作業」 の数々です。
-
-毎回Wordの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c241b9c10d259a9b4efc</id>
@@ -620,6 +620,20 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
     <updated>2026-01-05T17:07:20+09:00</updated>
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mnoguchi&quot;&gt;mnoguchi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T17:07:20+09:00&lt;br/&gt;Updated: 2026-01-05T17:07:20+09:00&lt;br/&gt;はじめに
 ソフトウェア開発の現場では、論理や技術だけでは解決できない「人間」にまつわる課題が数多く存在します。会議で意見が出ない、レビューで感情的なすれ違いが起きる、設計がなかなか進まない、やる気が出ない――こうした悩みの多くは、人の心理や行動パターンに起因しています。
+...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9a2e5c163b46d81e1f62</id>
+    <title>Copilotは果たしてセキュアなのか～管理者目線・ユーザー目線からまとめてみた～</title>
+    <link rel="alternate" href="https://qiita.com/sadabon444/items/9a2e5c163b46d81e1f62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T18:28:51+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T18:28:51+09:00&lt;br/&gt;Updated: 2026-01-18T18:28:51+09:00&lt;br/&gt;はじめに
+「Copilotは果たしてセキュアなのか」
+この問いに対する回答を、管理者目線・ユーザー目線よりまとめてみました。
+
+この記事で扱うCopilotは、企業向けのものを指します。
+具体的には、M365を導入している企業において利用できる以下を対象とします:
+
 ...</summary>
   </entry>
   <entry>
@@ -730,20 +744,6 @@ FPGAとマイコンを1ボードに搭載
     <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
 そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
 Google Colabで手軽に試せるの...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9a2e5c163b46d81e1f62</id>
-    <title>Copilotは果たしてセキュアなのか～管理者目線・ユーザー目線からまとめてみた～</title>
-    <link rel="alternate" href="https://qiita.com/sadabon444/items/9a2e5c163b46d81e1f62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-18T18:28:51+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T18:28:51+09:00&lt;br/&gt;Updated: 2026-01-18T18:28:51+09:00&lt;br/&gt;はじめに
-「Copilotは果たしてセキュアなのか」
-この問いに対する回答を、管理者目線・ユーザー目線よりまとめてみました。
-
-この記事で扱うCopilotは、企業向けのものを指します。
-具体的には、M365を導入している企業において利用できる以下を対象とします:
-
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c130168ca3fc0f1f6aaa</id>
@@ -972,6 +972,14 @@ TCPとUDPの違い
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ce27adb51e14fba4f3c9</id>
+    <title>さよなら、データ修正地獄。ExploratoryのAI関数による表記揺れ解決術</title>
+    <link rel="alternate" href="https://qiita.com/takatoshiroto/items/ce27adb51e14fba4f3c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T09:38:53+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takatoshiroto&quot;&gt;takatoshiroto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T09:38:53+09:00&lt;br/&gt;Updated: 2026-01-19T09:38:53+09:00&lt;br/&gt;「田中さん、顧客リストなんだけど、『トヨタ』『トヨタ自動車』『トヨタ自動車(株)』って全部同じ会社だよね?これ、集計する前に手作業で直さないと...」
+画面に表示された顧客リストには、同じ企業を指しているはずなのに、入力者によって表記が異なる「表記揺れ」が無数に存在していま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5b757456b3c2b3676531</id>
     <title>AIでアンケートのテキスト分類とセンチメント分析を爆速化してみた</title>
     <link rel="alternate" href="https://qiita.com/IkuyaM/items/5b757456b3c2b3676531?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1033,14 +1041,6 @@ CSVファイルに書き込んで
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:ce27adb51e14fba4f3c9</id>
-    <title>さよなら、データ修正地獄。ExploratoryのAI関数による表記揺れ解決術</title>
-    <link rel="alternate" href="https://qiita.com/takatoshiroto/items/ce27adb51e14fba4f3c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T09:38:53+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takatoshiroto&quot;&gt;takatoshiroto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T09:38:53+09:00&lt;br/&gt;Updated: 2026-01-19T09:38:53+09:00&lt;br/&gt;「田中さん、顧客リストなんだけど、『トヨタ』『トヨタ自動車』『トヨタ自動車(株)』って全部同じ会社だよね?これ、集計する前に手作業で直さないと...」
-画面に表示された顧客リストには、同じ企業を指しているはずなのに、入力者によって表記が異なる「表記揺れ」が無数に存在していま...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:8c17dddea93a5fc8eab9</id>
     <title>IPAの試験再編から読み解く「AIエージェント時代」の生存戦略と、新資格AB-100への挑戦</title>
     <link rel="alternate" href="https://qiita.com/katohiro_fi/items/8c17dddea93a5fc8eab9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1049,6 +1049,19 @@ CSVファイルに書き込んで
 ※「制度変更が決定した」という話ではありません （重要） 。
 
 1. ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:616f3b8b4e35437d8356</id>
+    <title>【バイブコーディング】AIの書く10万行のどこを見ればよいか？</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/616f3b8b4e35437d8356?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-17T20:17:47+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T20:11:53+09:00&lt;br/&gt;Updated: 2026-01-17T20:17:47+09:00&lt;br/&gt;はじめに
+「バイブコーディング」で、驚くほど簡単にWebアプリケーションが作れる時代になりました。
+私自身今まで6回以上Webアプリを作成し、
+計10万行はAIにコードを書いてもらったと思いますが、
+すべてのコードを読み切れているかと言われたら正直答えはNoです。
+
+その...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:307b277b9202ab553bc2</id>
@@ -1121,17 +1134,12 @@ boto3を使ったPythonアプリケーションで、aws loginコマンドで認
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:616f3b8b4e35437d8356</id>
-    <title>【バイブコーディング】AIの書く10万行のどこを見ればよいか？</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/616f3b8b4e35437d8356?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-17T20:17:47+09:00</updated>
-    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T20:11:53+09:00&lt;br/&gt;Updated: 2026-01-17T20:17:47+09:00&lt;br/&gt;はじめに
-「バイブコーディング」で、驚くほど簡単にWebアプリケーションが作れる時代になりました。
-私自身今まで6回以上Webアプリを作成し、
-計10万行はAIにコードを書いてもらったと思いますが、
-すべてのコードを読み切れているかと言われたら正直答えはNoです。
-
-その...</summary>
+    <id>tag:qiita.com,2026:791c78879e690b7c8cd2</id>
+    <title>Let&apos;s Encrypt、IPアドレス証明書が一般提供開始 - RFC 8738準拠の6日間証明書</title>
+    <link rel="alternate" href="https://qiita.com/satokan3/items/791c78879e690b7c8cd2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T00:31:32+09:00</updated>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satokan3&quot;&gt;satokan3&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T23:36:00+09:00&lt;br/&gt;Updated: 2026-01-19T00:31:32+09:00&lt;br/&gt;はじめに
+2026年1月15日、Let&apos;s EncryptがIPアドレス証明書の一般提供を開始したっていうリリースを見たので、どのRFCに準拠しているのか？などを整理したので、せっかくだからQiitaを書いたのです。今まではドメイン名でしか発行できなかったTLS証明書が、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7941e8cef7227328a664</id>
@@ -1230,14 +1238,6 @@ if / elsif / else のような条件分岐が増える
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssc-jfukui&quot;&gt;ssc-jfukui&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T13:59:48+09:00&lt;br/&gt;Updated: 2026-01-19T13:59:49+09:00&lt;br/&gt;はじめに
 毎日、業務スケジュールや成果、所感をまとめた日報を書いています。しかし、日報を書くだけで終わってしまい、なかなか次の日の業務改善に活かせていないという課題を感じていました。
 そこで今回は、Claude Codeのスラッシュコマンドを使って、AIに日報の内容を分析...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:791c78879e690b7c8cd2</id>
-    <title>Let&apos;s Encrypt、IPアドレス証明書が一般提供開始 - RFC 8738準拠の6日間証明書</title>
-    <link rel="alternate" href="https://qiita.com/satokan3/items/791c78879e690b7c8cd2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T00:31:32+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satokan3&quot;&gt;satokan3&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T23:36:00+09:00&lt;br/&gt;Updated: 2026-01-19T00:31:32+09:00&lt;br/&gt;はじめに
-2026年1月15日、Let&apos;s EncryptがIPアドレス証明書の一般提供を開始したっていうリリースを見たので、どのRFCに準拠しているのか？などを整理したので、せっかくだからQiitaを書いたのです。今まではドメイン名でしか発行できなかったTLS証明書が、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b46a545a96e9150c457f</id>
@@ -1367,6 +1367,19 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3795769451ab003b6ee7</id>
+    <title>自然言語からSQLは魔法ではない</title>
+    <link rel="alternate" href="https://qiita.com/engchina/items/3795769451ab003b6ee7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T11:08:09+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T11:08:09+09:00&lt;br/&gt;Updated: 2026-01-19T11:08:09+09:00&lt;br/&gt;― 業務要望に応えるために「設計とカスタマイズ開発」が不可欠な理由
+生成AIの進化により、「自然言語からSQLを生成できる」という話をよく耳にするようになりました。
+一見すると、
+
+テーブル定義書をAIに渡せば、業務ユーザーの質問をそのままSQLに変換してくれる
+
+ように...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:042e1fdb7522289d362f</id>
     <title>サイバー攻撃の高度化と、企業に求められるセキュリティ意識</title>
     <link rel="alternate" href="https://qiita.com/ninomono/items/042e1fdb7522289d362f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1382,6 +1395,20 @@ Rust の標準ライブラリには直接のユーティリティはありませ
     <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/newt0&quot;&gt;newt0&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T15:15:15+09:00&lt;br/&gt;Updated: 2026-01-18T15:15:15+09:00&lt;br/&gt;Pythonをめぐる後悔
 プログラミングを始めた頃、学生向けのブームに乗ってPythonを選びました。
 当時はProgateやUdemyでもPython推しが強くて、「これからはAIの時代だ」みたいな雰囲気に流されました。でも実際に個人開発を始めてみると、作ったものを人に...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c8907eddfe84881cdc3c</id>
+    <title>統計モデリング大全　目次</title>
+    <link rel="alternate" href="https://qiita.com/c60evaporator/items/c8907eddfe84881cdc3c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T11:48:14+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/c60evaporator&quot;&gt;c60evaporator&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T11:48:14+09:00&lt;br/&gt;Updated: 2026-01-18T11:48:14+09:00&lt;br/&gt;はじめに
+統計学が最強の学問であるというフレーズがブームになって久しいですが、正直この言葉に少し距離を感じていませんか？
+
+最強なぶん難しそう
+実務にどう使えるのか分からない
+範囲が広すぎて、何から勉強すればいいのか分からない
+
+統計モデリング（statistical ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:32184382a409e664709c</id>
