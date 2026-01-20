@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-20T06:44:50+09:00</updated>
+  <updated>2026-01-20T13:12:47+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -421,6 +421,23 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
 そんな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:66e7c07c459e3bb7082d</id>
+    <title>【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた</title>
+    <link rel="alternate" href="https://qiita.com/ot12/items/66e7c07c459e3bb7082d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-20T06:44:50+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
+彼が実践しているのは、単なるツールの使いこなしではありません。 人間自身のCPUをマ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ec78502b3c20a2b4d3a5</id>
+    <title>PythonではなくJavaScriptを学ぶべきだった</title>
+    <link rel="alternate" href="https://qiita.com/newt0/items/ec78502b3c20a2b4d3a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T15:15:15+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/newt0&quot;&gt;newt0&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T15:15:15+09:00&lt;br/&gt;Updated: 2026-01-18T15:15:15+09:00&lt;br/&gt;Pythonをめぐる後悔
+プログラミングを始めた頃、学生向けのブームに乗ってPythonを選びました。
+当時はProgateやUdemyでもPython推しが強くて、「これからはAIの時代だ」みたいな雰囲気に流されました。でも実際に個人開発を始めてみると、作ったものを人に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:58be7519dee6a58f74d1</id>
     <title>Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -431,15 +448,6 @@ JavaScriptの基本文法（関数、オブジェクト、コールバック）�
 Node.jsをインストールしてnpmコマンドを使ったことがある方
 Web API（REST API）という言葉を聞いたことがある方
 バックエンド開発に興味があり、最...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ec78502b3c20a2b4d3a5</id>
-    <title>PythonではなくJavaScriptを学ぶべきだった</title>
-    <link rel="alternate" href="https://qiita.com/newt0/items/ec78502b3c20a2b4d3a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-18T15:15:15+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/newt0&quot;&gt;newt0&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T15:15:15+09:00&lt;br/&gt;Updated: 2026-01-18T15:15:15+09:00&lt;br/&gt;Pythonをめぐる後悔
-プログラミングを始めた頃、学生向けのブームに乗ってPythonを選びました。
-当時はProgateやUdemyでもPython推しが強くて、「これからはAIの時代だ」みたいな雰囲気に流されました。でも実際に個人開発を始めてみると、作ったものを人に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:acc22c05c66826289f11</id>
@@ -469,14 +477,6 @@ PRUMについて気になった方は、
 またユーザーの呼称は、正式でなく便宜的な...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:66e7c07c459e3bb7082d</id>
-    <title>【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた</title>
-    <link rel="alternate" href="https://qiita.com/ot12/items/66e7c07c459e3bb7082d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T06:44:50+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
-彼が実践しているのは、単なるツールの使いこなしではありません。 人間自身のCPUをマ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:9bc0a7a0a68b50c8e138</id>
     <title>【C#】Channel&lt;T&gt;  でスレッド間通信をシンプルに</title>
     <link rel="alternate" href="https://qiita.com/Sakai_path/items/9bc0a7a0a68b50c8e138?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -485,6 +485,20 @@ PRUMについて気になった方は、
 C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
 
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:f5e8cb0c1b2e1145e852</id>
+    <title>先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。【前編】</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/f5e8cb0c1b2e1145e852?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-20T13:12:47+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T13:12:47+09:00&lt;br/&gt;Updated: 2026-01-20T13:12:47+09:00&lt;br/&gt;人はなぜ忘れるのか。初めての現場で学びが「点」になる理由
+― 記憶の科学と、現場構造のすれ違い ―
+
+はじめまして。
+株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントを整理して発信しています。
+PRUMについて気...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9a2e5c163b46d81e1f62</id>
@@ -876,6 +890,16 @@ Power Automate を触っていて実行結果（履歴）を確認してみる�
     <updated>2026-01-19T19:46:30+09:00</updated>
     <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satokan3&quot;&gt;satokan3&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T23:36:00+09:00&lt;br/&gt;Updated: 2026-01-19T19:46:30+09:00&lt;br/&gt;はじめに
 2026年1月15日、Let&apos;s EncryptがIPアドレス証明書の一般提供を開始したっていうリリースを見たので、どのRFCに準拠しているのか？などを整理したので、せっかくだからQiitaを書いたのです。今まではドメイン名でしか発行できなかったTLS証明書が、...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:eed90901fdd044ce7f40</id>
+    <title>【Claude Code】Claude CodeがOllamaと連携できるようになったらしい</title>
+    <link rel="alternate" href="https://qiita.com/ryu-ki/items/eed90901fdd044ce7f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T17:14:00+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T08:41:06+09:00&lt;br/&gt;Updated: 2026-01-19T17:14:00+09:00&lt;br/&gt;はじめに
+2026/1/18 に以下のようなツイートを見かけました。
+
+Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5b757456b3c2b3676531</id>
@@ -1307,6 +1331,20 @@ if / elsif / else のような条件分岐が増える
 そして、個人開発ではStreamlit + L...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7fa22b08605d44e030ed</id>
+    <title>タスク管理は身近さが正義</title>
+    <link rel="alternate" href="https://qiita.com/kmatsuda_slj/items/7fa22b08605d44e030ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T09:40:06+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kmatsuda_slj&quot;&gt;kmatsuda_slj&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T09:40:06+09:00&lt;br/&gt;Updated: 2026-01-19T09:40:06+09:00&lt;br/&gt;はじめに
+以前はスプレッドシートやメモ程度でしかタスク管理していませんでした。
+一覧性は良いのに続かなかった理由は、他のツールと比べて使うことが少なかったためです。
+そして、抜け漏れが出てしまっていました。
+
+依頼はSlackで来る
+タスクは別ツールに転記が必要
+「あとで...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b46a545a96e9150c457f</id>
     <title>【LLM文字起こし性能比較】低解像度のAI泣かせ表データを読ませてみた結果（GPT-5.2 / Gemini 3 / Claude 4.5 Opus）</title>
     <link rel="alternate" href="https://qiita.com/k2a_Y4a/items/b46a545a96e9150c457f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1443,20 +1481,6 @@ Rust の標準ライブラリには直接のユーティリティはありませ
 
 Qiitaとは？
 Qiita（キータ）は、エンジニアに関する知識を記録・共有...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7fa22b08605d44e030ed</id>
-    <title>タスク管理は身近さが正義</title>
-    <link rel="alternate" href="https://qiita.com/kmatsuda_slj/items/7fa22b08605d44e030ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T09:40:06+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kmatsuda_slj&quot;&gt;kmatsuda_slj&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T09:40:06+09:00&lt;br/&gt;Updated: 2026-01-19T09:40:06+09:00&lt;br/&gt;はじめに
-以前はスプレッドシートやメモ程度でしかタスク管理していませんでした。
-一覧性は良いのに続かなかった理由は、他のツールと比べて使うことが少なかったためです。
-そして、抜け漏れが出てしまっていました。
-
-依頼はSlackで来る
-タスクは別ツールに転記が必要
-「あとで...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:32184382a409e664709c</id>
