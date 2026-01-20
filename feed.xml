@@ -167,6 +167,19 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
 「調べればす...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5583156dec3b32acb400</id>
+    <title>【Python】クラス全員を救うために「実験レポート爆速生成ツール」を作って配布した話</title>
+    <link rel="alternate" href="https://qiita.com/afmi21/items/5583156dec3b32acb400?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-17T16:43:28+09:00</updated>
+    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/afmi21&quot;&gt;afmi21&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T16:43:28+09:00&lt;br/&gt;Updated: 2026-01-17T16:43:28+09:00&lt;br/&gt;はじめに
+高専生（エンジニアの卵たち）にとって、避けては通れないラスボス。
+それが 「実験レポート」 です。
+毎週のように課される実験、そしてレポート。
+中身を書くだけでも大変なのに、僕たちを地味に、しかし確実に削ってくるのが 「事務作業」 の数々です。
+
+毎回Wordの...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:193f9df4db110f1bb817</id>
     <title>データサイエンティスト1年目の学び(2025年)</title>
     <link rel="alternate" href="https://qiita.com/tarantula426/items/193f9df4db110f1bb817?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -206,22 +219,9 @@ SHAP値処理の改修
     <title>生成AIの収束先の存在を圏論で証明する</title>
     <link rel="alternate" href="https://qiita.com/momo10/items/097d51405416e93d5132?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-19T08:27:09+09:00</updated>
-    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/momo10&quot;&gt;momo10&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T18:19:24+09:00&lt;br/&gt;Updated: 2026-01-19T08:27:09+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/momo10&quot;&gt;momo10&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T18:19:24+09:00&lt;br/&gt;Updated: 2026-01-19T08:27:09+09:00&lt;br/&gt;はじめに
 敵対的模倣学習の圏論的解釈について紹介します。
 近年、敵対的模倣学習 (Generative Adversarial Imitation Learning; GAIL) や、それを応用した RLHF (Reinforcement Learning from Hu...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5583156dec3b32acb400</id>
-    <title>【Python】クラス全員を救うために「実験レポート爆速生成ツール」を作って配布した話</title>
-    <link rel="alternate" href="https://qiita.com/afmi21/items/5583156dec3b32acb400?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-17T16:43:28+09:00</updated>
-    <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/afmi21&quot;&gt;afmi21&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T16:43:28+09:00&lt;br/&gt;Updated: 2026-01-17T16:43:28+09:00&lt;br/&gt;はじめに
-高専生（エンジニアの卵たち）にとって、避けては通れないラスボス。
-それが 「実験レポート」 です。
-毎週のように課される実験、そしてレポート。
-中身を書くだけでも大変なのに、僕たちを地味に、しかし確実に削ってくるのが 「事務作業」 の数々です。
-
-毎回Wordの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bd5266a987d082caea16</id>
@@ -287,6 +287,15 @@ AIがデザインし、コードを書いたアプリが、
 AIには、日本語で相当うるさく指...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c2e5d77c08c37532a3a3</id>
+    <title>Rust と Web でつくる軽量デスクトップアプリ：Tauri 完全ガイド</title>
+    <link rel="alternate" href="https://qiita.com/automation2025/items/c2e5d77c08c37532a3a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T23:28:37+09:00</updated>
+    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T09:50:06+09:00&lt;br/&gt;Updated: 2026-01-18T23:28:37+09:00&lt;br/&gt;はじめに：なぜ今 Tauri なのか
+Electron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。
+Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用することで...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6d571c3585577572badf</id>
     <title>BI は未だに「新しいもの」なのか？</title>
     <link rel="alternate" href="https://qiita.com/yugoes1021/items/6d571c3585577572badf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -329,15 +338,6 @@ PRUMについて気になった方は、
 私もそう思っていました。
 
 コーディングエージェントとの出会い...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c2e5d77c08c37532a3a3</id>
-    <title>Rust と Web でつくる軽量デスクトップアプリ：Tauri 完全ガイド</title>
-    <link rel="alternate" href="https://qiita.com/automation2025/items/c2e5d77c08c37532a3a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-18T23:28:37+09:00</updated>
-    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T09:50:06+09:00&lt;br/&gt;Updated: 2026-01-18T23:28:37+09:00&lt;br/&gt;はじめに：なぜ今 Tauri なのか
-Electron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。
-Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用することで...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:67f7fc1c79173c9a6c44</id>
@@ -511,6 +511,20 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
 本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:9a2e5c163b46d81e1f62</id>
+    <title>Copilotは果たしてセキュアなのか～管理者目線・ユーザー目線からまとめてみた～</title>
+    <link rel="alternate" href="https://qiita.com/sadabon444/items/9a2e5c163b46d81e1f62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T18:28:51+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T18:28:51+09:00&lt;br/&gt;Updated: 2026-01-18T18:28:51+09:00&lt;br/&gt;はじめに
+「Copilotは果たしてセキュアなのか」
+この問いに対する回答を、管理者目線・ユーザー目線よりまとめてみました。
+
+この記事で扱うCopilotは、企業向けのものを指します。
+具体的には、M365を導入している企業において利用できる以下を対象とします:
+
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
     <title>Microsoft 365 Copilotに色々な方法でパワポ作成を丸投げしてみた</title>
     <link rel="alternate" href="https://qiita.com/Oyu3m/items/7c9c19c257be35f5dcec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -561,20 +575,6 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 1. ブ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:9a2e5c163b46d81e1f62</id>
-    <title>Copilotは果たしてセキュアなのか～管理者目線・ユーザー目線からまとめてみた～</title>
-    <link rel="alternate" href="https://qiita.com/sadabon444/items/9a2e5c163b46d81e1f62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-18T18:28:51+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T18:28:51+09:00&lt;br/&gt;Updated: 2026-01-18T18:28:51+09:00&lt;br/&gt;はじめに
-「Copilotは果たしてセキュアなのか」
-この問いに対する回答を、管理者目線・ユーザー目線よりまとめてみました。
-
-この記事で扱うCopilotは、企業向けのものを指します。
-具体的には、M365を導入している企業において利用できる以下を対象とします:
-
-...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:c241b9c10d259a9b4efc</id>
     <title>AWS初心者がAmazon Connectで簡単なコールセンターを構築した話</title>
     <link rel="alternate" href="https://qiita.com/tks_1128/items/c241b9c10d259a9b4efc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -596,6 +596,15 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ec78502b3c20a2b4d3a5</id>
+    <title>PythonではなくJavaScriptを学ぶべきだった</title>
+    <link rel="alternate" href="https://qiita.com/newt0/items/ec78502b3c20a2b4d3a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T15:15:15+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/newt0&quot;&gt;newt0&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T15:15:15+09:00&lt;br/&gt;Updated: 2026-01-18T15:15:15+09:00&lt;br/&gt;Pythonをめぐる後悔
+プログラミングを始めた頃、学生向けのブームに乗ってPythonを選びました。
+当時はProgateやUdemyでもPython推しが強くて、「これからはAIの時代だ」みたいな雰囲気に流されました。でも実際に個人開発を始めてみると、作ったものを人に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0b4a980f2f4bb073a9e0</id>
     <title>Amplify &amp; AgentCoreのAIエージェントをAWS CDKでデプロイしよう！</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/0b4a980f2f4bb073a9e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -605,6 +614,20 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 フルサーバーレスで維持費激安なのが嬉しいポイントです。
 
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c8907eddfe84881cdc3c</id>
+    <title>統計モデリング大全　目次</title>
+    <link rel="alternate" href="https://qiita.com/c60evaporator/items/c8907eddfe84881cdc3c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T11:48:14+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/c60evaporator&quot;&gt;c60evaporator&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T11:48:14+09:00&lt;br/&gt;Updated: 2026-01-18T11:48:14+09:00&lt;br/&gt;はじめに
+統計学が最強の学問であるというフレーズがブームになって久しいですが、正直この言葉に少し距離を感じていませんか？
+
+最強なぶん難しそう
+実務にどう使えるのか分からない
+範囲が広すぎて、何から勉強すればいいのか分からない
+
+統計モデリング（statistical ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:db798b2e5805c51a64c1</id>
@@ -635,15 +658,6 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mnoguchi&quot;&gt;mnoguchi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T17:07:20+09:00&lt;br/&gt;Updated: 2026-01-05T17:07:20+09:00&lt;br/&gt;はじめに
 ソフトウェア開発の現場では、論理や技術だけでは解決できない「人間」にまつわる課題が数多く存在します。会議で意見が出ない、レビューで感情的なすれ違いが起きる、設計がなかなか進まない、やる気が出ない――こうした悩みの多くは、人の心理や行動パターンに起因しています。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ec78502b3c20a2b4d3a5</id>
-    <title>PythonではなくJavaScriptを学ぶべきだった</title>
-    <link rel="alternate" href="https://qiita.com/newt0/items/ec78502b3c20a2b4d3a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-18T15:15:15+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/newt0&quot;&gt;newt0&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T15:15:15+09:00&lt;br/&gt;Updated: 2026-01-18T15:15:15+09:00&lt;br/&gt;Pythonをめぐる後悔
-プログラミングを始めた頃、学生向けのブームに乗ってPythonを選びました。
-当時はProgateやUdemyでもPython推しが強くて、「これからはAIの時代だ」みたいな雰囲気に流されました。でも実際に個人開発を始めてみると、作ったものを人に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4d28c47b1b6f7ef727cf</id>
@@ -721,6 +735,19 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 2025年12月現在&quot;C++26&quot;はISO/IEC標準規格としては未発行のため、代わりに最新Working Draft N5032（2025-12-15）を参照しています。
 
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:616f3b8b4e35437d8356</id>
+    <title>【バイブコーディング】AIの書く10万行のどこを見ればよいか？</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/616f3b8b4e35437d8356?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-17T20:17:47+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T20:11:53+09:00&lt;br/&gt;Updated: 2026-01-17T20:17:47+09:00&lt;br/&gt;はじめに
+「バイブコーディング」で、驚くほど簡単にWebアプリケーションが作れる時代になりました。
+私自身今まで6回以上Webアプリを作成し、
+計10万行はAIにコードを書いてもらったと思いますが、
+すべてのコードを読み切れているかと言われたら正直答えはNoです。
+
+その...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
@@ -801,17 +828,21 @@ Power Automate を触っていて実行結果（履歴）を確認してみる�
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:616f3b8b4e35437d8356</id>
-    <title>【バイブコーディング】AIの書く10万行のどこを見ればよいか？</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/616f3b8b4e35437d8356?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-17T20:17:47+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T20:11:53+09:00&lt;br/&gt;Updated: 2026-01-17T20:17:47+09:00&lt;br/&gt;はじめに
-「バイブコーディング」で、驚くほど簡単にWebアプリケーションが作れる時代になりました。
-私自身今まで6回以上Webアプリを作成し、
-計10万行はAIにコードを書いてもらったと思いますが、
-すべてのコードを読み切れているかと言われたら正直答えはNoです。
+    <id>tag:qiita.com,2026:8c17dddea93a5fc8eab9</id>
+    <title>IPAの試験再編から読み解く「AIエージェント時代」の生存戦略と、新資格AB-100への挑戦</title>
+    <link rel="alternate" href="https://qiita.com/katohiro_fi/items/8c17dddea93a5fc8eab9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T22:35:33+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/katohiro_fi&quot;&gt;katohiro_fi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T22:35:33+09:00&lt;br/&gt;Updated: 2026-01-18T22:35:33+09:00&lt;br/&gt;※本記事は、経済産業省のタスクフォース資料（公開資料）を起点に、 「現時点で公開されている“事実”と“議論”」 を整理しつつ、AIエージェント時代に向けた学習・資格戦略を私見でまとめたものです。
+※「制度変更が決定した」という話ではありません （重要） 。
 
-その...</summary>
+1. ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:cb76efb490898c778a45</id>
+    <title>Antigravityのスキルで、実装・レビュー・修正まで一貫してできるようになった話</title>
+    <link rel="alternate" href="https://qiita.com/ho-rai/items/cb76efb490898c778a45?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T18:50:55+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ho-rai&quot;&gt;ho-rai&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T18:50:55+09:00&lt;br/&gt;Updated: 2026-01-18T18:50:55+09:00&lt;br/&gt;先日、Googleが提供するIDE「Antigravity」のアップデートにより、一連の手順をまとめて実行させる新機能「スキル」が追加されました。 この機能は、これまで手作業で行っていたルーチンワークをAIに学習させ、効率化するための強力なツールです。 今回は、開発者が最も...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e5d0e562b85c3f6b5f27</id>
@@ -842,28 +873,13 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:8c17dddea93a5fc8eab9</id>
-    <title>IPAの試験再編から読み解く「AIエージェント時代」の生存戦略と、新資格AB-100への挑戦</title>
-    <link rel="alternate" href="https://qiita.com/katohiro_fi/items/8c17dddea93a5fc8eab9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-18T22:35:33+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/katohiro_fi&quot;&gt;katohiro_fi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T22:35:33+09:00&lt;br/&gt;Updated: 2026-01-18T22:35:33+09:00&lt;br/&gt;※本記事は、経済産業省のタスクフォース資料（公開資料）を起点に、 「現時点で公開されている“事実”と“議論”」 を整理しつつ、AIエージェント時代に向けた学習・資格戦略を私見でまとめたものです。
-※「制度変更が決定した」という話ではありません （重要） 。
-
-1. ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c8907eddfe84881cdc3c</id>
-    <title>統計モデリング大全　目次</title>
-    <link rel="alternate" href="https://qiita.com/c60evaporator/items/c8907eddfe84881cdc3c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-18T11:48:14+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/c60evaporator&quot;&gt;c60evaporator&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T11:48:14+09:00&lt;br/&gt;Updated: 2026-01-18T11:48:14+09:00&lt;br/&gt;はじめに
-統計学が最強の学問であるというフレーズがブームになって久しいですが、正直この言葉に少し距離を感じていませんか？
-
-最強なぶん難しそう
-実務にどう使えるのか分からない
-範囲が広すぎて、何から勉強すればいいのか分からない
-
-統計モデリング（statistical ...</summary>
+    <id>tag:qiita.com,2026:96b53404478f318c5544</id>
+    <title>【Claude Code】スラッシュコマンドを使ってAIに日報のフィードバックをさせてみた</title>
+    <link rel="alternate" href="https://qiita.com/ssc-jfukui/items/96b53404478f318c5544?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T13:59:49+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssc-jfukui&quot;&gt;ssc-jfukui&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T13:59:48+09:00&lt;br/&gt;Updated: 2026-01-19T13:59:49+09:00&lt;br/&gt;はじめに
+毎日、業務スケジュールや成果、所感をまとめた日報を書いています。しかし、日報を書くだけで終わってしまい、なかなか次の日の業務改善に活かせていないという課題を感じていました。
+そこで今回は、Claude Codeのスラッシュコマンドを使って、AIに日報の内容を分析...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fee7b58641ae4c15f062</id>
@@ -895,6 +911,14 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 はじめまして。東海地区で建築設計事務所を経営している建築士です。
 いきなりですが、私はプログラミングの知識はゼロです。Pythonは「ヘビの種類？」だと思っていました。
 そんな私が、生成AI（ChatGPT / Cla...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:791c78879e690b7c8cd2</id>
+    <title>Let&apos;s Encrypt、IPアドレス証明書が一般提供開始 - RFC 8738準拠の6日間証明書</title>
+    <link rel="alternate" href="https://qiita.com/satokan3/items/791c78879e690b7c8cd2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T19:46:30+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satokan3&quot;&gt;satokan3&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T23:36:00+09:00&lt;br/&gt;Updated: 2026-01-19T19:46:30+09:00&lt;br/&gt;はじめに
+2026年1月15日、Let&apos;s EncryptがIPアドレス証明書の一般提供を開始したっていうリリースを見たので、どのRFCに準拠しているのか？などを整理したので、せっかくだからQiitaを書いたのです。今まではドメイン名でしか発行できなかったTLS証明書が、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5b757456b3c2b3676531</id>
@@ -1027,12 +1051,12 @@ TCPとUDPの違い
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:791c78879e690b7c8cd2</id>
-    <title>Let&apos;s Encrypt、IPアドレス証明書が一般提供開始 - RFC 8738準拠の6日間証明書</title>
-    <link rel="alternate" href="https://qiita.com/satokan3/items/791c78879e690b7c8cd2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T19:46:30+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satokan3&quot;&gt;satokan3&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T23:36:00+09:00&lt;br/&gt;Updated: 2026-01-19T19:46:30+09:00&lt;br/&gt;はじめに
-2026年1月15日、Let&apos;s EncryptがIPアドレス証明書の一般提供を開始したっていうリリースを見たので、どのRFCに準拠しているのか？などを整理したので、せっかくだからQiitaを書いたのです。今まではドメイン名でしか発行できなかったTLS証明書が、...</summary>
+    <id>tag:qiita.com,2026:66e7c07c459e3bb7082d</id>
+    <title>【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた</title>
+    <link rel="alternate" href="https://qiita.com/ot12/items/66e7c07c459e3bb7082d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-20T06:44:50+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
+彼が実践しているのは、単なるツールの使いこなしではありません。 人間自身のCPUをマ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ce27adb51e14fba4f3c9</id>
@@ -1093,22 +1117,6 @@ CSVファイルに書き込んで
     <updated>2026-01-03T09:15:39+09:00</updated>
     <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KimuraSoh&quot;&gt;KimuraSoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T09:15:39+09:00&lt;br/&gt;Updated: 2026-01-03T09:15:39+09:00&lt;br/&gt;はじめに
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:96b53404478f318c5544</id>
-    <title>【Claude Code】スラッシュコマンドを使ってAIに日報のフィードバックをさせてみた</title>
-    <link rel="alternate" href="https://qiita.com/ssc-jfukui/items/96b53404478f318c5544?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T13:59:49+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssc-jfukui&quot;&gt;ssc-jfukui&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T13:59:48+09:00&lt;br/&gt;Updated: 2026-01-19T13:59:49+09:00&lt;br/&gt;はじめに
-毎日、業務スケジュールや成果、所感をまとめた日報を書いています。しかし、日報を書くだけで終わってしまい、なかなか次の日の業務改善に活かせていないという課題を感じていました。
-そこで今回は、Claude Codeのスラッシュコマンドを使って、AIに日報の内容を分析...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cb76efb490898c778a45</id>
-    <title>Antigravityのスキルで、実装・レビュー・修正まで一貫してできるようになった話</title>
-    <link rel="alternate" href="https://qiita.com/ho-rai/items/cb76efb490898c778a45?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-18T18:50:55+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ho-rai&quot;&gt;ho-rai&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T18:50:55+09:00&lt;br/&gt;Updated: 2026-01-18T18:50:55+09:00&lt;br/&gt;先日、Googleが提供するIDE「Antigravity」のアップデートにより、一連の手順をまとめて実行させる新機能「スキル」が追加されました。 この機能は、これまで手作業で行っていたルーチンワークをAIに学習させ、効率化するための強力なツールです。 今回は、開発者が最も...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7941e8cef7227328a664</id>
@@ -1191,12 +1199,17 @@ boto3を使ったPythonアプリケーションで、aws loginコマンドで認
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:66e7c07c459e3bb7082d</id>
-    <title>【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた</title>
-    <link rel="alternate" href="https://qiita.com/ot12/items/66e7c07c459e3bb7082d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T06:44:50+09:00</updated>
-    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
-彼が実践しているのは、単なるツールの使いこなしではありません。 人間自身のCPUをマ...</summary>
+    <id>tag:qiita.com,2026:3795769451ab003b6ee7</id>
+    <title>自然言語からSQLは魔法ではない</title>
+    <link rel="alternate" href="https://qiita.com/engchina/items/3795769451ab003b6ee7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T11:08:09+09:00</updated>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T11:08:09+09:00&lt;br/&gt;Updated: 2026-01-19T11:08:09+09:00&lt;br/&gt;― 業務要望に応えるために「設計とカスタマイズ開発」が不可欠な理由
+生成AIの進化により、「自然言語からSQLを生成できる」という話をよく耳にするようになりました。
+一見すると、
+
+テーブル定義書をAIに渡せば、業務ユーザーの質問をそのままSQLに変換してくれる
+
+ように...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d175e6504f738558bfdc</id>
@@ -1411,19 +1424,6 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/neko_the_shadow&quot;&gt;neko_the_shadow&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:12:16+09:00&lt;br/&gt;Updated: 2026-01-04T11:12:16+09:00&lt;br/&gt;はじめに
 競技プログラミングやパズル系の問題を解いていると、  「複数の配列から取りうる すべての組み合わせを列挙したい」という場面がよくあります。
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3795769451ab003b6ee7</id>
-    <title>自然言語からSQLは魔法ではない</title>
-    <link rel="alternate" href="https://qiita.com/engchina/items/3795769451ab003b6ee7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T11:08:09+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T11:08:09+09:00&lt;br/&gt;Updated: 2026-01-19T11:08:09+09:00&lt;br/&gt;― 業務要望に応えるために「設計とカスタマイズ開発」が不可欠な理由
-生成AIの進化により、「自然言語からSQLを生成できる」という話をよく耳にするようになりました。
-一見すると、
-
-テーブル定義書をAIに渡せば、業務ユーザーの質問をそのままSQLに変換してくれる
-
-ように...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:32184382a409e664709c</id>
