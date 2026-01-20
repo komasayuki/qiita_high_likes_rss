@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-20T20:09:54+09:00</updated>
+  <updated>2026-01-21T01:47:00+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -88,6 +88,14 @@ Canva で誤字脱字を修正（Nano Ban...</summary>
 私も現場のプロジェクトリーダーとして導入を...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:66e7c07c459e3bb7082d</id>
+    <title>【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた</title>
+    <link rel="alternate" href="https://qiita.com/ot12/items/66e7c07c459e3bb7082d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-20T06:44:50+09:00</updated>
+    <summary type="html">Likes: 129&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
+彼が実践しているのは、単なるツールの使いこなしではありません。 人間自身のCPUをマ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5583156dec3b32acb400</id>
     <title>【Python】クラス全員を救うために「実験レポート爆速生成ツール」を作って配布した話</title>
     <link rel="alternate" href="https://qiita.com/afmi21/items/5583156dec3b32acb400?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -99,14 +107,6 @@ Canva で誤字脱字を修正（Nano Ban...</summary>
 中身を書くだけでも大変なのに、僕たちを地味に、しかし確実に削ってくるのが 「事務作業」 の数々です。
 
 毎回Wordの...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:66e7c07c459e3bb7082d</id>
-    <title>【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた</title>
-    <link rel="alternate" href="https://qiita.com/ot12/items/66e7c07c459e3bb7082d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T06:44:50+09:00</updated>
-    <summary type="html">Likes: 125&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
-彼が実践しているのは、単なるツールの使いこなしではありません。 人間自身のCPUをマ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4c65053a3db0e3bb6ecb</id>
@@ -432,6 +432,20 @@ Generative UIは、生成AIやAIエージェントによってUIを生成する�
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c8907eddfe84881cdc3c</id>
+    <title>統計モデリング大全　目次</title>
+    <link rel="alternate" href="https://qiita.com/c60evaporator/items/c8907eddfe84881cdc3c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T11:48:14+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/c60evaporator&quot;&gt;c60evaporator&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T11:48:14+09:00&lt;br/&gt;Updated: 2026-01-18T11:48:14+09:00&lt;br/&gt;はじめに
+統計学が最強の学問であるというフレーズがブームになって久しいですが、正直この言葉に少し距離を感じていませんか？
+
+最強なぶん難しそう
+実務にどう使えるのか分からない
+範囲が広すぎて、何から勉強すればいいのか分からない
+
+統計モデリング（statistical ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:910b7a6c1be97da2879d</id>
     <title>エンジニアなら知っておきたいサーバーの基本</title>
     <link rel="alternate" href="https://qiita.com/Suntory/items/910b7a6c1be97da2879d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -448,20 +462,6 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
     <link rel="alternate" href="https://qiita.com/ho-rai/items/cb76efb490898c778a45?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-18T18:50:55+09:00</updated>
     <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ho-rai&quot;&gt;ho-rai&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T18:50:55+09:00&lt;br/&gt;Updated: 2026-01-18T18:50:55+09:00&lt;br/&gt;先日、Googleが提供するIDE「Antigravity」のアップデートにより、一連の手順をまとめて実行させる新機能「スキル」が追加されました。 この機能は、これまで手作業で行っていたルーチンワークをAIに学習させ、効率化するための強力なツールです。 今回は、開発者が最も...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c8907eddfe84881cdc3c</id>
-    <title>統計モデリング大全　目次</title>
-    <link rel="alternate" href="https://qiita.com/c60evaporator/items/c8907eddfe84881cdc3c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-18T11:48:14+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/c60evaporator&quot;&gt;c60evaporator&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T11:48:14+09:00&lt;br/&gt;Updated: 2026-01-18T11:48:14+09:00&lt;br/&gt;はじめに
-統計学が最強の学問であるというフレーズがブームになって久しいですが、正直この言葉に少し距離を感じていませんか？
-
-最強なぶん難しそう
-実務にどう使えるのか分からない
-範囲が広すぎて、何から勉強すればいいのか分からない
-
-統計モデリング（statistical ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9e6595d7c6f6f0c90c4c</id>
@@ -648,6 +648,26 @@ Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、い
 その...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e88aabbdfa8ddd94810a</id>
+    <title>『単体テストの考え方/使い方』が良すぎた</title>
+    <link rel="alternate" href="https://qiita.com/ikenohotori/items/e88aabbdfa8ddd94810a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-21T01:47:00+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikenohotori&quot;&gt;ikenohotori&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T01:30:12+09:00&lt;br/&gt;Updated: 2026-01-21T01:47:00+09:00&lt;br/&gt;『単体テストの考え方/使い方』を読んだ。
+
+感想
+「なぜ単体テストを作るのか」「どのような単体テストを書くべきか」「何を単体テストで確認するべきか」という知りたかったことがたくさん書いてある本。章ごとに「まとめ」が書いてあるので、1つの章を読み終わった後で復習できるの...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:eed90901fdd044ce7f40</id>
+    <title>【Claude Code】Claude CodeがOllamaと連携できるようになったらしい</title>
+    <link rel="alternate" href="https://qiita.com/ryu-ki/items/eed90901fdd044ce7f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T17:14:00+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T08:41:06+09:00&lt;br/&gt;Updated: 2026-01-19T17:14:00+09:00&lt;br/&gt;はじめに
+2026/1/18 に以下のようなツイートを見かけました。
+
+Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c241b9c10d259a9b4efc</id>
     <title>AWS初心者がAmazon Connectで簡単なコールセンターを構築した話</title>
     <link rel="alternate" href="https://qiita.com/tks_1128/items/c241b9c10d259a9b4efc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -659,16 +679,6 @@ Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、い
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:eed90901fdd044ce7f40</id>
-    <title>【Claude Code】Claude CodeがOllamaと連携できるようになったらしい</title>
-    <link rel="alternate" href="https://qiita.com/ryu-ki/items/eed90901fdd044ce7f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T17:14:00+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T08:41:06+09:00&lt;br/&gt;Updated: 2026-01-19T17:14:00+09:00&lt;br/&gt;はじめに
-2026/1/18 に以下のようなツイートを見かけました。
-
-Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:5eab2570dbed38021851</id>
     <title>JavaエンジニアがTypeScriptに触れて違いを感じた6つのポイント</title>
     <link rel="alternate" href="https://qiita.com/ebichan_88/items/5eab2570dbed38021851?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -677,16 +687,6 @@ Ollama（ローカルで LLM を実行するためのオープンソースツー
 本記事は、JavaエンジニアがTypeScriptを扱う際に感じた違いを解説した記事です。
 これまで実務や個人開発でTypeScriptに触れていましたが、Javaの感覚でコードを読み進めていくと、TypeScript特有の概念や挙動に戸惑うことがありました。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e88aabbdfa8ddd94810a</id>
-    <title>『単体テストの考え方/使い方』が良すぎた</title>
-    <link rel="alternate" href="https://qiita.com/ikenohotori/items/e88aabbdfa8ddd94810a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T01:30:12+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikenohotori&quot;&gt;ikenohotori&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T01:30:12+09:00&lt;br/&gt;Updated: 2026-01-19T01:30:12+09:00&lt;br/&gt;『単体テストの考え方/使い方』を読んだ。
-
-感想
-「なぜ単体テストを作るのか」「どのような単体テストを書くべきか」「何を単体テストで確認するべきか」という知りたかったことがたくさん書いてある本。章ごとに「まとめ」が書いてあるので、1つの章を読み終わった後で復習できるの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8c17dddea93a5fc8eab9</id>
