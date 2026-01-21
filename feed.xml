@@ -11,7 +11,7 @@
     <title>【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた</title>
     <link rel="alternate" href="https://qiita.com/ot12/items/66e7c07c459e3bb7082d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-20T06:44:50+09:00</updated>
-    <summary type="html">Likes: 263&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
+    <summary type="html">Likes: 267&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
 彼が実践しているのは、単なるツールの使いこなしではありません。 人間自身のCPUをマ...</summary>
   </entry>
   <entry>
@@ -176,6 +176,16 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
 またなんか無限レンダリングされるとかなんか2回...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e88aabbdfa8ddd94810a</id>
+    <title>『単体テストの考え方/使い方』が良すぎた</title>
+    <link rel="alternate" href="https://qiita.com/ikenohotori/items/e88aabbdfa8ddd94810a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-21T09:37:52+09:00</updated>
+    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikenohotori&quot;&gt;ikenohotori&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T01:30:12+09:00&lt;br/&gt;Updated: 2026-01-21T09:37:52+09:00&lt;br/&gt;『単体テストの考え方/使い方』を読んだ。
+
+感想
+「なぜ単体テストを作るのか」「どのような単体テストを書くべきか」「何を単体テストで確認するべきか」という知りたかったことがたくさん書いてある本。章ごとに「まとめ」が書いてあるので、1つの章を読み終わった後で復習できるの...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f5e8cb0c1b2e1145e852</id>
     <title>先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。【前編】</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/f5e8cb0c1b2e1145e852?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -188,16 +198,6 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
 日々、プログラミング学習や実務の中で
 つまずきやすいポイントを整理して発信しています。
 PRUMについて気...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e88aabbdfa8ddd94810a</id>
-    <title>『単体テストの考え方/使い方』が良すぎた</title>
-    <link rel="alternate" href="https://qiita.com/ikenohotori/items/e88aabbdfa8ddd94810a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-21T09:37:52+09:00</updated>
-    <summary type="html">Likes: 86&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikenohotori&quot;&gt;ikenohotori&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T01:30:12+09:00&lt;br/&gt;Updated: 2026-01-21T09:37:52+09:00&lt;br/&gt;『単体テストの考え方/使い方』を読んだ。
-
-感想
-「なぜ単体テストを作るのか」「どのような単体テストを書くべきか」「何を単体テストで確認するべきか」という知りたかったことがたくさん書いてある本。章ごとに「まとめ」が書いてあるので、1つの章を読み終わった後で復習できるの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cbdcda9c0251d66f252c</id>
@@ -679,21 +679,11 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5eab2570dbed38021851</id>
-    <title>JavaエンジニアがTypeScriptに触れて違いを感じた6つのポイント</title>
-    <link rel="alternate" href="https://qiita.com/ebichan_88/items/5eab2570dbed38021851?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-06T23:49:28+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ebichan_88&quot;&gt;ebichan_88&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T21:27:36+09:00&lt;br/&gt;Updated: 2026-01-06T23:49:28+09:00&lt;br/&gt;はじめに
-本記事は、JavaエンジニアがTypeScriptを扱う際に感じた違いを解説した記事です。
-これまで実務や個人開発でTypeScriptに触れていましたが、Javaの感覚でコードを読み進めていくと、TypeScript特有の概念や挙動に戸惑うことがありました。
-...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
     <title>https://2685434919 と https://160.16.124.39 はSameOriginか</title>
     <link rel="alternate" href="https://qiita.com/flano_yuki/items/e038be1a66448aaf594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-20T23:21:30+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/flano_yuki&quot;&gt;flano_yuki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T22:57:35+09:00&lt;br/&gt;Updated: 2026-01-20T23:21:30+09:00&lt;br/&gt;これらのURLはSameOriginか？
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/flano_yuki&quot;&gt;flano_yuki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T22:57:35+09:00&lt;br/&gt;Updated: 2026-01-20T23:21:30+09:00&lt;br/&gt;これらのURLはSameOriginか？
 
 https://2685434919
 https://160.16.124.39
@@ -702,6 +692,16 @@ https://160.16.124.39
 
 実際の動作
 https://160.16.12...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5eab2570dbed38021851</id>
+    <title>JavaエンジニアがTypeScriptに触れて違いを感じた6つのポイント</title>
+    <link rel="alternate" href="https://qiita.com/ebichan_88/items/5eab2570dbed38021851?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-06T23:49:28+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ebichan_88&quot;&gt;ebichan_88&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T21:27:36+09:00&lt;br/&gt;Updated: 2026-01-06T23:49:28+09:00&lt;br/&gt;はじめに
+本記事は、JavaエンジニアがTypeScriptを扱う際に感じた違いを解説した記事です。
+これまで実務や個人開発でTypeScriptに触れていましたが、Javaの感覚でコードを読み進めていくと、TypeScript特有の概念や挙動に戸惑うことがありました。
+...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8c17dddea93a5fc8eab9</id>
@@ -940,6 +940,16 @@ Power Automate を触っていて実行結果（履歴）を確認してみる�
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0800689e72d30fb554d7</id>
+    <title>VS Code開発効率を最大化するキーボード操作術【Mac編】</title>
+    <link rel="alternate" href="https://qiita.com/Yamashita_Sosuke/items/0800689e72d30fb554d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-20T15:10:04+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Yamashita_Sosuke&quot;&gt;Yamashita_Sosuke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T15:10:04+09:00&lt;br/&gt;Updated: 2026-01-20T15:10:04+09:00&lt;br/&gt;はじめに
+開発効率を向上させる上で、エディタの操作速度は無視できない要素です。
+思考と実装のタイムラグを最小限に抑えるためには、キーボードとマウス・トラックパッドの切り替えを減らし、ホームポジションからできるだけ離れずに操作を完結させることが重要です！⌨️
+本記事では、m...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5b757456b3c2b3676531</id>
     <title>AIでアンケートのテキスト分類とセンチメント分析を爆速化してみた</title>
     <link rel="alternate" href="https://qiita.com/IkuyaM/items/5b757456b3c2b3676531?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1026,16 +1036,6 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
     <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuni-i&quot;&gt;kimuni-i&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T15:16:50+09:00&lt;br/&gt;Updated: 2026-01-20T15:53:08+09:00&lt;br/&gt;はじめに
 要件定義書の作成に悩んでいませんか？「何を書けばいいかわからない」「後工程で使いにくいと言われる」「ステークホルダーとの認識がズレる」——こうした課題は、要件定義書の構造化で大きく改善できます。
 今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0800689e72d30fb554d7</id>
-    <title>VS Code開発効率を最大化するキーボード操作術【Mac編】</title>
-    <link rel="alternate" href="https://qiita.com/Yamashita_Sosuke/items/0800689e72d30fb554d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T15:10:04+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Yamashita_Sosuke&quot;&gt;Yamashita_Sosuke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T15:10:04+09:00&lt;br/&gt;Updated: 2026-01-20T15:10:04+09:00&lt;br/&gt;はじめに
-開発効率を向上させる上で、エディタの操作速度は無視できない要素です。
-思考と実装のタイムラグを最小限に抑えるためには、キーボードとマウス・トラックパッドの切り替えを減らし、ホームポジションからできるだけ離れずに操作を完結させることが重要です！⌨️
-本記事では、m...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:06015037ea758b518c6d</id>
