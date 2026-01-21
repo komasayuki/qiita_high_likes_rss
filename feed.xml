@@ -30,7 +30,7 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
     <title>【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた</title>
     <link rel="alternate" href="https://qiita.com/ot12/items/66e7c07c459e3bb7082d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-20T06:44:50+09:00</updated>
-    <summary type="html">Likes: 256&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
+    <summary type="html">Likes: 260&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
 彼が実践しているのは、単なるツールの使いこなしではありません。 人間自身のCPUをマ...</summary>
   </entry>
   <entry>
@@ -180,7 +180,7 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
     <title>先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。【前編】</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/f5e8cb0c1b2e1145e852?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-20T13:12:47+09:00</updated>
-    <summary type="html">Likes: 86&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T13:12:47+09:00&lt;br/&gt;Updated: 2026-01-20T13:12:47+09:00&lt;br/&gt;人はなぜ忘れるのか。初めての現場で学びが「点」になる理由
+    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T13:12:47+09:00&lt;br/&gt;Updated: 2026-01-20T13:12:47+09:00&lt;br/&gt;人はなぜ忘れるのか。初めての現場で学びが「点」になる理由
 ― 記憶の科学と、現場構造のすれ違い ―
 
 はじめまして。
@@ -200,6 +200,16 @@ PRUMについて気...</summary>
 
 「分からなければ聞けばいい」
 「調べればす...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e88aabbdfa8ddd94810a</id>
+    <title>『単体テストの考え方/使い方』が良すぎた</title>
+    <link rel="alternate" href="https://qiita.com/ikenohotori/items/e88aabbdfa8ddd94810a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-21T09:37:52+09:00</updated>
+    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikenohotori&quot;&gt;ikenohotori&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T01:30:12+09:00&lt;br/&gt;Updated: 2026-01-21T09:37:52+09:00&lt;br/&gt;『単体テストの考え方/使い方』を読んだ。
+
+感想
+「なぜ単体テストを作るのか」「どのような単体テストを書くべきか」「何を単体テストで確認するべきか」という知りたかったことがたくさん書いてある本。章ごとに「まとめ」が書いてあるので、1つの章を読み終わった後で復習できるの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:097d51405416e93d5132</id>
@@ -253,16 +263,6 @@ SHAP値処理の改修
 感想
 
 初...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e88aabbdfa8ddd94810a</id>
-    <title>『単体テストの考え方/使い方』が良すぎた</title>
-    <link rel="alternate" href="https://qiita.com/ikenohotori/items/e88aabbdfa8ddd94810a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-21T09:37:52+09:00</updated>
-    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikenohotori&quot;&gt;ikenohotori&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T01:30:12+09:00&lt;br/&gt;Updated: 2026-01-21T09:37:52+09:00&lt;br/&gt;『単体テストの考え方/使い方』を読んだ。
-
-感想
-「なぜ単体テストを作るのか」「どのような単体テストを書くべきか」「何を単体テストで確認するべきか」という知りたかったことがたくさん書いてある本。章ごとに「まとめ」が書いてあるので、1つの章を読み終わった後で復習できるの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c2e5d77c08c37532a3a3</id>
@@ -475,7 +475,7 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
     <title>Copilotは果たしてセキュアなのか～管理者目線・ユーザー目線からまとめてみた～</title>
     <link rel="alternate" href="https://qiita.com/sadabon444/items/9a2e5c163b46d81e1f62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-18T18:28:51+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T18:28:51+09:00&lt;br/&gt;Updated: 2026-01-18T18:28:51+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T18:28:51+09:00&lt;br/&gt;Updated: 2026-01-18T18:28:51+09:00&lt;br/&gt;はじめに
 「Copilotは果たしてセキュアなのか」
 この問いに対する回答を、管理者目線・ユーザー目線よりまとめてみました。
 
@@ -505,6 +505,16 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
 そんな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:eed90901fdd044ce7f40</id>
+    <title>【Claude Code】Claude CodeがOllamaと連携できるようになったらしい</title>
+    <link rel="alternate" href="https://qiita.com/ryu-ki/items/eed90901fdd044ce7f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T17:14:00+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T08:41:06+09:00&lt;br/&gt;Updated: 2026-01-19T17:14:00+09:00&lt;br/&gt;はじめに
+2026/1/18 に以下のようなツイートを見かけました。
+
+Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:58be7519dee6a58f74d1</id>
     <title>Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -515,16 +525,6 @@ JavaScriptの基本文法（関数、オブジェクト、コールバック）�
 Node.jsをインストールしてnpmコマンドを使ったことがある方
 Web API（REST API）という言葉を聞いたことがある方
 バックエンド開発に興味があり、最...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:eed90901fdd044ce7f40</id>
-    <title>【Claude Code】Claude CodeがOllamaと連携できるようになったらしい</title>
-    <link rel="alternate" href="https://qiita.com/ryu-ki/items/eed90901fdd044ce7f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T17:14:00+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T08:41:06+09:00&lt;br/&gt;Updated: 2026-01-19T17:14:00+09:00&lt;br/&gt;はじめに
-2026/1/18 に以下のようなツイートを見かけました。
-
-Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:acc22c05c66826289f11</id>
@@ -710,6 +710,21 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
+    <title>https://2685434919 と https://160.16.124.39 はSameOriginか</title>
+    <link rel="alternate" href="https://qiita.com/flano_yuki/items/e038be1a66448aaf594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-20T23:21:30+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/flano_yuki&quot;&gt;flano_yuki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T22:57:35+09:00&lt;br/&gt;Updated: 2026-01-20T23:21:30+09:00&lt;br/&gt;これらのURLはSameOriginか？
+
+https://2685434919
+https://160.16.124.39
+
+（IPアドレスだと分かりづらいですが、僕個人サイトのIPアドレスですので、アクセスいただけます）
+
+実際の動作
+https://160.16.12...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:96b53404478f318c5544</id>
     <title>【Claude Code】スラッシュコマンドを使ってAIに日報のフィードバックをさせてみた</title>
     <link rel="alternate" href="https://qiita.com/ssc-jfukui/items/96b53404478f318c5544?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -717,6 +732,19 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
     <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssc-jfukui&quot;&gt;ssc-jfukui&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T13:59:48+09:00&lt;br/&gt;Updated: 2026-01-19T13:59:49+09:00&lt;br/&gt;はじめに
 毎日、業務スケジュールや成果、所感をまとめた日報を書いています。しかし、日報を書くだけで終わってしまい、なかなか次の日の業務改善に活かせていないという課題を感じていました。
 そこで今回は、Claude Codeのスラッシュコマンドを使って、AIに日報の内容を分析...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3795769451ab003b6ee7</id>
+    <title>自然言語からSQLは魔法ではない</title>
+    <link rel="alternate" href="https://qiita.com/engchina/items/3795769451ab003b6ee7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T11:08:09+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T11:08:09+09:00&lt;br/&gt;Updated: 2026-01-19T11:08:09+09:00&lt;br/&gt;― 業務要望に応えるために「設計とカスタマイズ開発」が不可欠な理由
+生成AIの進化により、「自然言語からSQLを生成できる」という話をよく耳にするようになりました。
+一見すると、
+
+テーブル定義書をAIに渡せば、業務ユーザーの質問をそのままSQLに変換してくれる
+
+ように...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:db798b2e5805c51a64c1</id>
@@ -729,19 +757,6 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 GMOコネクトの大谷です。
 H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」として大きく報じられました。
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3795769451ab003b6ee7</id>
-    <title>自然言語からSQLは魔法ではない</title>
-    <link rel="alternate" href="https://qiita.com/engchina/items/3795769451ab003b6ee7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T11:08:09+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T11:08:09+09:00&lt;br/&gt;Updated: 2026-01-19T11:08:09+09:00&lt;br/&gt;― 業務要望に応えるために「設計とカスタマイズ開発」が不可欠な理由
-生成AIの進化により、「自然言語からSQLを生成できる」という話をよく耳にするようになりました。
-一見すると、
-
-テーブル定義書をAIに渡せば、業務ユーザーの質問をそのままSQLに変換してくれる
-
-ように...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b6019ae2702c58f98bea</id>
@@ -778,21 +793,6 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 バトルの最中にゲームがフリーズする状態。
 止まる以上、「あとで考えよう」はできません。
 この章では、「どう直すか...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
-    <title>https://2685434919 と https://160.16.124.39 はSameOriginか</title>
-    <link rel="alternate" href="https://qiita.com/flano_yuki/items/e038be1a66448aaf594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T23:21:30+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/flano_yuki&quot;&gt;flano_yuki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T22:57:35+09:00&lt;br/&gt;Updated: 2026-01-20T23:21:30+09:00&lt;br/&gt;これらのURLはSameOriginか？
-
-https://2685434919
-https://160.16.124.39
-
-（IPアドレスだと分かりづらいですが、僕個人サイトのIPアドレスですので、アクセスいただけます）
-
-実際の動作
-https://160.16.12...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:90697508c14d8f2a5afe</id>
@@ -1019,6 +1019,25 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 そんな私が、生成AI（ChatGPT / Cla...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3ccede58154d3d4e6724</id>
+    <title>仕事を構造化する実践ノウハウ</title>
+    <link rel="alternate" href="https://qiita.com/kimuni-i/items/3ccede58154d3d4e6724?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-20T15:53:08+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuni-i&quot;&gt;kimuni-i&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T15:16:50+09:00&lt;br/&gt;Updated: 2026-01-20T15:53:08+09:00&lt;br/&gt;はじめに
+要件定義書の作成に悩んでいませんか？「何を書けばいいかわからない」「後工程で使いにくいと言われる」「ステークホルダーとの認識がズレる」——こうした課題は、要件定義書の構造化で大きく改善できます。
+今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:06015037ea758b518c6d</id>
+    <title>【Claude Code】非エンジニアが1行もコードを書かずにAI搭載の「画像トリミングツール」を作った話</title>
+    <link rel="alternate" href="https://qiita.com/ot12/items/06015037ea758b518c6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-20T06:48:35+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T06:42:58+09:00&lt;br/&gt;Updated: 2026-01-20T06:48:35+09:00&lt;br/&gt;最近よく聞く生成AIで誰でもアプリ開発という話題。
+正直なところ、「そうは言っても、結局は専門知識がないと途中で詰むんでしょ？」と半信半疑でスルーしていました。
+ですが、年末年始の時間を使って Claude Code を実際に触ってみて、その考えを改めました。
+疑ってかかっ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ce27adb51e14fba4f3c9</id>
     <title>さよなら、データ修正地獄。ExploratoryのAI関数による表記揺れ解決術</title>
     <link rel="alternate" href="https://qiita.com/takatoshiroto/items/ce27adb51e14fba4f3c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1158,6 +1177,14 @@ TCPとUDPの違い
 本記事では、m...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0a2f110216f4d00f295c</id>
+    <title>第４回空戦AIチャレンジ最終一位チームの「最終解法」</title>
+    <link rel="alternate" href="https://qiita.com/TaroKawa_Spakona/items/0a2f110216f4d00f295c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T19:00:24+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TaroKawa_Spakona&quot;&gt;TaroKawa_Spakona&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T19:00:23+09:00&lt;br/&gt;Updated: 2026-01-19T19:00:24+09:00&lt;br/&gt;はじめに
+こんにちは。株式会社Spakona 代表の河崎太郎（@taro_kawa6）です。「第4回 空戦AIチャレンジ」に参加し、最終一位入賞を果たすことができました。本記事では、我々のチーム Spakona_Inc がコンペティションに取り組む上で採用した解法について...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7941e8cef7227328a664</id>
     <title>【個人開発】サーバー代0円！GitHub ActionsとPythonで「完全自動更新」なWebサイトを作る技術（Google Maps &amp; Threads API活用）</title>
     <link rel="alternate" href="https://qiita.com/kazesift/items/7941e8cef7227328a664?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1218,33 +1245,6 @@ CSVファイルに書き込んで
     <updated>2026-01-03T09:15:39+09:00</updated>
     <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KimuraSoh&quot;&gt;KimuraSoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T09:15:39+09:00&lt;br/&gt;Updated: 2026-01-03T09:15:39+09:00&lt;br/&gt;はじめに
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3ccede58154d3d4e6724</id>
-    <title>仕事を構造化する実践ノウハウ</title>
-    <link rel="alternate" href="https://qiita.com/kimuni-i/items/3ccede58154d3d4e6724?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T15:53:08+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuni-i&quot;&gt;kimuni-i&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T15:16:50+09:00&lt;br/&gt;Updated: 2026-01-20T15:53:08+09:00&lt;br/&gt;はじめに
-要件定義書の作成に悩んでいませんか？「何を書けばいいかわからない」「後工程で使いにくいと言われる」「ステークホルダーとの認識がズレる」——こうした課題は、要件定義書の構造化で大きく改善できます。
-今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:06015037ea758b518c6d</id>
-    <title>【Claude Code】非エンジニアが1行もコードを書かずにAI搭載の「画像トリミングツール」を作った話</title>
-    <link rel="alternate" href="https://qiita.com/ot12/items/06015037ea758b518c6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T06:48:35+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T06:42:58+09:00&lt;br/&gt;Updated: 2026-01-20T06:48:35+09:00&lt;br/&gt;最近よく聞く生成AIで誰でもアプリ開発という話題。
-正直なところ、「そうは言っても、結局は専門知識がないと途中で詰むんでしょ？」と半信半疑でスルーしていました。
-ですが、年末年始の時間を使って Claude Code を実際に触ってみて、その考えを改めました。
-疑ってかかっ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0a2f110216f4d00f295c</id>
-    <title>第４回空戦AIチャレンジ最終一位チームの「最終解法」</title>
-    <link rel="alternate" href="https://qiita.com/TaroKawa_Spakona/items/0a2f110216f4d00f295c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T19:00:24+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TaroKawa_Spakona&quot;&gt;TaroKawa_Spakona&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T19:00:23+09:00&lt;br/&gt;Updated: 2026-01-19T19:00:24+09:00&lt;br/&gt;はじめに
-こんにちは。株式会社Spakona 代表の河崎太郎（@taro_kawa6）です。「第4回 空戦AIチャレンジ」に参加し、最終一位入賞を果たすことができました。本記事では、我々のチーム Spakona_Inc がコンペティションに取り組む上で採用した解法について...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:042e1fdb7522289d362f</id>
@@ -1429,6 +1429,16 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 はじめに...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ebc80c98904a43ffba74</id>
+    <title>自社・チームのコードレビューガイドラインを作成するウィザードアプリを作りました</title>
+    <link rel="alternate" href="https://qiita.com/goofmint/items/ebc80c98904a43ffba74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T11:38:44+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/goofmint&quot;&gt;goofmint&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T11:38:44+09:00&lt;br/&gt;Updated: 2026-01-19T11:38:44+09:00&lt;br/&gt;CodeRabbitで登壇する際、コードレビューガイドラインの重要性を取り上げることが多いです。コードレビューガイドラインとは、チームや組織における「コードレビューの共通認識」になります。
+このコードレビューガイドラインがないと、以下のような問題が起こります。
+
+レビューす...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7fa22b08605d44e030ed</id>
     <title>タスク管理は身近さが正義</title>
     <link rel="alternate" href="https://qiita.com/kmatsuda_slj/items/7fa22b08605d44e030ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1591,16 +1601,6 @@ Rust の標準ライブラリには直接のユーティリティはありませ
 
 Qiitaとは？
 Qiita（キータ）は、エンジニアに関する知識を記録・共有...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ebc80c98904a43ffba74</id>
-    <title>自社・チームのコードレビューガイドラインを作成するウィザードアプリを作りました</title>
-    <link rel="alternate" href="https://qiita.com/goofmint/items/ebc80c98904a43ffba74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T11:38:44+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/goofmint&quot;&gt;goofmint&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T11:38:44+09:00&lt;br/&gt;Updated: 2026-01-19T11:38:44+09:00&lt;br/&gt;CodeRabbitで登壇する際、コードレビューガイドラインの重要性を取り上げることが多いです。コードレビューガイドラインとは、チームや組織における「コードレビューの共通認識」になります。
-このコードレビューガイドラインがないと、以下のような問題が起こります。
-
-レビューす...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:32184382a409e664709c</id>
