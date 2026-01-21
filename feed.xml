@@ -30,7 +30,7 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
     <title>【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた</title>
     <link rel="alternate" href="https://qiita.com/ot12/items/66e7c07c459e3bb7082d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-20T06:44:50+09:00</updated>
-    <summary type="html">Likes: 244&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
+    <summary type="html">Likes: 251&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
 彼が実践しているのは、単なるツールの使いこなしではありません。 人間自身のCPUをマ...</summary>
   </entry>
   <entry>
@@ -259,7 +259,7 @@ SHAP値処理の改修
     <title>『単体テストの考え方/使い方』が良すぎた</title>
     <link rel="alternate" href="https://qiita.com/ikenohotori/items/e88aabbdfa8ddd94810a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-21T09:37:52+09:00</updated>
-    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikenohotori&quot;&gt;ikenohotori&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T01:30:12+09:00&lt;br/&gt;Updated: 2026-01-21T09:37:52+09:00&lt;br/&gt;『単体テストの考え方/使い方』を読んだ。
+    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikenohotori&quot;&gt;ikenohotori&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T01:30:12+09:00&lt;br/&gt;Updated: 2026-01-21T09:37:52+09:00&lt;br/&gt;『単体テストの考え方/使い方』を読んだ。
 
 感想
 「なぜ単体テストを作るのか」「どのような単体テストを書くべきか」「何を単体テストで確認するべきか」という知りたかったことがたくさん書いてある本。章ごとに「まとめ」が書いてあるので、1つの章を読み終わった後で復習できるの...</summary>
@@ -871,6 +871,21 @@ FPGAとマイコンを1ボードに搭載
 Google Colabで手軽に試せるの...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
+    <title>https://2685434919 と https://160.16.124.39 はSameOriginか</title>
+    <link rel="alternate" href="https://qiita.com/flano_yuki/items/e038be1a66448aaf594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-20T23:21:30+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/flano_yuki&quot;&gt;flano_yuki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T22:57:35+09:00&lt;br/&gt;Updated: 2026-01-20T23:21:30+09:00&lt;br/&gt;これらのURLはSameOriginか？
+
+https://2685434919
+https://160.16.124.39
+
+（IPアドレスだと分かりづらいですが、僕個人サイトのIPアドレスですので、アクセスいただけます）
+
+実際の動作
+https://160.16.12...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c130168ca3fc0f1f6aaa</id>
     <title>Claude Codeに別のAIエージェント（Codex等）を相談役として付けてみた</title>
     <link rel="alternate" href="https://qiita.com/hiropon122/items/c130168ca3fc0f1f6aaa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -883,21 +898,6 @@ Claude Codeには日頃から大変お世話になっていますが、完全に
 実装中の軌道修正 - おかしな方向に進みそうなときに相談に乗りたい
 
 完了時...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
-    <title>https://2685434919 と https://160.16.124.39 はSameOriginか</title>
-    <link rel="alternate" href="https://qiita.com/flano_yuki/items/e038be1a66448aaf594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T23:21:30+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/flano_yuki&quot;&gt;flano_yuki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T22:57:35+09:00&lt;br/&gt;Updated: 2026-01-20T23:21:30+09:00&lt;br/&gt;これらのURLはSameOriginか？
-
-https://2685434919
-https://160.16.124.39
-
-（IPアドレスだと分かりづらいですが、僕個人サイトのIPアドレスですので、アクセスいただけます）
-
-実際の動作
-https://160.16.12...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:791c78879e690b7c8cd2</id>
