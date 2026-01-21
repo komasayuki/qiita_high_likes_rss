@@ -11,7 +11,7 @@
     <title>【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた</title>
     <link rel="alternate" href="https://qiita.com/ot12/items/66e7c07c459e3bb7082d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-20T06:44:50+09:00</updated>
-    <summary type="html">Likes: 282&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
+    <summary type="html">Likes: 285&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
 彼が実践しているのは、単なるツールの使いこなしではありません。 人間自身のCPUをマ...</summary>
   </entry>
   <entry>
@@ -581,6 +581,21 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
 ただ、そ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
+    <title>https://2685434919 と https://160.16.124.39 はSameOriginか</title>
+    <link rel="alternate" href="https://qiita.com/flano_yuki/items/e038be1a66448aaf594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-20T23:21:30+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/flano_yuki&quot;&gt;flano_yuki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T22:57:35+09:00&lt;br/&gt;Updated: 2026-01-20T23:21:30+09:00&lt;br/&gt;これらのURLはSameOriginか？
+
+https://2685434919
+https://160.16.124.39
+
+（IPアドレスだと分かりづらいですが、僕個人サイトのIPアドレスですので、アクセスいただけます）
+
+実際の動作
+https://160.16.12...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b1726a7a6054ed7e64df</id>
     <title>アーキテクチャの本質は共通している？最も大切な責務分離という考え方</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/b1726a7a6054ed7e64df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -653,21 +668,6 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウェブサーバーの間でHTMLファイルや画像などのウェブ情報をやり取りするための通信ルール（プロトコル）です。
 1回の通信で最低限起きていること
 1. ブ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
-    <title>https://2685434919 と https://160.16.124.39 はSameOriginか</title>
-    <link rel="alternate" href="https://qiita.com/flano_yuki/items/e038be1a66448aaf594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T23:21:30+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/flano_yuki&quot;&gt;flano_yuki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T22:57:35+09:00&lt;br/&gt;Updated: 2026-01-20T23:21:30+09:00&lt;br/&gt;これらのURLはSameOriginか？
-
-https://2685434919
-https://160.16.124.39
-
-（IPアドレスだと分かりづらいですが、僕個人サイトのIPアドレスですので、アクセスいただけます）
-
-実際の動作
-https://160.16.12...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:616f3b8b4e35437d8356</id>
@@ -1416,6 +1416,32 @@ if / elsif / else のような条件分岐が増える
 そして、個人開発ではStreamlit + L...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:57fb0da7257d9875409c</id>
+    <title>Bedrock AgentCoreのデプロイツールがTypeScriptに対応！ 宇宙最速で試してみた</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/57fb0da7257d9875409c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-21T19:02:51+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T10:28:47+09:00&lt;br/&gt;Updated: 2026-01-21T19:02:51+09:00&lt;br/&gt;これを試します。
+
+開発
+メインのAIエージェントをTypeScriptで作成します。
+Strands AgentsのTypeScript版を、AgentCoreランタイムの要件に従ってExpress.jsでAPIサーバー化しています。
+
+index.ts
+impor...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:864a49b93bbfaa7672ae</id>
+    <title>&quot;セキュリティ投資&quot;は&quot;投資&quot;か？を本気で考える</title>
+    <link rel="alternate" href="https://qiita.com/f_0000/items/864a49b93bbfaa7672ae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-21T01:15:16+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/f_0000&quot;&gt;f_0000&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T01:09:10+09:00&lt;br/&gt;Updated: 2026-01-21T01:15:16+09:00&lt;br/&gt;はじめに
+「企業はサイバーセキュリティへの投資を増やさなくてはいけない」
+「サイバーセキュリティへ投資することが企業の成長にとって重要である」
+「サイバーセキュリティはコストではなく投資」
+こんな言葉を目にしたことがある人は多いのではないだろうか。
+何年も業界に携わる中で...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3f76045c4b7696744fb3</id>
     <title>個人開発のAIアプリをServerless化したら月額$7で運用できた件</title>
     <link rel="alternate" href="https://qiita.com/JaminL/items/3f76045c4b7696744fb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1427,6 +1453,19 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 固定費を避けてServerless構成にすれば、個人開発でも安心
 
 はじめに...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:1a0c2e84dd0898a088ad</id>
+    <title>IPA高度区分試験攻略法(PM/ST/AU)── と思ったらまさかの試験区分再編！</title>
+    <link rel="alternate" href="https://qiita.com/dais_cw/items/1a0c2e84dd0898a088ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-20T07:44:35+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dais_cw&quot;&gt;dais_cw&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T07:44:35+09:00&lt;br/&gt;Updated: 2026-01-20T07:44:35+09:00&lt;br/&gt;まさかのIPA試験区分再編
+上記タイトルで投稿記事を書いていたら、まさかのIPA試験区分再編！
+折角頑張って書いたのに…。
+とはいえ、少なくとも2026年度は現行方式が継続されそう
+（2026/1/19時点）なので、若干手直しした上で
+投稿してみることにしました。
+202...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ebc80c98904a43ffba74</id>
@@ -1590,33 +1629,6 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/neko_the_shadow&quot;&gt;neko_the_shadow&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:12:16+09:00&lt;br/&gt;Updated: 2026-01-04T11:12:16+09:00&lt;br/&gt;はじめに
 競技プログラミングやパズル系の問題を解いていると、  「複数の配列から取りうる すべての組み合わせを列挙したい」という場面がよくあります。
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:57fb0da7257d9875409c</id>
-    <title>Bedrock AgentCoreのデプロイツールがTypeScriptに対応！ 宇宙最速で試してみた</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/57fb0da7257d9875409c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-21T19:02:51+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T10:28:47+09:00&lt;br/&gt;Updated: 2026-01-21T19:02:51+09:00&lt;br/&gt;これを試します。
-
-開発
-メインのAIエージェントをTypeScriptで作成します。
-Strands AgentsのTypeScript版を、AgentCoreランタイムの要件に従ってExpress.jsでAPIサーバー化しています。
-
-index.ts
-impor...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1a0c2e84dd0898a088ad</id>
-    <title>IPA高度区分試験攻略法(PM/ST/AU)── と思ったらまさかの試験区分再編！</title>
-    <link rel="alternate" href="https://qiita.com/dais_cw/items/1a0c2e84dd0898a088ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T07:44:35+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dais_cw&quot;&gt;dais_cw&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T07:44:35+09:00&lt;br/&gt;Updated: 2026-01-20T07:44:35+09:00&lt;br/&gt;まさかのIPA試験区分再編
-上記タイトルで投稿記事を書いていたら、まさかのIPA試験区分再編！
-折角頑張って書いたのに…。
-とはいえ、少なくとも2026年度は現行方式が継続されそう
-（2026/1/19時点）なので、若干手直しした上で
-投稿してみることにしました。
-202...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1c0bcc37d69c428ed7e7</id>
