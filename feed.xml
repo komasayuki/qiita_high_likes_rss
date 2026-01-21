@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-21T09:37:52+09:00</updated>
+  <updated>2026-01-22T01:15:09+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -11,7 +11,7 @@
     <title>【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた</title>
     <link rel="alternate" href="https://qiita.com/ot12/items/66e7c07c459e3bb7082d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-20T06:44:50+09:00</updated>
-    <summary type="html">Likes: 267&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
+    <summary type="html">Likes: 275&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
 彼が実践しているのは、単なるツールの使いこなしではありません。 人間自身のCPUをマ...</summary>
   </entry>
   <entry>
@@ -179,8 +179,8 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
     <id>tag:qiita.com,2026:e88aabbdfa8ddd94810a</id>
     <title>『単体テストの考え方/使い方』が良すぎた</title>
     <link rel="alternate" href="https://qiita.com/ikenohotori/items/e88aabbdfa8ddd94810a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-21T09:37:52+09:00</updated>
-    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikenohotori&quot;&gt;ikenohotori&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T01:30:12+09:00&lt;br/&gt;Updated: 2026-01-21T09:37:52+09:00&lt;br/&gt;『単体テストの考え方/使い方』を読んだ。
+    <updated>2026-01-22T01:15:09+09:00</updated>
+    <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikenohotori&quot;&gt;ikenohotori&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T01:30:12+09:00&lt;br/&gt;Updated: 2026-01-22T01:15:09+09:00&lt;br/&gt;『単体テストの考え方/使い方』を読んだ。
 
 感想
 「なぜ単体テストを作るのか」「どのような単体テストを書くべきか」「何を単体テストで確認するべきか」という知りたかったことがたくさん書いてある本。章ごとに「まとめ」が書いてあるので、1つの章を読み終わった後で復習できるの...</summary>
@@ -190,7 +190,7 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
     <title>先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。【前編】</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/f5e8cb0c1b2e1145e852?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-20T13:12:47+09:00</updated>
-    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T13:12:47+09:00&lt;br/&gt;Updated: 2026-01-20T13:12:47+09:00&lt;br/&gt;人はなぜ忘れるのか。初めての現場で学びが「点」になる理由
+    <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T13:12:47+09:00&lt;br/&gt;Updated: 2026-01-20T13:12:47+09:00&lt;br/&gt;人はなぜ忘れるのか。初めての現場で学びが「点」になる理由
 ― 記憶の科学と、現場構造のすれ違い ―
 
 はじめまして。
@@ -704,6 +704,28 @@ https://160.16.12...</summary>
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:96b53404478f318c5544</id>
+    <title>【Claude Code】スラッシュコマンドを使ってAIに日報のフィードバックをさせてみた</title>
+    <link rel="alternate" href="https://qiita.com/ssc-jfukui/items/96b53404478f318c5544?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T13:59:49+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssc-jfukui&quot;&gt;ssc-jfukui&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T13:59:48+09:00&lt;br/&gt;Updated: 2026-01-19T13:59:49+09:00&lt;br/&gt;はじめに
+毎日、業務スケジュールや成果、所感をまとめた日報を書いています。しかし、日報を書くだけで終わってしまい、なかなか次の日の業務改善に活かせていないという課題を感じていました。
+そこで今回は、Claude Codeのスラッシュコマンドを使って、AIに日報の内容を分析...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3795769451ab003b6ee7</id>
+    <title>自然言語からSQLは魔法ではない</title>
+    <link rel="alternate" href="https://qiita.com/engchina/items/3795769451ab003b6ee7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T11:08:09+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T11:08:09+09:00&lt;br/&gt;Updated: 2026-01-19T11:08:09+09:00&lt;br/&gt;― 業務要望に応えるために「設計とカスタマイズ開発」が不可欠な理由
+生成AIの進化により、「自然言語からSQLを生成できる」という話をよく耳にするようになりました。
+一見すると、
+
+テーブル定義書をAIに渡せば、業務ユーザーの質問をそのままSQLに変換してくれる
+
+ように...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8c17dddea93a5fc8eab9</id>
     <title>IPAの試験再編から読み解く「AIエージェント時代」の生存戦略と、新資格AB-100への挑戦</title>
     <link rel="alternate" href="https://qiita.com/katohiro_fi/items/8c17dddea93a5fc8eab9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -723,28 +745,6 @@ https://160.16.12...</summary>
 フルサーバーレスで維持費激安なのが嬉しいポイントです。
 
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:96b53404478f318c5544</id>
-    <title>【Claude Code】スラッシュコマンドを使ってAIに日報のフィードバックをさせてみた</title>
-    <link rel="alternate" href="https://qiita.com/ssc-jfukui/items/96b53404478f318c5544?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T13:59:49+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssc-jfukui&quot;&gt;ssc-jfukui&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T13:59:48+09:00&lt;br/&gt;Updated: 2026-01-19T13:59:49+09:00&lt;br/&gt;はじめに
-毎日、業務スケジュールや成果、所感をまとめた日報を書いています。しかし、日報を書くだけで終わってしまい、なかなか次の日の業務改善に活かせていないという課題を感じていました。
-そこで今回は、Claude Codeのスラッシュコマンドを使って、AIに日報の内容を分析...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3795769451ab003b6ee7</id>
-    <title>自然言語からSQLは魔法ではない</title>
-    <link rel="alternate" href="https://qiita.com/engchina/items/3795769451ab003b6ee7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T11:08:09+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T11:08:09+09:00&lt;br/&gt;Updated: 2026-01-19T11:08:09+09:00&lt;br/&gt;― 業務要望に応えるために「設計とカスタマイズ開発」が不可欠な理由
-生成AIの進化により、「自然言語からSQLを生成できる」という話をよく耳にするようになりました。
-一見すると、
-
-テーブル定義書をAIに渡せば、業務ユーザーの質問をそのままSQLに変換してくれる
-
-ように...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:db798b2e5805c51a64c1</id>
@@ -987,6 +987,14 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0a2f110216f4d00f295c</id>
+    <title>第４回空戦AIチャレンジ最終一位チームの「最終解法」</title>
+    <link rel="alternate" href="https://qiita.com/TaroKawa_Spakona/items/0a2f110216f4d00f295c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T19:00:24+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TaroKawa_Spakona&quot;&gt;TaroKawa_Spakona&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T19:00:23+09:00&lt;br/&gt;Updated: 2026-01-19T19:00:24+09:00&lt;br/&gt;はじめに
+こんにちは。株式会社Spakona 代表の河崎太郎（@taro_kawa6）です。「第4回 空戦AIチャレンジ」に参加し、最終一位入賞を果たすことができました。本記事では、我々のチーム Spakona_Inc がコンペティションに取り組む上で採用した解法について...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ad6e67d7d2b261a3b39f</id>
     <title>Google AI Proで使い倒すAntigravity開発ノウハウ：モデルとモードの最適解</title>
     <link rel="alternate" href="https://qiita.com/ryosukehayashi/items/ad6e67d7d2b261a3b39f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1046,14 +1054,6 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 正直なところ、「そうは言っても、結局は専門知識がないと途中で詰むんでしょ？」と半信半疑でスルーしていました。
 ですが、年末年始の時間を使って Claude Code を実際に触ってみて、その考えを改めました。
 疑ってかかっ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0a2f110216f4d00f295c</id>
-    <title>第４回空戦AIチャレンジ最終一位チームの「最終解法」</title>
-    <link rel="alternate" href="https://qiita.com/TaroKawa_Spakona/items/0a2f110216f4d00f295c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T19:00:24+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TaroKawa_Spakona&quot;&gt;TaroKawa_Spakona&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T19:00:23+09:00&lt;br/&gt;Updated: 2026-01-19T19:00:24+09:00&lt;br/&gt;はじめに
-こんにちは。株式会社Spakona 代表の河崎太郎（@taro_kawa6）です。「第4回 空戦AIチャレンジ」に参加し、最終一位入賞を果たすことができました。本記事では、我々のチーム Spakona_Inc がコンペティションに取り組む上で採用した解法について...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ce27adb51e14fba4f3c9</id>
@@ -1590,6 +1590,20 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/neko_the_shadow&quot;&gt;neko_the_shadow&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:12:16+09:00&lt;br/&gt;Updated: 2026-01-04T11:12:16+09:00&lt;br/&gt;はじめに
 競技プログラミングやパズル系の問題を解いていると、  「複数の配列から取りうる すべての組み合わせを列挙したい」という場面がよくあります。
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:57fb0da7257d9875409c</id>
+    <title>Bedrock AgentCoreのデプロイツールがTypeScriptに対応！ 宇宙最速で試してみた</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/57fb0da7257d9875409c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-21T19:02:51+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T10:28:47+09:00&lt;br/&gt;Updated: 2026-01-21T19:02:51+09:00&lt;br/&gt;これを試します。
+
+開発
+メインのAIエージェントをTypeScriptで作成します。
+Strands AgentsのTypeScript版を、AgentCoreランタイムの要件に従ってExpress.jsでAPIサーバー化しています。
+
+index.ts
+impor...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1c0bcc37d69c428ed7e7</id>
