@@ -11,7 +11,7 @@
     <title>【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた</title>
     <link rel="alternate" href="https://qiita.com/ot12/items/66e7c07c459e3bb7082d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-20T06:44:50+09:00</updated>
-    <summary type="html">Likes: 324&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
+    <summary type="html">Likes: 328&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
 彼が実践しているのは、単なるツールの使いこなしではありません。 人間自身のCPUをマ...</summary>
   </entry>
   <entry>
@@ -440,7 +440,7 @@ CLAUDE.md
     <title>【Claude Code】Claude CodeがOllamaと連携できるようになったらしい</title>
     <link rel="alternate" href="https://qiita.com/ryu-ki/items/eed90901fdd044ce7f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-19T17:14:00+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T08:41:06+09:00&lt;br/&gt;Updated: 2026-01-19T17:14:00+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T08:41:06+09:00&lt;br/&gt;Updated: 2026-01-19T17:14:00+09:00&lt;br/&gt;はじめに
 2026/1/18 に以下のようなツイートを見かけました。
 
 Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
@@ -527,6 +527,21 @@ Web API（REST API）という言葉を聞いたことがある方
 バックエンド開発に興味があり、最...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
+    <title>https://2685434919 と https://160.16.124.39 はSameOriginか</title>
+    <link rel="alternate" href="https://qiita.com/flano_yuki/items/e038be1a66448aaf594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-20T23:21:30+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/flano_yuki&quot;&gt;flano_yuki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T22:57:35+09:00&lt;br/&gt;Updated: 2026-01-20T23:21:30+09:00&lt;br/&gt;これらのURLはSameOriginか？
+
+https://2685434919
+https://160.16.124.39
+
+（IPアドレスだと分かりづらいですが、僕個人サイトのIPアドレスですので、アクセスいただけます）
+
+実際の動作
+https://160.16.12...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:acc22c05c66826289f11</id>
     <title>【ポケモン×Java】Lv15：『ピカチュウも、ヒトカゲも、、、』～抽象化～</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/acc22c05c66826289f11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -552,21 +567,6 @@ PRUMについて気になった方は、
 
 この記事の情報は、2026年1月12日現在のものです。
 またユーザーの呼称は、正式でなく便宜的な...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
-    <title>https://2685434919 と https://160.16.124.39 はSameOriginか</title>
-    <link rel="alternate" href="https://qiita.com/flano_yuki/items/e038be1a66448aaf594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T23:21:30+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/flano_yuki&quot;&gt;flano_yuki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T22:57:35+09:00&lt;br/&gt;Updated: 2026-01-20T23:21:30+09:00&lt;br/&gt;これらのURLはSameOriginか？
-
-https://2685434919
-https://160.16.124.39
-
-（IPアドレスだと分かりづらいですが、僕個人サイトのIPアドレスですので、アクセスいただけます）
-
-実際の動作
-https://160.16.12...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9bc0a7a0a68b50c8e138</id>
@@ -683,6 +683,19 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 その...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3795769451ab003b6ee7</id>
+    <title>自然言語からSQLは魔法ではない</title>
+    <link rel="alternate" href="https://qiita.com/engchina/items/3795769451ab003b6ee7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-22T07:53:40+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T11:08:09+09:00&lt;br/&gt;Updated: 2026-01-22T07:53:40+09:00&lt;br/&gt;― 業務要望に応えるために「設計とカスタマイズ開発」が不可欠な理由
+生成AIの進化により、「自然言語からSQLを生成できる」という話をよく耳にするようになりました。
+一見すると、
+
+テーブル定義書をAIに渡せば、業務ユーザーの質問をそのままSQLに変換してくれる
+
+ように...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c241b9c10d259a9b4efc</id>
     <title>AWS初心者がAmazon Connectで簡単なコールセンターを構築した話</title>
     <link rel="alternate" href="https://qiita.com/tks_1128/items/c241b9c10d259a9b4efc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -692,19 +705,6 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 皆さんAmazon Connectはご存知でしょうか？
 私は昨年のAWS Summitで初めてこのサービスを知りました。
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3795769451ab003b6ee7</id>
-    <title>自然言語からSQLは魔法ではない</title>
-    <link rel="alternate" href="https://qiita.com/engchina/items/3795769451ab003b6ee7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-22T07:53:40+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T11:08:09+09:00&lt;br/&gt;Updated: 2026-01-22T07:53:40+09:00&lt;br/&gt;― 業務要望に応えるために「設計とカスタマイズ開発」が不可欠な理由
-生成AIの進化により、「自然言語からSQLを生成できる」という話をよく耳にするようになりました。
-一見すると、
-
-テーブル定義書をAIに渡せば、業務ユーザーの質問をそのままSQLに変換してくれる
-
-ように...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:96b53404478f318c5544</id>
@@ -777,6 +777,15 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3ccede58154d3d4e6724</id>
+    <title>仕事を構造化する実践ノウハウ</title>
+    <link rel="alternate" href="https://qiita.com/kimuni-i/items/3ccede58154d3d4e6724?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-20T15:53:08+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuni-i&quot;&gt;kimuni-i&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T15:16:50+09:00&lt;br/&gt;Updated: 2026-01-20T15:53:08+09:00&lt;br/&gt;はじめに
+要件定義書の作成に悩んでいませんか？「何を書けばいいかわからない」「後工程で使いにくいと言われる」「ステークホルダーとの認識がズレる」——こうした課題は、要件定義書の構造化で大きく改善できます。
+今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4d28c47b1b6f7ef727cf</id>
     <title>【ポケモン×Java】知識編 ERROR #6 実行時エラーを防止するには？</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/4d28c47b1b6f7ef727cf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -795,13 +804,14 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 この章では、「どう直すか...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3ccede58154d3d4e6724</id>
-    <title>仕事を構造化する実践ノウハウ</title>
-    <link rel="alternate" href="https://qiita.com/kimuni-i/items/3ccede58154d3d4e6724?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T15:53:08+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuni-i&quot;&gt;kimuni-i&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T15:16:50+09:00&lt;br/&gt;Updated: 2026-01-20T15:53:08+09:00&lt;br/&gt;はじめに
-要件定義書の作成に悩んでいませんか？「何を書けばいいかわからない」「後工程で使いにくいと言われる」「ステークホルダーとの認識がズレる」——こうした課題は、要件定義書の構造化で大きく改善できます。
-今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
+    <id>tag:qiita.com,2026:0800689e72d30fb554d7</id>
+    <title>VS Code開発効率を最大化するキーボード操作術【Mac編】</title>
+    <link rel="alternate" href="https://qiita.com/Yamashita_Sosuke/items/0800689e72d30fb554d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-20T15:10:04+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Yamashita_Sosuke&quot;&gt;Yamashita_Sosuke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T15:10:04+09:00&lt;br/&gt;Updated: 2026-01-20T15:10:04+09:00&lt;br/&gt;はじめに
+開発効率を向上させる上で、エディタの操作速度は無視できない要素です。
+思考と実装のタイムラグを最小限に抑えるためには、キーボードとマウス・トラックパッドの切り替えを減らし、ホームポジションからできるだけ離れずに操作を完結させることが重要です！⌨️
+本記事では、m...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:90697508c14d8f2a5afe</id>
@@ -861,16 +871,6 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 2025年12月現在&quot;C++26&quot;はISO/IEC標準規格としては未発行のため、代わりに最新Working Draft N5032（2025-12-15）を参照しています。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0800689e72d30fb554d7</id>
-    <title>VS Code開発効率を最大化するキーボード操作術【Mac編】</title>
-    <link rel="alternate" href="https://qiita.com/Yamashita_Sosuke/items/0800689e72d30fb554d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T15:10:04+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Yamashita_Sosuke&quot;&gt;Yamashita_Sosuke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T15:10:04+09:00&lt;br/&gt;Updated: 2026-01-20T15:10:04+09:00&lt;br/&gt;はじめに
-開発効率を向上させる上で、エディタの操作速度は無視できない要素です。
-思考と実装のタイムラグを最小限に抑えるためには、キーボードとマウス・トラックパッドの切り替えを減らし、ホームポジションからできるだけ離れずに操作を完結させることが重要です！⌨️
-本記事では、m...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
