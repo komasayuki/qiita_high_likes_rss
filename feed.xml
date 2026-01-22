@@ -11,7 +11,7 @@
     <title>【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた</title>
     <link rel="alternate" href="https://qiita.com/ot12/items/66e7c07c459e3bb7082d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-20T06:44:50+09:00</updated>
-    <summary type="html">Likes: 305&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
+    <summary type="html">Likes: 310&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
 彼が実践しているのは、単なるツールの使いこなしではありません。 人間自身のCPUをマ...</summary>
   </entry>
   <entry>
@@ -162,7 +162,7 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
     <title>先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。【前編】</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/f5e8cb0c1b2e1145e852?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-20T13:12:47+09:00</updated>
-    <summary type="html">Likes: 101&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T13:12:47+09:00&lt;br/&gt;Updated: 2026-01-20T13:12:47+09:00&lt;br/&gt;人はなぜ忘れるのか。初めての現場で学びが「点」になる理由
+    <summary type="html">Likes: 104&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T13:12:47+09:00&lt;br/&gt;Updated: 2026-01-20T13:12:47+09:00&lt;br/&gt;人はなぜ忘れるのか。初めての現場で学びが「点」になる理由
 ― 記憶の科学と、現場構造のすれ違い ―
 
 はじめまして。
@@ -564,6 +564,21 @@ C#で非同期処理を組み立てていると、タスク間でデータを受
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
+    <title>https://2685434919 と https://160.16.124.39 はSameOriginか</title>
+    <link rel="alternate" href="https://qiita.com/flano_yuki/items/e038be1a66448aaf594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-20T23:21:30+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/flano_yuki&quot;&gt;flano_yuki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T22:57:35+09:00&lt;br/&gt;Updated: 2026-01-20T23:21:30+09:00&lt;br/&gt;これらのURLはSameOriginか？
+
+https://2685434919
+https://160.16.124.39
+
+（IPアドレスだと分かりづらいですが、僕個人サイトのIPアドレスですので、アクセスいただけます）
+
+実際の動作
+https://160.16.12...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:01de1ee21d2491c54450</id>
     <title>ハッカー視点で語る「Initial Access（初期侵入）」 〜 派手なExploitより、地味なパスワードが最強 〜</title>
     <link rel="alternate" href="https://qiita.com/tkmiii_GiGOOO/items/01de1ee21d2491c54450?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -579,21 +594,6 @@ Channel は、こうした「ステージ間の受け渡し」を .NET らしい
 私はこれまで、社内向けに 業務自動化・業務効率化ツール をいくつも作ってきました。
 Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組み合わせて、「人の仕事を楽にする」ためのツールを作ってきました。
 ただ、そ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
-    <title>https://2685434919 と https://160.16.124.39 はSameOriginか</title>
-    <link rel="alternate" href="https://qiita.com/flano_yuki/items/e038be1a66448aaf594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T23:21:30+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/flano_yuki&quot;&gt;flano_yuki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T22:57:35+09:00&lt;br/&gt;Updated: 2026-01-20T23:21:30+09:00&lt;br/&gt;これらのURLはSameOriginか？
-
-https://2685434919
-https://160.16.124.39
-
-（IPアドレスだと分かりづらいですが、僕個人サイトのIPアドレスですので、アクセスいただけます）
-
-実際の動作
-https://160.16.12...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b1726a7a6054ed7e64df</id>
@@ -1046,6 +1046,18 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 そんな私が、生成AI（ChatGPT / Cla...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:864a49b93bbfaa7672ae</id>
+    <title>&quot;セキュリティ投資&quot;は&quot;投資&quot;か？を本気で考える</title>
+    <link rel="alternate" href="https://qiita.com/f_0000/items/864a49b93bbfaa7672ae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-21T01:15:16+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/f_0000&quot;&gt;f_0000&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T01:09:10+09:00&lt;br/&gt;Updated: 2026-01-21T01:15:16+09:00&lt;br/&gt;はじめに
+「企業はサイバーセキュリティへの投資を増やさなくてはいけない」
+「サイバーセキュリティへ投資することが企業の成長にとって重要である」
+「サイバーセキュリティはコストではなく投資」
+こんな言葉を目にしたことがある人は多いのではないだろうか。
+何年も業界に携わる中で...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1a0c2e84dd0898a088ad</id>
     <title>IPA高度区分試験攻略法(PM/ST/AU)── と思ったらまさかの試験区分再編！</title>
     <link rel="alternate" href="https://qiita.com/dais_cw/items/1a0c2e84dd0898a088ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1198,16 +1210,17 @@ TCPとUDPの違い
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:864a49b93bbfaa7672ae</id>
-    <title>&quot;セキュリティ投資&quot;は&quot;投資&quot;か？を本気で考える</title>
-    <link rel="alternate" href="https://qiita.com/f_0000/items/864a49b93bbfaa7672ae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-21T01:15:16+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/f_0000&quot;&gt;f_0000&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T01:09:10+09:00&lt;br/&gt;Updated: 2026-01-21T01:15:16+09:00&lt;br/&gt;はじめに
-「企業はサイバーセキュリティへの投資を増やさなくてはいけない」
-「サイバーセキュリティへ投資することが企業の成長にとって重要である」
-「サイバーセキュリティはコストではなく投資」
-こんな言葉を目にしたことがある人は多いのではないだろうか。
-何年も業界に携わる中で...</summary>
+    <id>tag:qiita.com,2026:3f76045c4b7696744fb3</id>
+    <title>個人開発のAIアプリをServerless化したら月額$7で運用できた件</title>
+    <link rel="alternate" href="https://qiita.com/JaminL/items/3f76045c4b7696744fb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-20T08:34:58+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/JaminL&quot;&gt;JaminL&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T08:34:58+09:00&lt;br/&gt;Updated: 2026-01-20T08:34:58+09:00&lt;br/&gt;TL;DR
+
+月額約$7でAIアプリをフルスタック運用できた
+Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最強
+固定費を避けてServerless構成にすれば、個人開発でも安心
+
+はじめに...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7941e8cef7227328a664</id>
@@ -1282,17 +1295,18 @@ X（旧Twitter）で海外Tech動画を日々紹介してるKoderです!
 そこで今回は、Qiitaの記事と...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3f76045c4b7696744fb3</id>
-    <title>個人開発のAIアプリをServerless化したら月額$7で運用できた件</title>
-    <link rel="alternate" href="https://qiita.com/JaminL/items/3f76045c4b7696744fb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T08:34:58+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/JaminL&quot;&gt;JaminL&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T08:34:58+09:00&lt;br/&gt;Updated: 2026-01-20T08:34:58+09:00&lt;br/&gt;TL;DR
+    <id>tag:qiita.com,2026:57fb0da7257d9875409c</id>
+    <title>Bedrock AgentCoreのデプロイツールがTypeScriptに対応！ 宇宙最速で試してみた</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/57fb0da7257d9875409c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-21T19:02:51+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T10:28:47+09:00&lt;br/&gt;Updated: 2026-01-21T19:02:51+09:00&lt;br/&gt;これを試します。
 
-月額約$7でAIアプリをフルスタック運用できた
-Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最強
-固定費を避けてServerless構成にすれば、個人開発でも安心
+開発
+メインのAIエージェントをTypeScriptで作成します。
+Strands AgentsのTypeScript版を、AgentCoreランタイムの要件に従ってExpress.jsでAPIサーバー化しています。
 
-はじめに...</summary>
+index.ts
+impor...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:042e1fdb7522289d362f</id>
@@ -1371,20 +1385,6 @@ Emacs備忘録（２０２４年版）という記事を投稿してから２年
     <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/_YukiOgawa&quot;&gt;_YukiOgawa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T16:35:57+09:00&lt;br/&gt;Updated: 2026-01-05T16:35:57+09:00&lt;br/&gt;はじめに
 boto3を使ったPythonアプリケーションで、aws loginコマンドで認証したのに、15分くらいで「クレデンシャルが期限切れです」というエラーが出て困っていました。
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:57fb0da7257d9875409c</id>
-    <title>Bedrock AgentCoreのデプロイツールがTypeScriptに対応！ 宇宙最速で試してみた</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/57fb0da7257d9875409c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-21T19:02:51+09:00</updated>
-    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T10:28:47+09:00&lt;br/&gt;Updated: 2026-01-21T19:02:51+09:00&lt;br/&gt;これを試します。
-
-開発
-メインのAIエージェントをTypeScriptで作成します。
-Strands AgentsのTypeScript版を、AgentCoreランタイムの要件に従ってExpress.jsでAPIサーバー化しています。
-
-index.ts
-impor...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ebc80c98904a43ffba74</id>
