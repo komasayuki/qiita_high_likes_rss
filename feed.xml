@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-23T13:38:51+09:00</updated>
+  <updated>2026-01-23T14:52:33+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -100,7 +100,7 @@ Canva で誤字脱字を修正（Nano Ban...</summary>
     <title>先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。【前編】</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/f5e8cb0c1b2e1145e852?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-20T13:12:47+09:00</updated>
-    <summary type="html">Likes: 131&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T13:12:47+09:00&lt;br/&gt;Updated: 2026-01-20T13:12:47+09:00&lt;br/&gt;人はなぜ忘れるのか。初めての現場で学びが「点」になる理由
+    <summary type="html">Likes: 132&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T13:12:47+09:00&lt;br/&gt;Updated: 2026-01-20T13:12:47+09:00&lt;br/&gt;人はなぜ忘れるのか。初めての現場で学びが「点」になる理由
 ― 記憶の科学と、現場構造のすれ違い ―
 
 はじめまして。
@@ -552,6 +552,15 @@ Web API（REST API）という言葉を聞いたことがある方
 バックエンド開発に興味があり、最...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:540e9c60095243a888d3</id>
+    <title>Claude Codeを使いこなす完全ガイド - 生産性を劇的に向上させるテクニック</title>
+    <link rel="alternate" href="https://qiita.com/koras7788/items/540e9c60095243a888d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-21T17:55:41+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/koras7788&quot;&gt;koras7788&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:47:41+09:00&lt;br/&gt;Updated: 2026-01-21T17:55:41+09:00&lt;br/&gt;Claude Codeは、AI支援による開発体験を提供する強力なツールです。しかし、多くの機能が隠れているため、その真価を十分に活用できていないユーザーも少なくありません。この記事では、作業効率を大幅に向上させる実践的なテクニックを4つのカテゴリーに分けて紹介します。
+
+1...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:acc22c05c66826289f11</id>
     <title>【ポケモン×Java】Lv15：『ピカチュウも、ヒトカゲも、、、』～抽象化～</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/acc22c05c66826289f11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -587,15 +596,6 @@ PRUMについて気になった方は、
 C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
 
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:540e9c60095243a888d3</id>
-    <title>Claude Codeを使いこなす完全ガイド - 生産性を劇的に向上させるテクニック</title>
-    <link rel="alternate" href="https://qiita.com/koras7788/items/540e9c60095243a888d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-21T17:55:41+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/koras7788&quot;&gt;koras7788&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:47:41+09:00&lt;br/&gt;Updated: 2026-01-21T17:55:41+09:00&lt;br/&gt;Claude Codeは、AI支援による開発体験を提供する強力なツールです。しかし、多くの機能が隠れているため、その真価を十分に活用できていないユーザーも少なくありません。この記事では、作業効率を大幅に向上させる実践的なテクニックを4つのカテゴリーに分けて紹介します。
-
-1...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:01de1ee21d2491c54450</id>
@@ -1088,6 +1088,17 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d435d9dd7ca1c1329483</id>
+    <title>デザインの「沼」を抜けるための視点リセット術🧠⚡</title>
+    <link rel="alternate" href="https://qiita.com/GIFCat/items/d435d9dd7ca1c1329483?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-22T09:02:20+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GIFCat&quot;&gt;GIFCat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T09:02:20+09:00&lt;br/&gt;Updated: 2026-01-22T09:02:20+09:00&lt;br/&gt;数時間かけて1pxの移動を繰り返しているとき、脳は画面と癒着して、客観的な判断力を失っています。
+そうなれば、もう「頑張る」のは逆効果。
+麻痺した脳を物理的にハッキングして、他人の目（初見の感覚）を取り戻すためのリセット術をまとめました。
+
+1. 【セルフ診断】客観性を失っ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:864a49b93bbfaa7672ae</id>
     <title>&quot;セキュリティ投資&quot;は&quot;投資&quot;か？を本気で考える</title>
     <link rel="alternate" href="https://qiita.com/f_0000/items/864a49b93bbfaa7672ae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1140,17 +1151,6 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 はじめまして。東海地区で建築設計事務所を経営している建築士です。
 いきなりですが、私はプログラミングの知識はゼロです。Pythonは「ヘビの種類？」だと思っていました。
 そんな私が、生成AI（ChatGPT / Cla...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d435d9dd7ca1c1329483</id>
-    <title>デザインの「沼」を抜けるための視点リセット術🧠⚡</title>
-    <link rel="alternate" href="https://qiita.com/GIFCat/items/d435d9dd7ca1c1329483?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-22T09:02:20+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GIFCat&quot;&gt;GIFCat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T09:02:20+09:00&lt;br/&gt;Updated: 2026-01-22T09:02:20+09:00&lt;br/&gt;数時間かけて1pxの移動を繰り返しているとき、脳は画面と癒着して、客観的な判断力を失っています。
-そうなれば、もう「頑張る」のは逆効果。
-麻痺した脳を物理的にハッキングして、他人の目（初見の感覚）を取り戻すためのリセット術をまとめました。
-
-1. 【セルフ診断】客観性を失っ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:57fb0da7257d9875409c</id>
@@ -1592,8 +1592,8 @@ if / elsif / else のような条件分岐が増える
     <id>tag:qiita.com,2026:09d4c1b61ef08bd68169</id>
     <title>【10個のツールを渡り歩いた結論】メモツール難民を卒業した話｜VSCode＋拡張機能で情報整理が劇的に変わった</title>
     <link rel="alternate" href="https://qiita.com/Shimoide0714/items/09d4c1b61ef08bd68169?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-21T19:49:16+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Shimoide0714&quot;&gt;Shimoide0714&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T19:49:14+09:00&lt;br/&gt;Updated: 2026-01-21T19:49:16+09:00&lt;br/&gt;📝 はじめに
+    <updated>2026-01-23T14:52:33+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Shimoide0714&quot;&gt;Shimoide0714&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T19:49:14+09:00&lt;br/&gt;Updated: 2026-01-23T14:52:33+09:00&lt;br/&gt;📝 はじめに
 こんにちは。Dirbatoの下出です！
 PMとして日々、会議の議事録、タスク整理、アイデアメモ、仕様の整理など、膨大な情報と格闘しています。
 PMにとって「情報整理」は生命線です。どのツールを使えばいいのか、どう書けば後から探しやすいのか——この問いに対する...</summary>
@@ -1772,6 +1772,16 @@ Rust の標準ライブラリには直接のユーティリティはありませ
 ちょっと大げさなタイトルですが、囲碁に興味ある方、個人開発に興味のある方等々、少しでも興味を持っていただけたら幸いです。
 
 実業団囲碁大会とは...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:03045dd62c2f1c0f4c04</id>
+    <title>海外で注目されている OSS「Clawdbot」入門  - LocalLLM前提のAIアシスタント紹介 -</title>
+    <link rel="alternate" href="https://qiita.com/xhackjp1/items/03045dd62c2f1c0f4c04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-22T09:11:10+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/xhackjp1&quot;&gt;xhackjp1&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T08:45:13+09:00&lt;br/&gt;Updated: 2026-01-22T09:11:10+09:00&lt;br/&gt;はじめに
+Clawdbot（clawd.bot）は、海外のOSSコミュニティで急速に注目を集めている
+Self-hosted / LocalLLM前提 のAIアシスタントです。
+2025年12月に公開されたばかりですが、2026年1月時点でGitHubスター数は5,000...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ee412628917fe2fc3e45</id>
