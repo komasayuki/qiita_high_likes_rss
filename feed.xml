@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-23T14:52:33+09:00</updated>
+  <updated>2026-01-23T17:57:20+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -416,6 +416,16 @@ https://160.16.12...</summary>
 最初はQiitaのContributionと記事...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ce2327852cef06f5f2ab</id>
+    <title>本当に使える！海外Tech動画爆速キャッチアップ術まとめ</title>
+    <link rel="alternate" href="https://qiita.com/Koder_dev/items/ce2327852cef06f5f2ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-21T19:18:40+09:00</updated>
+    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Koder_dev&quot;&gt;Koder_dev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T19:18:40+09:00&lt;br/&gt;Updated: 2026-01-21T19:18:40+09:00&lt;br/&gt;はじめに
+X（旧Twitter）で海外Tech動画を日々紹介してるKoderです!
+普段から毎日のように、英語のエンジニア向け動画や役立つネタを発信してるんですが、最近「どうやって情報集めてるの？」って聞かれることがかなり増えてきました。
+そこで今回は、Qiitaの記事と...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:85b419b26b2886f5e2d6</id>
     <title>ローカルLLMサーバーの実用的な使い道の検討</title>
     <link rel="alternate" href="https://qiita.com/bd8z/items/85b419b26b2886f5e2d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -435,16 +445,6 @@ Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、い
 
 CLAUDE.md
 サブエー...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ce2327852cef06f5f2ab</id>
-    <title>本当に使える！海外Tech動画爆速キャッチアップ術まとめ</title>
-    <link rel="alternate" href="https://qiita.com/Koder_dev/items/ce2327852cef06f5f2ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-21T19:18:40+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Koder_dev&quot;&gt;Koder_dev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T19:18:40+09:00&lt;br/&gt;Updated: 2026-01-21T19:18:40+09:00&lt;br/&gt;はじめに
-X（旧Twitter）で海外Tech動画を日々紹介してるKoderです!
-普段から毎日のように、英語のエンジニア向け動画や役立つネタを発信してるんですが、最近「どうやって情報集めてるの？」って聞かれることがかなり増えてきました。
-そこで今回は、Qiitaの記事と...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c8907eddfe84881cdc3c</id>
@@ -854,8 +854,8 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
     <id>tag:qiita.com,2026:0990ec75925499981100</id>
     <title>【AWS未経験】1年でCFP → SAA → SAPに一発合格した勉強法</title>
     <link rel="alternate" href="https://qiita.com/kakerucc/items/0990ec75925499981100?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-23T13:38:51+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kakerucc&quot;&gt;kakerucc&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T12:06:42+09:00&lt;br/&gt;Updated: 2026-01-23T13:38:51+09:00&lt;br/&gt;はじめに
+    <updated>2026-01-23T17:52:18+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kakerucc&quot;&gt;kakerucc&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T12:06:42+09:00&lt;br/&gt;Updated: 2026-01-23T17:52:18+09:00&lt;br/&gt;はじめに
 こんにちは。AWS資格に挑戦したエンジニアです。
 簡単に自己紹介すると、
 
@@ -863,6 +863,20 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 サーバ/インフラエンジニア
 2024年度からAWS / Kubernetes を中心に、設計・検証・PoCを担当
 業務ではクラウドネイティブ技術を使ったシステム設計を...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9093f26b1df1f747f544</id>
+    <title>Rustでコンピューターグラフィックスの基礎を学ぶ その1</title>
+    <link rel="alternate" href="https://qiita.com/sumikawa@github/items/9093f26b1df1f747f544?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-21T14:24:01+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumikawa@github&quot;&gt;sumikawa@github&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T02:29:29+09:00&lt;br/&gt;Updated: 2026-01-21T14:24:01+09:00&lt;br/&gt;はじめに
+学生時代から今まで、CGのアルゴリズムを学ぶ機会がなかったので、Rustの勉強がてらプログラムを書いてみる。
+まずはレイトレーシングを学ぶ。
+方針は下記
+
+週末レイトレーシングを順番にやっていく
+C++の代わりにRustで記述する
+書いてみるといいつつAIには...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4d28c47b1b6f7ef727cf</id>
@@ -881,20 +895,6 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 バトルの最中にゲームがフリーズする状態。
 止まる以上、「あとで考えよう」はできません。
 この章では、「どう直すか...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9093f26b1df1f747f544</id>
-    <title>Rustでコンピューターグラフィックスの基礎を学ぶ その1</title>
-    <link rel="alternate" href="https://qiita.com/sumikawa@github/items/9093f26b1df1f747f544?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-21T14:24:01+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumikawa@github&quot;&gt;sumikawa@github&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T02:29:29+09:00&lt;br/&gt;Updated: 2026-01-21T14:24:01+09:00&lt;br/&gt;はじめに
-学生時代から今まで、CGのアルゴリズムを学ぶ機会がなかったので、Rustの勉強がてらプログラムを書いてみる。
-まずはレイトレーシングを学ぶ。
-方針は下記
-
-週末レイトレーシングを順番にやっていく
-C++の代わりにRustで記述する
-書いてみるといいつつAIには...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:90697508c14d8f2a5afe</id>
@@ -988,6 +988,17 @@ FPGAとマイコンを1ボードに搭載
 Google Colabで手軽に試せるの...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d435d9dd7ca1c1329483</id>
+    <title>デザインの「沼」を抜けるための視点リセット術🧠⚡</title>
+    <link rel="alternate" href="https://qiita.com/GIFCat/items/d435d9dd7ca1c1329483?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-22T09:02:20+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GIFCat&quot;&gt;GIFCat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T09:02:20+09:00&lt;br/&gt;Updated: 2026-01-22T09:02:20+09:00&lt;br/&gt;数時間かけて1pxの移動を繰り返しているとき、脳は画面と癒着して、客観的な判断力を失っています。
+そうなれば、もう「頑張る」のは逆効果。
+麻痺した脳を物理的にハッキングして、他人の目（初見の感覚）を取り戻すためのリセット術をまとめました。
+
+1. 【セルフ診断】客観性を失っ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c130168ca3fc0f1f6aaa</id>
     <title>Claude Codeに別のAIエージェント（Codex等）を相談役として付けてみた</title>
     <link rel="alternate" href="https://qiita.com/hiropon122/items/c130168ca3fc0f1f6aaa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1002,15 +1013,16 @@ Claude Codeには日頃から大変お世話になっていますが、完全に
 完了時...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:d435d9dd7ca1c1329483</id>
-    <title>デザインの「沼」を抜けるための視点リセット術🧠⚡</title>
-    <link rel="alternate" href="https://qiita.com/GIFCat/items/d435d9dd7ca1c1329483?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-22T09:02:20+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GIFCat&quot;&gt;GIFCat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T09:02:20+09:00&lt;br/&gt;Updated: 2026-01-22T09:02:20+09:00&lt;br/&gt;数時間かけて1pxの移動を繰り返しているとき、脳は画面と癒着して、客観的な判断力を失っています。
-そうなれば、もう「頑張る」のは逆効果。
-麻痺した脳を物理的にハッキングして、他人の目（初見の感覚）を取り戻すためのリセット術をまとめました。
+    <id>tag:qiita.com,2026:5f11084c98d32d86248d</id>
+    <title>【2026最新】BedrockでRAGとエージェント作って、Amplifyから呼ぼう！ 維持費ほぼ無料!?</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/5f11084c98d32d86248d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-23T17:57:20+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T04:45:34+09:00&lt;br/&gt;Updated: 2026-01-23T17:57:20+09:00&lt;br/&gt;AWSの生成AIサービス、Amazon Bedrockを使った最も基本的な機能の最新ハンズオンです。
 
-1. 【セルフ診断】客観性を失っ...</summary>
+Bedrockナレッジベース（RAG構築機能）
+Bedrockエージェント（AIエージェント構築機能）
+
+AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:791c78879e690b7c8cd2</id>
@@ -1051,18 +1063,6 @@ Pythonで学ぶ Webアプリのセキュアコーディング 脆弱性の見つ
 Power Automate を触っていて実行結果（履歴）を確認してみると、以下の画像の「出力」のように、何やら不思議な文字列の「かたまり」を目にしたことがあるかもしれません。
 
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5f11084c98d32d86248d</id>
-    <title>【2026最新】BedrockでRAGとエージェント作って、Amplifyから呼ぼう！ 維持費ほぼ無料!?</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/5f11084c98d32d86248d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-23T12:37:00+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T04:45:34+09:00&lt;br/&gt;Updated: 2026-01-23T12:37:00+09:00&lt;br/&gt;AWSの生成AIサービス、Amazon Bedrockを使った最も基本的な機能の最新ハンズオンです。
-
-Bedrockナレッジベース（RAG構築機能）
-Bedrockエージェント（AIエージェント構築機能）
-
-AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0a2f110216f4d00f295c</id>
@@ -1329,6 +1329,15 @@ Mozilla Pocket が 2025/07/08 に終了してしまい「じゃあ自分専用�
   https://...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ec3575db1f0a8755896e</id>
+    <title>Synology NASで「自分専用の自動化サーバー(n8n)」を立ち上げる方法（Docker入門）</title>
+    <link rel="alternate" href="https://qiita.com/TaichiEndoh/items/ec3575db1f0a8755896e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-21T13:30:00+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TaichiEndoh&quot;&gt;TaichiEndoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T18:24:13+09:00&lt;br/&gt;Updated: 2026-01-21T13:30:00+09:00&lt;br/&gt;はじめに
+「NAS（ナス）」というと、写真や書類を保存する「デジタル金庫」だと思っていませんか？ 実は、Synology製のNASは、スマホのようにアプリを入れて動かせる「小さなパソコン」 でもあるんです。
+今回は、このNASの中に 「n8n（エヌエイトエヌ）」 という最...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7941e8cef7227328a664</id>
     <title>【個人開発】サーバー代0円！GitHub ActionsとPythonで「完全自動更新」なWebサイトを作る技術（Google Maps &amp; Threads API活用）</title>
     <link rel="alternate" href="https://qiita.com/kazesift/items/7941e8cef7227328a664?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1400,15 +1409,6 @@ CSVファイルに書き込んで
 「容量不足だから掃除アプリを入れる」← これ、本末転倒じゃないですか？
 Macのストレージ容量が90%を超えて警告が出始めると、焦って「Mac クリーンアップ アプリ」とかで検索しがちですよね。
 でも、「ゴミを捨て...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ec3575db1f0a8755896e</id>
-    <title>Synology NASで「自分専用の自動化サーバー(n8n)」を立ち上げる方法（Docker入門）</title>
-    <link rel="alternate" href="https://qiita.com/TaichiEndoh/items/ec3575db1f0a8755896e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-21T13:30:00+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TaichiEndoh&quot;&gt;TaichiEndoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T18:24:13+09:00&lt;br/&gt;Updated: 2026-01-21T13:30:00+09:00&lt;br/&gt;はじめに
-「NAS（ナス）」というと、写真や書類を保存する「デジタル金庫」だと思っていませんか？ 実は、Synology製のNASは、スマホのようにアプリを入れて動かせる「小さなパソコン」 でもあるんです。
-今回は、このNASの中に 「n8n（エヌエイトエヌ）」 という最...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:042e1fdb7522289d362f</id>
@@ -1620,6 +1620,16 @@ if / elsif / else のような条件分岐が増える
 そして、個人開発ではStreamlit + L...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:03045dd62c2f1c0f4c04</id>
+    <title>海外で注目されている OSS「Clawdbot」入門  - LocalLLM前提のAIアシスタント紹介 -</title>
+    <link rel="alternate" href="https://qiita.com/xhackjp1/items/03045dd62c2f1c0f4c04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-22T09:11:10+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/xhackjp1&quot;&gt;xhackjp1&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T08:45:13+09:00&lt;br/&gt;Updated: 2026-01-22T09:11:10+09:00&lt;br/&gt;はじめに
+Clawdbot（clawd.bot）は、海外のOSSコミュニティで急速に注目を集めている
+Self-hosted / LocalLLM前提 のAIアシスタントです。
+2025年12月に公開されたばかりですが、2026年1月時点でGitHubスター数は5,000...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e296c386caffca33f780</id>
     <title>巨大なファイル検索も、広範囲の検索も、grepにはripgrepを使おう</title>
     <link rel="alternate" href="https://qiita.com/_nag/items/e296c386caffca33f780?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1784,6 +1794,15 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:bb975270517295716af3</id>
+    <title>【2026年最新】1万件のQiita記事を分析して分かった「ブログのトレンド」の法則まとめ</title>
+    <link rel="alternate" href="https://qiita.com/GIFCat/items/bb975270517295716af3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-23T08:58:03+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GIFCat&quot;&gt;GIFCat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T08:58:03+09:00&lt;br/&gt;Updated: 2026-01-23T08:58:03+09:00&lt;br/&gt;*こちらの記事は、英語から日本語へ翻訳をしています。
+English Original Text
+I’m Anshika Kankane, a data scientist at GIFTech, and I’m back with a project that’s a ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:192ddb7691de4beef605</id>
     <title>GASとGoogleFormで実業団囲碁大会をDX！</title>
     <link rel="alternate" href="https://qiita.com/ebichan_88/items/192ddb7691de4beef605?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1793,16 +1812,6 @@ Rust の標準ライブラリには直接のユーティリティはありませ
 ちょっと大げさなタイトルですが、囲碁に興味ある方、個人開発に興味のある方等々、少しでも興味を持っていただけたら幸いです。
 
 実業団囲碁大会とは...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:03045dd62c2f1c0f4c04</id>
-    <title>海外で注目されている OSS「Clawdbot」入門  - LocalLLM前提のAIアシスタント紹介 -</title>
-    <link rel="alternate" href="https://qiita.com/xhackjp1/items/03045dd62c2f1c0f4c04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-22T09:11:10+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/xhackjp1&quot;&gt;xhackjp1&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T08:45:13+09:00&lt;br/&gt;Updated: 2026-01-22T09:11:10+09:00&lt;br/&gt;はじめに
-Clawdbot（clawd.bot）は、海外のOSSコミュニティで急速に注目を集めている
-Self-hosted / LocalLLM前提 のAIアシスタントです。
-2025年12月に公開されたばかりですが、2026年1月時点でGitHubスター数は5,000...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a48f39726fc428292466</id>
