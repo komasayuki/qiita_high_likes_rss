@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-23T17:57:20+09:00</updated>
+  <updated>2026-01-23T23:05:22+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -337,6 +337,16 @@ AIがデザインし、コードを書いたアプリが、
 AIには、日本語で相当うるさく指...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ce2327852cef06f5f2ab</id>
+    <title>本当に使える！海外Tech動画爆速キャッチアップ術まとめ</title>
+    <link rel="alternate" href="https://qiita.com/Koder_dev/items/ce2327852cef06f5f2ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-21T19:18:40+09:00</updated>
+    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Koder_dev&quot;&gt;Koder_dev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T19:18:40+09:00&lt;br/&gt;Updated: 2026-01-21T19:18:40+09:00&lt;br/&gt;はじめに
+X（旧Twitter）で海外Tech動画を日々紹介してるKoderです!
+普段から毎日のように、英語のエンジニア向け動画や役立つネタを発信してるんですが、最近「どうやって情報集めてるの？」って聞かれることがかなり増えてきました。
+そこで今回は、Qiitaの記事と...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cb76efb490898c778a45</id>
     <title>Antigravityのスキルで、実装・レビュー・修正まで一貫してできるようになった話</title>
     <link rel="alternate" href="https://qiita.com/ho-rai/items/cb76efb490898c778a45?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -359,16 +369,6 @@ AIには、日本語で相当うるさく指...</summary>
     <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T11:35:04+09:00&lt;br/&gt;Updated: 2026-01-07T11:40:06+09:00&lt;br/&gt;インターネットが開発されてからWebサイトができるまで
 インターネットの始まりは1969年。
 米国防総省のARPA（高等研究計画局）という機関が4台のコンピュータを繋いだのがはじまりです。3つの大学と、スタンフォード研究所（SRI）などの研究機関で繋がれており、ARPAN...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ce2327852cef06f5f2ab</id>
-    <title>本当に使える！海外Tech動画爆速キャッチアップ術まとめ</title>
-    <link rel="alternate" href="https://qiita.com/Koder_dev/items/ce2327852cef06f5f2ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-21T19:18:40+09:00</updated>
-    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Koder_dev&quot;&gt;Koder_dev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T19:18:40+09:00&lt;br/&gt;Updated: 2026-01-21T19:18:40+09:00&lt;br/&gt;はじめに
-X（旧Twitter）で海外Tech動画を日々紹介してるKoderです!
-普段から毎日のように、英語のエンジニア向け動画や役立つネタを発信してるんですが、最近「どうやって情報集めてるの？」って聞かれることがかなり増えてきました。
-そこで今回は、Qiitaの記事と...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
@@ -471,6 +471,16 @@ CLAUDE.md
 Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e21155fe84a5beb4782d</id>
+    <title>素人質問が大好きな教授にコードレビューを頼んでみた結果</title>
+    <link rel="alternate" href="https://qiita.com/i-inose/items/e21155fe84a5beb4782d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-21T23:20:09+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/i-inose&quot;&gt;i-inose&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T23:20:09+09:00&lt;br/&gt;Updated: 2026-01-21T23:20:09+09:00&lt;br/&gt;はじめに
+こんにちは、いのせです。
+最近はAIの進化が止まることなく、AIを使ってコーディングするのが当たり前な時代になりましたね。
+GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場し、コードを書く速度は格段に上がったと思いま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cb29c3208ac188dad5f1</id>
     <title>OCIのノーコード・エージェントビルダー『Agent Factory』がリリース！触ってみた</title>
     <link rel="alternate" href="https://qiita.com/yushibats/items/cb29c3208ac188dad5f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -504,16 +514,6 @@ OCI Market...</summary>
 「Generative UI」という単語をご存知でしょうか？
 Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e21155fe84a5beb4782d</id>
-    <title>素人質問が大好きな教授にコードレビューを頼んでみた結果</title>
-    <link rel="alternate" href="https://qiita.com/i-inose/items/e21155fe84a5beb4782d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-21T23:20:09+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/i-inose&quot;&gt;i-inose&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T23:20:09+09:00&lt;br/&gt;Updated: 2026-01-21T23:20:09+09:00&lt;br/&gt;はじめに
-こんにちは、いのせです。
-最近はAIの進化が止まることなく、AIを使ってコーディングするのが当たり前な時代になりましたね。
-GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場し、コードを書く速度は格段に上がったと思いま...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9a2e5c163b46d81e1f62</id>
@@ -847,6 +847,18 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5f11084c98d32d86248d</id>
+    <title>【2026最新】BedrockでRAGとエージェント作って、Amplifyから呼ぼう！ 維持費ほぼ無料!?</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/5f11084c98d32d86248d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-23T22:42:18+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T04:45:34+09:00&lt;br/&gt;Updated: 2026-01-23T22:42:18+09:00&lt;br/&gt;AWSの生成AIサービス、Amazon Bedrockを使った最も基本的な機能の最新ハンズオンです。
+
+Bedrockナレッジベース（RAG構築機能）
+Bedrockエージェント（AIエージェント構築機能）
+
+AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b6019ae2702c58f98bea</id>
     <title>お名前.comの罠にハマった私が、AIを「超絶クレーマー」に改造した話</title>
     <link rel="alternate" href="https://qiita.com/momo22222/items/b6019ae2702c58f98bea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -865,23 +877,11 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5f11084c98d32d86248d</id>
-    <title>【2026最新】BedrockでRAGとエージェント作って、Amplifyから呼ぼう！ 維持費ほぼ無料!?</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/5f11084c98d32d86248d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-23T17:57:20+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T04:45:34+09:00&lt;br/&gt;Updated: 2026-01-23T17:57:20+09:00&lt;br/&gt;AWSの生成AIサービス、Amazon Bedrockを使った最も基本的な機能の最新ハンズオンです。
-
-Bedrockナレッジベース（RAG構築機能）
-Bedrockエージェント（AIエージェント構築機能）
-
-AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:9093f26b1df1f747f544</id>
     <title>Rustでコンピューターグラフィックスの基礎を学ぶ その1</title>
     <link rel="alternate" href="https://qiita.com/sumikawa@github/items/9093f26b1df1f747f544?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-21T14:24:01+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumikawa@github&quot;&gt;sumikawa@github&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T02:29:29+09:00&lt;br/&gt;Updated: 2026-01-21T14:24:01+09:00&lt;br/&gt;はじめに
+    <updated>2026-01-23T23:05:22+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumikawa@github&quot;&gt;sumikawa@github&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T02:29:29+09:00&lt;br/&gt;Updated: 2026-01-23T23:05:22+09:00&lt;br/&gt;はじめに
 学生時代から今まで、CGのアルゴリズムを学ぶ機会がなかったので、Rustの勉強がてらプログラムを書いてみる。
 まずはレイトレーシングを学ぶ。
 方針は下記
@@ -1508,6 +1508,16 @@ boto3を使ったPythonアプリケーションで、aws loginコマンドで認
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:03045dd62c2f1c0f4c04</id>
+    <title>海外で注目されている OSS「Clawdbot」入門  - LocalLLM前提のAIアシスタント紹介 -</title>
+    <link rel="alternate" href="https://qiita.com/xhackjp1/items/03045dd62c2f1c0f4c04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-22T09:11:10+09:00</updated>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/xhackjp1&quot;&gt;xhackjp1&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T08:45:13+09:00&lt;br/&gt;Updated: 2026-01-22T09:11:10+09:00&lt;br/&gt;はじめに
+Clawdbot（clawd.bot）は、海外のOSSコミュニティで急速に注目を集めている
+Self-hosted / LocalLLM前提 のAIアシスタントです。
+2025年12月に公開されたばかりですが、2026年1月時点でGitHubスター数は5,000...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fe68c9566983b1d28a1b</id>
     <title>【個人開発】Qiita記事を手元に残してオフラインで読めるMarkdown / PDF保存ツールを個人開発した【Next.js / React / TypeScript / Playwright / Qiita API】</title>
     <link rel="alternate" href="https://qiita.com/kazutorahattori/items/fe68c9566983b1d28a1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1618,16 +1628,6 @@ if / elsif / else のような条件分岐が増える
 業務自動化の仕事をしていて、VBAやPower Automateなどを使った効率化を行ってきました。
 その中でも最近では、LLMを活用した「社内ナレッジ検索」や「文書分析」のニーズが高まっていると肌で感じています。
 そして、個人開発ではStreamlit + L...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:03045dd62c2f1c0f4c04</id>
-    <title>海外で注目されている OSS「Clawdbot」入門  - LocalLLM前提のAIアシスタント紹介 -</title>
-    <link rel="alternate" href="https://qiita.com/xhackjp1/items/03045dd62c2f1c0f4c04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-22T09:11:10+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/xhackjp1&quot;&gt;xhackjp1&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T08:45:13+09:00&lt;br/&gt;Updated: 2026-01-22T09:11:10+09:00&lt;br/&gt;はじめに
-Clawdbot（clawd.bot）は、海外のOSSコミュニティで急速に注目を集めている
-Self-hosted / LocalLLM前提 のAIアシスタントです。
-2025年12月に公開されたばかりですが、2026年1月時点でGitHubスター数は5,000...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e296c386caffca33f780</id>
