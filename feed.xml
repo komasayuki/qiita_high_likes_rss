@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-23T23:05:22+09:00</updated>
+  <updated>2026-01-24T12:45:38+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -288,7 +288,7 @@ Tauri は、OS がもともと持っている WebView を利用し、Rust をバ
     <title>素人質問が大好きな教授にコードレビューを頼んでみた結果</title>
     <link rel="alternate" href="https://qiita.com/i-inose/items/e21155fe84a5beb4782d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-21T23:20:09+09:00</updated>
-    <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/i-inose&quot;&gt;i-inose&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T23:20:09+09:00&lt;br/&gt;Updated: 2026-01-21T23:20:09+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/i-inose&quot;&gt;i-inose&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T23:20:09+09:00&lt;br/&gt;Updated: 2026-01-21T23:20:09+09:00&lt;br/&gt;はじめに
 こんにちは、いのせです。
 最近はAIの進化が止まることなく、AIを使ってコーディングするのが当たり前な時代になりましたね。
 GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場し、コードを書く速度は格段に上がったと思いま...</summary>
@@ -530,6 +530,17 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:dda01037624623a8e7ca</id>
+    <title>要件定義に不安があった実務3年目エンジニア、国際規格に救われる</title>
+    <link rel="alternate" href="https://qiita.com/howanpin5525/items/dda01037624623a8e7ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-23T21:54:40+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/howanpin5525&quot;&gt;howanpin5525&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T18:46:55+09:00&lt;br/&gt;Updated: 2026-01-23T21:54:40+09:00&lt;br/&gt;はじめに
+筆者は実務経験3年目の開発エンジニアで、現在は2社目の会社に在籍しています。
+1社目2社目ともに要件定義を担当する機会があったのですが、
+どちらの現場も要件定義のフォーマットが存在しないか、あるいはフォーマットがあっても明らかに項目が足りないような状態でした。
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:910b7a6c1be97da2879d</id>
     <title>エンジニアなら知っておきたいサーバーの基本</title>
     <link rel="alternate" href="https://qiita.com/Suntory/items/910b7a6c1be97da2879d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -550,17 +561,6 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
 そんな...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:dda01037624623a8e7ca</id>
-    <title>要件定義に不安があった実務3年目エンジニア、国際規格に救われる</title>
-    <link rel="alternate" href="https://qiita.com/howanpin5525/items/dda01037624623a8e7ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-23T21:54:40+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/howanpin5525&quot;&gt;howanpin5525&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T18:46:55+09:00&lt;br/&gt;Updated: 2026-01-23T21:54:40+09:00&lt;br/&gt;はじめに
-筆者は実務経験3年目の開発エンジニアで、現在は2社目の会社に在籍しています。
-1社目2社目ともに要件定義を担当する機会があったのですが、
-どちらの現場も要件定義のフォーマットが存在しないか、あるいはフォーマットがあっても明らかに項目が足りないような状態でした。
-...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:58be7519dee6a58f74d1</id>
     <title>Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -573,6 +573,18 @@ Web API（REST API）という言葉を聞いたことがある方
 バックエンド開発に興味があり、最...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5f11084c98d32d86248d</id>
+    <title>【2026最新】BedrockでRAGとエージェント作って、Amplifyから呼ぼう！ 維持費ほぼ無料!?</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/5f11084c98d32d86248d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-23T22:42:18+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T04:45:34+09:00&lt;br/&gt;Updated: 2026-01-23T22:42:18+09:00&lt;br/&gt;AWSの生成AIサービス、Amazon Bedrockを使った最も基本的な機能の最新ハンズオンです。
+
+Bedrockナレッジベース（RAG構築機能）
+Bedrockエージェント（AIエージェント構築機能）
+
+AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:540e9c60095243a888d3</id>
     <title>Claude Codeを使いこなす完全ガイド - 生産性を劇的に向上させるテクニック</title>
     <link rel="alternate" href="https://qiita.com/koras7788/items/540e9c60095243a888d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -580,18 +592,6 @@ Web API（REST API）という言葉を聞いたことがある方
     <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/koras7788&quot;&gt;koras7788&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:47:41+09:00&lt;br/&gt;Updated: 2026-01-21T17:55:41+09:00&lt;br/&gt;Claude Codeは、AI支援による開発体験を提供する強力なツールです。しかし、多くの機能が隠れているため、その真価を十分に活用できていないユーザーも少なくありません。この記事では、作業効率を大幅に向上させる実践的なテクニックを4つのカテゴリーに分けて紹介します。
 
 1...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5f11084c98d32d86248d</id>
-    <title>【2026最新】BedrockでRAGとエージェント作って、Amplifyから呼ぼう！ 維持費ほぼ無料!?</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/5f11084c98d32d86248d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-23T22:42:18+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T04:45:34+09:00&lt;br/&gt;Updated: 2026-01-23T22:42:18+09:00&lt;br/&gt;AWSの生成AIサービス、Amazon Bedrockを使った最も基本的な機能の最新ハンズオンです。
-
-Bedrockナレッジベース（RAG構築機能）
-Bedrockエージェント（AIエージェント構築機能）
-
-AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:acc22c05c66826289f11</id>
@@ -990,6 +990,18 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:97df9ff710914a806340</id>
+    <title>速報！Playwright CLIがでた！</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/97df9ff710914a806340?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T11:47:17+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T11:40:09+09:00&lt;br/&gt;Updated: 2026-01-24T11:47:17+09:00&lt;br/&gt;Playwright MCP Serverの最新版（v0.0.58）でPlaywright CLIが追加されたようです！
+
+トークン効率が良くなるよとのことで、早速やってみました！
+
+インストール
+Playwright MCP Serverをグローバルインストールすると...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e3f47c36c980f49381d6</id>
     <title>ブラウザ操作不要！Playwright MCPでテスト仕様書からE2Eテストコードを自動生成してみた</title>
     <link rel="alternate" href="https://qiita.com/ntaka329/items/e3f47c36c980f49381d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1386,6 +1398,17 @@ TCPとUDPの違い
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:176fb69b1be583c14a4a</id>
+    <title>【ポエム】 高卒、基本情報3連敗。それでも24歳までに「ネスペ・支援士・AWS12冠」など24資格に合格した話</title>
+    <link rel="alternate" href="https://qiita.com/fuji0202/items/176fb69b1be583c14a4a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-23T06:13:30+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fuji0202&quot;&gt;fuji0202&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T06:09:33+09:00&lt;br/&gt;Updated: 2026-01-23T06:13:30+09:00&lt;br/&gt;0. 自己紹介と資格取得年表
+工業高校卒、18歳で未経験からIT業界へ。
+基本情報に3回落ち、「IT向いてない」と絶望していた自分が、24歳までにAWS 12冠、ネットワークスペシャリスト、情報処理安全確保支援士など計24個の資格を取得するまでの記録です。
+
+資格取得年表...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ec3575db1f0a8755896e</id>
     <title>Synology NASで「自分専用の自動化サーバー(n8n)」を立ち上げる方法（Docker入門）</title>
     <link rel="alternate" href="https://qiita.com/TaichiEndoh/items/ec3575db1f0a8755896e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1700,6 +1723,16 @@ if / elsif / else のような条件分岐が増える
 そして、個人開発ではStreamlit + L...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:eff0f63dac99554e6439</id>
+    <title>Claude CodeやCursorを使って、AIがUIデザインを生成することができる「Pencil」が登場！</title>
+    <link rel="alternate" href="https://qiita.com/degudegu2510/items/eff0f63dac99554e6439?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T10:29:31+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/degudegu2510&quot;&gt;degudegu2510&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T23:45:29+09:00&lt;br/&gt;Updated: 2026-01-24T10:29:31+09:00&lt;br/&gt;はじめに
+みなさんは、Pencil というAIツール使ったことがありますか？
+Pencilは、Figma + Layermate みたいなツールで、Pencil上でAIにUIを作らせたり、作成したUIをMCPを経由して開発させることができます！
+この記事では、実際に、Pe...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5e291fdc9a199012cfc9</id>
     <title>AWS初心者がCloudWatch Logsを毎日S3に保存する仕組みを実装した話</title>
     <link rel="alternate" href="https://qiita.com/chaochire/items/5e291fdc9a199012cfc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1873,6 +1906,16 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/neko_the_shadow&quot;&gt;neko_the_shadow&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:12:16+09:00&lt;br/&gt;Updated: 2026-01-04T11:12:16+09:00&lt;br/&gt;はじめに
 競技プログラミングやパズル系の問題を解いていると、  「複数の配列から取りうる すべての組み合わせを列挙したい」という場面がよくあります。
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:1907d54e51f939e61bad</id>
+    <title>ついにAgentCoreランタイムにTypeScript SDKが対応🔥🔥 Mastraで試してみた</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/1907d54e51f939e61bad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T12:45:38+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T01:51:39+09:00&lt;br/&gt;Updated: 2026-01-24T12:45:38+09:00&lt;br/&gt;AWSでAIエージェントをサーバーレス運用できるインフラ「AgentCoreランタイム」のTypeScript SDKに、ついにAPIサーバー機能が実装されました！！
+
+何が嬉しいの？
+最近はAIエージェントを開発するのに、LangChainやStrandsなどのPy...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:192ddb7691de4beef605</id>
