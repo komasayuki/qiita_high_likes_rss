@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-25T02:22:28+09:00</updated>
+  <updated>2026-01-25T14:29:47+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -110,6 +110,17 @@ Canva で誤字脱字を修正（Nano Ban...</summary>
 PRUMについて気...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:dda01037624623a8e7ca</id>
+    <title>要件定義に不安があった実務3年目エンジニア、国際規格に救われる</title>
+    <link rel="alternate" href="https://qiita.com/howanpin5525/items/dda01037624623a8e7ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-23T21:54:40+09:00</updated>
+    <summary type="html">Likes: 127&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/howanpin5525&quot;&gt;howanpin5525&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T18:46:55+09:00&lt;br/&gt;Updated: 2026-01-23T21:54:40+09:00&lt;br/&gt;はじめに
+筆者は実務経験3年目の開発エンジニアで、現在は2社目の会社に在籍しています。
+1社目2社目ともに要件定義を担当する機会があったのですが、
+どちらの現場も要件定義のフォーマットが存在しないか、あるいはフォーマットがあっても明らかに項目が足りないような状態でした。
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5583156dec3b32acb400</id>
     <title>【Python】クラス全員を救うために「実験レポート爆速生成ツール」を作って配布した話</title>
     <link rel="alternate" href="https://qiita.com/afmi21/items/5583156dec3b32acb400?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -121,17 +132,6 @@ PRUMについて気...</summary>
 中身を書くだけでも大変なのに、僕たちを地味に、しかし確実に削ってくるのが 「事務作業」 の数々です。
 
 毎回Wordの...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:dda01037624623a8e7ca</id>
-    <title>要件定義に不安があった実務3年目エンジニア、国際規格に救われる</title>
-    <link rel="alternate" href="https://qiita.com/howanpin5525/items/dda01037624623a8e7ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-23T21:54:40+09:00</updated>
-    <summary type="html">Likes: 123&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/howanpin5525&quot;&gt;howanpin5525&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T18:46:55+09:00&lt;br/&gt;Updated: 2026-01-23T21:54:40+09:00&lt;br/&gt;はじめに
-筆者は実務経験3年目の開発エンジニアで、現在は2社目の会社に在籍しています。
-1社目2社目ともに要件定義を担当する機会があったのですが、
-どちらの現場も要件定義のフォーマットが存在しないか、あるいはフォーマットがあっても明らかに項目が足りないような状態でした。
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4c65053a3db0e3bb6ecb</id>
@@ -496,7 +496,7 @@ CLAUDE.md
     <title>【86万行・29,000コミット】AIが「本気で」コードを書いたらこうなった —— Cursorの大規模実験から学ぶ10の知見</title>
     <link rel="alternate" href="https://qiita.com/hisaho/items/5bd0096ca33d5ea41acb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-23T10:20:46+09:00</updated>
-    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hisaho&quot;&gt;hisaho&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T10:20:46+09:00&lt;br/&gt;Updated: 2026-01-23T10:20:46+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hisaho&quot;&gt;hisaho&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T10:20:46+09:00&lt;br/&gt;Updated: 2026-01-23T10:20:46+09:00&lt;br/&gt;はじめに
 本記事は、AIコーディングツール「Cursor」を使用してゼロから構築された大規模プロジェクト「FastRender」の開発から得られた汎用的なAIコーディングの知見をまとめたものです。
 FastRenderはCursorの並列AIエージェント研究1の一環として...</summary>
   </entry>
@@ -678,6 +678,17 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
 今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8096f9d9ccbe4666d85d</id>
+    <title>VS Code の GitHub Copilot 設定、多すぎて分からない？〜 settings.json 完全ガイド〜</title>
+    <link rel="alternate" href="https://qiita.com/aktsmm/items/8096f9d9ccbe4666d85d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-25T02:22:28+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aktsmm&quot;&gt;aktsmm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T00:40:51+09:00&lt;br/&gt;Updated: 2026-01-25T02:22:28+09:00&lt;br/&gt;こんにちは、設定画面を開くたびに項目の多さに圧倒されるアーキテクトのやまぱんです 😅
+補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！
+間違っていたら 優しく 教えてください！
+
+⚠️ 本記事の情報は執筆時点（2026 年 1 月・VS Code 1.108.1）...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b1726a7a6054ed7e64df</id>
     <title>アーキテクチャの本質は共通している？最も大切な責務分離という考え方</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/b1726a7a6054ed7e64df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -700,6 +711,28 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
     <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T20:57:55+09:00&lt;br/&gt;Updated: 2026-01-06T19:49:00+09:00&lt;br/&gt;はじめに
 表題のとおり、Windows OS を USB メモリ上に導入して、任意の PC を使って利用するためのノウハウを共有したいと思います。
 本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:eff0f63dac99554e6439</id>
+    <title>Claude CodeやCursorを使って、AIがUIデザインを生成することができる「Pencil」が登場！</title>
+    <link rel="alternate" href="https://qiita.com/degudegu2510/items/eff0f63dac99554e6439?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T10:29:31+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/degudegu2510&quot;&gt;degudegu2510&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T23:45:29+09:00&lt;br/&gt;Updated: 2026-01-24T10:29:31+09:00&lt;br/&gt;はじめに
+みなさんは、Pencil というAIツール使ったことがありますか？
+Pencilは、Figma + Layermate みたいなツールで、Pencil上でAIにUIを作らせたり、作成したUIをMCPを経由して開発させることができます！
+この記事では、実際に、Pe...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e3f47c36c980f49381d6</id>
+    <title>ブラウザ操作不要！Playwright MCPでテスト仕様書からE2Eテストコードを自動生成してみた</title>
+    <link rel="alternate" href="https://qiita.com/ntaka329/items/e3f47c36c980f49381d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-22T21:04:56+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ntaka329&quot;&gt;ntaka329&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T21:04:56+09:00&lt;br/&gt;Updated: 2026-01-22T21:04:56+09:00&lt;br/&gt;はじめに
+GMOコネクトの永田です。
+E2Eテストの自動化、進めていますか？
+「テストコード実装に工数がかかる」
+「既存のテスト仕様書を活用できないか」
+こんな悩みをお持ちの方に朗報です。今回はPlaywright MCPを使って、自然言語で書かれたテスト仕様書から、AI...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
@@ -732,17 +765,6 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:8096f9d9ccbe4666d85d</id>
-    <title>VS Code の GitHub Copilot 設定、多すぎて分からない？〜 settings.json 完全ガイド〜</title>
-    <link rel="alternate" href="https://qiita.com/aktsmm/items/8096f9d9ccbe4666d85d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-25T02:22:28+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aktsmm&quot;&gt;aktsmm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T00:40:51+09:00&lt;br/&gt;Updated: 2026-01-25T02:22:28+09:00&lt;br/&gt;こんにちは、設定画面を開くたびに項目の多さに圧倒されるアーキテクトのやまぱんです 😅
-補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！
-間違っていたら 優しく 教えてください！
-
-⚠️ 本記事の情報は執筆時点（2026 年 1 月・VS Code 1.108.1）...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:0990ec75925499981100</id>
     <title>【AWS未経験】1年でCFP → SAA → SAPに一発合格した勉強法</title>
     <link rel="alternate" href="https://qiita.com/kakerucc/items/0990ec75925499981100?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -755,18 +777,6 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 サーバ/インフラエンジニア
 2024年度からAWS / Kubernetes を中心に、設計・検証・PoCを担当
 業務ではクラウドネイティブ技術を使ったシステム設計を...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e3f47c36c980f49381d6</id>
-    <title>ブラウザ操作不要！Playwright MCPでテスト仕様書からE2Eテストコードを自動生成してみた</title>
-    <link rel="alternate" href="https://qiita.com/ntaka329/items/e3f47c36c980f49381d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-22T21:04:56+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ntaka329&quot;&gt;ntaka329&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T21:04:56+09:00&lt;br/&gt;Updated: 2026-01-22T21:04:56+09:00&lt;br/&gt;はじめに
-GMOコネクトの永田です。
-E2Eテストの自動化、進めていますか？
-「テストコード実装に工数がかかる」
-「既存のテスト仕様書を活用できないか」
-こんな悩みをお持ちの方に朗報です。今回はPlaywright MCPを使って、自然言語で書かれたテスト仕様書から、AI...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a69ce52cc2862af7ebc9</id>
@@ -789,6 +799,17 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 1. ブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:176fb69b1be583c14a4a</id>
+    <title>【ポエム】 高卒、基本情報3連敗。それでも24歳までに「ネスペ・支援士・AWS12冠」など24資格に合格した話</title>
+    <link rel="alternate" href="https://qiita.com/fuji0202/items/176fb69b1be583c14a4a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-23T06:13:30+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fuji0202&quot;&gt;fuji0202&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T06:09:33+09:00&lt;br/&gt;Updated: 2026-01-23T06:13:30+09:00&lt;br/&gt;0. 自己紹介と資格取得年表
+工業高校卒、18歳で未経験からIT業界へ。
+基本情報に3回落ち、「IT向いてない」と絶望していた自分が、24歳までにAWS 12冠、ネットワークスペシャリスト、情報処理安全確保支援士など計24個の資格を取得するまでの記録です。
+
+資格取得年表...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:616f3b8b4e35437d8356</id>
     <title>【バイブコーディング】AIの書く10万行のどこを見ればよいか？</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/616f3b8b4e35437d8356?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -802,25 +823,12 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 その...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:eff0f63dac99554e6439</id>
-    <title>Claude CodeやCursorを使って、AIがUIデザインを生成することができる「Pencil」が登場！</title>
-    <link rel="alternate" href="https://qiita.com/degudegu2510/items/eff0f63dac99554e6439?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-24T10:29:31+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/degudegu2510&quot;&gt;degudegu2510&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T23:45:29+09:00&lt;br/&gt;Updated: 2026-01-24T10:29:31+09:00&lt;br/&gt;はじめに
-みなさんは、Pencil というAIツール使ったことがありますか？
-Pencilは、Figma + Layermate みたいなツールで、Pencil上でAIにUIを作らせたり、作成したUIをMCPを経由して開発させることができます！
-この記事では、実際に、Pe...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:176fb69b1be583c14a4a</id>
-    <title>【ポエム】 高卒、基本情報3連敗。それでも24歳までに「ネスペ・支援士・AWS12冠」など24資格に合格した話</title>
-    <link rel="alternate" href="https://qiita.com/fuji0202/items/176fb69b1be583c14a4a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-23T06:13:30+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fuji0202&quot;&gt;fuji0202&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T06:09:33+09:00&lt;br/&gt;Updated: 2026-01-23T06:13:30+09:00&lt;br/&gt;0. 自己紹介と資格取得年表
-工業高校卒、18歳で未経験からIT業界へ。
-基本情報に3回落ち、「IT向いてない」と絶望していた自分が、24歳までにAWS 12冠、ネットワークスペシャリスト、情報処理安全確保支援士など計24個の資格を取得するまでの記録です。
-
-資格取得年表...</summary>
+    <id>tag:qiita.com,2026:bf5637f40d59e18c4d5e</id>
+    <title>「ヴァイブコーディング」っていう言葉は2026年なくなるんじゃないか。</title>
+    <link rel="alternate" href="https://qiita.com/cozyupk/items/bf5637f40d59e18c4d5e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T13:03:45+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/cozyupk&quot;&gt;cozyupk&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T13:03:45+09:00&lt;br/&gt;Updated: 2026-01-24T13:03:45+09:00&lt;br/&gt;2025年2月初頭に生まれた 「ヴァイブコーディング（雰囲気コーディング）」 という言葉は、そのカジュアルな響きが受け、Wikipedia に項目ができるほど定着した。AIにコーディングを任せる、あるいは補助として活用する開発スタイルを指す言葉らしい。
+この言葉が「バズった...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3795769451ab003b6ee7</id>
@@ -978,14 +986,6 @@ C++の代わりにRustで記述する
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:bf5637f40d59e18c4d5e</id>
-    <title>「ヴァイブコーディング」っていう言葉は2026年なくなるんじゃないか。</title>
-    <link rel="alternate" href="https://qiita.com/cozyupk/items/bf5637f40d59e18c4d5e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-24T13:03:45+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/cozyupk&quot;&gt;cozyupk&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T13:03:45+09:00&lt;br/&gt;Updated: 2026-01-24T13:03:45+09:00&lt;br/&gt;2025年2月初頭に生まれた 「ヴァイブコーディング（雰囲気コーディング）」 という言葉は、そのカジュアルな響きが受け、Wikipedia に項目ができるほど定着した。AIにコーディングを任せる、あるいは補助として活用する開発スタイルを指す言葉らしい。
-この言葉が「バズった...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:4d28c47b1b6f7ef727cf</id>
     <title>【ポケモン×Java】知識編 ERROR #6 実行時エラーを防止するには？</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/4d28c47b1b6f7ef727cf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1073,6 +1073,18 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:9252a1fdea26c82ae908</id>
+    <title>【CTFおすすめ一覧】セキュリティ勉強しなきゃ...の第一歩へ</title>
+    <link rel="alternate" href="https://qiita.com/GIFCat/items/9252a1fdea26c82ae908?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T08:52:57+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GIFCat&quot;&gt;GIFCat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T08:52:57+09:00&lt;br/&gt;Updated: 2026-01-24T08:52:57+09:00&lt;br/&gt;みなさん、一度はハッカーに憧れたことはありますか？
+興味をもったことへまずやってみることが、人が成長するための早い手段の一つだと思います。
+
+エージェントAIは次なる大きな内部リスク
+
+それぞれが手探りでAIセキュリティの取り組みを進めているため、シャドーAIのリス...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
     <title>FPGAボード Shrike Liteをお試し</title>
     <link rel="alternate" href="https://qiita.com/Lathe/items/241640a492adc2b5fc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1103,18 +1115,6 @@ FPGAとマイコンを1ボードに搭載
     <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
 そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
 Google Colabで手軽に試せるの...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9252a1fdea26c82ae908</id>
-    <title>【CTFおすすめ一覧】セキュリティ勉強しなきゃ...の第一歩へ</title>
-    <link rel="alternate" href="https://qiita.com/GIFCat/items/9252a1fdea26c82ae908?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-24T08:52:57+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GIFCat&quot;&gt;GIFCat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T08:52:57+09:00&lt;br/&gt;Updated: 2026-01-24T08:52:57+09:00&lt;br/&gt;みなさん、一度はハッカーに憧れたことはありますか？
-興味をもったことへまずやってみることが、人が成長するための早い手段の一つだと思います。
-
-エージェントAIは次なる大きな内部リスク
-
-それぞれが手探りでAIセキュリティの取り組みを進めているため、シャドーAIのリス...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:09d4c1b61ef08bd68169</id>
@@ -1461,8 +1461,8 @@ TCPとUDPの違い
     <id>tag:qiita.com,2026:bd20f5fdec145334e10c</id>
     <title>個人開発で使えるFrontend &amp; Backendのフォルダ構成について</title>
     <link rel="alternate" href="https://qiita.com/ZHAOJIAYI/items/bd20f5fdec145334e10c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-22T21:53:22+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ZHAOJIAYI&quot;&gt;ZHAOJIAYI&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T21:53:22+09:00&lt;br/&gt;Updated: 2026-01-22T21:53:22+09:00&lt;br/&gt;最近、X（旧Twitter）で @e_opore さんが投稿していたフロントエンドとバックエンドのフォルダ構造が非常に整理されており、非常に参考にできそうな内容でした。
+    <updated>2026-01-25T14:29:47+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ZHAOJIAYI&quot;&gt;ZHAOJIAYI&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T21:53:22+09:00&lt;br/&gt;Updated: 2026-01-25T14:29:47+09:00&lt;br/&gt;最近、X（旧Twitter）で @e_opore さんが投稿していたフロントエンドとバックエンドのフォルダ構造が非常に整理されており、非常に参考にできそうな内容でした。
 特に個人開発のプロジェクトで、スケーラブルに開発を進める際に役立つ構成だと感じたため、元投稿を参考に自分...</summary>
   </entry>
   <entry>
@@ -1985,6 +1985,22 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/neko_the_shadow&quot;&gt;neko_the_shadow&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:12:16+09:00&lt;br/&gt;Updated: 2026-01-04T11:12:16+09:00&lt;br/&gt;はじめに
 競技プログラミングやパズル系の問題を解いていると、  「複数の配列から取りうる すべての組み合わせを列挙したい」という場面がよくあります。
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:79d8020799c6f9e329dc</id>
+    <title>Qwen3-TTSってなんだ？〜3秒の音声でボイスクローンできる最新AIを日本語環境で完全攻略〜</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/79d8020799c6f9e329dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T06:17:04+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T06:16:51+09:00&lt;br/&gt;Updated: 2026-01-24T06:17:04+09:00&lt;br/&gt;この記事の対象読者
+
+Pythonの基本文法を理解している方
+音声合成（TTS）に興味があるが、まだ試したことがない方
+ローカルでAI音声生成を動かしてみたい方
+MacからWindowsに移行して、GPU環境を構築したばかりの方
+
+この記事で得られること
+
+Qwen3-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:192ddb7691de4beef605</id>
