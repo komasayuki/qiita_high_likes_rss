@@ -227,7 +227,7 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
     <title>【86万行・29,000コミット】AIが「本気で」コードを書いたらこうなった —— Cursorの大規模実験から学ぶ10の知見</title>
     <link rel="alternate" href="https://qiita.com/hisaho/items/5bd0096ca33d5ea41acb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-23T10:20:46+09:00</updated>
-    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hisaho&quot;&gt;hisaho&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T10:20:46+09:00&lt;br/&gt;Updated: 2026-01-23T10:20:46+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 82&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hisaho&quot;&gt;hisaho&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T10:20:46+09:00&lt;br/&gt;Updated: 2026-01-23T10:20:46+09:00&lt;br/&gt;はじめに
 本記事は、AIコーディングツール「Cursor」を使用してゼロから構築された大規模プロジェクト「FastRender」の開発から得られた汎用的なAIコーディングの知見をまとめたものです。
 FastRenderはCursorの並列AIエージェント研究1の一環として...</summary>
   </entry>
@@ -295,6 +295,14 @@ SHAP値処理の改修
 初...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:bf5637f40d59e18c4d5e</id>
+    <title>「ヴァイブコーディング」っていう言葉は2026年なくなるんじゃないか。</title>
+    <link rel="alternate" href="https://qiita.com/cozyupk/items/bf5637f40d59e18c4d5e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T13:03:45+09:00</updated>
+    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/cozyupk&quot;&gt;cozyupk&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T13:03:45+09:00&lt;br/&gt;Updated: 2026-01-24T13:03:45+09:00&lt;br/&gt;2025年2月初頭に生まれた 「ヴァイブコーディング（雰囲気コーディング）」 という言葉は、そのカジュアルな響きが受け、Wikipedia に項目ができるほど定着した。AIにコーディングを任せる、あるいは補助として活用する開発スタイルを指す言葉らしい。
+この言葉が「バズった...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e21155fe84a5beb4782d</id>
     <title>素人質問が大好きな教授にコードレビューを頼んでみた結果</title>
     <link rel="alternate" href="https://qiita.com/i-inose/items/e21155fe84a5beb4782d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -312,14 +320,6 @@ GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場�
     <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T09:50:06+09:00&lt;br/&gt;Updated: 2026-01-18T23:28:37+09:00&lt;br/&gt;はじめに：なぜ今 Tauri なのか
 Electron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。
 Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用することで...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bf5637f40d59e18c4d5e</id>
-    <title>「ヴァイブコーディング」っていう言葉は2026年なくなるんじゃないか。</title>
-    <link rel="alternate" href="https://qiita.com/cozyupk/items/bf5637f40d59e18c4d5e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-24T13:03:45+09:00</updated>
-    <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/cozyupk&quot;&gt;cozyupk&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T13:03:45+09:00&lt;br/&gt;Updated: 2026-01-24T13:03:45+09:00&lt;br/&gt;2025年2月初頭に生まれた 「ヴァイブコーディング（雰囲気コーディング）」 という言葉は、そのカジュアルな響きが受け、Wikipedia に項目ができるほど定着した。AIにコーディングを任せる、あるいは補助として活用する開発スタイルを指す言葉らしい。
-この言葉が「バズった...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bd5266a987d082caea16</id>
@@ -348,6 +348,18 @@ Tauri は、OS がもともと持っている WebView を利用し、Rust をバ
 RAG（検索拡張生成）とは？...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:97df9ff710914a806340</id>
+    <title>速報！Playwright CLIがでた！</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/97df9ff710914a806340?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T11:47:17+09:00</updated>
+    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T11:40:09+09:00&lt;br/&gt;Updated: 2026-01-24T11:47:17+09:00&lt;br/&gt;Playwright MCP Serverの最新版（v0.0.58）でPlaywright CLIが追加されたようです！
+
+トークン効率が良くなるよとのことで、早速やってみました！
+
+インストール
+Playwright MCP Serverをグローバルインストールすると...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a3e91b89b5ed9b266e91</id>
     <title>情報はどうやって海を越えるのか？IPアドレスとDNSの関係性について</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/a3e91b89b5ed9b266e91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -355,18 +367,6 @@ RAG（検索拡張生成）とは？...</summary>
     <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
 DNSは、URLに出てくる example.com みたいな名前を、通信に使えるIPアドレスに変換する仕組みです。
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:97df9ff710914a806340</id>
-    <title>速報！Playwright CLIがでた！</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/97df9ff710914a806340?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-24T11:47:17+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T11:40:09+09:00&lt;br/&gt;Updated: 2026-01-24T11:47:17+09:00&lt;br/&gt;Playwright MCP Serverの最新版（v0.0.58）でPlaywright CLIが追加されたようです！
-
-トークン効率が良くなるよとのことで、早速やってみました！
-
-インストール
-Playwright MCP Serverをグローバルインストールすると...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:eff0f63dac99554e6439</id>
@@ -547,7 +547,7 @@ Ollama（ローカルで LLM を実行するためのオープンソースツー
     <title>【初心者完全版】0からDockerをフルスタックアプリを開発しながら学べるチュートリアル【React /TypeScript/Hono/docker-compose】</title>
     <link rel="alternate" href="https://qiita.com/Sicut_study/items/fd8e8a9fe05631fc5ca8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-25T17:01:10+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T17:01:10+09:00&lt;br/&gt;Updated: 2026-01-25T17:01:10+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T17:01:10+09:00&lt;br/&gt;Updated: 2026-01-25T17:01:10+09:00&lt;br/&gt;はじめに
 エンジニアをやっていると大きな山場のようなものがいくつかあります。
 CI/CD / AWS / Docker / Clean Architecture
 これらは私がジュニアレベルからミドルレベルに上がる中でも特に大変だったなと思う項目です。これを見ている方も憧...</summary>
@@ -681,6 +681,17 @@ PRUMについて気になった方は、
 またユーザーの呼称は、正式でなく便宜的な...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:176fb69b1be583c14a4a</id>
+    <title>【ポエム】 高卒、基本情報3連敗。それでも24歳までに「ネスペ・支援士・AWS12冠」など24資格に合格した話</title>
+    <link rel="alternate" href="https://qiita.com/fuji0202/items/176fb69b1be583c14a4a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-23T06:13:30+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fuji0202&quot;&gt;fuji0202&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T06:09:33+09:00&lt;br/&gt;Updated: 2026-01-23T06:13:30+09:00&lt;br/&gt;0. 自己紹介と資格取得年表
+工業高校卒、18歳で未経験からIT業界へ。
+基本情報に3回落ち、「IT向いてない」と絶望していた自分が、24歳までにAWS 12冠、ネットワークスペシャリスト、情報処理安全確保支援士など計24個の資格を取得するまでの記録です。
+
+資格取得年表...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9bc0a7a0a68b50c8e138</id>
     <title>【C#】Channel&lt;T&gt;  でスレッド間通信をシンプルに</title>
     <link rel="alternate" href="https://qiita.com/Sakai_path/items/9bc0a7a0a68b50c8e138?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -689,17 +700,6 @@ PRUMについて気になった方は、
 C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
 
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:176fb69b1be583c14a4a</id>
-    <title>【ポエム】 高卒、基本情報3連敗。それでも24歳までに「ネスペ・支援士・AWS12冠」など24資格に合格した話</title>
-    <link rel="alternate" href="https://qiita.com/fuji0202/items/176fb69b1be583c14a4a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-23T06:13:30+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fuji0202&quot;&gt;fuji0202&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T06:09:33+09:00&lt;br/&gt;Updated: 2026-01-23T06:13:30+09:00&lt;br/&gt;0. 自己紹介と資格取得年表
-工業高校卒、18歳で未経験からIT業界へ。
-基本情報に3回落ち、「IT向いてない」と絶望していた自分が、24歳までにAWS 12冠、ネットワークスペシャリスト、情報処理安全確保支援士など計24個の資格を取得するまでの記録です。
-
-資格取得年表...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:01de1ee21d2491c54450</id>
@@ -841,6 +841,18 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 その...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:9252a1fdea26c82ae908</id>
+    <title>【CTFおすすめ一覧】セキュリティ勉強しなきゃ...の第一歩へ</title>
+    <link rel="alternate" href="https://qiita.com/GIFCat/items/9252a1fdea26c82ae908?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T08:52:57+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GIFCat&quot;&gt;GIFCat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T08:52:57+09:00&lt;br/&gt;Updated: 2026-01-24T08:52:57+09:00&lt;br/&gt;みなさん、一度はハッカーに憧れたことはありますか？
+興味をもったことへまずやってみることが、人が成長するための早い手段の一つだと思います。
+
+エージェントAIは次なる大きな内部リスク
+
+それぞれが手探りでAIセキュリティの取り組みを進めているため、シャドーAIのリス...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3795769451ab003b6ee7</id>
     <title>自然言語からSQLは魔法ではない</title>
     <link rel="alternate" href="https://qiita.com/engchina/items/3795769451ab003b6ee7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -898,18 +910,6 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:9252a1fdea26c82ae908</id>
-    <title>【CTFおすすめ一覧】セキュリティ勉強しなきゃ...の第一歩へ</title>
-    <link rel="alternate" href="https://qiita.com/GIFCat/items/9252a1fdea26c82ae908?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-24T08:52:57+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GIFCat&quot;&gt;GIFCat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T08:52:57+09:00&lt;br/&gt;Updated: 2026-01-24T08:52:57+09:00&lt;br/&gt;みなさん、一度はハッカーに憧れたことはありますか？
-興味をもったことへまずやってみることが、人が成長するための早い手段の一つだと思います。
-
-エージェントAIは次なる大きな内部リスク
-
-それぞれが手探りでAIセキュリティの取り組みを進めているため、シャドーAIのリス...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:0800689e72d30fb554d7</id>
     <title>VS Code開発効率を最大化するキーボード操作術【Mac編】</title>
     <link rel="alternate" href="https://qiita.com/Yamashita_Sosuke/items/0800689e72d30fb554d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -928,6 +928,16 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 本記事は、JavaエンジニアがTypeScriptを扱う際に感じた違いを解説した記事です。
 これまで実務や個人開発でTypeScriptに触れていましたが、Javaの感覚でコードを読み進めていくと、TypeScript特有の概念や挙動に戸惑うことがありました。
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e41062344f0b86049a68</id>
+    <title>【元経理】実務で本当に使えたExcelの小技５選【ミス防止】</title>
+    <link rel="alternate" href="https://qiita.com/2000na/items/e41062344f0b86049a68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-25T21:40:31+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/2000na&quot;&gt;2000na&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T09:09:49+09:00&lt;br/&gt;Updated: 2026-01-25T21:40:31+09:00&lt;br/&gt;前職では経理として、日々の集計業務でExcelを使い倒してきました。
+一円の違いや細かい端数処理でミスが許されない業務を行う中で仕組みによる事故防止に努めてきました。
+この記事では、実務で「地味だけど効く」Excelの小技を紹介します。
+※マクロなし／明日から使えるもの中心...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4b3bc75731f109927ebd</id>
@@ -972,16 +982,6 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 フルサーバーレスで維持費激安なのが嬉しいポイントです。
 
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e41062344f0b86049a68</id>
-    <title>【元経理】実務で本当に使えたExcelの小技５選【ミス防止】</title>
-    <link rel="alternate" href="https://qiita.com/2000na/items/e41062344f0b86049a68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-25T21:40:31+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/2000na&quot;&gt;2000na&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T09:09:49+09:00&lt;br/&gt;Updated: 2026-01-25T21:40:31+09:00&lt;br/&gt;前職では経理として、日々の集計業務でExcelを使い倒してきました。
-一円の違いや細かい端数処理でミスが許されない業務を行う中で仕組みによる事故防止に努めてきました。
-この記事では、実務で「地味だけど効く」Excelの小技を紹介します。
-※マクロなし／明日から使えるもの中心...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:db798b2e5805c51a64c1</id>
@@ -2048,6 +2048,16 @@ SharePoint リスト及びライブラリの「通知（従来のアラート）
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/neko_the_shadow&quot;&gt;neko_the_shadow&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:12:16+09:00&lt;br/&gt;Updated: 2026-01-04T11:12:16+09:00&lt;br/&gt;はじめに
 競技プログラミングやパズル系の問題を解いていると、  「複数の配列から取りうる すべての組み合わせを列挙したい」という場面がよくあります。
 Rust の標準ライブラリには直接のユーティリティはありませんが、 itertools クレートを使うとこの処理を非常に簡...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:082317eae9d2a9d3bd6a</id>
+    <title>大学生エンジニア Rustの勉強を始める 🦀</title>
+    <link rel="alternate" href="https://qiita.com/kohta9521/items/082317eae9d2a9d3bd6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T21:29:28+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kohta9521&quot;&gt;kohta9521&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T21:29:28+09:00&lt;br/&gt;Updated: 2026-01-24T21:29:28+09:00&lt;br/&gt;✅ はじめに
+記事をご覧いただきありがとうございます。
+現在、友人と始めた大学生スタートアップで主にフロントエンドを担当している kohta です。
+大学入学とともに独学でプログラミングを始め、複数社のインターンシップや業務委託を経て現在に至ります。普段は会社のサービスを...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:192ddb7691de4beef605</id>
