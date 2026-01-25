@@ -930,6 +930,16 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4b3bc75731f109927ebd</id>
+    <title>【Qiita最速？】Clawdbot + Discordで自分専用AIアシスタントを構築する【Proxmox/Ubuntu】</title>
+    <link rel="alternate" href="https://qiita.com/yu_720/items/4b3bc75731f109927ebd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T11:32:46+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yu_720&quot;&gt;yu_720&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T22:27:52+09:00&lt;br/&gt;Updated: 2026-01-24T11:32:46+09:00&lt;br/&gt;はじめに
+Qiitaでサーバにインストールする記事としては最速ということで(若干誇張)。
+Qiita上の解説としては以下の記事が最速ですが、本当に便利だったので紹介させてください。
+https://qiita.com/xhackjp1/items/03045dd62c2f...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3f76045c4b7696744fb3</id>
     <title>個人開発のAIアプリをServerless化したら月額$7で運用できた件</title>
     <link rel="alternate" href="https://qiita.com/JaminL/items/3f76045c4b7696744fb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -972,16 +982,6 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 一円の違いや細かい端数処理でミスが許されない業務を行う中で仕組みによる事故防止に努めてきました。
 この記事では、実務で「地味だけど効く」Excelの小技を紹介します。
 ※マクロなし／明日から使えるもの中心...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4b3bc75731f109927ebd</id>
-    <title>【Qiita最速？】Clawdbot + Discordで自分専用AIアシスタントを構築する【Proxmox/Ubuntu】</title>
-    <link rel="alternate" href="https://qiita.com/yu_720/items/4b3bc75731f109927ebd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-24T11:32:46+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yu_720&quot;&gt;yu_720&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T22:27:52+09:00&lt;br/&gt;Updated: 2026-01-24T11:32:46+09:00&lt;br/&gt;はじめに
-Qiitaでサーバにインストールする記事としては最速ということで(若干誇張)。
-Qiita上の解説としては以下の記事が最速ですが、本当に便利だったので紹介させてください。
-https://qiita.com/xhackjp1/items/03045dd62c2f...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:db798b2e5805c51a64c1</id>
@@ -1508,6 +1508,16 @@ TCPとUDPの違い
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:9923fb21c48ea999b191</id>
+    <title>pip installって何してるの？</title>
+    <link rel="alternate" href="https://qiita.com/shinya-kg0/items/9923fb21c48ea999b191?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T10:41:56+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinya-kg0&quot;&gt;shinya-kg0&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T10:41:56+09:00&lt;br/&gt;Updated: 2026-01-24T10:41:56+09:00&lt;br/&gt;はじめに
+Pythonでプログラミングをしていると、当たり前のように使っているpip installコマンド。
+このコマンド一つで、便利なライブラリがすぐに使えるようになります。
+しかし、**結局、pipは何をどこにダウンロードして、どうやってPythonがそれを見つけて...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ec3575db1f0a8755896e</id>
     <title>Synology NASで「自分専用の自動化サーバー(n8n)」を立ち上げる方法（Docker入門）</title>
     <link rel="alternate" href="https://qiita.com/TaichiEndoh/items/ec3575db1f0a8755896e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1577,16 +1587,6 @@ CSVファイルに書き込んで
     <updated>2026-01-03T09:15:39+09:00</updated>
     <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KimuraSoh&quot;&gt;KimuraSoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T09:15:39+09:00&lt;br/&gt;Updated: 2026-01-03T09:15:39+09:00&lt;br/&gt;はじめに
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9923fb21c48ea999b191</id>
-    <title>pip installって何してるの？</title>
-    <link rel="alternate" href="https://qiita.com/shinya-kg0/items/9923fb21c48ea999b191?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-24T10:41:56+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinya-kg0&quot;&gt;shinya-kg0&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T10:41:56+09:00&lt;br/&gt;Updated: 2026-01-24T10:41:56+09:00&lt;br/&gt;はじめに
-Pythonでプログラミングをしていると、当たり前のように使っているpip installコマンド。
-このコマンド一つで、便利なライブラリがすぐに使えるようになります。
-しかし、**結局、pipは何をどこにダウンロードして、どうやってPythonがそれを見つけて...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bb975270517295716af3</id>
