@@ -153,7 +153,7 @@ SAA (AWS Certified So...</summary>
     <title>要件定義に不安があった実務3年目エンジニア、国際規格に救われる</title>
     <link rel="alternate" href="https://qiita.com/howanpin5525/items/dda01037624623a8e7ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-23T21:54:40+09:00</updated>
-    <summary type="html">Likes: 110&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/howanpin5525&quot;&gt;howanpin5525&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T18:46:55+09:00&lt;br/&gt;Updated: 2026-01-23T21:54:40+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 116&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/howanpin5525&quot;&gt;howanpin5525&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T18:46:55+09:00&lt;br/&gt;Updated: 2026-01-23T21:54:40+09:00&lt;br/&gt;はじめに
 筆者は実務経験3年目の開発エンジニアで、現在は2社目の会社に在籍しています。
 1社目2社目ともに要件定義を担当する機会があったのですが、
 どちらの現場も要件定義のフォーマットが存在しないか、あるいはフォーマットがあっても明らかに項目が足りないような状態でした。
@@ -494,6 +494,18 @@ CLAUDE.md
 統計モデリング（statistical ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:97df9ff710914a806340</id>
+    <title>速報！Playwright CLIがでた！</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/97df9ff710914a806340?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T11:47:17+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T11:40:09+09:00&lt;br/&gt;Updated: 2026-01-24T11:47:17+09:00&lt;br/&gt;Playwright MCP Serverの最新版（v0.0.58）でPlaywright CLIが追加されたようです！
+
+トークン効率が良くなるよとのことで、早速やってみました！
+
+インストール
+Playwright MCP Serverをグローバルインストールすると...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:eed90901fdd044ce7f40</id>
     <title>【Claude Code】Claude CodeがOllamaと連携できるようになったらしい</title>
     <link rel="alternate" href="https://qiita.com/ryu-ki/items/eed90901fdd044ce7f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -504,16 +516,13 @@ CLAUDE.md
 Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:97df9ff710914a806340</id>
-    <title>速報！Playwright CLIがでた！</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/97df9ff710914a806340?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-24T11:47:17+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T11:40:09+09:00&lt;br/&gt;Updated: 2026-01-24T11:47:17+09:00&lt;br/&gt;Playwright MCP Serverの最新版（v0.0.58）でPlaywright CLIが追加されたようです！
-
-トークン効率が良くなるよとのことで、早速やってみました！
-
-インストール
-Playwright MCP Serverをグローバルインストールすると...</summary>
+    <id>tag:qiita.com,2026:5bd0096ca33d5ea41acb</id>
+    <title>【86万行・29,000コミット】AIが「本気で」コードを書いたらこうなった —— Cursorの大規模実験から学ぶ10の知見</title>
+    <link rel="alternate" href="https://qiita.com/hisaho/items/5bd0096ca33d5ea41acb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-23T10:20:46+09:00</updated>
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hisaho&quot;&gt;hisaho&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T10:20:46+09:00&lt;br/&gt;Updated: 2026-01-23T10:20:46+09:00&lt;br/&gt;はじめに
+本記事は、AIコーディングツール「Cursor」を使用してゼロから構築された大規模プロジェクト「FastRender」の開発から得られた汎用的なAIコーディングの知見をまとめたものです。
+FastRenderはCursorの並列AIエージェント研究1の一環として...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cb29c3208ac188dad5f1</id>
@@ -563,15 +572,6 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
 具体的には、M365を導入している企業において利用できる以下を対象とします:
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5bd0096ca33d5ea41acb</id>
-    <title>【86万行・29,000コミット】AIが「本気で」コードを書いたらこうなった —— Cursorの大規模実験から学ぶ10の知見</title>
-    <link rel="alternate" href="https://qiita.com/hisaho/items/5bd0096ca33d5ea41acb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-23T10:20:46+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hisaho&quot;&gt;hisaho&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T10:20:46+09:00&lt;br/&gt;Updated: 2026-01-23T10:20:46+09:00&lt;br/&gt;はじめに
-本記事は、AIコーディングツール「Cursor」を使用してゼロから構築された大規模プロジェクト「FastRender」の開発から得られた汎用的なAIコーディングの知見をまとめたものです。
-FastRenderはCursorの並列AIエージェント研究1の一環として...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:910b7a6c1be97da2879d</id>
@@ -732,6 +732,17 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8096f9d9ccbe4666d85d</id>
+    <title>VS Code の GitHub Copilot 設定、多すぎて分からない？〜 settings.json 完全ガイド〜</title>
+    <link rel="alternate" href="https://qiita.com/aktsmm/items/8096f9d9ccbe4666d85d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-25T02:22:28+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aktsmm&quot;&gt;aktsmm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T00:40:51+09:00&lt;br/&gt;Updated: 2026-01-25T02:22:28+09:00&lt;br/&gt;こんにちは、設定画面を開くたびに項目の多さに圧倒されるアーキテクトのやまぱんです 😅
+補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！
+間違っていたら 優しく 教えてください！
+
+⚠️ 本記事の情報は執筆時点（2026 年 1 月・VS Code 1.108.1）...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0990ec75925499981100</id>
     <title>【AWS未経験】1年でCFP → SAA → SAPに一発合格した勉強法</title>
     <link rel="alternate" href="https://qiita.com/kakerucc/items/0990ec75925499981100?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -764,17 +775,6 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウェブサーバーの間でHTMLファイルや画像などのウェブ情報をやり取りするための通信ルール（プロトコル）です。
 1回の通信で最低限起きていること
 1. ブ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8096f9d9ccbe4666d85d</id>
-    <title>VS Code の GitHub Copilot 設定、多すぎて分からない？〜 settings.json 完全ガイド〜</title>
-    <link rel="alternate" href="https://qiita.com/aktsmm/items/8096f9d9ccbe4666d85d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-25T02:22:28+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aktsmm&quot;&gt;aktsmm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T00:40:51+09:00&lt;br/&gt;Updated: 2026-01-25T02:22:28+09:00&lt;br/&gt;こんにちは、設定画面を開くたびに項目の多さに圧倒されるアーキテクトのやまぱんです 😅
-補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！
-間違っていたら 優しく 教えてください！
-
-⚠️ 本記事の情報は執筆時点（2026 年 1 月・VS Code 1.108.1）...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e3f47c36c980f49381d6</id>
@@ -859,6 +859,16 @@ E2Eテストの自動化、進めていますか？
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:eff0f63dac99554e6439</id>
+    <title>Claude CodeやCursorを使って、AIがUIデザインを生成することができる「Pencil」が登場！</title>
+    <link rel="alternate" href="https://qiita.com/degudegu2510/items/eff0f63dac99554e6439?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T10:29:31+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/degudegu2510&quot;&gt;degudegu2510&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T23:45:29+09:00&lt;br/&gt;Updated: 2026-01-24T10:29:31+09:00&lt;br/&gt;はじめに
+みなさんは、Pencil というAIツール使ったことがありますか？
+Pencilは、Figma + Layermate みたいなツールで、Pencil上でAIにUIを作らせたり、作成したUIをMCPを経由して開発させることができます！
+この記事では、実際に、Pe...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:176fb69b1be583c14a4a</id>
     <title>【ポエム】 高卒、基本情報3連敗。それでも24歳までに「ネスペ・支援士・AWS12冠」など24資格に合格した話</title>
     <link rel="alternate" href="https://qiita.com/fuji0202/items/176fb69b1be583c14a4a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -922,16 +932,6 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 フルサーバーレスで維持費激安なのが嬉しいポイントです。
 
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:eff0f63dac99554e6439</id>
-    <title>Claude CodeやCursorを使って、AIがUIデザインを生成することができる「Pencil」が登場！</title>
-    <link rel="alternate" href="https://qiita.com/degudegu2510/items/eff0f63dac99554e6439?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-24T10:29:31+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/degudegu2510&quot;&gt;degudegu2510&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T23:45:29+09:00&lt;br/&gt;Updated: 2026-01-24T10:29:31+09:00&lt;br/&gt;はじめに
-みなさんは、Pencil というAIツール使ったことがありますか？
-Pencilは、Figma + Layermate みたいなツールで、Pencil上でAIにUIを作らせたり、作成したUIをMCPを経由して開発させることができます！
-この記事では、実際に、Pe...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:db798b2e5805c51a64c1</id>
@@ -1231,6 +1231,14 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:bf5637f40d59e18c4d5e</id>
+    <title>「ヴァイブコーディング」っていう言葉は2026年なくなるんじゃないか。</title>
+    <link rel="alternate" href="https://qiita.com/cozyupk/items/bf5637f40d59e18c4d5e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T13:03:45+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/cozyupk&quot;&gt;cozyupk&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T13:03:45+09:00&lt;br/&gt;Updated: 2026-01-24T13:03:45+09:00&lt;br/&gt;2025年2月初頭に生まれた 「ヴァイブコーディング（雰囲気コーディング）」 という言葉は、そのカジュアルな響きが受け、Wikipedia に項目ができるほど定着した。AIにコーディングを任せる、あるいは補助として活用する開発スタイルを指す言葉らしい。
+この言葉が「バズった...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:864a49b93bbfaa7672ae</id>
     <title>&quot;セキュリティ投資&quot;は&quot;投資&quot;か？を本気で考える</title>
     <link rel="alternate" href="https://qiita.com/f_0000/items/864a49b93bbfaa7672ae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1527,14 +1535,6 @@ CSVファイルに書き込んで
     <updated>2026-01-03T09:15:39+09:00</updated>
     <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KimuraSoh&quot;&gt;KimuraSoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T09:15:39+09:00&lt;br/&gt;Updated: 2026-01-03T09:15:39+09:00&lt;br/&gt;はじめに
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bf5637f40d59e18c4d5e</id>
-    <title>「ヴァイブコーディング」っていう言葉は2026年なくなるんじゃないか。</title>
-    <link rel="alternate" href="https://qiita.com/cozyupk/items/bf5637f40d59e18c4d5e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-24T13:03:45+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/cozyupk&quot;&gt;cozyupk&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T13:03:45+09:00&lt;br/&gt;Updated: 2026-01-24T13:03:45+09:00&lt;br/&gt;2025年2月初頭に生まれた 「ヴァイブコーディング（雰囲気コーディング）」 という言葉は、そのカジュアルな響きが受け、Wikipedia に項目ができるほど定着した。AIにコーディングを任せる、あるいは補助として活用する開発スタイルを指す言葉らしい。
-この言葉が「バズった...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bb975270517295716af3</id>
