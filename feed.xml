@@ -777,25 +777,11 @@ C#で非同期処理を組み立てていると、タスク間でデータを受
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:9607008aefc2521615ac</id>
-    <title>【後編】先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/9607008aefc2521615ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-27T18:51:40+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T14:17:53+09:00&lt;br/&gt;Updated: 2026-01-27T18:51:40+09:00&lt;br/&gt;忘れることを前提に、現場はどう教えるべきか
-― 育成を「根性論」から「設計」に戻す ―
-
-はじめまして。
-株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で
-つまずきやすいポイントを整理して発信しています。
-PRUMについて気になった方は...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b15f9adc9fb807a3e148</id>
     <title>ペネトレーションテスト チートシート（CRTP）</title>
     <link rel="alternate" href="https://qiita.com/sanyamarseille/items/b15f9adc9fb807a3e148?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-27T22:58:47+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sanyamarseille&quot;&gt;sanyamarseille&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:49:04+09:00&lt;br/&gt;Updated: 2026-01-27T22:58:47+09:00&lt;br/&gt;CRTP CheatSheet
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sanyamarseille&quot;&gt;sanyamarseille&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:49:04+09:00&lt;br/&gt;Updated: 2026-01-27T22:58:47+09:00&lt;br/&gt;CRTP CheatSheet
 
 参考リンク
 
@@ -813,6 +799,20 @@ Certify
 アプリケーション実行制御の無効化
 ファイル配送
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9607008aefc2521615ac</id>
+    <title>【後編】先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/9607008aefc2521615ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-27T18:51:40+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T14:17:53+09:00&lt;br/&gt;Updated: 2026-01-27T18:51:40+09:00&lt;br/&gt;忘れることを前提に、現場はどう教えるべきか
+― 育成を「根性論」から「設計」に戻す ―
+
+はじめまして。
+株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントを整理して発信しています。
+PRUMについて気になった方は...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4b3bc75731f109927ebd</id>
@@ -1063,6 +1063,18 @@ Oracle Analytics Cloud（OAC）
 を活用し、モダンなデ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
+    <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
+    <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T07:05:56+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ultra-grand-child&quot;&gt;Ultra-grand-child&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T07:05:56+09:00&lt;br/&gt;Updated: 2026-01-26T07:05:56+09:00&lt;br/&gt;タイトルの通り、就職活動のために作ったアプリが意外にも使える子に仕上がったので、自慢します。
+最初の方にアプリの紹介と技術制約の話を書いておきます。
+「なんでそんなもん作ったんや？」という疑問には、あとの方のセクションで書いてきます。
+
+この記事を読むとうれしくなれること
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3f76045c4b7696744fb3</id>
     <title>個人開発のAIアプリをServerless化したら月額$7で運用できた件</title>
     <link rel="alternate" href="https://qiita.com/JaminL/items/3f76045c4b7696744fb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1118,18 +1130,6 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 
 シンシアでは、年間100人程度の実務未経験の方が応募し技術面接を受けます。
 その経験を通し、実務未経験者の方にぜひ身につけ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
-    <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
-    <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T07:05:56+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ultra-grand-child&quot;&gt;Ultra-grand-child&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T07:05:56+09:00&lt;br/&gt;Updated: 2026-01-26T07:05:56+09:00&lt;br/&gt;タイトルの通り、就職活動のために作ったアプリが意外にも使える子に仕上がったので、自慢します。
-最初の方にアプリの紹介と技術制約の話を書いておきます。
-「なんでそんなもん作ったんや？」という疑問には、あとの方のセクションで書いてきます。
-
-この記事を読むとうれしくなれること
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9093f26b1df1f747f544</id>
