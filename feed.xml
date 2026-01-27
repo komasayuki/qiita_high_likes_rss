@@ -38,7 +38,7 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
     <title>【初心者完全版】0からDockerをフルスタックアプリを開発しながら学べるチュートリアル【React /TypeScript/Hono/docker-compose】</title>
     <link rel="alternate" href="https://qiita.com/Sicut_study/items/fd8e8a9fe05631fc5ca8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-25T17:01:10+09:00</updated>
-    <summary type="html">Likes: 218&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T17:01:10+09:00&lt;br/&gt;Updated: 2026-01-25T17:01:10+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 220&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T17:01:10+09:00&lt;br/&gt;Updated: 2026-01-25T17:01:10+09:00&lt;br/&gt;はじめに
 エンジニアをやっていると大きな山場のようなものがいくつかあります。
 CI/CD / AWS / Docker / Clean Architecture
 これらは私がジュニアレベルからミドルレベルに上がる中でも特に大変だったなと思う項目です。これを見ている方も憧...</summary>
@@ -368,7 +368,7 @@ Tauri は、OS がもともと持っている WebView を利用し、Rust をバ
     <title>「ログイン周り」がごちゃつく人へ：認証・認可・SSO・OAuth/OIDC/SAMLの地図</title>
     <link rel="alternate" href="https://qiita.com/ryucciarati/items/800beee69019ca84855c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-24T21:01:36+09:00</updated>
-    <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryucciarati&quot;&gt;ryucciarati&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T21:01:36+09:00&lt;br/&gt;Updated: 2026-01-24T21:01:36+09:00&lt;br/&gt;「OAuthで認証してます」
+    <summary type="html">Likes: 69&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryucciarati&quot;&gt;ryucciarati&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T21:01:36+09:00&lt;br/&gt;Updated: 2026-01-24T21:01:36+09:00&lt;br/&gt;「OAuthで認証してます」
 「SSOってSAMLのこと？」
 「OIDCってOAuthの上位互換？」
 このあたり、言葉の形が似ていて普通に混ざります。
@@ -818,6 +818,30 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
 ただ、そ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b15f9adc9fb807a3e148</id>
+    <title>ペネトレーションテスト チートシート（CRTP）</title>
+    <link rel="alternate" href="https://qiita.com/sanyamarseille/items/b15f9adc9fb807a3e148?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-27T22:58:47+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sanyamarseille&quot;&gt;sanyamarseille&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:49:04+09:00&lt;br/&gt;Updated: 2026-01-27T22:58:47+09:00&lt;br/&gt;CRTP CheatSheet
+
+参考リンク
+
+CRTP Notes
+CRTP Study Notes
+Windows SID一覧
+Certify
+
+目次
+
+一般
+
+セキュリティ機能の無効化
+セキュリティ機能の検知回避
+アプリケーション実行制御の無効化
+ファイル配送
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e3f47c36c980f49381d6</id>
     <title>ブラウザ操作不要！Playwright MCPでテスト仕様書からE2Eテストコードを自動生成してみた</title>
     <link rel="alternate" href="https://qiita.com/ntaka329/items/e3f47c36c980f49381d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -837,30 +861,6 @@ E2Eテストの自動化、進めていますか？
     <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuni-i&quot;&gt;kimuni-i&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T15:16:50+09:00&lt;br/&gt;Updated: 2026-01-20T15:53:08+09:00&lt;br/&gt;はじめに
 要件定義書の作成に悩んでいませんか？「何を書けばいいかわからない」「後工程で使いにくいと言われる」「ステークホルダーとの認識がズレる」——こうした課題は、要件定義書の構造化で大きく改善できます。
 今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b15f9adc9fb807a3e148</id>
-    <title>ペネトレーションテスト チートシート（CRTP）</title>
-    <link rel="alternate" href="https://qiita.com/sanyamarseille/items/b15f9adc9fb807a3e148?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-27T22:58:47+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sanyamarseille&quot;&gt;sanyamarseille&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:49:04+09:00&lt;br/&gt;Updated: 2026-01-27T22:58:47+09:00&lt;br/&gt;CRTP CheatSheet
-
-参考リンク
-
-CRTP Notes
-CRTP Study Notes
-Windows SID一覧
-Certify
-
-目次
-
-一般
-
-セキュリティ機能の無効化
-セキュリティ機能の検知回避
-アプリケーション実行制御の無効化
-ファイル配送
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b1726a7a6054ed7e64df</id>
