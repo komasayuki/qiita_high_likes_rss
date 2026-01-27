@@ -50,7 +50,7 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
     <title>【初心者完全版】0からDockerをフルスタックアプリを開発しながら学べるチュートリアル【React /TypeScript/Hono/docker-compose】</title>
     <link rel="alternate" href="https://qiita.com/Sicut_study/items/fd8e8a9fe05631fc5ca8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-25T17:01:10+09:00</updated>
-    <summary type="html">Likes: 169&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T17:01:10+09:00&lt;br/&gt;Updated: 2026-01-25T17:01:10+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 174&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T17:01:10+09:00&lt;br/&gt;Updated: 2026-01-25T17:01:10+09:00&lt;br/&gt;はじめに
 エンジニアをやっていると大きな山場のようなものがいくつかあります。
 CI/CD / AWS / Docker / Clean Architecture
 これらは私がジュニアレベルからミドルレベルに上がる中でも特に大変だったなと思う項目です。これを見ている方も憧...</summary>
@@ -148,7 +148,7 @@ PRUMについて気...</summary>
     <title>「ヴァイブコーディング」っていう言葉は2026年なくなるんじゃないか。</title>
     <link rel="alternate" href="https://qiita.com/cozyupk/items/bf5637f40d59e18c4d5e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-24T13:03:45+09:00</updated>
-    <summary type="html">Likes: 125&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/cozyupk&quot;&gt;cozyupk&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T13:03:45+09:00&lt;br/&gt;Updated: 2026-01-24T13:03:45+09:00&lt;br/&gt;2025年2月初頭に生まれた 「ヴァイブコーディング（雰囲気コーディング）」 という言葉は、そのカジュアルな響きが受け、Wikipedia に項目ができるほど定着した。AIにコーディングを任せる、あるいは補助として活用する開発スタイルを指す言葉らしい。
+    <summary type="html">Likes: 126&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/cozyupk&quot;&gt;cozyupk&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T13:03:45+09:00&lt;br/&gt;Updated: 2026-01-24T13:03:45+09:00&lt;br/&gt;2025年2月初頭に生まれた 「ヴァイブコーディング（雰囲気コーディング）」 という言葉は、そのカジュアルな響きが受け、Wikipedia に項目ができるほど定着した。AIにコーディングを任せる、あるいは補助として活用する開発スタイルを指す言葉らしい。
 この言葉が「バズった...</summary>
   </entry>
   <entry>
@@ -238,6 +238,18 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
 またなんか無限レンダリングされるとかなんか2回...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:97df9ff710914a806340</id>
+    <title>速報！Playwright CLIがでた！</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/97df9ff710914a806340?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T11:47:17+09:00</updated>
+    <summary type="html">Likes: 88&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T11:40:09+09:00&lt;br/&gt;Updated: 2026-01-24T11:47:17+09:00&lt;br/&gt;Playwright MCP Serverの最新版（v0.0.58）でPlaywright CLIが追加されたようです！
+
+トークン効率が良くなるよとのことで、早速やってみました！
+
+インストール
+Playwright MCP Serverをグローバルインストールすると...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:eff0f63dac99554e6439</id>
     <title>Claude CodeやCursorを使って、AIがUIデザインを生成することができる「Pencil」が登場！</title>
     <link rel="alternate" href="https://qiita.com/degudegu2510/items/eff0f63dac99554e6439?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -246,18 +258,6 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
 みなさんは、Pencil というAIツール使ったことがありますか？
 Pencilは、Figma + Layermate みたいなツールで、Pencil上でAIにUIを作らせたり、作成したUIをMCPを経由して開発させることができます！
 この記事では、実際に、Pe...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:97df9ff710914a806340</id>
-    <title>速報！Playwright CLIがでた！</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/97df9ff710914a806340?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-24T11:47:17+09:00</updated>
-    <summary type="html">Likes: 85&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T11:40:09+09:00&lt;br/&gt;Updated: 2026-01-24T11:47:17+09:00&lt;br/&gt;Playwright MCP Serverの最新版（v0.0.58）でPlaywright CLIが追加されたようです！
-
-トークン効率が良くなるよとのことで、早速やってみました！
-
-インストール
-Playwright MCP Serverをグローバルインストールすると...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cbdcda9c0251d66f252c</id>
@@ -289,6 +289,16 @@ X（旧Twitter）で海外Tech動画を日々紹介してるKoderです!
     <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/momo10&quot;&gt;momo10&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T18:19:24+09:00&lt;br/&gt;Updated: 2026-01-20T20:09:54+09:00&lt;br/&gt;はじめに
 敵対的模倣学習の圏論的解釈について紹介します。
 近年、敵対的模倣学習 (Generative Adversarial Imitation Learning; GAIL) や、それを応用した RLHF (Reinforcement Learning from Hu...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e41062344f0b86049a68</id>
+    <title>【元経理】実務で本当に使えたExcelの小技５選【ミス防止】</title>
+    <link rel="alternate" href="https://qiita.com/2000na/items/e41062344f0b86049a68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T08:26:14+09:00</updated>
+    <summary type="html">Likes: 77&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/2000na&quot;&gt;2000na&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T09:09:49+09:00&lt;br/&gt;Updated: 2026-01-26T08:26:14+09:00&lt;br/&gt;前職では経理として、日々の集計業務でExcelを使い倒してきました。
+一円の違いや細かい端数処理でミスが許されない業務を行う中で仕組みによる事故防止に努めてきました。
+この記事では、実務で「地味だけど効く」Excelの小技を紹介します。
+※マクロなし／明日から使えるもの中心...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:193f9df4db110f1bb817</id>
@@ -333,16 +343,6 @@ SHAP値処理の改修
 感想
 
 初...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e41062344f0b86049a68</id>
-    <title>【元経理】実務で本当に使えたExcelの小技５選【ミス防止】</title>
-    <link rel="alternate" href="https://qiita.com/2000na/items/e41062344f0b86049a68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T08:26:14+09:00</updated>
-    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/2000na&quot;&gt;2000na&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T09:09:49+09:00&lt;br/&gt;Updated: 2026-01-26T08:26:14+09:00&lt;br/&gt;前職では経理として、日々の集計業務でExcelを使い倒してきました。
-一円の違いや細かい端数処理でミスが許されない業務を行う中で仕組みによる事故防止に努めてきました。
-この記事では、実務で「地味だけど効く」Excelの小技を紹介します。
-※マクロなし／明日から使えるもの中心...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e21155fe84a5beb4782d</id>
@@ -653,6 +653,18 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
 そんな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:9252a1fdea26c82ae908</id>
+    <title>【CTFおすすめ一覧】セキュリティ勉強しなきゃ...の第一歩へ</title>
+    <link rel="alternate" href="https://qiita.com/GIFCat/items/9252a1fdea26c82ae908?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T08:52:57+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GIFCat&quot;&gt;GIFCat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T08:52:57+09:00&lt;br/&gt;Updated: 2026-01-24T08:52:57+09:00&lt;br/&gt;みなさん、一度はハッカーに憧れたことはありますか？
+興味をもったことへまずやってみることが、人が成長するための早い手段の一つだと思います。
+
+エージェントAIは次なる大きな内部リスク
+
+それぞれが手探りでAIセキュリティの取り組みを進めているため、シャドーAIのリス...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:58be7519dee6a58f74d1</id>
     <title>Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -683,18 +695,6 @@ Web API（REST API）という言葉を聞いたことがある方
     <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/koras7788&quot;&gt;koras7788&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:47:41+09:00&lt;br/&gt;Updated: 2026-01-21T17:55:41+09:00&lt;br/&gt;Claude Codeは、AI支援による開発体験を提供する強力なツールです。しかし、多くの機能が隠れているため、その真価を十分に活用できていないユーザーも少なくありません。この記事では、作業効率を大幅に向上させる実践的なテクニックを4つのカテゴリーに分けて紹介します。
 
 1...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9252a1fdea26c82ae908</id>
-    <title>【CTFおすすめ一覧】セキュリティ勉強しなきゃ...の第一歩へ</title>
-    <link rel="alternate" href="https://qiita.com/GIFCat/items/9252a1fdea26c82ae908?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-24T08:52:57+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GIFCat&quot;&gt;GIFCat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T08:52:57+09:00&lt;br/&gt;Updated: 2026-01-24T08:52:57+09:00&lt;br/&gt;みなさん、一度はハッカーに憧れたことはありますか？
-興味をもったことへまずやってみることが、人が成長するための早い手段の一つだと思います。
-
-エージェントAIは次なる大きな内部リスク
-
-それぞれが手探りでAIセキュリティの取り組みを進めているため、シャドーAIのリス...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:acc22c05c66826289f11</id>
@@ -744,6 +744,22 @@ Qiita上の解説としては以下の記事が最速ですが、本当に便利
 https://qiita.com/xhackjp1/items/03045dd62c2f...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:79d8020799c6f9e329dc</id>
+    <title>Qwen3-TTSってなんだ？〜3秒の音声でボイスクローンできる最新AIを日本語環境で完全攻略〜</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/79d8020799c6f9e329dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T06:17:04+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T06:16:51+09:00&lt;br/&gt;Updated: 2026-01-24T06:17:04+09:00&lt;br/&gt;この記事の対象読者
+
+Pythonの基本文法を理解している方
+音声合成（TTS）に興味があるが、まだ試したことがない方
+ローカルでAI音声生成を動かしてみたい方
+MacからWindowsに移行して、GPU環境を構築したばかりの方
+
+この記事で得られること
+
+Qwen3-...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:01de1ee21d2491c54450</id>
     <title>ハッカー視点で語る「Initial Access（初期侵入）」 〜 派手なExploitより、地味なパスワードが最強 〜</title>
     <link rel="alternate" href="https://qiita.com/tkmiii_GiGOOO/items/01de1ee21d2491c54450?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -782,6 +798,21 @@ E2Eテストの自動化、進めていますか？
 今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
+    <title>個人開発「ひたすら数学」作ってリリースしてみた iOS/Android</title>
+    <link rel="alternate" href="https://qiita.com/keitaMax/items/eba4cc53538a37121ede?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-25T19:47:40+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/keitaMax&quot;&gt;keitaMax&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T19:39:50+09:00&lt;br/&gt;Updated: 2026-01-25T19:47:40+09:00&lt;br/&gt;はじめに
+こんにちは、エンジニアの keitaMax です。
+数学の勉強をしていて、
+もっと練習したい、ひたすら問題をときたいということってありませんか？
+そこで、何も考えずにひたすら数学を解くことができる
+数学学習サービスを作りました。
+それが ひたすら数学 です。
+
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b1726a7a6054ed7e64df</id>
     <title>アーキテクチャの本質は共通している？最も大切な責務分離という考え方</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/b1726a7a6054ed7e64df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -804,22 +835,6 @@ E2Eテストの自動化、進めていますか？
     <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T20:57:55+09:00&lt;br/&gt;Updated: 2026-01-06T19:49:00+09:00&lt;br/&gt;はじめに
 表題のとおり、Windows OS を USB メモリ上に導入して、任意の PC を使って利用するためのノウハウを共有したいと思います。
 本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:79d8020799c6f9e329dc</id>
-    <title>Qwen3-TTSってなんだ？〜3秒の音声でボイスクローンできる最新AIを日本語環境で完全攻略〜</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/79d8020799c6f9e329dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-24T06:17:04+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T06:16:51+09:00&lt;br/&gt;Updated: 2026-01-24T06:17:04+09:00&lt;br/&gt;この記事の対象読者
-
-Pythonの基本文法を理解している方
-音声合成（TTS）に興味があるが、まだ試したことがない方
-ローカルでAI音声生成を動かしてみたい方
-MacからWindowsに移行して、GPU環境を構築したばかりの方
-
-この記事で得られること
-
-Qwen3-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
@@ -852,19 +867,16 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
-    <title>個人開発「ひたすら数学」作ってリリースしてみた iOS/Android</title>
-    <link rel="alternate" href="https://qiita.com/keitaMax/items/eba4cc53538a37121ede?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-25T19:47:40+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/keitaMax&quot;&gt;keitaMax&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T19:39:50+09:00&lt;br/&gt;Updated: 2026-01-25T19:47:40+09:00&lt;br/&gt;はじめに
-こんにちは、エンジニアの keitaMax です。
-数学の勉強をしていて、
-もっと練習したい、ひたすら問題をときたいということってありませんか？
-そこで、何も考えずにひたすら数学を解くことができる
-数学学習サービスを作りました。
-それが ひたすら数学 です。
-
-...</summary>
+    <id>tag:qiita.com,2026:800beee69019ca84855c</id>
+    <title>「ログイン周り」がごちゃつく人へ：認証・認可・SSO・OAuth/OIDC/SAMLの地図</title>
+    <link rel="alternate" href="https://qiita.com/ryucciarati/items/800beee69019ca84855c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T21:01:36+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryucciarati&quot;&gt;ryucciarati&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T21:01:36+09:00&lt;br/&gt;Updated: 2026-01-24T21:01:36+09:00&lt;br/&gt;「OAuthで認証してます」
+「SSOってSAMLのこと？」
+「OIDCってOAuthの上位互換？」
+このあたり、言葉の形が似ていて普通に混ざります。
+で、混ざったままでも開発は進んでしまうので、なおさら厄介です。
+ただ、ここで詰まる原因は「専門用語が多いから」じゃなくて、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0990ec75925499981100</id>
@@ -978,18 +990,6 @@ Gitの設計上の課題を、現代的なモデルで再設計した...</summar
 皆さんAmazon Connectはご存知でしょうか？
 私は昨年のAWS Summitで初めてこのサービスを知りました。
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:800beee69019ca84855c</id>
-    <title>「ログイン周り」がごちゃつく人へ：認証・認可・SSO・OAuth/OIDC/SAMLの地図</title>
-    <link rel="alternate" href="https://qiita.com/ryucciarati/items/800beee69019ca84855c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-24T21:01:36+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryucciarati&quot;&gt;ryucciarati&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T21:01:36+09:00&lt;br/&gt;Updated: 2026-01-24T21:01:36+09:00&lt;br/&gt;「OAuthで認証してます」
-「SSOってSAMLのこと？」
-「OIDCってOAuthの上位互換？」
-このあたり、言葉の形が似ていて普通に混ざります。
-で、混ざったままでも開発は進んでしまうので、なおさら厄介です。
-ただ、ここで詰まる原因は「専門用語が多いから」じゃなくて、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0800689e72d30fb554d7</id>
@@ -1119,6 +1119,19 @@ C++の代わりにRustで記述する
 この章では、「どう直すか...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cbad89098dfcc8c71178</id>
+    <title>【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（前編）</title>
+    <link rel="alternate" href="https://qiita.com/yushibats/items/cbad89098dfcc8c71178?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T15:10:51+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T06:43:13+09:00&lt;br/&gt;Updated: 2026-01-26T15:10:51+09:00&lt;br/&gt;この記事は、OCI（Oracle Cloud Infrustructure） 上で、
+
+Oracle AI Data Platform（AIDP）
+Autonomous AI Lakehouse
+Oracle Analytics Cloud（OAC）
+
+を活用し、モダンなデ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:90697508c14d8f2a5afe</id>
     <title>Vue 3: computed で入力バリデーションをリアルタイム表示する</title>
     <link rel="alternate" href="https://qiita.com/pomusuke36/items/90697508c14d8f2a5afe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1176,19 +1189,6 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 2025年12月現在&quot;C++26&quot;はISO/IEC標準規格としては未発行のため、代わりに最新Working Draft N5032（2025-12-15）を参照しています。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cbad89098dfcc8c71178</id>
-    <title>【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（前編）</title>
-    <link rel="alternate" href="https://qiita.com/yushibats/items/cbad89098dfcc8c71178?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T15:10:51+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T06:43:13+09:00&lt;br/&gt;Updated: 2026-01-26T15:10:51+09:00&lt;br/&gt;この記事は、OCI（Oracle Cloud Infrustructure） 上で、
-
-Oracle AI Data Platform（AIDP）
-Autonomous AI Lakehouse
-Oracle Analytics Cloud（OAC）
-
-を活用し、モダンなデ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
@@ -1441,6 +1441,16 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 そんな私が、生成AI（ChatGPT / Cla...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3b24fa8e87869cc73bfc</id>
+    <title>Markdown記法の基本を初心者向けに徹底解説！今すぐ使える実践テクニック</title>
+    <link rel="alternate" href="https://qiita.com/KodoCode/items/3b24fa8e87869cc73bfc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T17:39:43+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KodoCode&quot;&gt;KodoCode&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T17:39:43+09:00&lt;br/&gt;Updated: 2026-01-24T17:39:43+09:00&lt;br/&gt;【完全版】Markdown記法の基本を初心者向けに徹底解説！今すぐ使える実践テクニック
+
+はじめに
+プログラミングを始めたばかりの方や、技術ブログを書きたいと思っている方にとって、Markdown記法は必ずマスターしておきたいスキルの一つです。Qiita、GitHub、N...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:57fb0da7257d9875409c</id>
     <title>Bedrock AgentCoreのデプロイツールがTypeScriptに対応！ 宇宙最速で試してみた</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/57fb0da7257d9875409c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1604,16 +1614,6 @@ TCPとUDPの違い
     <updated>2026-01-04T05:20:28+09:00</updated>
     <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/AInsights&quot;&gt;AInsights&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T05:20:28+09:00&lt;br/&gt;Updated: 2026-01-04T05:20:28+09:00&lt;br/&gt;ソフトウェアエンジニアリングにおけるプログラミング言語選定の戦略的アプローチ 🚀
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3b24fa8e87869cc73bfc</id>
-    <title>Markdown記法の基本を初心者向けに徹底解説！今すぐ使える実践テクニック</title>
-    <link rel="alternate" href="https://qiita.com/KodoCode/items/3b24fa8e87869cc73bfc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-24T17:39:43+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KodoCode&quot;&gt;KodoCode&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T17:39:43+09:00&lt;br/&gt;Updated: 2026-01-24T17:39:43+09:00&lt;br/&gt;【完全版】Markdown記法の基本を初心者向けに徹底解説！今すぐ使える実践テクニック
-
-はじめに
-プログラミングを始めたばかりの方や、技術ブログを書きたいと思っている方にとって、Markdown記法は必ずマスターしておきたいスキルの一つです。Qiita、GitHub、N...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ec3575db1f0a8755896e</id>
@@ -2210,6 +2210,17 @@ use crate::ray::Ray;
 use s...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:dde45b8e229d703c0a67</id>
+    <title>【Playwright】 何ができるのか</title>
+    <link rel="alternate" href="https://qiita.com/im_yoneda/items/dde45b8e229d703c0a67?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T13:36:08+09:00</updated>
+    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/im_yoneda&quot;&gt;im_yoneda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T13:36:08+09:00&lt;br/&gt;Updated: 2026-01-24T13:36:08+09:00&lt;br/&gt;Playwrightとは
+Playwrightは、Microsoftが開発・メンテナンスしているオープンソースのブラウザ自動化ツールです。
+E2EやWebスクレイピング、ブラウザ操作の自動化などに利用できます。
+
+E2Eテスト（End-to-End Testing：エン...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:192ddb7691de4beef605</id>
     <title>GASとGoogleFormで実業団囲碁大会をDX！</title>
     <link rel="alternate" href="https://qiita.com/ebichan_88/items/192ddb7691de4beef605?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2219,12 +2230,5 @@ use s...</summary>
 ちょっと大げさなタイトルですが、囲碁に興味ある方、個人開発に興味のある方等々、少しでも興味を持っていただけたら幸いです。
 
 実業団囲碁大会とは...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:960ce9989723a1a31e40</id>
-    <title>Transformer（自己注意＝Self-Attention）とポケモン</title>
-    <link rel="alternate" href="https://qiita.com/qwer123123/items/960ce9989723a1a31e40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-22T18:41:55+09:00</updated>
-    <summary type="html">Likes: 10&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/qwer123123&quot;&gt;qwer123123&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T18:41:55+09:00&lt;br/&gt;Updated: 2026-01-22T18:41:55+09:00&lt;br/&gt;これは「ポケモン風の短いテキスト」を学習データにして、Transformer（自己注意＝Self-Attention）で次の文字を予測する “超小型言語モデル” を Colab 上で動かすデモコードです。目的は「アテンション機構がどこを見て次の文字を出しているか」を可視化す...</summary>
   </entry>
 </feed>
