@@ -364,6 +364,18 @@ Electron のようなフレームワークは便利ですが、「アプリサ�
 Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用することで...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:800beee69019ca84855c</id>
+    <title>「ログイン周り」がごちゃつく人へ：認証・認可・SSO・OAuth/OIDC/SAMLの地図</title>
+    <link rel="alternate" href="https://qiita.com/ryucciarati/items/800beee69019ca84855c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-24T21:01:36+09:00</updated>
+    <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryucciarati&quot;&gt;ryucciarati&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T21:01:36+09:00&lt;br/&gt;Updated: 2026-01-24T21:01:36+09:00&lt;br/&gt;「OAuthで認証してます」
+「SSOってSAMLのこと？」
+「OIDCってOAuthの上位互換？」
+このあたり、言葉の形が似ていて普通に混ざります。
+で、混ざったままでも開発は進んでしまうので、なおさら厄介です。
+ただ、ここで詰まる原因は「専門用語が多いから」じゃなくて、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bd5266a987d082caea16</id>
     <title>【狂気の実証実験2】GPTsに電気ショック権限を付与してみた</title>
     <link rel="alternate" href="https://qiita.com/motoya0118/items/bd5266a987d082caea16?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -388,18 +400,6 @@ Tauri は、OS がもともと持っている WebView を利用し、Rust をバ
 生成AI初学者の方達の参考になれば幸いです。
 
 RAG（検索拡張生成）とは？...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:800beee69019ca84855c</id>
-    <title>「ログイン周り」がごちゃつく人へ：認証・認可・SSO・OAuth/OIDC/SAMLの地図</title>
-    <link rel="alternate" href="https://qiita.com/ryucciarati/items/800beee69019ca84855c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-24T21:01:36+09:00</updated>
-    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryucciarati&quot;&gt;ryucciarati&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T21:01:36+09:00&lt;br/&gt;Updated: 2026-01-24T21:01:36+09:00&lt;br/&gt;「OAuthで認証してます」
-「SSOってSAMLのこと？」
-「OIDCってOAuthの上位互換？」
-このあたり、言葉の形が似ていて普通に混ざります。
-で、混ざったままでも開発は進んでしまうので、なおさら厄介です。
-ただ、ここで詰まる原因は「専門用語が多いから」じゃなくて、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a3e91b89b5ed9b266e91</id>
@@ -634,6 +634,21 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
+    <title>個人開発「ひたすら数学」作ってリリースしてみた iOS/Android</title>
+    <link rel="alternate" href="https://qiita.com/keitaMax/items/eba4cc53538a37121ede?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-25T19:47:40+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/keitaMax&quot;&gt;keitaMax&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T19:39:50+09:00&lt;br/&gt;Updated: 2026-01-25T19:47:40+09:00&lt;br/&gt;はじめに
+こんにちは、エンジニアの keitaMax です。
+数学の勉強をしていて、
+もっと練習したい、ひたすら問題をときたいということってありませんか？
+そこで、何も考えずにひたすら数学を解くことができる
+数学学習サービスを作りました。
+それが ひたすら数学 です。
+
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:910b7a6c1be97da2879d</id>
     <title>エンジニアなら知っておきたいサーバーの基本</title>
     <link rel="alternate" href="https://qiita.com/Suntory/items/910b7a6c1be97da2879d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -663,21 +678,6 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
     <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobayashimakoto&quot;&gt;kobayashimakoto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:32:18+09:00&lt;br/&gt;Updated: 2026-01-06T08:29:44+09:00&lt;br/&gt;はじめに
 カルーセルはWEBアプリケーションでよく採用されるUIコンポーネントの1つですが、一般的な実装パターンがなく、アクセシビリティを配慮しつつ実装するのも複雑で大変なので SlickやSwiperといったライブラリを採用するケースが多いのではないでしょうか。
 そんな...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
-    <title>個人開発「ひたすら数学」作ってリリースしてみた iOS/Android</title>
-    <link rel="alternate" href="https://qiita.com/keitaMax/items/eba4cc53538a37121ede?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-25T19:47:40+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/keitaMax&quot;&gt;keitaMax&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T19:39:50+09:00&lt;br/&gt;Updated: 2026-01-25T19:47:40+09:00&lt;br/&gt;はじめに
-こんにちは、エンジニアの keitaMax です。
-数学の勉強をしていて、
-もっと練習したい、ひたすら問題をときたいということってありませんか？
-そこで、何も考えずにひたすら数学を解くことができる
-数学学習サービスを作りました。
-それが ひたすら数学 です。
-
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9252a1fdea26c82ae908</id>
@@ -1050,6 +1050,19 @@ Gitの設計上の課題を、現代的なモデルで再設計した...</summar
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cbad89098dfcc8c71178</id>
+    <title>【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（前編）</title>
+    <link rel="alternate" href="https://qiita.com/yushibats/items/cbad89098dfcc8c71178?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T15:10:51+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T06:43:13+09:00&lt;br/&gt;Updated: 2026-01-26T15:10:51+09:00&lt;br/&gt;この記事は、OCI（Oracle Cloud Infrustructure） 上で、
+
+Oracle AI Data Platform（AIDP）
+Autonomous AI Lakehouse
+Oracle Analytics Cloud（OAC）
+
+を活用し、モダンなデ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3f76045c4b7696744fb3</id>
     <title>個人開発のAIアプリをServerless化したら月額$7で運用できた件</title>
     <link rel="alternate" href="https://qiita.com/JaminL/items/3f76045c4b7696744fb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1084,19 +1097,6 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:cbad89098dfcc8c71178</id>
-    <title>【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（前編）</title>
-    <link rel="alternate" href="https://qiita.com/yushibats/items/cbad89098dfcc8c71178?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T15:10:51+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T06:43:13+09:00&lt;br/&gt;Updated: 2026-01-26T15:10:51+09:00&lt;br/&gt;この記事は、OCI（Oracle Cloud Infrustructure） 上で、
-
-Oracle AI Data Platform（AIDP）
-Autonomous AI Lakehouse
-Oracle Analytics Cloud（OAC）
-
-を活用し、モダンなデ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:db798b2e5805c51a64c1</id>
     <title>H3ロケットの失敗から学ぶ、前提を疑う設計</title>
     <link rel="alternate" href="https://qiita.com/sh-ohtani/items/db798b2e5805c51a64c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1118,6 +1118,18 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 
 シンシアでは、年間100人程度の実務未経験の方が応募し技術面接を受けます。
 その経験を通し、実務未経験者の方にぜひ身につけ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
+    <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
+    <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T07:05:56+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ultra-grand-child&quot;&gt;Ultra-grand-child&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T07:05:56+09:00&lt;br/&gt;Updated: 2026-01-26T07:05:56+09:00&lt;br/&gt;タイトルの通り、就職活動のために作ったアプリが意外にも使える子に仕上がったので、自慢します。
+最初の方にアプリの紹介と技術制約の話を書いておきます。
+「なんでそんなもん作ったんや？」という疑問には、あとの方のセクションで書いてきます。
+
+この記事を読むとうれしくなれること
+...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9093f26b1df1f747f544</id>
@@ -1229,6 +1241,17 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fbabdb74ccad1ec316c1</id>
+    <title>【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（後編）</title>
+    <link rel="alternate" href="https://qiita.com/yushibats/items/fbabdb74ccad1ec316c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T14:30:27+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T06:46:54+09:00&lt;br/&gt;Updated: 2026-01-26T14:30:27+09:00&lt;br/&gt;はじめに
+本記事は、
+「【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（前編）」  の続編です。
+前編では、Step 1～Step 2として、ATP を起点に AIDP 上でデータを取り込み、
+Bronze...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
     <title>FPGAボード Shrike Liteをお試し</title>
     <link rel="alternate" href="https://qiita.com/Lathe/items/241640a492adc2b5fc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1259,29 +1282,6 @@ FPGAとマイコンを1ボードに搭載
     <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
 そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
 Google Colabで手軽に試せるの...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fbabdb74ccad1ec316c1</id>
-    <title>【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（後編）</title>
-    <link rel="alternate" href="https://qiita.com/yushibats/items/fbabdb74ccad1ec316c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T14:30:27+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T06:46:54+09:00&lt;br/&gt;Updated: 2026-01-26T14:30:27+09:00&lt;br/&gt;はじめに
-本記事は、
-「【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（前編）」  の続編です。
-前編では、Step 1～Step 2として、ATP を起点に AIDP 上でデータを取り込み、
-Bronze...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
-    <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
-    <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T07:05:56+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ultra-grand-child&quot;&gt;Ultra-grand-child&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T07:05:56+09:00&lt;br/&gt;Updated: 2026-01-26T07:05:56+09:00&lt;br/&gt;タイトルの通り、就職活動のために作ったアプリが意外にも使える子に仕上がったので、自慢します。
-最初の方にアプリの紹介と技術制約の話を書いておきます。
-「なんでそんなもん作ったんや？」という疑問には、あとの方のセクションで書いてきます。
-
-この記事を読むとうれしくなれること
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bd20f5fdec145334e10c</id>
@@ -1501,6 +1501,16 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 そんな私が、生成AI（ChatGPT / Cla...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8b0e5b51749ccdfde393</id>
+    <title>🤤 僕の考えた最強の次世代Webアプリケーションフレームワーク</title>
+    <link rel="alternate" href="https://qiita.com/u83unlimited/items/8b0e5b51749ccdfde393?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T02:01:20+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/u83unlimited&quot;&gt;u83unlimited&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T02:01:20+09:00&lt;br/&gt;Updated: 2026-01-26T02:01:20+09:00&lt;br/&gt;概要
+TS製。既存の設計論と関数型プログラミングを参考に再設計されたWebアプリケーションスキーマ（と規定されたスケーリング方法）を元にした 設計解析＆改善提案プログラム（Linter＆Formatter） 及びアプリケーションFW（＆ツールキット）からなる。
+
+最重要テ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:57fb0da7257d9875409c</id>
     <title>Bedrock AgentCoreのデプロイツールがTypeScriptに対応！ 宇宙最速で試してみた</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/57fb0da7257d9875409c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1664,16 +1674,6 @@ TCPとUDPの違い
     <updated>2026-01-04T05:20:28+09:00</updated>
     <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/AInsights&quot;&gt;AInsights&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T05:20:28+09:00&lt;br/&gt;Updated: 2026-01-04T05:20:28+09:00&lt;br/&gt;ソフトウェアエンジニアリングにおけるプログラミング言語選定の戦略的アプローチ 🚀
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8b0e5b51749ccdfde393</id>
-    <title>🤤 僕の考えた最強の次世代Webアプリケーションフレームワーク</title>
-    <link rel="alternate" href="https://qiita.com/u83unlimited/items/8b0e5b51749ccdfde393?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T02:01:20+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/u83unlimited&quot;&gt;u83unlimited&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T02:01:20+09:00&lt;br/&gt;Updated: 2026-01-26T02:01:20+09:00&lt;br/&gt;概要
-TS製。既存の設計論と関数型プログラミングを参考に再設計されたWebアプリケーションスキーマ（と規定されたスケーリング方法）を元にした 設計解析＆改善提案プログラム（Linter＆Formatter） 及びアプリケーションFW（＆ツールキット）からなる。
-
-最重要テ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ec3575db1f0a8755896e</id>
