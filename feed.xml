@@ -383,6 +383,18 @@ Certify
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
+    <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
+    <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T07:05:56+09:00</updated>
+    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ultra-grand-child&quot;&gt;Ultra-grand-child&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T07:05:56+09:00&lt;br/&gt;Updated: 2026-01-26T07:05:56+09:00&lt;br/&gt;タイトルの通り、就職活動のために作ったアプリが意外にも使える子に仕上がったので、自慢します。
+最初の方にアプリの紹介と技術制約の話を書いておきます。
+「なんでそんなもん作ったんや？」という疑問には、あとの方のセクションで書いてきます。
+
+この記事を読むとうれしくなれること
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:800beee69019ca84855c</id>
     <title>「ログイン周り」がごちゃつく人へ：認証・認可・SSO・OAuth/OIDC/SAMLの地図</title>
     <link rel="alternate" href="https://qiita.com/ryucciarati/items/800beee69019ca84855c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -403,18 +415,6 @@ Certify
 こんにちは、いのせです。
 最近はAIの進化が止まることなく、AIを使ってコーディングするのが当たり前な時代になりましたね。
 GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場し、コードを書く速度は格段に上がったと思いま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
-    <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
-    <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T07:05:56+09:00</updated>
-    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ultra-grand-child&quot;&gt;Ultra-grand-child&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T07:05:56+09:00&lt;br/&gt;Updated: 2026-01-26T07:05:56+09:00&lt;br/&gt;タイトルの通り、就職活動のために作ったアプリが意外にも使える子に仕上がったので、自慢します。
-最初の方にアプリの紹介と技術制約の話を書いておきます。
-「なんでそんなもん作ったんや？」という疑問には、あとの方のセクションで書いてきます。
-
-この記事を読むとうれしくなれること
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c2e5d77c08c37532a3a3</id>
@@ -699,6 +699,15 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7c5305349815f5142d7d</id>
+    <title>【JavaScript】ES2026の新機能全部解説する</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/7c5305349815f5142d7d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T21:13:46+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:13:46+09:00&lt;br/&gt;Updated: 2026-01-26T21:13:46+09:00&lt;br/&gt;JavaScriptの仕様は、TC39というところで決められています。
+ブラウザベンダや関係者が定期的に会合を行い、様々な新機能について話し合って今後のJavaScriptの方向性を決めていきます。
+ここでは2025年にFinishedになったproposalについて紹介し...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:910b7a6c1be97da2879d</id>
     <title>エンジニアなら知っておきたいサーバーの基本</title>
     <link rel="alternate" href="https://qiita.com/Suntory/items/910b7a6c1be97da2879d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -728,15 +737,6 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
     <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobayashimakoto&quot;&gt;kobayashimakoto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:32:18+09:00&lt;br/&gt;Updated: 2026-01-06T08:29:44+09:00&lt;br/&gt;はじめに
 カルーセルはWEBアプリケーションでよく採用されるUIコンポーネントの1つですが、一般的な実装パターンがなく、アクセシビリティを配慮しつつ実装するのも複雑で大変なので SlickやSwiperといったライブラリを採用するケースが多いのではないでしょうか。
 そんな...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7c5305349815f5142d7d</id>
-    <title>【JavaScript】ES2026の新機能全部解説する</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/7c5305349815f5142d7d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T21:13:46+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:13:46+09:00&lt;br/&gt;Updated: 2026-01-26T21:13:46+09:00&lt;br/&gt;JavaScriptの仕様は、TC39というところで決められています。
-ブラウザベンダや関係者が定期的に会合を行い、様々な新機能について話し合って今後のJavaScriptの方向性を決めていきます。
-ここでは2025年にFinishedになったproposalについて紹介し...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9252a1fdea26c82ae908</id>
@@ -1274,6 +1274,26 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c006c5a7ea64684eae1e</id>
+    <title>git-worktree-runner (gtr) で実現するAI時代の並列開発</title>
+    <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/c006c5a7ea64684eae1e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-28T14:10:41+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kazuki_ogawa&quot;&gt;kazuki_ogawa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T14:10:41+09:00&lt;br/&gt;Updated: 2026-01-28T14:10:41+09:00&lt;br/&gt;株式会社シンシアでは、実務未経験のエンジニアの方や学生エンジニアインターンを採用し一緒に働いています。
+※ シンシアにおける働き方の様子はこちら
+
+シンシアでは、年間100人程度の実務未経験の方が応募し技術面接を受けます。その経験を通し、実務未経験者の方にぜひ身につけて...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:a4ab780761bbf734e473</id>
+    <title>Claude Codeの自動承認モードでホームディレクトリを吹き飛ばされたくない人へ【Docker Sandboxes】</title>
+    <link rel="alternate" href="https://qiita.com/sijiaoh/items/a4ab780761bbf734e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-27T21:23:03+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sijiaoh&quot;&gt;sijiaoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T08:25:35+09:00&lt;br/&gt;Updated: 2026-01-27T21:23:03+09:00&lt;br/&gt;YOLOモードの問題
+Claude Codeには「YOLOモード（--dangerously-skip-permissions）」と呼ばれる機能があります。確認なしでコマンドを実行してくれるので、作業効率が段違いになります。
+一方で、名前の通り危険な機能でもあります。
+ネ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
     <title>FPGAボード Shrike Liteをお試し</title>
     <link rel="alternate" href="https://qiita.com/Lathe/items/241640a492adc2b5fc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1314,26 +1334,6 @@ Google Colabで手軽に試せるの...</summary>
 TS製。既存の設計論と関数型プログラミングを参考に再設計されたWebアプリケーションスキーマ（と規定されたスケーリング方法）を元にした 設計解析＆改善提案プログラム（Linter＆Formatter） 及びアプリケーションFW（＆ツールキット）からなる。
 
 最重要テ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c006c5a7ea64684eae1e</id>
-    <title>git-worktree-runner (gtr) で実現するAI時代の並列開発</title>
-    <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/c006c5a7ea64684eae1e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-28T14:10:41+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kazuki_ogawa&quot;&gt;kazuki_ogawa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T14:10:41+09:00&lt;br/&gt;Updated: 2026-01-28T14:10:41+09:00&lt;br/&gt;株式会社シンシアでは、実務未経験のエンジニアの方や学生エンジニアインターンを採用し一緒に働いています。
-※ シンシアにおける働き方の様子はこちら
-
-シンシアでは、年間100人程度の実務未経験の方が応募し技術面接を受けます。その経験を通し、実務未経験者の方にぜひ身につけて...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a4ab780761bbf734e473</id>
-    <title>Claude Codeの自動承認モードでホームディレクトリを吹き飛ばされたくない人へ【Docker Sandboxes】</title>
-    <link rel="alternate" href="https://qiita.com/sijiaoh/items/a4ab780761bbf734e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-27T21:23:03+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sijiaoh&quot;&gt;sijiaoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T08:25:35+09:00&lt;br/&gt;Updated: 2026-01-27T21:23:03+09:00&lt;br/&gt;YOLOモードの問題
-Claude Codeには「YOLOモード（--dangerously-skip-permissions）」と呼ばれる機能があります。確認なしでコマンドを実行してくれるので、作業効率が段違いになります。
-一方で、名前の通り危険な機能でもあります。
-ネ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bd20f5fdec145334e10c</id>
@@ -1598,6 +1598,15 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 そんな私が、生成AI（ChatGPT / Cla...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e719ed3d0d23ac05bc6e</id>
+    <title>ローカルAI時代の「Clawdbot × Ollama」完全ガイド   ――自分専用マルチチャットAIを動かす</title>
+    <link rel="alternate" href="https://qiita.com/automation2025/items/e719ed3d0d23ac05bc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T17:50:25+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T17:48:25+09:00&lt;br/&gt;Updated: 2026-01-26T17:50:25+09:00&lt;br/&gt;はじめに
+Clawdbot（クロードボット）は、1台のPCをハブにして Discord・Slack・Telegram など複数チャットを横断しながら AI エージェントを動かせる OSS のパーソナルアシスタント基盤です。
+一方 Ollama（オラマ）は、Meta Lla...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8c468cb4f8bac95fa1f0</id>
     <title>短期思考にサヨナラ！『ロングゲーム』で人生を逆算する方法</title>
     <link rel="alternate" href="https://qiita.com/nakaizumi_slj/items/8c468cb4f8bac95fa1f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1770,15 +1779,6 @@ TCPとUDPの違い
     <updated>2026-01-04T05:20:28+09:00</updated>
     <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/AInsights&quot;&gt;AInsights&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T05:20:28+09:00&lt;br/&gt;Updated: 2026-01-04T05:20:28+09:00&lt;br/&gt;ソフトウェアエンジニアリングにおけるプログラミング言語選定の戦略的アプローチ 🚀
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e719ed3d0d23ac05bc6e</id>
-    <title>ローカルAI時代の「Clawdbot × Ollama」完全ガイド   ――自分専用マルチチャットAIを動かす</title>
-    <link rel="alternate" href="https://qiita.com/automation2025/items/e719ed3d0d23ac05bc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T17:50:25+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T17:48:25+09:00&lt;br/&gt;Updated: 2026-01-26T17:50:25+09:00&lt;br/&gt;はじめに
-Clawdbot（クロードボット）は、1台のPCをハブにして Discord・Slack・Telegram など複数チャットを横断しながら AI エージェントを動かせる OSS のパーソナルアシスタント基盤です。
-一方 Ollama（オラマ）は、Meta Lla...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ec3575db1f0a8755896e</id>
