@@ -349,7 +349,7 @@ SHAP値処理の改修
     <title>【後編】先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/9607008aefc2521615ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-28T09:25:42+09:00</updated>
-    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T14:17:53+09:00&lt;br/&gt;Updated: 2026-01-28T09:25:42+09:00&lt;br/&gt;忘れることを前提に、現場はどう教えるべきか
+    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T14:17:53+09:00&lt;br/&gt;Updated: 2026-01-28T09:25:42+09:00&lt;br/&gt;忘れることを前提に、現場はどう教えるべきか
 ― 育成を「根性論」から「設計」に戻す ―
 
 はじめまして。
@@ -357,6 +357,30 @@ SHAP値処理の改修
 日々、プログラミング学習や実務の中で
 つまずきやすいポイントを整理して発信しています。
 PRUMについて気になった方は...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b15f9adc9fb807a3e148</id>
+    <title>ペネトレーションテスト チートシート（CRTP）</title>
+    <link rel="alternate" href="https://qiita.com/sanyamarseille/items/b15f9adc9fb807a3e148?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-27T22:58:47+09:00</updated>
+    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sanyamarseille&quot;&gt;sanyamarseille&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:49:04+09:00&lt;br/&gt;Updated: 2026-01-27T22:58:47+09:00&lt;br/&gt;CRTP CheatSheet
+
+参考リンク
+
+CRTP Notes
+CRTP Study Notes
+Windows SID一覧
+Certify
+
+目次
+
+一般
+
+セキュリティ機能の無効化
+セキュリティ機能の検知回避
+アプリケーション実行制御の無効化
+ファイル配送
+...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:800beee69019ca84855c</id>
@@ -379,30 +403,6 @@ PRUMについて気になった方は...</summary>
 こんにちは、いのせです。
 最近はAIの進化が止まることなく、AIを使ってコーディングするのが当たり前な時代になりましたね。
 GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場し、コードを書く速度は格段に上がったと思いま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b15f9adc9fb807a3e148</id>
-    <title>ペネトレーションテスト チートシート（CRTP）</title>
-    <link rel="alternate" href="https://qiita.com/sanyamarseille/items/b15f9adc9fb807a3e148?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-27T22:58:47+09:00</updated>
-    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sanyamarseille&quot;&gt;sanyamarseille&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:49:04+09:00&lt;br/&gt;Updated: 2026-01-27T22:58:47+09:00&lt;br/&gt;CRTP CheatSheet
-
-参考リンク
-
-CRTP Notes
-CRTP Study Notes
-Windows SID一覧
-Certify
-
-目次
-
-一般
-
-セキュリティ機能の無効化
-セキュリティ機能の検知回避
-アプリケーション実行制御の無効化
-ファイル配送
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c2e5d77c08c37532a3a3</id>
@@ -774,6 +774,15 @@ Web API（REST API）という言葉を聞いたことがある方
 1...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7c5305349815f5142d7d</id>
+    <title>【JavaScript】ES2026の新機能全部解説する</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/7c5305349815f5142d7d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T21:13:46+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:13:46+09:00&lt;br/&gt;Updated: 2026-01-26T21:13:46+09:00&lt;br/&gt;JavaScriptの仕様は、TC39というところで決められています。
+ブラウザベンダや関係者が定期的に会合を行い、様々な新機能について話し合って今後のJavaScriptの方向性を決めていきます。
+ここでは2025年にFinishedになったproposalについて紹介し...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:79d8020799c6f9e329dc</id>
     <title>Qwen3-TTSってなんだ？〜3秒の音声でボイスクローンできる最新AIを日本語環境で完全攻略〜</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/79d8020799c6f9e329dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -815,15 +824,6 @@ PRUMについて気になった方は、
 
 この記事の情報は、2026年1月12日現在のものです。
 またユーザーの呼称は、正式でなく便宜的な...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7c5305349815f5142d7d</id>
-    <title>【JavaScript】ES2026の新機能全部解説する</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/7c5305349815f5142d7d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T21:13:46+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:13:46+09:00&lt;br/&gt;Updated: 2026-01-26T21:13:46+09:00&lt;br/&gt;JavaScriptの仕様は、TC39というところで決められています。
-ブラウザベンダや関係者が定期的に会合を行い、様々な新機能について話し合って今後のJavaScriptの方向性を決めていきます。
-ここでは2025年にFinishedになったproposalについて紹介し...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9bc0a7a0a68b50c8e138</id>
@@ -1173,6 +1173,19 @@ C++の代わりにRustで記述する
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b0b8f28990b19e2a1b04</id>
+    <title>フル日本語環境で働く外国人として</title>
+    <link rel="alternate" href="https://qiita.com/polopopi/items/b0b8f28990b19e2a1b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T14:07:05+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/polopopi&quot;&gt;polopopi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T14:07:03+09:00&lt;br/&gt;Updated: 2026-01-26T14:07:05+09:00&lt;br/&gt;フル日本語環境で働く外国人として
+最初の印象、使っているツール、そして生き延びるためのワークフロー
+
+※本記事の日本語訳は ChatGPT を使って作成しています。
+
+この記事について
+この記事は、フル日本語環境で外国人として働く中で、特に最初の数日間に直面した課題をま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4d28c47b1b6f7ef727cf</id>
     <title>【ポケモン×Java】知識編 ERROR #6 実行時エラーを防止するには？</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/4d28c47b1b6f7ef727cf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1200,19 +1213,6 @@ C++の代わりにRustで記述する
 「【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（前編）」  の続編です。
 前編では、Step 1～Step 2として、ATP を起点に AIDP 上でデータを取り込み、
 Bronze...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b0b8f28990b19e2a1b04</id>
-    <title>フル日本語環境で働く外国人として</title>
-    <link rel="alternate" href="https://qiita.com/polopopi/items/b0b8f28990b19e2a1b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T14:07:05+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/polopopi&quot;&gt;polopopi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T14:07:03+09:00&lt;br/&gt;Updated: 2026-01-26T14:07:05+09:00&lt;br/&gt;フル日本語環境で働く外国人として
-最初の印象、使っているツール、そして生き延びるためのワークフロー
-
-※本記事の日本語訳は ChatGPT を使って作成しています。
-
-この記事について
-この記事は、フル日本語環境で外国人として働く中で、特に最初の数日間に直面した課題をま...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:90697508c14d8f2a5afe</id>
