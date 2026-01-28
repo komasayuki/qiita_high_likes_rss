@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-27T22:58:47+09:00</updated>
+  <updated>2026-01-28T09:25:42+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -38,7 +38,7 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
     <title>【初心者完全版】0からDockerをフルスタックアプリを開発しながら学べるチュートリアル【React /TypeScript/Hono/docker-compose】</title>
     <link rel="alternate" href="https://qiita.com/Sicut_study/items/fd8e8a9fe05631fc5ca8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-25T17:01:10+09:00</updated>
-    <summary type="html">Likes: 224&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T17:01:10+09:00&lt;br/&gt;Updated: 2026-01-25T17:01:10+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 229&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T17:01:10+09:00&lt;br/&gt;Updated: 2026-01-25T17:01:10+09:00&lt;br/&gt;はじめに
 エンジニアをやっていると大きな山場のようなものがいくつかあります。
 CI/CD / AWS / Docker / Clean Architecture
 これらは私がジュニアレベルからミドルレベルに上がる中でも特に大変だったなと思う項目です。これを見ている方も憧...</summary>
@@ -551,6 +551,30 @@ CLAUDE.md
 サブエー...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b15f9adc9fb807a3e148</id>
+    <title>ペネトレーションテスト チートシート（CRTP）</title>
+    <link rel="alternate" href="https://qiita.com/sanyamarseille/items/b15f9adc9fb807a3e148?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-27T22:58:47+09:00</updated>
+    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sanyamarseille&quot;&gt;sanyamarseille&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:49:04+09:00&lt;br/&gt;Updated: 2026-01-27T22:58:47+09:00&lt;br/&gt;CRTP CheatSheet
+
+参考リンク
+
+CRTP Notes
+CRTP Study Notes
+Windows SID一覧
+Certify
+
+目次
+
+一般
+
+セキュリティ機能の無効化
+セキュリティ機能の検知回避
+アプリケーション実行制御の無効化
+ファイル配送
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9923fb21c48ea999b191</id>
     <title>pip installって何してるの？</title>
     <link rel="alternate" href="https://qiita.com/shinya-kg0/items/9923fb21c48ea999b191?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -575,45 +599,25 @@ Pythonでプログラミングをしていると、当たり前のように使�
 統計モデリング（statistical ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:eed90901fdd044ce7f40</id>
-    <title>【Claude Code】Claude CodeがOllamaと連携できるようになったらしい</title>
-    <link rel="alternate" href="https://qiita.com/ryu-ki/items/eed90901fdd044ce7f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T17:14:00+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T08:41:06+09:00&lt;br/&gt;Updated: 2026-01-19T17:14:00+09:00&lt;br/&gt;はじめに
-2026/1/18 に以下のようなツイートを見かけました。
+    <id>tag:qiita.com,2026:9607008aefc2521615ac</id>
+    <title>【後編】先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/9607008aefc2521615ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-28T09:25:42+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T14:17:53+09:00&lt;br/&gt;Updated: 2026-01-28T09:25:42+09:00&lt;br/&gt;忘れることを前提に、現場はどう教えるべきか
+― 育成を「根性論」から「設計」に戻す ―
 
-Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b15f9adc9fb807a3e148</id>
-    <title>ペネトレーションテスト チートシート（CRTP）</title>
-    <link rel="alternate" href="https://qiita.com/sanyamarseille/items/b15f9adc9fb807a3e148?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-27T22:58:47+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sanyamarseille&quot;&gt;sanyamarseille&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:49:04+09:00&lt;br/&gt;Updated: 2026-01-27T22:58:47+09:00&lt;br/&gt;CRTP CheatSheet
-
-参考リンク
-
-CRTP Notes
-CRTP Study Notes
-Windows SID一覧
-Certify
-
-目次
-
-一般
-
-セキュリティ機能の無効化
-セキュリティ機能の検知回避
-アプリケーション実行制御の無効化
-ファイル配送
-...</summary>
+はじめまして。
+株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントを整理して発信しています。
+PRUMについて気になった方は...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
     <title>個人開発「ひたすら数学」作ってリリースしてみた iOS/Android</title>
     <link rel="alternate" href="https://qiita.com/keitaMax/items/eba4cc53538a37121ede?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-25T19:47:40+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/keitaMax&quot;&gt;keitaMax&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T19:39:50+09:00&lt;br/&gt;Updated: 2026-01-25T19:47:40+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/keitaMax&quot;&gt;keitaMax&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T19:39:50+09:00&lt;br/&gt;Updated: 2026-01-25T19:47:40+09:00&lt;br/&gt;はじめに
 こんにちは、エンジニアの keitaMax です。
 数学の勉強をしていて、
 もっと練習したい、ひたすら問題をときたいということってありませんか？
@@ -622,6 +626,16 @@ Certify
 それが ひたすら数学 です。
 
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:eed90901fdd044ce7f40</id>
+    <title>【Claude Code】Claude CodeがOllamaと連携できるようになったらしい</title>
+    <link rel="alternate" href="https://qiita.com/ryu-ki/items/eed90901fdd044ce7f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-19T17:14:00+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T08:41:06+09:00&lt;br/&gt;Updated: 2026-01-19T17:14:00+09:00&lt;br/&gt;はじめに
+2026/1/18 に以下のようなツイートを見かけました。
+
+Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cb29c3208ac188dad5f1</id>
@@ -748,20 +762,6 @@ Web API（REST API）という言葉を聞いたことがある方
 1...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:9607008aefc2521615ac</id>
-    <title>【後編】先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/9607008aefc2521615ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-27T18:51:40+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T14:17:53+09:00&lt;br/&gt;Updated: 2026-01-27T18:51:40+09:00&lt;br/&gt;忘れることを前提に、現場はどう教えるべきか
-― 育成を「根性論」から「設計」に戻す ―
-
-はじめまして。
-株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で
-つまずきやすいポイントを整理して発信しています。
-PRUMについて気になった方は...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:79d8020799c6f9e329dc</id>
     <title>Qwen3-TTSってなんだ？〜3秒の音声でボイスクローンできる最新AIを日本語環境で完全攻略〜</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/79d8020799c6f9e329dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -815,6 +815,18 @@ C#で非同期処理を組み立てていると、タスク間でデータを受
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
+    <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
+    <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T07:05:56+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ultra-grand-child&quot;&gt;Ultra-grand-child&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T07:05:56+09:00&lt;br/&gt;Updated: 2026-01-26T07:05:56+09:00&lt;br/&gt;タイトルの通り、就職活動のために作ったアプリが意外にも使える子に仕上がったので、自慢します。
+最初の方にアプリの紹介と技術制約の話を書いておきます。
+「なんでそんなもん作ったんや？」という疑問には、あとの方のセクションで書いてきます。
+
+この記事を読むとうれしくなれること
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4b3bc75731f109927ebd</id>
     <title>【Qiita最速？】Clawdbot + Discordで自分専用AIアシスタントを構築する【Proxmox/Ubuntu】</title>
     <link rel="alternate" href="https://qiita.com/yu_720/items/4b3bc75731f109927ebd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -861,18 +873,6 @@ E2Eテストの自動化、進めていますか？
     <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuni-i&quot;&gt;kimuni-i&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T15:16:50+09:00&lt;br/&gt;Updated: 2026-01-20T15:53:08+09:00&lt;br/&gt;はじめに
 要件定義書の作成に悩んでいませんか？「何を書けばいいかわからない」「後工程で使いにくいと言われる」「ステークホルダーとの認識がズレる」——こうした課題は、要件定義書の構造化で大きく改善できます。
 今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
-    <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
-    <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T07:05:56+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ultra-grand-child&quot;&gt;Ultra-grand-child&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T07:05:56+09:00&lt;br/&gt;Updated: 2026-01-26T07:05:56+09:00&lt;br/&gt;タイトルの通り、就職活動のために作ったアプリが意外にも使える子に仕上がったので、自慢します。
-最初の方にアプリの紹介と技術制約の話を書いておきます。
-「なんでそんなもん作ったんや？」という疑問には、あとの方のセクションで書いてきます。
-
-この記事を読むとうれしくなれること
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b1726a7a6054ed7e64df</id>
@@ -1676,6 +1676,15 @@ TCPとUDPの違い
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7c5305349815f5142d7d</id>
+    <title>【JavaScript】ES2026の新機能全部解説する</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/7c5305349815f5142d7d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T21:13:46+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:13:46+09:00&lt;br/&gt;Updated: 2026-01-26T21:13:46+09:00&lt;br/&gt;JavaScriptの仕様は、TC39というところで決められています。
+ブラウザベンダや関係者が定期的に会合を行い、様々な新機能について話し合って今後のJavaScriptの方向性を決めていきます。
+ここでは2025年にFinishedになったproposalについて紹介し...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ec3575db1f0a8755896e</id>
     <title>Synology NASで「自分専用の自動化サーバー(n8n)」を立ち上げる方法（Docker入門）</title>
     <link rel="alternate" href="https://qiita.com/TaichiEndoh/items/ec3575db1f0a8755896e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1759,6 +1768,15 @@ CSVファイルに書き込んで
 ・画面提案用のモックを素早く作りたい
 ・既存のアイコンでは表現できない
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:8c468cb4f8bac95fa1f0</id>
+    <title>短期思考にサヨナラ！『ロングゲーム』で人生を逆算する方法</title>
+    <link rel="alternate" href="https://qiita.com/nakaizumi_slj/items/8c468cb4f8bac95fa1f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T09:40:19+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nakaizumi_slj&quot;&gt;nakaizumi_slj&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T09:40:18+09:00&lt;br/&gt;Updated: 2026-01-26T09:40:19+09:00&lt;br/&gt;はじめに — なぜこの本を選んだか
+私が最近、この本を手に取ったのは、「目の前のタスクや効率」に追われて、なかなか自分のキャリアや人生の方向性をゆっくり考える時間を持てていなかったからです。
+“忙しさの渦”に流され、なんとなく毎日を過ごしてしまっている人、あるいはキャリア...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:17d476c0556abe9ff10c</id>
@@ -1904,15 +1922,6 @@ Emacs備忘録（２０２４年版）という記事を投稿してから２年
     <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/_YukiOgawa&quot;&gt;_YukiOgawa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T16:35:57+09:00&lt;br/&gt;Updated: 2026-01-05T16:35:57+09:00&lt;br/&gt;はじめに
 boto3を使ったPythonアプリケーションで、aws loginコマンドで認証したのに、15分くらいで「クレデンシャルが期限切れです」というエラーが出て困っていました。
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8c468cb4f8bac95fa1f0</id>
-    <title>短期思考にサヨナラ！『ロングゲーム』で人生を逆算する方法</title>
-    <link rel="alternate" href="https://qiita.com/nakaizumi_slj/items/8c468cb4f8bac95fa1f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T09:40:19+09:00</updated>
-    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nakaizumi_slj&quot;&gt;nakaizumi_slj&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T09:40:18+09:00&lt;br/&gt;Updated: 2026-01-26T09:40:19+09:00&lt;br/&gt;はじめに — なぜこの本を選んだか
-私が最近、この本を手に取ったのは、「目の前のタスクや効率」に追われて、なかなか自分のキャリアや人生の方向性をゆっくり考える時間を持てていなかったからです。
-“忙しさの渦”に流され、なんとなく毎日を過ごしてしまっている人、あるいはキャリア...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:441440ef6ec6c1d31b99</id>
@@ -2092,6 +2101,19 @@ if / elsif / else のような条件分岐が増える
 以下のようなリストを基にエージェントを作成しています...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b0b8f28990b19e2a1b04</id>
+    <title>フル日本語環境で働く外国人として</title>
+    <link rel="alternate" href="https://qiita.com/polopopi/items/b0b8f28990b19e2a1b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T14:07:05+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/polopopi&quot;&gt;polopopi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T14:07:03+09:00&lt;br/&gt;Updated: 2026-01-26T14:07:05+09:00&lt;br/&gt;フル日本語環境で働く外国人として
+最初の印象、使っているツール、そして生き延びるためのワークフロー
+
+※本記事の日本語訳は ChatGPT を使って作成しています。
+
+この記事について
+この記事は、フル日本語環境で外国人として働く中で、特に最初の数日間に直面した課題をま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:854256b9b9a342959178</id>
     <title>#!/bin/bash とは？</title>
     <link rel="alternate" href="https://qiita.com/Q_Udon/items/854256b9b9a342959178?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2226,28 +2248,5 @@ Enhanced Routingとは？
 主な2つの改善点
 
 1. Layout D...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a9cb369f77dc0914af18</id>
-    <title>ポケポケのホログラム表現に挑戦③</title>
-    <link rel="alternate" href="https://qiita.com/tsuchinokoman/items/a9cb369f77dc0914af18?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T15:37:52+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tsuchinokoman&quot;&gt;tsuchinokoman&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T20:29:07+09:00&lt;br/&gt;Updated: 2026-01-13T15:37:52+09:00&lt;br/&gt;この記事は前回の記事
-「ポケポケのホログラム表現に挑戦②」の続編です
-初めての方は①～②を読んでからこの記事を読んでください
-
-前回はセルラーノイズを応用し、マーブル模様を表示するところまでやっていました。
-今回は以下映像のような表現ができるところまでやりたいと思います...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1cf0721b201896d87ec3</id>
-    <title>【無料】Gemini APIでPDFを丸ごと翻訳＆Markdown変換！図表の自動抽出もできる高度なOCRプログラムの解説</title>
-    <link rel="alternate" href="https://qiita.com/yuki_2020/items/1cf0721b201896d87ec3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-11T13:36:43+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuki_2020&quot;&gt;yuki_2020&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T13:36:43+09:00&lt;br/&gt;Updated: 2026-01-11T13:36:43+09:00&lt;br/&gt;はじめに
-勉強をしていると、海外ではものすごい有名な教科書だけど、翻訳されていないので勉強のハードルがとても高い、ということありませんか？
-日々そのように感じていたのですが、そんな折に見かけた記事がこちら。
-
-試してみると、今のAIってこんな汚い文章も正確に文字抽出で...</summary>
   </entry>
 </feed>
