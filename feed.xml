@@ -405,6 +405,18 @@ Certify
 GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場し、コードを書く速度は格段に上がったと思いま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
+    <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
+    <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T07:05:56+09:00</updated>
+    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ultra-grand-child&quot;&gt;Ultra-grand-child&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T07:05:56+09:00&lt;br/&gt;Updated: 2026-01-26T07:05:56+09:00&lt;br/&gt;タイトルの通り、就職活動のために作ったアプリが意外にも使える子に仕上がったので、自慢します。
+最初の方にアプリの紹介と技術制約の話を書いておきます。
+「なんでそんなもん作ったんや？」という疑問には、あとの方のセクションで書いてきます。
+
+この記事を読むとうれしくなれること
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c2e5d77c08c37532a3a3</id>
     <title>Rust と Web でつくる軽量デスクトップアプリ：Tauri 完全ガイド</title>
     <link rel="alternate" href="https://qiita.com/automation2025/items/c2e5d77c08c37532a3a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -412,18 +424,6 @@ GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場�
     <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T09:50:06+09:00&lt;br/&gt;Updated: 2026-01-18T23:28:37+09:00&lt;br/&gt;はじめに：なぜ今 Tauri なのか
 Electron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。
 Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用することで...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
-    <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
-    <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T07:05:56+09:00</updated>
-    <summary type="html">Likes: 69&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ultra-grand-child&quot;&gt;Ultra-grand-child&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T07:05:56+09:00&lt;br/&gt;Updated: 2026-01-26T07:05:56+09:00&lt;br/&gt;タイトルの通り、就職活動のために作ったアプリが意外にも使える子に仕上がったので、自慢します。
-最初の方にアプリの紹介と技術制約の話を書いておきます。
-「なんでそんなもん作ったんや？」という疑問には、あとの方のセクションで書いてきます。
-
-この記事を読むとうれしくなれること
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bd5266a987d082caea16</id>
@@ -1371,6 +1371,16 @@ Claude Codeには日頃から大変お世話になっていますが、完全に
 完了時...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a4ab780761bbf734e473</id>
+    <title>Claude Codeの自動承認モードでホームディレクトリを吹き飛ばされたくない人へ【Docker Sandboxes】</title>
+    <link rel="alternate" href="https://qiita.com/sijiaoh/items/a4ab780761bbf734e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-27T21:23:03+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sijiaoh&quot;&gt;sijiaoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T08:25:35+09:00&lt;br/&gt;Updated: 2026-01-27T21:23:03+09:00&lt;br/&gt;YOLOモードの問題
+Claude Codeには「YOLOモード（--dangerously-skip-permissions）」と呼ばれる機能があります。確認なしでコマンドを実行してくれるので、作業効率が段違いになります。
+一方で、名前の通り危険な機能でもあります。
+ネ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:082317eae9d2a9d3bd6a</id>
     <title>大学生エンジニア Rustの勉強を始める 🦀</title>
     <link rel="alternate" href="https://qiita.com/kohta9521/items/082317eae9d2a9d3bd6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1503,16 +1513,6 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a4ab780761bbf734e473</id>
-    <title>Claude Codeの自動承認モードでホームディレクトリを吹き飛ばされたくない人へ【Docker Sandboxes】</title>
-    <link rel="alternate" href="https://qiita.com/sijiaoh/items/a4ab780761bbf734e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-27T21:23:03+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sijiaoh&quot;&gt;sijiaoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T08:25:35+09:00&lt;br/&gt;Updated: 2026-01-27T21:23:03+09:00&lt;br/&gt;YOLOモードの問題
-Claude Codeには「YOLOモード（--dangerously-skip-permissions）」と呼ばれる機能があります。確認なしでコマンドを実行してくれるので、作業効率が段違いになります。
-一方で、名前の通り危険な機能でもあります。
-ネ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:3b24fa8e87869cc73bfc</id>
     <title>Markdown記法の基本を初心者向けに徹底解説！今すぐ使える実践テクニック</title>
     <link rel="alternate" href="https://qiita.com/KodoCode/items/3b24fa8e87869cc73bfc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1575,6 +1575,14 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 はじめまして。東海地区で建築設計事務所を経営している建築士です。
 いきなりですが、私はプログラミングの知識はゼロです。Pythonは「ヘビの種類？」だと思っていました。
 そんな私が、生成AI（ChatGPT / Cla...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:db0082a5eee49dfa22dc</id>
+    <title>ロボットやハードウェアの制御は、C言語なら最適なのに、C +やC #、それ以外のプログラミングでは、あまり適さないのはどういう理由がありますか？</title>
+    <link rel="alternate" href="https://qiita.com/t7u-ito/items/db0082a5eee49dfa22dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-27T09:21:45+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t7u-ito&quot;&gt;t7u-ito&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T22:38:21+09:00&lt;br/&gt;Updated: 2026-01-27T09:21:45+09:00&lt;br/&gt;その分野ではC++や他の言語もかなり使われてますよ。全体としてはCの方が少数派です。
+ロボット制御開発では一般的にC++が使われています。またAIなどカメラやセンサーからの入力を分析して推論するロボットの場合、Pythonがよく使われます。それぞれの言語の得意分野を組み合わ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8c468cb4f8bac95fa1f0</id>
@@ -1822,14 +1830,6 @@ CSVファイルに書き込んで
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:db0082a5eee49dfa22dc</id>
-    <title>ロボットやハードウェアの制御は、C言語なら最適なのに、C +やC #、それ以外のプログラミングでは、あまり適さないのはどういう理由がありますか？</title>
-    <link rel="alternate" href="https://qiita.com/t7u-ito/items/db0082a5eee49dfa22dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-27T09:21:45+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t7u-ito&quot;&gt;t7u-ito&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T22:38:21+09:00&lt;br/&gt;Updated: 2026-01-27T09:21:45+09:00&lt;br/&gt;その分野ではC++や他の言語もかなり使われてますよ。全体としてはCの方が少数派です。
-ロボット制御開発では一般的にC++が使われています。またAIなどカメラやセンサーからの入力を分析して推論するロボットの場合、Pythonがよく使われます。それぞれの言語の得意分野を組み合わ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:a8ddab3c94942988fd6a</id>
     <title>【Copilot Studio】Microsoft SharePoint Lists MCP が進化している？</title>
     <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/a8ddab3c94942988fd6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1841,6 +1841,15 @@ CSVファイルに書き込んで
 
 以前作ったエージェントの検証
 以下のようなリストを基にエージェントを作成しています...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e719ed3d0d23ac05bc6e</id>
+    <title>ローカルAI時代の「Clawdbot × Ollama」完全ガイド   ――自分専用マルチチャットAIを動かす</title>
+    <link rel="alternate" href="https://qiita.com/automation2025/items/e719ed3d0d23ac05bc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T17:50:25+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T17:48:25+09:00&lt;br/&gt;Updated: 2026-01-26T17:50:25+09:00&lt;br/&gt;はじめに
+Clawdbot（クロードボット）は、1台のPCをハブにして Discord・Slack・Telegram など複数チャットを横断しながら AI エージェントを動かせる OSS のパーソナルアシスタント基盤です。
+一方 Ollama（オラマ）は、Meta Lla...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:17d476c0556abe9ff10c</id>
@@ -1986,15 +1995,6 @@ Emacs備忘録（２０２４年版）という記事を投稿してから２年
     <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/_YukiOgawa&quot;&gt;_YukiOgawa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T16:35:57+09:00&lt;br/&gt;Updated: 2026-01-05T16:35:57+09:00&lt;br/&gt;はじめに
 boto3を使ったPythonアプリケーションで、aws loginコマンドで認証したのに、15分くらいで「クレデンシャルが期限切れです」というエラーが出て困っていました。
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e719ed3d0d23ac05bc6e</id>
-    <title>ローカルAI時代の「Clawdbot × Ollama」完全ガイド   ――自分専用マルチチャットAIを動かす</title>
-    <link rel="alternate" href="https://qiita.com/automation2025/items/e719ed3d0d23ac05bc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T17:50:25+09:00</updated>
-    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T17:48:25+09:00&lt;br/&gt;Updated: 2026-01-26T17:50:25+09:00&lt;br/&gt;はじめに
-Clawdbot（クロードボット）は、1台のPCをハブにして Discord・Slack・Telegram など複数チャットを横断しながら AI エージェントを動かせる OSS のパーソナルアシスタント基盤です。
-一方 Ollama（オラマ）は、Meta Lla...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:441440ef6ec6c1d31b99</id>
@@ -2173,6 +2173,15 @@ if / elsif / else のような条件分岐が増える
 grep &quot;ERROR&quot; access.log | awk...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:20a2d4af87aa3541f1d3</id>
+    <title>【AWS】SAA-C03試験対策まとめ（AWS主要サービスの全体像）</title>
+    <link rel="alternate" href="https://qiita.com/RizumuUEDA/items/20a2d4af87aa3541f1d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-27T09:50:22+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/RizumuUEDA&quot;&gt;RizumuUEDA&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T09:50:22+09:00&lt;br/&gt;Updated: 2026-01-27T09:50:22+09:00&lt;br/&gt;こんにちは。株式会社ジールの@RizumuUEDAです。
+この度AWS SAA-C03試験を受験し合格することができました。
+AWSに関しては昨年からCLFをはじめいくつかの資格取得や、実務で実際にサービス利用をしてきましたが、経験を積む中でようやくAWSの理解が深まった実...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:854256b9b9a342959178</id>
     <title>#!/bin/bash とは？</title>
     <link rel="alternate" href="https://qiita.com/Q_Udon/items/854256b9b9a342959178?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2216,19 +2225,5 @@ grep &quot;ERROR&quot; access.log | awk...</summary>
 容量が 40.69GB もあったのです。
 当然VSCodeやテキストエディターは悲鳴をあげ、 grep を叩いたものの、一向に終わる気配がありません。
 「これ、もっ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7fa22b08605d44e030ed</id>
-    <title>タスク管理は身近さが正義</title>
-    <link rel="alternate" href="https://qiita.com/kmatsuda_slj/items/7fa22b08605d44e030ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T09:40:06+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kmatsuda_slj&quot;&gt;kmatsuda_slj&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T09:40:06+09:00&lt;br/&gt;Updated: 2026-01-19T09:40:06+09:00&lt;br/&gt;はじめに
-以前はスプレッドシートやメモ程度でしかタスク管理していませんでした。
-一覧性は良いのに続かなかった理由は、他のツールと比べて使うことが少なかったためです。
-そして、抜け漏れが出てしまっていました。
-
-依頼はSlackで来る
-タスクは別ツールに転記が必要
-「あとで...</summary>
   </entry>
 </feed>
