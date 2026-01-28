@@ -214,7 +214,7 @@
       "updated": "2026-01-26T21:39:36+09:00",
       "author_name": "karina-yzrh",
       "likes_count": 17,
-      "last_seen": "2026-01-28T19:16:34.396525919+00:00"
+      "last_seen": "2026-01-28T20:15:41.342331770+00:00"
     },
     {
       "key": "1403f6be43bad5d085b3",
@@ -394,7 +394,7 @@
       "updated": "2026-01-27T09:50:22+09:00",
       "author_name": "RizumuUEDA",
       "likes_count": 12,
-      "last_seen": "2026-01-28T19:16:34.396525919+00:00"
+      "last_seen": "2026-01-28T20:15:41.342331770+00:00"
     },
     {
       "key": "22c391addbdb74e7ace3",
@@ -766,7 +766,7 @@
       "updated": "2026-01-28T02:05:38+09:00",
       "author_name": "Seine_A_Shintani",
       "likes_count": 10,
-      "last_seen": "2026-01-28T19:16:34.396525919+00:00"
+      "last_seen": "2026-01-28T20:15:41.342331770+00:00"
     },
     {
       "key": "50d9d10938eea01d54f5",
@@ -1138,7 +1138,7 @@
       "updated": "2026-01-26T21:13:46+09:00",
       "author_name": "rana_kualu",
       "likes_count": 38,
-      "last_seen": "2026-01-28T19:16:34.396525919+00:00"
+      "last_seen": "2026-01-28T20:15:41.342331770+00:00"
     },
     {
       "key": "7c9c19c257be35f5dcec",
@@ -1462,7 +1462,7 @@
       "updated": "2026-01-28T09:25:42+09:00",
       "author_name": "hitomin_poke",
       "likes_count": 72,
-      "last_seen": "2026-01-28T19:16:34.396525919+00:00"
+      "last_seen": "2026-01-28T20:15:41.342331770+00:00"
     },
     {
       "key": "960ce9989723a1a31e40",
@@ -1606,7 +1606,7 @@
       "updated": "2026-01-27T21:23:03+09:00",
       "author_name": "sijiaoh",
       "likes_count": 19,
-      "last_seen": "2026-01-28T19:16:34.396525919+00:00"
+      "last_seen": "2026-01-28T20:15:41.342331770+00:00"
     },
     {
       "key": "a69ce52cc2862af7ebc9",
@@ -1665,8 +1665,8 @@
       "published": "2026-01-26T08:07:22+09:00",
       "updated": "2026-01-27T07:51:33+09:00",
       "author_name": "Takashi_Masumori",
-      "likes_count": 13,
-      "last_seen": "2026-01-28T07:16:28.730509955+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-01-28T20:15:41.342331770+00:00"
     },
     {
       "key": "a94880a3095ef5db9d39",
@@ -1762,7 +1762,7 @@
       "updated": "2026-01-26T14:07:05+09:00",
       "author_name": "polopopi",
       "likes_count": 22,
-      "last_seen": "2026-01-28T19:16:34.396525919+00:00"
+      "last_seen": "2026-01-28T20:15:41.342331770+00:00"
     },
     {
       "key": "b15f9adc9fb807a3e148",
@@ -1774,7 +1774,7 @@
       "updated": "2026-01-27T22:58:47+09:00",
       "author_name": "sanyamarseille",
       "likes_count": 71,
-      "last_seen": "2026-01-28T19:16:34.396525919+00:00"
+      "last_seen": "2026-01-28T20:15:41.342331770+00:00"
     },
     {
       "key": "b1726a7a6054ed7e64df",
@@ -1966,7 +1966,7 @@
       "updated": "2026-01-28T14:10:41+09:00",
       "author_name": "kazuki_ogawa",
       "likes_count": 19,
-      "last_seen": "2026-01-28T19:16:34.396525919+00:00"
+      "last_seen": "2026-01-28T20:15:41.342331770+00:00"
     },
     {
       "key": "c0fb3bed10f49b0ed523",
@@ -2230,7 +2230,7 @@
       "updated": "2026-01-26T07:05:56+09:00",
       "author_name": "Ultra-grand-child",
       "likes_count": 70,
-      "last_seen": "2026-01-28T19:16:34.396525919+00:00"
+      "last_seen": "2026-01-28T20:15:41.342331770+00:00"
     },
     {
       "key": "d435d9dd7ca1c1329483",
@@ -2255,6 +2255,18 @@
       "author_name": "T_Sgawar",
       "likes_count": 10,
       "last_seen": "2026-01-27T07:17:23.969433458+00:00"
+    },
+    {
+      "key": "d865fc92921a822c1f44",
+      "item_id": "d865fc92921a822c1f44",
+      "title": "Bedrock AgentCore RuntimeはCDKでらくらくデプロイ！コンテナいらずでHot swapも可能！！",
+      "link": "https://qiita.com/moritalous/items/d865fc92921a822c1f44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "Bedrock AgentCoreはコンテナでデプロイするものとばかり思ってましたが、気がつけばS3を経由したZip形式でのデプロイにも対応してました。\n\nそしてCDKでもすでにこの方式を使ったデプロイが可能です。\n私は普段WinodwsとWSL環境を使っているのですが...",
+      "published": "2026-01-26T17:46:15+09:00",
+      "updated": "2026-01-26T17:46:15+09:00",
+      "author_name": "moritalous",
+      "likes_count": 12,
+      "last_seen": "2026-01-28T20:15:41.342331770+00:00"
     },
     {
       "key": "db0082a5eee49dfa22dc",
@@ -2458,7 +2470,7 @@
       "updated": "2026-01-26T17:50:25+09:00",
       "author_name": "automation2025",
       "likes_count": 13,
-      "last_seen": "2026-01-28T19:16:34.396525919+00:00"
+      "last_seen": "2026-01-28T20:15:41.342331770+00:00"
     },
     {
       "key": "e88aabbdfa8ddd94810a",

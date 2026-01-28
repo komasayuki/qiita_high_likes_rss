@@ -1521,6 +1521,19 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a8ddab3c94942988fd6a</id>
+    <title>【Copilot Studio】Microsoft SharePoint Lists MCP が進化している？</title>
+    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/a8ddab3c94942988fd6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-27T07:51:33+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T08:07:22+09:00&lt;br/&gt;Updated: 2026-01-27T07:51:33+09:00&lt;br/&gt;はじめに
+以前以下の記事を書いたのですが、その際、個人的には「もうちょっとかな？」という感じでした。
+
+最近改めて触ってみて、以前よりいい感じに動きましたので、改めて記事を書きます。
+
+以前作ったエージェントの検証
+以下のようなリストを基にエージェントを作成しています...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3b24fa8e87869cc73bfc</id>
     <title>Markdown記法の基本を初心者向けに徹底解説！今すぐ使える実践テクニック</title>
     <link rel="alternate" href="https://qiita.com/KodoCode/items/3b24fa8e87869cc73bfc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1830,19 +1843,6 @@ CSVファイルに書き込んで
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a8ddab3c94942988fd6a</id>
-    <title>【Copilot Studio】Microsoft SharePoint Lists MCP が進化している？</title>
-    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/a8ddab3c94942988fd6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-27T07:51:33+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T08:07:22+09:00&lt;br/&gt;Updated: 2026-01-27T07:51:33+09:00&lt;br/&gt;はじめに
-以前以下の記事を書いたのですが、その際、個人的には「もうちょっとかな？」という感じでした。
-
-最近改めて触ってみて、以前よりいい感じに動きましたので、改めて記事を書きます。
-
-以前作ったエージェントの検証
-以下のようなリストを基にエージェントを作成しています...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:e719ed3d0d23ac05bc6e</id>
     <title>ローカルAI時代の「Clawdbot × Ollama」完全ガイド   ――自分専用マルチチャットAIを動かす</title>
     <link rel="alternate" href="https://qiita.com/automation2025/items/e719ed3d0d23ac05bc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2004,6 +2004,16 @@ boto3を使ったPythonアプリケーションで、aws loginコマンドで認
     <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/RizumuUEDA&quot;&gt;RizumuUEDA&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T09:50:22+09:00&lt;br/&gt;Updated: 2026-01-27T09:50:22+09:00&lt;br/&gt;こんにちは。株式会社ジールの@RizumuUEDAです。
 この度AWS SAA-C03試験を受験し合格することができました。
 AWSに関しては昨年からCLFをはじめいくつかの資格取得や、実務で実際にサービス利用をしてきましたが、経験を積む中でようやくAWSの理解が深まった実...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d865fc92921a822c1f44</id>
+    <title>Bedrock AgentCore RuntimeはCDKでらくらくデプロイ！コンテナいらずでHot swapも可能！！</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/d865fc92921a822c1f44?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T17:46:15+09:00</updated>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T17:46:15+09:00&lt;br/&gt;Updated: 2026-01-26T17:46:15+09:00&lt;br/&gt;Bedrock AgentCoreはコンテナでデプロイするものとばかり思ってましたが、気がつけばS3を経由したZip形式でのデプロイにも対応してました。
+
+そしてCDKでもすでにこの方式を使ったデプロイが可能です。
+私は普段WinodwsとWSL環境を使っているのですが...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:441440ef6ec6c1d31b99</id>
@@ -2214,16 +2224,5 @@ grep &quot;ERROR&quot; access.log | awk...</summary>
     <updated>2026-01-23T13:22:41+09:00</updated>
     <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/MarthaS&quot;&gt;MarthaS&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T13:22:40+09:00&lt;br/&gt;Updated: 2026-01-23T13:22:41+09:00&lt;br/&gt;システムのパフォーマンス改善において、「データベース（DB）クエリの最適化」は避けて通れない重要なテーマです。
 しかし、いざ改善に取り組もうとすると、 「Slow Query ログが多すぎて、どこから手を付ければいいか分からない」 「苦労してSQLをチューニングしたのに、シ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e296c386caffca33f780</id>
-    <title>巨大なファイル検索も、広範囲の検索も、grepにはripgrepを使おう</title>
-    <link rel="alternate" href="https://qiita.com/_nag/items/e296c386caffca33f780?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-21T18:24:49+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/_nag&quot;&gt;_nag&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T10:05:59+09:00&lt;br/&gt;Updated: 2026-01-21T18:24:49+09:00&lt;br/&gt;はじめに
-先日、業務で急を要する調査があり、ログが送られてきました。いつもの調子で調べようと思ったら仰天。
-容量が 40.69GB もあったのです。
-当然VSCodeやテキストエディターは悲鳴をあげ、 grep を叩いたものの、一向に終わる気配がありません。
-「これ、もっ...</summary>
   </entry>
 </feed>
