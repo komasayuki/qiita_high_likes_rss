@@ -38,7 +38,7 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
     <title>【初心者完全版】0からDockerをフルスタックアプリを開発しながら学べるチュートリアル【React /TypeScript/Hono/docker-compose】</title>
     <link rel="alternate" href="https://qiita.com/Sicut_study/items/fd8e8a9fe05631fc5ca8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-25T17:01:10+09:00</updated>
-    <summary type="html">Likes: 251&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T17:01:10+09:00&lt;br/&gt;Updated: 2026-01-25T17:01:10+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 253&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T17:01:10+09:00&lt;br/&gt;Updated: 2026-01-25T17:01:10+09:00&lt;br/&gt;はじめに
 エンジニアをやっていると大きな山場のようなものがいくつかあります。
 CI/CD / AWS / Docker / Clean Architecture
 これらは私がジュニアレベルからミドルレベルに上がる中でも特に大変だったなと思う項目です。これを見ている方も憧...</summary>
@@ -402,20 +402,11 @@ Tauri は、OS がもともと持っている WebView を利用し、Rust をバ
 RAG（検索拡張生成）とは？...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a3e91b89b5ed9b266e91</id>
-    <title>情報はどうやって海を越えるのか？IPアドレスとDNSの関係性について</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/a3e91b89b5ed9b266e91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-07T18:15:47+09:00</updated>
-    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
-DNSは、URLに出てくる example.com みたいな名前を、通信に使えるIPアドレスに変換する仕組みです。
-インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:9607008aefc2521615ac</id>
     <title>【後編】先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/9607008aefc2521615ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-28T09:25:42+09:00</updated>
-    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T14:17:53+09:00&lt;br/&gt;Updated: 2026-01-28T09:25:42+09:00&lt;br/&gt;忘れることを前提に、現場はどう教えるべきか
+    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T14:17:53+09:00&lt;br/&gt;Updated: 2026-01-28T09:25:42+09:00&lt;br/&gt;忘れることを前提に、現場はどう教えるべきか
 ― 育成を「根性論」から「設計」に戻す ―
 
 はじめまして。
@@ -425,11 +416,20 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
 PRUMについて気になった方は...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a3e91b89b5ed9b266e91</id>
+    <title>情報はどうやって海を越えるのか？IPアドレスとDNSの関係性について</title>
+    <link rel="alternate" href="https://qiita.com/shibata1111/items/a3e91b89b5ed9b266e91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-07T18:15:47+09:00</updated>
+    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
+DNSは、URLに出てくる example.com みたいな名前を、通信に使えるIPアドレスに変換する仕組みです。
+インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b15f9adc9fb807a3e148</id>
     <title>ペネトレーションテスト チートシート（CRTP）</title>
     <link rel="alternate" href="https://qiita.com/sanyamarseille/items/b15f9adc9fb807a3e148?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-27T22:58:47+09:00</updated>
-    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sanyamarseille&quot;&gt;sanyamarseille&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:49:04+09:00&lt;br/&gt;Updated: 2026-01-27T22:58:47+09:00&lt;br/&gt;CRTP CheatSheet
+    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sanyamarseille&quot;&gt;sanyamarseille&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:49:04+09:00&lt;br/&gt;Updated: 2026-01-27T22:58:47+09:00&lt;br/&gt;CRTP CheatSheet
 
 参考リンク
 
@@ -543,6 +543,18 @@ PRUMについて気になった方は、
 コーディングエージェントとの出会い...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
+    <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
+    <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T07:05:56+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ultra-grand-child&quot;&gt;Ultra-grand-child&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T07:05:56+09:00&lt;br/&gt;Updated: 2026-01-26T07:05:56+09:00&lt;br/&gt;タイトルの通り、就職活動のために作ったアプリが意外にも使える子に仕上がったので、自慢します。
+最初の方にアプリの紹介と技術制約の話を書いておきます。
+「なんでそんなもん作ったんや？」という疑問には、あとの方のセクションで書いてきます。
+
+この記事を読むとうれしくなれること
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5f11084c98d32d86248d</id>
     <title>【2026最新】BedrockでRAGとエージェント作って、Amplifyから呼ぼう！ 維持費ほぼ無料!?</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/5f11084c98d32d86248d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -568,15 +580,18 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 最初はQiitaのContributionと記事...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
-    <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
-    <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T07:05:56+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ultra-grand-child&quot;&gt;Ultra-grand-child&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T07:05:56+09:00&lt;br/&gt;Updated: 2026-01-26T07:05:56+09:00&lt;br/&gt;タイトルの通り、就職活動のために作ったアプリが意外にも使える子に仕上がったので、自慢します。
-最初の方にアプリの紹介と技術制約の話を書いておきます。
-「なんでそんなもん作ったんや？」という疑問には、あとの方のセクションで書いてきます。
+    <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
+    <title>個人開発「ひたすら数学」作ってリリースしてみた iOS/Android</title>
+    <link rel="alternate" href="https://qiita.com/keitaMax/items/eba4cc53538a37121ede?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-25T19:47:40+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/keitaMax&quot;&gt;keitaMax&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T19:39:50+09:00&lt;br/&gt;Updated: 2026-01-25T19:47:40+09:00&lt;br/&gt;はじめに
+こんにちは、エンジニアの keitaMax です。
+数学の勉強をしていて、
+もっと練習したい、ひたすら問題をときたいということってありませんか？
+そこで、何も考えずにひたすら数学を解くことができる
+数学学習サービスを作りました。
+それが ひたすら数学 です。
 
-この記事を読むとうれしくなれること
 ...</summary>
   </entry>
   <entry>
@@ -586,21 +601,6 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
     <updated>2026-01-18T23:59:50+09:00</updated>
     <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/bd8z&quot;&gt;bd8z&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T12:50:10+09:00&lt;br/&gt;Updated: 2026-01-18T23:59:50+09:00&lt;br/&gt;はじめに
 Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、いわゆるエージェントタスクにおける計算資源としての使い方が向いているのではという気がしてきた。イメージはAWS LambdaのようなFunction as a serviceのようなワンショットな...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
-    <title>個人開発「ひたすら数学」作ってリリースしてみた iOS/Android</title>
-    <link rel="alternate" href="https://qiita.com/keitaMax/items/eba4cc53538a37121ede?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-25T19:47:40+09:00</updated>
-    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/keitaMax&quot;&gt;keitaMax&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T19:39:50+09:00&lt;br/&gt;Updated: 2026-01-25T19:47:40+09:00&lt;br/&gt;はじめに
-こんにちは、エンジニアの keitaMax です。
-数学の勉強をしていて、
-もっと練習したい、ひたすら問題をときたいということってありませんか？
-そこで、何も考えずにひたすら数学を解くことができる
-数学学習サービスを作りました。
-それが ひたすら数学 です。
-
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:90b34ef9abd910deb6ac</id>
@@ -1109,6 +1109,15 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7c5305349815f5142d7d</id>
+    <title>【JavaScript】ES2026の新機能全部解説する</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/7c5305349815f5142d7d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T21:13:46+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:13:46+09:00&lt;br/&gt;Updated: 2026-01-26T21:13:46+09:00&lt;br/&gt;JavaScriptの仕様は、TC39というところで決められています。
+ブラウザベンダや関係者が定期的に会合を行い、様々な新機能について話し合って今後のJavaScriptの方向性を決めていきます。
+ここでは2025年にFinishedになったproposalについて紹介し...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:db798b2e5805c51a64c1</id>
     <title>H3ロケットの失敗から学ぶ、前提を疑う設計</title>
     <link rel="alternate" href="https://qiita.com/sh-ohtani/items/db798b2e5805c51a64c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1119,15 +1128,6 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 GMOコネクトの大谷です。
 H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」として大きく報じられました。
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7c5305349815f5142d7d</id>
-    <title>【JavaScript】ES2026の新機能全部解説する</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/7c5305349815f5142d7d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T21:13:46+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:13:46+09:00&lt;br/&gt;Updated: 2026-01-26T21:13:46+09:00&lt;br/&gt;JavaScriptの仕様は、TC39というところで決められています。
-ブラウザベンダや関係者が定期的に会合を行い、様々な新機能について話し合って今後のJavaScriptの方向性を決めていきます。
-ここでは2025年にFinishedになったproposalについて紹介し...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:efc227e8fe159cadb50b</id>
@@ -1348,6 +1348,39 @@ Claude Codeには日頃から大変お世話になっていますが、完全に
 大学入学とともに独学でプログラミングを始め、複数社のインターンシップや業務委託を経て現在に至ります。普段は会社のサービスを...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b0b8f28990b19e2a1b04</id>
+    <title>フル日本語環境で働く外国人として</title>
+    <link rel="alternate" href="https://qiita.com/polopopi/items/b0b8f28990b19e2a1b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T14:07:05+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/polopopi&quot;&gt;polopopi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T14:07:03+09:00&lt;br/&gt;Updated: 2026-01-26T14:07:05+09:00&lt;br/&gt;フル日本語環境で働く外国人として
+最初の印象、使っているツール、そして生き延びるためのワークフロー
+
+※本記事の日本語訳は ChatGPT を使って作成しています。
+
+この記事について
+この記事は、フル日本語環境で外国人として働く中で、特に最初の数日間に直面した課題をま...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ec2b2c0db0f94eccd2b6</id>
+    <title>Next.jsフルスタック構成の限界：開発サーバーが起動しなくなるまでの失敗談</title>
+    <link rel="alternate" href="https://qiita.com/nishibu97/items/ec2b2c0db0f94eccd2b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T14:02:05+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nishibu97&quot;&gt;nishibu97&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T15:44:15+09:00&lt;br/&gt;Updated: 2026-01-26T14:02:05+09:00&lt;br/&gt;はじめに
+私が今関わるプロジェクトではNext.jsを採用し、AIを活用したWebアプリケーションを開発しています。
+しかし開発が進み、機能やチームメンバーが増えるにつれてコードの複雑性が増大。
+最終的には npm run dev コマンドでローカル開発環境が起動しなくな...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:8b0e5b51749ccdfde393</id>
+    <title>🤤 僕の考えた最強の次世代Webアプリケーションフレームワーク</title>
+    <link rel="alternate" href="https://qiita.com/u83unlimited/items/8b0e5b51749ccdfde393?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T02:01:20+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/u83unlimited&quot;&gt;u83unlimited&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T02:01:20+09:00&lt;br/&gt;Updated: 2026-01-26T02:01:20+09:00&lt;br/&gt;概要
+TS製。既存の設計論と関数型プログラミングを参考に再設計されたWebアプリケーションスキーマ（と規定されたスケーリング方法）を元にした 設計解析＆改善提案プログラム（Linter＆Formatter） 及びアプリケーションFW（＆ツールキット）からなる。
+
+最重要テ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:791c78879e690b7c8cd2</id>
     <title>Let&apos;s Encrypt、IPアドレス証明書が一般提供開始 - RFC 8738準拠の6日間証明書</title>
     <link rel="alternate" href="https://qiita.com/satokan3/items/791c78879e690b7c8cd2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1388,37 +1421,18 @@ Power Automate を触っていて実行結果（履歴）を確認してみる�
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b0b8f28990b19e2a1b04</id>
-    <title>フル日本語環境で働く外国人として</title>
-    <link rel="alternate" href="https://qiita.com/polopopi/items/b0b8f28990b19e2a1b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T14:07:05+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/polopopi&quot;&gt;polopopi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T14:07:03+09:00&lt;br/&gt;Updated: 2026-01-26T14:07:05+09:00&lt;br/&gt;フル日本語環境で働く外国人として
-最初の印象、使っているツール、そして生き延びるためのワークフロー
-
-※本記事の日本語訳は ChatGPT を使って作成しています。
-
-この記事について
-この記事は、フル日本語環境で外国人として働く中で、特に最初の数日間に直面した課題をま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ec2b2c0db0f94eccd2b6</id>
-    <title>Next.jsフルスタック構成の限界：開発サーバーが起動しなくなるまでの失敗談</title>
-    <link rel="alternate" href="https://qiita.com/nishibu97/items/ec2b2c0db0f94eccd2b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T14:02:05+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nishibu97&quot;&gt;nishibu97&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T15:44:15+09:00&lt;br/&gt;Updated: 2026-01-26T14:02:05+09:00&lt;br/&gt;はじめに
-私が今関わるプロジェクトではNext.jsを採用し、AIを活用したWebアプリケーションを開発しています。
-しかし開発が進み、機能やチームメンバーが増えるにつれてコードの複雑性が増大。
-最終的には npm run dev コマンドでローカル開発環境が起動しなくな...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8b0e5b51749ccdfde393</id>
-    <title>🤤 僕の考えた最強の次世代Webアプリケーションフレームワーク</title>
-    <link rel="alternate" href="https://qiita.com/u83unlimited/items/8b0e5b51749ccdfde393?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T02:01:20+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/u83unlimited&quot;&gt;u83unlimited&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T02:01:20+09:00&lt;br/&gt;Updated: 2026-01-26T02:01:20+09:00&lt;br/&gt;概要
-TS製。既存の設計論と関数型プログラミングを参考に再設計されたWebアプリケーションスキーマ（と規定されたスケーリング方法）を元にした 設計解析＆改善提案プログラム（Linter＆Formatter） 及びアプリケーションFW（＆ツールキット）からなる。
-
-最重要テ...</summary>
+    <id>tag:qiita.com,2026:0d6448db838c3fc4d00e</id>
+    <title>Figmaで線が崩れないSVGアイコンを作るコツ（Boolean操作編）</title>
+    <link rel="alternate" href="https://qiita.com/karina-yzrh/items/0d6448db838c3fc4d00e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T21:39:36+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/karina-yzrh&quot;&gt;karina-yzrh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:39:36+09:00&lt;br/&gt;Updated: 2026-01-26T21:39:36+09:00&lt;br/&gt;Figmaで簡単なアイコンを作ったはずなのに、
+「リサイズすると線が崩れる」
+「SVGを書き出したらパスが汚い」
+といった問題に遭遇したことはありませんか？
+私はデザイナーではありませんが、PMとして
+・画面提案用のモックを素早く作りたい
+・既存のアイコンでは表現できない
+...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:30b527e4208c9165b19c</id>
@@ -1477,20 +1491,6 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
     <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:22:12+09:00&lt;br/&gt;Updated: 2026-01-04T17:22:12+09:00&lt;br/&gt;この1週間、GitHubで複数のプロジェクトを同時並行で進め、AIを活用することで個人レベルでは不可能だったアウトプット量と質を実現しました。その軌跡と、それを可能にした「AI並列開発」の力について共有します。
 
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0d6448db838c3fc4d00e</id>
-    <title>Figmaで線が崩れないSVGアイコンを作るコツ（Boolean操作編）</title>
-    <link rel="alternate" href="https://qiita.com/karina-yzrh/items/0d6448db838c3fc4d00e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T21:39:36+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/karina-yzrh&quot;&gt;karina-yzrh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:39:36+09:00&lt;br/&gt;Updated: 2026-01-26T21:39:36+09:00&lt;br/&gt;Figmaで簡単なアイコンを作ったはずなのに、
-「リサイズすると線が崩れる」
-「SVGを書き出したらパスが汚い」
-といった問題に遭遇したことはありませんか？
-私はデザイナーではありませんが、PMとして
-・画面提案用のモックを素早く作りたい
-・既存のアイコンでは表現できない
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3b24fa8e87869cc73bfc</id>
@@ -1722,6 +1722,16 @@ TCPとUDPの違い
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a4ab780761bbf734e473</id>
+    <title>Claude Codeの自動承認モードでホームディレクトリを吹き飛ばされたくない人へ【Docker Sandboxes】</title>
+    <link rel="alternate" href="https://qiita.com/sijiaoh/items/a4ab780761bbf734e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-27T21:23:03+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sijiaoh&quot;&gt;sijiaoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T08:25:35+09:00&lt;br/&gt;Updated: 2026-01-27T21:23:03+09:00&lt;br/&gt;YOLOモードの問題
+Claude Codeには「YOLOモード（--dangerously-skip-permissions）」と呼ばれる機能があります。確認なしでコマンドを実行してくれるので、作業効率が段違いになります。
+一方で、名前の通り危険な機能でもあります。
+ネ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8c468cb4f8bac95fa1f0</id>
     <title>短期思考にサヨナラ！『ロングゲーム』で人生を逆算する方法</title>
     <link rel="alternate" href="https://qiita.com/nakaizumi_slj/items/8c468cb4f8bac95fa1f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1802,14 +1812,17 @@ CSVファイルに書き込んで
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a4ab780761bbf734e473</id>
-    <title>Claude Codeの自動承認モードでホームディレクトリを吹き飛ばされたくない人へ【Docker Sandboxes】</title>
-    <link rel="alternate" href="https://qiita.com/sijiaoh/items/a4ab780761bbf734e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-27T21:23:03+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sijiaoh&quot;&gt;sijiaoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T08:25:35+09:00&lt;br/&gt;Updated: 2026-01-27T21:23:03+09:00&lt;br/&gt;YOLOモードの問題
-Claude Codeには「YOLOモード（--dangerously-skip-permissions）」と呼ばれる機能があります。確認なしでコマンドを実行してくれるので、作業効率が段違いになります。
-一方で、名前の通り危険な機能でもあります。
-ネ...</summary>
+    <id>tag:qiita.com,2026:a8ddab3c94942988fd6a</id>
+    <title>【Copilot Studio】Microsoft SharePoint Lists MCP が進化している？</title>
+    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/a8ddab3c94942988fd6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-27T07:51:33+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T08:07:22+09:00&lt;br/&gt;Updated: 2026-01-27T07:51:33+09:00&lt;br/&gt;はじめに
+以前以下の記事を書いたのですが、その際、個人的には「もうちょっとかな？」という感じでした。
+
+最近改めて触ってみて、以前よりいい感じに動きましたので、改めて記事を書きます。
+
+以前作ったエージェントの検証
+以下のようなリストを基にエージェントを作成しています...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:17d476c0556abe9ff10c</id>
@@ -1955,19 +1968,6 @@ Emacs備忘録（２０２４年版）という記事を投稿してから２年
     <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/_YukiOgawa&quot;&gt;_YukiOgawa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T16:35:57+09:00&lt;br/&gt;Updated: 2026-01-05T16:35:57+09:00&lt;br/&gt;はじめに
 boto3を使ったPythonアプリケーションで、aws loginコマンドで認証したのに、15分くらいで「クレデンシャルが期限切れです」というエラーが出て困っていました。
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a8ddab3c94942988fd6a</id>
-    <title>【Copilot Studio】Microsoft SharePoint Lists MCP が進化している？</title>
-    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/a8ddab3c94942988fd6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-27T07:51:33+09:00</updated>
-    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T08:07:22+09:00&lt;br/&gt;Updated: 2026-01-27T07:51:33+09:00&lt;br/&gt;はじめに
-以前以下の記事を書いたのですが、その際、個人的には「もうちょっとかな？」という感じでした。
-
-最近改めて触ってみて、以前よりいい感じに動きましたので、改めて記事を書きます。
-
-以前作ったエージェントの検証
-以下のようなリストを基にエージェントを作成しています...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:441440ef6ec6c1d31b99</id>
@@ -2134,6 +2134,18 @@ if / elsif / else のような条件分岐が増える
 そして、個人開発ではStreamlit + L...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f44e78a3991c83d5ab64</id>
+    <title>grep | awk | sort | uniq を全部つなげる理由</title>
+    <link rel="alternate" href="https://qiita.com/OZAWAKOJI/items/f44e78a3991c83d5ab64?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-27T10:02:36+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/OZAWAKOJI&quot;&gt;OZAWAKOJI&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T10:02:36+09:00&lt;br/&gt;Updated: 2026-01-27T10:02:36+09:00&lt;br/&gt;grep | awk | sort | uniq を全部つなげる理由
+〜ログ集計で「なぜこの並び順なのか」を丁寧に解説します〜
+
+はじめに
+ログ集計のワンライナーで、次のようなコマンドを見たことはないでしょうか。
+grep &quot;ERROR&quot; access.log | awk...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:854256b9b9a342959178</id>
     <title>#!/bin/bash とは？</title>
     <link rel="alternate" href="https://qiita.com/Q_Udon/items/854256b9b9a342959178?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2230,16 +2242,5 @@ Selenium を「テスト用ツール」だと思っているうちは、
 
 Selenium は単なる UI 自動化ツールではなく、
 実ブラウザを完全に支配できる強力な自動化基...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7cf974ec7e9cc0f3e026</id>
-    <title>とりあえずApproveはもうやめよう</title>
-    <link rel="alternate" href="https://qiita.com/mintak21/items/7cf974ec7e9cc0f3e026?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-15T16:19:08+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mintak21&quot;&gt;mintak21&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T16:14:17+09:00&lt;br/&gt;Updated: 2026-01-15T16:19:08+09:00&lt;br/&gt;なんでもいいからLGTM以外のコメントをしよう
-
-概要
-エンジニアである以上、日常の業務においてコードレビューは避けて通れないものです。しかし、レビュー依頼を受けて、さっと目を通してApproveするだけになってしまっていることは多くないでしょうか。
-いわゆる「素通し」にな...</summary>
   </entry>
 </feed>
