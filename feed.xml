@@ -38,7 +38,7 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
     <title>【初心者完全版】0からDockerをフルスタックアプリを開発しながら学べるチュートリアル【React /TypeScript/Hono/docker-compose】</title>
     <link rel="alternate" href="https://qiita.com/Sicut_study/items/fd8e8a9fe05631fc5ca8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-25T17:01:10+09:00</updated>
-    <summary type="html">Likes: 242&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T17:01:10+09:00&lt;br/&gt;Updated: 2026-01-25T17:01:10+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 247&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T17:01:10+09:00&lt;br/&gt;Updated: 2026-01-25T17:01:10+09:00&lt;br/&gt;はじめに
 エンジニアをやっていると大きな山場のようなものがいくつかあります。
 CI/CD / AWS / Docker / Clean Architecture
 これらは私がジュニアレベルからミドルレベルに上がる中でも特に大変だったなと思う項目です。これを見ている方も憧...</summary>
@@ -439,7 +439,7 @@ Certify
     <title>【後編】先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/9607008aefc2521615ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-28T09:25:42+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T14:17:53+09:00&lt;br/&gt;Updated: 2026-01-28T09:25:42+09:00&lt;br/&gt;忘れることを前提に、現場はどう教えるべきか
+    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T14:17:53+09:00&lt;br/&gt;Updated: 2026-01-28T09:25:42+09:00&lt;br/&gt;忘れることを前提に、現場はどう教えるべきか
 ― 育成を「根性論」から「設計」に戻す ―
 
 はじめまして。
@@ -568,24 +568,24 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 最初はQiitaのContributionと記事...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
+    <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
+    <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T07:05:56+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ultra-grand-child&quot;&gt;Ultra-grand-child&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T07:05:56+09:00&lt;br/&gt;Updated: 2026-01-26T07:05:56+09:00&lt;br/&gt;タイトルの通り、就職活動のために作ったアプリが意外にも使える子に仕上がったので、自慢します。
+最初の方にアプリの紹介と技術制約の話を書いておきます。
+「なんでそんなもん作ったんや？」という疑問には、あとの方のセクションで書いてきます。
+
+この記事を読むとうれしくなれること
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:85b419b26b2886f5e2d6</id>
     <title>ローカルLLMサーバーの実用的な使い道の検討</title>
     <link rel="alternate" href="https://qiita.com/bd8z/items/85b419b26b2886f5e2d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-18T23:59:50+09:00</updated>
     <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/bd8z&quot;&gt;bd8z&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T12:50:10+09:00&lt;br/&gt;Updated: 2026-01-18T23:59:50+09:00&lt;br/&gt;はじめに
 Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、いわゆるエージェントタスクにおける計算資源としての使い方が向いているのではという気がしてきた。イメージはAWS LambdaのようなFunction as a serviceのようなワンショットな...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
-    <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
-    <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T07:05:56+09:00</updated>
-    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ultra-grand-child&quot;&gt;Ultra-grand-child&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T07:05:56+09:00&lt;br/&gt;Updated: 2026-01-26T07:05:56+09:00&lt;br/&gt;タイトルの通り、就職活動のために作ったアプリが意外にも使える子に仕上がったので、自慢します。
-最初の方にアプリの紹介と技術制約の話を書いておきます。
-「なんでそんなもん作ったんや？」という疑問には、あとの方のセクションで書いてきます。
-
-この記事を読むとうれしくなれること
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
@@ -1252,6 +1252,15 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7c5305349815f5142d7d</id>
+    <title>【JavaScript】ES2026の新機能全部解説する</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/7c5305349815f5142d7d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T21:13:46+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:13:46+09:00&lt;br/&gt;Updated: 2026-01-26T21:13:46+09:00&lt;br/&gt;JavaScriptの仕様は、TC39というところで決められています。
+ブラウザベンダや関係者が定期的に会合を行い、様々な新機能について話し合って今後のJavaScriptの方向性を決めていきます。
+ここでは2025年にFinishedになったproposalについて紹介し...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
     <title>FPGAボード Shrike Liteをお試し</title>
     <link rel="alternate" href="https://qiita.com/Lathe/items/241640a492adc2b5fc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1282,15 +1291,6 @@ FPGAとマイコンを1ボードに搭載
     <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
 そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
 Google Colabで手軽に試せるの...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7c5305349815f5142d7d</id>
-    <title>【JavaScript】ES2026の新機能全部解説する</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/7c5305349815f5142d7d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T21:13:46+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:13:46+09:00&lt;br/&gt;Updated: 2026-01-26T21:13:46+09:00&lt;br/&gt;JavaScriptの仕様は、TC39というところで決められています。
-ブラウザベンダや関係者が定期的に会合を行い、様々な新機能について話し合って今後のJavaScriptの方向性を決めていきます。
-ここでは2025年にFinishedになったproposalについて紹介し...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bd20f5fdec145334e10c</id>
@@ -1388,6 +1388,19 @@ Power Automate を触っていて実行結果（履歴）を確認してみる�
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b0b8f28990b19e2a1b04</id>
+    <title>フル日本語環境で働く外国人として</title>
+    <link rel="alternate" href="https://qiita.com/polopopi/items/b0b8f28990b19e2a1b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T14:07:05+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/polopopi&quot;&gt;polopopi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T14:07:03+09:00&lt;br/&gt;Updated: 2026-01-26T14:07:05+09:00&lt;br/&gt;フル日本語環境で働く外国人として
+最初の印象、使っているツール、そして生き延びるためのワークフロー
+
+※本記事の日本語訳は ChatGPT を使って作成しています。
+
+この記事について
+この記事は、フル日本語環境で外国人として働く中で、特に最初の数日間に直面した課題をま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8b0e5b51749ccdfde393</id>
     <title>🤤 僕の考えた最強の次世代Webアプリケーションフレームワーク</title>
     <link rel="alternate" href="https://qiita.com/u83unlimited/items/8b0e5b51749ccdfde393?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1470,17 +1483,14 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b0b8f28990b19e2a1b04</id>
-    <title>フル日本語環境で働く外国人として</title>
-    <link rel="alternate" href="https://qiita.com/polopopi/items/b0b8f28990b19e2a1b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T14:07:05+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/polopopi&quot;&gt;polopopi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T14:07:03+09:00&lt;br/&gt;Updated: 2026-01-26T14:07:05+09:00&lt;br/&gt;フル日本語環境で働く外国人として
-最初の印象、使っているツール、そして生き延びるためのワークフロー
-
-※本記事の日本語訳は ChatGPT を使って作成しています。
-
-この記事について
-この記事は、フル日本語環境で外国人として働く中で、特に最初の数日間に直面した課題をま...</summary>
+    <id>tag:qiita.com,2026:ec2b2c0db0f94eccd2b6</id>
+    <title>Next.jsフルスタック構成の限界：開発サーバーが起動しなくなるまでの失敗談</title>
+    <link rel="alternate" href="https://qiita.com/nishibu97/items/ec2b2c0db0f94eccd2b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T14:02:05+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nishibu97&quot;&gt;nishibu97&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T15:44:15+09:00&lt;br/&gt;Updated: 2026-01-26T14:02:05+09:00&lt;br/&gt;はじめに
+私が今関わるプロジェクトではNext.jsを採用し、AIを活用したWebアプリケーションを開発しています。
+しかし開発が進み、機能やチームメンバーが増えるにつれてコードの複雑性が増大。
+最終的には npm run dev コマンドでローカル開発環境が起動しなくな...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3b24fa8e87869cc73bfc</id>
@@ -1545,16 +1555,6 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 はじめまして。東海地区で建築設計事務所を経営している建築士です。
 いきなりですが、私はプログラミングの知識はゼロです。Pythonは「ヘビの種類？」だと思っていました。
 そんな私が、生成AI（ChatGPT / Cla...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ec2b2c0db0f94eccd2b6</id>
-    <title>Next.jsフルスタック構成の限界：開発サーバーが起動しなくなるまでの失敗談</title>
-    <link rel="alternate" href="https://qiita.com/nishibu97/items/ec2b2c0db0f94eccd2b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T14:02:05+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nishibu97&quot;&gt;nishibu97&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T15:44:15+09:00&lt;br/&gt;Updated: 2026-01-26T14:02:05+09:00&lt;br/&gt;はじめに
-私が今関わるプロジェクトではNext.jsを採用し、AIを活用したWebアプリケーションを開発しています。
-しかし開発が進み、機能やチームメンバーが増えるにつれてコードの複雑性が増大。
-最終的には npm run dev コマンドでローカル開発環境が起動しなくな...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:57fb0da7257d9875409c</id>
