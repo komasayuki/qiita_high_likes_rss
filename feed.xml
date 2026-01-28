@@ -1326,6 +1326,16 @@ TS製。既存の設計論と関数型プログラミングを参考に再設計
 シンシアでは、年間100人程度の実務未経験の方が応募し技術面接を受けます。その経験を通し、実務未経験者の方にぜひ身につけて...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a4ab780761bbf734e473</id>
+    <title>Claude Codeの自動承認モードでホームディレクトリを吹き飛ばされたくない人へ【Docker Sandboxes】</title>
+    <link rel="alternate" href="https://qiita.com/sijiaoh/items/a4ab780761bbf734e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-27T21:23:03+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sijiaoh&quot;&gt;sijiaoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T08:25:35+09:00&lt;br/&gt;Updated: 2026-01-27T21:23:03+09:00&lt;br/&gt;YOLOモードの問題
+Claude Codeには「YOLOモード（--dangerously-skip-permissions）」と呼ばれる機能があります。確認なしでコマンドを実行してくれるので、作業効率が段違いになります。
+一方で、名前の通り危険な機能でもあります。
+ネ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bd20f5fdec145334e10c</id>
     <title>個人開発で使えるFrontend &amp; Backendのフォルダ構成について</title>
     <link rel="alternate" href="https://qiita.com/ZHAOJIAYI/items/bd20f5fdec145334e10c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1369,16 +1379,6 @@ Claude Codeには日頃から大変お世話になっていますが、完全に
 実装中の軌道修正 - おかしな方向に進みそうなときに相談に乗りたい
 
 完了時...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a4ab780761bbf734e473</id>
-    <title>Claude Codeの自動承認モードでホームディレクトリを吹き飛ばされたくない人へ【Docker Sandboxes】</title>
-    <link rel="alternate" href="https://qiita.com/sijiaoh/items/a4ab780761bbf734e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-27T21:23:03+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sijiaoh&quot;&gt;sijiaoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T08:25:35+09:00&lt;br/&gt;Updated: 2026-01-27T21:23:03+09:00&lt;br/&gt;YOLOモードの問題
-Claude Codeには「YOLOモード（--dangerously-skip-permissions）」と呼ばれる機能があります。確認なしでコマンドを実行してくれるので、作業効率が段違いになります。
-一方で、名前の通り危険な機能でもあります。
-ネ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:082317eae9d2a9d3bd6a</id>
@@ -1997,6 +1997,15 @@ boto3を使ったPythonアプリケーションで、aws loginコマンドで認
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:20a2d4af87aa3541f1d3</id>
+    <title>【AWS】SAA-C03試験対策まとめ（AWS主要サービスの全体像）</title>
+    <link rel="alternate" href="https://qiita.com/RizumuUEDA/items/20a2d4af87aa3541f1d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-27T09:50:22+09:00</updated>
+    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/RizumuUEDA&quot;&gt;RizumuUEDA&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T09:50:22+09:00&lt;br/&gt;Updated: 2026-01-27T09:50:22+09:00&lt;br/&gt;こんにちは。株式会社ジールの@RizumuUEDAです。
+この度AWS SAA-C03試験を受験し合格することができました。
+AWSに関しては昨年からCLFをはじめいくつかの資格取得や、実務で実際にサービス利用をしてきましたが、経験を積む中でようやくAWSの理解が深まった実...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:441440ef6ec6c1d31b99</id>
     <title>スペック駆動開発  ツール分業が生んだ設計不在という問題</title>
     <link rel="alternate" href="https://qiita.com/mellowlaunch/items/441440ef6ec6c1d31b99?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2171,15 +2180,6 @@ if / elsif / else のような条件分岐が増える
 はじめに
 ログ集計のワンライナーで、次のようなコマンドを見たことはないでしょうか。
 grep &quot;ERROR&quot; access.log | awk...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:20a2d4af87aa3541f1d3</id>
-    <title>【AWS】SAA-C03試験対策まとめ（AWS主要サービスの全体像）</title>
-    <link rel="alternate" href="https://qiita.com/RizumuUEDA/items/20a2d4af87aa3541f1d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-27T09:50:22+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/RizumuUEDA&quot;&gt;RizumuUEDA&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T09:50:22+09:00&lt;br/&gt;Updated: 2026-01-27T09:50:22+09:00&lt;br/&gt;こんにちは。株式会社ジールの@RizumuUEDAです。
-この度AWS SAA-C03試験を受験し合格することができました。
-AWSに関しては昨年からCLFをはじめいくつかの資格取得や、実務で実際にサービス利用をしてきましたが、経験を積む中でようやくAWSの理解が深まった実...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:854256b9b9a342959178</id>
