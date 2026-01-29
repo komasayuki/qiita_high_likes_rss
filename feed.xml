@@ -349,7 +349,7 @@ SHAP値処理の改修
     <title>【後編】先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/9607008aefc2521615ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-28T09:25:42+09:00</updated>
-    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T14:17:53+09:00&lt;br/&gt;Updated: 2026-01-28T09:25:42+09:00&lt;br/&gt;忘れることを前提に、現場はどう教えるべきか
+    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T14:17:53+09:00&lt;br/&gt;Updated: 2026-01-28T09:25:42+09:00&lt;br/&gt;忘れることを前提に、現場はどう教えるべきか
 ― 育成を「根性論」から「設計」に戻す ―
 
 はじめまして。
@@ -357,6 +357,18 @@ SHAP値処理の改修
 日々、プログラミング学習や実務の中で
 つまずきやすいポイントを整理して発信しています。
 PRUMについて気になった方は...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
+    <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
+    <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T07:05:56+09:00</updated>
+    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ultra-grand-child&quot;&gt;Ultra-grand-child&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T07:05:56+09:00&lt;br/&gt;Updated: 2026-01-26T07:05:56+09:00&lt;br/&gt;タイトルの通り、就職活動のために作ったアプリが意外にも使える子に仕上がったので、自慢します。
+最初の方にアプリの紹介と技術制約の話を書いておきます。
+「なんでそんなもん作ったんや？」という疑問には、あとの方のセクションで書いてきます。
+
+この記事を読むとうれしくなれること
+...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b15f9adc9fb807a3e148</id>
@@ -380,18 +392,6 @@ Certify
 セキュリティ機能の検知回避
 アプリケーション実行制御の無効化
 ファイル配送
-...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
-    <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
-    <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T07:05:56+09:00</updated>
-    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ultra-grand-child&quot;&gt;Ultra-grand-child&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T07:05:56+09:00&lt;br/&gt;Updated: 2026-01-26T07:05:56+09:00&lt;br/&gt;タイトルの通り、就職活動のために作ったアプリが意外にも使える子に仕上がったので、自慢します。
-最初の方にアプリの紹介と技術制約の話を書いておきます。
-「なんでそんなもん作ったんや？」という疑問には、あとの方のセクションで書いてきます。
-
-この記事を読むとうれしくなれること
 ...</summary>
   </entry>
   <entry>
@@ -650,6 +650,15 @@ Pythonでプログラミングをしていると、当たり前のように使�
 Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7c5305349815f5142d7d</id>
+    <title>【JavaScript】ES2026の新機能全部解説する</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/7c5305349815f5142d7d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T21:13:46+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:13:46+09:00&lt;br/&gt;Updated: 2026-01-26T21:13:46+09:00&lt;br/&gt;JavaScriptの仕様は、TC39というところで決められています。
+ブラウザベンダや関係者が定期的に会合を行い、様々な新機能について話し合って今後のJavaScriptの方向性を決めていきます。
+ここでは2025年にFinishedになったproposalについて紹介し...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cb29c3208ac188dad5f1</id>
     <title>OCIのノーコード・エージェントビルダー『Agent Factory』がリリース！触ってみた</title>
     <link rel="alternate" href="https://qiita.com/yushibats/items/cb29c3208ac188dad5f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -697,15 +706,6 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
 具体的には、M365を導入している企業において利用できる以下を対象とします:
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7c5305349815f5142d7d</id>
-    <title>【JavaScript】ES2026の新機能全部解説する</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/7c5305349815f5142d7d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T21:13:46+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:13:46+09:00&lt;br/&gt;Updated: 2026-01-26T21:13:46+09:00&lt;br/&gt;JavaScriptの仕様は、TC39というところで決められています。
-ブラウザベンダや関係者が定期的に会合を行い、様々な新機能について話し合って今後のJavaScriptの方向性を決めていきます。
-ここでは2025年にFinishedになったproposalについて紹介し...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:910b7a6c1be97da2879d</id>
@@ -1130,6 +1130,29 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a4ab780761bbf734e473</id>
+    <title>Claude Codeの自動承認モードでホームディレクトリを吹き飛ばされたくない人へ【Docker Sandboxes】</title>
+    <link rel="alternate" href="https://qiita.com/sijiaoh/items/a4ab780761bbf734e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-27T21:23:03+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sijiaoh&quot;&gt;sijiaoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T08:25:35+09:00&lt;br/&gt;Updated: 2026-01-27T21:23:03+09:00&lt;br/&gt;YOLOモードの問題
+Claude Codeには「YOLOモード（--dangerously-skip-permissions）」と呼ばれる機能があります。確認なしでコマンドを実行してくれるので、作業効率が段違いになります。
+一方で、名前の通り危険な機能でもあります。
+ネ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b0b8f28990b19e2a1b04</id>
+    <title>フル日本語環境で働く外国人として</title>
+    <link rel="alternate" href="https://qiita.com/polopopi/items/b0b8f28990b19e2a1b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T14:07:05+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/polopopi&quot;&gt;polopopi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T14:07:03+09:00&lt;br/&gt;Updated: 2026-01-26T14:07:05+09:00&lt;br/&gt;フル日本語環境で働く外国人として
+最初の印象、使っているツール、そして生き延びるためのワークフロー
+
+※本記事の日本語訳は ChatGPT を使って作成しています。
+
+この記事について
+この記事は、フル日本語環境で外国人として働く中で、特に最初の数日間に直面した課題をま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:efc227e8fe159cadb50b</id>
     <title>なぜmkcertでlocalhostに証明書をつけられるのか？仕組みを図解で理解する</title>
     <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/efc227e8fe159cadb50b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1173,19 +1196,6 @@ C++の代わりにRustで記述する
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b0b8f28990b19e2a1b04</id>
-    <title>フル日本語環境で働く外国人として</title>
-    <link rel="alternate" href="https://qiita.com/polopopi/items/b0b8f28990b19e2a1b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T14:07:05+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/polopopi&quot;&gt;polopopi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T14:07:03+09:00&lt;br/&gt;Updated: 2026-01-26T14:07:05+09:00&lt;br/&gt;フル日本語環境で働く外国人として
-最初の印象、使っているツール、そして生き延びるためのワークフロー
-
-※本記事の日本語訳は ChatGPT を使って作成しています。
-
-この記事について
-この記事は、フル日本語環境で外国人として働く中で、特に最初の数日間に直面した課題をま...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:4d28c47b1b6f7ef727cf</id>
     <title>【ポケモン×Java】知識編 ERROR #6 実行時エラーを防止するには？</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/4d28c47b1b6f7ef727cf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1204,14 +1214,14 @@ C++の代わりにRustで記述する
 この章では、「どう直すか...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a4ab780761bbf734e473</id>
-    <title>Claude Codeの自動承認モードでホームディレクトリを吹き飛ばされたくない人へ【Docker Sandboxes】</title>
-    <link rel="alternate" href="https://qiita.com/sijiaoh/items/a4ab780761bbf734e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-27T21:23:03+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sijiaoh&quot;&gt;sijiaoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T08:25:35+09:00&lt;br/&gt;Updated: 2026-01-27T21:23:03+09:00&lt;br/&gt;YOLOモードの問題
-Claude Codeには「YOLOモード（--dangerously-skip-permissions）」と呼ばれる機能があります。確認なしでコマンドを実行してくれるので、作業効率が段違いになります。
-一方で、名前の通り危険な機能でもあります。
-ネ...</summary>
+    <id>tag:qiita.com,2026:c006c5a7ea64684eae1e</id>
+    <title>git-worktree-runner (gtr) で実現するAI時代の並列開発</title>
+    <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/c006c5a7ea64684eae1e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-28T14:10:41+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kazuki_ogawa&quot;&gt;kazuki_ogawa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T14:10:41+09:00&lt;br/&gt;Updated: 2026-01-28T14:10:41+09:00&lt;br/&gt;株式会社シンシアでは、実務未経験のエンジニアの方や学生エンジニアインターンを採用し一緒に働いています。
+※ シンシアにおける働き方の様子はこちら
+
+シンシアでは、年間100人程度の実務未経験の方が応募し技術面接を受けます。その経験を通し、実務未経験者の方にぜひ身につけて...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fbabdb74ccad1ec316c1</id>
@@ -1284,16 +1294,6 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c006c5a7ea64684eae1e</id>
-    <title>git-worktree-runner (gtr) で実現するAI時代の並列開発</title>
-    <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/c006c5a7ea64684eae1e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-28T14:10:41+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kazuki_ogawa&quot;&gt;kazuki_ogawa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T14:10:41+09:00&lt;br/&gt;Updated: 2026-01-28T14:10:41+09:00&lt;br/&gt;株式会社シンシアでは、実務未経験のエンジニアの方や学生エンジニアインターンを採用し一緒に働いています。
-※ シンシアにおける働き方の様子はこちら
-
-シンシアでは、年間100人程度の実務未経験の方が応募し技術面接を受けます。その経験を通し、実務未経験者の方にぜひ身につけて...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
     <title>FPGAボード Shrike Liteをお試し</title>
     <link rel="alternate" href="https://qiita.com/Lathe/items/241640a492adc2b5fc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1334,6 +1334,15 @@ Google Colabで手軽に試せるの...</summary>
 TS製。既存の設計論と関数型プログラミングを参考に再設計されたWebアプリケーションスキーマ（と規定されたスケーリング方法）を元にした 設計解析＆改善提案プログラム（Linter＆Formatter） 及びアプリケーションFW（＆ツールキット）からなる。
 
 最重要テ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e719ed3d0d23ac05bc6e</id>
+    <title>ローカルAI時代の「Clawdbot × Ollama」完全ガイド   ――自分専用マルチチャットAIを動かす</title>
+    <link rel="alternate" href="https://qiita.com/automation2025/items/e719ed3d0d23ac05bc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T17:50:25+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T17:48:25+09:00&lt;br/&gt;Updated: 2026-01-26T17:50:25+09:00&lt;br/&gt;はじめに
+Clawdbot（クロードボット）は、1台のPCをハブにして Discord・Slack・Telegram など複数チャットを横断しながら AI エージェントを動かせる OSS のパーソナルアシスタント基盤です。
+一方 Ollama（オラマ）は、Meta Lla...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bd20f5fdec145334e10c</id>
@@ -1598,15 +1607,6 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 そんな私が、生成AI（ChatGPT / Cla...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:e719ed3d0d23ac05bc6e</id>
-    <title>ローカルAI時代の「Clawdbot × Ollama」完全ガイド   ――自分専用マルチチャットAIを動かす</title>
-    <link rel="alternate" href="https://qiita.com/automation2025/items/e719ed3d0d23ac05bc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T17:50:25+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T17:48:25+09:00&lt;br/&gt;Updated: 2026-01-26T17:50:25+09:00&lt;br/&gt;はじめに
-Clawdbot（クロードボット）は、1台のPCをハブにして Discord・Slack・Telegram など複数チャットを横断しながら AI エージェントを動かせる OSS のパーソナルアシスタント基盤です。
-一方 Ollama（オラマ）は、Meta Lla...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:8c468cb4f8bac95fa1f0</id>
     <title>短期思考にサヨナラ！『ロングゲーム』で人生を逆算する方法</title>
     <link rel="alternate" href="https://qiita.com/nakaizumi_slj/items/8c468cb4f8bac95fa1f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1852,6 +1852,15 @@ CSVファイルに書き込んで
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:20a2d4af87aa3541f1d3</id>
+    <title>【AWS】SAA-C03試験対策まとめ（AWS主要サービスの全体像）</title>
+    <link rel="alternate" href="https://qiita.com/RizumuUEDA/items/20a2d4af87aa3541f1d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-27T09:50:22+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/RizumuUEDA&quot;&gt;RizumuUEDA&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T09:50:22+09:00&lt;br/&gt;Updated: 2026-01-27T09:50:22+09:00&lt;br/&gt;こんにちは。株式会社ジールの@RizumuUEDAです。
+この度AWS SAA-C03試験を受験し合格することができました。
+AWSに関しては昨年からCLFをはじめいくつかの資格取得や、実務で実際にサービス利用をしてきましたが、経験を積む中でようやくAWSの理解が深まった実...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:17d476c0556abe9ff10c</id>
     <title>【VSCode】付箋並みの手軽さ！ダブルクリック一発で起動する「最強メモ環境」の作り方</title>
     <link rel="alternate" href="https://qiita.com/Shimoide0714/items/17d476c0556abe9ff10c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1995,15 +2004,6 @@ Emacs備忘録（２０２４年版）という記事を投稿してから２年
     <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/_YukiOgawa&quot;&gt;_YukiOgawa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T16:35:57+09:00&lt;br/&gt;Updated: 2026-01-05T16:35:57+09:00&lt;br/&gt;はじめに
 boto3を使ったPythonアプリケーションで、aws loginコマンドで認証したのに、15分くらいで「クレデンシャルが期限切れです」というエラーが出て困っていました。
 調べてみると、awscrtライブラリのバージョンが古いことが原因で、クレデンシャルの自動...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:20a2d4af87aa3541f1d3</id>
-    <title>【AWS】SAA-C03試験対策まとめ（AWS主要サービスの全体像）</title>
-    <link rel="alternate" href="https://qiita.com/RizumuUEDA/items/20a2d4af87aa3541f1d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-27T09:50:22+09:00</updated>
-    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/RizumuUEDA&quot;&gt;RizumuUEDA&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T09:50:22+09:00&lt;br/&gt;Updated: 2026-01-27T09:50:22+09:00&lt;br/&gt;こんにちは。株式会社ジールの@RizumuUEDAです。
-この度AWS SAA-C03試験を受験し合格することができました。
-AWSに関しては昨年からCLFをはじめいくつかの資格取得や、実務で実際にサービス利用をしてきましたが、経験を積む中でようやくAWSの理解が深まった実...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d865fc92921a822c1f44</id>
@@ -2180,6 +2180,29 @@ if / elsif / else のような条件分岐が増える
 そして、個人開発ではStreamlit + L...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e84e88004b4fd7bc511c</id>
+    <title>AIが出したコードを「そのまま使う」危険性に気づいた2025年</title>
+    <link rel="alternate" href="https://qiita.com/shimada_slj/items/e84e88004b4fd7bc511c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-28T09:40:54+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shimada_slj&quot;&gt;shimada_slj&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T09:40:53+09:00&lt;br/&gt;Updated: 2026-01-28T09:40:54+09:00&lt;br/&gt;はじめに
+こんにちは、エンジニア4年目の嶋田です。
+この記事を開いていただき、ありがとうございます！
+2025年、私はChatGPT、Claude、GitHub Copilot、Cursorと、ありとあらゆるAIツールを使いながら開発をしてきました。
+GitHub Cop...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:502e922d1fc80b6df9fe</id>
+    <title>外挿の見抜き方：学習域外を“検知”してアラートする</title>
+    <link rel="alternate" href="https://qiita.com/Seine_A_Shintani/items/502e922d1fc80b6df9fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-28T02:05:38+09:00</updated>
+    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Seine_A_Shintani&quot;&gt;Seine_A_Shintani&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T16:46:09+09:00&lt;br/&gt;Updated: 2026-01-28T02:05:38+09:00&lt;br/&gt;想定読者：回帰/分類モデルを作ったことがある／「CVは良いのに本番で外す」経験がある／内挿・外挿の話を聞いたことがある
+ゴール：
+
+「外挿（学習域外）」 を用語から理解する
+ダミーデータで 「学習域外では予測が壊れやすい」 を体験する
+学習域外を “検知（Out-of...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f44e78a3991c83d5ab64</id>
     <title>grep | awk | sort | uniq を全部つなげる理由</title>
     <link rel="alternate" href="https://qiita.com/OZAWAKOJI/items/f44e78a3991c83d5ab64?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2205,24 +2228,5 @@ grep &quot;ERROR&quot; access.log | awk...</summary>
 #!/bin/bash
 
 筆者がシェルスクリプトを習ったのは大学一年...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5e291fdc9a199012cfc9</id>
-    <title>AWS初心者がCloudWatch Logsを毎日S3に保存する仕組みを実装した話</title>
-    <link rel="alternate" href="https://qiita.com/chaochire/items/5e291fdc9a199012cfc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-23T19:09:36+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/chaochire&quot;&gt;chaochire&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T12:17:30+09:00&lt;br/&gt;Updated: 2026-01-23T19:09:36+09:00&lt;br/&gt;本記事は「AWSを触り始めたばかりで、Lambda/EventBridge/IAMにまだ慣れていない方」を想定しています。
-
-こんにちは。
-ソーイ株式会社、入社１年目の村上です。
-会社の業務として稼働中のサービスから出力されるCloudWatchLogsのログファイル...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ab37e22349598fbe91f5</id>
-    <title>「どこから直せばいい？」を解決する。New Relicを使ったDBパフォーマンス改善の優先順位付け戦略</title>
-    <link rel="alternate" href="https://qiita.com/MarthaS/items/ab37e22349598fbe91f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-23T13:22:41+09:00</updated>
-    <summary type="html">Likes: 11&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/MarthaS&quot;&gt;MarthaS&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T13:22:40+09:00&lt;br/&gt;Updated: 2026-01-23T13:22:41+09:00&lt;br/&gt;システムのパフォーマンス改善において、「データベース（DB）クエリの最適化」は避けて通れない重要なテーマです。
-しかし、いざ改善に取り組もうとすると、 「Slow Query ログが多すぎて、どこから手を付ければいいか分からない」 「苦労してSQLをチューニングしたのに、シ...</summary>
   </entry>
 </feed>
