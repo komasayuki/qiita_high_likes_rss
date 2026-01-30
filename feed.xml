@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-30T11:17:21+09:00</updated>
+  <updated>2026-01-30T16:56:38+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -234,6 +234,15 @@ PRUMについて気になった方は...</summary>
 そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d4121721605c8955aa17</id>
+    <title>なぜあの人と話すと仕事が止まるのか。</title>
+    <link rel="alternate" href="https://qiita.com/haihaikazuma/items/d4121721605c8955aa17?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-28T10:31:28+09:00</updated>
+    <summary type="html">Likes: 93&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/haihaikazuma&quot;&gt;haihaikazuma&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T10:31:28+09:00&lt;br/&gt;Updated: 2026-01-28T10:31:28+09:00&lt;br/&gt;会話・チャットでやり取りをしていて、「なんか、このひと面倒くさいなー」とイライラすることがある。
+イライラするだけなら、まだ我慢できる。けれど、それが仕事に支障をきたすのであれば話は別だ。─── で、そういう場面は珍しくない。
+そういうひとのことばを観察していると、あいまい...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e88aabbdfa8ddd94810a</id>
     <title>『単体テストの考え方/使い方』が良すぎた</title>
     <link rel="alternate" href="https://qiita.com/ikenohotori/items/e88aabbdfa8ddd94810a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -284,15 +293,6 @@ Playwright MCP Serverをグローバルインストールすると...</summary>
 みなさんは、Pencil というAIツール使ったことがありますか？
 Pencilは、Figma + Layermate みたいなツールで、Pencil上でAIにUIを作らせたり、作成したUIをMCPを経由して開発させることができます！
 この記事では、実際に、Pe...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d4121721605c8955aa17</id>
-    <title>なぜあの人と話すと仕事が止まるのか。</title>
-    <link rel="alternate" href="https://qiita.com/haihaikazuma/items/d4121721605c8955aa17?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-28T10:31:28+09:00</updated>
-    <summary type="html">Likes: 85&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/haihaikazuma&quot;&gt;haihaikazuma&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T10:31:28+09:00&lt;br/&gt;Updated: 2026-01-28T10:31:28+09:00&lt;br/&gt;会話・チャットでやり取りをしていて、「なんか、このひと面倒くさいなー」とイライラすることがある。
-イライラするだけなら、まだ我慢できる。けれど、それが仕事に支障をきたすのであれば話は別だ。─── で、そういう場面は珍しくない。
-そういうひとのことばを観察していると、あいまい...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cbdcda9c0251d66f252c</id>
@@ -634,6 +634,15 @@ CLAUDE.md
 サブエー...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cbc43b7af628ac9384e1</id>
+    <title>ディベート「現代開発にオブジェクト指向はまだ必要か」</title>
+    <link rel="alternate" href="https://qiita.com/Fujiwo/items/cbc43b7af628ac9384e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-28T16:55:12+09:00</updated>
+    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Fujiwo&quot;&gt;Fujiwo&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T15:56:45+09:00&lt;br/&gt;Updated: 2026-01-28T16:55:12+09:00&lt;br/&gt;概要
+この記事は、「現代のソフトウェア開発において、オブジェクト指向(OOP)はまだ中心的な指針たり得るか?」をテーマにした、肯定派・否定派によるディベート形式の文章です。
+目的は、結論を一つに決め打ちすることではなく、オブジェクト指向をめぐる代表的な賛否の論点(歴史...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9923fb21c48ea999b191</id>
     <title>pip installって何してるの？</title>
     <link rel="alternate" href="https://qiita.com/shinya-kg0/items/9923fb21c48ea999b191?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -656,15 +665,6 @@ Pythonでプログラミングをしていると、当たり前のように使�
 範囲が広すぎて、何から勉強すればいいのか分からない
 
 統計モデリング（statistical ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cbc43b7af628ac9384e1</id>
-    <title>ディベート「現代開発にオブジェクト指向はまだ必要か」</title>
-    <link rel="alternate" href="https://qiita.com/Fujiwo/items/cbc43b7af628ac9384e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-28T16:55:12+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Fujiwo&quot;&gt;Fujiwo&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T15:56:45+09:00&lt;br/&gt;Updated: 2026-01-28T16:55:12+09:00&lt;br/&gt;概要
-この記事は、「現代のソフトウェア開発において、オブジェクト指向(OOP)はまだ中心的な指針たり得るか?」をテーマにした、肯定派・否定派によるディベート形式の文章です。
-目的は、結論を一つに決め打ちすることではなく、オブジェクト指向をめぐる代表的な賛否の論点(歴史...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:eed90901fdd044ce7f40</id>
@@ -712,6 +712,16 @@ Generative UIは、生成AIやAIエージェントによってUIを生成する�
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c006c5a7ea64684eae1e</id>
+    <title>git-worktree-runner (gtr) で実現するAI時代の並列開発</title>
+    <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/c006c5a7ea64684eae1e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-28T14:10:41+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kazuki_ogawa&quot;&gt;kazuki_ogawa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T14:10:41+09:00&lt;br/&gt;Updated: 2026-01-28T14:10:41+09:00&lt;br/&gt;株式会社シンシアでは、実務未経験のエンジニアの方や学生エンジニアインターンを採用し一緒に働いています。
+※ シンシアにおける働き方の様子はこちら
+
+シンシアでは、年間100人程度の実務未経験の方が応募し技術面接を受けます。その経験を通し、実務未経験者の方にぜひ身につけて...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9a2e5c163b46d81e1f62</id>
     <title>Copilotは果たしてセキュアなのか～管理者目線・ユーザー目線からまとめてみた～</title>
     <link rel="alternate" href="https://qiita.com/sadabon444/items/9a2e5c163b46d81e1f62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -724,16 +734,6 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
 具体的には、M365を導入している企業において利用できる以下を対象とします:
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c006c5a7ea64684eae1e</id>
-    <title>git-worktree-runner (gtr) で実現するAI時代の並列開発</title>
-    <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/c006c5a7ea64684eae1e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-28T14:10:41+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kazuki_ogawa&quot;&gt;kazuki_ogawa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T14:10:41+09:00&lt;br/&gt;Updated: 2026-01-28T14:10:41+09:00&lt;br/&gt;株式会社シンシアでは、実務未経験のエンジニアの方や学生エンジニアインターンを採用し一緒に働いています。
-※ シンシアにおける働き方の様子はこちら
-
-シンシアでは、年間100人程度の実務未経験の方が応募し技術面接を受けます。その経験を通し、実務未経験者の方にぜひ身につけて...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:910b7a6c1be97da2879d</id>
@@ -1260,6 +1260,17 @@ C++の代わりにRustで記述する
 この章では、「どう直すか...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e84e88004b4fd7bc511c</id>
+    <title>AIが出したコードを「そのまま使う」危険性に気づいた2025年</title>
+    <link rel="alternate" href="https://qiita.com/shimada_slj/items/e84e88004b4fd7bc511c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-28T09:40:54+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shimada_slj&quot;&gt;shimada_slj&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T09:40:53+09:00&lt;br/&gt;Updated: 2026-01-28T09:40:54+09:00&lt;br/&gt;はじめに
+こんにちは、エンジニア4年目の嶋田です。
+この記事を開いていただき、ありがとうございます！
+2025年、私はChatGPT、Claude、GitHub Copilot、Cursorと、ありとあらゆるAIツールを使いながら開発をしてきました。
+GitHub Cop...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fbabdb74ccad1ec316c1</id>
     <title>【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（後編）</title>
     <link rel="alternate" href="https://qiita.com/yushibats/items/fbabdb74ccad1ec316c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1330,17 +1341,6 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:e84e88004b4fd7bc511c</id>
-    <title>AIが出したコードを「そのまま使う」危険性に気づいた2025年</title>
-    <link rel="alternate" href="https://qiita.com/shimada_slj/items/e84e88004b4fd7bc511c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-28T09:40:54+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shimada_slj&quot;&gt;shimada_slj&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T09:40:53+09:00&lt;br/&gt;Updated: 2026-01-28T09:40:54+09:00&lt;br/&gt;はじめに
-こんにちは、エンジニア4年目の嶋田です。
-この記事を開いていただき、ありがとうございます！
-2025年、私はChatGPT、Claude、GitHub Copilot、Cursorと、ありとあらゆるAIツールを使いながら開発をしてきました。
-GitHub Cop...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
     <title>FPGAボード Shrike Liteをお試し</title>
     <link rel="alternate" href="https://qiita.com/Lathe/items/241640a492adc2b5fc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1371,6 +1371,15 @@ FPGAとマイコンを1ボードに搭載
     <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
 そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
 Google Colabで手軽に試せるの...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:243bd176b84900f4cc0d</id>
+    <title>AIエージェントと協働してmarpでスライドを作る2026</title>
+    <link rel="alternate" href="https://qiita.com/hirokidaichi/items/243bd176b84900f4cc0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-30T16:56:38+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T12:29:37+09:00&lt;br/&gt;Updated: 2026-01-30T16:56:38+09:00&lt;br/&gt;はじめに
+2025年から2026年にかけて、Claude Codeのスキルシステムを使ってプレゼンテーション作成のワークフローを構築してきました。この記事では、その過程で作り上げたスキル群と、実際の使い方を紹介します。
+最初は「AIにスライドを作らせたい」という単純な動...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8b0e5b51749ccdfde393</id>
@@ -1668,6 +1677,15 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 
 必要なもの
 最新環境のTeX Liveおよび...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:351912f61ffe1b177a68</id>
+    <title>よくわからずにClaudeのSkillを使い倒し始めたら、自分の仕事が丸裸になりつつある話</title>
+    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/351912f61ffe1b177a68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-30T09:53:34+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T09:53:34+09:00&lt;br/&gt;Updated: 2026-01-30T09:53:34+09:00&lt;br/&gt;はじめに
+いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
+みなさん、Claude Code、使ってます？Claude Code・CodeXあたりを去年末までうろちょろしていたんですが、やはり界隈の勢いに押されて年始からはClaude Code...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b18fd7cd810e294340e7</id>
@@ -2194,30 +2212,5 @@ Qiita 特有のレイアウトや装飾をできる限り再現した PDF を生
 「先輩・同僚についていけるか心配。。。」
 自分らしく活躍するには、コーディングやツールなどのテクニカルスキルだけではなく、社会人としての常識・ヒューマンスキルも必要です。
 そんな悩みを解決す...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f41f80af8eed80a9044f</id>
-    <title>【令和８年最新版】GitHub CopilotにおけるAIモデルの違いや選定の考え方</title>
-    <link rel="alternate" href="https://qiita.com/Free_Akito9120/items/f41f80af8eed80a9044f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-09T14:08:24+09:00</updated>
-    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Free_Akito9120&quot;&gt;Free_Akito9120&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T14:08:24+09:00&lt;br/&gt;Updated: 2026-01-09T14:08:24+09:00&lt;br/&gt;モデルごとの特徴と使い分けのポイント
-GitHub Copilotでは、複数のAIモデルが利用可能で、それぞれ得意なタスクや性質が異なります。
-2026年1月時点で主に利用されるモデルと、その使い分けのポイントを以下にまとめます。
-
-OpenAI系モデル（GPT系）
-
-...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3e99756853dbe5209660</id>
-    <title>Copilot Studioを利用したデータ取得：ナレッジ（RAG）とツールの使い分けを仕様や挙動をもとに整理したい</title>
-    <link rel="alternate" href="https://qiita.com/tomoyasasaki1204/items/3e99756853dbe5209660?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-07T13:57:01+09:00</updated>
-    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomoyasasaki1204&quot;&gt;tomoyasasaki1204&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T16:47:12+09:00&lt;br/&gt;Updated: 2026-01-07T13:57:01+09:00&lt;br/&gt;みなさん、こんにちは
-マイクロソフト佐々木です。
-本日は、実装の相談でいただく、Copilot Studioでナレッジ（RAG）とツール（Connecter/Flow/MCP/API）の使い分けについてです。
-
-はじめに
-データを取得するという目的においては、ナレッジとツ...</summary>
   </entry>
 </feed>
