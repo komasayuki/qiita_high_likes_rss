@@ -226,7 +226,7 @@
       "updated": "2026-01-28T08:16:14+09:00",
       "author_name": "Takashi_Masumori",
       "likes_count": 16,
-      "last_seen": "2026-01-30T08:19:54.918982997+00:00"
+      "last_seen": "2026-01-30T09:21:56.731686787+00:00"
     },
     {
       "key": "1403f6be43bad5d085b3",
@@ -465,8 +465,8 @@
       "published": "2026-01-30T12:29:37+09:00",
       "updated": "2026-01-30T16:56:38+09:00",
       "author_name": "hirokidaichi",
-      "likes_count": 19,
-      "last_seen": "2026-01-30T08:19:54.918982997+00:00"
+      "likes_count": 23,
+      "last_seen": "2026-01-30T09:21:56.731686787+00:00"
     },
     {
       "key": "2c9a543d411d4d0d607c",
@@ -477,8 +477,8 @@
       "published": "2026-01-29T01:13:19+09:00",
       "updated": "2026-01-29T12:53:51+09:00",
       "author_name": "Hurry_Fox",
-      "likes_count": 11,
-      "last_seen": "2026-01-30T08:19:54.918982997+00:00"
+      "likes_count": 12,
+      "last_seen": "2026-01-30T09:21:56.731686787+00:00"
     },
     {
       "key": "307b277b9202ab553bc2",
@@ -562,7 +562,7 @@
       "updated": "2026-01-30T09:53:34+09:00",
       "author_name": "WdknWdkn",
       "likes_count": 15,
-      "last_seen": "2026-01-30T08:19:54.918982997+00:00"
+      "last_seen": "2026-01-30T09:21:56.731686787+00:00"
     },
     {
       "key": "3795769451ab003b6ee7",
@@ -586,7 +586,7 @@
       "updated": "2026-01-28T21:20:02+09:00",
       "author_name": "jidaikobo-shibata",
       "likes_count": 11,
-      "last_seen": "2026-01-30T08:19:54.918982997+00:00"
+      "last_seen": "2026-01-30T09:21:56.731686787+00:00"
     },
     {
       "key": "394eac56e0babfbc9984",
@@ -910,7 +910,7 @@
       "updated": "2026-01-30T11:17:21+09:00",
       "author_name": "KKTeX",
       "likes_count": 15,
-      "last_seen": "2026-01-30T08:19:54.918982997+00:00"
+      "last_seen": "2026-01-30T09:21:56.731686787+00:00"
     },
     {
       "key": "57fb0da7257d9875409c",
@@ -947,6 +947,18 @@
       "author_name": "ota-tsutomu",
       "likes_count": 10,
       "last_seen": "2026-01-06T19:13:25.857231579+00:00"
+    },
+    {
+      "key": "5aae295c3cfc7c3f96f4",
+      "item_id": "5aae295c3cfc7c3f96f4",
+      "title": "スムーススクロールはJSでやるべき",
+      "link": "https://qiita.com/m_shinada/items/5aae295c3cfc7c3f96f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "みなさん、スムーススクロール（慣性スクロール）してますか。\njQueryの世界ではいにしえより伝わる以下のコードがあり、 # で始まるIDへのアンカーリンクの「スクロールがヌルっと動くため」だけにコピペで動くコードとして重宝されてきました。\n$(function(){\n  ...",
+      "published": "2026-01-28T16:54:14+09:00",
+      "updated": "2026-01-28T16:54:14+09:00",
+      "author_name": "m_shinada",
+      "likes_count": 10,
+      "last_seen": "2026-01-30T09:21:56.731686787+00:00"
     },
     {
       "key": "5b757456b3c2b3676531",
@@ -1726,7 +1738,7 @@
       "updated": "2026-01-29T12:01:04+09:00",
       "author_name": "takako_sato",
       "likes_count": 10,
-      "last_seen": "2026-01-30T08:19:54.918982997+00:00"
+      "last_seen": "2026-01-30T09:21:56.731686787+00:00"
     },
     {
       "key": "a69ce52cc2862af7ebc9",
@@ -1930,7 +1942,7 @@
       "updated": "2026-01-29T14:57:26+09:00",
       "author_name": "shibuya-ys",
       "likes_count": 10,
-      "last_seen": "2026-01-30T08:19:54.918982997+00:00"
+      "last_seen": "2026-01-30T09:21:56.731686787+00:00"
     },
     {
       "key": "b46a545a96e9150c457f",
@@ -2029,6 +2041,18 @@
       "last_seen": "2026-01-08T19:14:08.391635573+00:00"
     },
     {
+      "key": "bb4f83d11f6771febb98",
+      "item_id": "bb4f83d11f6771febb98",
+      "title": "どの中間CAを選ぶべきかわからなかった話",
+      "link": "https://qiita.com/Kohta21/items/bb4f83d11f6771febb98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこんにちは\n表題の件で困惑した場面があったので備忘で下記に残します。\n\n経緯\n業務でSSL証明書更新を実施しています。認証機関はデジサートです。\nいつ頃からか中間チェーンを選択する項目が増えており\n下記のような選択肢が提示されました(ルートCAは割愛)。\n　Di...",
+      "published": "2026-01-30T07:19:04+09:00",
+      "updated": "2026-01-30T07:19:04+09:00",
+      "author_name": "Kohta21",
+      "likes_count": 10,
+      "last_seen": "2026-01-30T09:21:56.731686787+00:00"
+    },
+    {
       "key": "bb975270517295716af3",
       "item_id": "bb975270517295716af3",
       "title": "【2026年最新】1万件のQiita記事を分析して分かった「ブログのトレンド」の法則まとめ",
@@ -2110,7 +2134,7 @@
       "updated": "2026-01-28T14:10:41+09:00",
       "author_name": "kazuki_ogawa",
       "likes_count": 42,
-      "last_seen": "2026-01-30T08:19:54.918982997+00:00"
+      "last_seen": "2026-01-30T09:21:56.731686787+00:00"
     },
     {
       "key": "c0fb3bed10f49b0ed523",
@@ -2218,7 +2242,7 @@
       "updated": "2026-01-29T17:09:44+09:00",
       "author_name": "noalisa-ai",
       "likes_count": 10,
-      "last_seen": "2026-01-30T08:19:54.918982997+00:00"
+      "last_seen": "2026-01-30T09:21:56.731686787+00:00"
     },
     {
       "key": "cb1ae0a697cea6296b93",
@@ -2289,8 +2313,8 @@
       "published": "2026-01-28T15:56:45+09:00",
       "updated": "2026-01-28T16:55:12+09:00",
       "author_name": "Fujiwo",
-      "likes_count": 47,
-      "last_seen": "2026-01-30T08:19:54.918982997+00:00"
+      "likes_count": 51,
+      "last_seen": "2026-01-30T09:21:56.731686787+00:00"
     },
     {
       "key": "cbdcda9c0251d66f252c",
@@ -2409,8 +2433,8 @@
       "published": "2026-01-28T10:31:28+09:00",
       "updated": "2026-01-28T10:31:28+09:00",
       "author_name": "haihaikazuma",
-      "likes_count": 93,
-      "last_seen": "2026-01-30T08:19:54.918982997+00:00"
+      "likes_count": 100,
+      "last_seen": "2026-01-30T09:21:56.731686787+00:00"
     },
     {
       "key": "d435d9dd7ca1c1329483",
@@ -2686,7 +2710,7 @@
       "updated": "2026-01-28T09:40:54+09:00",
       "author_name": "shimada_slj",
       "likes_count": 21,
-      "last_seen": "2026-01-30T08:19:54.918982997+00:00"
+      "last_seen": "2026-01-30T09:21:56.731686787+00:00"
     },
     {
       "key": "e88aabbdfa8ddd94810a",
