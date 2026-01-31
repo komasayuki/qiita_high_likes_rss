@@ -48,7 +48,7 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
     <title>AIエージェントと協働してmarpでスライドを作る2026</title>
     <link rel="alternate" href="https://qiita.com/hirokidaichi/items/243bd176b84900f4cc0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-30T16:56:38+09:00</updated>
-    <summary type="html">Likes: 188&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T12:29:37+09:00&lt;br/&gt;Updated: 2026-01-30T16:56:38+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 191&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T12:29:37+09:00&lt;br/&gt;Updated: 2026-01-30T16:56:38+09:00&lt;br/&gt;はじめに
 2025年から2026年にかけて、Claude Codeのスキルシステムを使ってプレゼンテーション作成のワークフローを構築してきました。この記事では、その過程で作り上げたスキル群と、実際の使い方を紹介します。
 最初は「AIにスライドを作らせたい」という単純な動...</summary>
   </entry>
@@ -200,7 +200,7 @@ SAA (AWS Certified So...</summary>
     <title># 【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法</title>
     <link rel="alternate" href="https://qiita.com/enomoso_pm/items/c432551c60d010cb5cc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-01T00:03:04+09:00</updated>
-    <summary type="html">Likes: 110&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/enomoso_pm&quot;&gt;enomoso_pm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T21:31:44+09:00&lt;br/&gt;Updated: 2026-02-01T00:03:04+09:00&lt;br/&gt;【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法
+    <summary type="html">Likes: 115&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/enomoso_pm&quot;&gt;enomoso_pm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T21:31:44+09:00&lt;br/&gt;Updated: 2026-02-01T00:03:04+09:00&lt;br/&gt;【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法
 
 はじめに
 最近、大規模システムの引き継ぎ案件を受けました。
@@ -926,6 +926,15 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
 ただ、そ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d6d6a0223931c4a55037</id>
+    <title>C言語でメモリマップド I/O を扱うときに注意すること  - volatile 修飾子とメモリバリアの役割</title>
+    <link rel="alternate" href="https://qiita.com/ikwzm/items/d6d6a0223931c4a55037?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-31T00:09:21+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikwzm&quot;&gt;ikwzm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:53:24+09:00&lt;br/&gt;Updated: 2026-01-31T00:09:21+09:00&lt;br/&gt;はじめに
+CPU が I/O デバイスのレジスタをアクセスする際は、物理メモリ空間にマッピングされたアドレスを介して行われるのが一般的です。これをメモリマップド I/O と言います。
+CPU がメモリ空間にアクセスする際の用途は文字通り記録(メモリ)するためです。しかし、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e3f47c36c980f49381d6</id>
     <title>ブラウザ操作不要！Playwright MCPでテスト仕様書からE2Eテストコードを自動生成してみた</title>
     <link rel="alternate" href="https://qiita.com/ntaka329/items/e3f47c36c980f49381d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -945,15 +954,6 @@ E2Eテストの自動化、進めていますか？
     <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuni-i&quot;&gt;kimuni-i&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T15:16:50+09:00&lt;br/&gt;Updated: 2026-01-20T15:53:08+09:00&lt;br/&gt;はじめに
 要件定義書の作成に悩んでいませんか？「何を書けばいいかわからない」「後工程で使いにくいと言われる」「ステークホルダーとの認識がズレる」——こうした課題は、要件定義書の構造化で大きく改善できます。
 今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6d6a0223931c4a55037</id>
-    <title>C言語でメモリマップド I/O を扱うときに注意すること  - volatile 修飾子とメモリバリアの役割</title>
-    <link rel="alternate" href="https://qiita.com/ikwzm/items/d6d6a0223931c4a55037?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-31T00:09:21+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikwzm&quot;&gt;ikwzm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:53:24+09:00&lt;br/&gt;Updated: 2026-01-31T00:09:21+09:00&lt;br/&gt;はじめに
-CPU が I/O デバイスのレジスタをアクセスする際は、物理メモリ空間にマッピングされたアドレスを介して行われるのが一般的です。これをメモリマップド I/O と言います。
-CPU がメモリ空間にアクセスする際の用途は文字通り記録(メモリ)するためです。しかし、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:351912f61ffe1b177a68</id>
@@ -1275,6 +1275,16 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:32f3ef128db2b9344e6a</id>
+    <title>GitHub と Claude Code でタスク管理・日記・個人ナレッジを管理する</title>
+    <link rel="alternate" href="https://qiita.com/TaigoKuriyama/items/32f3ef128db2b9344e6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-31T09:04:08+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TaigoKuriyama&quot;&gt;TaigoKuriyama&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T00:22:05+09:00&lt;br/&gt;Updated: 2026-01-31T09:04:08+09:00&lt;br/&gt;この記事は、GitHub と Claude Code を組み合わせて、タスク管理・マイクロブログ・個人ナレッジベースを一体運用する方法をまとめたものです。
+
+GitHub での一体運用に切り替えた理由
+以前、タスク管理は Microsoft To Do、日記は Obsidi...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:2c9a543d411d4d0d607c</id>
     <title>Claude Code チートシート：開発者のための完全リファレンス</title>
     <link rel="alternate" href="https://qiita.com/Hurry_Fox/items/2c9a543d411d4d0d607c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1419,16 +1429,6 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:32f3ef128db2b9344e6a</id>
-    <title>GitHub と Claude Code でタスク管理・日記・個人ナレッジを管理する</title>
-    <link rel="alternate" href="https://qiita.com/TaigoKuriyama/items/32f3ef128db2b9344e6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-31T09:04:08+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TaigoKuriyama&quot;&gt;TaigoKuriyama&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T00:22:05+09:00&lt;br/&gt;Updated: 2026-01-31T09:04:08+09:00&lt;br/&gt;この記事は、GitHub と Claude Code を組み合わせて、タスク管理・マイクロブログ・個人ナレッジベースを一体運用する方法をまとめたものです。
-
-GitHub での一体運用に切り替えた理由
-以前、タスク管理は Microsoft To Do、日記は Obsidi...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
     <title>FPGAボード Shrike Liteをお試し</title>
     <link rel="alternate" href="https://qiita.com/Lathe/items/241640a492adc2b5fc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1516,6 +1516,22 @@ Claude Codeには日頃から大変お世話になっていますが、完全に
 完了時...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:371e384bbd30de04e473</id>
+    <title>Pencil × Claude Code がよさそうなので試してみた！</title>
+    <link rel="alternate" href="https://qiita.com/akiraabe/items/371e384bbd30de04e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-29T20:40:57+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akiraabe&quot;&gt;akiraabe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T10:50:49+09:00&lt;br/&gt;Updated: 2026-01-29T20:40:57+09:00&lt;br/&gt;この記事はなに？
+メンバーからPencilがすごそう！って聞いたので、試してみました。
+まだ、初歩的な部分をやっただけですが、可能性を感じます！
+今日は、とりあえずこうすると動く！っていう備忘録的メモです！
+
+大まかな流れ！
+
+インストール（書きません！）
+
+Penc...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:082317eae9d2a9d3bd6a</id>
     <title>大学生エンジニア Rustの勉強を始める 🦀</title>
     <link rel="alternate" href="https://qiita.com/kohta9521/items/082317eae9d2a9d3bd6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1588,22 +1604,6 @@ DGX Sparkが届きました！🎉
 「オフィス外からollamaを使いたいけど、グローバルIPもVPN設備もない！」
 同じような環境の方も多いのではないでしょうか？
 今回はWireGuard + AWS EC...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:371e384bbd30de04e473</id>
-    <title>Pencil × Claude Code がよさそうなので試してみた！</title>
-    <link rel="alternate" href="https://qiita.com/akiraabe/items/371e384bbd30de04e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-29T20:40:57+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akiraabe&quot;&gt;akiraabe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T10:50:49+09:00&lt;br/&gt;Updated: 2026-01-29T20:40:57+09:00&lt;br/&gt;この記事はなに？
-メンバーからPencilがすごそう！って聞いたので、試してみました。
-まだ、初歩的な部分をやっただけですが、可能性を感じます！
-今日は、とりあえずこうすると動く！っていう備忘録的メモです！
-
-大まかな流れ！
-
-インストール（書きません！）
-
-Penc...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:12ba1c97612fa0f12acd</id>
