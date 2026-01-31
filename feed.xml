@@ -48,7 +48,7 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
     <title>AIエージェントと協働してmarpでスライドを作る2026</title>
     <link rel="alternate" href="https://qiita.com/hirokidaichi/items/243bd176b84900f4cc0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-30T16:56:38+09:00</updated>
-    <summary type="html">Likes: 180&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T12:29:37+09:00&lt;br/&gt;Updated: 2026-01-30T16:56:38+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 183&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T12:29:37+09:00&lt;br/&gt;Updated: 2026-01-30T16:56:38+09:00&lt;br/&gt;はじめに
 2025年から2026年にかけて、Claude Codeのスキルシステムを使ってプレゼンテーション作成のワークフローを構築してきました。この記事では、その過程で作り上げたスキル群と、実際の使い方を紹介します。
 最初は「AIにスライドを作らせたい」という単純な動...</summary>
   </entry>
@@ -246,7 +246,7 @@ PRUMについて気になった方は...</summary>
     <title># 【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法</title>
     <link rel="alternate" href="https://qiita.com/enomoso_pm/items/c432551c60d010cb5cc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-30T01:03:27+09:00</updated>
-    <summary type="html">Likes: 97&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/enomoso_pm&quot;&gt;enomoso_pm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T21:31:44+09:00&lt;br/&gt;Updated: 2026-01-30T01:03:27+09:00&lt;br/&gt;【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法
+    <summary type="html">Likes: 103&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/enomoso_pm&quot;&gt;enomoso_pm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T21:31:44+09:00&lt;br/&gt;Updated: 2026-01-30T01:03:27+09:00&lt;br/&gt;【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法
 
 はじめに
 最近、大規模システムの引き継ぎ案件を受けました。
@@ -1506,6 +1506,16 @@ Claude Codeには日頃から大変お世話になっていますが、完全に
 完了時...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:32f3ef128db2b9344e6a</id>
+    <title>GitHub と Claude Code でタスク管理・日記・個人ナレッジを管理する</title>
+    <link rel="alternate" href="https://qiita.com/TaigoKuriyama/items/32f3ef128db2b9344e6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-31T09:04:08+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TaigoKuriyama&quot;&gt;TaigoKuriyama&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T00:22:05+09:00&lt;br/&gt;Updated: 2026-01-31T09:04:08+09:00&lt;br/&gt;この記事は、GitHub と Claude Code を組み合わせて、タスク管理・マイクロブログ・個人ナレッジベースを一体運用する方法をまとめたものです。
+
+GitHub での一体運用に切り替えた理由
+以前、タスク管理は Microsoft To Do、日記は Obsidi...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:082317eae9d2a9d3bd6a</id>
     <title>大学生エンジニア Rustの勉強を始める 🦀</title>
     <link rel="alternate" href="https://qiita.com/kohta9521/items/082317eae9d2a9d3bd6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1578,6 +1588,22 @@ DGX Sparkが届きました！🎉
 「オフィス外からollamaを使いたいけど、グローバルIPもVPN設備もない！」
 同じような環境の方も多いのではないでしょうか？
 今回はWireGuard + AWS EC...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:371e384bbd30de04e473</id>
+    <title>Pencil × Claude Code がよさそうなので試してみた！</title>
+    <link rel="alternate" href="https://qiita.com/akiraabe/items/371e384bbd30de04e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-29T20:40:57+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akiraabe&quot;&gt;akiraabe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T10:50:49+09:00&lt;br/&gt;Updated: 2026-01-29T20:40:57+09:00&lt;br/&gt;この記事はなに？
+メンバーからPencilがすごそう！って聞いたので、試してみました。
+まだ、初歩的な部分をやっただけですが、可能性を感じます！
+今日は、とりあえずこうすると動く！っていう備忘録的メモです！
+
+大まかな流れ！
+
+インストール（書きません！）
+
+Penc...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:12ba1c97612fa0f12acd</id>
@@ -1692,16 +1718,6 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
 Z80はザイログ自身が製造したオリジナル品の他に、セカンドソース契約を結んだ半導体メーカーによる互換品がいくつも作られています(参考...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:32f3ef128db2b9344e6a</id>
-    <title>GitHub と Claude Code でタスク管理・日記・個人ナレッジを管理する</title>
-    <link rel="alternate" href="https://qiita.com/TaigoKuriyama/items/32f3ef128db2b9344e6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-31T09:04:08+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TaigoKuriyama&quot;&gt;TaigoKuriyama&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T00:22:05+09:00&lt;br/&gt;Updated: 2026-01-31T09:04:08+09:00&lt;br/&gt;この記事は、GitHub と Claude Code を組み合わせて、タスク管理・マイクロブログ・個人ナレッジベースを一体運用する方法をまとめたものです。
-
-GitHub での一体運用に切り替えた理由
-以前、タスク管理は Microsoft To Do、日記は Obsidi...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:559d524eeb51a3528051</id>
     <title>３秒でできる鉄緑っぽいプリント作成（非公式）</title>
     <link rel="alternate" href="https://qiita.com/KKTeX/items/559d524eeb51a3528051?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1717,20 +1733,15 @@ GitHub での一体運用に切り替えた理由
 最新環境のTeX Liveおよび...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:371e384bbd30de04e473</id>
-    <title>Pencil × Claude Code がよさそうなので試してみた！</title>
-    <link rel="alternate" href="https://qiita.com/akiraabe/items/371e384bbd30de04e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-29T20:40:57+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akiraabe&quot;&gt;akiraabe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T10:50:49+09:00&lt;br/&gt;Updated: 2026-01-29T20:40:57+09:00&lt;br/&gt;この記事はなに？
-メンバーからPencilがすごそう！って聞いたので、試してみました。
-まだ、初歩的な部分をやっただけですが、可能性を感じます！
-今日は、とりあえずこうすると動く！っていう備忘録的メモです！
+    <id>tag:qiita.com,2026:379ed75bbf8a69827188</id>
+    <title>Waylandメインにして半月が経った</title>
+    <link rel="alternate" href="https://qiita.com/jidaikobo-shibata/items/379ed75bbf8a69827188?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-28T21:20:02+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jidaikobo-shibata&quot;&gt;jidaikobo-shibata&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T21:10:42+09:00&lt;br/&gt;Updated: 2026-01-28T21:20:02+09:00&lt;br/&gt;数年間X11（Xorg）を使い続けてきましたが、Ubuntu自体がWaylandへ軸足を移しつつあることもあり、思い切ってメイン環境をWaylandに切り替えてみました。
+この記事は、「Waylandにして半月ほど使ってみた体験メモ」です。
 
-大まかな流れ！
-
-インストール（書きません！）
-
-Penc...</summary>
+Waylandで変わったもの
+...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3b24fa8e87869cc73bfc</id>
@@ -1795,17 +1806,6 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 はじめまして。東海地区で建築設計事務所を経営している建築士です。
 いきなりですが、私はプログラミングの知識はゼロです。Pythonは「ヘビの種類？」だと思っていました。
 そんな私が、生成AI（ChatGPT / Cla...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:379ed75bbf8a69827188</id>
-    <title>Waylandメインにして半月が経った</title>
-    <link rel="alternate" href="https://qiita.com/jidaikobo-shibata/items/379ed75bbf8a69827188?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-28T21:20:02+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jidaikobo-shibata&quot;&gt;jidaikobo-shibata&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T21:10:42+09:00&lt;br/&gt;Updated: 2026-01-28T21:20:02+09:00&lt;br/&gt;数年間X11（Xorg）を使い続けてきましたが、Ubuntu自体がWaylandへ軸足を移しつつあることもあり、思い切ってメイン環境をWaylandに切り替えてみました。
-この記事は、「Waylandにして半月ほど使ってみた体験メモ」です。
-
-Waylandで変わったもの
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b18fd7cd810e294340e7</id>
@@ -2082,6 +2082,21 @@ CSVファイルに書き込んで
 今回は、マー...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:bb4f83d11f6771febb98</id>
+    <title>どの中間CAを選ぶべきかわからなかった話</title>
+    <link rel="alternate" href="https://qiita.com/Kohta21/items/bb4f83d11f6771febb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-30T07:19:04+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Kohta21&quot;&gt;Kohta21&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T07:19:04+09:00&lt;br/&gt;Updated: 2026-01-30T07:19:04+09:00&lt;br/&gt;はじめに
+こんにちは
+表題の件で困惑した場面があったので備忘で下記に残します。
+
+経緯
+業務でSSL証明書更新を実施しています。認証機関はデジサートです。
+いつ頃からか中間チェーンを選択する項目が増えており
+下記のような選択肢が提示されました(ルートCAは割愛)。
+　Di...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:502e922d1fc80b6df9fe</id>
     <title>外挿の見抜き方：学習域外を“検知”してアラートする</title>
     <link rel="alternate" href="https://qiita.com/Seine_A_Shintani/items/502e922d1fc80b6df9fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2219,14 +2234,5 @@ This is a test file.
     <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/quan_le&quot;&gt;quan_le&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T19:35:10+09:00&lt;br/&gt;Updated: 2026-01-06T19:35:10+09:00&lt;br/&gt;2023年が「魔法」、2024年が「ハイプ」だったなら、2025年は「真にエンジニアリングを実践した」年だった
 過去12ヶ月を振り返ると、ついに何かが「カチッ」とハマった感覚がある。
 チャットボットへのプロンプトを慎重に練る時代から、私たちが寝ている間に月額200ドルのサ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e392b642189d755dd113</id>
-    <title>Emacs備忘録（２０２６年版）</title>
-    <link rel="alternate" href="https://qiita.com/nobuyuki86/items/e392b642189d755dd113?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-05T22:51:57+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nobuyuki86&quot;&gt;nobuyuki86&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T13:48:45+09:00&lt;br/&gt;Updated: 2026-01-05T22:51:57+09:00&lt;br/&gt;背景
-Emacs備忘録（２０２４年版）という記事を投稿してから２年ほど経過し、そこそこ満足していましたが、不意に見かけた大西拓磨さんの動画（５分頃〜）を見て、見た目を良くするためだけの設定が多いなと感じ、設定の断捨離を行いました。
-また、GnusというEmacsのメーラー...</summary>
   </entry>
 </feed>
