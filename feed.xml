@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-01-31T10:07:39+09:00</updated>
+  <updated>2026-01-31T16:15:12+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -91,6 +91,15 @@ Python でCSV駆動の自動生成パイプラインを構築
 Canva で誤字脱字を修正（Nano Ban...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:243bd176b84900f4cc0d</id>
+    <title>AIエージェントと協働してmarpでスライドを作る2026</title>
+    <link rel="alternate" href="https://qiita.com/hirokidaichi/items/243bd176b84900f4cc0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-30T16:56:38+09:00</updated>
+    <summary type="html">Likes: 148&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T12:29:37+09:00&lt;br/&gt;Updated: 2026-01-30T16:56:38+09:00&lt;br/&gt;はじめに
+2025年から2026年にかけて、Claude Codeのスキルシステムを使ってプレゼンテーション作成のワークフローを構築してきました。この記事では、その過程で作り上げたスキル群と、実際の使い方を紹介します。
+最初は「AIにスライドを作らせたい」という単純な動...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:855524191d08f73a6748</id>
     <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -101,15 +110,6 @@ Canva で誤字脱字を修正（Nano Ban...</summary>
 パスワードをそのまま保存していいの？
 ログイン後、URLを直打ちしたらログインせずに入れてしまうのでは？
 そもそも「ログインしている状態」ってどうやって維持さ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:243bd176b84900f4cc0d</id>
-    <title>AIエージェントと協働してmarpでスライドを作る2026</title>
-    <link rel="alternate" href="https://qiita.com/hirokidaichi/items/243bd176b84900f4cc0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-30T16:56:38+09:00</updated>
-    <summary type="html">Likes: 140&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T12:29:37+09:00&lt;br/&gt;Updated: 2026-01-30T16:56:38+09:00&lt;br/&gt;はじめに
-2025年から2026年にかけて、Claude Codeのスキルシステムを使ってプレゼンテーション作成のワークフローを構築してきました。この記事では、その過程で作り上げたスキル群と、実際の使い方を紹介します。
-最初は「AIにスライドを作らせたい」という単純な動...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:45699be4eb9d7e0f3b8b</id>
@@ -413,6 +413,18 @@ SHAP値処理の改修
 初...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c432551c60d010cb5cc7</id>
+    <title># 【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法</title>
+    <link rel="alternate" href="https://qiita.com/enomoso_pm/items/c432551c60d010cb5cc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-30T01:03:27+09:00</updated>
+    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/enomoso_pm&quot;&gt;enomoso_pm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T21:31:44+09:00&lt;br/&gt;Updated: 2026-01-30T01:03:27+09:00&lt;br/&gt;【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法
+
+はじめに
+最近、大規模システムの引き継ぎ案件を受けました。
+その案件はAI駆動の進め方が許可されていたので早速AIを利用して、引き継ぎどんどん進めていくぞ！
+と思ったのですが、いくつか...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:800beee69019ca84855c</id>
     <title>「ログイン周り」がごちゃつく人へ：認証・認可・SSO・OAuth/OIDC/SAMLの地図</title>
     <link rel="alternate" href="https://qiita.com/ryucciarati/items/800beee69019ca84855c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -442,18 +454,6 @@ GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場�
     <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T09:50:06+09:00&lt;br/&gt;Updated: 2026-01-18T23:28:37+09:00&lt;br/&gt;はじめに：なぜ今 Tauri なのか
 Electron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。
 Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用することで...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c432551c60d010cb5cc7</id>
-    <title># 【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法</title>
-    <link rel="alternate" href="https://qiita.com/enomoso_pm/items/c432551c60d010cb5cc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-30T01:03:27+09:00</updated>
-    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/enomoso_pm&quot;&gt;enomoso_pm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T21:31:44+09:00&lt;br/&gt;Updated: 2026-01-30T01:03:27+09:00&lt;br/&gt;【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法
-
-はじめに
-最近、大規模システムの引き継ぎ案件を受けました。
-その案件はAI駆動の進め方が許可されていたので早速AIを利用して、引き継ぎどんどん進めていくぞ！
-と思ったのですが、いくつか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cbc43b7af628ac9384e1</id>
@@ -937,7 +937,7 @@ E2Eテストの自動化、進めていますか？
     <title>応用情報の廃止・再編「今」取るべき理由と合格戦略</title>
     <link rel="alternate" href="https://qiita.com/shibuya-ys/items/b31603922b791c37cc37?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-29T14:57:26+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibuya-ys&quot;&gt;shibuya-ys&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T14:57:26+09:00&lt;br/&gt;Updated: 2026-01-29T14:57:26+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibuya-ys&quot;&gt;shibuya-ys&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T14:57:26+09:00&lt;br/&gt;Updated: 2026-01-29T14:57:26+09:00&lt;br/&gt;はじめに
 こんにちは。
 エンジニアのキャリアアップとして「応用情報技術者試験（AP）」を検討している方も多いと思います。
 しかし現在（2026年）、この試験に関して大きな噂が飛び交っています。
@@ -1001,6 +1001,15 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:351912f61ffe1b177a68</id>
+    <title>よくわからずにClaudeのSkillを使い倒し始めたら、自分の仕事が丸裸になりつつある話</title>
+    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/351912f61ffe1b177a68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-30T09:53:34+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T09:53:34+09:00&lt;br/&gt;Updated: 2026-01-30T09:53:34+09:00&lt;br/&gt;はじめに
+いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
+みなさん、Claude Code、使ってます？Claude Code・CodeXあたりを去年末までうろちょろしていたんですが、やはり界隈の勢いに押されて年始からはClaude Code...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b0b8f28990b19e2a1b04</id>
     <title>フル日本語環境で働く外国人として</title>
     <link rel="alternate" href="https://qiita.com/polopopi/items/b0b8f28990b19e2a1b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1048,6 +1057,15 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 1. ブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d6d6a0223931c4a55037</id>
+    <title>C言語でメモリマップド I/O を扱うときに注意すること  - volatile 修飾子とメモリバリアの役割</title>
+    <link rel="alternate" href="https://qiita.com/ikwzm/items/d6d6a0223931c4a55037?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-31T00:09:21+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikwzm&quot;&gt;ikwzm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:53:24+09:00&lt;br/&gt;Updated: 2026-01-31T00:09:21+09:00&lt;br/&gt;はじめに
+CPU が I/O デバイスのレジスタをアクセスする際は、物理メモリ空間にマッピングされたアドレスを介して行われるのが一般的です。これをメモリマップド I/O と言います。
+CPU がメモリ空間にアクセスする際の用途は文字通り記録(メモリ)するためです。しかし、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:20a2d4af87aa3541f1d3</id>
     <title>【AWS】SAA-C03試験対策まとめ（AWS主要サービスの全体像）</title>
     <link rel="alternate" href="https://qiita.com/RizumuUEDA/items/20a2d4af87aa3541f1d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1077,24 +1095,6 @@ Clawdbot（クロードボット）は、1台のPCをハブにして Discord・S
 すべてのコードを読み切れているかと言われたら正直答えはNoです。
 
 その...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6d6a0223931c4a55037</id>
-    <title>C言語でメモリマップド I/O を扱うときに注意すること  - volatile 修飾子とメモリバリアの役割</title>
-    <link rel="alternate" href="https://qiita.com/ikwzm/items/d6d6a0223931c4a55037?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-31T00:09:21+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikwzm&quot;&gt;ikwzm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:53:24+09:00&lt;br/&gt;Updated: 2026-01-31T00:09:21+09:00&lt;br/&gt;はじめに
-CPU が I/O デバイスのレジスタをアクセスする際は、物理メモリ空間にマッピングされたアドレスを介して行われるのが一般的です。これをメモリマップド I/O と言います。
-CPU がメモリ空間にアクセスする際の用途は文字通り記録(メモリ)するためです。しかし、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:351912f61ffe1b177a68</id>
-    <title>よくわからずにClaudeのSkillを使い倒し始めたら、自分の仕事が丸裸になりつつある話</title>
-    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/351912f61ffe1b177a68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-30T09:53:34+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T09:53:34+09:00&lt;br/&gt;Updated: 2026-01-30T09:53:34+09:00&lt;br/&gt;はじめに
-いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
-みなさん、Claude Code、使ってます？Claude Code・CodeXあたりを去年末までうろちょろしていたんですが、やはり界隈の勢いに押されて年始からはClaude Code...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cbad89098dfcc8c71178</id>
@@ -1240,6 +1240,18 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f66918b0a5dc59db9017</id>
+    <title>Ollama 17万台が（あぶねーすね）だそうな</title>
+    <link rel="alternate" href="https://qiita.com/ohkitashigeto/items/f66918b0a5dc59db9017?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-31T07:29:26+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ohkitashigeto&quot;&gt;ohkitashigeto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:38:33+09:00&lt;br/&gt;Updated: 2026-01-31T07:29:26+09:00&lt;br/&gt;Ollama危ないんですね
+The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハックされてますよと
+
+なんか売り飛ばされてるようです。
+マイニングもできるし違法にマルウェア配りまくったりもできますよ、みたいに闇市で。
+Ollam...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e84e88004b4fd7bc511c</id>
     <title>AIが出したコードを「そのまま使う」危険性に気づいた2025年</title>
     <link rel="alternate" href="https://qiita.com/shimada_slj/items/e84e88004b4fd7bc511c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1261,6 +1273,19 @@ GitHub Cop...</summary>
 GMOコネクトの大谷です。
 H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」として大きく報じられました。
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:2c9a543d411d4d0d607c</id>
+    <title>Claude Code チートシート：開発者のための完全リファレンス</title>
+    <link rel="alternate" href="https://qiita.com/Hurry_Fox/items/2c9a543d411d4d0d607c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-29T12:53:51+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Hurry_Fox&quot;&gt;Hurry_Fox&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T01:13:19+09:00&lt;br/&gt;Updated: 2026-01-29T12:53:51+09:00&lt;br/&gt;Claude Code チートシート：開発者のための完全リファレンス
+Claude Codeを効率的に使いこなすための、コマンドリファレンスとTips集です。基本操作から高度な機能まで、実務で役立つ情報をまとめました。
+
+📑 目次
+
+基本コマンド
+対話モードのキーボ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:efc227e8fe159cadb50b</id>
@@ -1304,31 +1329,6 @@ C++の代わりにRustで記述する
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mnoguchi&quot;&gt;mnoguchi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T17:07:20+09:00&lt;br/&gt;Updated: 2026-01-05T17:07:20+09:00&lt;br/&gt;はじめに
 ソフトウェア開発の現場では、論理や技術だけでは解決できない「人間」にまつわる課題が数多く存在します。会議で意見が出ない、レビューで感情的なすれ違いが起きる、設計がなかなか進まない、やる気が出ない――こうした悩みの多くは、人の心理や行動パターンに起因しています。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f66918b0a5dc59db9017</id>
-    <title>Ollama 17万台が（あぶねーすね）だそうな</title>
-    <link rel="alternate" href="https://qiita.com/ohkitashigeto/items/f66918b0a5dc59db9017?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-31T07:29:26+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ohkitashigeto&quot;&gt;ohkitashigeto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:38:33+09:00&lt;br/&gt;Updated: 2026-01-31T07:29:26+09:00&lt;br/&gt;Ollama危ないんですね
-The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハックされてますよと
-
-なんか売り飛ばされてるようです。
-マイニングもできるし違法にマルウェア配りまくったりもできますよ、みたいに闇市で。
-Ollam...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2c9a543d411d4d0d607c</id>
-    <title>Claude Code チートシート：開発者のための完全リファレンス</title>
-    <link rel="alternate" href="https://qiita.com/Hurry_Fox/items/2c9a543d411d4d0d607c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-29T12:53:51+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Hurry_Fox&quot;&gt;Hurry_Fox&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T01:13:19+09:00&lt;br/&gt;Updated: 2026-01-29T12:53:51+09:00&lt;br/&gt;Claude Code チートシート：開発者のための完全リファレンス
-Claude Codeを効率的に使いこなすための、コマンドリファレンスとTips集です。基本操作から高度な機能まで、実務で役立つ情報をまとめました。
-
-📑 目次
-
-基本コマンド
-対話モードのキーボ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4d28c47b1b6f7ef727cf</id>
@@ -1946,6 +1946,22 @@ DGX Sparkが届きました！🎉
 今回はWireGuard + AWS EC...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:371e384bbd30de04e473</id>
+    <title>Pencil × Claude Code がよさそうなので試してみた！</title>
+    <link rel="alternate" href="https://qiita.com/akiraabe/items/371e384bbd30de04e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-29T20:40:57+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akiraabe&quot;&gt;akiraabe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T10:50:49+09:00&lt;br/&gt;Updated: 2026-01-29T20:40:57+09:00&lt;br/&gt;この記事はなに？
+メンバーからPencilがすごそう！って聞いたので、試してみました。
+まだ、初歩的な部分をやっただけですが、可能性を感じます！
+今日は、とりあえずこうすると動く！っていう備忘録的メモです！
+
+大まかな流れ！
+
+インストール（書きません！）
+
+Penc...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:379ed75bbf8a69827188</id>
     <title>Waylandメインにして半月が経った</title>
     <link rel="alternate" href="https://qiita.com/jidaikobo-shibata/items/379ed75bbf8a69827188?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2034,6 +2050,15 @@ CSVファイルに書き込んで
     <updated>2026-01-03T09:15:39+09:00</updated>
     <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KimuraSoh&quot;&gt;KimuraSoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T09:15:39+09:00&lt;br/&gt;Updated: 2026-01-03T09:15:39+09:00&lt;br/&gt;はじめに
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:84e0bc99e2f011e9dc77</id>
+    <title>昔の8ビットパソコンはどこのZ80を使っていたのか</title>
+    <link rel="alternate" href="https://qiita.com/yunkya2/items/84e0bc99e2f011e9dc77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-31T16:15:12+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yunkya2&quot;&gt;yunkya2&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T23:28:31+09:00&lt;br/&gt;Updated: 2026-01-31T16:15:12+09:00&lt;br/&gt;はじめに
+主に1980年代を中心に国内の電機メーカーから発売された8ビットパソコンで、最も多く使われていたCPUはザイログのZ80でした。
+Z80はザイログ自身が製造したオリジナル品の他に、セカンドソース契約を結んだ半導体メーカーによる互換品がいくつも作られています(参考...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:502e922d1fc80b6df9fe</id>
@@ -2201,31 +2226,5 @@ boto3を使ったPythonアプリケーションで、aws loginコマンドで認
 
 GitHub での一体運用に切り替えた理由
 以前、タスク管理は Microsoft To Do、日記は Obsidi...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bb4f83d11f6771febb98</id>
-    <title>どの中間CAを選ぶべきかわからなかった話</title>
-    <link rel="alternate" href="https://qiita.com/Kohta21/items/bb4f83d11f6771febb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-30T07:19:04+09:00</updated>
-    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Kohta21&quot;&gt;Kohta21&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T07:19:04+09:00&lt;br/&gt;Updated: 2026-01-30T07:19:04+09:00&lt;br/&gt;はじめに
-こんにちは
-表題の件で困惑した場面があったので備忘で下記に残します。
-
-経緯
-業務でSSL証明書更新を実施しています。認証機関はデジサートです。
-いつ頃からか中間チェーンを選択する項目が増えており
-下記のような選択肢が提示されました(ルートCAは割愛)。
-　Di...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:caf32fd2a3ebd661b732</id>
-    <title>Qiita AI Summit にて登壇いたしました（資料公開・事前準備編）</title>
-    <link rel="alternate" href="https://qiita.com/noalisa-ai/items/caf32fd2a3ebd661b732?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-29T17:09:44+09:00</updated>
-    <summary type="html">Likes: 12&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/noalisa-ai&quot;&gt;noalisa-ai&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T17:09:44+09:00&lt;br/&gt;Updated: 2026-01-29T17:09:44+09:00&lt;br/&gt;Qiita AI Summit
-2026年1月29日に開催された Qiita AI Summit にて、登壇の機会をいただきました。
-Qiita AI Summit AI時代が訪れた今、開発組織のあり方を考える
-登壇資料はこちら
-こちらの記事では、当日の登壇資料の共有をメ...</summary>
   </entry>
 </feed>
