@@ -48,7 +48,7 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
     <title>AIエージェントと協働してmarpでスライドを作る2026</title>
     <link rel="alternate" href="https://qiita.com/hirokidaichi/items/243bd176b84900f4cc0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-30T16:56:38+09:00</updated>
-    <summary type="html">Likes: 224&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T12:29:37+09:00&lt;br/&gt;Updated: 2026-01-30T16:56:38+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 227&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T12:29:37+09:00&lt;br/&gt;Updated: 2026-01-30T16:56:38+09:00&lt;br/&gt;はじめに
 2025年から2026年にかけて、Claude Codeのスキルシステムを使ってプレゼンテーション作成のワークフローを構築してきました。この記事では、その過程で作り上げたスキル群と、実際の使い方を紹介します。
 最初は「AIにスライドを作らせたい」という単純な動...</summary>
   </entry>
@@ -85,6 +85,18 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c432551c60d010cb5cc7</id>
+    <title># 【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法</title>
+    <link rel="alternate" href="https://qiita.com/enomoso_pm/items/c432551c60d010cb5cc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-01T00:03:04+09:00</updated>
+    <summary type="html">Likes: 164&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/enomoso_pm&quot;&gt;enomoso_pm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T21:31:44+09:00&lt;br/&gt;Updated: 2026-02-01T00:03:04+09:00&lt;br/&gt;【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法
+
+はじめに
+最近、大規模システムの引き継ぎ案件を受けました。
+その案件はAI駆動の進め方が許可されていたので早速AIを利用して、引き継ぎどんどん進めていくぞ！
+と思ったのですが、いくつか...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cabcfb8c91b857cc164f</id>
     <title>Claude × Nano Banana Pro で料理漫画を自動生成するパイプラインを作った</title>
     <link rel="alternate" href="https://qiita.com/yongyong/items/cabcfb8c91b857cc164f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -98,18 +110,6 @@ Nano Banana Pro でキャラクター画像・背景・漫画ページを生成
 Python でCSV駆動の自動生成パイプラインを構築
 
 Canva で誤字脱字を修正（Nano Ban...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c432551c60d010cb5cc7</id>
-    <title># 【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法</title>
-    <link rel="alternate" href="https://qiita.com/enomoso_pm/items/c432551c60d010cb5cc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-01T00:03:04+09:00</updated>
-    <summary type="html">Likes: 156&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/enomoso_pm&quot;&gt;enomoso_pm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T21:31:44+09:00&lt;br/&gt;Updated: 2026-02-01T00:03:04+09:00&lt;br/&gt;【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法
-
-はじめに
-最近、大規模システムの引き継ぎ案件を受けました。
-その案件はAI駆動の進め方が許可されていたので早速AIを利用して、引き継ぎどんどん進めていくぞ！
-と思ったのですが、いくつか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:855524191d08f73a6748</id>
@@ -1297,6 +1297,20 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:9d292b578278473eb052</id>
+    <title>【VPN設備なし】WireGuardでオフィスのAIサーバー(DGX Spark ollama)を外部利用</title>
+    <link rel="alternate" href="https://qiita.com/ntaka329/items/9d292b578278473eb052?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-31T10:07:39+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ntaka329&quot;&gt;ntaka329&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T13:25:01+09:00&lt;br/&gt;Updated: 2026-01-31T10:07:39+09:00&lt;br/&gt;はじめに
+GMOコネクトの永田です。
+DGX Sparkが届きました！🎉
+
+しかし、すぐに問題が…
+「オフィス外からollamaを使いたいけど、グローバルIPもVPN設備もない！」
+同じような環境の方も多いのではないでしょうか？
+今回はWireGuard + AWS EC...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:371e384bbd30de04e473</id>
     <title>Pencil × Claude Code がよさそうなので試してみた！</title>
     <link rel="alternate" href="https://qiita.com/akiraabe/items/371e384bbd30de04e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1356,20 +1370,6 @@ C++の代わりにRustで記述する
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:9d292b578278473eb052</id>
-    <title>【VPN設備なし】WireGuardでオフィスのAIサーバー(DGX Spark ollama)を外部利用</title>
-    <link rel="alternate" href="https://qiita.com/ntaka329/items/9d292b578278473eb052?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-31T10:07:39+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ntaka329&quot;&gt;ntaka329&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T13:25:01+09:00&lt;br/&gt;Updated: 2026-01-31T10:07:39+09:00&lt;br/&gt;はじめに
-GMOコネクトの永田です。
-DGX Sparkが届きました！🎉
-
-しかし、すぐに問題が…
-「オフィス外からollamaを使いたいけど、グローバルIPもVPN設備もない！」
-同じような環境の方も多いのではないでしょうか？
-今回はWireGuard + AWS EC...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:4d28c47b1b6f7ef727cf</id>
     <title>【ポケモン×Java】知識編 ERROR #6 実行時エラーを防止するには？</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/4d28c47b1b6f7ef727cf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1386,6 +1386,15 @@ DGX Sparkが届きました！🎉
 バトルの最中にゲームがフリーズする状態。
 止まる以上、「あとで考えよう」はできません。
 この章では、「どう直すか...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:84e0bc99e2f011e9dc77</id>
+    <title>昔の8ビットパソコンはどこのZ80を使っていたのか</title>
+    <link rel="alternate" href="https://qiita.com/yunkya2/items/84e0bc99e2f011e9dc77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-31T16:15:12+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yunkya2&quot;&gt;yunkya2&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T23:28:31+09:00&lt;br/&gt;Updated: 2026-01-31T16:15:12+09:00&lt;br/&gt;はじめに
+主に1980年代を中心に国内の電機メーカーから発売された8ビットパソコンで、最も多く使われていたCPUはザイログのZ80でした。
+Z80はザイログ自身が製造したオリジナル品の他に、セカンドソース契約を結んだ半導体メーカーによる互換品がいくつも作られています(参考...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fbabdb74ccad1ec316c1</id>
@@ -1456,15 +1465,6 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 2025年12月現在&quot;C++26&quot;はISO/IEC標準規格としては未発行のため、代わりに最新Working Draft N5032（2025-12-15）を参照しています。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:84e0bc99e2f011e9dc77</id>
-    <title>昔の8ビットパソコンはどこのZ80を使っていたのか</title>
-    <link rel="alternate" href="https://qiita.com/yunkya2/items/84e0bc99e2f011e9dc77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-31T16:15:12+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yunkya2&quot;&gt;yunkya2&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T23:28:31+09:00&lt;br/&gt;Updated: 2026-01-31T16:15:12+09:00&lt;br/&gt;はじめに
-主に1980年代を中心に国内の電機メーカーから発売された8ビットパソコンで、最も多く使われていたCPUはザイログのZ80でした。
-Z80はザイログ自身が製造したオリジナル品の他に、セカンドソース契約を結んだ半導体メーカーによる互換品がいくつも作られています(参考...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
@@ -1807,6 +1807,17 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 そんな私が、生成AI（ChatGPT / Cla...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:796b73101988db70bde6</id>
+    <title>いい感じのポーリングをスキルに組み込む</title>
+    <link rel="alternate" href="https://qiita.com/uhyo/items/796b73101988db70bde6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-30T15:24:13+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T15:24:12+09:00&lt;br/&gt;Updated: 2026-01-30T15:24:13+09:00&lt;br/&gt;こんにちは。この界隈でスキルといえばAIエージェントのスキルを指すようになった今日この頃、皆さんいかがお過ごしでしょうか。
+弊社でも主にClaude Codeの活用が進んでおり、開発効率の改善を職務とする筆者もスキルの実装などに力を注いでいます。
+
+今回の題材
+今回は、マー...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1534e672ead63226db91</id>
     <title>【恐怖】AIエージェントが社員を脅迫した実話｜2026年最大のセキュリティ事件を徹底解説</title>
     <link rel="alternate" href="https://qiita.com/emi_ndk/items/1534e672ead63226db91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1999,17 +2010,6 @@ TCPとUDPの違い
     <updated>2026-01-04T05:20:28+09:00</updated>
     <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/AInsights&quot;&gt;AInsights&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T05:20:28+09:00&lt;br/&gt;Updated: 2026-01-04T05:20:28+09:00&lt;br/&gt;ソフトウェアエンジニアリングにおけるプログラミング言語選定の戦略的アプローチ 🚀
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:796b73101988db70bde6</id>
-    <title>いい感じのポーリングをスキルに組み込む</title>
-    <link rel="alternate" href="https://qiita.com/uhyo/items/796b73101988db70bde6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-30T15:24:13+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T15:24:12+09:00&lt;br/&gt;Updated: 2026-01-30T15:24:13+09:00&lt;br/&gt;こんにちは。この界隈でスキルといえばAIエージェントのスキルを指すようになった今日この頃、皆さんいかがお過ごしでしょうか。
-弊社でも主にClaude Codeの活用が進んでおり、開発効率の改善を職務とする筆者もスキルの実装などに力を注いでいます。
-
-今回の題材
-今回は、マー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6b57800563e55e1ce61b</id>
