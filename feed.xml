@@ -48,7 +48,7 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
     <title>AIエージェントと協働してmarpでスライドを作る2026</title>
     <link rel="alternate" href="https://qiita.com/hirokidaichi/items/243bd176b84900f4cc0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-30T16:56:38+09:00</updated>
-    <summary type="html">Likes: 227&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T12:29:37+09:00&lt;br/&gt;Updated: 2026-01-30T16:56:38+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 229&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T12:29:37+09:00&lt;br/&gt;Updated: 2026-01-30T16:56:38+09:00&lt;br/&gt;はじめに
 2025年から2026年にかけて、Claude Codeのスキルシステムを使ってプレゼンテーション作成のワークフローを構築してきました。この記事では、その過程で作り上げたスキル群と、実際の使い方を紹介します。
 最初は「AIにスライドを作らせたい」という単純な動...</summary>
   </entry>
@@ -63,6 +63,18 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
 **知識と技術は、掴んだあとに獲得すればいい。**それで問題ない。
 この考えに至るまでに、2025年はいろんな意味で“激動”だった。
 休職して、自己投資して、環境を変えて、転職し...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c432551c60d010cb5cc7</id>
+    <title># 【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法</title>
+    <link rel="alternate" href="https://qiita.com/enomoso_pm/items/c432551c60d010cb5cc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-01T00:03:04+09:00</updated>
+    <summary type="html">Likes: 171&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/enomoso_pm&quot;&gt;enomoso_pm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T21:31:44+09:00&lt;br/&gt;Updated: 2026-02-01T00:03:04+09:00&lt;br/&gt;【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法
+
+はじめに
+最近、大規模システムの引き継ぎ案件を受けました。
+その案件はAI駆動の進め方が許可されていたので早速AIを利用して、引き継ぎどんどん進めていくぞ！
+と思ったのですが、いくつか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d4121721605c8955aa17</id>
@@ -83,18 +95,6 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
 1社目2社目ともに要件定義を担当する機会があったのですが、
 どちらの現場も要件定義のフォーマットが存在しないか、あるいはフォーマットがあっても明らかに項目が足りないような状態でした。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c432551c60d010cb5cc7</id>
-    <title># 【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法</title>
-    <link rel="alternate" href="https://qiita.com/enomoso_pm/items/c432551c60d010cb5cc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-01T00:03:04+09:00</updated>
-    <summary type="html">Likes: 164&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/enomoso_pm&quot;&gt;enomoso_pm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T21:31:44+09:00&lt;br/&gt;Updated: 2026-02-01T00:03:04+09:00&lt;br/&gt;【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法
-
-はじめに
-最近、大規模システムの引き継ぎ案件を受けました。
-その案件はAI駆動の進め方が許可されていたので早速AIを利用して、引き継ぎどんどん進めていくぞ！
-と思ったのですが、いくつか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cabcfb8c91b857cc164f</id>
@@ -688,6 +688,15 @@ Pythonでプログラミングをしていると、当たり前のように使�
 しかし、**結局、pipは何をどこにダウンロードして、どうやってPythonがそれを見つけて...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d6d6a0223931c4a55037</id>
+    <title>C言語でメモリマップド I/O を扱うときに注意すること  - volatile 修飾子とメモリバリアの役割</title>
+    <link rel="alternate" href="https://qiita.com/ikwzm/items/d6d6a0223931c4a55037?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-31T00:09:21+09:00</updated>
+    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikwzm&quot;&gt;ikwzm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:53:24+09:00&lt;br/&gt;Updated: 2026-01-31T00:09:21+09:00&lt;br/&gt;はじめに
+CPU が I/O デバイスのレジスタをアクセスする際は、物理メモリ空間にマッピングされたアドレスを介して行われるのが一般的です。これをメモリマップド I/O と言います。
+CPU がメモリ空間にアクセスする際の用途は文字通り記録(メモリ)するためです。しかし、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c8907eddfe84881cdc3c</id>
     <title>統計モデリング大全　目次</title>
     <link rel="alternate" href="https://qiita.com/c60evaporator/items/c8907eddfe84881cdc3c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -700,15 +709,6 @@ Pythonでプログラミングをしていると、当たり前のように使�
 範囲が広すぎて、何から勉強すればいいのか分からない
 
 統計モデリング（statistical ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6d6a0223931c4a55037</id>
-    <title>C言語でメモリマップド I/O を扱うときに注意すること  - volatile 修飾子とメモリバリアの役割</title>
-    <link rel="alternate" href="https://qiita.com/ikwzm/items/d6d6a0223931c4a55037?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-31T00:09:21+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikwzm&quot;&gt;ikwzm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:53:24+09:00&lt;br/&gt;Updated: 2026-01-31T00:09:21+09:00&lt;br/&gt;はじめに
-CPU が I/O デバイスのレジスタをアクセスする際は、物理メモリ空間にマッピングされたアドレスを介して行われるのが一般的です。これをメモリマップド I/O と言います。
-CPU がメモリ空間にアクセスする際の用途は文字通り記録(メモリ)するためです。しかし、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c006c5a7ea64684eae1e</id>
@@ -898,6 +898,15 @@ PRUMについて気になった方は、
 またユーザーの呼称は、正式でなく便宜的な...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:351912f61ffe1b177a68</id>
+    <title>よくわからずにClaudeのSkillを使い倒し始めたら、自分の仕事が丸裸になりつつある話</title>
+    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/351912f61ffe1b177a68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-30T09:53:34+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T09:53:34+09:00&lt;br/&gt;Updated: 2026-01-30T09:53:34+09:00&lt;br/&gt;はじめに
+いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
+みなさん、Claude Code、使ってます？Claude Code・CodeXあたりを去年末までうろちょろしていたんですが、やはり界隈の勢いに押されて年始からはClaude Code...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9bc0a7a0a68b50c8e138</id>
     <title>【C#】Channel&lt;T&gt;  でスレッド間通信をシンプルに</title>
     <link rel="alternate" href="https://qiita.com/Sakai_path/items/9bc0a7a0a68b50c8e138?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -908,20 +917,11 @@ C#で非同期処理を組み立てていると、タスク間でデータを受
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:351912f61ffe1b177a68</id>
-    <title>よくわからずにClaudeのSkillを使い倒し始めたら、自分の仕事が丸裸になりつつある話</title>
-    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/351912f61ffe1b177a68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-30T09:53:34+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T09:53:34+09:00&lt;br/&gt;Updated: 2026-01-30T09:53:34+09:00&lt;br/&gt;はじめに
-いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
-みなさん、Claude Code、使ってます？Claude Code・CodeXあたりを去年末までうろちょろしていたんですが、やはり界隈の勢いに押されて年始からはClaude Code...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:f66918b0a5dc59db9017</id>
     <title>Ollama 17万台が（あぶねーすね）だそうな</title>
     <link rel="alternate" href="https://qiita.com/ohkitashigeto/items/f66918b0a5dc59db9017?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-31T07:29:26+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ohkitashigeto&quot;&gt;ohkitashigeto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:38:33+09:00&lt;br/&gt;Updated: 2026-01-31T07:29:26+09:00&lt;br/&gt;Ollama危ないんですね
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ohkitashigeto&quot;&gt;ohkitashigeto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:38:33+09:00&lt;br/&gt;Updated: 2026-01-31T07:29:26+09:00&lt;br/&gt;Ollama危ないんですね
 The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハックされてますよと→はい、編集してる途中でやらかしました、exposedでした。
 ポート開いてて危ねえよ。
 
