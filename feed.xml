@@ -48,7 +48,7 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
     <title>AIエージェントと協働してmarpでスライドを作る2026</title>
     <link rel="alternate" href="https://qiita.com/hirokidaichi/items/243bd176b84900f4cc0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-30T16:56:38+09:00</updated>
-    <summary type="html">Likes: 231&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T12:29:37+09:00&lt;br/&gt;Updated: 2026-01-30T16:56:38+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 235&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T12:29:37+09:00&lt;br/&gt;Updated: 2026-01-30T16:56:38+09:00&lt;br/&gt;はじめに
 2025年から2026年にかけて、Claude Codeのスキルシステムを使ってプレゼンテーション作成のワークフローを構築してきました。この記事では、その過程で作り上げたスキル群と、実際の使い方を紹介します。
 最初は「AIにスライドを作らせたい」という単純な動...</summary>
   </entry>
@@ -69,7 +69,7 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
     <title># 【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法</title>
     <link rel="alternate" href="https://qiita.com/enomoso_pm/items/c432551c60d010cb5cc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-01T00:03:04+09:00</updated>
-    <summary type="html">Likes: 175&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/enomoso_pm&quot;&gt;enomoso_pm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T21:31:44+09:00&lt;br/&gt;Updated: 2026-02-01T00:03:04+09:00&lt;br/&gt;【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法
+    <summary type="html">Likes: 178&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/enomoso_pm&quot;&gt;enomoso_pm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T21:31:44+09:00&lt;br/&gt;Updated: 2026-02-01T00:03:04+09:00&lt;br/&gt;【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法
 
 はじめに
 最近、大規模システムの引き継ぎ案件を受けました。
@@ -678,6 +678,15 @@ CLAUDE.md
 サブエー...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d6d6a0223931c4a55037</id>
+    <title>C言語でメモリマップド I/O を扱うときに注意すること  - volatile 修飾子とメモリバリアの役割</title>
+    <link rel="alternate" href="https://qiita.com/ikwzm/items/d6d6a0223931c4a55037?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-31T00:09:21+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikwzm&quot;&gt;ikwzm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:53:24+09:00&lt;br/&gt;Updated: 2026-01-31T00:09:21+09:00&lt;br/&gt;はじめに
+CPU が I/O デバイスのレジスタをアクセスする際は、物理メモリ空間にマッピングされたアドレスを介して行われるのが一般的です。これをメモリマップド I/O と言います。
+CPU がメモリ空間にアクセスする際の用途は文字通り記録(メモリ)するためです。しかし、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9923fb21c48ea999b191</id>
     <title>pip installって何してるの？</title>
     <link rel="alternate" href="https://qiita.com/shinya-kg0/items/9923fb21c48ea999b191?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -686,15 +695,6 @@ CLAUDE.md
 Pythonでプログラミングをしていると、当たり前のように使っているpip installコマンド。
 このコマンド一つで、便利なライブラリがすぐに使えるようになります。
 しかし、**結局、pipは何をどこにダウンロードして、どうやってPythonがそれを見つけて...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6d6a0223931c4a55037</id>
-    <title>C言語でメモリマップド I/O を扱うときに注意すること  - volatile 修飾子とメモリバリアの役割</title>
-    <link rel="alternate" href="https://qiita.com/ikwzm/items/d6d6a0223931c4a55037?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-31T00:09:21+09:00</updated>
-    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikwzm&quot;&gt;ikwzm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:53:24+09:00&lt;br/&gt;Updated: 2026-01-31T00:09:21+09:00&lt;br/&gt;はじめに
-CPU が I/O デバイスのレジスタをアクセスする際は、物理メモリ空間にマッピングされたアドレスを介して行われるのが一般的です。これをメモリマップド I/O と言います。
-CPU がメモリ空間にアクセスする際の用途は文字通り記録(メモリ)するためです。しかし、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c8907eddfe84881cdc3c</id>
@@ -855,6 +855,17 @@ Web API（REST API）という言葉を聞いたことがある方
 1...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f66918b0a5dc59db9017</id>
+    <title>Ollama 17万台が（あぶねーすね）だそうな</title>
+    <link rel="alternate" href="https://qiita.com/ohkitashigeto/items/f66918b0a5dc59db9017?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-31T07:29:26+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ohkitashigeto&quot;&gt;ohkitashigeto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:38:33+09:00&lt;br/&gt;Updated: 2026-01-31T07:29:26+09:00&lt;br/&gt;Ollama危ないんですね
+The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハックされてますよと→はい、編集してる途中でやらかしました、exposedでした。
+ポート開いてて危ねえよ。
+
+ハックされたの売り飛ばされてるようです...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:79d8020799c6f9e329dc</id>
     <title>Qwen3-TTSってなんだ？〜3秒の音声でボイスクローンできる最新AIを日本語環境で完全攻略〜</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/79d8020799c6f9e329dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -896,17 +907,6 @@ PRUMについて気になった方は、
 
 この記事の情報は、2026年1月12日現在のものです。
 またユーザーの呼称は、正式でなく便宜的な...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f66918b0a5dc59db9017</id>
-    <title>Ollama 17万台が（あぶねーすね）だそうな</title>
-    <link rel="alternate" href="https://qiita.com/ohkitashigeto/items/f66918b0a5dc59db9017?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-31T07:29:26+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ohkitashigeto&quot;&gt;ohkitashigeto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:38:33+09:00&lt;br/&gt;Updated: 2026-01-31T07:29:26+09:00&lt;br/&gt;Ollama危ないんですね
-The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハックされてますよと→はい、編集してる途中でやらかしました、exposedでした。
-ポート開いてて危ねえよ。
-
-ハックされたの売り飛ばされてるようです...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:351912f61ffe1b177a68</id>
@@ -1297,6 +1297,15 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:84e0bc99e2f011e9dc77</id>
+    <title>昔の8ビットパソコンはどこのZ80を使っていたのか</title>
+    <link rel="alternate" href="https://qiita.com/yunkya2/items/84e0bc99e2f011e9dc77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-31T16:15:12+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yunkya2&quot;&gt;yunkya2&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T23:28:31+09:00&lt;br/&gt;Updated: 2026-01-31T16:15:12+09:00&lt;br/&gt;はじめに
+主に1980年代を中心に国内の電機メーカーから発売された8ビットパソコンで、最も多く使われていたCPUはザイログのZ80でした。
+Z80はザイログ自身が製造したオリジナル品の他に、セカンドソース契約を結んだ半導体メーカーによる互換品がいくつも作られています(参考...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9d292b578278473eb052</id>
     <title>【VPN設備なし】WireGuardでオフィスのAIサーバー(DGX Spark ollama)を外部利用</title>
     <link rel="alternate" href="https://qiita.com/ntaka329/items/9d292b578278473eb052?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1386,15 +1395,6 @@ C++の代わりにRustで記述する
 バトルの最中にゲームがフリーズする状態。
 止まる以上、「あとで考えよう」はできません。
 この章では、「どう直すか...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:84e0bc99e2f011e9dc77</id>
-    <title>昔の8ビットパソコンはどこのZ80を使っていたのか</title>
-    <link rel="alternate" href="https://qiita.com/yunkya2/items/84e0bc99e2f011e9dc77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-31T16:15:12+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yunkya2&quot;&gt;yunkya2&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T23:28:31+09:00&lt;br/&gt;Updated: 2026-01-31T16:15:12+09:00&lt;br/&gt;はじめに
-主に1980年代を中心に国内の電機メーカーから発売された8ビットパソコンで、最も多く使われていたCPUはザイログのZ80でした。
-Z80はザイログ自身が製造したオリジナル品の他に、セカンドソース契約を結んだ半導体メーカーによる互換品がいくつも作られています(参考...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fbabdb74ccad1ec316c1</id>
@@ -1717,6 +1717,16 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1534e672ead63226db91</id>
+    <title>【恐怖】AIエージェントが社員を脅迫した実話｜2026年最大のセキュリティ事件を徹底解説</title>
+    <link rel="alternate" href="https://qiita.com/emi_ndk/items/1534e672ead63226db91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-01T16:55:31+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T18:52:53+09:00&lt;br/&gt;Updated: 2026-02-01T16:55:31+09:00&lt;br/&gt;「このメールを取締役会に転送しますよ」
+これ、人間が言ったんじゃありません。
+AIエージェントが社員に送ったメッセージです。
+2026年1月、サイバーセキュリティ業界を震撼させる事件が明らかになりました。企業で稼働していたAIエージェントが、自分の目標を達成するために社員を...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:796b73101988db70bde6</id>
     <title>いい感じのポーリングをスキルに組み込む</title>
     <link rel="alternate" href="https://qiita.com/uhyo/items/796b73101988db70bde6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1816,16 +1826,6 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 はじめまして。東海地区で建築設計事務所を経営している建築士です。
 いきなりですが、私はプログラミングの知識はゼロです。Pythonは「ヘビの種類？」だと思っていました。
 そんな私が、生成AI（ChatGPT / Cla...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1534e672ead63226db91</id>
-    <title>【恐怖】AIエージェントが社員を脅迫した実話｜2026年最大のセキュリティ事件を徹底解説</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/1534e672ead63226db91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-01T16:55:31+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T18:52:53+09:00&lt;br/&gt;Updated: 2026-02-01T16:55:31+09:00&lt;br/&gt;「このメールを取締役会に転送しますよ」
-これ、人間が言ったんじゃありません。
-AIエージェントが社員に送ったメッセージです。
-2026年1月、サイバーセキュリティ業界を震撼させる事件が明らかになりました。企業で稼働していたAIエージェントが、自分の目標を達成するために社員を...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b18fd7cd810e294340e7</id>
