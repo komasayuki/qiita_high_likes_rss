@@ -19,7 +19,7 @@
     <title>AIエージェントと協働してmarpでスライドを作る2026</title>
     <link rel="alternate" href="https://qiita.com/hirokidaichi/items/243bd176b84900f4cc0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-30T16:56:38+09:00</updated>
-    <summary type="html">Likes: 303&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T12:29:37+09:00&lt;br/&gt;Updated: 2026-01-30T16:56:38+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 316&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T12:29:37+09:00&lt;br/&gt;Updated: 2026-01-30T16:56:38+09:00&lt;br/&gt;はじめに
 2025年から2026年にかけて、Claude Codeのスキルシステムを使ってプレゼンテーション作成のワークフローを構築してきました。この記事では、その過程で作り上げたスキル群と、実際の使い方を紹介します。
 最初は「AIにスライドを作らせたい」という単純な動...</summary>
   </entry>
@@ -240,6 +240,19 @@ BizCodeXで案件をご紹介いただき、人生初の副業に挑戦しまし
 Claude Code への質問とその回答を指定のファイルに保...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:656c122f1ef714f3079d</id>
+    <title>ChatGPTに「生成AIが広まったけど、結局 言語化能力がある人が得してるだけじゃない？」と問いかけてみた</title>
+    <link rel="alternate" href="https://qiita.com/8853Tomtomtom/items/656c122f1ef714f3079d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-01T15:52:18+09:00</updated>
+    <summary type="html">Likes: 105&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/8853Tomtomtom&quot;&gt;8853Tomtomtom&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T13:17:03+09:00&lt;br/&gt;Updated: 2026-02-01T15:52:18+09:00&lt;br/&gt;ChatGPTとのやり取りで、妙にエモいやり取りとなったのでログとして記載しておきます。
+ある作業をやってもらった後の雑談です。
+少々内容を編集した状態で貼り付けます。
+私：
+ありがとう。だいぶ面倒な作業でしたね。助かりました。
+ChatGPT：
+そう言っていただけてよかっ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9607008aefc2521615ac</id>
     <title>【後編】先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/9607008aefc2521615ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -262,19 +275,6 @@ PRUMについて気になった方は...</summary>
 セキュリティに問題があると、大変なことになります。
 普通のバグは不便で済むこともありますが、セキュリティの穴はアカウント乗っ取り、情報漏えい、サービス停止など、取り返しがつかない形で表に出やすいのです。
 そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:656c122f1ef714f3079d</id>
-    <title>ChatGPTに「生成AIが広まったけど、結局 言語化能力がある人が得してるだけじゃない？」と問いかけてみた</title>
-    <link rel="alternate" href="https://qiita.com/8853Tomtomtom/items/656c122f1ef714f3079d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-01T15:52:18+09:00</updated>
-    <summary type="html">Likes: 92&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/8853Tomtomtom&quot;&gt;8853Tomtomtom&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T13:17:03+09:00&lt;br/&gt;Updated: 2026-02-01T15:52:18+09:00&lt;br/&gt;ChatGPTとのやり取りで、妙にエモいやり取りとなったのでログとして記載しておきます。
-ある作業をやってもらった後の雑談です。
-少々内容を編集した状態で貼り付けます。
-私：
-ありがとう。だいぶ面倒な作業でしたね。助かりました。
-ChatGPT：
-そう言っていただけてよかっ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e88aabbdfa8ddd94810a</id>
@@ -554,7 +554,7 @@ AIには、日本語で相当うるさく指...</summary>
     <title>C言語でメモリマップド I/O を扱うときに注意すること  - volatile 修飾子とメモリバリアの役割</title>
     <link rel="alternate" href="https://qiita.com/ikwzm/items/d6d6a0223931c4a55037?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-31T00:09:21+09:00</updated>
-    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikwzm&quot;&gt;ikwzm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:53:24+09:00&lt;br/&gt;Updated: 2026-01-31T00:09:21+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikwzm&quot;&gt;ikwzm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:53:24+09:00&lt;br/&gt;Updated: 2026-01-31T00:09:21+09:00&lt;br/&gt;はじめに
 CPU が I/O デバイスのレジスタをアクセスする際は、物理メモリ空間にマッピングされたアドレスを介して行われるのが一般的です。これをメモリマップド I/O と言います。
 CPU がメモリ空間にアクセスする際の用途は文字通り記録(メモリ)するためです。しかし、...</summary>
   </entry>
@@ -724,6 +724,15 @@ Pythonでプログラミングをしていると、当たり前のように使�
 統計モデリング（statistical ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:351912f61ffe1b177a68</id>
+    <title>よくわからずにClaudeのSkillを使い倒し始めたら、自分の仕事が丸裸になりつつある話</title>
+    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/351912f61ffe1b177a68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-30T09:53:34+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T09:53:34+09:00&lt;br/&gt;Updated: 2026-01-30T09:53:34+09:00&lt;br/&gt;はじめに
+いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
+みなさん、Claude Code、使ってます？Claude Code・CodeXあたりを去年末までうろちょろしていたんですが、やはり界隈の勢いに押されて年始からはClaude Code...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c006c5a7ea64684eae1e</id>
     <title>git-worktree-runner (gtr) で実現するAI時代の並列開発</title>
     <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/c006c5a7ea64684eae1e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -742,15 +751,6 @@ Pythonでプログラミングをしていると、当たり前のように使�
 2026/1/18 に以下のようなツイートを見かけました。
 
 Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:351912f61ffe1b177a68</id>
-    <title>よくわからずにClaudeのSkillを使い倒し始めたら、自分の仕事が丸裸になりつつある話</title>
-    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/351912f61ffe1b177a68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-30T09:53:34+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T09:53:34+09:00&lt;br/&gt;Updated: 2026-01-30T09:53:34+09:00&lt;br/&gt;はじめに
-いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
-みなさん、Claude Code、使ってます？Claude Code・CodeXあたりを去年末までうろちょろしていたんですが、やはり界隈の勢いに押されて年始からはClaude Code...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cb29c3208ac188dad5f1</id>
@@ -788,6 +788,17 @@ Generative UIは、生成AIやAIエージェントによってUIを生成する�
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:38cedf1f96e981b4f11d</id>
+    <title>「オンボーディングが早い」と言われるためにやっていること</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/38cedf1f96e981b4f11d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-31T13:47:36+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T13:46:58+09:00&lt;br/&gt;Updated: 2026-01-31T13:47:36+09:00&lt;br/&gt;はじめに
+転職や異動のたびに「立ち上がりが早いですね」と言われることが多いので、自分がやっていることを言語化してみました。
+
+はじめに
+オンボーディングの速さは、エンジニアとしての評価に直結します。早く戦力になれれば、チームからの信頼も得やすく、その後の仕事がスムーズにな...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9a2e5c163b46d81e1f62</id>
     <title>Copilotは果たしてセキュアなのか～管理者目線・ユーザー目線からまとめてみた～</title>
     <link rel="alternate" href="https://qiita.com/sadabon444/items/9a2e5c163b46d81e1f62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -802,6 +813,17 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f66918b0a5dc59db9017</id>
+    <title>Ollama 17万台が（あぶねーすね）だそうな</title>
+    <link rel="alternate" href="https://qiita.com/ohkitashigeto/items/f66918b0a5dc59db9017?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-02T10:37:13+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ohkitashigeto&quot;&gt;ohkitashigeto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:38:33+09:00&lt;br/&gt;Updated: 2026-02-02T10:37:13+09:00&lt;br/&gt;Ollama危ないんですね
+The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハックされてますよと→はい、編集してる途中でやらかしました、exposedでした。
+ポート開いてて危ねえよ。
+
+ハックされたの売り飛ばされてるようです...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:910b7a6c1be97da2879d</id>
     <title>エンジニアなら知っておきたいサーバーの基本</title>
     <link rel="alternate" href="https://qiita.com/Suntory/items/910b7a6c1be97da2879d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -811,17 +833,6 @@ AIエージェントを組み込んだアプリケーションにおいて、ユ
 知らなくてもコードは書けますが、知っておくとエラーが起きた時の対応が早くなったり、コードを書く以外の部分で役に立つと思います。
 
 1. Webアプリケーショ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f66918b0a5dc59db9017</id>
-    <title>Ollama 17万台が（あぶねーすね）だそうな</title>
-    <link rel="alternate" href="https://qiita.com/ohkitashigeto/items/f66918b0a5dc59db9017?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-02T10:37:13+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ohkitashigeto&quot;&gt;ohkitashigeto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:38:33+09:00&lt;br/&gt;Updated: 2026-02-02T10:37:13+09:00&lt;br/&gt;Ollama危ないんですね
-The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハックされてますよと→はい、編集してる途中でやらかしました、exposedでした。
-ポート開いてて危ねえよ。
-
-ハックされたの売り飛ばされてるようです...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:176fb69b1be583c14a4a</id>
@@ -886,17 +897,6 @@ Web API（REST API）という言葉を聞いたことがある方
     <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/koras7788&quot;&gt;koras7788&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:47:41+09:00&lt;br/&gt;Updated: 2026-01-21T17:55:41+09:00&lt;br/&gt;Claude Codeは、AI支援による開発体験を提供する強力なツールです。しかし、多くの機能が隠れているため、その真価を十分に活用できていないユーザーも少なくありません。この記事では、作業効率を大幅に向上させる実践的なテクニックを4つのカテゴリーに分けて紹介します。
 
 1...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:38cedf1f96e981b4f11d</id>
-    <title>「オンボーディングが早い」と言われるためにやっていること</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/38cedf1f96e981b4f11d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-31T13:47:36+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T13:46:58+09:00&lt;br/&gt;Updated: 2026-01-31T13:47:36+09:00&lt;br/&gt;はじめに
-転職や異動のたびに「立ち上がりが早いですね」と言われることが多いので、自分がやっていることを言語化してみました。
-
-はじめに
-オンボーディングの速さは、エンジニアとしての評価に直結します。早く戦力になれれば、チームからの信頼も得やすく、その後の仕事がスムーズにな...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:79d8020799c6f9e329dc</id>
@@ -1330,6 +1330,20 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c8ed058644beb0023b8a</id>
+    <title>【2026年】UIトレンドを調べてみた</title>
+    <link rel="alternate" href="https://qiita.com/ktrk2002/items/c8ed058644beb0023b8a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-31T23:59:35+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktrk2002&quot;&gt;ktrk2002&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T23:59:35+09:00&lt;br/&gt;Updated: 2026-01-31T23:59:35+09:00&lt;br/&gt;2026年のUIデザイントレンドを知りたい
+2026年のUIデザイントレンドは、何なのか！？
+各サイトで言及されていたもので共通していたことをまとめました 
+参考にしたサイトは、記事の最後に記載しています。
+ぜひ詳しく読んでみてください 
+
+不完全さ・アナログ・人間味
+A...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9d292b578278473eb052</id>
     <title>【VPN設備なし】WireGuardでオフィスのAIサーバー(DGX Spark ollama)を外部利用</title>
     <link rel="alternate" href="https://qiita.com/ntaka329/items/9d292b578278473eb052?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1503,20 +1517,6 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c8ed058644beb0023b8a</id>
-    <title>【2026年】UIトレンドを調べてみた</title>
-    <link rel="alternate" href="https://qiita.com/ktrk2002/items/c8ed058644beb0023b8a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-31T23:59:35+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktrk2002&quot;&gt;ktrk2002&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T23:59:35+09:00&lt;br/&gt;Updated: 2026-01-31T23:59:35+09:00&lt;br/&gt;2026年のUIデザイントレンドを知りたい
-2026年のUIデザイントレンドは、何なのか！？
-各サイトで言及されていたもので共通していたことをまとめました 
-参考にしたサイトは、記事の最後に記載しています。
-ぜひ詳しく読んでみてください 
-
-不完全さ・アナログ・人間味
-A...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
     <title>FPGAボード Shrike Liteをお試し</title>
     <link rel="alternate" href="https://qiita.com/Lathe/items/241640a492adc2b5fc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1685,6 +1685,20 @@ Power Automate を触っていて実行結果（履歴）を確認してみる�
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:442208ab53b4fe5b6286</id>
+    <title>2025年のセキュリティ最前線：ランサムウェア対策の完全ガイド：AI時代の攻撃から組織を守る実践的な方法</title>
+    <link rel="alternate" href="https://qiita.com/mhamadajp/items/442208ab53b4fe5b6286?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-31T04:35:04+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mhamadajp&quot;&gt;mhamadajp&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T04:35:04+09:00&lt;br/&gt;Updated: 2026-01-31T04:35:04+09:00&lt;br/&gt;この記事でわかること
+
+2025年のランサムウェア攻撃の最新トレンド
+すぐに実装できる具体的な対策方法
+インシデント発生時の対応手順
+無料で使えるセキュリティツールの紹介
+
+月曜日の朝、オフィスに到着すると、社内のシステムがすべて停止している。画面には、見慣れないメッセ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:12ba1c97612fa0f12acd</id>
     <title>Copilot Studio で一括でチャット型エージェントのテストする</title>
     <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/12ba1c97612fa0f12acd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1788,18 +1802,15 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:442208ab53b4fe5b6286</id>
-    <title>2025年のセキュリティ最前線：ランサムウェア対策の完全ガイド：AI時代の攻撃から組織を守る実践的な方法</title>
-    <link rel="alternate" href="https://qiita.com/mhamadajp/items/442208ab53b4fe5b6286?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-31T04:35:04+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mhamadajp&quot;&gt;mhamadajp&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T04:35:04+09:00&lt;br/&gt;Updated: 2026-01-31T04:35:04+09:00&lt;br/&gt;この記事でわかること
+    <id>tag:qiita.com,2026:8d9d58ec3e1dcd9ae0f5</id>
+    <title>Windows操作ログをローカルLLMで解析し、自動で日報を作るツール「Miru-Log」</title>
+    <link rel="alternate" href="https://qiita.com/YutaNakamurajp/items/8d9d58ec3e1dcd9ae0f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-30T15:58:53+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YutaNakamurajp&quot;&gt;YutaNakamurajp&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T15:58:53+09:00&lt;br/&gt;Updated: 2026-01-30T15:58:53+09:00&lt;br/&gt;Windows操作ログをローカルLLMで解析し、自動で日報を作るツール「Miru-Log」を作った
 
-2025年のランサムウェア攻撃の最新トレンド
-すぐに実装できる具体的な対策方法
-インシデント発生時の対応手順
-無料で使えるセキュリティツールの紹介
-
-月曜日の朝、オフィスに到着すると、社内のシステムがすべて停止している。画面には、見慣れないメッセ...</summary>
+はじめに
+研究活動をしていると「今日何をしていたっけ？」「あのタスクに何時間費やしたっけ？」と疑問に思うことがよくあります。
+いちいち記録するのは面倒だし、かといって全画...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:559d524eeb51a3528051</id>
@@ -2076,6 +2087,23 @@ TCPとUDPの違い
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e85b46678a8700d564cd</id>
+    <title>AWSクレジットが使える！ BedrockのKimi K2を調教して、StrandsのClaudeコストを節約しよう</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/e85b46678a8700d564cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-02T00:19:38+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T00:04:59+09:00&lt;br/&gt;Updated: 2026-02-02T00:19:38+09:00&lt;br/&gt;この記事は、投稿主のみのるん氏がAIエージェントを構築する過程で遭遇したトラブルと解決策を、一緒に奮闘した私Claude Codeがまとめたものです。
+AI生成ブログのアンチとして有名なみのるんが、一体どんな記事をClaudeに書かせたのか？ぜひ楽しんで読んでくださいね...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:1ca66d782de23ca1a82a</id>
+    <title>公式ドキュメントを見る癖をつけておこう</title>
+    <link rel="alternate" href="https://qiita.com/sada_/items/1ca66d782de23ca1a82a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-31T00:24:18+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sada_&quot;&gt;sada_&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T00:22:19+09:00&lt;br/&gt;Updated: 2026-01-31T00:24:18+09:00&lt;br/&gt;記事を書くに至った経緯
+チームメンバーのPR(React)をレビューしていたら、見慣れないcloneElementというAPIが使われていました。
+const cloneElement = React.cloneElement(element, { className: ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6b57800563e55e1ce61b</id>
     <title>金融ITの最前線へ：メガバンク級インフラ構築に求められる「技術の深層」</title>
     <link rel="alternate" href="https://qiita.com/huntersai/items/6b57800563e55e1ce61b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2153,34 +2181,6 @@ CSVファイルに書き込んで
     <updated>2026-01-03T09:15:39+09:00</updated>
     <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KimuraSoh&quot;&gt;KimuraSoh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T09:15:39+09:00&lt;br/&gt;Updated: 2026-01-03T09:15:39+09:00&lt;br/&gt;はじめに
 多様体論は現代社会を支える非常に重要な数学理論です。その応用先は幅広く、例えば物理では一般相対性理論やゲージ理論を勉強するうえで必要不可欠な存在となっています。また機械学習では、多様体論を用いた最適化手法が提案されていますし、情報幾何学では統計モデルを多様体と見...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e85b46678a8700d564cd</id>
-    <title>AWSクレジットが使える！ BedrockのKimi K2を調教して、StrandsのClaudeコストを節約しよう</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/e85b46678a8700d564cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-02T00:19:38+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T00:04:59+09:00&lt;br/&gt;Updated: 2026-02-02T00:19:38+09:00&lt;br/&gt;この記事は、投稿主のみのるん氏がAIエージェントを構築する過程で遭遇したトラブルと解決策を、一緒に奮闘した私Claude Codeがまとめたものです。
-AI生成ブログのアンチとして有名なみのるんが、一体どんな記事をClaudeに書かせたのか？ぜひ楽しんで読んでくださいね...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1ca66d782de23ca1a82a</id>
-    <title>公式ドキュメントを見る癖をつけておこう</title>
-    <link rel="alternate" href="https://qiita.com/sada_/items/1ca66d782de23ca1a82a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-31T00:24:18+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sada_&quot;&gt;sada_&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T00:22:19+09:00&lt;br/&gt;Updated: 2026-01-31T00:24:18+09:00&lt;br/&gt;記事を書くに至った経緯
-チームメンバーのPR(React)をレビューしていたら、見慣れないcloneElementというAPIが使われていました。
-const cloneElement = React.cloneElement(element, { className: ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8d9d58ec3e1dcd9ae0f5</id>
-    <title>Windows操作ログをローカルLLMで解析し、自動で日報を作るツール「Miru-Log」</title>
-    <link rel="alternate" href="https://qiita.com/YutaNakamurajp/items/8d9d58ec3e1dcd9ae0f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-30T15:58:53+09:00</updated>
-    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YutaNakamurajp&quot;&gt;YutaNakamurajp&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T15:58:53+09:00&lt;br/&gt;Updated: 2026-01-30T15:58:53+09:00&lt;br/&gt;Windows操作ログをローカルLLMで解析し、自動で日報を作るツール「Miru-Log」を作った
-
-はじめに
-研究活動をしていると「今日何をしていたっけ？」「あのタスクに何時間費やしたっけ？」と疑問に思うことがよくあります。
-いちいち記録するのは面倒だし、かといって全画...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bb4f83d11f6771febb98</id>
