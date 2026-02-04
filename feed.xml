@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-02-04T13:27:04+09:00</updated>
+  <updated>2026-02-04T19:08:49+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -186,7 +186,7 @@ PRUMについて気...</summary>
     <title>開発者はAIを使うと24％速くなると考えているが実際には約20％遅いという主張について調べた件</title>
     <link rel="alternate" href="https://qiita.com/morry_48/items/a4c5d048f6fb662ebbba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-03T13:53:25+09:00</updated>
-    <summary type="html">Likes: 127&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/morry_48&quot;&gt;morry_48&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T18:20:28+09:00&lt;br/&gt;Updated: 2026-02-03T13:53:25+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 130&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/morry_48&quot;&gt;morry_48&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T18:20:28+09:00&lt;br/&gt;Updated: 2026-02-03T13:53:25+09:00&lt;br/&gt;はじめに
 
 どうも。鳩胸になりたい文鳥です。
 
@@ -489,7 +489,7 @@ SHAP値処理の改修
     <title>【前編】新人エンジニアは、なぜ「止まってしまう」のか。─教える側の“死角”</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/0d772d4fdd8a05f5cc8d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-03T14:07:59+09:00</updated>
-    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T12:53:59+09:00&lt;br/&gt;Updated: 2026-02-03T14:07:59+09:00&lt;br/&gt;はじめまして。
+    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T12:53:59+09:00&lt;br/&gt;Updated: 2026-02-03T14:07:59+09:00&lt;br/&gt;はじめまして。
 株式会社PRUMでエンジニアをしている人見です。
 日々、プログラミング学習や実務の中で
 つまずきやすいポイントを整理して発信しています。
@@ -815,6 +815,22 @@ Pythonでプログラミングをしていると、当たり前のように使�
 Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4daa244550e2a4388d26</id>
+    <title>2026年、AWS LambdaはVSCodeで開発するのがナウい</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-03T20:52:34+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T20:52:34+09:00&lt;br/&gt;Updated: 2026-02-03T20:52:34+09:00&lt;br/&gt;久しぶりにLambdaをマネージメントコンソールで新規作成したのですが、見慣れないボタンが。
+
+「Open in Visual Studio Code」？？
+興味本位でやってみます。
+
+事前準備
+ローカル環境を準備します。
+
+VSCode
+AWS Toolkit for V...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cb29c3208ac188dad5f1</id>
     <title>OCIのノーコード・エージェントビルダー『Agent Factory』がリリース！触ってみた</title>
     <link rel="alternate" href="https://qiita.com/yushibats/items/cb29c3208ac188dad5f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -848,22 +864,6 @@ OCI Market...</summary>
 「Generative UI」という単語をご存知でしょうか？
 Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4daa244550e2a4388d26</id>
-    <title>2026年、AWS LambdaはVSCodeで開発するのがナウい</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-03T20:52:34+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T20:52:34+09:00&lt;br/&gt;Updated: 2026-02-03T20:52:34+09:00&lt;br/&gt;久しぶりにLambdaをマネージメントコンソールで新規作成したのですが、見慣れないボタンが。
-
-「Open in Visual Studio Code」？？
-興味本位でやってみます。
-
-事前準備
-ローカル環境を準備します。
-
-VSCode
-AWS Toolkit for V...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f66918b0a5dc59db9017</id>
@@ -1231,6 +1231,16 @@ Clawdbot（クロードボット）は、1台のPCをハブにして Discord・S
 その...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a8409d108cae24888ba0</id>
+    <title>Codex CLI猛進。Github Copilotと大差。　～データで見る2026年1月のAI Codingの動向まとめ～</title>
+    <link rel="alternate" href="https://qiita.com/kotauchisunsun/items/a8409d108cae24888ba0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-03T20:20:09+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kotauchisunsun&quot;&gt;kotauchisunsun&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T21:47:06+09:00&lt;br/&gt;Updated: 2026-02-03T20:20:09+09:00&lt;br/&gt;AI Coding Agentの1月の動向
+AI Coding.Infoというサイトを2025年7月から運営しています。
+
+これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cbad89098dfcc8c71178</id>
     <title>【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（前編）</title>
     <link rel="alternate" href="https://qiita.com/yushibats/items/cbad89098dfcc8c71178?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1337,16 +1347,6 @@ Z80はザイログ自身が製造したオリジナル品の他に、セカン�
 本記事は、JavaエンジニアがTypeScriptを扱う際に感じた違いを解説した記事です。
 これまで実務や個人開発でTypeScriptに触れていましたが、Javaの感覚でコードを読み進めていくと、TypeScript特有の概念や挙動に戸惑うことがありました。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a8409d108cae24888ba0</id>
-    <title>Codex CLI猛進。Github Copilotと大差。　～データで見る2026年1月のAI Codingの動向まとめ～</title>
-    <link rel="alternate" href="https://qiita.com/kotauchisunsun/items/a8409d108cae24888ba0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-03T20:20:09+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kotauchisunsun&quot;&gt;kotauchisunsun&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T21:47:06+09:00&lt;br/&gt;Updated: 2026-02-03T20:20:09+09:00&lt;br/&gt;AI Coding Agentの1月の動向
-AI Coding.Infoというサイトを2025年7月から運営しています。
-
-これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a4ab780761bbf734e473</id>
@@ -1543,8 +1543,8 @@ C++の代わりにRustで記述する
     <id>tag:qiita.com,2026:382920eb22ed3e645257</id>
     <title>AIエージェントと協働するオフィスワーク2026</title>
     <link rel="alternate" href="https://qiita.com/hirokidaichi/items/382920eb22ed3e645257?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-04T10:31:42+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T09:54:55+09:00&lt;br/&gt;Updated: 2026-02-04T10:31:42+09:00&lt;br/&gt;はじめに
+    <updated>2026-02-04T19:08:49+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T09:54:55+09:00&lt;br/&gt;Updated: 2026-02-04T19:08:49+09:00&lt;br/&gt;はじめに
 
 前回の記事では、Claude CodeとMarpを組み合わせてスライドを作る方法を紹介しました。
 また、1年以上前にn8nを使った「しらせくん」という自動化システムについて書きました。メールの分類、カレンダーの色付け、リマインド通知など、定期的な業務を自動化す...</summary>
@@ -2050,6 +2050,19 @@ LLMをシステムに組み込む際、私たちはいつまでプロンプト�
 「以下のJ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f036cf3ac3381e6f4438</id>
+    <title>Windows アプリの開発手段の選択肢をまとめてみたの続き</title>
+    <link rel="alternate" href="https://qiita.com/tinymouse/items/f036cf3ac3381e6f4438?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-02T09:05:07+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tinymouse&quot;&gt;tinymouse&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T09:00:06+09:00&lt;br/&gt;Updated: 2026-02-02T09:05:07+09:00&lt;br/&gt;はじめに
+Windows アプリの開発手段は幾つもあります。新たにアプリを作るときにどれを選ぶのがいいのか、まとめてみました。
+Windows アプリの開発手段の選択肢をまとめてみた #.NET - Qiita
+この続きです。
+
+Windows アプリの種類と概要
+前回の...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1ca66d782de23ca1a82a</id>
     <title>公式ドキュメントを見る癖をつけておこう</title>
     <link rel="alternate" href="https://qiita.com/sada_/items/1ca66d782de23ca1a82a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2241,19 +2254,5 @@ TCPとUDPの違い
     <updated>2026-01-04T05:20:28+09:00</updated>
     <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/AInsights&quot;&gt;AInsights&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T05:20:28+09:00&lt;br/&gt;Updated: 2026-01-04T05:20:28+09:00&lt;br/&gt;ソフトウェアエンジニアリングにおけるプログラミング言語選定の戦略的アプローチ 🚀
 ソフトウェア開発において、プログラミング言語の選定は組織にとって最も重要な意思決定の一つです。適切な言語を選ぶことで、開発フローが効率化され、デバッグ、ドキュメント作成、機能拡張、保守が容...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:41521d099e374ecc731f</id>
-    <title>React開発でよく聞くWebpack/Vite/SSR/SSG… 結局何なのか整理した</title>
-    <link rel="alternate" href="https://qiita.com/gentarou/items/41521d099e374ecc731f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-04T13:27:04+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/gentarou&quot;&gt;gentarou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T17:26:33+09:00&lt;br/&gt;Updated: 2026-02-04T13:27:04+09:00&lt;br/&gt;Reactを勉強していると、Node.jsやnpm以外にも色々な横文字が出てくるので、
-改めてこれらは何なのか？を整理しました。
-※前回のNode.js/npmについて整理した記事の続きです。
-
-ビルドツール周り
-
-Webpack / Vite
-WebpackとVit...</summary>
   </entry>
 </feed>
