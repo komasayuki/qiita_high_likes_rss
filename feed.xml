@@ -412,21 +412,11 @@ Certify
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:e41062344f0b86049a68</id>
-    <title>【元経理】実務で本当に使えたExcelの小技５選【ミス防止】</title>
-    <link rel="alternate" href="https://qiita.com/2000na/items/e41062344f0b86049a68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T08:26:14+09:00</updated>
-    <summary type="html">Likes: 82&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/2000na&quot;&gt;2000na&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T09:09:49+09:00&lt;br/&gt;Updated: 2026-01-26T08:26:14+09:00&lt;br/&gt;前職では経理として、日々の集計業務でExcelを使い倒してきました。
-一円の違いや細かい端数処理でミスが許されない業務を行う中で仕組みによる事故防止に努めてきました。
-この記事では、実務で「地味だけど効く」Excelの小技を紹介します。
-※マクロなし／明日から使えるもの中心...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:0d772d4fdd8a05f5cc8d</id>
     <title>【前編】新人エンジニアは、なぜ「止まってしまう」のか。─教える側の“死角”</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/0d772d4fdd8a05f5cc8d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-03T14:07:59+09:00</updated>
-    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T12:53:59+09:00&lt;br/&gt;Updated: 2026-02-03T14:07:59+09:00&lt;br/&gt;はじめまして。
+    <summary type="html">Likes: 82&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T12:53:59+09:00&lt;br/&gt;Updated: 2026-02-03T14:07:59+09:00&lt;br/&gt;はじめまして。
 株式会社PRUMでエンジニアをしている人見です。
 日々、プログラミング学習や実務の中で
 つまずきやすいポイントを整理して発信しています。
@@ -435,6 +425,16 @@ PRUMについて気になった方は、
 ▶ コーポレートサイト
 
 新人エンジニアは、なぜ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e41062344f0b86049a68</id>
+    <title>【元経理】実務で本当に使えたExcelの小技５選【ミス防止】</title>
+    <link rel="alternate" href="https://qiita.com/2000na/items/e41062344f0b86049a68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-26T08:26:14+09:00</updated>
+    <summary type="html">Likes: 82&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/2000na&quot;&gt;2000na&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T09:09:49+09:00&lt;br/&gt;Updated: 2026-01-26T08:26:14+09:00&lt;br/&gt;前職では経理として、日々の集計業務でExcelを使い倒してきました。
+一円の違いや細かい端数処理でミスが許されない業務を行う中で仕組みによる事故防止に努めてきました。
+この記事では、実務で「地味だけど効く」Excelの小技を紹介します。
+※マクロなし／明日から使えるもの中心...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ce2327852cef06f5f2ab</id>
@@ -600,6 +600,22 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
 少なくとも 初期の頃のPythonは、標準パッケージで何でもできることをコンセプトの1つとしていました。 Pythonが生まれた頃はインターネットに転がっているライブラ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4daa244550e2a4388d26</id>
+    <title>2026年、AWS LambdaはVSCodeで開発するのがナウい</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-03T20:52:34+09:00</updated>
+    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T20:52:34+09:00&lt;br/&gt;Updated: 2026-02-03T20:52:34+09:00&lt;br/&gt;久しぶりにLambdaをマネージメントコンソールで新規作成したのですが、見慣れないボタンが。
+
+「Open in Visual Studio Code」？？
+興味本位でやってみます。
+
+事前準備
+ローカル環境を準備します。
+
+VSCode
+AWS Toolkit for V...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d6d6a0223931c4a55037</id>
     <title>C言語でメモリマップド I/O を扱うときに注意すること  - volatile 修飾子とメモリバリアの役割</title>
     <link rel="alternate" href="https://qiita.com/ikwzm/items/d6d6a0223931c4a55037?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -658,22 +674,6 @@ https://160.16.12...</summary>
     <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T11:35:04+09:00&lt;br/&gt;Updated: 2026-01-07T11:40:06+09:00&lt;br/&gt;インターネットが開発されてからWebサイトができるまで
 インターネットの始まりは1969年。
 米国防総省のARPA（高等研究計画局）という機関が4台のコンピュータを繋いだのがはじまりです。3つの大学と、スタンフォード研究所（SRI）などの研究機関で繋がれており、ARPAN...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4daa244550e2a4388d26</id>
-    <title>2026年、AWS LambdaはVSCodeで開発するのがナウい</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-03T20:52:34+09:00</updated>
-    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T20:52:34+09:00&lt;br/&gt;Updated: 2026-02-03T20:52:34+09:00&lt;br/&gt;久しぶりにLambdaをマネージメントコンソールで新規作成したのですが、見慣れないボタンが。
-
-「Open in Visual Studio Code」？？
-興味本位でやってみます。
-
-事前準備
-ローカル環境を準備します。
-
-VSCode
-AWS Toolkit for V...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3ae7541a112833cad737</id>
@@ -1123,6 +1123,15 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:bbc8671d4295139c6e6d</id>
+    <title>Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。</title>
+    <link rel="alternate" href="https://qiita.com/yosim/items/bbc8671d4295139c6e6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-03T11:25:59+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yosim&quot;&gt;yosim&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T11:25:59+09:00&lt;br/&gt;Updated: 2026-02-03T11:25:59+09:00&lt;br/&gt;最近インパクトの大きいApple Silicon向けフレームワークが出現しました。「vllm-mlx」です。
+
+　一言で言うとvllmライクなインターフェースをApple Silicon向けに提供するもので、MacのGPU（Metal/MPS）アクセラレーションによる...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
     <title>Microsoft 365 Copilotに色々な方法でパワポ作成を丸投げしてみた</title>
     <link rel="alternate" href="https://qiita.com/Oyu3m/items/7c9c19c257be35f5dcec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1198,15 +1207,6 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウェブサーバーの間でHTMLファイルや画像などのウェブ情報をやり取りするための通信ルール（プロトコル）です。
 1回の通信で最低限起きていること
 1. ブ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bbc8671d4295139c6e6d</id>
-    <title>Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。</title>
-    <link rel="alternate" href="https://qiita.com/yosim/items/bbc8671d4295139c6e6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-03T11:25:59+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yosim&quot;&gt;yosim&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T11:25:59+09:00&lt;br/&gt;Updated: 2026-02-03T11:25:59+09:00&lt;br/&gt;最近インパクトの大きいApple Silicon向けフレームワークが出現しました。「vllm-mlx」です。
-
-　一言で言うとvllmライクなインターフェースをApple Silicon向けに提供するもので、MacのGPU（Metal/MPS）アクセラレーションによる...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1ae89e9d8d5c2cfa8180</id>
