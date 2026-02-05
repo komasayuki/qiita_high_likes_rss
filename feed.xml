@@ -346,7 +346,7 @@ A...</summary>
     <title>【前編】新人エンジニアは、なぜ「止まってしまう」のか。─教える側の“死角”</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/0d772d4fdd8a05f5cc8d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-03T14:07:59+09:00</updated>
-    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T12:53:59+09:00&lt;br/&gt;Updated: 2026-02-03T14:07:59+09:00&lt;br/&gt;はじめまして。
+    <summary type="html">Likes: 91&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T12:53:59+09:00&lt;br/&gt;Updated: 2026-02-03T14:07:59+09:00&lt;br/&gt;はじめまして。
 株式会社PRUMでエンジニアをしている人見です。
 日々、プログラミング学習や実務の中で
 つまずきやすいポイントを整理して発信しています。
@@ -403,6 +403,22 @@ Pencilは、Figma + Layermate みたいなツールで、Pencil上でAIにUIを�
 「調べればす...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4daa244550e2a4388d26</id>
+    <title>2026年、AWS LambdaはVSCodeで開発するのがナウい</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-03T20:52:34+09:00</updated>
+    <summary type="html">Likes: 84&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T20:52:34+09:00&lt;br/&gt;Updated: 2026-02-03T20:52:34+09:00&lt;br/&gt;久しぶりにLambdaをマネージメントコンソールで新規作成したのですが、見慣れないボタンが。
+
+「Open in Visual Studio Code」？？
+興味本位でやってみます。
+
+事前準備
+ローカル環境を準備します。
+
+VSCode
+AWS Toolkit for V...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b15f9adc9fb807a3e148</id>
     <title>ペネトレーションテスト チートシート（CRTP）</title>
     <link rel="alternate" href="https://qiita.com/sanyamarseille/items/b15f9adc9fb807a3e148?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -435,22 +451,6 @@ Certify
 一円の違いや細かい端数処理でミスが許されない業務を行う中で仕組みによる事故防止に努めてきました。
 この記事では、実務で「地味だけど効く」Excelの小技を紹介します。
 ※マクロなし／明日から使えるもの中心...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4daa244550e2a4388d26</id>
-    <title>2026年、AWS LambdaはVSCodeで開発するのがナウい</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-03T20:52:34+09:00</updated>
-    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T20:52:34+09:00&lt;br/&gt;Updated: 2026-02-03T20:52:34+09:00&lt;br/&gt;久しぶりにLambdaをマネージメントコンソールで新規作成したのですが、見慣れないボタンが。
-
-「Open in Visual Studio Code」？？
-興味本位でやってみます。
-
-事前準備
-ローカル環境を準備します。
-
-VSCode
-AWS Toolkit for V...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ce2327852cef06f5f2ab</id>
@@ -831,6 +831,16 @@ Pythonでプログラミングをしていると、当たり前のように使�
 Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:382920eb22ed3e645257</id>
+    <title>AIエージェントと協働するオフィスワーク2026</title>
+    <link rel="alternate" href="https://qiita.com/hirokidaichi/items/382920eb22ed3e645257?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-04T19:08:49+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T09:54:55+09:00&lt;br/&gt;Updated: 2026-02-04T19:08:49+09:00&lt;br/&gt;はじめに
+
+前回の記事では、Claude CodeとMarpを組み合わせてスライドを作る方法を紹介しました。
+また、1年以上前にn8nを使った「しらせくん」という自動化システムについて書きました。メールの分類、カレンダーの色付け、リマインド通知など、定期的な業務を自動化す...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cb29c3208ac188dad5f1</id>
     <title>OCIのノーコード・エージェントビルダー『Agent Factory』がリリース！触ってみた</title>
     <link rel="alternate" href="https://qiita.com/yushibats/items/cb29c3208ac188dad5f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -864,16 +874,6 @@ OCI Market...</summary>
 「Generative UI」という単語をご存知でしょうか？
 Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:382920eb22ed3e645257</id>
-    <title>AIエージェントと協働するオフィスワーク2026</title>
-    <link rel="alternate" href="https://qiita.com/hirokidaichi/items/382920eb22ed3e645257?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-04T19:08:49+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T09:54:55+09:00&lt;br/&gt;Updated: 2026-02-04T19:08:49+09:00&lt;br/&gt;はじめに
-
-前回の記事では、Claude CodeとMarpを組み合わせてスライドを作る方法を紹介しました。
-また、1年以上前にn8nを使った「しらせくん」という自動化システムについて書きました。メールの分類、カレンダーの色付け、リマインド通知など、定期的な業務を自動化す...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f66918b0a5dc59db9017</id>
@@ -910,6 +910,15 @@ The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハ�
 知らなくてもコードは書けますが、知っておくとエラーが起きた時の対応が早くなったり、コードを書く以外の部分で役に立つと思います。
 
 1. Webアプリケーショ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:bbc8671d4295139c6e6d</id>
+    <title>Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。</title>
+    <link rel="alternate" href="https://qiita.com/yosim/items/bbc8671d4295139c6e6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-03T11:25:59+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yosim&quot;&gt;yosim&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T11:25:59+09:00&lt;br/&gt;Updated: 2026-02-03T11:25:59+09:00&lt;br/&gt;最近インパクトの大きいApple Silicon向けフレームワークが出現しました。「vllm-mlx」です。
+
+　一言で言うとvllmライクなインターフェースをApple Silicon向けに提供するもので、MacのGPU（Metal/MPS）アクセラレーションによる...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:176fb69b1be583c14a4a</id>
@@ -954,15 +963,6 @@ JavaScriptの基本文法（関数、オブジェクト、コールバック）�
 Node.jsをインストールしてnpmコマンドを使ったことがある方
 Web API（REST API）という言葉を聞いたことがある方
 バックエンド開発に興味があり、最...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bbc8671d4295139c6e6d</id>
-    <title>Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。</title>
-    <link rel="alternate" href="https://qiita.com/yosim/items/bbc8671d4295139c6e6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-03T11:25:59+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yosim&quot;&gt;yosim&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T11:25:59+09:00&lt;br/&gt;Updated: 2026-02-03T11:25:59+09:00&lt;br/&gt;最近インパクトの大きいApple Silicon向けフレームワークが出現しました。「vllm-mlx」です。
-
-　一言で言うとvllmライクなインターフェースをApple Silicon向けに提供するもので、MacのGPU（Metal/MPS）アクセラレーションによる...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8096f9d9ccbe4666d85d</id>
@@ -1530,6 +1530,19 @@ C++の代わりにRustで記述する
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f036cf3ac3381e6f4438</id>
+    <title>Windows アプリの開発手段の選択肢をまとめてみたの続き</title>
+    <link rel="alternate" href="https://qiita.com/tinymouse/items/f036cf3ac3381e6f4438?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-02T09:05:07+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tinymouse&quot;&gt;tinymouse&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T09:00:06+09:00&lt;br/&gt;Updated: 2026-02-02T09:05:07+09:00&lt;br/&gt;はじめに
+Windows アプリの開発手段は幾つもあります。新たにアプリを作るときにどれを選ぶのがいいのか、まとめてみました。
+Windows アプリの開発手段の選択肢をまとめてみた #.NET - Qiita
+この続きです。
+
+Windows アプリの種類と概要
+前回の...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:975d74e93f73750b255d</id>
     <title>バックエンドとフロントエンドがつながっている箇所</title>
     <link rel="alternate" href="https://qiita.com/skill_toy/items/975d74e93f73750b255d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1638,19 +1651,6 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:f036cf3ac3381e6f4438</id>
-    <title>Windows アプリの開発手段の選択肢をまとめてみたの続き</title>
-    <link rel="alternate" href="https://qiita.com/tinymouse/items/f036cf3ac3381e6f4438?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-02T09:05:07+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tinymouse&quot;&gt;tinymouse&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T09:00:06+09:00&lt;br/&gt;Updated: 2026-02-02T09:05:07+09:00&lt;br/&gt;はじめに
-Windows アプリの開発手段は幾つもあります。新たにアプリを作るときにどれを選ぶのがいいのか、まとめてみました。
-Windows アプリの開発手段の選択肢をまとめてみた #.NET - Qiita
-この続きです。
-
-Windows アプリの種類と概要
-前回の...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:241640a492adc2b5fc6e</id>
     <title>FPGAボード Shrike Liteをお試し</title>
     <link rel="alternate" href="https://qiita.com/Lathe/items/241640a492adc2b5fc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1681,6 +1681,17 @@ FPGAとマイコンを1ボードに搭載
     <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
 そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
 Google Colabで手軽に試せるの...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9c7bd5791f33b2c034cb</id>
+    <title>Qiitaでの発信をきっかけに書籍を出版しました</title>
+    <link rel="alternate" href="https://qiita.com/c60evaporator/items/9c7bd5791f33b2c034cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-03T08:26:05+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/c60evaporator&quot;&gt;c60evaporator&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T08:26:05+09:00&lt;br/&gt;Updated: 2026-02-03T08:26:05+09:00&lt;br/&gt;はじめに
+はじめまして！中村謙太（@c60evaporator）と申します。
+以下のPodcastでもご紹介頂きましたが、このたびQiitaでの発信をきっかけに、『まるごと学べる 異常検知の実践知』というタイトルの書籍を出版させて頂きました
+
+上記のPodcastを補...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:442208ab53b4fe5b6286</id>
@@ -1763,15 +1774,15 @@ Claude Codeには日頃から大変お世話になっていますが、完全に
 完了時...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:9c7bd5791f33b2c034cb</id>
-    <title>Qiitaでの発信をきっかけに書籍を出版しました</title>
-    <link rel="alternate" href="https://qiita.com/c60evaporator/items/9c7bd5791f33b2c034cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-03T08:26:05+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/c60evaporator&quot;&gt;c60evaporator&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T08:26:05+09:00&lt;br/&gt;Updated: 2026-02-03T08:26:05+09:00&lt;br/&gt;はじめに
-はじめまして！中村謙太（@c60evaporator）と申します。
-以下のPodcastでもご紹介頂きましたが、このたびQiitaでの発信をきっかけに、『まるごと学べる 異常検知の実践知』というタイトルの書籍を出版させて頂きました
-
-上記のPodcastを補...</summary>
+    <id>tag:qiita.com,2026:2f92ad7f7bee9f4b9f51</id>
+    <title>URLだけで進捗共有できるタスク管理ツールを作った話（社内チャット向け）</title>
+    <link rel="alternate" href="https://qiita.com/uni928/items/2f92ad7f7bee9f4b9f51?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-03T15:05:46+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uni928&quot;&gt;uni928&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T12:18:03+09:00&lt;br/&gt;Updated: 2026-02-03T15:05:46+09:00&lt;br/&gt;「今どこまで終わってる？」「どのタスクがデバッグ待ち？」
+そんなやり取りを 説明なし・スクショなし・URLだけ で済ませたくて、
+URLクエリだけで状態を保持するタスク管理ツールを作りました。
+👇 実際に使えるページはこちら
+https://uni928.github.io...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a0a3c16b5f9950453af6</id>
@@ -1874,6 +1885,14 @@ Power Automate を触っていて実行結果（履歴）を確認してみる�
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0d6797b848ed41d0e697</id>
+    <title>React 19の型定義では「FC」と「ReactNodeを返す関数」が違う</title>
+    <link rel="alternate" href="https://qiita.com/uhyo/items/0d6797b848ed41d0e697?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-04T16:18:00+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T12:16:02+09:00&lt;br/&gt;Updated: 2026-02-04T16:18:00+09:00&lt;br/&gt;対象読者: 現在React 18以前を使っていて、React 19にそのうち上げたいと思っている方。React 19の型定義の背景を知りたい方
+みなさんこんにちは。筆者は最近気づいたのですが、React 18から19に上げるときに問題になる（型エラーになる）パターンがありま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6618c025de5715ed35d3</id>
     <title>Claude Codeを使用する上で設定したほうが良いファイル5選</title>
     <link rel="alternate" href="https://qiita.com/TatApp/items/6618c025de5715ed35d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1882,17 +1901,6 @@ Power Automate を触っていて実行結果（履歴）を確認してみる�
 こんにちは。
 AIを使いこなせるようになりたいと思いつつ、なんだかんだ自分でコードを書いてしまい、なかなかAI技術が向上せずに2026年を迎えた者です。
 2026年こそはAIを使いこなせるようになりたいと...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2f92ad7f7bee9f4b9f51</id>
-    <title>URLだけで進捗共有できるタスク管理ツールを作った話（社内チャット向け）</title>
-    <link rel="alternate" href="https://qiita.com/uni928/items/2f92ad7f7bee9f4b9f51?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-03T15:05:46+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uni928&quot;&gt;uni928&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T12:18:03+09:00&lt;br/&gt;Updated: 2026-02-03T15:05:46+09:00&lt;br/&gt;「今どこまで終わってる？」「どのタスクがデバッグ待ち？」
-そんなやり取りを 説明なし・スクショなし・URLだけ で済ませたくて、
-URLクエリだけで状態を保持するタスク管理ツールを作りました。
-👇 実際に使えるページはこちら
-https://uni928.github.io...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:12ba1c97612fa0f12acd</id>
@@ -1996,14 +2004,6 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
     <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:22:12+09:00&lt;br/&gt;Updated: 2026-01-04T17:22:12+09:00&lt;br/&gt;この1週間、GitHubで複数のプロジェクトを同時並行で進め、AIを活用することで個人レベルでは不可能だったアウトプット量と質を実現しました。その軌跡と、それを可能にした「AI並列開発」の力について共有します。
 
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0d6797b848ed41d0e697</id>
-    <title>React 19の型定義では「FC」と「ReactNodeを返す関数」が違う</title>
-    <link rel="alternate" href="https://qiita.com/uhyo/items/0d6797b848ed41d0e697?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-04T16:18:00+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T12:16:02+09:00&lt;br/&gt;Updated: 2026-02-04T16:18:00+09:00&lt;br/&gt;対象読者: 現在React 18以前を使っていて、React 19にそのうち上げたいと思っている方。React 19の型定義の背景を知りたい方
-みなさんこんにちは。筆者は最近気づいたのですが、React 18から19に上げるときに問題になる（型エラーになる）パターンがありま...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:dbf23a45c247723f8fe1</id>
