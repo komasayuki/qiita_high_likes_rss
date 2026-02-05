@@ -281,7 +281,7 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
     <title>【前編】新人エンジニアは、なぜ「止まってしまう」のか。─教える側の“死角”</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/0d772d4fdd8a05f5cc8d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-03T14:07:59+09:00</updated>
-    <summary type="html">Likes: 105&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T12:53:59+09:00&lt;br/&gt;Updated: 2026-02-03T14:07:59+09:00&lt;br/&gt;はじめまして。
+    <summary type="html">Likes: 106&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T12:53:59+09:00&lt;br/&gt;Updated: 2026-02-03T14:07:59+09:00&lt;br/&gt;はじめまして。
 株式会社PRUMでエンジニアをしている人見です。
 日々、プログラミング学習や実務の中で
 つまずきやすいポイントを整理して発信しています。
@@ -676,6 +676,18 @@ https://160.16.12...</summary>
 米国防総省のARPA（高等研究計画局）という機関が4台のコンピュータを繋いだのがはじまりです。3つの大学と、スタンフォード研究所（SRI）などの研究機関で繋がれており、ARPAN...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:382920eb22ed3e645257</id>
+    <title>AIエージェントと協働するオフィスワーク2026</title>
+    <link rel="alternate" href="https://qiita.com/hirokidaichi/items/382920eb22ed3e645257?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-04T19:08:49+09:00</updated>
+    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T09:54:55+09:00&lt;br/&gt;Updated: 2026-02-04T19:08:49+09:00&lt;br/&gt;はじめに
+「山田さんからのメールに返信して」
+そう言うだけで、AIエージェントがメールを取得し、カレンダーで空きを確認し、返信案を作成してくれます。承認ボタンを押せば送信完了。
+これが、私の日常になりました。
+
+メールの確認、Slackの未返信チェック、Notionでのタ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3ae7541a112833cad737</id>
     <title>【ポケモン×Java】知識編 ERROR #7  ## 論理エラーは「止まらない」― だから気づけない？！</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/3ae7541a112833cad737?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -692,16 +704,13 @@ PRUMについて気になった方は、
 この章では、論...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:382920eb22ed3e645257</id>
-    <title>AIエージェントと協働するオフィスワーク2026</title>
-    <link rel="alternate" href="https://qiita.com/hirokidaichi/items/382920eb22ed3e645257?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-04T19:08:49+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T09:54:55+09:00&lt;br/&gt;Updated: 2026-02-04T19:08:49+09:00&lt;br/&gt;はじめに
-「山田さんからのメールに返信して」
-そう言うだけで、AIエージェントがメールを取得し、カレンダーで空きを確認し、返信案を作成してくれます。承認ボタンを押せば送信完了。
-これが、私の日常になりました。
+    <id>tag:qiita.com,2026:bbc8671d4295139c6e6d</id>
+    <title>Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。</title>
+    <link rel="alternate" href="https://qiita.com/yosim/items/bbc8671d4295139c6e6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-03T11:25:59+09:00</updated>
+    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yosim&quot;&gt;yosim&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T11:25:59+09:00&lt;br/&gt;Updated: 2026-02-03T11:25:59+09:00&lt;br/&gt;最近インパクトの大きいApple Silicon向けフレームワークが出現しました。「vllm-mlx」です。
 
-メールの確認、Slackの未返信チェック、Notionでのタ...</summary>
+　一言で言うとvllmライクなインターフェースをApple Silicon向けに提供するもので、MacのGPU（Metal/MPS）アクセラレーションによる...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:61ce0d16d6e59cb567be</id>
@@ -738,15 +747,6 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 
 1年間のサマリー
 最初はQiitaのContributionと記事...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bbc8671d4295139c6e6d</id>
-    <title>Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。</title>
-    <link rel="alternate" href="https://qiita.com/yosim/items/bbc8671d4295139c6e6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-03T11:25:59+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yosim&quot;&gt;yosim&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T11:25:59+09:00&lt;br/&gt;Updated: 2026-02-03T11:25:59+09:00&lt;br/&gt;最近インパクトの大きいApple Silicon向けフレームワークが出現しました。「vllm-mlx」です。
-
-　一言で言うとvllmライクなインターフェースをApple Silicon向けに提供するもので、MacのGPU（Metal/MPS）アクセラレーションによる...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
@@ -1110,6 +1110,17 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:14554853372f33c3374b</id>
+    <title>エンジニアは、なぜ生成AIで仕事が楽にならないのか</title>
+    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/14554853372f33c3374b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-05T15:02:37+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T10:29:55+09:00&lt;br/&gt;Updated: 2026-02-05T15:02:37+09:00&lt;br/&gt;はじめに
+「生成AIで開発が楽になる」「バイブコーディングで生産性が爆上がりした」
+そんな話を聞くたびに、こう思ったことはないでしょうか。
+「いや、そこまで楽になってないが？むしろ忙しくなった」
+実際、生成AIでコーディング作業が削れた代わりに、別のコストが前面に出てきま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b1726a7a6054ed7e64df</id>
     <title>アーキテクチャの本質は共通している？最も大切な責務分離という考え方</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/b1726a7a6054ed7e64df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1132,17 +1143,6 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
     <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T20:57:55+09:00&lt;br/&gt;Updated: 2026-01-06T19:49:00+09:00&lt;br/&gt;はじめに
 表題のとおり、Windows OS を USB メモリ上に導入して、任意の PC を使って利用するためのノウハウを共有したいと思います。
 本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:14554853372f33c3374b</id>
-    <title>エンジニアは、なぜ生成AIで仕事が楽にならないのか</title>
-    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/14554853372f33c3374b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-05T15:02:37+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T10:29:55+09:00&lt;br/&gt;Updated: 2026-02-05T15:02:37+09:00&lt;br/&gt;はじめに
-「生成AIで開発が楽になる」「バイブコーディングで生産性が爆上がりした」
-そんな話を聞くたびに、こう思ったことはないでしょうか。
-「いや、そこまで楽になってないが？むしろ忙しくなった」
-実際、生成AIでコーディング作業が削れた代わりに、別のコストが前面に出てきま...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
@@ -1425,6 +1425,14 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0d6797b848ed41d0e697</id>
+    <title>React 19の型定義では「FC」と「ReactNodeを返す関数」が違う</title>
+    <link rel="alternate" href="https://qiita.com/uhyo/items/0d6797b848ed41d0e697?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-04T16:18:00+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T12:16:02+09:00&lt;br/&gt;Updated: 2026-02-04T16:18:00+09:00&lt;br/&gt;対象読者: 現在React 18以前を使っていて、React 19にそのうち上げたいと思っている方。React 19の型定義の背景を知りたい方
+みなさんこんにちは。筆者は最近気づいたのですが、React 18から19に上げるときに問題になる（型エラーになる）パターンがありま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f036cf3ac3381e6f4438</id>
     <title>Windows アプリの開発手段の選択肢をまとめてみたの続き</title>
     <link rel="alternate" href="https://qiita.com/tinymouse/items/f036cf3ac3381e6f4438?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1472,14 +1480,6 @@ GitHub Cop...</summary>
 GMOコネクトの大谷です。
 H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」として大きく報じられました。
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0d6797b848ed41d0e697</id>
-    <title>React 19の型定義では「FC」と「ReactNodeを返す関数」が違う</title>
-    <link rel="alternate" href="https://qiita.com/uhyo/items/0d6797b848ed41d0e697?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-04T16:18:00+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T12:16:02+09:00&lt;br/&gt;Updated: 2026-02-04T16:18:00+09:00&lt;br/&gt;対象読者: 現在React 18以前を使っていて、React 19にそのうち上げたいと思っている方。React 19の型定義の背景を知りたい方
-みなさんこんにちは。筆者は最近気づいたのですが、React 18から19に上げるときに問題になる（型エラーになる）パターンがありま...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9c7bd5791f33b2c034cb</id>
@@ -1827,6 +1827,17 @@ Claude Codeには日頃から大変お世話になっていますが、完全に
 サービスとしてCloudFront + S3 + Lambda + APIGatewayを使用したので４つのサービスの...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a0a3c16b5f9950453af6</id>
+    <title>何だか疲れたときに見る記事</title>
+    <link rel="alternate" href="https://qiita.com/kyoooohei_y/items/a0a3c16b5f9950453af6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-02T22:04:33+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyoooohei_y&quot;&gt;kyoooohei_y&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T18:52:00+09:00&lt;br/&gt;Updated: 2026-02-02T22:04:33+09:00&lt;br/&gt;何だか疲れたなと思うけど、もう少し頑張らないといけない。
+そんなときに見て、自分を頑張らせる工夫をまとめた記事です。
+
+背景
+後輩と面談しているときに、今のタスクが何だか疲れるんですと。内容としては、老朽化システムのコンバートで、処理の長い関数をあれこれ見ているようでした。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e85b46678a8700d564cd</id>
     <title>AWSクレジットが使える！ BedrockのKimi K2を調教して、StrandsのClaudeコストを節約しよう</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/e85b46678a8700d564cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1914,17 +1925,6 @@ Pythonで学ぶ Webアプリのセキュアコーディング 脆弱性の見つ
 Power Automate を触っていて実行結果（履歴）を確認してみると、以下の画像の「出力」のように、何やら不思議な文字列の「かたまり」を目にしたことがあるかもしれません。
 
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a0a3c16b5f9950453af6</id>
-    <title>何だか疲れたときに見る記事</title>
-    <link rel="alternate" href="https://qiita.com/kyoooohei_y/items/a0a3c16b5f9950453af6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-02T22:04:33+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyoooohei_y&quot;&gt;kyoooohei_y&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T18:52:00+09:00&lt;br/&gt;Updated: 2026-02-02T22:04:33+09:00&lt;br/&gt;何だか疲れたなと思うけど、もう少し頑張らないといけない。
-そんなときに見て、自分を頑張らせる工夫をまとめた記事です。
-
-背景
-後輩と面談しているときに、今のタスクが何だか疲れるんですと。内容としては、老朽化システムのコンバートで、処理の長い関数をあれこれ見ているようでした。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:12ba1c97612fa0f12acd</id>
@@ -2133,6 +2133,17 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 そんな私が、生成AI（ChatGPT / Cla...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
+    <title>【Claude Code】 /insights コマンドがおもしろい</title>
+    <link rel="alternate" href="https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-04T19:51:48+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T19:51:48+09:00&lt;br/&gt;Updated: 2026-02-04T19:51:48+09:00&lt;br/&gt;はじめに
+今朝（2/4 朝）、以下のツイートを見かけました。
+
+Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレポートを出してくれる /insights コマンドが追加されていたようです。
+私は24時間使いまわすほどのヘビーユーザーでは...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:24a60507b75a337ff184</id>
     <title>【時短術】Nano Bananaの画像をパワポの『オブジェクト』として編集する方法（SVG変換）</title>
     <link rel="alternate" href="https://qiita.com/hamham/items/24a60507b75a337ff184?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2229,15 +2240,5 @@ npm i express @s...</summary>
 最近 Cloudflare Workers のデプロイ速度にニヤニヤしてる @guppy0356 です。
 Mozilla Pocket が 2025/07/08 に終了してしまい「じゃあ自分専用の保存ツール作るか〜」ってなったのが発端です。
   https://...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:06015037ea758b518c6d</id>
-    <title>【Claude Code】非エンジニアが1行もコードを書かずにAI搭載の「画像トリミングツール」を作った話</title>
-    <link rel="alternate" href="https://qiita.com/ot12/items/06015037ea758b518c6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T06:48:35+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T06:42:58+09:00&lt;br/&gt;Updated: 2026-01-20T06:48:35+09:00&lt;br/&gt;最近よく聞く生成AIで誰でもアプリ開発という話題。
-正直なところ、「そうは言っても、結局は専門知識がないと途中で詰むんでしょ？」と半信半疑でスルーしていました。
-ですが、年末年始の時間を使って Claude Code を実際に触ってみて、その考えを改めました。
-疑ってかかっ...</summary>
   </entry>
 </feed>
