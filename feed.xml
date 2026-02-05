@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-02-05T10:23:22+09:00</updated>
+  <updated>2026-02-05T15:02:37+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -304,7 +304,7 @@ PRUMについて気になった方は...</summary>
     <title>【前編】新人エンジニアは、なぜ「止まってしまう」のか。─教える側の“死角”</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/0d772d4fdd8a05f5cc8d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-03T14:07:59+09:00</updated>
-    <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T12:53:59+09:00&lt;br/&gt;Updated: 2026-02-03T14:07:59+09:00&lt;br/&gt;はじめまして。
+    <summary type="html">Likes: 102&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T12:53:59+09:00&lt;br/&gt;Updated: 2026-02-03T14:07:59+09:00&lt;br/&gt;はじめまして。
 株式会社PRUMでエンジニアをしている人見です。
 日々、プログラミング学習や実務の中で
 つまずきやすいポイントを整理して発信しています。
@@ -339,6 +339,22 @@ PRUMについて気になった方は、
 A...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4daa244550e2a4388d26</id>
+    <title>2026年、AWS LambdaはVSCodeで開発するのがナウい</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-03T20:52:34+09:00</updated>
+    <summary type="html">Likes: 92&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T20:52:34+09:00&lt;br/&gt;Updated: 2026-02-03T20:52:34+09:00&lt;br/&gt;久しぶりにLambdaをマネージメントコンソールで新規作成したのですが、見慣れないボタンが。
+
+「Open in Visual Studio Code」？？
+興味本位でやってみます。
+
+事前準備
+ローカル環境を準備します。
+
+VSCode
+AWS Toolkit for V...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e88aabbdfa8ddd94810a</id>
     <title>『単体テストの考え方/使い方』が良すぎた</title>
     <link rel="alternate" href="https://qiita.com/ikenohotori/items/e88aabbdfa8ddd94810a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -355,22 +371,6 @@ A...</summary>
     <updated>2026-01-13T22:59:41+09:00</updated>
     <summary type="html">Likes: 92&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
 またなんか無限レンダリングされるとかなんか2回...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4daa244550e2a4388d26</id>
-    <title>2026年、AWS LambdaはVSCodeで開発するのがナウい</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-03T20:52:34+09:00</updated>
-    <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T20:52:34+09:00&lt;br/&gt;Updated: 2026-02-03T20:52:34+09:00&lt;br/&gt;久しぶりにLambdaをマネージメントコンソールで新規作成したのですが、見慣れないボタンが。
-
-「Open in Visual Studio Code」？？
-興味本位でやってみます。
-
-事前準備
-ローカル環境を準備します。
-
-VSCode
-AWS Toolkit for V...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
@@ -728,6 +728,18 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 最初はQiitaのContributionと記事...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:382920eb22ed3e645257</id>
+    <title>AIエージェントと協働するオフィスワーク2026</title>
+    <link rel="alternate" href="https://qiita.com/hirokidaichi/items/382920eb22ed3e645257?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-04T19:08:49+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T09:54:55+09:00&lt;br/&gt;Updated: 2026-02-04T19:08:49+09:00&lt;br/&gt;はじめに
+「山田さんからのメールに返信して」
+そう言うだけで、AIエージェントがメールを取得し、カレンダーで空きを確認し、返信案を作成してくれます。承認ボタンを押せば送信完了。
+これが、私の日常になりました。
+
+メールの確認、Slackの未返信チェック、Notionでのタ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
     <title>個人開発「ひたすら数学」作ってリリースしてみた iOS/Android</title>
     <link rel="alternate" href="https://qiita.com/keitaMax/items/eba4cc53538a37121ede?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -776,16 +788,6 @@ Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、い
 
 CLAUDE.md
 サブエー...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:382920eb22ed3e645257</id>
-    <title>AIエージェントと協働するオフィスワーク2026</title>
-    <link rel="alternate" href="https://qiita.com/hirokidaichi/items/382920eb22ed3e645257?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-04T19:08:49+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirokidaichi&quot;&gt;hirokidaichi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T09:54:55+09:00&lt;br/&gt;Updated: 2026-02-04T19:08:49+09:00&lt;br/&gt;はじめに
-
-前回の記事では、Claude CodeとMarpを組み合わせてスライドを作る方法を紹介しました。
-また、1年以上前にn8nを使った「しらせくん」という自動化システムについて書きました。メールの分類、カレンダーの色付け、リマインド通知など、定期的な業務を自動化す...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:351912f61ffe1b177a68</id>
@@ -1160,6 +1162,17 @@ Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sakaimaging&quot;&gt;sakaimaging&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T13:24:45+09:00&lt;br/&gt;Updated: 2026-01-03T19:35:29+09:00&lt;br/&gt;はじめに
 Mermaid では、flowchart の矢印に animation を指定することで、通信が流れる様子をアニメーションとして表現できます。
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:14554853372f33c3374b</id>
+    <title>エンジニアは、なぜ生成AIで仕事が楽にならないのか</title>
+    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/14554853372f33c3374b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-05T15:02:37+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T10:29:55+09:00&lt;br/&gt;Updated: 2026-02-05T15:02:37+09:00&lt;br/&gt;はじめに
+「生成AIで開発が楽になる」「バイブコーディングで生産性が爆上がりした」
+そんな話を聞くたびに、こう思ったことはないでしょうか。
+「いや、そこまで楽になってないが？むしろ忙しくなった」
+実際、生成AIでコーディング作業が削れた代わりに、別のコストが前面に出てきま...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b0b8f28990b19e2a1b04</id>
@@ -2120,6 +2133,15 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 そんな私が、生成AI（ChatGPT / Cla...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:24a60507b75a337ff184</id>
+    <title>【時短術】Nano Bananaの画像をパワポの『オブジェクト』として編集する方法（SVG変換）</title>
+    <link rel="alternate" href="https://qiita.com/hamham/items/24a60507b75a337ff184?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-04T09:04:51+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hamham&quot;&gt;hamham&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T09:04:51+09:00&lt;br/&gt;Updated: 2026-02-04T09:04:51+09:00&lt;br/&gt;はじめに
+「Nano Bananaで生成したスライド画像、クオリティは高いんだけど、あと少しだけ文字を直したい…」「図の配置を微調整したい…」と思ったことはありませんか？
+画像（PNG/JPG）のままだとパワポ上で細かな編集はできませんが、一度SVG形式に変換することで、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1f73ed7d1d3e6af932a8</id>
     <title>プロンプトで祈るのはもうやめる。Outlines/Guidance で LLM の出力を 100% 制御する技術</title>
     <link rel="alternate" href="https://qiita.com/harusato2806/items/1f73ed7d1d3e6af932a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2214,33 +2236,5 @@ Mozilla Pocket が 2025/07/08 に終了してしまい「じゃあ自分専用�
     <updated>2026-01-19T09:38:53+09:00</updated>
     <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takatoshiroto&quot;&gt;takatoshiroto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T09:38:53+09:00&lt;br/&gt;Updated: 2026-01-19T09:38:53+09:00&lt;br/&gt;「田中さん、顧客リストなんだけど、『トヨタ』『トヨタ自動車』『トヨタ自動車(株)』って全部同じ会社だよね?これ、集計する前に手作業で直さないと...」
 画面に表示された顧客リストには、同じ企業を指しているはずなのに、入力者によって表記が異なる「表記揺れ」が無数に存在していま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e8c76a30f6529c7af739</id>
-    <title>SaaS (クラウドサービス) の導入って、どうなったら成功なんだろう？</title>
-    <link rel="alternate" href="https://qiita.com/yugoes1021/items/e8c76a30f6529c7af739?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-18T09:47:56+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yugoes1021&quot;&gt;yugoes1021&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T20:53:48+09:00&lt;br/&gt;Updated: 2026-01-18T09:47:56+09:00&lt;br/&gt;私の結論（解）を先に示しておきます
-「サービス導入後に仕事（作業量）が増えていたら、失敗」
-どうしてそう言えるのか。説明していきましょう。
-
-はじめに
-仕事で Power BI の初学者向け研修を企業さんから請け負ったり、コンサルティングをやっていると、実に様々な質問をい...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f503c0824abce0921f12</id>
-    <title>ポケモンで学ぶ機械学習手法</title>
-    <link rel="alternate" href="https://qiita.com/qwer123123/items/f503c0824abce0921f12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-16T09:03:39+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/qwer123123&quot;&gt;qwer123123&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T09:03:39+09:00&lt;br/&gt;Updated: 2026-01-16T09:03:39+09:00&lt;br/&gt;•	回帰
-線形回帰／決定木／勾配ブースティング
-•	分類
-ロジスティック回帰／SVM／決定木／勾配ブースティング
-•	教師なし
-k-means／PCA
-前提：使うデータ
-各ポケモンを次の数値ベクトルで表す。
-X = [HP, 攻撃, 防御, 特攻, 特防, 素早さ]
-補助的...</summary>
   </entry>
 </feed>
