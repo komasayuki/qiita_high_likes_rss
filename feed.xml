@@ -708,7 +708,7 @@ PRUMについて気になった方は、
     <title>Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。</title>
     <link rel="alternate" href="https://qiita.com/yosim/items/bbc8671d4295139c6e6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-03T11:25:59+09:00</updated>
-    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yosim&quot;&gt;yosim&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T11:25:59+09:00&lt;br/&gt;Updated: 2026-02-03T11:25:59+09:00&lt;br/&gt;最近インパクトの大きいApple Silicon向けフレームワークが出現しました。「vllm-mlx」です。
+    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yosim&quot;&gt;yosim&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T11:25:59+09:00&lt;br/&gt;Updated: 2026-02-03T11:25:59+09:00&lt;br/&gt;最近インパクトの大きいApple Silicon向けフレームワークが出現しました。「vllm-mlx」です。
 
 　一言で言うとvllmライクなインターフェースをApple Silicon向けに提供するもので、MacのGPU（Metal/MPS）アクセラレーションによる...</summary>
   </entry>
@@ -1381,6 +1381,14 @@ Z80はザイログ自身が製造したオリジナル品の他に、セカン�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0d6797b848ed41d0e697</id>
+    <title>React 19の型定義では「FC」と「ReactNodeを返す関数」が違う</title>
+    <link rel="alternate" href="https://qiita.com/uhyo/items/0d6797b848ed41d0e697?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-04T16:18:00+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T12:16:02+09:00&lt;br/&gt;Updated: 2026-02-04T16:18:00+09:00&lt;br/&gt;対象読者: 現在React 18以前を使っていて、React 19にそのうち上げたいと思っている方。React 19の型定義の背景を知りたい方
+みなさんこんにちは。筆者は最近気づいたのですが、React 18から19に上げるときに問題になる（型エラーになる）パターンがありま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a4ab780761bbf734e473</id>
     <title>Claude Codeの自動承認モードでホームディレクトリを吹き飛ばされたくない人へ【Docker Sandboxes】</title>
     <link rel="alternate" href="https://qiita.com/sijiaoh/items/a4ab780761bbf734e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1423,14 +1431,6 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 フルサーバーレスで維持費激安なのが嬉しいポイントです。
 
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0d6797b848ed41d0e697</id>
-    <title>React 19の型定義では「FC」と「ReactNodeを返す関数」が違う</title>
-    <link rel="alternate" href="https://qiita.com/uhyo/items/0d6797b848ed41d0e697?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-04T16:18:00+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T12:16:02+09:00&lt;br/&gt;Updated: 2026-02-04T16:18:00+09:00&lt;br/&gt;対象読者: 現在React 18以前を使っていて、React 19にそのうち上げたいと思っている方。React 19の型定義の背景を知りたい方
-みなさんこんにちは。筆者は最近気づいたのですが、React 18から19に上げるときに問題になる（型エラーになる）パターンがありま...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f036cf3ac3381e6f4438</id>
@@ -2030,6 +2030,28 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
+    <title>【Claude Code】 /insights コマンドがおもしろい</title>
+    <link rel="alternate" href="https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-04T19:51:48+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T19:51:48+09:00&lt;br/&gt;Updated: 2026-02-04T19:51:48+09:00&lt;br/&gt;はじめに
+今朝（2/4 朝）、以下のツイートを見かけました。
+
+Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレポートを出してくれる /insights コマンドが追加されていたようです。
+私は24時間使いまわすほどのヘビーユーザーでは...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:205aa17d0acc88a34bf4</id>
+    <title>UIデザインから実装までをAIエージェントに丸投げしてみた（ChatGPT → Google Stitch → Antigravity × Claude Opus 4.5）</title>
+    <link rel="alternate" href="https://qiita.com/kunitomo926/items/205aa17d0acc88a34bf4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-04T08:21:15+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kunitomo926&quot;&gt;kunitomo926&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T08:21:15+09:00&lt;br/&gt;Updated: 2026-02-04T08:21:15+09:00&lt;br/&gt;はじめに
+本記事は、生成 AI を使った開発フローに興味のあるエンジニア向けの内容です。
+
+最近の AI の進化は凄まじい。さらに Google Stitch を使うと、いい感じの UI を作成できるという話も耳にしました。
+そこで、 UI デザインから実装までを AI ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:dbf23a45c247723f8fe1</id>
     <title>問い合わせ対応脱属人化の第一歩「個人宛に届いたteamsメッセージをチームに転送するPowerAutomate」</title>
     <link rel="alternate" href="https://qiita.com/kama_bizdev/items/dbf23a45c247723f8fe1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2133,17 +2155,6 @@ CSSだけで作れる、ちょっと楽しくて、すぐ使えて、
 そんな私が、生成AI（ChatGPT / Cla...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
-    <title>【Claude Code】 /insights コマンドがおもしろい</title>
-    <link rel="alternate" href="https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-04T19:51:48+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T19:51:48+09:00&lt;br/&gt;Updated: 2026-02-04T19:51:48+09:00&lt;br/&gt;はじめに
-今朝（2/4 朝）、以下のツイートを見かけました。
-
-Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレポートを出してくれる /insights コマンドが追加されていたようです。
-私は24時間使いまわすほどのヘビーユーザーでは...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:24a60507b75a337ff184</id>
     <title>【時短術】Nano Bananaの画像をパワポの『オブジェクト』として編集する方法（SVG変換）</title>
     <link rel="alternate" href="https://qiita.com/hamham/items/24a60507b75a337ff184?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2151,17 +2162,6 @@ Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレ
     <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hamham&quot;&gt;hamham&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T09:04:51+09:00&lt;br/&gt;Updated: 2026-02-04T09:04:51+09:00&lt;br/&gt;はじめに
 「Nano Bananaで生成したスライド画像、クオリティは高いんだけど、あと少しだけ文字を直したい…」「図の配置を微調整したい…」と思ったことはありませんか？
 画像（PNG/JPG）のままだとパワポ上で細かな編集はできませんが、一度SVG形式に変換することで、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:205aa17d0acc88a34bf4</id>
-    <title>UIデザインから実装までをAIエージェントに丸投げしてみた（ChatGPT → Google Stitch → Antigravity × Claude Opus 4.5）</title>
-    <link rel="alternate" href="https://qiita.com/kunitomo926/items/205aa17d0acc88a34bf4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-04T08:21:15+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kunitomo926&quot;&gt;kunitomo926&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T08:21:15+09:00&lt;br/&gt;Updated: 2026-02-04T08:21:15+09:00&lt;br/&gt;はじめに
-本記事は、生成 AI を使った開発フローに興味のあるエンジニア向けの内容です。
-
-最近の AI の進化は凄まじい。さらに Google Stitch を使うと、いい感じの UI を作成できるという話も耳にしました。
-そこで、 UI デザインから実装までを AI ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1f73ed7d1d3e6af932a8</id>
