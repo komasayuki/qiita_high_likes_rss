@@ -319,7 +319,7 @@ PRUMについて気になった方は...</summary>
     <title>2026年、AWS LambdaはVSCodeで開発するのがナウい</title>
     <link rel="alternate" href="https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-03T20:52:34+09:00</updated>
-    <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T20:52:34+09:00&lt;br/&gt;Updated: 2026-02-03T20:52:34+09:00&lt;br/&gt;久しぶりにLambdaをマネージメントコンソールで新規作成したのですが、見慣れないボタンが。
+    <summary type="html">Likes: 101&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T20:52:34+09:00&lt;br/&gt;Updated: 2026-02-03T20:52:34+09:00&lt;br/&gt;久しぶりにLambdaをマネージメントコンソールで新規作成したのですが、見慣れないボタンが。
 
 「Open in Visual Studio Code」？？
 興味本位でやってみます。
@@ -1352,6 +1352,14 @@ Gitの設計上の課題を、現代的なモデルで再設計した...</summar
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0d6797b848ed41d0e697</id>
+    <title>React 19の型定義では「FC」と「ReactNodeを返す関数」が違う</title>
+    <link rel="alternate" href="https://qiita.com/uhyo/items/0d6797b848ed41d0e697?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-04T16:18:00+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T12:16:02+09:00&lt;br/&gt;Updated: 2026-02-04T16:18:00+09:00&lt;br/&gt;対象読者: 現在React 18以前を使っていて、React 19にそのうち上げたいと思っている方。React 19の型定義の背景を知りたい方
+みなさんこんにちは。筆者は最近気づいたのですが、React 18から19に上げるときに問題になる（型エラーになる）パターンがありま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:84e0bc99e2f011e9dc77</id>
     <title>昔の8ビットパソコンはどこのZ80を使っていたのか</title>
     <link rel="alternate" href="https://qiita.com/yunkya2/items/84e0bc99e2f011e9dc77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1379,14 +1387,6 @@ Z80はザイログ自身が製造したオリジナル品の他に、セカン�
 本記事は、JavaエンジニアがTypeScriptを扱う際に感じた違いを解説した記事です。
 これまで実務や個人開発でTypeScriptに触れていましたが、Javaの感覚でコードを読み進めていくと、TypeScript特有の概念や挙動に戸惑うことがありました。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0d6797b848ed41d0e697</id>
-    <title>React 19の型定義では「FC」と「ReactNodeを返す関数」が違う</title>
-    <link rel="alternate" href="https://qiita.com/uhyo/items/0d6797b848ed41d0e697?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-04T16:18:00+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T12:16:02+09:00&lt;br/&gt;Updated: 2026-02-04T16:18:00+09:00&lt;br/&gt;対象読者: 現在React 18以前を使っていて、React 19にそのうち上げたいと思っている方。React 19の型定義の背景を知りたい方
-みなさんこんにちは。筆者は最近気づいたのですが、React 18から19に上げるときに問題になる（型エラーになる）パターンがありま...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a4ab780761bbf734e473</id>
