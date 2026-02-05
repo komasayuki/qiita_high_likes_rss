@@ -319,7 +319,7 @@ PRUMについて気になった方は...</summary>
     <title>2026年、AWS LambdaはVSCodeで開発するのがナウい</title>
     <link rel="alternate" href="https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-03T20:52:34+09:00</updated>
-    <summary type="html">Likes: 101&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T20:52:34+09:00&lt;br/&gt;Updated: 2026-02-03T20:52:34+09:00&lt;br/&gt;久しぶりにLambdaをマネージメントコンソールで新規作成したのですが、見慣れないボタンが。
+    <summary type="html">Likes: 102&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T20:52:34+09:00&lt;br/&gt;Updated: 2026-02-03T20:52:34+09:00&lt;br/&gt;久しぶりにLambdaをマネージメントコンソールで新規作成したのですが、見慣れないボタンが。
 
 「Open in Visual Studio Code」？？
 興味本位でやってみます。
@@ -649,6 +649,15 @@ AIには、日本語で相当うるさく指...</summary>
 メールの確認、Slackの未返信チェック、Notionでのタ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:bbc8671d4295139c6e6d</id>
+    <title>Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。</title>
+    <link rel="alternate" href="https://qiita.com/yosim/items/bbc8671d4295139c6e6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-03T11:25:59+09:00</updated>
+    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yosim&quot;&gt;yosim&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T11:25:59+09:00&lt;br/&gt;Updated: 2026-02-03T11:25:59+09:00&lt;br/&gt;最近インパクトの大きいApple Silicon向けフレームワークが出現しました。「vllm-mlx」です。
+
+　一言で言うとvllmライクなインターフェースをApple Silicon向けに提供するもので、MacのGPU（Metal/MPS）アクセラレーションによる...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
     <title>https://2685434919 と https://160.16.124.39 はSameOriginか</title>
     <link rel="alternate" href="https://qiita.com/flano_yuki/items/e038be1a66448aaf594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -702,15 +711,6 @@ PRUMについて気になった方は、
 
 はじめに
 この章では、論...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bbc8671d4295139c6e6d</id>
-    <title>Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。</title>
-    <link rel="alternate" href="https://qiita.com/yosim/items/bbc8671d4295139c6e6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-03T11:25:59+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yosim&quot;&gt;yosim&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T11:25:59+09:00&lt;br/&gt;Updated: 2026-02-03T11:25:59+09:00&lt;br/&gt;最近インパクトの大きいApple Silicon向けフレームワークが出現しました。「vllm-mlx」です。
-
-　一言で言うとvllmライクなインターフェースをApple Silicon向けに提供するもので、MacのGPU（Metal/MPS）アクセラレーションによる...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:61ce0d16d6e59cb567be</id>
@@ -1575,6 +1575,17 @@ C++の代わりにRustで記述する
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2f92ad7f7bee9f4b9f51</id>
+    <title>URLだけで進捗共有できるタスク管理ツールを作った話（社内チャット向け）</title>
+    <link rel="alternate" href="https://qiita.com/uni928/items/2f92ad7f7bee9f4b9f51?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-03T15:05:46+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uni928&quot;&gt;uni928&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T12:18:03+09:00&lt;br/&gt;Updated: 2026-02-03T15:05:46+09:00&lt;br/&gt;「今どこまで終わってる？」「どのタスクがデバッグ待ち？」
+そんなやり取りを 説明なし・スクショなし・URLだけ で済ませたくて、
+URLクエリだけで状態を保持するタスク管理ツールを作りました。
+👇 実際に使えるページはこちら
+https://uni928.github.io...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:975d74e93f73750b255d</id>
     <title>バックエンドとフロントエンドがつながっている箇所</title>
     <link rel="alternate" href="https://qiita.com/skill_toy/items/975d74e93f73750b255d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1611,17 +1622,6 @@ C++の代わりにRustで記述する
 バトルの最中にゲームがフリーズする状態。
 止まる以上、「あとで考えよう」はできません。
 この章では、「どう直すか...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2f92ad7f7bee9f4b9f51</id>
-    <title>URLだけで進捗共有できるタスク管理ツールを作った話（社内チャット向け）</title>
-    <link rel="alternate" href="https://qiita.com/uni928/items/2f92ad7f7bee9f4b9f51?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-03T15:05:46+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uni928&quot;&gt;uni928&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T12:18:03+09:00&lt;br/&gt;Updated: 2026-02-03T15:05:46+09:00&lt;br/&gt;「今どこまで終わってる？」「どのタスクがデバッグ待ち？」
-そんなやり取りを 説明なし・スクショなし・URLだけ で済ませたくて、
-URLクエリだけで状態を保持するタスク管理ツールを作りました。
-👇 実際に使えるページはこちら
-https://uni928.github.io...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fbabdb74ccad1ec316c1</id>
@@ -1724,6 +1724,17 @@ FPGAとマイコンを1ボードに搭載
     <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
 そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
 Google Colabで手軽に試せるの...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
+    <title>【Claude Code】 /insights コマンドがおもしろい</title>
+    <link rel="alternate" href="https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-04T19:51:48+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T19:51:48+09:00&lt;br/&gt;Updated: 2026-02-04T19:51:48+09:00&lt;br/&gt;はじめに
+今朝（2/4 朝）、以下のツイートを見かけました。
+
+Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレポートを出してくれる /insights コマンドが追加されていたようです。
+私は24時間使いまわすほどのヘビーユーザーでは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6618c025de5715ed35d3</id>
@@ -1936,17 +1947,6 @@ Pythonで学ぶ Webアプリのセキュアコーディング 脆弱性の見つ
 Power Automate を触っていて実行結果（履歴）を確認してみると、以下の画像の「出力」のように、何やら不思議な文字列の「かたまり」を目にしたことがあるかもしれません。
 
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
-    <title>【Claude Code】 /insights コマンドがおもしろい</title>
-    <link rel="alternate" href="https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-04T19:51:48+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T19:51:48+09:00&lt;br/&gt;Updated: 2026-02-04T19:51:48+09:00&lt;br/&gt;はじめに
-今朝（2/4 朝）、以下のツイートを見かけました。
-
-Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレポートを出してくれる /insights コマンドが追加されていたようです。
-私は24時間使いまわすほどのヘビーユーザーでは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:12ba1c97612fa0f12acd</id>
