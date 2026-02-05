@@ -922,6 +922,17 @@ The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハ�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:14554853372f33c3374b</id>
+    <title>エンジニアは、なぜ生成AIで仕事が楽にならないのか</title>
+    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/14554853372f33c3374b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-05T15:02:37+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T10:29:55+09:00&lt;br/&gt;Updated: 2026-02-05T15:02:37+09:00&lt;br/&gt;はじめに
+「生成AIで開発が楽になる」「バイブコーディングで生産性が爆上がりした」
+そんな話を聞くたびに、こう思ったことはないでしょうか。
+「いや、そこまで楽になってないが？むしろ忙しくなった」
+実際、生成AIでコーディング作業が削れた代わりに、別のコストが前面に出てきま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:910b7a6c1be97da2879d</id>
     <title>エンジニアなら知っておきたいサーバーの基本</title>
     <link rel="alternate" href="https://qiita.com/Suntory/items/910b7a6c1be97da2879d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -995,17 +1006,6 @@ Web API（REST API）という言葉を聞いたことがある方
     <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/koras7788&quot;&gt;koras7788&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:47:41+09:00&lt;br/&gt;Updated: 2026-01-21T17:55:41+09:00&lt;br/&gt;Claude Codeは、AI支援による開発体験を提供する強力なツールです。しかし、多くの機能が隠れているため、その真価を十分に活用できていないユーザーも少なくありません。この記事では、作業効率を大幅に向上させる実践的なテクニックを4つのカテゴリーに分けて紹介します。
 
 1...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:14554853372f33c3374b</id>
-    <title>エンジニアは、なぜ生成AIで仕事が楽にならないのか</title>
-    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/14554853372f33c3374b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-05T15:02:37+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T10:29:55+09:00&lt;br/&gt;Updated: 2026-02-05T15:02:37+09:00&lt;br/&gt;はじめに
-「生成AIで開発が楽になる」「バイブコーディングで生産性が爆上がりした」
-そんな話を聞くたびに、こう思ったことはないでしょうか。
-「いや、そこまで楽になってないが？むしろ忙しくなった」
-実際、生成AIでコーディング作業が削れた代わりに、別のコストが前面に出てきま...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:79d8020799c6f9e329dc</id>
@@ -1283,6 +1283,14 @@ Clawdbot（クロードボット）は、1台のPCをハブにして Discord・S
 その...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0d6797b848ed41d0e697</id>
+    <title>React 19の型定義では「FC」と「ReactNodeを返す関数」が違う</title>
+    <link rel="alternate" href="https://qiita.com/uhyo/items/0d6797b848ed41d0e697?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-04T16:18:00+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T12:16:02+09:00&lt;br/&gt;Updated: 2026-02-04T16:18:00+09:00&lt;br/&gt;対象読者: 現在React 18以前を使っていて、React 19にそのうち上げたいと思っている方。React 19の型定義の背景を知りたい方
+みなさんこんにちは。筆者は最近気づいたのですが、React 18から19に上げるときに問題になる（型エラーになる）パターンがありま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cbad89098dfcc8c71178</id>
     <title>【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（前編）</title>
     <link rel="alternate" href="https://qiita.com/yushibats/items/cbad89098dfcc8c71178?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1362,14 +1370,6 @@ Gitの設計上の課題を、現代的なモデルで再設計した...</summar
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:0d6797b848ed41d0e697</id>
-    <title>React 19の型定義では「FC」と「ReactNodeを返す関数」が違う</title>
-    <link rel="alternate" href="https://qiita.com/uhyo/items/0d6797b848ed41d0e697?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-04T16:18:00+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T12:16:02+09:00&lt;br/&gt;Updated: 2026-02-04T16:18:00+09:00&lt;br/&gt;対象読者: 現在React 18以前を使っていて、React 19にそのうち上げたいと思っている方。React 19の型定義の背景を知りたい方
-みなさんこんにちは。筆者は最近気づいたのですが、React 18から19に上げるときに問題になる（型エラーになる）パターンがありま...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:84e0bc99e2f011e9dc77</id>
     <title>昔の8ビットパソコンはどこのZ80を使っていたのか</title>
     <link rel="alternate" href="https://qiita.com/yunkya2/items/84e0bc99e2f011e9dc77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1397,6 +1397,17 @@ Z80はザイログ自身が製造したオリジナル品の他に、セカン�
 本記事は、JavaエンジニアがTypeScriptを扱う際に感じた違いを解説した記事です。
 これまで実務や個人開発でTypeScriptに触れていましたが、Javaの感覚でコードを読み進めていくと、TypeScript特有の概念や挙動に戸惑うことがありました。
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
+    <title>【Claude Code】 /insights コマンドがおもしろい</title>
+    <link rel="alternate" href="https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-04T19:51:48+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T19:51:48+09:00&lt;br/&gt;Updated: 2026-02-04T19:51:48+09:00&lt;br/&gt;はじめに
+今朝（2/4 朝）、以下のツイートを見かけました。
+
+Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレポートを出してくれる /insights コマンドが追加されていたようです。
+私は24時間使いまわすほどのヘビーユーザーでは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9c7bd5791f33b2c034cb</id>
@@ -1452,17 +1463,6 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 フルサーバーレスで維持費激安なのが嬉しいポイントです。
 
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
-    <title>【Claude Code】 /insights コマンドがおもしろい</title>
-    <link rel="alternate" href="https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-04T19:51:48+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T19:51:48+09:00&lt;br/&gt;Updated: 2026-02-04T19:51:48+09:00&lt;br/&gt;はじめに
-今朝（2/4 朝）、以下のツイートを見かけました。
-
-Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレポートを出してくれる /insights コマンドが追加されていたようです。
-私は24時間使いまわすほどのヘビーユーザーでは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f036cf3ac3381e6f4438</id>
@@ -1959,6 +1959,26 @@ Power Automate を触っていて実行結果（履歴）を確認してみる�
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1492b77916ce3061cadf</id>
+    <title>【シリアル通信】「実機がないからテストできない」は言い訳？SocketDebuggerで巨大な産業機器を丸ごと模擬してみた🔥</title>
+    <link rel="alternate" href="https://qiita.com/umezawa_udom/items/1492b77916ce3061cadf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-04T09:19:44+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/umezawa_udom&quot;&gt;umezawa_udom&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T09:19:44+09:00&lt;br/&gt;Updated: 2026-02-04T09:19:44+09:00&lt;br/&gt;1. はじめに
+前回の記事「新入社員でも3分でわかる！シリアル通信の基礎（UART・USB・RS-232C）」では、シリアル通信の概念や、TCP/UDPとの違い、通信方式や使用するケーブルなどについて学びました。
+
+今回はその続きとして、より「現場」に近いシチュエーシ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:72d17be884cc471c3b7b</id>
+    <title>SLMをファインチューニングしてみる</title>
+    <link rel="alternate" href="https://qiita.com/lambda-knight/items/72d17be884cc471c3b7b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-03T15:03:13+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/lambda-knight&quot;&gt;lambda-knight&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T10:28:43+09:00&lt;br/&gt;Updated: 2026-02-03T15:03:13+09:00&lt;br/&gt;SLMをファインチューニングしてみる
+M1 Macのローカル環境で、軽量な言語モデル（SLM）のファインチューニングを試みた技術ログです。
+最初はファインチューニングはNividiaなど強力なGPUでないとできないという先入観がありましたが、
+まずはやってみようとチャレン...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:12ba1c97612fa0f12acd</id>
     <title>Copilot Studio で一括でチャット型エージェントのテストする</title>
     <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/12ba1c97612fa0f12acd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2062,16 +2082,6 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
 プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:1492b77916ce3061cadf</id>
-    <title>【シリアル通信】「実機がないからテストできない」は言い訳？SocketDebuggerで巨大な産業機器を丸ごと模擬してみた🔥</title>
-    <link rel="alternate" href="https://qiita.com/umezawa_udom/items/1492b77916ce3061cadf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-04T09:19:44+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/umezawa_udom&quot;&gt;umezawa_udom&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T09:19:44+09:00&lt;br/&gt;Updated: 2026-02-04T09:19:44+09:00&lt;br/&gt;1. はじめに
-前回の記事「新入社員でも3分でわかる！シリアル通信の基礎（UART・USB・RS-232C）」では、シリアル通信の概念や、TCP/UDPとの違い、通信方式や使用するケーブルなどについて学びました。
-
-今回はその続きとして、より「現場」に近いシチュエーシ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:24a60507b75a337ff184</id>
     <title>【時短術】Nano Bananaの画像をパワポの『オブジェクト』として編集する方法（SVG変換）</title>
     <link rel="alternate" href="https://qiita.com/hamham/items/24a60507b75a337ff184?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2079,16 +2089,6 @@ Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名�
     <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hamham&quot;&gt;hamham&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T09:04:51+09:00&lt;br/&gt;Updated: 2026-02-04T09:04:51+09:00&lt;br/&gt;はじめに
 「Nano Bananaで生成したスライド画像、クオリティは高いんだけど、あと少しだけ文字を直したい…」「図の配置を微調整したい…」と思ったことはありませんか？
 画像（PNG/JPG）のままだとパワポ上で細かな編集はできませんが、一度SVG形式に変換することで、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:72d17be884cc471c3b7b</id>
-    <title>SLMをファインチューニングしてみる</title>
-    <link rel="alternate" href="https://qiita.com/lambda-knight/items/72d17be884cc471c3b7b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-03T15:03:13+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/lambda-knight&quot;&gt;lambda-knight&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T10:28:43+09:00&lt;br/&gt;Updated: 2026-02-03T15:03:13+09:00&lt;br/&gt;SLMをファインチューニングしてみる
-M1 Macのローカル環境で、軽量な言語モデル（SLM）のファインチューニングを試みた技術ログです。
-最初はファインチューニングはNividiaなど強力なGPUでないとできないという先入観がありましたが、
-まずはやってみようとチャレン...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:dbf23a45c247723f8fe1</id>
