@@ -94,7 +94,7 @@
       "updated": "2026-02-05T12:40:24+09:00",
       "author_name": "hekiboko",
       "likes_count": 10,
-      "last_seen": "2026-02-06T12:24:19.645437026+00:00"
+      "last_seen": "2026-02-06T13:35:28.173734361+00:00"
     },
     {
       "key": "06f9c9282fbb5504b145",
@@ -261,8 +261,8 @@
       "published": "2026-02-04T12:16:02+09:00",
       "updated": "2026-02-04T16:18:00+09:00",
       "author_name": "uhyo",
-      "likes_count": 27,
-      "last_seen": "2026-02-06T12:24:19.645437026+00:00"
+      "likes_count": 28,
+      "last_seen": "2026-02-06T13:35:28.173734361+00:00"
     },
     {
       "key": "0d772d4fdd8a05f5cc8d",
@@ -309,8 +309,8 @@
       "published": "2026-02-05T10:29:55+09:00",
       "updated": "2026-02-05T15:02:37+09:00",
       "author_name": "KYoshiyama",
-      "likes_count": 102,
-      "last_seen": "2026-02-06T12:24:19.645437026+00:00"
+      "likes_count": 109,
+      "last_seen": "2026-02-06T13:35:28.173734361+00:00"
     },
     {
       "key": "1492b77916ce3061cadf",
@@ -322,7 +322,7 @@
       "updated": "2026-02-04T09:19:44+09:00",
       "author_name": "umezawa_udom",
       "likes_count": 32,
-      "last_seen": "2026-02-06T12:24:19.645437026+00:00"
+      "last_seen": "2026-02-06T13:35:28.173734361+00:00"
     },
     {
       "key": "1534e672ead63226db91",
@@ -493,6 +493,18 @@
       "last_seen": "2026-01-20T19:35:04.427934264+00:00"
     },
     {
+      "key": "1c6a6372317cfde8e71f",
+      "item_id": "1c6a6372317cfde8e71f",
+      "title": "New Relic の Lookup Table を GitHub Actions で更新して運用を自動化",
+      "link": "https://qiita.com/MarthaS/items/1c6a6372317cfde8e71f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "New Relic で分析をしていると、ログやメトリクスには store_id や app_id といった無機質な値しか残っていないことがよくあります。しかし、障害発生時に本当に知りたいのは「どの地域の、どの店舗で？」「どのチームの、どのサービスで？」という 業務上のコンテ...",
+      "published": "2026-02-06T11:04:36+09:00",
+      "updated": "2026-02-06T11:04:37+09:00",
+      "author_name": "MarthaS",
+      "likes_count": 10,
+      "last_seen": "2026-02-06T13:35:28.173734361+00:00"
+    },
+    {
       "key": "1ca66d782de23ca1a82a",
       "item_id": "1ca66d782de23ca1a82a",
       "title": "公式ドキュメントを見る癖をつけておこう",
@@ -515,6 +527,18 @@
       "author_name": "yuki_2020",
       "likes_count": 11,
       "last_seen": "2026-01-14T07:15:08.466816137+00:00"
+    },
+    {
+      "key": "1f551e33a09a2b127ad6",
+      "item_id": "1f551e33a09a2b127ad6",
+      "title": "話すだけで日報が完成し、課題は夜に進み、朝に“今日やるべきこと”が届く──Copilot Studioで作る「日報×課題実行×調査支援」マルチエージェント",
+      "link": "https://qiita.com/Katayama_Studio/items/1f551e33a09a2b127ad6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "導入：日報・調査・段取りが「毎日じわじわ時間を奪う」問題\n日報を書く、詰まっている課題を調べる、翌日の段取りを考える。\nどれも重要なのに、“締切直前にまとめてやる” か、“頭の中に抱えたまま翌日に持ち越す” になりがちです。\nそこで狙うのが、あなたが整理したコンセプト：\n...",
+      "published": "2026-02-04T10:46:46+09:00",
+      "updated": "2026-02-04T10:46:46+09:00",
+      "author_name": "Katayama_Studio",
+      "likes_count": 10,
+      "last_seen": "2026-02-06T13:35:28.173734361+00:00"
     },
     {
       "key": "1f73ed7d1d3e6af932a8",
@@ -550,7 +574,7 @@
       "updated": "2026-02-04T08:21:15+09:00",
       "author_name": "kunitomo926",
       "likes_count": 20,
-      "last_seen": "2026-02-06T12:24:19.645437026+00:00"
+      "last_seen": "2026-02-06T13:35:28.173734361+00:00"
     },
     {
       "key": "20a2d4af87aa3541f1d3",
@@ -646,7 +670,7 @@
       "updated": "2026-02-04T09:04:51+09:00",
       "author_name": "hamham",
       "likes_count": 22,
-      "last_seen": "2026-02-06T12:24:19.645437026+00:00"
+      "last_seen": "2026-02-06T13:35:28.173734361+00:00"
     },
     {
       "key": "28042d9285ffbfed9da8",
@@ -838,7 +862,7 @@
       "updated": "2026-02-04T19:08:49+09:00",
       "author_name": "hirokidaichi",
       "likes_count": 64,
-      "last_seen": "2026-02-06T12:24:19.645437026+00:00"
+      "last_seen": "2026-02-06T13:35:28.173734361+00:00"
     },
     {
       "key": "38cedf1f96e981b4f11d",
@@ -1054,7 +1078,7 @@
       "updated": "2026-02-05T00:57:58+09:00",
       "author_name": "abemaki29",
       "likes_count": 11,
-      "last_seen": "2026-02-06T12:24:19.645437026+00:00"
+      "last_seen": "2026-02-06T13:35:28.173734361+00:00"
     },
     {
       "key": "473dd7b3dd5d5c3f6d05",
@@ -1150,7 +1174,7 @@
       "updated": "2026-02-03T20:52:34+09:00",
       "author_name": "moritalous",
       "likes_count": 123,
-      "last_seen": "2026-02-06T12:24:19.645437026+00:00"
+      "last_seen": "2026-02-06T13:35:28.173734361+00:00"
     },
     {
       "key": "4e3dd385af838f7228fa",
@@ -1606,7 +1630,7 @@
       "updated": "2026-02-04T19:51:48+09:00",
       "author_name": "ryu-ki",
       "likes_count": 42,
-      "last_seen": "2026-02-06T12:24:19.645437026+00:00"
+      "last_seen": "2026-02-06T13:35:28.173734361+00:00"
     },
     {
       "key": "78c976e29a000eaf7819",
@@ -1786,7 +1810,7 @@
       "updated": "2026-02-05T10:35:21+09:00",
       "author_name": "issy345",
       "likes_count": 12,
-      "last_seen": "2026-02-06T12:24:19.645437026+00:00"
+      "last_seen": "2026-02-06T13:35:28.173734361+00:00"
     },
     {
       "key": "84e0bc99e2f011e9dc77",
@@ -1870,7 +1894,7 @@
       "updated": "2026-02-05T10:09:20+09:00",
       "author_name": "kazuki-matsuoka",
       "likes_count": 10,
-      "last_seen": "2026-02-06T12:24:19.645437026+00:00"
+      "last_seen": "2026-02-06T13:35:28.173734361+00:00"
     },
     {
       "key": "87c88b6b496d94f3168f",
@@ -2049,8 +2073,8 @@
       "published": "2026-02-05T15:28:52+09:00",
       "updated": "2026-02-06T04:41:07+09:00",
       "author_name": "satoki",
-      "likes_count": 167,
-      "last_seen": "2026-02-06T12:24:19.645437026+00:00"
+      "likes_count": 175,
+      "last_seen": "2026-02-06T13:35:28.173734361+00:00"
     },
     {
       "key": "9554c4b96b45d0729a9c",
@@ -2145,8 +2169,8 @@
       "published": "2026-02-05T10:14:15+09:00",
       "updated": "2026-02-05T10:14:16+09:00",
       "author_name": "y-yugeta",
-      "likes_count": 27,
-      "last_seen": "2026-02-06T12:24:19.645437026+00:00"
+      "likes_count": 30,
+      "last_seen": "2026-02-06T13:35:28.173734361+00:00"
     },
     {
       "key": "9923fb21c48ea999b191",
@@ -2794,7 +2818,7 @@
       "updated": "2026-02-06T13:08:00+09:00",
       "author_name": "nero-15",
       "likes_count": 10,
-      "last_seen": "2026-02-06T12:24:19.645437026+00:00"
+      "last_seen": "2026-02-06T13:35:28.173734361+00:00"
     },
     {
       "key": "c130168ca3fc0f1f6aaa",
