@@ -577,6 +577,16 @@ SHAP値処理の改修
 GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場し、コードを書く速度は格段に上がったと思いま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:388a7aaad767b9e11fa3</id>
+    <title>開発ツール管理？断然Miseでしょ。</title>
+    <link rel="alternate" href="https://qiita.com/umekikazuya/items/388a7aaad767b9e11fa3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-08T03:13:46+09:00</updated>
+    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/umekikazuya&quot;&gt;umekikazuya&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T02:44:08+09:00&lt;br/&gt;Updated: 2026-02-08T03:13:46+09:00&lt;br/&gt;みなさんは開発環境のツール管理、どうしてますか？
+私は業界に入って三年半ほど Homebrew を利用していましたが、
+最近、「Nixの記事」や「みなさんのDotfilesの記事」を見かける機会が増えたのもあって、自身の開発環境のアップデートしたいなと感じていました。
+かと...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c2e5d77c08c37532a3a3</id>
     <title>Rust と Web でつくる軽量デスクトップアプリ：Tauri 完全ガイド</title>
     <link rel="alternate" href="https://qiita.com/automation2025/items/c2e5d77c08c37532a3a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -584,16 +594,6 @@ GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場�
     <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T09:50:06+09:00&lt;br/&gt;Updated: 2026-01-18T23:28:37+09:00&lt;br/&gt;はじめに：なぜ今 Tauri なのか
 Electron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。
 Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用することで...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:388a7aaad767b9e11fa3</id>
-    <title>開発ツール管理？断然Miseでしょ。</title>
-    <link rel="alternate" href="https://qiita.com/umekikazuya/items/388a7aaad767b9e11fa3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-08T03:13:46+09:00</updated>
-    <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/umekikazuya&quot;&gt;umekikazuya&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T02:44:08+09:00&lt;br/&gt;Updated: 2026-02-08T03:13:46+09:00&lt;br/&gt;みなさんは開発環境のツール管理、どうしてますか？
-私は業界に入って三年半ほど Homebrew を利用していましたが、
-最近、「Nixの記事」や「みなさんのDotfilesの記事」を見かける機会が増えたのもあって、自身の開発環境のアップデートしたいなと感じていました。
-かと...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bbc8671d4295139c6e6d</id>
@@ -746,6 +746,15 @@ https://160.16.12...</summary>
 米国防総省のARPA（高等研究計画局）という機関が4台のコンピュータを繋いだのがはじまりです。3つの大学と、スタンフォード研究所（SRI）などの研究機関で繋がれており、ARPAN...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ca1810e419fee5fd963b</id>
+    <title>【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ</title>
+    <link rel="alternate" href="https://qiita.com/shatolin/items/ca1810e419fee5fd963b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-08T13:12:07+09:00</updated>
+    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shatolin&quot;&gt;shatolin&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T20:56:32+09:00&lt;br/&gt;Updated: 2026-02-08T13:12:07+09:00&lt;br/&gt;Claude Codeがやってきた！
+Claude Codeは2025年2月のリリース以来、ターミナルから直接AIにコーディングを任せられるツールとして広く使われるようになりました。
+2025年10月にプラグインシステムが公開ベータになり、MCP（Model Contex...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3ae7541a112833cad737</id>
     <title>【ポケモン×Java】知識編 ERROR #7  ## 論理エラーは「止まらない」― だから気づけない？！</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/3ae7541a112833cad737?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -796,15 +805,6 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 
 1年間のサマリー
 最初はQiitaのContributionと記事...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ca1810e419fee5fd963b</id>
-    <title>【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ</title>
-    <link rel="alternate" href="https://qiita.com/shatolin/items/ca1810e419fee5fd963b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-08T13:12:07+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shatolin&quot;&gt;shatolin&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T20:56:32+09:00&lt;br/&gt;Updated: 2026-02-08T13:12:07+09:00&lt;br/&gt;Claude Codeがやってきた！
-Claude Codeは2025年2月のリリース以来、ターミナルから直接AIにコーディングを任せられるツールとして広く使われるようになりました。
-2025年10月にプラグインシステムが公開ベータになり、MCP（Model Contex...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
@@ -1171,6 +1171,21 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
 ただ、そ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cdc85e68d948c0924294</id>
+    <title>[個人開発] 巨大駅の出口がわからないを写真と最小限の文章で解決する「Dexit」を作成しました [Next.js×Vercel]</title>
+    <link rel="alternate" href="https://qiita.com/Daichisama/items/cdc85e68d948c0924294?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-08T19:41:53+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Daichisama&quot;&gt;Daichisama&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T19:12:58+09:00&lt;br/&gt;Updated: 2026-02-08T19:41:53+09:00&lt;br/&gt;はじめに
+巨大駅を使ったことがある人なら、一度はこんな経験があると思います。
+
+改札は出られたのに、その先で迷う
+案内板を見ても「本当に合っているか」確信が持てない
+Googleマップを開いても、駅構内ではほぼ役に立たない
+
+特に新宿駅のような巨大駅では、
+「どの出口から...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e3f47c36c980f49381d6</id>
     <title>ブラウザ操作不要！Playwright MCPでテスト仕様書からE2Eテストコードを自動生成してみた</title>
     <link rel="alternate" href="https://qiita.com/ntaka329/items/e3f47c36c980f49381d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1192,21 +1207,6 @@ E2Eテストの自動化、進めていますか？
 今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:cdc85e68d948c0924294</id>
-    <title>[個人開発] 巨大駅の出口がわからないを写真と最小限の文章で解決する「Dexit」を作成しました [Next.js×Vercel]</title>
-    <link rel="alternate" href="https://qiita.com/Daichisama/items/cdc85e68d948c0924294?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-08T19:41:53+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Daichisama&quot;&gt;Daichisama&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T19:12:58+09:00&lt;br/&gt;Updated: 2026-02-08T19:41:53+09:00&lt;br/&gt;はじめに
-巨大駅を使ったことがある人なら、一度はこんな経験があると思います。
-
-改札は出られたのに、その先で迷う
-案内板を見ても「本当に合っているか」確信が持てない
-Googleマップを開いても、駅構内ではほぼ役に立たない
-
-特に新宿駅のような巨大駅では、
-「どの出口から...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:4db2182e2384df4122a2</id>
     <title>Microsoft Teams を悪用したCEO詐欺（ビジネスチャット詐欺）について</title>
     <link rel="alternate" href="https://qiita.com/hirotomotaguchi/items/4db2182e2384df4122a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1214,6 +1214,18 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
     <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirotomotaguchi&quot;&gt;hirotomotaguchi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T08:10:56+09:00&lt;br/&gt;Updated: 2026-02-08T15:10:10+09:00&lt;br/&gt;古典的ですが、最近とても流行っている「CEO詐欺（経営層になりすました詐欺）」が、Microsoft Teams などのチャットツールにも広がりを見せているそうです。昔から Teams を使った詐欺は行われていたものの、改めてまとめていきたいと思います。
 
 本記事では ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:8010f0d62025db8f3d81</id>
+    <title>ベイズ原理主義者ブチ切れ必至！因子分析の再学習を50倍速める運用の知恵</title>
+    <link rel="alternate" href="https://qiita.com/Gotoubun_taiwan/items/8010f0d62025db8f3d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-07T18:52:28+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Gotoubun_taiwan&quot;&gt;Gotoubun_taiwan&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T18:52:28+09:00&lt;br/&gt;Updated: 2026-02-07T18:52:28+09:00&lt;br/&gt;はじめに
+こんにちは、事業会社で働いているデータサイエンティストです。
+
+本記事は、以下の記事の続編として、推定したベイズ機械学習モデル、とりわけ、いわゆる因子分析系のモデル、を「実際にどう運用するのか」に焦点を当てて解説します。
+
+まず大前提として、本記事は信用...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a8409d108cae24888ba0</id>
@@ -1248,18 +1260,6 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
     <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T20:57:55+09:00&lt;br/&gt;Updated: 2026-01-06T19:49:00+09:00&lt;br/&gt;はじめに
 表題のとおり、Windows OS を USB メモリ上に導入して、任意の PC を使って利用するためのノウハウを共有したいと思います。
 本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8010f0d62025db8f3d81</id>
-    <title>ベイズ原理主義者ブチ切れ必至！因子分析の再学習を50倍速める運用の知恵</title>
-    <link rel="alternate" href="https://qiita.com/Gotoubun_taiwan/items/8010f0d62025db8f3d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-07T18:52:28+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Gotoubun_taiwan&quot;&gt;Gotoubun_taiwan&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T18:52:28+09:00&lt;br/&gt;Updated: 2026-02-07T18:52:28+09:00&lt;br/&gt;はじめに
-こんにちは、事業会社で働いているデータサイエンティストです。
-
-本記事は、以下の記事の続編として、推定したベイズ機械学習モデル、とりわけ、いわゆる因子分析系のモデル、を「実際にどう運用するのか」に焦点を当てて解説します。
-
-まず大前提として、本記事は信用...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
@@ -1398,6 +1398,15 @@ Clawdbot（クロードボット）は、1台のPCをハブにして Discord・S
 その...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a13b42998925e9ba046b</id>
+    <title>【2026年版】Webスクレイピングの&quot;3大つらみ&quot;をBright Dataで解決する</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/a13b42998925e9ba046b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-07T17:40:48+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T17:40:48+09:00&lt;br/&gt;Updated: 2026-02-07T17:40:48+09:00&lt;br/&gt;はじめに：この記事で得られること
+Webスクレイピングに挑戦したことがあるエンジニアなら、一度は「IPブロック」「CAPTCHA」「JavaScript動的レンダリング」という壁にぶつかったことがあるのではないでしょうか。
+本記事では、世界20,000社以上が利用するWe...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cbad89098dfcc8c71178</id>
     <title>【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（前編）</title>
     <link rel="alternate" href="https://qiita.com/yushibats/items/cbad89098dfcc8c71178?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1475,15 +1484,6 @@ Gitの設計上の課題を、現代的なモデルで再設計した...</summar
 皆さんAmazon Connectはご存知でしょうか？
 私は昨年のAWS Summitで初めてこのサービスを知りました。
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a13b42998925e9ba046b</id>
-    <title>【2026年版】Webスクレイピングの&quot;3大つらみ&quot;をBright Dataで解決する</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/a13b42998925e9ba046b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-07T17:40:48+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T17:40:48+09:00&lt;br/&gt;Updated: 2026-02-07T17:40:48+09:00&lt;br/&gt;はじめに：この記事で得られること
-Webスクレイピングに挑戦したことがあるエンジニアなら、一度は「IPブロック」「CAPTCHA」「JavaScript動的レンダリング」という壁にぶつかったことがあるのではないでしょうか。
-本記事では、世界20,000社以上が利用するWe...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:84e0bc99e2f011e9dc77</id>
