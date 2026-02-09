@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-02-09T01:47:58+09:00</updated>
+  <updated>2026-02-09T15:54:11+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -651,6 +651,16 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:388a7aaad767b9e11fa3</id>
+    <title>開発ツール管理？断然Miseでしょ。</title>
+    <link rel="alternate" href="https://qiita.com/umekikazuya/items/388a7aaad767b9e11fa3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-08T03:13:46+09:00</updated>
+    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/umekikazuya&quot;&gt;umekikazuya&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T02:44:08+09:00&lt;br/&gt;Updated: 2026-02-08T03:13:46+09:00&lt;br/&gt;みなさんは開発環境のツール管理、どうしてますか？
+私は業界に入って三年半ほど Homebrew を利用していましたが、
+最近、「Nixの記事」や「みなさんのDotfilesの記事」を見かける機会が増えたのもあって、自身の開発環境のアップデートしたいなと感じていました。
+かと...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7c5305349815f5142d7d</id>
     <title>【JavaScript】ES2026の新機能全部解説する</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/7c5305349815f5142d7d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -658,16 +668,6 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
     <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:13:46+09:00&lt;br/&gt;Updated: 2026-01-26T21:13:46+09:00&lt;br/&gt;JavaScriptの仕様は、TC39というところで決められています。
 ブラウザベンダや関係者が定期的に会合を行い、様々な新機能について話し合って今後のJavaScriptの方向性を決めていきます。
 ここでは2025年にFinishedになったproposalについて紹介し...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:388a7aaad767b9e11fa3</id>
-    <title>開発ツール管理？断然Miseでしょ。</title>
-    <link rel="alternate" href="https://qiita.com/umekikazuya/items/388a7aaad767b9e11fa3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-08T03:13:46+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/umekikazuya&quot;&gt;umekikazuya&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T02:44:08+09:00&lt;br/&gt;Updated: 2026-02-08T03:13:46+09:00&lt;br/&gt;みなさんは開発環境のツール管理、どうしてますか？
-私は業界に入って三年半ほど Homebrew を利用していましたが、
-最近、「Nixの記事」や「みなさんのDotfilesの記事」を見かける機会が増えたのもあって、自身の開発環境のアップデートしたいなと感じていました。
-かと...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5557800c41eb43b43f2f</id>
@@ -1256,6 +1256,21 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cdc85e68d948c0924294</id>
+    <title>[個人開発] 巨大駅の出口がわからないを写真と最小限の文章で解決する「Dexit」を作成しました [Next.js×Vercel]</title>
+    <link rel="alternate" href="https://qiita.com/Daichisama/items/cdc85e68d948c0924294?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-08T19:41:53+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Daichisama&quot;&gt;Daichisama&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T19:12:58+09:00&lt;br/&gt;Updated: 2026-02-08T19:41:53+09:00&lt;br/&gt;はじめに
+巨大駅を使ったことがある人なら、一度はこんな経験があると思います。
+
+改札は出られたのに、その先で迷う
+案内板を見ても「本当に合っているか」確信が持てない
+Googleマップを開いても、駅構内ではほぼ役に立たない
+
+特に新宿駅のような巨大駅では、
+「どの出口から...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4db2182e2384df4122a2</id>
     <title>Microsoft Teams を悪用したCEO詐欺（ビジネスチャット詐欺）について</title>
     <link rel="alternate" href="https://qiita.com/hirotomotaguchi/items/4db2182e2384df4122a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1320,19 +1335,16 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 1. ブ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:cdc85e68d948c0924294</id>
-    <title>[個人開発] 巨大駅の出口がわからないを写真と最小限の文章で解決する「Dexit」を作成しました [Next.js×Vercel]</title>
-    <link rel="alternate" href="https://qiita.com/Daichisama/items/cdc85e68d948c0924294?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-08T19:41:53+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Daichisama&quot;&gt;Daichisama&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T19:12:58+09:00&lt;br/&gt;Updated: 2026-02-08T19:41:53+09:00&lt;br/&gt;はじめに
-巨大駅を使ったことがある人なら、一度はこんな経験があると思います。
+    <id>tag:qiita.com,2026:8010f0d62025db8f3d81</id>
+    <title>ベイズ原理主義者ブチ切れ必至！因子分析の再学習を50倍速める運用の知恵</title>
+    <link rel="alternate" href="https://qiita.com/Gotoubun_taiwan/items/8010f0d62025db8f3d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-07T18:52:28+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Gotoubun_taiwan&quot;&gt;Gotoubun_taiwan&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T18:52:28+09:00&lt;br/&gt;Updated: 2026-02-07T18:52:28+09:00&lt;br/&gt;はじめに
+こんにちは、事業会社で働いているデータサイエンティストです。
 
-改札は出られたのに、その先で迷う
-案内板を見ても「本当に合っているか」確信が持てない
-Googleマップを開いても、駅構内ではほぼ役に立たない
+本記事は、以下の記事の続編として、推定したベイズ機械学習モデル、とりわけ、いわゆる因子分析系のモデル、を「実際にどう運用するのか」に焦点を当てて解説します。
 
-特に新宿駅のような巨大駅では、
-「どの出口から...</summary>
+まず大前提として、本記事は信用...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1ae89e9d8d5c2cfa8180</id>
@@ -1463,18 +1475,6 @@ Gitの設計上の課題を、現代的なモデルで再設計した...</summar
 皆さんAmazon Connectはご存知でしょうか？
 私は昨年のAWS Summitで初めてこのサービスを知りました。
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8010f0d62025db8f3d81</id>
-    <title>ベイズ原理主義者ブチ切れ必至！因子分析の再学習を50倍速める運用の知恵</title>
-    <link rel="alternate" href="https://qiita.com/Gotoubun_taiwan/items/8010f0d62025db8f3d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-07T18:52:28+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Gotoubun_taiwan&quot;&gt;Gotoubun_taiwan&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T18:52:28+09:00&lt;br/&gt;Updated: 2026-02-07T18:52:28+09:00&lt;br/&gt;はじめに
-こんにちは、事業会社で働いているデータサイエンティストです。
-
-本記事は、以下の記事の続編として、推定したベイズ機械学習モデル、とりわけ、いわゆる因子分析系のモデル、を「実際にどう運用するのか」に焦点を当てて解説します。
-
-まず大前提として、本記事は信用...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:84e0bc99e2f011e9dc77</id>
@@ -1902,6 +1902,15 @@ FPGAとマイコンを1ボードに搭載
 Google Colabで手軽に試せるの...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2f1221b73728b95449f6</id>
+    <title>【書評】Microsoft 365 Copilot踏み込み活用術（できるビジネス）</title>
+    <link rel="alternate" href="https://qiita.com/ponponmikankan/items/2f1221b73728b95449f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-07T21:31:31+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ponponmikankan&quot;&gt;ponponmikankan&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T21:28:17+09:00&lt;br/&gt;Updated: 2026-02-07T21:31:31+09:00&lt;br/&gt;M365のMicrosoft MVPである太田さんの素敵な新作『Microsoft 365 Copilot踏み込み活用術（できるビジネス）』をいただきました！(そしてめちゃくちゃ時間たってしまった…！)
+
+.@hrfmjp さんの新著を頂きました！これから読みたいと思います...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:12b678e12882db74041c</id>
     <title>【Ruby on Rails】name:と:nameはなにが違うのか？素通りしがちなコロンの意味</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/12b678e12882db74041c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2117,13 +2126,14 @@ Power Automate を触っていて実行結果（履歴）を確認してみる�
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:2f1221b73728b95449f6</id>
-    <title>【書評】Microsoft 365 Copilot踏み込み活用術（できるビジネス）</title>
-    <link rel="alternate" href="https://qiita.com/ponponmikankan/items/2f1221b73728b95449f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-07T21:31:31+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ponponmikankan&quot;&gt;ponponmikankan&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T21:28:17+09:00&lt;br/&gt;Updated: 2026-02-07T21:31:31+09:00&lt;br/&gt;M365のMicrosoft MVPである太田さんの素敵な新作『Microsoft 365 Copilot踏み込み活用術（できるビジネス）』をいただきました！(そしてめちゃくちゃ時間たってしまった…！)
-
-.@hrfmjp さんの新著を頂きました！これから読みたいと思います...</summary>
+    <id>tag:qiita.com,2026:4eff08ff2413c23b95ec</id>
+    <title>Claude CodeのAgent Teamsをお試し様子見①「人間チーム開発の問題がなんか再現された」話</title>
+    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/4eff08ff2413c23b95ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-09T15:54:11+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T15:54:11+09:00&lt;br/&gt;Updated: 2026-02-09T15:54:11+09:00&lt;br/&gt;はじめに
+いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
+みなさん、Claude CodeのAgent Teams つかってます？
+複数のClaude Codeインスタンスを「チーム」として協調動作させるという、なかなか攻めた実験的機能（Re...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:12ba1c97612fa0f12acd</id>
@@ -2218,14 +2228,5 @@ AIプロファイルの作成やSQL生成、フィードバック管理などを
 Tailwind CSSで複雑なGridレイアウトを書こうとして、クラス名が長くなりすぎて困ったことはありませんか？
 私は結構あります。
 具体的にはgrid-template-(columns|rows)でauto-fitやminmax()を組み合わせたり、grid...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:473dd7b3dd5d5c3f6d05</id>
-    <title>AIによる並列開発で個人のアウトプット限界を突破した1週間の記録</title>
-    <link rel="alternate" href="https://qiita.com/takurot/items/473dd7b3dd5d5c3f6d05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-04T17:22:12+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:22:12+09:00&lt;br/&gt;Updated: 2026-01-04T17:22:12+09:00&lt;br/&gt;この1週間、GitHubで複数のプロジェクトを同時並行で進め、AIを活用することで個人レベルでは不可能だったアウトプット量と質を実現しました。その軌跡と、それを可能にした「AI並列開発」の力について共有します。
-
-プロジェクトの全体像：1週間で346コミット、10リポジトリ...</summary>
   </entry>
 </feed>
