@@ -184,6 +184,14 @@ Professor Answers Coding Questions | Tech Sup...</summary>
 データベースに対する「概念的な」大切さを説いている人は意外にも...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:81fabafaaa1fc0e8fade</id>
+    <title>Webのしないといけないセキュリティ対策</title>
+    <link rel="alternate" href="https://qiita.com/murasaki1994/items/81fabafaaa1fc0e8fade?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-06T12:54:23+09:00</updated>
+    <summary type="html">Likes: 137&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/murasaki1994&quot;&gt;murasaki1994&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T11:37:20+09:00&lt;br/&gt;Updated: 2026-02-06T12:54:23+09:00&lt;br/&gt;昨今流行に合わせたWebサイトの作り方など聞くことがしばしありますが、流行以前にWebサイトはDBの設計だったりセキュリティ対策など様々な事をしなければなりません。
+そこで今回はWebサービスにおける脆弱性を利用した攻撃と防ぎ方、そして不正アクセスしたらなぜバレるのかなど私...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f3028a229d0c42877cf4</id>
     <title>Claude Codeが私の職場を激変させはじめた</title>
     <link rel="alternate" href="https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -214,14 +222,6 @@ PRUMについて気...</summary>
     <updated>2026-01-24T13:03:45+09:00</updated>
     <summary type="html">Likes: 133&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/cozyupk&quot;&gt;cozyupk&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T13:03:45+09:00&lt;br/&gt;Updated: 2026-01-24T13:03:45+09:00&lt;br/&gt;2025年2月初頭に生まれた 「ヴァイブコーディング（雰囲気コーディング）」 という言葉は、そのカジュアルな響きが受け、Wikipedia に項目ができるほど定着した。AIにコーディングを任せる、あるいは補助として活用する開発スタイルを指す言葉らしい。
 この言葉が「バズった...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:81fabafaaa1fc0e8fade</id>
-    <title>Webのしないといけないセキュリティ対策</title>
-    <link rel="alternate" href="https://qiita.com/murasaki1994/items/81fabafaaa1fc0e8fade?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-06T12:54:23+09:00</updated>
-    <summary type="html">Likes: 129&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/murasaki1994&quot;&gt;murasaki1994&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T11:37:20+09:00&lt;br/&gt;Updated: 2026-02-06T12:54:23+09:00&lt;br/&gt;昨今流行に合わせたWebサイトの作り方など聞くことがしばしありますが、流行以前にWebサイトはDBの設計だったりセキュリティ対策など様々な事をしなければなりません。
-そこで今回はWebサービスにおける脆弱性を利用した攻撃と防ぎ方、そして不正アクセスしたらなぜバレるのかなど私...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5583156dec3b32acb400</id>
@@ -838,6 +838,16 @@ CLAUDE.md
 サブエー...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:388a7aaad767b9e11fa3</id>
+    <title>開発ツール管理？断然Miseでしょ。</title>
+    <link rel="alternate" href="https://qiita.com/umekikazuya/items/388a7aaad767b9e11fa3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-08T03:13:46+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/umekikazuya&quot;&gt;umekikazuya&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T02:44:08+09:00&lt;br/&gt;Updated: 2026-02-08T03:13:46+09:00&lt;br/&gt;みなさんは開発環境のツール管理、どうしてますか？
+私は業界に入って三年半ほど Homebrew を利用していましたが、
+最近、「Nixの記事」や「みなさんのDotfilesの記事」を見かける機会が増えたのもあって、自身の開発環境のアップデートしたいなと感じていました。
+かと...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
     <title>【Claude Code】 /insights コマンドがおもしろい</title>
     <link rel="alternate" href="https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -900,16 +910,6 @@ Pythonでプログラミングをしていると、当たり前のように使�
 2026/1/18 に以下のようなツイートを見かけました。
 
 Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:388a7aaad767b9e11fa3</id>
-    <title>開発ツール管理？断然Miseでしょ。</title>
-    <link rel="alternate" href="https://qiita.com/umekikazuya/items/388a7aaad767b9e11fa3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-08T03:13:46+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/umekikazuya&quot;&gt;umekikazuya&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T02:44:08+09:00&lt;br/&gt;Updated: 2026-02-08T03:13:46+09:00&lt;br/&gt;みなさんは開発環境のツール管理、どうしてますか？
-私は業界に入って三年半ほど Homebrew を利用していましたが、
-最近、「Nixの記事」や「みなさんのDotfilesの記事」を見かける機会が増えたのもあって、自身の開発環境のアップデートしたいなと感じていました。
-かと...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cb29c3208ac188dad5f1</id>
@@ -1247,6 +1247,15 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ca1810e419fee5fd963b</id>
+    <title>【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ</title>
+    <link rel="alternate" href="https://qiita.com/shatolin/items/ca1810e419fee5fd963b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-08T13:12:07+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shatolin&quot;&gt;shatolin&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T20:56:32+09:00&lt;br/&gt;Updated: 2026-02-08T13:12:07+09:00&lt;br/&gt;Claude Codeがやってきた！
+Claude Codeは2025年2月のリリース以来、ターミナルから直接AIにコーディングを任せられるツールとして広く使われるようになりました。
+2025年10月にプラグインシステムが公開ベータになり、MCP（Model Contex...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0d6797b848ed41d0e697</id>
     <title>React 19の型定義では「FC」と「ReactNodeを返す関数」が違う</title>
     <link rel="alternate" href="https://qiita.com/uhyo/items/0d6797b848ed41d0e697?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1351,15 +1360,6 @@ Clawdbot（クロードボット）は、1台のPCをハブにして Discord・S
 すべてのコードを読み切れているかと言われたら正直答えはNoです。
 
 その...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ca1810e419fee5fd963b</id>
-    <title>【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ</title>
-    <link rel="alternate" href="https://qiita.com/shatolin/items/ca1810e419fee5fd963b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-08T13:12:07+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shatolin&quot;&gt;shatolin&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T20:56:32+09:00&lt;br/&gt;Updated: 2026-02-08T13:12:07+09:00&lt;br/&gt;Claude Codeがやってきた！
-Claude Codeは2025年2月のリリース以来、ターミナルから直接AIにコーディングを任せられるツールとして広く使われるようになりました。
-2025年10月にプラグインシステムが公開ベータになり、MCP（Model Contex...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cbad89098dfcc8c71178</id>
@@ -1793,6 +1793,16 @@ Webスクレイピングに挑戦したことがあるエンジニアなら、�
 本記事では、世界20,000社以上が利用するWe...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c12a9403a7d7673ae432</id>
+    <title>Claude Code Agent Teams を試す：複数AIエージェントの協調作業</title>
+    <link rel="alternate" href="https://qiita.com/nero-15/items/c12a9403a7d7673ae432?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-06T13:08:00+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nero-15&quot;&gt;nero-15&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T13:07:59+09:00&lt;br/&gt;Updated: 2026-02-06T13:08:00+09:00&lt;br/&gt;はじめに
+
+Claude Code に Agent Teams という実験的機能が追加されました。複数の Claude Code インスタンスをチームとして動かす仕組みで、1つのセッションがリーダーになり、チームメイトに作業を振って結果を統合します。
+従来の Suba...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:205aa17d0acc88a34bf4</id>
     <title>UIデザインから実装までをAIエージェントに丸投げしてみた（ChatGPT → Google Stitch → Antigravity × Claude Opus 4.5）</title>
     <link rel="alternate" href="https://qiita.com/kunitomo926/items/205aa17d0acc88a34bf4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1854,6 +1864,21 @@ FPGAとマイコンを1ボードに搭載
     <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
 そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
 Google Colabで手軽に試せるの...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:cdc85e68d948c0924294</id>
+    <title>[個人開発] 巨大駅の出口がわからないを写真と最小限の文章で解決する「Dexit」を作成しました [Next.js×Vercel]</title>
+    <link rel="alternate" href="https://qiita.com/Daichisama/items/cdc85e68d948c0924294?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-08T19:41:53+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Daichisama&quot;&gt;Daichisama&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T19:12:58+09:00&lt;br/&gt;Updated: 2026-02-08T19:41:53+09:00&lt;br/&gt;はじめに
+巨大駅を使ったことがある人なら、一度はこんな経験があると思います。
+
+改札は出られたのに、その先で迷う
+案内板を見ても「本当に合っているか」確信が持てない
+Googleマップを開いても、駅構内ではほぼ役に立たない
+
+特に新宿駅のような巨大駅では、
+「どの出口から...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4db2182e2384df4122a2</id>
@@ -1978,16 +2003,6 @@ Claude Codeには日頃から大変お世話になっていますが、完全に
 実装中の軌道修正 - おかしな方向に進みそうなときに相談に乗りたい
 
 完了時...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c12a9403a7d7673ae432</id>
-    <title>Claude Code Agent Teams を試す：複数AIエージェントの協調作業</title>
-    <link rel="alternate" href="https://qiita.com/nero-15/items/c12a9403a7d7673ae432?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-06T13:08:00+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nero-15&quot;&gt;nero-15&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T13:07:59+09:00&lt;br/&gt;Updated: 2026-02-06T13:08:00+09:00&lt;br/&gt;はじめに
-
-Claude Code に Agent Teams という実験的機能が追加されました。複数の Claude Code インスタンスをチームとして動かす仕組みで、1つのセッションがリーダーになり、チームメイトに作業を振って結果を統合します。
-従来の Suba...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c70b14bb1cd3b5bd28ec</id>
@@ -2219,16 +2234,5 @@ teamsで届いた個人宛ての問い合わせを、2クリックでチーム�
 
 必要なもの
 最新環境のTeX Liveおよび...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:379ed75bbf8a69827188</id>
-    <title>Waylandメインにして半月が経った</title>
-    <link rel="alternate" href="https://qiita.com/jidaikobo-shibata/items/379ed75bbf8a69827188?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-28T21:20:02+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jidaikobo-shibata&quot;&gt;jidaikobo-shibata&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T21:10:42+09:00&lt;br/&gt;Updated: 2026-01-28T21:20:02+09:00&lt;br/&gt;数年間X11（Xorg）を使い続けてきましたが、Ubuntu自体がWaylandへ軸足を移しつつあることもあり、思い切ってメイン環境をWaylandに切り替えてみました。
-この記事は、「Waylandにして半月ほど使ってみた体験メモ」です。
-
-Waylandで変わったもの
-...</summary>
   </entry>
 </feed>
