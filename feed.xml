@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-02-10T13:46:53+09:00</updated>
+  <updated>2026-02-10T17:23:57+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -2098,6 +2098,15 @@ Claude Codeには日頃から大変お世話になっていますが、完全に
 完了時...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2b8fad1047a7e210f21a</id>
+    <title>[Next.js] Parallel Routes + Intercepting Routes でページ遷移時にスクロール位置を保持する</title>
+    <link rel="alternate" href="https://qiita.com/taka_xin/items/2b8fad1047a7e210f21a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-10T17:23:57+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/taka_xin&quot;&gt;taka_xin&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T17:23:57+09:00&lt;br/&gt;Updated: 2026-02-10T17:23:57+09:00&lt;br/&gt;はじめに
+Parallel Routes + Intercepting Routes を使うと、一覧から詳細へ遷移しても 一覧をモーダルの背後に残せる ため、スクロール位置を自然に保持できます。
+さらに、詳細ページは直リンクでも開けるので、UX と SEO を両立できます...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c70b14bb1cd3b5bd28ec</id>
     <title>サーバレスでここまでできる！CloudFront + S3 + Lambda でWeb公開</title>
     <link rel="alternate" href="https://qiita.com/toyooka_yuga/items/c70b14bb1cd3b5bd28ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2227,19 +2236,5 @@ Power Automate を触っていて実行結果（履歴）を確認してみる�
 
 以前作ったエージェントの検証
 以下のようなリストを基にエージェントを作成しています...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0d6448db838c3fc4d00e</id>
-    <title>Figmaで線が崩れないSVGアイコンを作るコツ（Boolean操作編）</title>
-    <link rel="alternate" href="https://qiita.com/karina-yzrh/items/0d6448db838c3fc4d00e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T21:39:36+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/karina-yzrh&quot;&gt;karina-yzrh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:39:36+09:00&lt;br/&gt;Updated: 2026-01-26T21:39:36+09:00&lt;br/&gt;Figmaで簡単なアイコンを作ったはずなのに、
-「リサイズすると線が崩れる」
-「SVGを書き出したらパスが汚い」
-といった問題に遭遇したことはありませんか？
-私はデザイナーではありませんが、PMとして
-・画面提案用のモックを素早く作りたい
-・既存のアイコンでは表現できない
-...</summary>
   </entry>
 </feed>
