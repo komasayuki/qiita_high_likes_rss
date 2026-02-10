@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-02-09T15:54:11+09:00</updated>
+  <updated>2026-02-10T10:44:04+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -462,7 +462,7 @@ Pencilは、Figma + Layermate みたいなツールで、Pencil上でAIにUIを�
     <title>開発ツール管理？断然Miseでしょ。</title>
     <link rel="alternate" href="https://qiita.com/umekikazuya/items/388a7aaad767b9e11fa3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-08T03:13:46+09:00</updated>
-    <summary type="html">Likes: 83&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/umekikazuya&quot;&gt;umekikazuya&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T02:44:08+09:00&lt;br/&gt;Updated: 2026-02-08T03:13:46+09:00&lt;br/&gt;みなさんは開発環境のツール管理、どうしてますか？
+    <summary type="html">Likes: 84&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/umekikazuya&quot;&gt;umekikazuya&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T02:44:08+09:00&lt;br/&gt;Updated: 2026-02-08T03:13:46+09:00&lt;br/&gt;みなさんは開発環境のツール管理、どうしてますか？
 私は業界に入って三年半ほど Homebrew を利用していましたが、
 最近、「Nixの記事」や「みなさんのDotfilesの記事」を見かける機会が増えたのもあって、自身の開発環境のアップデートしたいなと感じていました。
 かと...</summary>
@@ -921,6 +921,21 @@ Pythonでプログラミングをしていると、当たり前のように使�
 Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cdc85e68d948c0924294</id>
+    <title>[個人開発] 巨大駅の出口がわからないを写真と最小限の文章で解決する「Dexit」を作成しました [Next.js×Vercel]</title>
+    <link rel="alternate" href="https://qiita.com/Daichisama/items/cdc85e68d948c0924294?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-08T19:41:53+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Daichisama&quot;&gt;Daichisama&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T19:12:58+09:00&lt;br/&gt;Updated: 2026-02-08T19:41:53+09:00&lt;br/&gt;はじめに
+巨大駅を使ったことがある人なら、一度はこんな経験があると思います。
+
+改札は出られたのに、その先で迷う
+案内板を見ても「本当に合っているか」確信が持てない
+Googleマップを開いても、駅構内ではほぼ役に立たない
+
+特に新宿駅のような巨大駅では、
+「どの出口から...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cb29c3208ac188dad5f1</id>
     <title>OCIのノーコード・エージェントビルダー『Agent Factory』がリリース！触ってみた</title>
     <link rel="alternate" href="https://qiita.com/yushibats/items/cb29c3208ac188dad5f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -954,21 +969,6 @@ OCI Market...</summary>
 「Generative UI」という単語をご存知でしょうか？
 Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cdc85e68d948c0924294</id>
-    <title>[個人開発] 巨大駅の出口がわからないを写真と最小限の文章で解決する「Dexit」を作成しました [Next.js×Vercel]</title>
-    <link rel="alternate" href="https://qiita.com/Daichisama/items/cdc85e68d948c0924294?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-08T19:41:53+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Daichisama&quot;&gt;Daichisama&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T19:12:58+09:00&lt;br/&gt;Updated: 2026-02-08T19:41:53+09:00&lt;br/&gt;はじめに
-巨大駅を使ったことがある人なら、一度はこんな経験があると思います。
-
-改札は出られたのに、その先で迷う
-案内板を見ても「本当に合っているか」確信が持てない
-Googleマップを開いても、駅構内ではほぼ役に立たない
-
-特に新宿駅のような巨大駅では、
-「どの出口から...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f66918b0a5dc59db9017</id>
@@ -1009,6 +1009,18 @@ The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハ�
 Win...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8010f0d62025db8f3d81</id>
+    <title>ベイズ原理主義者ブチ切れ必至！因子分析の再学習を50倍速める運用の知恵</title>
+    <link rel="alternate" href="https://qiita.com/Gotoubun_taiwan/items/8010f0d62025db8f3d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-07T18:52:28+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Gotoubun_taiwan&quot;&gt;Gotoubun_taiwan&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T18:52:28+09:00&lt;br/&gt;Updated: 2026-02-07T18:52:28+09:00&lt;br/&gt;はじめに
+こんにちは、事業会社で働いているデータサイエンティストです。
+
+本記事は、以下の記事の続編として、推定したベイズ機械学習モデル、とりわけ、いわゆる因子分析系のモデル、を「実際にどう運用するのか」に焦点を当てて解説します。
+
+まず大前提として、本記事は信用...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:910b7a6c1be97da2879d</id>
     <title>エンジニアなら知っておきたいサーバーの基本</title>
     <link rel="alternate" href="https://qiita.com/Suntory/items/910b7a6c1be97da2879d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1018,18 +1030,6 @@ Win...</summary>
 知らなくてもコードは書けますが、知っておくとエラーが起きた時の対応が早くなったり、コードを書く以外の部分で役に立つと思います。
 
 1. Webアプリケーショ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8010f0d62025db8f3d81</id>
-    <title>ベイズ原理主義者ブチ切れ必至！因子分析の再学習を50倍速める運用の知恵</title>
-    <link rel="alternate" href="https://qiita.com/Gotoubun_taiwan/items/8010f0d62025db8f3d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-07T18:52:28+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Gotoubun_taiwan&quot;&gt;Gotoubun_taiwan&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T18:52:28+09:00&lt;br/&gt;Updated: 2026-02-07T18:52:28+09:00&lt;br/&gt;はじめに
-こんにちは、事業会社で働いているデータサイエンティストです。
-
-本記事は、以下の記事の続編として、推定したベイズ機械学習モデル、とりわけ、いわゆる因子分析系のモデル、を「実際にどう運用するのか」に焦点を当てて解説します。
-
-まず大前提として、本記事は信用...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:176fb69b1be583c14a4a</id>
@@ -1570,6 +1570,16 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4eff08ff2413c23b95ec</id>
+    <title>Claude CodeのAgent Teamsをお試し様子見①「人間チーム開発の問題がなんか再現された」話</title>
+    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/4eff08ff2413c23b95ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-09T15:54:11+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T15:54:11+09:00&lt;br/&gt;Updated: 2026-02-09T15:54:11+09:00&lt;br/&gt;はじめに
+いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
+みなさん、Claude CodeのAgent Teams つかってます？
+複数のClaude Codeインスタンスを「チーム」として協調動作させるという、なかなか攻めた実験的機能（Re...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f036cf3ac3381e6f4438</id>
     <title>Windows アプリの開発手段の選択肢をまとめてみたの続き</title>
     <link rel="alternate" href="https://qiita.com/tinymouse/items/f036cf3ac3381e6f4438?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1759,16 +1769,6 @@ C++の代わりにRustで記述する
 この章では、「どう直すか...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:4eff08ff2413c23b95ec</id>
-    <title>Claude CodeのAgent Teamsをお試し様子見①「人間チーム開発の問題がなんか再現された」話</title>
-    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/4eff08ff2413c23b95ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-09T15:54:11+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T15:54:11+09:00&lt;br/&gt;Updated: 2026-02-09T15:54:11+09:00&lt;br/&gt;はじめに
-いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
-みなさん、Claude CodeのAgent Teams つかってます？
-複数のClaude Codeインスタンスを「チーム」として協調動作させるという、なかなか攻めた実験的機能（Re...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:fbabdb74ccad1ec316c1</id>
     <title>【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（後編）</title>
     <link rel="alternate" href="https://qiita.com/yushibats/items/fbabdb74ccad1ec316c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1836,6 +1836,21 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 
 2025年12月現在&quot;C++26&quot;はISO/IEC標準規格としては未発行のため、代わりに最新Working Draft N5032（2025-12-15）を参照しています。
 
+...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:fca5a1898cc2a9c961f6</id>
+    <title>生成AI・LLM必須リンク集2026</title>
+    <link rel="alternate" href="https://qiita.com/aokikenichi/items/fca5a1898cc2a9c961f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-08T15:35:29+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aokikenichi&quot;&gt;aokikenichi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T15:35:29+09:00&lt;br/&gt;Updated: 2026-02-08T15:35:29+09:00&lt;br/&gt;意外とないので自分のメモとしている生成AIリンク集を公開
+
+Chatサービス、プロンプト集、リーダーボード、情報収集のコンテンツなど
+エージェント、バイブコーディング、画像、動画、音声には私が疎いのでそこは手薄（今後頑張ります）
+
+初心者向け
+
+サイト
 ...</summary>
   </entry>
   <entry>
@@ -2036,21 +2051,6 @@ Claude Codeには日頃から大変お世話になっていますが、完全に
 完了時...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:fca5a1898cc2a9c961f6</id>
-    <title>生成AI・LLM必須リンク集2026</title>
-    <link rel="alternate" href="https://qiita.com/aokikenichi/items/fca5a1898cc2a9c961f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-08T15:35:29+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aokikenichi&quot;&gt;aokikenichi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T15:35:29+09:00&lt;br/&gt;Updated: 2026-02-08T15:35:29+09:00&lt;br/&gt;意外とないので自分のメモとしている生成AIリンク集を公開
-
-Chatサービス、プロンプト集、リーダーボード、情報収集のコンテンツなど
-エージェント、バイブコーディング、画像、動画、音声には私が疎いのでそこは手薄（今後頑張ります）
-
-初心者向け
-
-サイト
-...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:c70b14bb1cd3b5bd28ec</id>
     <title>サーバレスでここまでできる！CloudFront + S3 + Lambda でWeb公開</title>
     <link rel="alternate" href="https://qiita.com/toyooka_yuga/items/c70b14bb1cd3b5bd28ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2154,8 +2154,8 @@ Power Automate を触っていて実行結果（履歴）を確認してみる�
     <id>tag:qiita.com,2026:6b56ecbecf8140ec0dbb</id>
     <title>腑に落ちない人のための多重共線性（マルチコ）</title>
     <link rel="alternate" href="https://qiita.com/Mark-N/items/6b56ecbecf8140ec0dbb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-09T11:13:24+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Mark-N&quot;&gt;Mark-N&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T17:37:57+09:00&lt;br/&gt;Updated: 2026-02-09T11:13:24+09:00&lt;br/&gt;データ分析をする人であれば一度は「多重共線性」という言葉を聞いたことがあると思います。色々な人の話を聞いてみると、
+    <updated>2026-02-10T10:44:04+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Mark-N&quot;&gt;Mark-N&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T17:37:57+09:00&lt;br/&gt;Updated: 2026-02-10T10:44:04+09:00&lt;br/&gt;データ分析をする人であれば一度は「多重共線性」という言葉を聞いたことがあると思います。色々な人の話を聞いてみると、
 
 とりあえず知らないとやばいらしい
 不安定ってなんだよ
