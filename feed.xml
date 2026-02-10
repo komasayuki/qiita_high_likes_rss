@@ -416,7 +416,7 @@ A...</summary>
     <title>開発ツール管理？断然Miseでしょ。</title>
     <link rel="alternate" href="https://qiita.com/umekikazuya/items/388a7aaad767b9e11fa3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-08T03:13:46+09:00</updated>
-    <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/umekikazuya&quot;&gt;umekikazuya&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T02:44:08+09:00&lt;br/&gt;Updated: 2026-02-08T03:13:46+09:00&lt;br/&gt;みなさんは開発環境のツール管理、どうしてますか？
+    <summary type="html">Likes: 91&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/umekikazuya&quot;&gt;umekikazuya&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T02:44:08+09:00&lt;br/&gt;Updated: 2026-02-08T03:13:46+09:00&lt;br/&gt;みなさんは開発環境のツール管理、どうしてますか？
 私は業界に入って三年半ほど Homebrew を利用していましたが、
 最近、「Nixの記事」や「みなさんのDotfilesの記事」を見かける機会が増えたのもあって、自身の開発環境のアップデートしたいなと感じていました。
 かと...</summary>
@@ -845,6 +845,18 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
 Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、いわゆるエージェントタスクにおける計算資源としての使い方が向いているのではという気がしてきた。イメージはAWS LambdaのようなFunction as a serviceのようなワンショットな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8010f0d62025db8f3d81</id>
+    <title>ベイズ原理主義者ブチ切れ必至！因子分析の再学習を50倍速める運用の知恵</title>
+    <link rel="alternate" href="https://qiita.com/Gotoubun_taiwan/items/8010f0d62025db8f3d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-07T18:52:28+09:00</updated>
+    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Gotoubun_taiwan&quot;&gt;Gotoubun_taiwan&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T18:52:28+09:00&lt;br/&gt;Updated: 2026-02-07T18:52:28+09:00&lt;br/&gt;はじめに
+こんにちは、事業会社で働いているデータサイエンティストです。
+
+本記事は、以下の記事の続編として、推定したベイズ機械学習モデル、とりわけ、いわゆる因子分析系のモデル、を「実際にどう運用するのか」に焦点を当てて解説します。
+
+まず大前提として、本記事は信用...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b31603922b791c37cc37</id>
     <title>応用情報の廃止・再編「今」取るべき理由と合格戦略</title>
     <link rel="alternate" href="https://qiita.com/shibuya-ys/items/b31603922b791c37cc37?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -881,18 +893,6 @@ CLAUDE.md
 
 Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレポートを出してくれる /insights コマンドが追加されていたようです。
 私は24時間使いまわすほどのヘビーユーザーでは...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8010f0d62025db8f3d81</id>
-    <title>ベイズ原理主義者ブチ切れ必至！因子分析の再学習を50倍速める運用の知恵</title>
-    <link rel="alternate" href="https://qiita.com/Gotoubun_taiwan/items/8010f0d62025db8f3d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-07T18:52:28+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Gotoubun_taiwan&quot;&gt;Gotoubun_taiwan&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T18:52:28+09:00&lt;br/&gt;Updated: 2026-02-07T18:52:28+09:00&lt;br/&gt;はじめに
-こんにちは、事業会社で働いているデータサイエンティストです。
-
-本記事は、以下の記事の続編として、推定したベイズ機械学習モデル、とりわけ、いわゆる因子分析系のモデル、を「実際にどう運用するのか」に焦点を当てて解説します。
-
-まず大前提として、本記事は信用...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:351912f61ffe1b177a68</id>
@@ -946,6 +946,15 @@ Pythonでプログラミングをしていると、当たり前のように使�
 2026/1/18 に以下のようなツイートを見かけました。
 
 Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4db2182e2384df4122a2</id>
+    <title>Microsoft Teams を悪用したCEO詐欺（ビジネスチャット詐欺）について</title>
+    <link rel="alternate" href="https://qiita.com/hirotomotaguchi/items/4db2182e2384df4122a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-08T15:10:10+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirotomotaguchi&quot;&gt;hirotomotaguchi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T08:10:56+09:00&lt;br/&gt;Updated: 2026-02-08T15:10:10+09:00&lt;br/&gt;古典的ですが、最近とても流行っている「CEO詐欺（経営層になりすました詐欺）」が、Microsoft Teams などのチャットツールにも広がりを見せているそうです。昔から Teams を使った詐欺は行われていたものの、改めてまとめていきたいと思います。
+
+本記事では ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cb29c3208ac188dad5f1</id>
@@ -1019,15 +1028,6 @@ The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハ�
 私の現在のデスクトップ環境
 
 Win...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4db2182e2384df4122a2</id>
-    <title>Microsoft Teams を悪用したCEO詐欺（ビジネスチャット詐欺）について</title>
-    <link rel="alternate" href="https://qiita.com/hirotomotaguchi/items/4db2182e2384df4122a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-08T15:10:10+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hirotomotaguchi&quot;&gt;hirotomotaguchi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T08:10:56+09:00&lt;br/&gt;Updated: 2026-02-08T15:10:10+09:00&lt;br/&gt;古典的ですが、最近とても流行っている「CEO詐欺（経営層になりすました詐欺）」が、Microsoft Teams などのチャットツールにも広がりを見せているそうです。昔から Teams を使った詐欺は行われていたものの、改めてまとめていきたいと思います。
-
-本記事では ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:910b7a6c1be97da2879d</id>
@@ -1301,6 +1301,21 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fca5a1898cc2a9c961f6</id>
+    <title>生成AI・LLM必須リンク集2026</title>
+    <link rel="alternate" href="https://qiita.com/aokikenichi/items/fca5a1898cc2a9c961f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-08T15:35:29+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aokikenichi&quot;&gt;aokikenichi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T15:35:29+09:00&lt;br/&gt;Updated: 2026-02-08T15:35:29+09:00&lt;br/&gt;意外とないので自分のメモとしている生成AIリンク集を公開
+
+Chatサービス、プロンプト集、リーダーボード、情報収集のコンテンツなど
+エージェント、バイブコーディング、画像、動画、音声には私が疎いのでそこは手薄（今後頑張ります）
+
+初心者向け
+
+サイト
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0d6797b848ed41d0e697</id>
     <title>React 19の型定義では「FC」と「ReactNodeを返す関数」が違う</title>
     <link rel="alternate" href="https://qiita.com/uhyo/items/0d6797b848ed41d0e697?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1356,6 +1371,16 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 1. ブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4eff08ff2413c23b95ec</id>
+    <title>Claude CodeのAgent Teamsをお試し様子見①「人間チーム開発の問題がなんか再現された」話</title>
+    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/4eff08ff2413c23b95ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-09T15:54:11+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T15:54:11+09:00&lt;br/&gt;Updated: 2026-02-09T15:54:11+09:00&lt;br/&gt;はじめに
+いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
+みなさん、Claude CodeのAgent Teams つかってます？
+複数のClaude Codeインスタンスを「チーム」として協調動作させるという、なかなか攻めた実験的機能（Re...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1ae89e9d8d5c2cfa8180</id>
     <title>Rustを勉強して分かったC言語経験者がつまづきやすいポイント</title>
     <link rel="alternate" href="https://qiita.com/denden888/items/1ae89e9d8d5c2cfa8180?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1405,16 +1430,6 @@ Clawdbot（クロードボット）は、1台のPCをハブにして Discord・S
 すべてのコードを読み切れているかと言われたら正直答えはNoです。
 
 その...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4eff08ff2413c23b95ec</id>
-    <title>Claude CodeのAgent Teamsをお試し様子見①「人間チーム開発の問題がなんか再現された」話</title>
-    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/4eff08ff2413c23b95ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-09T15:54:11+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T15:54:11+09:00&lt;br/&gt;Updated: 2026-02-09T15:54:11+09:00&lt;br/&gt;はじめに
-いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
-みなさん、Claude CodeのAgent Teams つかってます？
-複数のClaude Codeインスタンスを「チーム」として協調動作させるという、なかなか攻めた実験的機能（Re...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cbad89098dfcc8c71178</id>
@@ -1578,21 +1593,6 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 フルサーバーレスで維持費激安なのが嬉しいポイントです。
 
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fca5a1898cc2a9c961f6</id>
-    <title>生成AI・LLM必須リンク集2026</title>
-    <link rel="alternate" href="https://qiita.com/aokikenichi/items/fca5a1898cc2a9c961f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-08T15:35:29+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aokikenichi&quot;&gt;aokikenichi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T15:35:29+09:00&lt;br/&gt;Updated: 2026-02-08T15:35:29+09:00&lt;br/&gt;意外とないので自分のメモとしている生成AIリンク集を公開
-
-Chatサービス、プロンプト集、リーダーボード、情報収集のコンテンツなど
-エージェント、バイブコーディング、画像、動画、音声には私が疎いのでそこは手薄（今後頑張ります）
-
-初心者向け
-
-サイト
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f036cf3ac3381e6f4438</id>
@@ -2051,6 +2051,20 @@ Claude Codeには日頃から大変お世話になっていますが、完全に
 完了時...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6b56ecbecf8140ec0dbb</id>
+    <title>腑に落ちない人のための多重共線性（マルチコ）</title>
+    <link rel="alternate" href="https://qiita.com/Mark-N/items/6b56ecbecf8140ec0dbb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-10T10:44:04+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Mark-N&quot;&gt;Mark-N&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T17:37:57+09:00&lt;br/&gt;Updated: 2026-02-10T10:44:04+09:00&lt;br/&gt;データ分析をする人であれば一度は「多重共線性」という言葉を聞いたことがあると思います。色々な人の話を聞いてみると、
+
+とりあえず知らないとやばいらしい
+不安定ってなんだよ
+機械学習だと別に気にしなくてもいいらしい
+結局よく分からんかった
+
+みたいな感じで、どれを見てもなんか...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c70b14bb1cd3b5bd28ec</id>
     <title>サーバレスでここまでできる！CloudFront + S3 + Lambda でWeb公開</title>
     <link rel="alternate" href="https://qiita.com/toyooka_yuga/items/c70b14bb1cd3b5bd28ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2149,20 +2163,6 @@ Pythonで学ぶ Webアプリのセキュアコーディング 脆弱性の見つ
 Power Automate を触っていて実行結果（履歴）を確認してみると、以下の画像の「出力」のように、何やら不思議な文字列の「かたまり」を目にしたことがあるかもしれません。
 
 [{ &quot;バージョン&quot;: &quot;2.0&quot;, &quot;更新者&quot;: &quot;kuro.&quot; }] のように、英数...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6b56ecbecf8140ec0dbb</id>
-    <title>腑に落ちない人のための多重共線性（マルチコ）</title>
-    <link rel="alternate" href="https://qiita.com/Mark-N/items/6b56ecbecf8140ec0dbb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-10T10:44:04+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Mark-N&quot;&gt;Mark-N&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T17:37:57+09:00&lt;br/&gt;Updated: 2026-02-10T10:44:04+09:00&lt;br/&gt;データ分析をする人であれば一度は「多重共線性」という言葉を聞いたことがあると思います。色々な人の話を聞いてみると、
-
-とりあえず知らないとやばいらしい
-不安定ってなんだよ
-機械学習だと別に気にしなくてもいいらしい
-結局よく分からんかった
-
-みたいな感じで、どれを見てもなんか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:12ba1c97612fa0f12acd</id>
