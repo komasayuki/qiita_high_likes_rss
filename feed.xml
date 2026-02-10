@@ -374,7 +374,7 @@ PRUMについて気になった方は...</summary>
     <title>開発ツール管理？断然Miseでしょ。</title>
     <link rel="alternate" href="https://qiita.com/umekikazuya/items/388a7aaad767b9e11fa3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-08T03:13:46+09:00</updated>
-    <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/umekikazuya&quot;&gt;umekikazuya&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T02:44:08+09:00&lt;br/&gt;Updated: 2026-02-08T03:13:46+09:00&lt;br/&gt;みなさんは開発環境のツール管理、どうしてますか？
+    <summary type="html">Likes: 101&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/umekikazuya&quot;&gt;umekikazuya&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T02:44:08+09:00&lt;br/&gt;Updated: 2026-02-08T03:13:46+09:00&lt;br/&gt;みなさんは開発環境のツール管理、どうしてますか？
 私は業界に入って三年半ほど Homebrew を利用していましたが、
 最近、「Nixの記事」や「みなさんのDotfilesの記事」を見かける機会が増えたのもあって、自身の開発環境のアップデートしたいなと感じていました。
 かと...</summary>
@@ -849,19 +849,11 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:85b419b26b2886f5e2d6</id>
-    <title>ローカルLLMサーバーの実用的な使い道の検討</title>
-    <link rel="alternate" href="https://qiita.com/bd8z/items/85b419b26b2886f5e2d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-18T23:59:50+09:00</updated>
-    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/bd8z&quot;&gt;bd8z&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T12:50:10+09:00&lt;br/&gt;Updated: 2026-01-18T23:59:50+09:00&lt;br/&gt;はじめに
-Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、いわゆるエージェントタスクにおける計算資源としての使い方が向いているのではという気がしてきた。イメージはAWS LambdaのようなFunction as a serviceのようなワンショットな...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:fca5a1898cc2a9c961f6</id>
     <title>生成AI・LLM必須リンク集2026</title>
     <link rel="alternate" href="https://qiita.com/aokikenichi/items/fca5a1898cc2a9c961f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-08T15:35:29+09:00</updated>
-    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aokikenichi&quot;&gt;aokikenichi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T15:35:29+09:00&lt;br/&gt;Updated: 2026-02-08T15:35:29+09:00&lt;br/&gt;意外とないので自分のメモとしている生成AIリンク集を公開
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aokikenichi&quot;&gt;aokikenichi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T15:35:29+09:00&lt;br/&gt;Updated: 2026-02-08T15:35:29+09:00&lt;br/&gt;意外とないので自分のメモとしている生成AIリンク集を公開
 
 Chatサービス、プロンプト集、リーダーボード、情報収集のコンテンツなど
 エージェント、バイブコーディング、画像、動画、音声には私が疎いのでそこは手薄（今後頑張ります）
@@ -870,6 +862,14 @@ Chatサービス、プロンプト集、リーダーボード、情報収集の�
 
 サイト
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:85b419b26b2886f5e2d6</id>
+    <title>ローカルLLMサーバーの実用的な使い道の検討</title>
+    <link rel="alternate" href="https://qiita.com/bd8z/items/85b419b26b2886f5e2d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-01-18T23:59:50+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/bd8z&quot;&gt;bd8z&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T12:50:10+09:00&lt;br/&gt;Updated: 2026-01-18T23:59:50+09:00&lt;br/&gt;はじめに
+Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、いわゆるエージェントタスクにおける計算資源としての使い方が向いているのではという気がしてきた。イメージはAWS LambdaのようなFunction as a serviceのようなワンショットな...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b31603922b791c37cc37</id>
@@ -1311,6 +1311,15 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:9cd09d8a0d598bdff9fb</id>
+    <title>TCP/IPのきほんで学ぶ「ネットワークのセキュリティ① 」HTTPS・暗号化・VPNを整理してみた</title>
+    <link rel="alternate" href="https://qiita.com/masa_tech_0326/items/9cd09d8a0d598bdff9fb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-10T09:32:07+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa_tech_0326&quot;&gt;masa_tech_0326&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T11:16:12+09:00&lt;br/&gt;Updated: 2026-02-10T09:32:07+09:00&lt;br/&gt;はじめに
+最近技術書を毎日30分以上読むようにしているのですが、記事としてアウトプットしないと、自分の中で定着しない気がしたので、読んで学んだことを共有していきたいと思います。
+今回は『スラスラわかるネットワーク&amp;amp;TCP/IPのきほん』のChapter06 セキュリティ章...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
     <title>Microsoft 365 Copilotに色々な方法でパワポ作成を丸投げしてみた</title>
     <link rel="alternate" href="https://qiita.com/Oyu3m/items/7c9c19c257be35f5dcec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1394,15 +1403,6 @@ Mermaid では、flowchart の矢印に animation を指定することで、通
 HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウェブサーバーの間でHTMLファイルや画像などのウェブ情報をやり取りするための通信ルール（プロトコル）です。
 1回の通信で最低限起きていること
 1. ブ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9cd09d8a0d598bdff9fb</id>
-    <title>TCP/IPのきほんで学ぶ「ネットワークのセキュリティ① 」HTTPS・暗号化・VPNを整理してみた</title>
-    <link rel="alternate" href="https://qiita.com/masa_tech_0326/items/9cd09d8a0d598bdff9fb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-10T09:32:07+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa_tech_0326&quot;&gt;masa_tech_0326&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T11:16:12+09:00&lt;br/&gt;Updated: 2026-02-10T09:32:07+09:00&lt;br/&gt;はじめに
-最近技術書を毎日30分以上読むようにしているのですが、記事としてアウトプットしないと、自分の中で定着しない気がしたので、読んで学んだことを共有していきたいと思います。
-今回は『スラスラわかるネットワーク&amp;amp;TCP/IPのきほん』のChapter06 セキュリティ章...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1ae89e9d8d5c2cfa8180</id>
@@ -1668,6 +1668,15 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6c8f9db6565e80332d05</id>
+    <title>【WebF】React/Vue/Svelteがそのままネイティブアプリになるよ</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/6c8f9db6565e80332d05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-09T20:09:27+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T20:09:27+09:00&lt;br/&gt;Updated: 2026-02-09T20:09:27+09:00&lt;br/&gt;この手の話をもう何万回聞いたかわかりませんが、GitHubリポジトリのコミット数や頻度を見るにかなりの本気度を感じます。
+そんなわけでJavaScriptをそのままネイティブアプリにするプロジェクトのひとつ、OpenWebFがベータ版に到達したようです。
+以下は公式ブログ、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:24a60507b75a337ff184</id>
     <title>【時短術】Nano Bananaの画像をパワポの『オブジェクト』として編集する方法（SVG変換）</title>
     <link rel="alternate" href="https://qiita.com/hamham/items/24a60507b75a337ff184?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1806,15 +1815,6 @@ C++の代わりにRustで記述する
 バトルの最中にゲームがフリーズする状態。
 止まる以上、「あとで考えよう」はできません。
 この章では、「どう直すか...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6c8f9db6565e80332d05</id>
-    <title>【WebF】React/Vue/Svelteがそのままネイティブアプリになるよ</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/6c8f9db6565e80332d05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-09T20:09:27+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T20:09:27+09:00&lt;br/&gt;Updated: 2026-02-09T20:09:27+09:00&lt;br/&gt;この手の話をもう何万回聞いたかわかりませんが、GitHubリポジトリのコミット数や頻度を見るにかなりの本気度を感じます。
-そんなわけでJavaScriptをそのままネイティブアプリにするプロジェクトのひとつ、OpenWebFがベータ版に到達したようです。
-以下は公式ブログ、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fbabdb74ccad1ec316c1</id>
