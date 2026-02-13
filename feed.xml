@@ -124,7 +124,7 @@ ChatGPT：
     <title>【最新版】GitHub Copilotを使っている人は全員&quot;SKILL.md&quot;も導入してください</title>
     <link rel="alternate" href="https://qiita.com/TooMe/items/230a730ce0387c77e822?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-12T11:31:16+09:00</updated>
-    <summary type="html">Likes: 166&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TooMe&quot;&gt;TooMe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T11:31:15+09:00&lt;br/&gt;Updated: 2026-02-12T11:31:16+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 167&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TooMe&quot;&gt;TooMe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T11:31:15+09:00&lt;br/&gt;Updated: 2026-02-12T11:31:16+09:00&lt;br/&gt;はじめに
 
 本記事はGitHub Copilotを使っている人は全員&quot;copilot-instructions.md&quot;を作成してくださいの続編になります。
 
@@ -308,7 +308,7 @@ AWS Toolkit for V...</summary>
     <title>draw.io公式MCP Serverがリリース！Kiro CLIで試してみつつ、AWS Diagram MCP Serverとの比較もやってみた</title>
     <link rel="alternate" href="https://qiita.com/sh_fukatsu/items/582dc769379e2c32ae30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-13T08:17:03+09:00</updated>
-    <summary type="html">Likes: 120&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sh_fukatsu&quot;&gt;sh_fukatsu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T23:26:02+09:00&lt;br/&gt;Updated: 2026-02-13T08:17:03+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 121&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sh_fukatsu&quot;&gt;sh_fukatsu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T23:26:02+09:00&lt;br/&gt;Updated: 2026-02-13T08:17:03+09:00&lt;br/&gt;はじめに
 2026年2月、draw.ioの公式MCP（Model Context Protocol）Serverがリリースされました。
 
 MCP Serverの登場が相次いでいますが、作図ツールとして広く使われている（と思っている）draw.ioからも公式のMC...</summary>
@@ -1279,6 +1279,18 @@ C#で非同期処理を組み立てていると、タスク間でデータを受
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:29219d2c3126b97e7a0c</id>
+    <title>【draw.io MCP】触ってみた所感と何が便利なのか</title>
+    <link rel="alternate" href="https://qiita.com/ryu-ki/items/29219d2c3126b97e7a0c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-12T08:31:50+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T08:31:50+09:00&lt;br/&gt;Updated: 2026-02-12T08:31:50+09:00&lt;br/&gt;はじめに
+draw.io の MCP サーバーが公開されていたので、軽く触ってみました。
+
+勝手に、よりいい感じの図を出力してくれると思って使ったのですが、（何も使わずに「drawio 形式で書いて」と指示する場合と比べて）あまり違いを感じませんでした。
+
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4d8a4739cd738c425ee2</id>
     <title>純粋関数型言語ではconsole.log(&quot;Hello&quot;)をlog &quot;Hello&quot;と書くし、foo = 42をwrite 42 fooと書く</title>
     <link rel="alternate" href="https://qiita.com/hiruberuto/items/4d8a4739cd738c425ee2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1289,18 +1301,6 @@ JavaScript
 console.log(&quot;Hello&quot;)
 
 と書く一方で、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:29219d2c3126b97e7a0c</id>
-    <title>【draw.io MCP】触ってみた所感と何が便利なのか</title>
-    <link rel="alternate" href="https://qiita.com/ryu-ki/items/29219d2c3126b97e7a0c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-12T08:31:50+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T08:31:50+09:00&lt;br/&gt;Updated: 2026-02-12T08:31:50+09:00&lt;br/&gt;はじめに
-draw.io の MCP サーバーが公開されていたので、軽く触ってみました。
-
-勝手に、よりいい感じの図を出力してくれると思って使ったのですが、（何も使わずに「drawio 形式で書いて」と指示する場合と比べて）あまり違いを感じませんでした。
-
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:52e164dfb810e700348f</id>
