@@ -120,6 +120,17 @@ ChatGPT：
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:230a730ce0387c77e822</id>
+    <title>【最新版】GitHub Copilotを使っている人は全員&quot;SKILL.md&quot;も導入してください</title>
+    <link rel="alternate" href="https://qiita.com/TooMe/items/230a730ce0387c77e822?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-12T11:31:16+09:00</updated>
+    <summary type="html">Likes: 166&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TooMe&quot;&gt;TooMe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T11:31:15+09:00&lt;br/&gt;Updated: 2026-02-12T11:31:16+09:00&lt;br/&gt;はじめに
+
+本記事はGitHub Copilotを使っている人は全員&quot;copilot-instructions.md&quot;を作成してくださいの続編になります。
+
+本記事ではカスタムインストラクション(あるいはコンテキストファイル)にcopilot-instructio...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:14554853372f33c3374b</id>
     <title>エンジニアは、なぜ生成AIで仕事が楽にならないのか</title>
     <link rel="alternate" href="https://qiita.com/KYoshiyama/items/14554853372f33c3374b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -139,17 +150,6 @@ ChatGPT：
 こんにちは、hirokiです。
 現在、AWS SAP（Solution Architect Professional）の取得に向けて日々勉強をしています。
 そこで前から気になっていたNotebookLMを学習に取り入れてみたところ、めちゃくちゃ勉強が捗ったので、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:230a730ce0387c77e822</id>
-    <title>【最新版】GitHub Copilotを使っている人は全員&quot;SKILL.md&quot;も導入してください</title>
-    <link rel="alternate" href="https://qiita.com/TooMe/items/230a730ce0387c77e822?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-12T11:31:16+09:00</updated>
-    <summary type="html">Likes: 161&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TooMe&quot;&gt;TooMe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T11:31:15+09:00&lt;br/&gt;Updated: 2026-02-12T11:31:16+09:00&lt;br/&gt;はじめに
-
-本記事はGitHub Copilotを使っている人は全員&quot;copilot-instructions.md&quot;を作成してくださいの続編になります。
-
-本記事ではカスタムインストラクション(あるいはコンテキストファイル)にcopilot-instructio...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cabcfb8c91b857cc164f</id>
@@ -308,7 +308,7 @@ AWS Toolkit for V...</summary>
     <title>draw.io公式MCP Serverがリリース！Kiro CLIで試してみつつ、AWS Diagram MCP Serverとの比較もやってみた</title>
     <link rel="alternate" href="https://qiita.com/sh_fukatsu/items/582dc769379e2c32ae30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-13T08:17:03+09:00</updated>
-    <summary type="html">Likes: 118&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sh_fukatsu&quot;&gt;sh_fukatsu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T23:26:02+09:00&lt;br/&gt;Updated: 2026-02-13T08:17:03+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 120&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sh_fukatsu&quot;&gt;sh_fukatsu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T23:26:02+09:00&lt;br/&gt;Updated: 2026-02-13T08:17:03+09:00&lt;br/&gt;はじめに
 2026年2月、draw.ioの公式MCP（Model Context Protocol）Serverがリリースされました。
 
 MCP Serverの登場が相次いでいますが、作図ツールとして広く使われている（と思っている）draw.ioからも公式のMC...</summary>
@@ -1291,6 +1291,18 @@ console.log(&quot;Hello&quot;)
 と書く一方で、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:29219d2c3126b97e7a0c</id>
+    <title>【draw.io MCP】触ってみた所感と何が便利なのか</title>
+    <link rel="alternate" href="https://qiita.com/ryu-ki/items/29219d2c3126b97e7a0c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-12T08:31:50+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T08:31:50+09:00&lt;br/&gt;Updated: 2026-02-12T08:31:50+09:00&lt;br/&gt;はじめに
+draw.io の MCP サーバーが公開されていたので、軽く触ってみました。
+
+勝手に、よりいい感じの図を出力してくれると思って使ったのですが、（何も使わずに「drawio 形式で書いて」と指示する場合と比べて）あまり違いを感じませんでした。
+
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:52e164dfb810e700348f</id>
     <title>高校生が作った「AIに丸投げできるスクレイピングシステム」が、Bright Dataで合法かつ最強になった話</title>
     <link rel="alternate" href="https://qiita.com/harupython/items/52e164dfb810e700348f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1355,18 +1367,6 @@ E2Eテストの自動化、進めていますか？
     <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuni-i&quot;&gt;kimuni-i&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T15:16:50+09:00&lt;br/&gt;Updated: 2026-01-20T15:53:08+09:00&lt;br/&gt;はじめに
 要件定義書の作成に悩んでいませんか？「何を書けばいいかわからない」「後工程で使いにくいと言われる」「ステークホルダーとの認識がズレる」——こうした課題は、要件定義書の構造化で大きく改善できます。
 今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:29219d2c3126b97e7a0c</id>
-    <title>【draw.io MCP】触ってみた所感と何が便利なのか</title>
-    <link rel="alternate" href="https://qiita.com/ryu-ki/items/29219d2c3126b97e7a0c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-12T08:31:50+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T08:31:50+09:00&lt;br/&gt;Updated: 2026-02-12T08:31:50+09:00&lt;br/&gt;はじめに
-draw.io の MCP サーバーが公開されていたので、軽く触ってみました。
-
-勝手に、よりいい感じの図を出力してくれると思って使ったのですが、（何も使わずに「drawio 形式で書いて」と指示する場合と比べて）あまり違いを感じませんでした。
-
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a8409d108cae24888ba0</id>
