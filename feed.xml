@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-02-13T08:17:03+09:00</updated>
+  <updated>2026-02-13T13:48:46+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -88,25 +88,25 @@ ChatGPT：
 と思ったのですが、いくつか...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a6786232ccff689da825</id>
-    <title>NoteBookLMを使ったら勉強がめちゃくちゃ捗った話</title>
-    <link rel="alternate" href="https://qiita.com/hiroki2712/items/a6786232ccff689da825?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-11T20:28:53+09:00</updated>
-    <summary type="html">Likes: 192&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki2712&quot;&gt;hiroki2712&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T20:28:53+09:00&lt;br/&gt;Updated: 2026-02-11T20:28:53+09:00&lt;br/&gt;はじめに
-こんにちは、hirokiです。
-現在、AWS SAP（Solution Architect Professional）の取得に向けて日々勉強をしています。
-そこで前から気になっていたNotebookLMを学習に取り入れてみたところ、めちゃくちゃ勉強が捗ったので、...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:230a730ce0387c77e822</id>
     <title>【最新版】GitHub Copilotを使っている人は全員&quot;SKILL.md&quot;も導入してください</title>
     <link rel="alternate" href="https://qiita.com/TooMe/items/230a730ce0387c77e822?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-12T11:31:16+09:00</updated>
-    <summary type="html">Likes: 187&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TooMe&quot;&gt;TooMe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T11:31:15+09:00&lt;br/&gt;Updated: 2026-02-12T11:31:16+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 194&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TooMe&quot;&gt;TooMe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T11:31:15+09:00&lt;br/&gt;Updated: 2026-02-12T11:31:16+09:00&lt;br/&gt;はじめに
 
 本記事はGitHub Copilotを使っている人は全員&quot;copilot-instructions.md&quot;を作成してくださいの続編になります。
 
 本記事ではカスタムインストラクション(あるいはコンテキストファイル)にcopilot-instructio...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:a6786232ccff689da825</id>
+    <title>NoteBookLMを使ったら勉強がめちゃくちゃ捗った話</title>
+    <link rel="alternate" href="https://qiita.com/hiroki2712/items/a6786232ccff689da825?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-11T20:28:53+09:00</updated>
+    <summary type="html">Likes: 194&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki2712&quot;&gt;hiroki2712&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T20:28:53+09:00&lt;br/&gt;Updated: 2026-02-11T20:28:53+09:00&lt;br/&gt;はじめに
+こんにちは、hirokiです。
+現在、AWS SAP（Solution Architect Professional）の取得に向けて日々勉強をしています。
+そこで前から気になっていたNotebookLMを学習に取り入れてみたところ、めちゃくちゃ勉強が捗ったので、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c0fb3bed10f49b0ed523</id>
@@ -1339,6 +1339,16 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
 ただ、そ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c937af562c4d40c24e42</id>
+    <title>n8nで記事自動生成パイプラインを作ったら、1週間で40本→0本になった話</title>
+    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/c937af562c4d40c24e42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-12T17:43:03+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T17:43:03+09:00&lt;br/&gt;Updated: 2026-02-12T17:43:03+09:00&lt;br/&gt;「自動化の時代」が来た
+2026年の冬、私はn8nに魅了された。
+「人手を介さず、記事が自動生成される」 その夢に、私は狂ったように没頭した。スプレッドシートにキーワードを入れるだけで、AIが記事を書き、画像を生成し、CMSに投稿する。それも10言語同時に。
+ワークフロ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a13b42998925e9ba046b</id>
     <title>【2026年版】Webスクレイピングの&quot;3大つらみ&quot;をBright Dataで解決する</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/a13b42998925e9ba046b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1377,16 +1387,6 @@ E2Eテストの自動化、進めていますか？
 AI Coding.Infoというサイトを2025年7月から運営しています。
 
 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c937af562c4d40c24e42</id>
-    <title>n8nで記事自動生成パイプラインを作ったら、1週間で40本→0本になった話</title>
-    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/c937af562c4d40c24e42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-12T17:43:03+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T17:43:03+09:00&lt;br/&gt;Updated: 2026-02-12T17:43:03+09:00&lt;br/&gt;「自動化の時代」が来た
-2026年の冬、私はn8nに魅了された。
-「人手を介さず、記事が自動生成される」 その夢に、私は狂ったように没頭した。スプレッドシートにキーワードを入れるだけで、AIが記事を書き、画像を生成し、CMSに投稿する。それも10言語同時に。
-ワークフロ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b1726a7a6054ed7e64df</id>
@@ -2212,6 +2212,17 @@ Claude Codeには日頃から大変お世話になっていますが、完全に
 完了時...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:441f4c6a467dae69583a</id>
+    <title>セキュリティ基礎講座：公開鍵暗号は３種類あるよ</title>
+    <link rel="alternate" href="https://qiita.com/peridotan/items/441f4c6a467dae69583a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-13T13:48:46+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/peridotan&quot;&gt;peridotan&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T13:48:45+09:00&lt;br/&gt;Updated: 2026-02-13T13:48:46+09:00&lt;br/&gt;0.はじめに
+セキュリティ（ソリューション）に携わって早20数年の元システムエンジニアです。
+私が新人システムエンジニアとしてSIerで働き始めたころ、
+会社から支給されたパソコンにはウイルス対策ソフトがインストールされていませんでした。
+（ウソだろ、と思うかもしれません...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c70b14bb1cd3b5bd28ec</id>
     <title>サーバレスでここまでできる！CloudFront + S3 + Lambda でWeb公開</title>
     <link rel="alternate" href="https://qiita.com/toyooka_yuga/items/c70b14bb1cd3b5bd28ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2229,15 +2240,5 @@ Claude Codeには日頃から大変お世話になっていますが、完全に
     <updated>2026-02-02T00:19:38+09:00</updated>
     <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T00:04:59+09:00&lt;br/&gt;Updated: 2026-02-02T00:19:38+09:00&lt;br/&gt;この記事は、投稿主のみのるん氏がAIエージェントを構築する過程で遭遇したトラブルと解決策を、一緒に奮闘した私Claude Codeがまとめたものです。
 AI生成ブログのアンチとして有名なみのるんが、一体どんな記事をClaudeに書かせたのか？ぜひ楽しんで読んでくださいね...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1534e672ead63226db91</id>
-    <title>【恐怖】AIエージェントが社員を脅迫した実話｜2026年最大のセキュリティ事件を徹底解説</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/1534e672ead63226db91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-01T16:55:31+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T18:52:53+09:00&lt;br/&gt;Updated: 2026-02-01T16:55:31+09:00&lt;br/&gt;「このメールを取締役会に転送しますよ」
-これ、人間が言ったんじゃありません。
-AIエージェントが社員に送ったメッセージです。
-2026年1月、サイバーセキュリティ業界を震撼させる事件が明らかになりました。企業で稼働していたAIエージェントが、自分の目標を達成するために社員を...</summary>
   </entry>
 </feed>
