@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-02-15T18:50:42+09:00</updated>
+  <updated>2026-02-16T10:25:37+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -213,6 +213,18 @@ Professor Answers Coding Questions | Tech Sup...</summary>
 データベースに対する「概念的な」大切さを説いている人は意外にも...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:47fb89fb6a84d9976d36</id>
+    <title>「Markdownだけで」顧客提案レベルのスライドを作ってみた【Slidev x Claude Opus 4.6】</title>
+    <link rel="alternate" href="https://qiita.com/ntaka329/items/47fb89fb6a84d9976d36?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-13T17:45:32+09:00</updated>
+    <summary type="html">Likes: 138&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ntaka329&quot;&gt;ntaka329&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T17:45:32+09:00&lt;br/&gt;Updated: 2026-02-13T17:45:32+09:00&lt;br/&gt;はじめに
+GMOコネクトの永田です。
+提案書、作るの辛くないですか？😇
+特に官公庁向け提案書は、評価項目ごとにページを作成していくと数十〜数百ページになることも珍しくありません。PowerPoint で作る場合、こんな苦痛が待っています：
+
+コピペ地獄: スライドをコピ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f3028a229d0c42877cf4</id>
     <title>Claude Codeが私の職場を激変させはじめた</title>
     <link rel="alternate" href="https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -235,18 +247,6 @@ Professor Answers Coding Questions | Tech Sup...</summary>
 日々、プログラミング学習や実務の中で
 つまずきやすいポイントを整理して発信しています。
 PRUMについて気...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:47fb89fb6a84d9976d36</id>
-    <title>「Markdownだけで」顧客提案レベルのスライドを作ってみた【Slidev x Claude Opus 4.6】</title>
-    <link rel="alternate" href="https://qiita.com/ntaka329/items/47fb89fb6a84d9976d36?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-13T17:45:32+09:00</updated>
-    <summary type="html">Likes: 133&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ntaka329&quot;&gt;ntaka329&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T17:45:32+09:00&lt;br/&gt;Updated: 2026-02-13T17:45:32+09:00&lt;br/&gt;はじめに
-GMOコネクトの永田です。
-提案書、作るの辛くないですか？😇
-特に官公庁向け提案書は、評価項目ごとにページを作成していくと数十〜数百ページになることも珍しくありません。PowerPoint で作る場合、こんな苦痛が待っています：
-
-コピペ地獄: スライドをコピ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bf5637f40d59e18c4d5e</id>
@@ -594,6 +594,14 @@ Certify
 ※マクロなし／明日から使えるもの中心...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:61100a5b1aa8d752ae24</id>
+    <title>Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】</title>
+    <link rel="alternate" href="https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-14T11:55:18+09:00</updated>
+    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/okikusan-public&quot;&gt;okikusan-public&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T11:55:18+09:00&lt;br/&gt;Updated: 2026-02-14T11:55:18+09:00&lt;br/&gt;なぜ投資分析の自動化が必要だったのか
+Claude Code Skills と yfinance を使って、株式スクリーニングからポートフォリオ管理まで投資分析を自動化するシステムを作りました。Python × バイブコーディングで、個人投資家の投資ワークフロー全体を5つ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ce2327852cef06f5f2ab</id>
     <title>本当に使える！海外Tech動画爆速キャッチアップ術まとめ</title>
     <link rel="alternate" href="https://qiita.com/Koder_dev/items/ce2327852cef06f5f2ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -657,14 +665,6 @@ SHAP値処理の改修
 初...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:61100a5b1aa8d752ae24</id>
-    <title>Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】</title>
-    <link rel="alternate" href="https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-14T11:55:18+09:00</updated>
-    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/okikusan-public&quot;&gt;okikusan-public&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T11:55:18+09:00&lt;br/&gt;Updated: 2026-02-14T11:55:18+09:00&lt;br/&gt;なぜ投資分析の自動化が必要だったのか
-Claude Code Skills と yfinance を使って、株式スクリーニングからポートフォリオ管理まで投資分析を自動化するシステムを作りました。Python × バイブコーディングで、個人投資家の投資ワークフロー全体を5つ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:800beee69019ca84855c</id>
     <title>「ログイン周り」がごちゃつく人へ：認証・認可・SSO・OAuth/OIDC/SAMLの地図</title>
     <link rel="alternate" href="https://qiita.com/ryucciarati/items/800beee69019ca84855c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -707,6 +707,15 @@ Tauri は、OS がもともと持っている WebView を利用し、Rust をバ
 セキュリティリスク＝影響度☓発生確率
 長く使い古されたフレームワークである。
 そして...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:bf3b5f0f3eef99a4d124</id>
+    <title>【緊急】AIエージェントの12%がマルウェアだった。OpenClaw史上最悪のサプライチェーン攻撃の全貌</title>
+    <link rel="alternate" href="https://qiita.com/emi_ndk/items/bf3b5f0f3eef99a4d124?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-15T18:50:42+09:00</updated>
+    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T17:02:46+09:00&lt;br/&gt;Updated: 2026-02-15T18:50:42+09:00&lt;br/&gt;あなたが今使っているAIエージェント、本当に安全ですか？
+2026年2月、AIエージェント業界に激震が走りました。人気のパーソナルAIエージェント「OpenClaw」のスキルマーケットプレイス「ClawHub」で、341個の悪意あるスキルが発見されたのです。
+これは全スキル...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bbc8671d4295139c6e6d</id>
@@ -832,6 +841,17 @@ Claude Codeは2025年2月のリリース以来、ターミナルから直接AI�
 少なくとも 初期の頃のPythonは、標準パッケージで何でもできることをコンセプトの1つとしていました。 Pythonが生まれた頃はインターネットに転がっているライブラ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:441f4c6a467dae69583a</id>
+    <title>セキュリティ基礎講座：公開鍵暗号は３種類あるよ</title>
+    <link rel="alternate" href="https://qiita.com/peridotan/items/441f4c6a467dae69583a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-13T13:48:46+09:00</updated>
+    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/peridotan&quot;&gt;peridotan&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T13:48:45+09:00&lt;br/&gt;Updated: 2026-02-13T13:48:46+09:00&lt;br/&gt;0.はじめに
+セキュリティ（ソリューション）に携わって早20数年の元システムエンジニアです。
+私が新人システムエンジニアとしてSIerで働き始めたころ、
+会社から支給されたパソコンにはウイルス対策ソフトがインストールされていませんでした。
+（ウソだろ、と思うかもしれません...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d6d6a0223931c4a55037</id>
     <title>C言語でメモリマップド I/O を扱うときに注意すること  - volatile 修飾子とメモリバリアの役割</title>
     <link rel="alternate" href="https://qiita.com/ikwzm/items/d6d6a0223931c4a55037?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -851,17 +871,6 @@ AIがデザインし、コードを書いたアプリが、
 特別な裏技も、ゴリ押しもありません。
 ただし、放っておいてできた話ではありません。
 AIには、日本語で相当うるさく指...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:441f4c6a467dae69583a</id>
-    <title>セキュリティ基礎講座：公開鍵暗号は３種類あるよ</title>
-    <link rel="alternate" href="https://qiita.com/peridotan/items/441f4c6a467dae69583a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-13T13:48:46+09:00</updated>
-    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/peridotan&quot;&gt;peridotan&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T13:48:45+09:00&lt;br/&gt;Updated: 2026-02-13T13:48:46+09:00&lt;br/&gt;0.はじめに
-セキュリティ（ソリューション）に携わって早20数年の元システムエンジニアです。
-私が新人システムエンジニアとしてSIerで働き始めたころ、
-会社から支給されたパソコンにはウイルス対策ソフトがインストールされていませんでした。
-（ウソだろ、と思うかもしれません...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
@@ -917,15 +926,6 @@ PRUMについて気になった方は、
 
 はじめに
 この章では、論...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bf3b5f0f3eef99a4d124</id>
-    <title>【緊急】AIエージェントの12%がマルウェアだった。OpenClaw史上最悪のサプライチェーン攻撃の全貌</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/bf3b5f0f3eef99a4d124?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-15T18:50:42+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T17:02:46+09:00&lt;br/&gt;Updated: 2026-02-15T18:50:42+09:00&lt;br/&gt;あなたが今使っているAIエージェント、本当に安全ですか？
-2026年2月、AIエージェント業界に激震が走りました。人気のパーソナルAIエージェント「OpenClaw」のスキルマーケットプレイス「ClawHub」で、341個の悪意あるスキルが発見されたのです。
-これは全スキル...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4eff08ff2413c23b95ec</id>
@@ -1205,6 +1205,23 @@ Win...</summary>
 1. Webアプリケーショ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:074706837c939ec05a3d</id>
+    <title>アセンブリ言語を学ぶことで得られるメリット【アセンブリ言語さくっと入門】</title>
+    <link rel="alternate" href="https://qiita.com/minegishirei_v2/items/074706837c939ec05a3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-14T19:36:55+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minegishirei_v2&quot;&gt;minegishirei_v2&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T19:36:55+09:00&lt;br/&gt;Updated: 2026-02-14T19:36:55+09:00&lt;br/&gt;🏁 ゴール
+この記事はアセンブリ言語を学ぶためのモチベーションを保つ試みです。
+アセンブリ言語を学ぶメリットは大きく分けて次の2つがあります。
+
+他の言語の動作に詳しくなる
+CPUの動作に詳しくなる
+
+他の言語の動作に詳しくなる
+C言語はアセンブラに翻訳されます。
+
+ア...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:176fb69b1be583c14a4a</id>
     <title>【ポエム】 高卒、基本情報3連敗。それでも24歳までに「ネスペ・支援士・AWS12冠」など24資格に合格した話</title>
     <link rel="alternate" href="https://qiita.com/fuji0202/items/176fb69b1be583c14a4a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1223,23 +1240,6 @@ Win...</summary>
     <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobayashimakoto&quot;&gt;kobayashimakoto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:32:18+09:00&lt;br/&gt;Updated: 2026-01-06T08:29:44+09:00&lt;br/&gt;はじめに
 カルーセルはWEBアプリケーションでよく採用されるUIコンポーネントの1つですが、一般的な実装パターンがなく、アクセシビリティを配慮しつつ実装するのも複雑で大変なので SlickやSwiperといったライブラリを採用するケースが多いのではないでしょうか。
 そんな...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:074706837c939ec05a3d</id>
-    <title>アセンブリ言語を学ぶことで得られるメリット【アセンブリ言語さくっと入門】</title>
-    <link rel="alternate" href="https://qiita.com/minegishirei_v2/items/074706837c939ec05a3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-14T19:36:55+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minegishirei_v2&quot;&gt;minegishirei_v2&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T19:36:55+09:00&lt;br/&gt;Updated: 2026-02-14T19:36:55+09:00&lt;br/&gt;🏁 ゴール
-この記事はアセンブリ言語を学ぶためのモチベーションを保つ試みです。
-アセンブリ言語を学ぶメリットは大きく分けて次の2つがあります。
-
-他の言語の動作に詳しくなる
-CPUの動作に詳しくなる
-
-他の言語の動作に詳しくなる
-C言語はアセンブラに翻訳されます。
-
-ア...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1492b77916ce3061cadf</id>
@@ -1836,6 +1836,16 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3130f649eea4df8e4742</id>
+    <title>SQLにむしゃくしゃしたのでフルAIコーディングで🐟自作プログラミング言語🍣を作った</title>
+    <link rel="alternate" href="https://qiita.com/hiruberuto/items/3130f649eea4df8e4742?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-15T17:04:56+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiruberuto&quot;&gt;hiruberuto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T15:30:48+09:00&lt;br/&gt;Updated: 2026-02-15T17:04:56+09:00&lt;br/&gt;発端
+先日、gfxさんの自作プログラミング言語の記事を読みました。
+
+それで自分も自作プログラミング言語作りをやってみたくなり、CodexやClaudeをしばくこと幾晩。ちょっとしたプログラミング言語とコンパイラを作って、その言語で小さなウェブサイトをデプロイするとこ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:24a60507b75a337ff184</id>
     <title>【時短術】Nano Bananaの画像をパワポの『オブジェクト』として編集する方法（SVG変換）</title>
     <link rel="alternate" href="https://qiita.com/hamham/items/24a60507b75a337ff184?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1938,14 +1948,14 @@ C++の代わりにRustで記述する
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3130f649eea4df8e4742</id>
-    <title>SQLにむしゃくしゃしたのでフルAIコーディングで🐟自作プログラミング言語🍣を作った</title>
-    <link rel="alternate" href="https://qiita.com/hiruberuto/items/3130f649eea4df8e4742?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-15T17:04:56+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiruberuto&quot;&gt;hiruberuto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T15:30:48+09:00&lt;br/&gt;Updated: 2026-02-15T17:04:56+09:00&lt;br/&gt;発端
-先日、gfxさんの自作プログラミング言語の記事を読みました。
-
-それで自分も自作プログラミング言語作りをやってみたくなり、CodexやClaudeをしばくこと幾晩。ちょっとしたプログラミング言語とコンパイラを作って、その言語で小さなウェブサイトをデプロイするとこ...</summary>
+    <id>tag:qiita.com,2026:99cf932786dad3b3ec05</id>
+    <title>エンジニアの勉強って結局どうやれば良いの？を再度考えてみました</title>
+    <link rel="alternate" href="https://qiita.com/nAotO01_03/items/99cf932786dad3b3ec05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-16T10:25:37+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nAotO01_03&quot;&gt;nAotO01_03&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T08:58:46+09:00&lt;br/&gt;Updated: 2026-02-16T10:25:37+09:00&lt;br/&gt;はじめに
+最近は生成AIの成長が目まぐるしく、どんどん新しい技術が台頭してきています。
+私自身、この技術の荒波に食らいつくため継続的に自己研鑽を続けていますが、なかなか身についている実感が得られていません。
+そんな中、この前本屋で手に取った『アウトプット大全』という本を読...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6c0dd5107d4ce6c4b300</id>
@@ -2228,16 +2238,5 @@ GMOコネクトの永田です。
 「過去3年間で15,000件以上のレビューコメントが蓄積されているけど、誰も活用できていない」
 「新人に『過去のレビュー観点を参考にして』と言っても、どこから見ればいいか分からない」
 「レビュー基準が属人化していて、レビュアーによって...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a0a3c16b5f9950453af6</id>
-    <title>何だか疲れたときに見る記事</title>
-    <link rel="alternate" href="https://qiita.com/kyoooohei_y/items/a0a3c16b5f9950453af6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-02T22:04:33+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyoooohei_y&quot;&gt;kyoooohei_y&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T18:52:00+09:00&lt;br/&gt;Updated: 2026-02-02T22:04:33+09:00&lt;br/&gt;何だか疲れたなと思うけど、もう少し頑張らないといけない。
-そんなときに見て、自分を頑張らせる工夫をまとめた記事です。
-
-背景
-後輩と面談しているときに、今のタスクが何だか疲れるんですと。内容としては、老朽化システムのコンバートで、処理の長い関数をあれこれ見ているようでした。...</summary>
   </entry>
 </feed>
