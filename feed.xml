@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-02-16T10:25:37+09:00</updated>
+  <updated>2026-02-16T16:51:39+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -496,6 +496,14 @@ Chatサービス、プロンプト集、リーダーボード、情報収集の�
 A...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:61100a5b1aa8d752ae24</id>
+    <title>Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】</title>
+    <link rel="alternate" href="https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-14T11:55:18+09:00</updated>
+    <summary type="html">Likes: 92&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/okikusan-public&quot;&gt;okikusan-public&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T11:55:18+09:00&lt;br/&gt;Updated: 2026-02-14T11:55:18+09:00&lt;br/&gt;なぜ投資分析の自動化が必要だったのか
+Claude Code Skills と yfinance を使って、株式スクリーニングからポートフォリオ管理まで投資分析を自動化するシステムを作りました。Python × バイブコーディングで、個人投資家の投資ワークフロー全体を5つ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e88aabbdfa8ddd94810a</id>
     <title>『単体テストの考え方/使い方』が良すぎた</title>
     <link rel="alternate" href="https://qiita.com/ikenohotori/items/e88aabbdfa8ddd94810a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -512,14 +520,6 @@ A...</summary>
     <updated>2026-01-13T22:59:41+09:00</updated>
     <summary type="html">Likes: 92&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
 またなんか無限レンダリングされるとかなんか2回...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:61100a5b1aa8d752ae24</id>
-    <title>Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】</title>
-    <link rel="alternate" href="https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-14T11:55:18+09:00</updated>
-    <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/okikusan-public&quot;&gt;okikusan-public&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T11:55:18+09:00&lt;br/&gt;Updated: 2026-02-14T11:55:18+09:00&lt;br/&gt;なぜ投資分析の自動化が必要だったのか
-Claude Code Skills と yfinance を使って、株式スクリーニングからポートフォリオ管理まで投資分析を自動化するシステムを作りました。Python × バイブコーディングで、個人投資家の投資ワークフロー全体を5つ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
@@ -544,6 +544,15 @@ Claude Code Skills と yfinance を使って、株式スクリーニングから
 
 インストール
 Playwright MCP Serverをグローバルインストールすると...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:bf3b5f0f3eef99a4d124</id>
+    <title>【緊急】AIエージェントの12%がマルウェアだった。OpenClaw史上最悪のサプライチェーン攻撃の全貌</title>
+    <link rel="alternate" href="https://qiita.com/emi_ndk/items/bf3b5f0f3eef99a4d124?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-15T18:50:42+09:00</updated>
+    <summary type="html">Likes: 87&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T17:02:46+09:00&lt;br/&gt;Updated: 2026-02-15T18:50:42+09:00&lt;br/&gt;あなたが今使っているAIエージェント、本当に安全ですか？
+2026年2月、AIエージェント業界に激震が走りました。人気のパーソナルAIエージェント「OpenClaw」のスキルマーケットプレイス「ClawHub」で、341個の悪意あるスキルが発見されたのです。
+これは全スキル...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:eff0f63dac99554e6439</id>
@@ -610,15 +619,6 @@ Certify
 X（旧Twitter）で海外Tech動画を日々紹介してるKoderです!
 普段から毎日のように、英語のエンジニア向け動画や役立つネタを発信してるんですが、最近「どうやって情報集めてるの？」って聞かれることがかなり増えてきました。
 そこで今回は、Qiitaの記事と...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bf3b5f0f3eef99a4d124</id>
-    <title>【緊急】AIエージェントの12%がマルウェアだった。OpenClaw史上最悪のサプライチェーン攻撃の全貌</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/bf3b5f0f3eef99a4d124?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-15T18:50:42+09:00</updated>
-    <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T17:02:46+09:00&lt;br/&gt;Updated: 2026-02-15T18:50:42+09:00&lt;br/&gt;あなたが今使っているAIエージェント、本当に安全ですか？
-2026年2月、AIエージェント業界に激震が走りました。人気のパーソナルAIエージェント「OpenClaw」のスキルマーケットプレイス「ClawHub」で、341個の悪意あるスキルが発見されたのです。
-これは全スキル...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:097d51405416e93d5132</id>
@@ -1555,6 +1555,21 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 1. ブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:bd39652d49addcb116d3</id>
+    <title>【前編】「で、&quot;結局&quot;今どんな状況なの？」と言われたとき、あなたの報告はまだ“報告”になっていない</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/bd39652d49addcb116d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-16T14:36:08+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-16T14:36:08+09:00&lt;br/&gt;Updated: 2026-02-16T14:36:08+09:00&lt;br/&gt;はじめまして。
+株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントを整理して発信しています。
+PRUMについて気になった方は、
+コーポレートサイトもご覧ください。
+▶ コーポレートサイト
+
+「で、&quot;結局&quot;今どんな...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:56514650b9afe970b842</id>
     <title>Geminiをハッカーたちはどんなことに使ってるの？ Googleの報告から</title>
     <link rel="alternate" href="https://qiita.com/ohkitashigeto/items/56514650b9afe970b842?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1694,6 +1709,16 @@ Gitの設計上の課題を、現代的なモデルで再設計した...</summar
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:99cf932786dad3b3ec05</id>
+    <title>エンジニアの勉強って結局どうやれば良いの？を再度考えてみました</title>
+    <link rel="alternate" href="https://qiita.com/nAotO01_03/items/99cf932786dad3b3ec05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-16T10:25:37+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nAotO01_03&quot;&gt;nAotO01_03&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T08:58:46+09:00&lt;br/&gt;Updated: 2026-02-16T10:25:37+09:00&lt;br/&gt;はじめに
+最近は生成AIの成長が目まぐるしく、どんどん新しい技術が台頭してきています。
+私自身、この技術の荒波に食らいつくため継続的に自己研鑽を続けていますが、なかなか身についている実感が得られていません。
+そんな中、この前本屋で手に取った『アウトプット大全』という本を読...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6d08844e43f44860fb9c</id>
     <title>Power Apps でポップアップ (確認ダイアログ) の作成が楽になりました！</title>
     <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/6d08844e43f44860fb9c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1785,16 +1810,6 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 フルサーバーレスで維持費激安なのが嬉しいポイントです。
 
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:99cf932786dad3b3ec05</id>
-    <title>エンジニアの勉強って結局どうやれば良いの？を再度考えてみました</title>
-    <link rel="alternate" href="https://qiita.com/nAotO01_03/items/99cf932786dad3b3ec05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-16T10:25:37+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nAotO01_03&quot;&gt;nAotO01_03&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T08:58:46+09:00&lt;br/&gt;Updated: 2026-02-16T10:25:37+09:00&lt;br/&gt;はじめに
-最近は生成AIの成長が目まぐるしく、どんどん新しい技術が台頭してきています。
-私自身、この技術の荒波に食らいつくため継続的に自己研鑽を続けていますが、なかなか身についている実感が得られていません。
-そんな中、この前本屋で手に取った『アウトプット大全』という本を読...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f036cf3ac3381e6f4438</id>
@@ -2024,6 +2039,20 @@ Parallel Routes + Intercepting Routes を使うと、一覧から詳細へ遷移
 この章では、「どう直すか...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6303aa289c9734974f69</id>
+    <title>「怖、、、」をなくす。レビューでの5つのルール</title>
+    <link rel="alternate" href="https://qiita.com/kuma_3838/items/6303aa289c9734974f69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-16T10:50:33+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-02-16T10:50:33+09:00&lt;br/&gt;Updated: 2026-02-16T10:50:33+09:00&lt;br/&gt;はじめに
+コードレビューで、こんなコメントをもらったらどう思いますか？
+
+このような書き方が推奨されていないことって知らないはずないですよね？
+
+怖、、、
+自分だったらまっさきにその言葉が思い浮かびます。笑
+あるいは、自分がレビューする側で「伝えたいことがうまく伝わらない...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:de98e012a6537544056d</id>
     <title>エンジニアこそセルフコンパッションを学ぶべきだと思った理由</title>
     <link rel="alternate" href="https://qiita.com/nakaizumi_slj/items/de98e012a6537544056d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2106,6 +2135,18 @@ Pythonの開発環境構築は、長らく「pip + venv + flake8 + black」と�
 2025年12月現在&quot;C++26&quot;はISO/IEC標準規格としては未発行のため、代わりに最新Working Draft N5032（2025-12-15）を参照しています。
 
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:45fb6add48b8ee008b3f</id>
+    <title>AI時代だからこそ便利ツールを見直そう！</title>
+    <link rel="alternate" href="https://qiita.com/kuma_3838/items/45fb6add48b8ee008b3f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-16T16:51:39+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-02-16T10:50:17+09:00&lt;br/&gt;Updated: 2026-02-16T16:51:39+09:00&lt;br/&gt;はじめに
+Macを使い始めてから、いろいろなツールを試してきました。
+その中で「これはもう手放せない！」と感じたものを、おすすめ度別にまとめてみました。
+すべて実際に日常的に使っているツールです。
+「Macを買ったけど、何を入れればいいかわからない...」という方や、
+「...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:080e49ee9b275b92b8b4</id>
@@ -2205,38 +2246,5 @@ FPGAとマイコンを1ボードに搭載
 
 戦略
 フォトリアルな写真が作りたいなら様々なプロンプトで大量の写真を生成しフォトリアル順に順位付けする。topKのプロンプトを改修し、さらに写真を生成し順位...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:658b77f0bb7c73f9f508</id>
-    <title>Rust × Python × Polars で実現する、秒間420万イベントの爆速・高精度バックテスター「crypto-rs-backtester」</title>
-    <link rel="alternate" href="https://qiita.com/takurot/items/658b77f0bb7c73f9f508?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-12T04:42:24+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takurot&quot;&gt;takurot&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T04:42:24+09:00&lt;br/&gt;Updated: 2026-01-12T04:42:24+09:00&lt;br/&gt;「Pythonのバックテスターは遅すぎる、でもC++で全部書くのはツライ……」
-そんな悩みを解決するために開発中の、Rust製コアを持つPython向け仮想通貨バックテスター crypto-rs-backtester を紹介します。
-Google Colabで手軽に試せるの...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:12b678e12882db74041c</id>
-    <title>【Ruby on Rails】name:と:nameはなにが違うのか？素通りしがちなコロンの意味</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/12b678e12882db74041c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-06T18:53:40+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T18:49:59+09:00&lt;br/&gt;Updated: 2026-02-06T18:53:40+09:00&lt;br/&gt;はじめに
-Ruby on Railsを勉強しはじめました。
-色々な事ができて便利だな〜なんて思っていると、こんなコードに出会います。
-  def create
-    @user = User.new(
-      name: params[:name],
-      e...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5f504cb3ddf6f4faf306</id>
-    <title>機密データも安全に。Python+Ollamaで16,000チケット→496観点のレビューチェックリストを自動生成</title>
-    <link rel="alternate" href="https://qiita.com/ntaka329/items/5f504cb3ddf6f4faf306?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-06T11:04:14+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ntaka329&quot;&gt;ntaka329&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T11:04:14+09:00&lt;br/&gt;Updated: 2026-02-06T11:04:14+09:00&lt;br/&gt;はじめに
-GMOコネクトの永田です。
-「過去3年間で15,000件以上のレビューコメントが蓄積されているけど、誰も活用できていない」
-「新人に『過去のレビュー観点を参考にして』と言っても、どこから見ればいいか分からない」
-「レビュー基準が属人化していて、レビュアーによって...</summary>
   </entry>
 </feed>
