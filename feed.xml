@@ -91,7 +91,7 @@ ChatGPT：
     <title>【緊急】AIエージェントの12%がマルウェアだった。OpenClaw史上最悪のサプライチェーン攻撃の全貌</title>
     <link rel="alternate" href="https://qiita.com/emi_ndk/items/bf3b5f0f3eef99a4d124?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-15T18:50:42+09:00</updated>
-    <summary type="html">Likes: 215&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T17:02:46+09:00&lt;br/&gt;Updated: 2026-02-15T18:50:42+09:00&lt;br/&gt;あなたが今使っているAIエージェント、本当に安全ですか？
+    <summary type="html">Likes: 217&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T17:02:46+09:00&lt;br/&gt;Updated: 2026-02-15T18:50:42+09:00&lt;br/&gt;あなたが今使っているAIエージェント、本当に安全ですか？
 2026年2月、AIエージェント業界に激震が走りました。人気のパーソナルAIエージェント「OpenClaw」のスキルマーケットプレイス「ClawHub」で、341個の悪意あるスキルが発見されたのです。
 これは全スキル...</summary>
   </entry>
@@ -970,6 +970,19 @@ PRUMについて気になった方は、
 この章では、論...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1d84037b3b9a499167de</id>
+    <title>draw.io MCP + Playwright MCP で画面設計書を自動生成してみた（GitHub Copilot Agent Skills）</title>
+    <link rel="alternate" href="https://qiita.com/Ymmy/items/1d84037b3b9a499167de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-15T21:49:05+09:00</updated>
+    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ymmy&quot;&gt;Ymmy&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T21:49:05+09:00&lt;br/&gt;Updated: 2026-02-15T21:49:05+09:00&lt;br/&gt;はじめに
+最近、draw.io MCP が公開されました。
+これと Playwright MCP を組み合わせれば、
+
+画面に遷移してスクリーンショット取得（Playwright）
+スクショに項番を付けたレイアウト図を作る（draw.io）
+HTML/画像を根拠にMark...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4eff08ff2413c23b95ec</id>
     <title>Claude CodeのAgent Teamsをお試し様子見①「人間チーム開発の問題がなんか再現された」話</title>
     <link rel="alternate" href="https://qiita.com/WdknWdkn/items/4eff08ff2413c23b95ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -978,19 +991,6 @@ PRUMについて気になった方は、
 いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
 みなさん、Claude CodeのAgent Teams つかってます？
 複数のClaude Codeインスタンスを「チーム」として協調動作させるという、なかなか攻めた実験的機能（Re...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1d84037b3b9a499167de</id>
-    <title>draw.io MCP + Playwright MCP で画面設計書を自動生成してみた（GitHub Copilot Agent Skills）</title>
-    <link rel="alternate" href="https://qiita.com/Ymmy/items/1d84037b3b9a499167de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-15T21:49:05+09:00</updated>
-    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ymmy&quot;&gt;Ymmy&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T21:49:05+09:00&lt;br/&gt;Updated: 2026-02-15T21:49:05+09:00&lt;br/&gt;はじめに
-最近、draw.io MCP が公開されました。
-これと Playwright MCP を組み合わせれば、
-
-画面に遷移してスクリーンショット取得（Playwright）
-スクショに項番を付けたレイアウト図を作る（draw.io）
-HTML/画像を根拠にMark...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8010f0d62025db8f3d81</id>
@@ -1508,6 +1508,26 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 あるいは、自分がレビューする側で「伝えたいことがうまく伝わらない...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7b8a5e65873a35ea72dd</id>
+    <title>結局 Python は遅いのか</title>
+    <link rel="alternate" href="https://qiita.com/k2-gc/items/7b8a5e65873a35ea72dd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-16T22:42:34+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/k2-gc&quot;&gt;k2-gc&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T14:23:13+09:00&lt;br/&gt;Updated: 2026-02-16T22:42:34+09:00&lt;br/&gt;結局 Python は遅いのか
+
+この記事では
+
+Python を用いて幾つかの方法で定積分の近似
+C++ で近似
+比較
+
+を行います．
+
+※追記(2026/02/16)：実行環境追加
+
+はじめに
+「Python は遅い」，「Python で for 使うな！」 と言...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b1726a7a6054ed7e64df</id>
     <title>アーキテクチャの本質は共通している？最も大切な責務分離という考え方</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/b1726a7a6054ed7e64df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1560,26 +1580,6 @@ Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sakaimaging&quot;&gt;sakaimaging&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T13:24:45+09:00&lt;br/&gt;Updated: 2026-01-03T19:35:29+09:00&lt;br/&gt;はじめに
 Mermaid では、flowchart の矢印に animation を指定することで、通信が流れる様子をアニメーションとして表現できます。
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7b8a5e65873a35ea72dd</id>
-    <title>結局 Python は遅いのか</title>
-    <link rel="alternate" href="https://qiita.com/k2-gc/items/7b8a5e65873a35ea72dd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-16T22:42:34+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/k2-gc&quot;&gt;k2-gc&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T14:23:13+09:00&lt;br/&gt;Updated: 2026-02-16T22:42:34+09:00&lt;br/&gt;結局 Python は遅いのか
-
-この記事では
-
-Python を用いて幾つかの方法で定積分の近似
-C++ で近似
-比較
-
-を行います．
-
-※追記(2026/02/16)：実行環境追加
-
-はじめに
-「Python は遅い」，「Python で for 使うな！」 と言...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:45fb6add48b8ee008b3f</id>
@@ -1802,6 +1802,19 @@ Gitの設計上の課題を、現代的なモデルで再設計した...</summar
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b8926d59254b95aec8fd</id>
+    <title>家のSwitchBotデバイスをLambdaとAmazon Bedrockで定期的に監視し自律的に操作させた</title>
+    <link rel="alternate" href="https://qiita.com/kexi/items/b8926d59254b95aec8fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-15T17:25:15+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kexi&quot;&gt;kexi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T17:25:15+09:00&lt;br/&gt;Updated: 2026-02-15T17:25:15+09:00&lt;br/&gt;はじめに
+Amazon Bedrockの素振りをした時の記録です。
+
+Amazon Bedrockについて
+使う前は、LLMのAPIの代理人のイメージしかなかったです。API直叩きでいいじゃんって思ってました。
+使ってわかったことはそれだけでなかったです。
+特にガードレイ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6d08844e43f44860fb9c</id>
     <title>Power Apps でポップアップ (確認ダイアログ) の作成が楽になりました！</title>
     <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/6d08844e43f44860fb9c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1838,19 +1851,6 @@ Z80はザイログ自身が製造したオリジナル品の他に、セカン�
 本記事は、JavaエンジニアがTypeScriptを扱う際に感じた違いを解説した記事です。
 これまで実務や個人開発でTypeScriptに触れていましたが、Javaの感覚でコードを読み進めていくと、TypeScript特有の概念や挙動に戸惑うことがありました。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b8926d59254b95aec8fd</id>
-    <title>家のSwitchBotデバイスをLambdaとAmazon Bedrockで定期的に監視し自律的に操作させた</title>
-    <link rel="alternate" href="https://qiita.com/kexi/items/b8926d59254b95aec8fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-15T17:25:15+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kexi&quot;&gt;kexi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T17:25:15+09:00&lt;br/&gt;Updated: 2026-02-15T17:25:15+09:00&lt;br/&gt;はじめに
-Amazon Bedrockの素振りをした時の記録です。
-
-Amazon Bedrockについて
-使う前は、LLMのAPIの代理人のイメージしかなかったです。API直叩きでいいじゃんって思ってました。
-使ってわかったことはそれだけでなかったです。
-特にガードレイ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9c7bd5791f33b2c034cb</id>
