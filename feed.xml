@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-02-20T02:24:47+09:00</updated>
+  <updated>2026-02-20T04:58:57+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -133,7 +133,7 @@ ChatGPT：
     <title>AIに「ユーザーペルソナ」を与えるだけで、UIデザインはここまで化ける</title>
     <link rel="alternate" href="https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-19T19:44:33+09:00</updated>
-    <summary type="html">Likes: 189&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-19T19:44:33+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 191&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-19T19:44:33+09:00&lt;br/&gt;はじめに
 AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示していませんか？
 実は、誰が使うか（ペルソナ）を1行足すだけで、出力されるデザインの解像度が劇的に変わります。
 同じ「タスク管理アプリ」という指示で、ペルソナの有無によってどれだけ差が出るか実験しました。...</summary>
@@ -536,7 +536,7 @@ PRUMについて気になった方は、
     <updated>2026-02-19T12:28:24+09:00</updated>
     <summary type="html">Likes: 93&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T11:43:54+09:00&lt;br/&gt;Updated: 2026-02-19T12:28:24+09:00&lt;br/&gt;はじめに
 2026年1月、Anthropicが「The Complete Guide to Building Skills for Claude」という32ページのPDFを公開しました。
-スキルとは、Claudeに特定のタスクを一貫して実行させるための仕組みです。Mark...</summary>
+スキルとは、Claudeに特定のタスクを一貫して実行させるための仕組みです。Mar...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fca5a1898cc2a9c961f6</id>
@@ -2073,8 +2073,8 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
     <id>tag:qiita.com,2026:7a0833e9484b40586f0f</id>
     <title>【実践】Claude Codeの開発速度を2倍にする10のTips</title>
     <link rel="alternate" href="https://qiita.com/pythonista0328/items/7a0833e9484b40586f0f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-20T02:24:47+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/pythonista0328&quot;&gt;pythonista0328&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T14:47:47+09:00&lt;br/&gt;Updated: 2026-02-20T02:24:47+09:00&lt;br/&gt;はじめに
+    <updated>2026-02-20T04:58:57+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/pythonista0328&quot;&gt;pythonista0328&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T14:47:47+09:00&lt;br/&gt;Updated: 2026-02-20T04:58:57+09:00&lt;br/&gt;はじめに
 Claude Codeを使い始めたけど、思ったほど速くならない...そんな経験はありませんか？
 実は、Claude Codeは「使い方」で生産性が大きく変わるツールです。プロンプトの書き方、ファイル構成、設定ファイルの工夫次第で、同じタスクでも所要時間が半分以下...</summary>
   </entry>
@@ -2213,8 +2213,9 @@ C++の代わりにRustで記述する
     <updated>2026-02-19T11:02:58+09:00</updated>
     <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/araidon&quot;&gt;araidon&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T21:39:03+09:00&lt;br/&gt;Updated: 2026-02-19T11:02:58+09:00&lt;br/&gt;はじめに
 OCIの構成図、描くの面倒じゃないですか。
-draw.ioを開いて、アイコンを探して、ドラッグ&amp;amp;ドロップして、線を引いて、配置を整えて……。設計の本質ではない作業に時間を取られがちです。
-そこで、自然言語で指示するだけで .drawio ファイルが出てくるSki...</summary>
+draw.ioを開いて、アイコンを探して、ドラッグ&amp;amp;ドロップして、線を引いて、配置を整えて……。
+設計の本質ではない作業に時間を取られがちです。
+そこで、自然言語で指示するだけで .drawio ファイルが出てくるSk...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fa79b87afcd165428e39</id>
