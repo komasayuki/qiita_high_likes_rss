@@ -28,7 +28,7 @@
     <title>【15分で追いつく！】今のClaude Codeができることをざっくり解説</title>
     <link rel="alternate" href="https://qiita.com/kyuko/items/77e9e022860b57e4bd4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-19T22:55:05+09:00</updated>
-    <summary type="html">Likes: 287&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T09:01:54+09:00&lt;br/&gt;Updated: 2026-02-19T22:55:05+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 291&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T09:01:54+09:00&lt;br/&gt;Updated: 2026-02-19T22:55:05+09:00&lt;br/&gt;はじめに
 こんにちは！ひさふるです。
 みなさん、Claude Code使ってますか？？
 2025年前半のリリース以来、Claude Codeはものすごいスピードで進化を続けています。
@@ -133,7 +133,7 @@ ChatGPT：
     <title>AIに「ユーザーペルソナ」を与えるだけで、UIデザインはここまで化ける</title>
     <link rel="alternate" href="https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-19T19:44:33+09:00</updated>
-    <summary type="html">Likes: 193&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-19T19:44:33+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 195&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-19T19:44:33+09:00&lt;br/&gt;はじめに
 AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示していませんか？
 実は、誰が使うか（ペルソナ）を1行足すだけで、出力されるデザインの解像度が劇的に変わります。
 同じ「タスク管理アプリ」という指示で、ペルソナの有無によってどれだけ差が出るか実験しました。...</summary>
@@ -920,6 +920,15 @@ Claude Codeは2025年2月のリリース以来、ターミナルから直接AI�
 少なくとも 初期の頃のPythonは、標準パッケージで何でもできることをコンセプトの1つとしていました。 Pythonが生まれた頃はインターネットに転がっているライブラ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:be45d3115ebe74a3e312</id>
+    <title>【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン</title>
+    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T15:16:04+09:00</updated>
+    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T12:00:22+09:00&lt;br/&gt;Updated: 2026-02-19T15:16:04+09:00&lt;br/&gt;はじめに：プロにとって「Vibe Coding」は恐怖でしかない
+2025年11月のリリース以来、Antigravity（アンチグラビティ）界隈では「Vibe Coding（バイブコーディング）」という言葉が流行しています。
+「コードが読めなくても、AIとノリで対話して...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d6d6a0223931c4a55037</id>
     <title>C言語でメモリマップド I/O を扱うときに注意すること  - volatile 修飾子とメモリバリアの役割</title>
     <link rel="alternate" href="https://qiita.com/ikwzm/items/d6d6a0223931c4a55037?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -997,15 +1006,6 @@ https://160.16.12...</summary>
 米国防総省のARPA（高等研究計画局）という機関が4台のコンピュータを繋いだのがはじまりです。3つの大学と、スタンフォード研究所（SRI）などの研究機関で繋がれており、ARPAN...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:be45d3115ebe74a3e312</id>
-    <title>【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン</title>
-    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T15:16:04+09:00</updated>
-    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T12:00:22+09:00&lt;br/&gt;Updated: 2026-02-19T15:16:04+09:00&lt;br/&gt;はじめに：プロにとって「Vibe Coding」は恐怖でしかない
-2025年11月のリリース以来、Antigravity（アンチグラビティ）界隈では「Vibe Coding（バイブコーディング）」という言葉が流行しています。
-「コードが読めなくても、AIとノリで対話して...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:3ae7541a112833cad737</id>
     <title>【ポケモン×Java】知識編 ERROR #7  ## 論理エラーは「止まらない」― だから気づけない？！</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/3ae7541a112833cad737?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1055,6 +1055,18 @@ PRUMについて気になった方は、
 コーディングエージェントとの出会い...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:252fb5ef031127784757</id>
+    <title>Claude Code作者が全公開！9種のカスタマイズ手段と設定の全貌</title>
+    <link rel="alternate" href="https://qiita.com/dai_chi/items/252fb5ef031127784757?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-17T05:50:43+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dai_chi&quot;&gt;dai_chi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T05:50:43+09:00&lt;br/&gt;Updated: 2026-02-17T05:50:43+09:00&lt;br/&gt;はじめに
+Claude Codeをインストールして、そのまま使っていないだろうか。
+
+本記事は2026年2月13日時点の情報に基づいています。
+
+作者のBoris Cherny氏は、カスタマイズ性がClaude Codeの成長を加速させた要因の一つだと述べた。エンジニアは...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5f11084c98d32d86248d</id>
     <title>【2026最新】BedrockでRAGとエージェント作って、Amplifyから呼ぼう！ 維持費ほぼ無料!?</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/5f11084c98d32d86248d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1078,18 +1090,6 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 
 1年間のサマリー
 最初はQiitaのContributionと記事...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:252fb5ef031127784757</id>
-    <title>Claude Code作者が全公開！9種のカスタマイズ手段と設定の全貌</title>
-    <link rel="alternate" href="https://qiita.com/dai_chi/items/252fb5ef031127784757?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-17T05:50:43+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dai_chi&quot;&gt;dai_chi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T05:50:43+09:00&lt;br/&gt;Updated: 2026-02-17T05:50:43+09:00&lt;br/&gt;はじめに
-Claude Codeをインストールして、そのまま使っていないだろうか。
-
-本記事は2026年2月13日時点の情報に基づいています。
-
-作者のBoris Cherny氏は、カスタマイズ性がClaude Codeの成長を加速させた要因の一つだと述べた。エンジニアは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
@@ -1503,6 +1503,17 @@ console.log(&quot;Hello&quot;)
 と書く一方で、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d56f9704bc95ffc77e74</id>
+    <title>依存性注入（DI）とは？“外から渡す”だけでコードがここまで変わる</title>
+    <link rel="alternate" href="https://qiita.com/HK_Reisfeld/items/d56f9704bc95ffc77e74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-17T10:52:41+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/HK_Reisfeld&quot;&gt;HK_Reisfeld&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T10:52:41+09:00&lt;br/&gt;Updated: 2026-02-17T10:52:41+09:00&lt;br/&gt;はじめに
+ソフトウェア開発では、あるクラスやサービスが別の機能に依存することは避けられません。
+たとえば「支払いサービス」が「決済ゲートウェイ」に依存するようなケースです。
+ここでありがちな書き方が、依存するオブジェクトをクラスの中で直接 new してしまう方法です。
+c...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:52e164dfb810e700348f</id>
     <title>高校生が作った「AIに丸投げできるスクレイピングシステム」が、Bright Dataで合法かつ最強になった話</title>
     <link rel="alternate" href="https://qiita.com/harupython/items/52e164dfb810e700348f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1537,17 +1548,6 @@ https://qiita.com/xhackjp1/items/03045dd62c2f...</summary>
 私はこれまで、社内向けに 業務自動化・業務効率化ツール をいくつも作ってきました。
 Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組み合わせて、「人の仕事を楽にする」ためのツールを作ってきました。
 ただ、そ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d56f9704bc95ffc77e74</id>
-    <title>依存性注入（DI）とは？“外から渡す”だけでコードがここまで変わる</title>
-    <link rel="alternate" href="https://qiita.com/HK_Reisfeld/items/d56f9704bc95ffc77e74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-17T10:52:41+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/HK_Reisfeld&quot;&gt;HK_Reisfeld&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T10:52:41+09:00&lt;br/&gt;Updated: 2026-02-17T10:52:41+09:00&lt;br/&gt;はじめに
-ソフトウェア開発では、あるクラスやサービスが別の機能に依存することは避けられません。
-たとえば「支払いサービス」が「決済ゲートウェイ」に依存するようなケースです。
-ここでありがちな書き方が、依存するオブジェクトをクラスの中で直接 new してしまう方法です。
-c...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a13b42998925e9ba046b</id>
@@ -2021,6 +2021,15 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7a0833e9484b40586f0f</id>
+    <title>【実践】Claude Codeの開発速度を2倍にする10のTips</title>
+    <link rel="alternate" href="https://qiita.com/pythonista0328/items/7a0833e9484b40586f0f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-20T04:58:57+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/pythonista0328&quot;&gt;pythonista0328&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T14:47:47+09:00&lt;br/&gt;Updated: 2026-02-20T04:58:57+09:00&lt;br/&gt;はじめに
+Claude Codeを使い始めたけど、思ったほど速くならない...そんな経験はありませんか？
+実は、Claude Codeは「使い方」で生産性が大きく変わるツールです。プロンプトの書き方、ファイル構成、設定ファイルの工夫次第で、同じタスクでも所要時間が半分以下...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f036cf3ac3381e6f4438</id>
     <title>Windows アプリの開発手段の選択肢をまとめてみたの続き</title>
     <link rel="alternate" href="https://qiita.com/tinymouse/items/f036cf3ac3381e6f4438?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2070,13 +2079,15 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:7a0833e9484b40586f0f</id>
-    <title>【実践】Claude Codeの開発速度を2倍にする10のTips</title>
-    <link rel="alternate" href="https://qiita.com/pythonista0328/items/7a0833e9484b40586f0f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-20T04:58:57+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/pythonista0328&quot;&gt;pythonista0328&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T14:47:47+09:00&lt;br/&gt;Updated: 2026-02-20T04:58:57+09:00&lt;br/&gt;はじめに
-Claude Codeを使い始めたけど、思ったほど速くならない...そんな経験はありませんか？
-実は、Claude Codeは「使い方」で生産性が大きく変わるツールです。プロンプトの書き方、ファイル構成、設定ファイルの工夫次第で、同じタスクでも所要時間が半分以下...</summary>
+    <id>tag:qiita.com,2026:db26d1a9d9916365d60e</id>
+    <title>Claude CodeとCodexで使える、OCI構成図を自然言語から自動生成するSkillsを作った</title>
+    <link rel="alternate" href="https://qiita.com/araidon/items/db26d1a9d9916365d60e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T11:02:58+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/araidon&quot;&gt;araidon&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T21:39:03+09:00&lt;br/&gt;Updated: 2026-02-19T11:02:58+09:00&lt;br/&gt;はじめに
+OCIの構成図、描くの面倒じゃないですか。
+draw.ioを開いて、アイコンを探して、ドラッグ&amp;amp;ドロップして、線を引いて、配置を整えて……。
+設計の本質ではない作業に時間を取られがちです。
+そこで、自然言語で指示するだけで .drawio ファイルが出てくるSk...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6b8fa1d65f992dc2fc1b</id>
@@ -2207,15 +2218,16 @@ C++の代わりにRustで記述する
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:db26d1a9d9916365d60e</id>
-    <title>Claude CodeとCodexで使える、OCI構成図を自然言語から自動生成するSkillsを作った</title>
-    <link rel="alternate" href="https://qiita.com/araidon/items/db26d1a9d9916365d60e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T11:02:58+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/araidon&quot;&gt;araidon&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T21:39:03+09:00&lt;br/&gt;Updated: 2026-02-19T11:02:58+09:00&lt;br/&gt;はじめに
-OCIの構成図、描くの面倒じゃないですか。
-draw.ioを開いて、アイコンを探して、ドラッグ&amp;amp;ドロップして、線を引いて、配置を整えて……。
-設計の本質ではない作業に時間を取られがちです。
-そこで、自然言語で指示するだけで .drawio ファイルが出てくるSk...</summary>
+    <id>tag:qiita.com,2026:8e5c36e43f430a4b4f9e</id>
+    <title>仕事が遅い人の特徴を自分で分析してみた</title>
+    <link rel="alternate" href="https://qiita.com/kmatsuda_slj/items/8e5c36e43f430a4b4f9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-18T09:40:01+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kmatsuda_slj&quot;&gt;kmatsuda_slj&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T09:40:01+09:00&lt;br/&gt;Updated: 2026-02-18T09:40:01+09:00&lt;br/&gt;はじめに
+自分は正直、仕事が速いタイプではありません。
+シンプルに、まだ能力が足りなくて遅いと感じる場面もあります。
+ただ、遅いままにしておくのは嫌なので、
+「自分はどこで時間を使っているのか」「どういう癖があるのか」を一度整理してみました。
+あくまで一年目の自分の振り返...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fa79b87afcd165428e39</id>
@@ -2234,16 +2246,5 @@ Google から、公式ドキュメントを AI が直接参照できるように
     <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/taka_xin&quot;&gt;taka_xin&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T17:23:57+09:00&lt;br/&gt;Updated: 2026-02-10T17:23:57+09:00&lt;br/&gt;はじめに
 Parallel Routes + Intercepting Routes を使うと、一覧から詳細へ遷移しても 一覧をモーダルの背後に残せる ため、スクロール位置を自然に保持できます。
 さらに、詳細ページは直リンクでも開けるので、UX と SEO を両立できます...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:975d74e93f73750b255d</id>
-    <title>バックエンドとフロントエンドがつながっている箇所</title>
-    <link rel="alternate" href="https://qiita.com/skill_toy/items/975d74e93f73750b255d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-01T19:49:03+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/skill_toy&quot;&gt;skill_toy&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T19:49:03+09:00&lt;br/&gt;Updated: 2026-02-01T19:49:03+09:00&lt;br/&gt;はじめに
-現在、個人開発でバックエンドとフロントエンドの環境構築がひと通り完了しました。
-ただ、「この二つがどこでつながっているのか」を曖昧なまま進めてしまっていた部分も多く、振り返りの意味も込めて、この記事を書くことにしました。
-注
-現時点では環境構築のみを行っており、...</summary>
   </entry>
 </feed>
