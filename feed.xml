@@ -100,7 +100,7 @@ ChatGPT：
     <title>【15分で追いつく！】今のClaude Codeができることをざっくり解説</title>
     <link rel="alternate" href="https://qiita.com/kyuko/items/77e9e022860b57e4bd4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-17T09:01:54+09:00</updated>
-    <summary type="html">Likes: 215&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T09:01:54+09:00&lt;br/&gt;Updated: 2026-02-17T09:01:54+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 218&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T09:01:54+09:00&lt;br/&gt;Updated: 2026-02-17T09:01:54+09:00&lt;br/&gt;はじめに
 こんにちは！ひさふるです。
 みなさん、Claude Code使ってますか？？
 2025年前半のリリース以来、Claude Codeはものすごいスピードで進化を続けています。
@@ -651,7 +651,7 @@ Certify
     <title>AIに「ペルソナ」を与えるだけで、UIデザインはここまで化ける</title>
     <link rel="alternate" href="https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-18T15:08:21+09:00</updated>
-    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-18T15:08:21+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-18T15:08:21+09:00&lt;br/&gt;はじめに
 AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示していませんか？
 実は、誰が使うか（ペルソナ）を1行足すだけで、出力されるデザインの解像度が劇的に変わります。
 同じ「タスク管理アプリ」という指示で、ペルソナの有無によってどれだけ差が出るか実験しました。...</summary>
@@ -733,6 +733,15 @@ SHAP値処理の改修
 HTML/画像を根拠にMark...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cace9602e4eaea995cc9</id>
+    <title>Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/cace9602e4eaea995cc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T12:28:24+09:00</updated>
+    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T11:43:54+09:00&lt;br/&gt;Updated: 2026-02-19T12:28:24+09:00&lt;br/&gt;はじめに
+2026年1月、Anthropicが「The Complete Guide to Building Skills for Claude」という32ページのPDFを公開しました。
+スキルとは、Claudeに特定のタスクを一貫して実行させるための仕組みです。Mark...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:800beee69019ca84855c</id>
     <title>「ログイン周り」がごちゃつく人へ：認証・認可・SSO・OAuth/OIDC/SAMLの地図</title>
     <link rel="alternate" href="https://qiita.com/ryucciarati/items/800beee69019ca84855c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -762,15 +771,6 @@ GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場�
     <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T09:50:06+09:00&lt;br/&gt;Updated: 2026-01-18T23:28:37+09:00&lt;br/&gt;はじめに：なぜ今 Tauri なのか
 Electron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。
 Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用することで...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cace9602e4eaea995cc9</id>
-    <title>Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/cace9602e4eaea995cc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T12:28:24+09:00</updated>
-    <summary type="html">Likes: 69&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T11:43:54+09:00&lt;br/&gt;Updated: 2026-02-19T12:28:24+09:00&lt;br/&gt;はじめに
-2026年1月、Anthropicが「The Complete Guide to Building Skills for Claude」という32ページのPDFを公開しました。
-スキルとは、Claudeに特定のタスクを一貫して実行させるための仕組みです。Mark...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5cc486be289a8ea76728</id>
@@ -2143,6 +2143,17 @@ C++の代わりにRustで記述する
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d56f9704bc95ffc77e74</id>
+    <title>依存性注入（DI）とは？“外から渡す”だけでコードがここまで変わる</title>
+    <link rel="alternate" href="https://qiita.com/HK_Reisfeld/items/d56f9704bc95ffc77e74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-17T10:52:41+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/HK_Reisfeld&quot;&gt;HK_Reisfeld&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T10:52:41+09:00&lt;br/&gt;Updated: 2026-02-17T10:52:41+09:00&lt;br/&gt;はじめに
+ソフトウェア開発では、あるクラスやサービスが別の機能に依存することは避けられません。
+たとえば「支払いサービス」が「決済ゲートウェイ」に依存するようなケースです。
+ここでありがちな書き方が、依存するオブジェクトをクラスの中で直接 new してしまう方法です。
+c...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fa79b87afcd165428e39</id>
     <title>Googleの公式ドキュメントを検索できるMCP「Developer Knowledge API」をGemini CLIで使ってみた</title>
     <link rel="alternate" href="https://qiita.com/kentaro_kawamura/items/fa79b87afcd165428e39?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2245,24 +2256,5 @@ Parallel Routes + Intercepting Routes を使うと、一覧から詳細へ遷移
 「【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（前編）」  の続編です。
 前編では、Step 1～Step 2として、ATP を起点に AIDP 上でデータを取り込み、
 Bronze...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:90697508c14d8f2a5afe</id>
-    <title>Vue 3: computed で入力バリデーションをリアルタイム表示する</title>
-    <link rel="alternate" href="https://qiita.com/pomusuke36/items/90697508c14d8f2a5afe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-16T14:28:48+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/pomusuke36&quot;&gt;pomusuke36&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T14:28:48+09:00&lt;br/&gt;Updated: 2026-01-16T14:28:48+09:00&lt;br/&gt;1. この記事でやること
-
-学習アウトプットとして、computed を使って バリデーションを表示する
-
-2. 検証環境
-
-Vue 3.4.35
-Nuxt 3.12.4
-Node v22.20.0
-Yarn 1.22.18
-macOS Sequoia 15.6
-
-3...</summary>
   </entry>
 </feed>
