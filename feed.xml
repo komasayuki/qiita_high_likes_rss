@@ -76,7 +76,7 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
     <title>【15分で追いつく！】今のClaude Codeができることをざっくり解説</title>
     <link rel="alternate" href="https://qiita.com/kyuko/items/77e9e022860b57e4bd4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-17T09:01:54+09:00</updated>
-    <summary type="html">Likes: 241&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T09:01:54+09:00&lt;br/&gt;Updated: 2026-02-17T09:01:54+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 246&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T09:01:54+09:00&lt;br/&gt;Updated: 2026-02-17T09:01:54+09:00&lt;br/&gt;はじめに
 こんにちは！ひさふるです。
 みなさん、Claude Code使ってますか？？
 2025年前半のリリース以来、Claude Codeはものすごいスピードで進化を続けています。
@@ -353,6 +353,16 @@ VSCode
 AWS Toolkit for V...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c3d904ff5f898ad243f3</id>
+    <title>AIに「ペルソナ」を与えるだけで、UIデザインはここまで化ける</title>
+    <link rel="alternate" href="https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-18T15:08:21+09:00</updated>
+    <summary type="html">Likes: 123&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-18T15:08:21+09:00&lt;br/&gt;はじめに
+AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示していませんか？
+実は、誰が使うか（ペルソナ）を1行足すだけで、出力されるデザインの解像度が劇的に変わります。
+同じ「タスク管理アプリ」という指示で、ペルソナの有無によってどれだけ差が出るか実験しました。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:38cedf1f96e981b4f11d</id>
     <title>「オンボーディングが早い」と言われるためにやっていること</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/38cedf1f96e981b4f11d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -464,16 +474,6 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
 日々、プログラミング学習や実務の中で
 つまずきやすいポイントを整理して発信しています。
 PRUMについて気になった方は...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c3d904ff5f898ad243f3</id>
-    <title>AIに「ペルソナ」を与えるだけで、UIデザインはここまで化ける</title>
-    <link rel="alternate" href="https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-18T15:08:21+09:00</updated>
-    <summary type="html">Likes: 104&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-18T15:08:21+09:00&lt;br/&gt;はじめに
-AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示していませんか？
-実は、誰が使うか（ペルソナ）を1行足すだけで、出力されるデザインの解像度が劇的に変わります。
-同じ「タスク管理アプリ」という指示で、ペルソナの有無によってどれだけ差が出るか実験しました。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:388a7aaad767b9e11fa3</id>
@@ -657,6 +657,15 @@ Certify
 ※マクロなし／明日から使えるもの中心...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cace9602e4eaea995cc9</id>
+    <title>Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/cace9602e4eaea995cc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T12:28:24+09:00</updated>
+    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T11:43:54+09:00&lt;br/&gt;Updated: 2026-02-19T12:28:24+09:00&lt;br/&gt;はじめに
+2026年1月、Anthropicが「The Complete Guide to Building Skills for Claude」という32ページのPDFを公開しました。
+スキルとは、Claudeに特定のタスクを一貫して実行させるための仕組みです。Mark...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ce2327852cef06f5f2ab</id>
     <title>本当に使える！海外Tech動画爆速キャッチアップ術まとめ</title>
     <link rel="alternate" href="https://qiita.com/Koder_dev/items/ce2327852cef06f5f2ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -665,15 +674,6 @@ Certify
 X（旧Twitter）で海外Tech動画を日々紹介してるKoderです!
 普段から毎日のように、英語のエンジニア向け動画や役立つネタを発信してるんですが、最近「どうやって情報集めてるの？」って聞かれることがかなり増えてきました。
 そこで今回は、Qiitaの記事と...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cace9602e4eaea995cc9</id>
-    <title>Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/cace9602e4eaea995cc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T12:28:24+09:00</updated>
-    <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T11:43:54+09:00&lt;br/&gt;Updated: 2026-02-19T12:28:24+09:00&lt;br/&gt;はじめに
-2026年1月、Anthropicが「The Complete Guide to Building Skills for Claude」という32ページのPDFを公開しました。
-スキルとは、Claudeに特定のタスクを一貫して実行させるための仕組みです。Mark...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:097d51405416e93d5132</id>
@@ -1378,6 +1378,18 @@ Web API（REST API）という言葉を聞いたことがある方
 1...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:252fb5ef031127784757</id>
+    <title>Claude Code作者が全公開！9種のカスタマイズ手段と設定の全貌</title>
+    <link rel="alternate" href="https://qiita.com/dai_chi/items/252fb5ef031127784757?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-17T05:50:43+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dai_chi&quot;&gt;dai_chi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T05:50:43+09:00&lt;br/&gt;Updated: 2026-02-17T05:50:43+09:00&lt;br/&gt;はじめに
+Claude Codeをインストールして、そのまま使っていないだろうか。
+
+本記事は2026年2月13日時点の情報に基づいています。
+
+作者のBoris Cherny氏は、カスタマイズ性がClaude Codeの成長を加速させた要因の一つだと述べた。エンジニアは...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6c0dd5107d4ce6c4b300</id>
     <title>Claude Code の実装から読み解く Agent Teams の設計思想</title>
     <link rel="alternate" href="https://qiita.com/Dinn/items/6c0dd5107d4ce6c4b300?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1448,18 +1460,6 @@ PRUMについて気になった方は、
 C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
 
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:252fb5ef031127784757</id>
-    <title>Claude Code作者が全公開！9種のカスタマイズ手段と設定の全貌</title>
-    <link rel="alternate" href="https://qiita.com/dai_chi/items/252fb5ef031127784757?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-17T05:50:43+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dai_chi&quot;&gt;dai_chi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T05:50:43+09:00&lt;br/&gt;Updated: 2026-02-17T05:50:43+09:00&lt;br/&gt;はじめに
-Claude Codeをインストールして、そのまま使っていないだろうか。
-
-本記事は2026年2月13日時点の情報に基づいています。
-
-作者のBoris Cherny氏は、カスタマイズ性がClaude Codeの成長を加速させた要因の一つだと述べた。エンジニアは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7b8a5e65873a35ea72dd</id>
@@ -1596,6 +1596,17 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fe3446e3f2a8c33efdfb</id>
+    <title>【宇宙最速レビュー】AWSではじめるMCP実践ガイド</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/fe3446e3f2a8c33efdfb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-18T00:33:53+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T00:32:08+09:00&lt;br/&gt;Updated: 2026-02-18T00:33:53+09:00&lt;br/&gt;この記事はClaude Codeと一緒に執筆しました。
+
+AWSコミュニティ仲間の塚田さん・森田さんが書かれたMCP本が、いよいよ2/26に発売されます！ 私もご恵贈いただきました。ありがとうございます🙇‍♂️
+
+私はレビュアーとして発売前の原稿を読ませていただいたの...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b1726a7a6054ed7e64df</id>
     <title>アーキテクチャの本質は共通している？最も大切な責務分離という考え方</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/b1726a7a6054ed7e64df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1618,17 +1629,6 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
     <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T20:57:55+09:00&lt;br/&gt;Updated: 2026-01-06T19:49:00+09:00&lt;br/&gt;はじめに
 表題のとおり、Windows OS を USB メモリ上に導入して、任意の PC を使って利用するためのノウハウを共有したいと思います。
 本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fe3446e3f2a8c33efdfb</id>
-    <title>【宇宙最速レビュー】AWSではじめるMCP実践ガイド</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/fe3446e3f2a8c33efdfb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-18T00:33:53+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T00:32:08+09:00&lt;br/&gt;Updated: 2026-02-18T00:33:53+09:00&lt;br/&gt;この記事はClaude Codeと一緒に執筆しました。
-
-AWSコミュニティ仲間の塚田さん・森田さんが書かれたMCP本が、いよいよ2/26に発売されます！ 私もご恵贈いただきました。ありがとうございます🙇‍♂️
-
-私はレビュアーとして発売前の原稿を読ませていただいたの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
@@ -1889,6 +1889,17 @@ Gitの設計上の課題を、現代的なモデルで再設計した...</summar
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d56f9704bc95ffc77e74</id>
+    <title>依存性注入（DI）とは？“外から渡す”だけでコードがここまで変わる</title>
+    <link rel="alternate" href="https://qiita.com/HK_Reisfeld/items/d56f9704bc95ffc77e74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-17T10:52:41+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/HK_Reisfeld&quot;&gt;HK_Reisfeld&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T10:52:41+09:00&lt;br/&gt;Updated: 2026-02-17T10:52:41+09:00&lt;br/&gt;はじめに
+ソフトウェア開発では、あるクラスやサービスが別の機能に依存することは避けられません。
+たとえば「支払いサービス」が「決済ゲートウェイ」に依存するようなケースです。
+ここでありがちな書き方が、依存するオブジェクトをクラスの中で直接 new してしまう方法です。
+c...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6d08844e43f44860fb9c</id>
     <title>Power Apps でポップアップ (確認ダイアログ) の作成が楽になりました！</title>
     <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/6d08844e43f44860fb9c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1925,17 +1936,6 @@ Z80はザイログ自身が製造したオリジナル品の他に、セカン�
 本記事は、JavaエンジニアがTypeScriptを扱う際に感じた違いを解説した記事です。
 これまで実務や個人開発でTypeScriptに触れていましたが、Javaの感覚でコードを読み進めていくと、TypeScript特有の概念や挙動に戸惑うことがありました。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d56f9704bc95ffc77e74</id>
-    <title>依存性注入（DI）とは？“外から渡す”だけでコードがここまで変わる</title>
-    <link rel="alternate" href="https://qiita.com/HK_Reisfeld/items/d56f9704bc95ffc77e74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-17T10:52:41+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/HK_Reisfeld&quot;&gt;HK_Reisfeld&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T10:52:41+09:00&lt;br/&gt;Updated: 2026-02-17T10:52:41+09:00&lt;br/&gt;はじめに
-ソフトウェア開発では、あるクラスやサービスが別の機能に依存することは避けられません。
-たとえば「支払いサービス」が「決済ゲートウェイ」に依存するようなケースです。
-ここでありがちな書き方が、依存するオブジェクトをクラスの中で直接 new してしまう方法です。
-c...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9c7bd5791f33b2c034cb</id>
@@ -2040,6 +2040,15 @@ GitHub Cop...</summary>
 GMOコネクトの大谷です。
 H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」として大きく報じられました。
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:be45d3115ebe74a3e312</id>
+    <title>【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン</title>
+    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T15:16:04+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T12:00:22+09:00&lt;br/&gt;Updated: 2026-02-19T15:16:04+09:00&lt;br/&gt;はじめに：プロにとって「Vibe Coding」は恐怖でしかない
+2025年11月のリリース以来、Antigravity（アンチグラビティ）界隈では「Vibe Coding（バイブコーディング）」という言葉が流行しています。
+「コードが読めなくても、AIとノリで対話して...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e49ae37c8534addd6cee</id>
@@ -2241,19 +2250,5 @@ Parallel Routes + Intercepting Routes を使うと、一覧から詳細へ遷移
 カバレッジのパーセンテージを評価の指針にする手法、よく採用されているんじゃないでしょうか？
 カバレッジとは、プログラムコードのどの部分がどれだけ実行されたかを示す網羅率を指します。
 「数値を追えば追うほど工数はかかりますが、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:de98e012a6537544056d</id>
-    <title>エンジニアこそセルフコンパッションを学ぶべきだと思った理由</title>
-    <link rel="alternate" href="https://qiita.com/nakaizumi_slj/items/de98e012a6537544056d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-13T09:43:15+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nakaizumi_slj&quot;&gt;nakaizumi_slj&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T09:43:14+09:00&lt;br/&gt;Updated: 2026-02-13T09:43:15+09:00&lt;br/&gt;1. 理想と現実のギャップが苦しかった
-理想の自分がある。
-もっとできるはず。
-もっと成長しているはず。
-でも現実はそこに届いていない。
-私はこの“理想と現実のギャップ”に強いストレスを感じていた。
-足りない自分を責めることで、成長しようとしていた。
-しかしあるとき疑問に...</summary>
   </entry>
 </feed>
