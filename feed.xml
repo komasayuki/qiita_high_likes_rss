@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-02-19T19:44:33+09:00</updated>
+  <updated>2026-02-19T22:55:05+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -27,8 +27,8 @@
     <id>tag:qiita.com,2026:77e9e022860b57e4bd4d</id>
     <title>【15分で追いつく！】今のClaude Codeができることをざっくり解説</title>
     <link rel="alternate" href="https://qiita.com/kyuko/items/77e9e022860b57e4bd4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-17T09:01:54+09:00</updated>
-    <summary type="html">Likes: 270&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T09:01:54+09:00&lt;br/&gt;Updated: 2026-02-17T09:01:54+09:00&lt;br/&gt;はじめに
+    <updated>2026-02-19T22:55:05+09:00</updated>
+    <summary type="html">Likes: 274&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T09:01:54+09:00&lt;br/&gt;Updated: 2026-02-19T22:55:05+09:00&lt;br/&gt;はじめに
 こんにちは！ひさふるです。
 みなさん、Claude Code使ってますか？？
 2025年前半のリリース以来、Claude Codeはものすごいスピードで進化を続けています。
@@ -151,6 +151,16 @@ ChatGPT：
 そんな中、この前本屋で手に取った『アウトプット大全』という本を読...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c3d904ff5f898ad243f3</id>
+    <title>AIに「ユーザーペルソナ」を与えるだけで、UIデザインはここまで化ける</title>
+    <link rel="alternate" href="https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T19:44:33+09:00</updated>
+    <summary type="html">Likes: 170&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-19T19:44:33+09:00&lt;br/&gt;はじめに
+AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示していませんか？
+実は、誰が使うか（ペルソナ）を1行足すだけで、出力されるデザインの解像度が劇的に変わります。
+同じ「タスク管理アプリ」という指示で、ペルソナの有無によってどれだけ差が出るか実験しました。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d4121721605c8955aa17</id>
     <title>なぜあの人と話すと仕事が止まるのか。</title>
     <link rel="alternate" href="https://qiita.com/haihaikazuma/items/d4121721605c8955aa17?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -180,16 +190,6 @@ ChatGPT：
 そんな話を聞くたびに、こう思ったことはないでしょうか。
 「いや、そこまで楽になってないが？むしろ忙しくなった」
 実際、生成AIでコーディング作業が削れた代わりに、別のコストが前面に出てきま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c3d904ff5f898ad243f3</id>
-    <title>AIに「ユーザーペルソナ」を与えるだけで、UIデザインはここまで化ける</title>
-    <link rel="alternate" href="https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T19:44:33+09:00</updated>
-    <summary type="html">Likes: 162&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-19T19:44:33+09:00&lt;br/&gt;はじめに
-AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示していませんか？
-実は、誰が使うか（ペルソナ）を1行足すだけで、出力されるデザインの解像度が劇的に変わります。
-同じ「タスク管理アプリ」という指示で、ペルソナの有無によってどれだけ差が出るか実験しました。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cabcfb8c91b857cc164f</id>
@@ -1165,6 +1165,18 @@ Pythonでプログラミングをしていると、当たり前のように使�
 統計モデリング（statistical ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:252fb5ef031127784757</id>
+    <title>Claude Code作者が全公開！9種のカスタマイズ手段と設定の全貌</title>
+    <link rel="alternate" href="https://qiita.com/dai_chi/items/252fb5ef031127784757?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-17T05:50:43+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dai_chi&quot;&gt;dai_chi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T05:50:43+09:00&lt;br/&gt;Updated: 2026-02-17T05:50:43+09:00&lt;br/&gt;はじめに
+Claude Codeをインストールして、そのまま使っていないだろうか。
+
+本記事は2026年2月13日時点の情報に基づいています。
+
+作者のBoris Cherny氏は、カスタマイズ性がClaude Codeの成長を加速させた要因の一つだと述べた。エンジニアは...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4db2182e2384df4122a2</id>
     <title>Microsoft Teams を悪用したCEO詐欺（ビジネスチャット詐欺）について</title>
     <link rel="alternate" href="https://qiita.com/hirotomotaguchi/items/4db2182e2384df4122a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1204,6 +1216,15 @@ draw.io の MCP サーバーが公開されていたので、軽く触ってみ�
 勝手に、よりいい感じの図を出力してくれると思って使ったのですが、（何も使わずに「drawio 形式で書いて」と指示する場合と比べて）あまり違いを感じませんでした。
 
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:be45d3115ebe74a3e312</id>
+    <title>【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン</title>
+    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T15:16:04+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T12:00:22+09:00&lt;br/&gt;Updated: 2026-02-19T15:16:04+09:00&lt;br/&gt;はじめに：プロにとって「Vibe Coding」は恐怖でしかない
+2025年11月のリリース以来、Antigravity（アンチグラビティ）界隈では「Vibe Coding（バイブコーディング）」という言葉が流行しています。
+「コードが読めなくても、AIとノリで対話して...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6303aa289c9734974f69</id>
@@ -1255,18 +1276,6 @@ Generative UIは、生成AIやAIエージェントによってUIを生成する�
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:252fb5ef031127784757</id>
-    <title>Claude Code作者が全公開！9種のカスタマイズ手段と設定の全貌</title>
-    <link rel="alternate" href="https://qiita.com/dai_chi/items/252fb5ef031127784757?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-17T05:50:43+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dai_chi&quot;&gt;dai_chi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T05:50:43+09:00&lt;br/&gt;Updated: 2026-02-17T05:50:43+09:00&lt;br/&gt;はじめに
-Claude Codeをインストールして、そのまま使っていないだろうか。
-
-本記事は2026年2月13日時点の情報に基づいています。
-
-作者のBoris Cherny氏は、カスタマイズ性がClaude Codeの成長を加速させた要因の一つだと述べた。エンジニアは...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:f66918b0a5dc59db9017</id>
     <title>Ollama 17万台が（あぶねーすね）だそうな</title>
     <link rel="alternate" href="https://qiita.com/ohkitashigeto/items/f66918b0a5dc59db9017?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1290,15 +1299,6 @@ The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハ�
 具体的には、M365を導入している企業において利用できる以下を対象とします:
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:be45d3115ebe74a3e312</id>
-    <title>【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン</title>
-    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T15:16:04+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T12:00:22+09:00&lt;br/&gt;Updated: 2026-02-19T15:16:04+09:00&lt;br/&gt;はじめに：プロにとって「Vibe Coding」は恐怖でしかない
-2025年11月のリリース以来、Antigravity（アンチグラビティ）界隈では「Vibe Coding（バイブコーディング）」という言葉が流行しています。
-「コードが読めなくても、AIとノリで対話して...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4a7ddbcb8ed76d1c621b</id>
@@ -1640,6 +1640,17 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d56f9704bc95ffc77e74</id>
+    <title>依存性注入（DI）とは？“外から渡す”だけでコードがここまで変わる</title>
+    <link rel="alternate" href="https://qiita.com/HK_Reisfeld/items/d56f9704bc95ffc77e74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-17T10:52:41+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/HK_Reisfeld&quot;&gt;HK_Reisfeld&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T10:52:41+09:00&lt;br/&gt;Updated: 2026-02-17T10:52:41+09:00&lt;br/&gt;はじめに
+ソフトウェア開発では、あるクラスやサービスが別の機能に依存することは避けられません。
+たとえば「支払いサービス」が「決済ゲートウェイ」に依存するようなケースです。
+ここでありがちな書き方が、依存するオブジェクトをクラスの中で直接 new してしまう方法です。
+c...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
     <title>Microsoft 365 Copilotに色々な方法でパワポ作成を丸投げしてみた</title>
     <link rel="alternate" href="https://qiita.com/Oyu3m/items/7c9c19c257be35f5dcec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1668,17 +1679,6 @@ Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sakaimaging&quot;&gt;sakaimaging&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T13:24:45+09:00&lt;br/&gt;Updated: 2026-01-03T19:35:29+09:00&lt;br/&gt;はじめに
 Mermaid では、flowchart の矢印に animation を指定することで、通信が流れる様子をアニメーションとして表現できます。
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d56f9704bc95ffc77e74</id>
-    <title>依存性注入（DI）とは？“外から渡す”だけでコードがここまで変わる</title>
-    <link rel="alternate" href="https://qiita.com/HK_Reisfeld/items/d56f9704bc95ffc77e74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-17T10:52:41+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/HK_Reisfeld&quot;&gt;HK_Reisfeld&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T10:52:41+09:00&lt;br/&gt;Updated: 2026-02-17T10:52:41+09:00&lt;br/&gt;はじめに
-ソフトウェア開発では、あるクラスやサービスが別の機能に依存することは避けられません。
-たとえば「支払いサービス」が「決済ゲートウェイ」に依存するようなケースです。
-ここでありがちな書き方が、依存するオブジェクトをクラスの中で直接 new してしまう方法です。
-c...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0d6797b848ed41d0e697</id>
@@ -2198,6 +2198,15 @@ AWSアカウント作成
 今回使...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7a0833e9484b40586f0f</id>
+    <title>【実践】Claude Codeの開発速度を2倍にする10のTips</title>
+    <link rel="alternate" href="https://qiita.com/pythonista0328/items/7a0833e9484b40586f0f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-17T14:47:48+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/pythonista0328&quot;&gt;pythonista0328&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T14:47:47+09:00&lt;br/&gt;Updated: 2026-02-17T14:47:48+09:00&lt;br/&gt;はじめに
+Claude Codeを使い始めたけど、思ったほど速くならない...そんな経験はありませんか？
+実は、Claude Codeは「使い方」で生産性が大きく変わるツールです。プロンプトの書き方、ファイル構成、設定ファイルの工夫次第で、同じタスクでも所要時間が半分以下...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fa79b87afcd165428e39</id>
     <title>Googleの公式ドキュメントを検索できるMCP「Developer Knowledge API」をGemini CLIで使ってみた</title>
     <link rel="alternate" href="https://qiita.com/kentaro_kawamura/items/fa79b87afcd165428e39?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2234,23 +2243,5 @@ Parallel Routes + Intercepting Routes を使うと、一覧から詳細へ遷移
     <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuchi_a&quot;&gt;kimuchi_a&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T23:56:39+09:00&lt;br/&gt;Updated: 2026-02-01T11:29:01+09:00&lt;br/&gt;はじめに
 最近、Webアプリケーションの開発を行ってみたのですが、その際にJSPを採用してみました。
 （ちなみに「ReactやVue.js」という単語は耳にしたことがありましたが、JavaScriptに「フレームワーク」という概念があることすら最近知ったばかりの初学者です...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4d28c47b1b6f7ef727cf</id>
-    <title>【ポケモン×Java】知識編 ERROR #6 実行時エラーを防止するには？</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/4d28c47b1b6f7ef727cf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-08T14:12:28+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T14:12:28+09:00&lt;br/&gt;Updated: 2026-01-08T14:12:28+09:00&lt;br/&gt;はじめに
-実行時エラーの一番の特徴は、
-途中でプログラムが止まることです。
-
-画面が先に進まない
-処理が中断される
-サービスが落ちる
-
-ポケモンで例えるなら、
-バトルの最中にゲームがフリーズする状態。
-止まる以上、「あとで考えよう」はできません。
-この章では、「どう直すか...</summary>
   </entry>
 </feed>
