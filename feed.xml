@@ -133,7 +133,7 @@ ChatGPT：
     <title>AIに「ユーザーペルソナ」を与えるだけで、UIデザインはここまで化ける</title>
     <link rel="alternate" href="https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-19T19:44:33+09:00</updated>
-    <summary type="html">Likes: 185&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-19T19:44:33+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 187&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-19T19:44:33+09:00&lt;br/&gt;はじめに
 AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示していませんか？
 実は、誰が使うか（ペルソナ）を1行足すだけで、出力されるデザインの解像度が劇的に変わります。
 同じ「タスク管理アプリ」という指示で、ペルソナの有無によってどれだけ差が出るか実験しました。...</summary>
@@ -530,6 +530,15 @@ PRUMについて気になった方は、
 そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cace9602e4eaea995cc9</id>
+    <title>Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/cace9602e4eaea995cc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T12:28:24+09:00</updated>
+    <summary type="html">Likes: 93&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T11:43:54+09:00&lt;br/&gt;Updated: 2026-02-19T12:28:24+09:00&lt;br/&gt;はじめに
+2026年1月、Anthropicが「The Complete Guide to Building Skills for Claude」という32ページのPDFを公開しました。
+スキルとは、Claudeに特定のタスクを一貫して実行させるための仕組みです。Mark...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fca5a1898cc2a9c961f6</id>
     <title>生成AI・LLM必須リンク集2026</title>
     <link rel="alternate" href="https://qiita.com/aokikenichi/items/fca5a1898cc2a9c961f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -557,15 +566,6 @@ Chatサービス、プロンプト集、リーダーボード、情報収集の�
 
 不完全さ・アナログ・人間味
 A...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cace9602e4eaea995cc9</id>
-    <title>Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/cace9602e4eaea995cc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T12:28:24+09:00</updated>
-    <summary type="html">Likes: 92&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T11:43:54+09:00&lt;br/&gt;Updated: 2026-02-19T12:28:24+09:00&lt;br/&gt;はじめに
-2026年1月、Anthropicが「The Complete Guide to Building Skills for Claude」という32ページのPDFを公開しました。
-スキルとは、Claudeに特定のタスクを一貫して実行させるための仕組みです。Mark...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e88aabbdfa8ddd94810a</id>
@@ -1071,6 +1071,18 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 最初はQiitaのContributionと記事...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:252fb5ef031127784757</id>
+    <title>Claude Code作者が全公開！9種のカスタマイズ手段と設定の全貌</title>
+    <link rel="alternate" href="https://qiita.com/dai_chi/items/252fb5ef031127784757?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-17T05:50:43+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dai_chi&quot;&gt;dai_chi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T05:50:43+09:00&lt;br/&gt;Updated: 2026-02-17T05:50:43+09:00&lt;br/&gt;はじめに
+Claude Codeをインストールして、そのまま使っていないだろうか。
+
+本記事は2026年2月13日時点の情報に基づいています。
+
+作者のBoris Cherny氏は、カスタマイズ性がClaude Codeの成長を加速させた要因の一つだと述べた。エンジニアは...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
     <title>個人開発「ひたすら数学」作ってリリースしてみた iOS/Android</title>
     <link rel="alternate" href="https://qiita.com/keitaMax/items/eba4cc53538a37121ede?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1086,16 +1098,13 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:252fb5ef031127784757</id>
-    <title>Claude Code作者が全公開！9種のカスタマイズ手段と設定の全貌</title>
-    <link rel="alternate" href="https://qiita.com/dai_chi/items/252fb5ef031127784757?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-17T05:50:43+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dai_chi&quot;&gt;dai_chi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T05:50:43+09:00&lt;br/&gt;Updated: 2026-02-17T05:50:43+09:00&lt;br/&gt;はじめに
-Claude Codeをインストールして、そのまま使っていないだろうか。
-
-本記事は2026年2月13日時点の情報に基づいています。
-
-作者のBoris Cherny氏は、カスタマイズ性がClaude Codeの成長を加速させた要因の一つだと述べた。エンジニアは...</summary>
+    <id>tag:qiita.com,2026:be45d3115ebe74a3e312</id>
+    <title>【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン</title>
+    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T15:16:04+09:00</updated>
+    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T12:00:22+09:00&lt;br/&gt;Updated: 2026-02-19T15:16:04+09:00&lt;br/&gt;はじめに：プロにとって「Vibe Coding」は恐怖でしかない
+2025年11月のリリース以来、Antigravity（アンチグラビティ）界隈では「Vibe Coding（バイブコーディング）」という言葉が流行しています。
+「コードが読めなくても、AIとノリで対話して...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:85b419b26b2886f5e2d6</id>
@@ -1131,15 +1140,6 @@ Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、い
 
 CLAUDE.md
 サブエー...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:be45d3115ebe74a3e312</id>
-    <title>【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン</title>
-    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T15:16:04+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T12:00:22+09:00&lt;br/&gt;Updated: 2026-02-19T15:16:04+09:00&lt;br/&gt;はじめに：プロにとって「Vibe Coding」は恐怖でしかない
-2025年11月のリリース以来、Antigravity（アンチグラビティ）界隈では「Vibe Coding（バイブコーディング）」という言葉が流行しています。
-「コードが読めなくても、AIとノリで対話して...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
