@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-02-20T04:58:57+09:00</updated>
+  <updated>2026-02-20T12:06:29+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -28,7 +28,7 @@
     <title>【15分で追いつく！】今のClaude Codeができることをざっくり解説</title>
     <link rel="alternate" href="https://qiita.com/kyuko/items/77e9e022860b57e4bd4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-19T22:55:05+09:00</updated>
-    <summary type="html">Likes: 307&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T09:01:54+09:00&lt;br/&gt;Updated: 2026-02-19T22:55:05+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 311&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T09:01:54+09:00&lt;br/&gt;Updated: 2026-02-19T22:55:05+09:00&lt;br/&gt;はじめに
 こんにちは！ひさふるです。
 みなさん、Claude Code使ってますか？？
 2025年前半のリリース以来、Claude Codeはものすごいスピードで進化を続けています。
@@ -86,8 +86,8 @@ Googleで長年 Chrome に携わり、現在は Google Cloud AI でディレク�
     <id>tag:qiita.com,2026:c3d904ff5f898ad243f3</id>
     <title>AIに「ユーザーペルソナ」を与えるだけで、UIデザインはここまで化ける</title>
     <link rel="alternate" href="https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T19:44:33+09:00</updated>
-    <summary type="html">Likes: 236&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-19T19:44:33+09:00&lt;br/&gt;はじめに
+    <updated>2026-02-20T12:06:29+09:00</updated>
+    <summary type="html">Likes: 253&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-20T12:06:29+09:00&lt;br/&gt;はじめに
 AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示していませんか？
 実は、誰が使うか（ペルソナ）を1行足すだけで、出力されるデザインの解像度が劇的に変わります。
 同じ「タスク管理アプリ」という指示で、ペルソナの有無によってどれだけ差が出るか実験しました。...</summary>
@@ -462,6 +462,15 @@ BizCodeXで案件をご紹介いただき、人生初の副業に挑戦しまし
 Claude Code への質問とその回答を指定のファイルに保...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cace9602e4eaea995cc9</id>
+    <title>Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/cace9602e4eaea995cc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T12:28:24+09:00</updated>
+    <summary type="html">Likes: 106&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T11:43:54+09:00&lt;br/&gt;Updated: 2026-02-19T12:28:24+09:00&lt;br/&gt;はじめに
+2026年1月、Anthropicが「The Complete Guide to Building Skills for Claude」という32ページのPDFを公開しました。
+スキルとは、Claudeに特定のタスクを一貫して実行させるための仕組みです。Mar...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9607008aefc2521615ac</id>
     <title>【後編】先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/9607008aefc2521615ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -484,15 +493,6 @@ PRUMについて気になった方は...</summary>
 私は業界に入って三年半ほど Homebrew を利用していましたが、
 最近、「Nixの記事」や「みなさんのDotfilesの記事」を見かける機会が増えたのもあって、自身の開発環境のアップデートしたいなと感じていました。
 かと...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cace9602e4eaea995cc9</id>
-    <title>Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/cace9602e4eaea995cc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T12:28:24+09:00</updated>
-    <summary type="html">Likes: 102&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T11:43:54+09:00&lt;br/&gt;Updated: 2026-02-19T12:28:24+09:00&lt;br/&gt;はじめに
-2026年1月、Anthropicが「The Complete Guide to Building Skills for Claude」という32ページのPDFを公開しました。
-スキルとは、Claudeに特定のタスクを一貫して実行させるための仕組みです。Mar...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b534f73310ce4508dac2</id>
@@ -745,8 +745,8 @@ HTML/画像を根拠にMark...</summary>
     <id>tag:qiita.com,2026:be45d3115ebe74a3e312</id>
     <title>【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン</title>
     <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T15:16:04+09:00</updated>
-    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T12:00:22+09:00&lt;br/&gt;Updated: 2026-02-19T15:16:04+09:00&lt;br/&gt;はじめに：プロにとって「Vibe Coding」は恐怖でしかない
+    <updated>2026-02-20T11:51:15+09:00</updated>
+    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T12:00:22+09:00&lt;br/&gt;Updated: 2026-02-20T11:51:15+09:00&lt;br/&gt;はじめに：プロにとって「Vibe Coding」は恐怖でしかない
 2025年11月のリリース以来、Antigravity（アンチグラビティ）界隈では「Vibe Coding（バイブコーディング）」という言葉が流行しています。
 「コードが読めなくても、AIとノリで対話して...</summary>
   </entry>
@@ -1325,6 +1325,17 @@ Win...</summary>
 1. Webアプリケーショ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d56f9704bc95ffc77e74</id>
+    <title>依存性注入（DI）とは？“外から渡す”だけでコードがここまで変わる</title>
+    <link rel="alternate" href="https://qiita.com/HK_Reisfeld/items/d56f9704bc95ffc77e74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-17T10:52:41+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/HK_Reisfeld&quot;&gt;HK_Reisfeld&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T10:52:41+09:00&lt;br/&gt;Updated: 2026-02-17T10:52:41+09:00&lt;br/&gt;はじめに
+ソフトウェア開発では、あるクラスやサービスが別の機能に依存することは避けられません。
+たとえば「支払いサービス」が「決済ゲートウェイ」に依存するようなケースです。
+ここでありがちな書き方が、依存するオブジェクトをクラスの中で直接 new してしまう方法です。
+c...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:176fb69b1be583c14a4a</id>
     <title>【ポエム】 高卒、基本情報3連敗。それでも24歳までに「ネスペ・支援士・AWS12冠」など24資格に合格した話</title>
     <link rel="alternate" href="https://qiita.com/fuji0202/items/176fb69b1be583c14a4a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1343,17 +1354,6 @@ Win...</summary>
     <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobayashimakoto&quot;&gt;kobayashimakoto&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:32:18+09:00&lt;br/&gt;Updated: 2026-01-06T08:29:44+09:00&lt;br/&gt;はじめに
 カルーセルはWEBアプリケーションでよく採用されるUIコンポーネントの1つですが、一般的な実装パターンがなく、アクセシビリティを配慮しつつ実装するのも複雑で大変なので SlickやSwiperといったライブラリを採用するケースが多いのではないでしょうか。
 そんな...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d56f9704bc95ffc77e74</id>
-    <title>依存性注入（DI）とは？“外から渡す”だけでコードがここまで変わる</title>
-    <link rel="alternate" href="https://qiita.com/HK_Reisfeld/items/d56f9704bc95ffc77e74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-17T10:52:41+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/HK_Reisfeld&quot;&gt;HK_Reisfeld&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T10:52:41+09:00&lt;br/&gt;Updated: 2026-02-17T10:52:41+09:00&lt;br/&gt;はじめに
-ソフトウェア開発では、あるクラスやサービスが別の機能に依存することは避けられません。
-たとえば「支払いサービス」が「決済ゲートウェイ」に依存するようなケースです。
-ここでありがちな書き方が、依存するオブジェクトをクラスの中で直接 new してしまう方法です。
-c...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1492b77916ce3061cadf</id>
@@ -1736,6 +1736,15 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 1. ブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3b03cf922886bca5c661</id>
+    <title>PRレビュー、順番待ちやめました — AI時代の&quot;交通整理&quot;を自動化した話</title>
+    <link rel="alternate" href="https://qiita.com/sapeet-lin/items/3b03cf922886bca5c661?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T11:59:02+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sapeet-lin&quot;&gt;sapeet-lin&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T11:59:02+09:00&lt;br/&gt;Updated: 2026-02-19T11:59:02+09:00&lt;br/&gt;はじめに
+AI駆動の開発が一般化した現在、Claude CodeやGitHub Copilotなどのツールを活用することで、コードを書くスピードが劇的に向上しています。しかし、その結果として新たな課題が浮上してきました。
+PRを出すスピードが速くなりすぎて、レビュー側が追...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e49ae37c8534addd6cee</id>
     <title>アイデア出しに困ったら、Agent Skillsを使って8人の専門家とブレストしてみませんか？</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/e49ae37c8534addd6cee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1829,6 +1838,17 @@ Clawdbot（クロードボット）は、1台のPCをハブにして Discord・S
 SaaS開発において、エンジニアが「受け身」でいると、最適な解決...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:db26d1a9d9916365d60e</id>
+    <title>Claude CodeとCodexで使える、OCI構成図を自然言語から自動生成するSkillsを作った</title>
+    <link rel="alternate" href="https://qiita.com/araidon/items/db26d1a9d9916365d60e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T11:02:58+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/araidon&quot;&gt;araidon&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T21:39:03+09:00&lt;br/&gt;Updated: 2026-02-19T11:02:58+09:00&lt;br/&gt;はじめに
+OCIの構成図、描くの面倒じゃないですか。
+draw.ioを開いて、アイコンを探して、ドラッグ&amp;amp;ドロップして、線を引いて、配置を整えて……。
+設計の本質ではない作業に時間を取られがちです。
+そこで、自然言語で指示するだけで .drawio ファイルが出てくるSk...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:21684a9fcaa046f82988</id>
     <title>Chrome の拡張機能を公開したら自分の住所も公開した話</title>
     <link rel="alternate" href="https://qiita.com/KaitoMuraoka/items/21684a9fcaa046f82988?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1919,13 +1939,13 @@ Gitの設計上の課題を、現代的なモデルで再設計した...</summar
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3b03cf922886bca5c661</id>
-    <title>PRレビュー、順番待ちやめました — AI時代の&quot;交通整理&quot;を自動化した話</title>
-    <link rel="alternate" href="https://qiita.com/sapeet-lin/items/3b03cf922886bca5c661?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T11:59:02+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sapeet-lin&quot;&gt;sapeet-lin&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T11:59:02+09:00&lt;br/&gt;Updated: 2026-02-19T11:59:02+09:00&lt;br/&gt;はじめに
-AI駆動の開発が一般化した現在、Claude CodeやGitHub Copilotなどのツールを活用することで、コードを書くスピードが劇的に向上しています。しかし、その結果として新たな課題が浮上してきました。
-PRを出すスピードが速くなりすぎて、レビュー側が追...</summary>
+    <id>tag:qiita.com,2026:7a0833e9484b40586f0f</id>
+    <title>【実践】Claude Codeの開発速度を2倍にする10のTips</title>
+    <link rel="alternate" href="https://qiita.com/pythonista0328/items/7a0833e9484b40586f0f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-20T04:58:57+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/pythonista0328&quot;&gt;pythonista0328&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T14:47:47+09:00&lt;br/&gt;Updated: 2026-02-20T04:58:57+09:00&lt;br/&gt;はじめに
+Claude Codeを使い始めたけど、思ったほど速くならない...そんな経験はありませんか？
+実は、Claude Codeは「使い方」で生産性が大きく変わるツールです。プロンプトの書き方、ファイル構成、設定ファイルの工夫次第で、同じタスクでも所要時間が半分以下...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6d08844e43f44860fb9c</id>
@@ -1966,24 +1986,20 @@ Z80はザイログ自身が製造したオリジナル品の他に、セカン�
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:7a0833e9484b40586f0f</id>
-    <title>【実践】Claude Codeの開発速度を2倍にする10のTips</title>
-    <link rel="alternate" href="https://qiita.com/pythonista0328/items/7a0833e9484b40586f0f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-20T04:58:57+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/pythonista0328&quot;&gt;pythonista0328&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T14:47:47+09:00&lt;br/&gt;Updated: 2026-02-20T04:58:57+09:00&lt;br/&gt;はじめに
-Claude Codeを使い始めたけど、思ったほど速くならない...そんな経験はありませんか？
-実は、Claude Codeは「使い方」で生産性が大きく変わるツールです。プロンプトの書き方、ファイル構成、設定ファイルの工夫次第で、同じタスクでも所要時間が半分以下...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:db26d1a9d9916365d60e</id>
-    <title>Claude CodeとCodexで使える、OCI構成図を自然言語から自動生成するSkillsを作った</title>
-    <link rel="alternate" href="https://qiita.com/araidon/items/db26d1a9d9916365d60e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T11:02:58+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/araidon&quot;&gt;araidon&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T21:39:03+09:00&lt;br/&gt;Updated: 2026-02-19T11:02:58+09:00&lt;br/&gt;はじめに
-OCIの構成図、描くの面倒じゃないですか。
-draw.ioを開いて、アイコンを探して、ドラッグ&amp;amp;ドロップして、線を引いて、配置を整えて……。
-設計の本質ではない作業に時間を取られがちです。
-そこで、自然言語で指示するだけで .drawio ファイルが出てくるSk...</summary>
+    <id>tag:qiita.com,2026:6b8fa1d65f992dc2fc1b</id>
+    <title>【忙しい人向け】30分でAgentCoreとStrandsに入門！</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/6b8fa1d65f992dc2fc1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-18T20:55:35+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T20:41:28+09:00&lt;br/&gt;Updated: 2026-02-18T20:55:35+09:00&lt;br/&gt;今一番アツい、AWSのAIエージェント構築サービスを触ってみましょう💪
+
+事前準備
+
+AWSアカウント作成
+
+「6ヶ月無料プラン」ではなく「有料プラン」で（費用は数十円レベル）
+フリーメールなど捨てアドを使えば、終了後に即閉鎖できるのでオススメ
+
+今回使...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9c7bd5791f33b2c034cb</id>
@@ -2039,22 +2055,6 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 フルサーバーレスで維持費激安なのが嬉しいポイントです。
 
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6b8fa1d65f992dc2fc1b</id>
-    <title>【忙しい人向け】30分でAgentCoreとStrandsに入門！</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/6b8fa1d65f992dc2fc1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-18T20:55:35+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T20:41:28+09:00&lt;br/&gt;Updated: 2026-02-18T20:55:35+09:00&lt;br/&gt;今一番アツい、AWSのAIエージェント構築サービスを触ってみましょう💪
-
-事前準備
-
-AWSアカウント作成
-
-「6ヶ月無料プラン」ではなく「有料プラン」で（費用は数十円レベル）
-フリーメールなど捨てアドを使えば、終了後に即閉鎖できるのでオススメ
-
-今回使...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f036cf3ac3381e6f4438</id>
