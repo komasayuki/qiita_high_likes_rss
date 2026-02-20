@@ -28,7 +28,7 @@
     <title>【15分で追いつく！】今のClaude Codeができることをざっくり解説</title>
     <link rel="alternate" href="https://qiita.com/kyuko/items/77e9e022860b57e4bd4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-19T22:55:05+09:00</updated>
-    <summary type="html">Likes: 323&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T09:01:54+09:00&lt;br/&gt;Updated: 2026-02-19T22:55:05+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 325&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T09:01:54+09:00&lt;br/&gt;Updated: 2026-02-19T22:55:05+09:00&lt;br/&gt;はじめに
 こんにちは！ひさふるです。
 みなさん、Claude Code使ってますか？？
 2025年前半のリリース以来、Claude Codeはものすごいスピードで進化を続けています。
@@ -39,7 +39,7 @@
     <title>AIに「ユーザーペルソナ」を与えるだけで、UIデザインはここまで化ける</title>
     <link rel="alternate" href="https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-20T12:06:29+09:00</updated>
-    <summary type="html">Likes: 296&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-20T12:06:29+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 308&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-20T12:06:29+09:00&lt;br/&gt;はじめに
 AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示していませんか？
 実は、誰が使うか（ペルソナ）を1行足すだけで、出力されるデザインの解像度が劇的に変わります。
 同じ「タスク管理アプリ」という指示で、ペルソナの有無によってどれだけ差が出るか実験しました。...</summary>
@@ -636,7 +636,7 @@ Pencilは、Figma + Layermate みたいなツールで、Pencil上でAIにUIを�
     <title>【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン</title>
     <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-20T11:51:15+09:00</updated>
-    <summary type="html">Likes: 83&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T12:00:22+09:00&lt;br/&gt;Updated: 2026-02-20T11:51:15+09:00&lt;br/&gt;はじめに：プロにとって「Vibe Coding」は恐怖でしかない
+    <summary type="html">Likes: 84&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T12:00:22+09:00&lt;br/&gt;Updated: 2026-02-20T11:51:15+09:00&lt;br/&gt;はじめに：プロにとって「Vibe Coding」は恐怖でしかない
 2025年11月のリリース以来、Antigravity（アンチグラビティ）界隈では「Vibe Coding（バイブコーディング）」という言葉が流行しています。
 「コードが読めなくても、AIとノリで対話して...</summary>
   </entry>
@@ -895,6 +895,18 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
 今回は『スラスラわかるネットワーク&amp;amp;TCP/IPのきほん』のChapter06 セキュリティ章...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:252fb5ef031127784757</id>
+    <title>Claude Code作者が全公開！9種のカスタマイズ手段と設定の全貌</title>
+    <link rel="alternate" href="https://qiita.com/dai_chi/items/252fb5ef031127784757?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-17T05:50:43+09:00</updated>
+    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dai_chi&quot;&gt;dai_chi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T05:50:43+09:00&lt;br/&gt;Updated: 2026-02-17T05:50:43+09:00&lt;br/&gt;はじめに
+Claude Codeをインストールして、そのまま使っていないだろうか。
+
+本記事は2026年2月13日時点の情報に基づいています。
+
+作者のBoris Cherny氏は、カスタマイズ性がClaude Codeの成長を加速させた要因の一つだと述べた。エンジニアは...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ca1810e419fee5fd963b</id>
     <title>【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ</title>
     <link rel="alternate" href="https://qiita.com/shatolin/items/ca1810e419fee5fd963b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -911,18 +923,6 @@ Claude Codeは2025年2月のリリース以来、ターミナルから直接AI�
     <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:13:46+09:00&lt;br/&gt;Updated: 2026-01-26T21:13:46+09:00&lt;br/&gt;JavaScriptの仕様は、TC39というところで決められています。
 ブラウザベンダや関係者が定期的に会合を行い、様々な新機能について話し合って今後のJavaScriptの方向性を決めていきます。
 ここでは2025年にFinishedになったproposalについて紹介し...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:252fb5ef031127784757</id>
-    <title>Claude Code作者が全公開！9種のカスタマイズ手段と設定の全貌</title>
-    <link rel="alternate" href="https://qiita.com/dai_chi/items/252fb5ef031127784757?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-17T05:50:43+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dai_chi&quot;&gt;dai_chi&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T05:50:43+09:00&lt;br/&gt;Updated: 2026-02-17T05:50:43+09:00&lt;br/&gt;はじめに
-Claude Codeをインストールして、そのまま使っていないだろうか。
-
-本記事は2026年2月13日時点の情報に基づいています。
-
-作者のBoris Cherny氏は、カスタマイズ性がClaude Codeの成長を加速させた要因の一つだと述べた。エンジニアは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5557800c41eb43b43f2f</id>
@@ -2118,6 +2118,20 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a0a6daad237e97764b85</id>
+    <title>Github Copilotを標準機能の範囲で賢くしよう</title>
+    <link rel="alternate" href="https://qiita.com/tetsuya-ito-hulft/items/a0a6daad237e97764b85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T14:41:47+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetsuya-ito-hulft&quot;&gt;tetsuya-ito-hulft&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T14:41:47+09:00&lt;br/&gt;Updated: 2026-02-19T14:41:47+09:00&lt;br/&gt;結論
+VSCodeでGithub Copilotを賢くするには以下を設定しておきましょう。
+
+チャットの指示を作成しよう
+カスタムエージェントを作成しよう
+サブエージェントを活用しよう
+
+自分も一度、デフォルト設定でバイブコーディングをしてみて「こんなもんか」と失望したも...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3130f649eea4df8e4742</id>
     <title>SQLにむしゃくしゃしたのでフルAIコーディングで🐟自作プログラミング言語🍣を作った</title>
     <link rel="alternate" href="https://qiita.com/hiruberuto/items/3130f649eea4df8e4742?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2228,20 +2242,6 @@ C++の代わりにRustで記述する
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mnoguchi&quot;&gt;mnoguchi&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T17:07:20+09:00&lt;br/&gt;Updated: 2026-01-05T17:07:20+09:00&lt;br/&gt;はじめに
 ソフトウェア開発の現場では、論理や技術だけでは解決できない「人間」にまつわる課題が数多く存在します。会議で意見が出ない、レビューで感情的なすれ違いが起きる、設計がなかなか進まない、やる気が出ない――こうした悩みの多くは、人の心理や行動パターンに起因しています。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a0a6daad237e97764b85</id>
-    <title>Github Copilotを標準機能の範囲で賢くしよう</title>
-    <link rel="alternate" href="https://qiita.com/tetsuya-ito-hulft/items/a0a6daad237e97764b85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T14:41:47+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetsuya-ito-hulft&quot;&gt;tetsuya-ito-hulft&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T14:41:47+09:00&lt;br/&gt;Updated: 2026-02-19T14:41:47+09:00&lt;br/&gt;結論
-VSCodeでGithub Copilotを賢くするには以下を設定しておきましょう。
-
-チャットの指示を作成しよう
-カスタムエージェントを作成しよう
-サブエージェントを活用しよう
-
-自分も一度、デフォルト設定でバイブコーディングをしてみて「こんなもんか」と失望したも...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fa79b87afcd165428e39</id>
