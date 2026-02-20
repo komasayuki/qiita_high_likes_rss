@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-02-20T12:06:29+09:00</updated>
+  <updated>2026-02-20T21:26:29+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -11,7 +11,7 @@
     <title>AIに「ユーザーペルソナ」を与えるだけで、UIデザインはここまで化ける</title>
     <link rel="alternate" href="https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-20T12:06:29+09:00</updated>
-    <summary type="html">Likes: 344&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-20T12:06:29+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 356&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-20T12:06:29+09:00&lt;br/&gt;はじめに
 AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示していませんか？
 実は、誰が使うか（ペルソナ）を1行足すだけで、出力されるデザインの解像度が劇的に変わります。
 同じ「タスク管理アプリ」という指示で、ペルソナの有無によってどれだけ差が出るか実験しました。...</summary>
@@ -471,6 +471,15 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
 スキルとは、Claudeに特定のタスクを一貫して実行させるための仕組みです。Mar...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:be45d3115ebe74a3e312</id>
+    <title>【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン</title>
+    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-20T21:26:29+09:00</updated>
+    <summary type="html">Likes: 105&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T12:00:22+09:00&lt;br/&gt;Updated: 2026-02-20T21:26:29+09:00&lt;br/&gt;はじめに：プロにとって「Vibe Coding」は恐怖でしかない
+2025年11月のリリース以来、Antigravity（アンチグラビティ）界隈では「Vibe Coding（バイブコーディング）」という言葉が流行しています。
+「コードが読めなくても、AIとノリで対話して...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9607008aefc2521615ac</id>
     <title>【後編】先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/9607008aefc2521615ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -483,15 +492,6 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
 日々、プログラミング学習や実務の中で
 つまずきやすいポイントを整理して発信しています。
 PRUMについて気になった方は...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:be45d3115ebe74a3e312</id>
-    <title>【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン</title>
-    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-20T11:51:15+09:00</updated>
-    <summary type="html">Likes: 104&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T12:00:22+09:00&lt;br/&gt;Updated: 2026-02-20T11:51:15+09:00&lt;br/&gt;はじめに：プロにとって「Vibe Coding」は恐怖でしかない
-2025年11月のリリース以来、Antigravity（アンチグラビティ）界隈では「Vibe Coding（バイブコーディング）」という言葉が流行しています。
-「コードが読めなくても、AIとノリで対話して...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:388a7aaad767b9e11fa3</id>
@@ -1227,6 +1227,15 @@ draw.io の MCP サーバーが公開されていたので、軽く触ってみ�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:183a0855d9fd19ae5da9</id>
+    <title>製造業のための統計学・機械学習</title>
+    <link rel="alternate" href="https://qiita.com/Nospare_Inc/items/183a0855d9fd19ae5da9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-20T07:27:07+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nospare_Inc&quot;&gt;Nospare_Inc&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T07:26:41+09:00&lt;br/&gt;Updated: 2026-02-20T07:27:07+09:00&lt;br/&gt;この記事の概要
+執筆：段（Imperial College London・Nospare）、酒井（筑波大学・Nospare）、小林（明治大学・Nospare）
+この記事は製造業界に従事するもしくはこれから従事するデータサイエンティストのために製造業で用いられる統計・機械学...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6303aa289c9734974f69</id>
     <title>「怖、、、」をなくす。レビューでの5つのルール</title>
     <link rel="alternate" href="https://qiita.com/kuma_3838/items/6303aa289c9734974f69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1461,15 +1470,6 @@ PRUMについて気になった方は、
 
 この記事の情報は、2026年1月12日現在のものです。
 またユーザーの呼称は、正式でなく便宜的な...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:183a0855d9fd19ae5da9</id>
-    <title>製造業のための統計学・機械学習</title>
-    <link rel="alternate" href="https://qiita.com/Nospare_Inc/items/183a0855d9fd19ae5da9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-20T07:27:07+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nospare_Inc&quot;&gt;Nospare_Inc&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T07:26:41+09:00&lt;br/&gt;Updated: 2026-02-20T07:27:07+09:00&lt;br/&gt;この記事の概要
-執筆：段（Imperial College London・Nospare）、酒井（筑波大学・Nospare）、小林（明治大学・Nospare）
-この記事は製造業界に従事するもしくはこれから従事するデータサイエンティストのために製造業で用いられる統計・機械学...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f35a9aadc20a0200ff24</id>
@@ -1711,6 +1711,17 @@ Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sakaimaging&quot;&gt;sakaimaging&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T13:24:45+09:00&lt;br/&gt;Updated: 2026-01-03T19:35:29+09:00&lt;br/&gt;はじめに
 Mermaid では、flowchart の矢印に animation を指定することで、通信が流れる様子をアニメーションとして表現できます。
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:db60751497f6e31339b8</id>
+    <title>Nemotron-Nano-9B-v2-Japaneseってなんだ？〜NVIDIAが放つ日本語特化9Bモデルをローカルで完全攻略〜</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/db60751497f6e31339b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-18T22:57:02+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T22:47:54+09:00&lt;br/&gt;Updated: 2026-02-18T22:57:02+09:00&lt;br/&gt;この記事の対象読者
+
+ローカルLLMに興味があるが、Ollamaで動かないモデルに遭遇して途方に暮れている方
+NVIDIA Nemotron-Nano-9B-v2-Japanese を自分のPCで動かしてみたい方
+llama.cpp や Open WebUI を使ったロー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0d6797b848ed41d0e697</id>
@@ -2139,17 +2150,6 @@ GitHub Cop...</summary>
 GMOコネクトの大谷です。
 H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」として大きく報じられました。
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:db60751497f6e31339b8</id>
-    <title>Nemotron-Nano-9B-v2-Japaneseってなんだ？〜NVIDIAが放つ日本語特化9Bモデルをローカルで完全攻略〜</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/db60751497f6e31339b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-18T22:57:02+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T22:47:54+09:00&lt;br/&gt;Updated: 2026-02-18T22:57:02+09:00&lt;br/&gt;この記事の対象読者
-
-ローカルLLMに興味があるが、Ollamaで動かないモデルに遭遇して途方に暮れている方
-NVIDIA Nemotron-Nano-9B-v2-Japanese を自分のPCで動かしてみたい方
-llama.cpp や Open WebUI を使ったロー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3130f649eea4df8e4742</id>
