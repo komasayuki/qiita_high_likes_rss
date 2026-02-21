@@ -11,7 +11,7 @@
     <title>AIに「ユーザーペルソナ」を与えるだけで、UIデザインはここまで化ける</title>
     <link rel="alternate" href="https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-20T12:06:29+09:00</updated>
-    <summary type="html">Likes: 408&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-20T12:06:29+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 413&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/natume_nat&quot;&gt;natume_nat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:36:15+09:00&lt;br/&gt;Updated: 2026-02-20T12:06:29+09:00&lt;br/&gt;はじめに
 AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示していませんか？
 実は、誰が使うか（ペルソナ）を1行足すだけで、出力されるデザインの解像度が劇的に変わります。
 同じ「タスク管理アプリ」という指示で、ペルソナの有無によってどれだけ差が出るか実験しました。...</summary>
@@ -367,7 +367,7 @@ AWS Toolkit for V...</summary>
     <title>【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン</title>
     <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-20T21:26:29+09:00</updated>
-    <summary type="html">Likes: 123&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T12:00:22+09:00&lt;br/&gt;Updated: 2026-02-20T21:26:29+09:00&lt;br/&gt;はじめに：プロにとって「Vibe Coding」は恐怖でしかない
+    <summary type="html">Likes: 124&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T12:00:22+09:00&lt;br/&gt;Updated: 2026-02-20T21:26:29+09:00&lt;br/&gt;はじめに：プロにとって「Vibe Coding」は恐怖でしかない
 2025年11月のリリース以来、Antigravity（アンチグラビティ）界隈では「Vibe Coding（バイブコーディング）」という言葉が流行しています。
 「コードが読めなくても、AIとノリで対話して...</summary>
   </entry>
@@ -1027,6 +1027,20 @@ https://160.16.12...</summary>
 米国防総省のARPA（高等研究計画局）という機関が4台のコンピュータを繋いだのがはじまりです。3つの大学と、スタンフォード研究所（SRI）などの研究機関で繋がれており、ARPAN...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a0a6daad237e97764b85</id>
+    <title>Github Copilotを標準機能の範囲で賢くしよう</title>
+    <link rel="alternate" href="https://qiita.com/tetsuya-ito-hulft/items/a0a6daad237e97764b85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T14:41:47+09:00</updated>
+    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetsuya-ito-hulft&quot;&gt;tetsuya-ito-hulft&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T14:41:47+09:00&lt;br/&gt;Updated: 2026-02-19T14:41:47+09:00&lt;br/&gt;結論
+VSCodeでGithub Copilotを賢くするには以下を設定しておきましょう。
+
+チャットの指示を作成しよう
+カスタムエージェントを作成しよう
+サブエージェントを活用しよう
+
+自分も一度、デフォルト設定でバイブコーディングをしてみて「こんなもんか」と失望したも...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3ae7541a112833cad737</id>
     <title>【ポケモン×Java】知識編 ERROR #7  ## 論理エラーは「止まらない」― だから気づけない？！</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/3ae7541a112833cad737?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1041,20 +1055,6 @@ PRUMについて気になった方は、
 
 はじめに
 この章では、論...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a0a6daad237e97764b85</id>
-    <title>Github Copilotを標準機能の範囲で賢くしよう</title>
-    <link rel="alternate" href="https://qiita.com/tetsuya-ito-hulft/items/a0a6daad237e97764b85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T14:41:47+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetsuya-ito-hulft&quot;&gt;tetsuya-ito-hulft&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T14:41:47+09:00&lt;br/&gt;Updated: 2026-02-19T14:41:47+09:00&lt;br/&gt;結論
-VSCodeでGithub Copilotを賢くするには以下を設定しておきましょう。
-
-チャットの指示を作成しよう
-カスタムエージェントを作成しよう
-サブエージェントを活用しよう
-
-自分も一度、デフォルト設定でバイブコーディングをしてみて「こんなもんか」と失望したも...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4eff08ff2413c23b95ec</id>
@@ -1130,6 +1130,17 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:95d9e92894bc99a34606</id>
+    <title>残業60時間でも年間200時間の学習を確保する技術【エンジニアの時間戦略】</title>
+    <link rel="alternate" href="https://qiita.com/handson-lab/items/95d9e92894bc99a34606?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T00:48:46+09:00</updated>
+    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/handson-lab&quot;&gt;handson-lab&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T00:48:46+09:00&lt;br/&gt;Updated: 2026-02-19T00:48:46+09:00&lt;br/&gt;残業60時間でも年間200時間の学習を確保する技術【エンジニアの時間戦略】
+
+はじめに
+「勉強したいけど、時間がない...」
+残業が続くと、つい口にしてしまうこの言葉。私も以前は同じでした。月60〜80時間の残業に追われ、帰宅すれば疲れ果てて寝るだけの日々。「時間がない」...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:85b419b26b2886f5e2d6</id>
     <title>ローカルLLMサーバーの実用的な使い道の検討</title>
     <link rel="alternate" href="https://qiita.com/bd8z/items/85b419b26b2886f5e2d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1163,17 +1174,6 @@ Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、い
 
 CLAUDE.md
 サブエー...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:95d9e92894bc99a34606</id>
-    <title>残業60時間でも年間200時間の学習を確保する技術【エンジニアの時間戦略】</title>
-    <link rel="alternate" href="https://qiita.com/handson-lab/items/95d9e92894bc99a34606?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T00:48:46+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/handson-lab&quot;&gt;handson-lab&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T00:48:46+09:00&lt;br/&gt;Updated: 2026-02-19T00:48:46+09:00&lt;br/&gt;残業60時間でも年間200時間の学習を確保する技術【エンジニアの時間戦略】
-
-はじめに
-「勉強したいけど、時間がない...」
-残業が続くと、つい口にしてしまうこの言葉。私も以前は同じでした。月60〜80時間の残業に追われ、帰宅すれば疲れ果てて寝るだけの日々。「時間がない」...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
@@ -1548,6 +1548,17 @@ console.log(&quot;Hello&quot;)
 と書く一方で、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:db60751497f6e31339b8</id>
+    <title>Nemotron-Nano-9B-v2-Japaneseってなんだ？〜NVIDIAが放つ日本語特化9Bモデルをローカルで完全攻略〜</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/db60751497f6e31339b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-18T22:57:02+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T22:47:54+09:00&lt;br/&gt;Updated: 2026-02-18T22:57:02+09:00&lt;br/&gt;この記事の対象読者
+
+ローカルLLMに興味があるが、Ollamaで動かないモデルに遭遇して途方に暮れている方
+NVIDIA Nemotron-Nano-9B-v2-Japanese を自分のPCで動かしてみたい方
+llama.cpp や Open WebUI を使ったロー...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:52e164dfb810e700348f</id>
     <title>高校生が作った「AIに丸投げできるスクレイピングシステム」が、Bright Dataで合法かつ最強になった話</title>
     <link rel="alternate" href="https://qiita.com/harupython/items/52e164dfb810e700348f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1591,17 +1602,6 @@ Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組
     <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sapeet-lin&quot;&gt;sapeet-lin&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T11:59:02+09:00&lt;br/&gt;Updated: 2026-02-19T11:59:02+09:00&lt;br/&gt;はじめに
 AI駆動の開発が一般化した現在、Claude CodeやGitHub Copilotなどのツールを活用することで、コードを書くスピードが劇的に向上しています。しかし、その結果として新たな課題が浮上してきました。
 PRを出すスピードが速くなりすぎて、レビュー側が追...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:db60751497f6e31339b8</id>
-    <title>Nemotron-Nano-9B-v2-Japaneseってなんだ？〜NVIDIAが放つ日本語特化9Bモデルをローカルで完全攻略〜</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/db60751497f6e31339b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-18T22:57:02+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T22:47:54+09:00&lt;br/&gt;Updated: 2026-02-18T22:57:02+09:00&lt;br/&gt;この記事の対象読者
-
-ローカルLLMに興味があるが、Ollamaで動かないモデルに遭遇して途方に暮れている方
-NVIDIA Nemotron-Nano-9B-v2-Japanese を自分のPCで動かしてみたい方
-llama.cpp や Open WebUI を使ったロー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a13b42998925e9ba046b</id>
@@ -2163,6 +2163,14 @@ H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」と
 しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7476eb9dfc8bca4e0bb8</id>
+    <title>Claude Code・Copilot・Codex・Gemini・Cursorが同じスキルを読める時代──Agent Skills標準の実装を徹底比較</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/7476eb9dfc8bca4e0bb8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T13:30:12+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T13:10:30+09:00&lt;br/&gt;Updated: 2026-02-19T13:30:12+09:00&lt;br/&gt;2025年12月、Anthropicが「Agent Skills」というオープン標準を公開しました。SKILL.mdというMarkdownファイルにエージェントへの指示を書けば、対応するどのツールでもそのスキルが動く、という仕組みです。
+注目すべきは、その採用速度です。公開...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3130f649eea4df8e4742</id>
     <title>SQLにむしゃくしゃしたのでフルAIコーディングで🐟自作プログラミング言語🍣を作った</title>
     <link rel="alternate" href="https://qiita.com/hiruberuto/items/3130f649eea4df8e4742?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2241,19 +2249,5 @@ Penc...</summary>
 
 シンシアでは、年間100人程度の実務未経験の方が応募し技術面接を受けます。
 その経験を通し、実務未経験者の方にぜひ身につけ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9093f26b1df1f747f544</id>
-    <title>Rustでコンピューターグラフィックスの基礎を学ぶ その1</title>
-    <link rel="alternate" href="https://qiita.com/sumikawa@github/items/9093f26b1df1f747f544?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-23T23:05:22+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumikawa@github&quot;&gt;sumikawa@github&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T02:29:29+09:00&lt;br/&gt;Updated: 2026-01-23T23:05:22+09:00&lt;br/&gt;はじめに
-学生時代から今まで、CGのアルゴリズムを学ぶ機会がなかったので、Rustの勉強がてらプログラムを書いてみる。
-まずはレイトレーシングを学ぶ。
-方針は下記
-
-週末レイトレーシングを順番にやっていく
-C++の代わりにRustで記述する
-書いてみるといいつつAIには...</summary>
   </entry>
 </feed>
