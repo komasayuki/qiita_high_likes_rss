@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-02-20T21:26:29+09:00</updated>
+  <updated>2026-02-21T02:17:15+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -538,6 +538,15 @@ PRUMについて気になった方は、
 ワークフロ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:183a0855d9fd19ae5da9</id>
+    <title>製造業のための統計学・機械学習</title>
+    <link rel="alternate" href="https://qiita.com/Nospare_Inc/items/183a0855d9fd19ae5da9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-20T07:27:07+09:00</updated>
+    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nospare_Inc&quot;&gt;Nospare_Inc&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T07:26:41+09:00&lt;br/&gt;Updated: 2026-02-20T07:27:07+09:00&lt;br/&gt;この記事の概要
+執筆：段（Imperial College London・Nospare）、酒井（筑波大学・Nospare）、小林（明治大学・Nospare）
+この記事は製造業界に従事するもしくはこれから従事するデータサイエンティストのために製造業で用いられる統計・機械学...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e64b9f26c54607f7862b</id>
     <title>Web関係のセキュリティについて初心者でもわかるようにまとめてみた - OWASP Top 10:2025</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/e64b9f26c54607f7862b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -546,15 +555,6 @@ PRUMについて気になった方は、
 セキュリティに問題があると、大変なことになります。
 普通のバグは不便で済むこともありますが、セキュリティの穴はアカウント乗っ取り、情報漏えい、サービス停止など、取り返しがつかない形で表に出やすいのです。
 そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:183a0855d9fd19ae5da9</id>
-    <title>製造業のための統計学・機械学習</title>
-    <link rel="alternate" href="https://qiita.com/Nospare_Inc/items/183a0855d9fd19ae5da9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-20T07:27:07+09:00</updated>
-    <summary type="html">Likes: 94&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nospare_Inc&quot;&gt;Nospare_Inc&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T07:26:41+09:00&lt;br/&gt;Updated: 2026-02-20T07:27:07+09:00&lt;br/&gt;この記事の概要
-執筆：段（Imperial College London・Nospare）、酒井（筑波大学・Nospare）、小林（明治大学・Nospare）
-この記事は製造業界に従事するもしくはこれから従事するデータサイエンティストのために製造業で用いられる統計・機械学...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fca5a1898cc2a9c961f6</id>
@@ -775,7 +775,7 @@ HTML/画像を根拠にMark...</summary>
     <title>Github Copilotを標準機能の範囲で賢くしよう</title>
     <link rel="alternate" href="https://qiita.com/tetsuya-ito-hulft/items/a0a6daad237e97764b85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-19T14:41:47+09:00</updated>
-    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetsuya-ito-hulft&quot;&gt;tetsuya-ito-hulft&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T14:41:47+09:00&lt;br/&gt;Updated: 2026-02-19T14:41:47+09:00&lt;br/&gt;結論
+    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetsuya-ito-hulft&quot;&gt;tetsuya-ito-hulft&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T14:41:47+09:00&lt;br/&gt;Updated: 2026-02-19T14:41:47+09:00&lt;br/&gt;結論
 VSCodeでGithub Copilotを賢くするには以下を設定しておきましょう。
 
 チャットの指示を作成しよう
@@ -1424,6 +1424,14 @@ Web API（REST API）という言葉を聞いたことがある方
 バックエンド開発に興味があり、最...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7476eb9dfc8bca4e0bb8</id>
+    <title>Claude Code・Copilot・Codex・Gemini・Cursorが同じスキルを読める時代──Agent Skills標準の実装を徹底比較</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/7476eb9dfc8bca4e0bb8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T13:30:12+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T13:10:30+09:00&lt;br/&gt;Updated: 2026-02-19T13:30:12+09:00&lt;br/&gt;2025年12月、Anthropicが「Agent Skills」というオープン標準を公開しました。SKILL.mdというMarkdownファイルにエージェントへの指示を書けば、対応するどのツールでもそのスキルが動く、という仕組みです。
+注目すべきは、その採用速度です。公開...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8096f9d9ccbe4666d85d</id>
     <title>VS Code の GitHub Copilot 設定、多すぎて分からない？〜 settings.json 完全ガイド〜</title>
     <link rel="alternate" href="https://qiita.com/aktsmm/items/8096f9d9ccbe4666d85d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1495,14 +1503,6 @@ PRUMについて気になった方は、
 
 この記事の情報は、2026年1月12日現在のものです。
 またユーザーの呼称は、正式でなく便宜的な...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7476eb9dfc8bca4e0bb8</id>
-    <title>Claude Code・Copilot・Codex・Gemini・Cursorが同じスキルを読める時代──Agent Skills標準の実装を徹底比較</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/7476eb9dfc8bca4e0bb8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T13:30:12+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T13:10:30+09:00&lt;br/&gt;Updated: 2026-02-19T13:30:12+09:00&lt;br/&gt;2025年12月、Anthropicが「Agent Skills」というオープン標準を公開しました。SKILL.mdというMarkdownファイルにエージェントへの指示を書けば、対応するどのツールでもそのスキルが動く、という仕組みです。
-注目すべきは、その採用速度です。公開...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:db60751497f6e31339b8</id>
@@ -2132,6 +2132,19 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8082c999a78137c7cc10</id>
+    <title>【完全無料・広告なし】AWS認定の学習支援サイトを公開しました。確かな実力を身につけて「資格取ったけど実務に活かせない」を終わらせよう。</title>
+    <link rel="alternate" href="https://qiita.com/kenken38/items/8082c999a78137c7cc10?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-21T02:17:15+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenken38&quot;&gt;kenken38&lt;/a&gt;&lt;br/&gt;Published: 2026-02-21T02:16:29+09:00&lt;br/&gt;Updated: 2026-02-21T02:17:15+09:00&lt;br/&gt;本当に忙しい人は、 AWS認定 合格ナビゲーターだけ見ていってください。
+
+以降、著者の資格取得に関する持論（ポエム）が続きます。
+忙しい人は本題まで飛んでください。
+
+はじめに
+AWS 認定の資格保持者は年々増加傾向にあり、なんと全冠保持者は1600名以上も...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f036cf3ac3381e6f4438</id>
     <title>Windows アプリの開発手段の選択肢をまとめてみたの続き</title>
     <link rel="alternate" href="https://qiita.com/tinymouse/items/f036cf3ac3381e6f4438?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2232,21 +2245,5 @@ DGX Sparkが届きました！🎉
 「オフィス外からollamaを使いたいけど、グローバルIPもVPN設備もない！」
 同じような環境の方も多いのではないでしょうか？
 今回はWireGuard + AWS EC...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:371e384bbd30de04e473</id>
-    <title>Pencil × Claude Code がよさそうなので試してみた！</title>
-    <link rel="alternate" href="https://qiita.com/akiraabe/items/371e384bbd30de04e473?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-29T20:40:57+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akiraabe&quot;&gt;akiraabe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T10:50:49+09:00&lt;br/&gt;Updated: 2026-01-29T20:40:57+09:00&lt;br/&gt;この記事はなに？
-メンバーからPencilがすごそう！って聞いたので、試してみました。
-まだ、初歩的な部分をやっただけですが、可能性を感じます！
-今日は、とりあえずこうすると動く！っていう備忘録的メモです！
-
-大まかな流れ！
-
-インストール（書きません！）
-
-Penc...</summary>
   </entry>
 </feed>
