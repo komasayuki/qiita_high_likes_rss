@@ -699,7 +699,7 @@ Certify
     <title>【完全無料・広告なし】AWS認定の学習支援サイトを公開しました。確かな実力を身につけて「資格取ったけど実務に活かせない」を終わらせよう。</title>
     <link rel="alternate" href="https://qiita.com/kenken38/items/8082c999a78137c7cc10?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-21T02:17:15+09:00</updated>
-    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenken38&quot;&gt;kenken38&lt;/a&gt;&lt;br/&gt;Published: 2026-02-21T02:16:29+09:00&lt;br/&gt;Updated: 2026-02-21T02:17:15+09:00&lt;br/&gt;本当に忙しい人は、 AWS認定 合格ナビゲーターだけ見ていってください。
+    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenken38&quot;&gt;kenken38&lt;/a&gt;&lt;br/&gt;Published: 2026-02-21T02:16:29+09:00&lt;br/&gt;Updated: 2026-02-21T02:17:15+09:00&lt;br/&gt;本当に忙しい人は、 AWS認定 合格ナビゲーターだけ見ていってください。
 
 以降、著者の資格取得に関する持論（ポエム）が続きます。
 忙しい人は本題まで飛んでください。
@@ -1114,6 +1114,16 @@ PRUMについて気になった方は、
 コーディングエージェントとの出会い...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:918db5c912f436a62e52</id>
+    <title>無料で使い放題のローカルLLM「Ollama」を試してみた！</title>
+    <link rel="alternate" href="https://qiita.com/hiroki2712/items/918db5c912f436a62e52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T18:57:11+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki2712&quot;&gt;hiroki2712&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T18:57:10+09:00&lt;br/&gt;Updated: 2026-02-19T18:57:11+09:00&lt;br/&gt;はじめに
+前回の記事で紹介した「Clawdbot（現在:OpenClaw）」を触っていて、ふと思ったことがあります。
+それは、「結局、AIの頭脳を外部（GeminiやClaude、ChatGPTなど）に依存している以上、制限やコストがつきまとう」ということ。
+使い続けると...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5f11084c98d32d86248d</id>
     <title>【2026最新】BedrockでRAGとエージェント作って、Amplifyから呼ぼう！ 維持費ほぼ無料!?</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/5f11084c98d32d86248d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1137,16 +1147,6 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 
 1年間のサマリー
 最初はQiitaのContributionと記事...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:918db5c912f436a62e52</id>
-    <title>無料で使い放題のローカルLLM「Ollama」を試してみた！</title>
-    <link rel="alternate" href="https://qiita.com/hiroki2712/items/918db5c912f436a62e52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T18:57:11+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki2712&quot;&gt;hiroki2712&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T18:57:10+09:00&lt;br/&gt;Updated: 2026-02-19T18:57:11+09:00&lt;br/&gt;はじめに
-前回の記事で紹介した「Clawdbot（現在:OpenClaw）」を触っていて、ふと思ったことがあります。
-それは、「結局、AIの頭脳を外部（GeminiやClaude、ChatGPTなど）に依存している以上、制限やコストがつきまとう」ということ。
-使い続けると...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
@@ -1292,6 +1292,16 @@ draw.io の MCP サーバーが公開されていたので、軽く触ってみ�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fb529b2ede94661e5287</id>
+    <title>Claude Code Securityが発表され、セキュリティ株が暴落。AIが数十年見逃されたバグ500件を発見した</title>
+    <link rel="alternate" href="https://qiita.com/emi_ndk/items/fb529b2ede94661e5287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-22T02:14:06+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T02:00:22+09:00&lt;br/&gt;Updated: 2026-02-22T02:14:06+09:00&lt;br/&gt;何が起きたのか
+2026年2月20日、AnthropicがClaude Code上で動作するセキュリティスキャン機能「Claude Code Security」を発表した。
+その瞬間、サイバーセキュリティ株が軒並み暴落した。
+📉 2026/02/20 サイバーセキュリティ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6303aa289c9734974f69</id>
     <title>「怖、、、」をなくす。レビューでの5つのルール</title>
     <link rel="alternate" href="https://qiita.com/kuma_3838/items/6303aa289c9734974f69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1339,16 +1349,6 @@ OCI Market...</summary>
 「Generative UI」という単語をご存知でしょうか？
 Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fb529b2ede94661e5287</id>
-    <title>Claude Code Securityが発表され、セキュリティ株が暴落。AIが数十年見逃されたバグ500件を発見した</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/fb529b2ede94661e5287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-22T02:14:06+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T02:00:22+09:00&lt;br/&gt;Updated: 2026-02-22T02:14:06+09:00&lt;br/&gt;何が起きたのか
-2026年2月20日、AnthropicがClaude Code上で動作するセキュリティスキャン機能「Claude Code Security」を発表した。
-その瞬間、サイバーセキュリティ株が軒並み暴落した。
-📉 2026/02/20 サイバーセキュリティ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d56f9704bc95ffc77e74</id>
