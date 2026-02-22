@@ -1249,6 +1249,14 @@ Pythonでプログラミングをしていると、当たり前のように使�
 Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7476eb9dfc8bca4e0bb8</id>
+    <title>Claude Code・Copilot・Codex・Gemini・Cursorが同じスキルを読める時代──Agent Skills標準の実装を徹底比較</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/7476eb9dfc8bca4e0bb8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T13:30:12+09:00</updated>
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T13:10:30+09:00&lt;br/&gt;Updated: 2026-02-19T13:30:12+09:00&lt;br/&gt;2025年12月、Anthropicが「Agent Skills」というオープン標準を公開しました。SKILL.mdというMarkdownファイルにエージェントへの指示を書けば、対応するどのツールでもそのスキルが動く、という仕組みです。
+注目すべきは、その採用速度です。公開...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:29219d2c3126b97e7a0c</id>
     <title>【draw.io MCP】触ってみた所感と何が便利なのか</title>
     <link rel="alternate" href="https://qiita.com/ryu-ki/items/29219d2c3126b97e7a0c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1310,12 +1318,14 @@ Generative UIは、生成AIやAIエージェントによってUIを生成する�
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:7476eb9dfc8bca4e0bb8</id>
-    <title>Claude Code・Copilot・Codex・Gemini・Cursorが同じスキルを読める時代──Agent Skills標準の実装を徹底比較</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/7476eb9dfc8bca4e0bb8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T13:30:12+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T13:10:30+09:00&lt;br/&gt;Updated: 2026-02-19T13:30:12+09:00&lt;br/&gt;2025年12月、Anthropicが「Agent Skills」というオープン標準を公開しました。SKILL.mdというMarkdownファイルにエージェントへの指示を書けば、対応するどのツールでもそのスキルが動く、という仕組みです。
-注目すべきは、その採用速度です。公開...</summary>
+    <id>tag:qiita.com,2026:918db5c912f436a62e52</id>
+    <title>無料で使い放題のローカルLLM「Ollama」を試してみた！</title>
+    <link rel="alternate" href="https://qiita.com/hiroki2712/items/918db5c912f436a62e52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T18:57:11+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki2712&quot;&gt;hiroki2712&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T18:57:10+09:00&lt;br/&gt;Updated: 2026-02-19T18:57:11+09:00&lt;br/&gt;はじめに
+前回の記事で紹介した「Clawdbot（現在:OpenClaw）」を触っていて、ふと思ったことがあります。
+それは、「結局、AIの頭脳を外部（GeminiやClaude、ChatGPTなど）に依存している以上、制限やコストがつきまとう」ということ。
+使い続けると...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d56f9704bc95ffc77e74</id>
@@ -1376,16 +1386,6 @@ Win...</summary>
 知らなくてもコードは書けますが、知っておくとエラーが起きた時の対応が早くなったり、コードを書く以外の部分で役に立つと思います。
 
 1. Webアプリケーショ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:918db5c912f436a62e52</id>
-    <title>無料で使い放題のローカルLLM「Ollama」を試してみた！</title>
-    <link rel="alternate" href="https://qiita.com/hiroki2712/items/918db5c912f436a62e52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T18:57:11+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki2712&quot;&gt;hiroki2712&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T18:57:10+09:00&lt;br/&gt;Updated: 2026-02-19T18:57:11+09:00&lt;br/&gt;はじめに
-前回の記事で紹介した「Clawdbot（現在:OpenClaw）」を触っていて、ふと思ったことがあります。
-それは、「結局、AIの頭脳を外部（GeminiやClaude、ChatGPTなど）に依存している以上、制限やコストがつきまとう」ということ。
-使い続けると...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:176fb69b1be583c14a4a</id>
@@ -1577,6 +1577,19 @@ console.log(&quot;Hello&quot;)
 と書く一方で、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8082c999a78137c7cc10</id>
+    <title>【完全無料・広告なし】AWS認定の学習支援サイトを公開しました。確かな実力を身につけて「資格取ったけど実務に活かせない」を終わらせよう。</title>
+    <link rel="alternate" href="https://qiita.com/kenken38/items/8082c999a78137c7cc10?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-21T02:17:15+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenken38&quot;&gt;kenken38&lt;/a&gt;&lt;br/&gt;Published: 2026-02-21T02:16:29+09:00&lt;br/&gt;Updated: 2026-02-21T02:17:15+09:00&lt;br/&gt;本当に忙しい人は、 AWS認定 合格ナビゲーターだけ見ていってください。
+
+以降、著者の資格取得に関する持論（ポエム）が続きます。
+忙しい人は本題まで飛んでください。
+
+はじめに
+AWS 認定の資格保持者は年々増加傾向にあり、なんと全冠保持者は1600名以上も...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:52e164dfb810e700348f</id>
     <title>高校生が作った「AIに丸投げできるスクレイピングシステム」が、Bright Dataで合法かつ最強になった話</title>
     <link rel="alternate" href="https://qiita.com/harupython/items/52e164dfb810e700348f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1650,19 +1663,6 @@ E2Eテストの自動化、進めていますか？
     <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuni-i&quot;&gt;kimuni-i&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T15:16:50+09:00&lt;br/&gt;Updated: 2026-01-20T15:53:08+09:00&lt;br/&gt;はじめに
 要件定義書の作成に悩んでいませんか？「何を書けばいいかわからない」「後工程で使いにくいと言われる」「ステークホルダーとの認識がズレる」——こうした課題は、要件定義書の構造化で大きく改善できます。
 今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8082c999a78137c7cc10</id>
-    <title>【完全無料・広告なし】AWS認定の学習支援サイトを公開しました。確かな実力を身につけて「資格取ったけど実務に活かせない」を終わらせよう。</title>
-    <link rel="alternate" href="https://qiita.com/kenken38/items/8082c999a78137c7cc10?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-21T02:17:15+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenken38&quot;&gt;kenken38&lt;/a&gt;&lt;br/&gt;Published: 2026-02-21T02:16:29+09:00&lt;br/&gt;Updated: 2026-02-21T02:17:15+09:00&lt;br/&gt;本当に忙しい人は、 AWS認定 合格ナビゲーターだけ見ていってください。
-
-以降、著者の資格取得に関する持論（ポエム）が続きます。
-忙しい人は本題まで飛んでください。
-
-はじめに
-AWS 認定の資格保持者は年々増加傾向にあり、なんと全冠保持者は1600名以上も...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fe3446e3f2a8c33efdfb</id>
