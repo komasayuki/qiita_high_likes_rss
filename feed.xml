@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-02-23T14:59:43+09:00</updated>
+  <updated>2026-02-23T23:31:05+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -207,6 +207,18 @@ Python でCSV駆動の自動生成パイプラインを構築
 Canva で誤字脱字を修正（Nano Ban...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1c992f5e2a2d661900e2</id>
+    <title>プログラミングを15年やって、一番大事なのはプログラミングじゃないと気づいた</title>
+    <link rel="alternate" href="https://qiita.com/hetare001/items/1c992f5e2a2d661900e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-22T08:36:32+09:00</updated>
+    <summary type="html">Likes: 158&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hetare001&quot;&gt;hetare001&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T08:36:32+09:00&lt;br/&gt;Updated: 2026-02-22T08:36:32+09:00&lt;br/&gt;この記事は「プログラミングに興味があるけど自分には無理そう」と思っている人にも、
+バイブコーディングを使い始めたエンジニアにも、読んでもらいたい内容です。
+
+自己紹介のかわりに
+私は45歳で、プログラミングを学校で習ったことは一度もありません。
+30歳のとき「この繰り返...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:47fb89fb6a84d9976d36</id>
     <title>「Markdownだけで」顧客提案レベルのスライドを作ってみた【Slidev x Claude Opus 4.6】</title>
     <link rel="alternate" href="https://qiita.com/ntaka329/items/47fb89fb6a84d9976d36?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -219,16 +231,14 @@ GMOコネクトの永田です。
 コピペ地獄: スライドをコピ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:1c992f5e2a2d661900e2</id>
-    <title>プログラミングを15年やって、一番大事なのはプログラミングじゃないと気づいた</title>
-    <link rel="alternate" href="https://qiita.com/hetare001/items/1c992f5e2a2d661900e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-22T08:36:32+09:00</updated>
-    <summary type="html">Likes: 154&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hetare001&quot;&gt;hetare001&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T08:36:32+09:00&lt;br/&gt;Updated: 2026-02-22T08:36:32+09:00&lt;br/&gt;この記事は「プログラミングに興味があるけど自分には無理そう」と思っている人にも、
-バイブコーディングを使い始めたエンジニアにも、読んでもらいたい内容です。
-
-自己紹介のかわりに
-私は45歳で、プログラミングを学校で習ったことは一度もありません。
-30歳のとき「この繰り返...</summary>
+    <id>tag:qiita.com,2026:fb529b2ede94661e5287</id>
+    <title>Claude Code Securityが発表され、セキュリティ株が暴落。AIが数十年見逃されたバグ500件を発見した</title>
+    <link rel="alternate" href="https://qiita.com/emi_ndk/items/fb529b2ede94661e5287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-22T02:14:06+09:00</updated>
+    <summary type="html">Likes: 157&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T02:00:22+09:00&lt;br/&gt;Updated: 2026-02-22T02:14:06+09:00&lt;br/&gt;何が起きたのか
+2026年2月20日、AnthropicがClaude Code上で動作するセキュリティスキャン機能「Claude Code Security」を発表した。
+その瞬間、サイバーセキュリティ株が軒並み暴落した。
+📉 2026/02/20 サイバーセキュリティ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:81fabafaaa1fc0e8fade</id>
@@ -237,16 +247,6 @@ GMOコネクトの永田です。
     <updated>2026-02-06T12:54:23+09:00</updated>
     <summary type="html">Likes: 152&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/murasaki1994&quot;&gt;murasaki1994&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T11:37:20+09:00&lt;br/&gt;Updated: 2026-02-06T12:54:23+09:00&lt;br/&gt;昨今流行に合わせたWebサイトの作り方など聞くことがしばしありますが、流行以前にWebサイトはDBの設計だったりセキュリティ対策など様々な事をしなければなりません。
 そこで今回はWebサービスにおける脆弱性を利用した攻撃と防ぎ方、そして不正アクセスしたらなぜバレるのかなど私...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fb529b2ede94661e5287</id>
-    <title>Claude Code Securityが発表され、セキュリティ株が暴落。AIが数十年見逃されたバグ500件を発見した</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/fb529b2ede94661e5287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-22T02:14:06+09:00</updated>
-    <summary type="html">Likes: 151&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T02:00:22+09:00&lt;br/&gt;Updated: 2026-02-22T02:14:06+09:00&lt;br/&gt;何が起きたのか
-2026年2月20日、AnthropicがClaude Code上で動作するセキュリティスキャン機能「Claude Code Security」を発表した。
-その瞬間、サイバーセキュリティ株が軒並み暴落した。
-📉 2026/02/20 サイバーセキュリティ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:61100a5b1aa8d752ae24</id>
@@ -2147,6 +2147,16 @@ Z80はザイログ自身が製造したオリジナル品の他に、セカン�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1da25e18c1bcb68880a3</id>
+    <title>JavaScriptの async/await はどこから来たのか？ C#、F#、Haskell……源流を辿ったら1958年にたどり着いた件</title>
+    <link rel="alternate" href="https://qiita.com/Maki-Daisuke/items/1da25e18c1bcb68880a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-23T23:31:05+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Maki-Daisuke&quot;&gt;Maki-Daisuke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T06:07:14+09:00&lt;br/&gt;Updated: 2026-02-23T23:31:05+09:00&lt;br/&gt;ということを書いた手前、async/awaitの歴史について書いておかないといけない気がした。
+なお補足しておきますと、元ネタの記事はJavaScriptの async/await の歴史についていえば、間違ってないと思います。
+
+ただ、 async/awaitは...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9c7bd5791f33b2c034cb</id>
     <title>Qiitaでの発信をきっかけに書籍を出版しました</title>
     <link rel="alternate" href="https://qiita.com/c60evaporator/items/9c7bd5791f33b2c034cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2237,17 +2247,5 @@ Claude Codeを効率的に使いこなすための、コマンドリファレン
 この記事を開いていただき、ありがとうございます！
 2025年、私はChatGPT、Claude、GitHub Copilot、Cursorと、ありとあらゆるAIツールを使いながら開発をしてきました。
 GitHub Cop...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:db798b2e5805c51a64c1</id>
-    <title>H3ロケットの失敗から学ぶ、前提を疑う設計</title>
-    <link rel="alternate" href="https://qiita.com/sh-ohtani/items/db798b2e5805c51a64c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-05T15:37:07+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sh-ohtani&quot;&gt;sh-ohtani&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T15:37:07+09:00&lt;br/&gt;Updated: 2026-01-05T15:37:07+09:00&lt;br/&gt;H3ロケットの失敗から学ぶ、前提を疑う設計
-
-― 確認しても失敗するシステムは、なぜ生まれるのか
-GMOコネクトの大谷です。
-H3ロケットの打ち上げ失敗は、「日本の宇宙開発の失敗」として大きく報じられました。
-しかしこの出来事は、宇宙開発という特別な世界だけの話ではありま...</summary>
   </entry>
 </feed>
