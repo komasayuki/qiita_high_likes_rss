@@ -177,8 +177,8 @@
       "published": "2026-02-22T02:57:57+09:00",
       "updated": "2026-02-22T02:57:57+09:00",
       "author_name": "handson-lab",
-      "likes_count": 14,
-      "last_seen": "2026-02-24T07:31:13.750220345+00:00"
+      "likes_count": 15,
+      "last_seen": "2026-02-24T08:25:45.592947148+00:00"
     },
     {
       "key": "0800689e72d30fb554d7",
@@ -669,8 +669,8 @@
       "published": "2026-02-22T08:36:32+09:00",
       "updated": "2026-02-22T08:36:32+09:00",
       "author_name": "hetare001",
-      "likes_count": 153,
-      "last_seen": "2026-02-24T07:31:13.750220345+00:00"
+      "likes_count": 154,
+      "last_seen": "2026-02-24T08:25:45.592947148+00:00"
     },
     {
       "key": "1ca66d782de23ca1a82a",
@@ -718,7 +718,7 @@
       "updated": "2026-02-23T23:31:05+09:00",
       "author_name": "Maki-Daisuke",
       "likes_count": 17,
-      "last_seen": "2026-02-24T07:31:13.750220345+00:00"
+      "last_seen": "2026-02-24T08:25:45.592947148+00:00"
     },
     {
       "key": "1f551e33a09a2b127ad6",
@@ -2961,8 +2961,8 @@
       "published": "2026-02-23T19:23:30+09:00",
       "updated": "2026-02-23T19:23:30+09:00",
       "author_name": "IkuyaM",
-      "likes_count": 17,
-      "last_seen": "2026-02-24T07:31:13.750220345+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-02-24T08:25:45.592947148+00:00"
     },
     {
       "key": "8d841f5241794af4cc6e",
@@ -3409,6 +3409,18 @@
       "last_seen": "2026-02-22T07:24:28.426513452+00:00"
     },
     {
+      "key": "a116aa00af0884675b25",
+      "item_id": "a116aa00af0884675b25",
+      "title": "Dockerの名前付きボリュームの落とし穴",
+      "link": "https://qiita.com/kuma_3838/items/a116aa00af0884675b25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nDocker Compose で node_modules を名前付きボリュームとして管理している環境で、docker compose build し直したのにパッケージが見つからないという問題に遭遇しました。\nこの記事では、実際に発生した事象をもとに名前付きボ...",
+      "published": "2026-02-24T10:04:48+09:00",
+      "updated": "2026-02-24T10:04:48+09:00",
+      "author_name": "kuma_3838",
+      "likes_count": 13,
+      "last_seen": "2026-02-24T08:25:45.592947148+00:00"
+    },
+    {
       "key": "a13b42998925e9ba046b",
       "item_id": "a13b42998925e9ba046b",
       "title": "【2026年版】Webスクレイピングの\"3大つらみ\"をBright Dataで解決する",
@@ -3765,8 +3777,8 @@
       "published": "2026-02-22T11:55:42+09:00",
       "updated": "2026-02-22T11:55:42+09:00",
       "author_name": "hatahatahata",
-      "likes_count": 18,
-      "last_seen": "2026-02-24T07:31:13.750220345+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-02-24T08:25:45.592947148+00:00"
     },
     {
       "key": "b31603922b791c37cc37",
@@ -4642,7 +4654,7 @@
       "updated": "2026-02-21T17:38:16+09:00",
       "author_name": "nakau0605",
       "likes_count": 15,
-      "last_seen": "2026-02-24T07:31:13.750220345+00:00"
+      "last_seen": "2026-02-24T08:25:45.592947148+00:00"
     },
     {
       "key": "d6d6a0223931c4a55037",
@@ -4786,7 +4798,7 @@
       "updated": "2026-02-22T17:40:13+09:00",
       "author_name": "yakumo_09",
       "likes_count": 13,
-      "last_seen": "2026-02-24T07:31:13.750220345+00:00"
+      "last_seen": "2026-02-24T08:25:45.592947148+00:00"
     },
     {
       "key": "df787a587324d418b277",
@@ -5290,7 +5302,7 @@
       "updated": "2026-02-23T11:39:05+09:00",
       "author_name": "akira_papa_AI",
       "likes_count": 12,
-      "last_seen": "2026-02-24T07:31:13.750220345+00:00"
+      "last_seen": "2026-02-24T08:25:45.592947148+00:00"
     },
     {
       "key": "f41f80af8eed80a9044f",
@@ -5397,8 +5409,8 @@
       "published": "2026-02-21T23:36:11+09:00",
       "updated": "2026-02-22T01:08:09+09:00",
       "author_name": "fsitlab",
-      "likes_count": 18,
-      "last_seen": "2026-02-24T07:31:13.750220345+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-02-24T08:25:45.592947148+00:00"
     },
     {
       "key": "fa2f4b14cb667575c938",
@@ -5445,8 +5457,8 @@
       "published": "2026-02-22T02:00:22+09:00",
       "updated": "2026-02-22T02:14:06+09:00",
       "author_name": "emi_ndk",
-      "likes_count": 146,
-      "last_seen": "2026-02-24T07:31:13.750220345+00:00"
+      "likes_count": 151,
+      "last_seen": "2026-02-24T08:25:45.592947148+00:00"
     },
     {
       "key": "fbabdb74ccad1ec316c1",
