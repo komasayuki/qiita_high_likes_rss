@@ -663,6 +663,16 @@ A...</summary>
 Playwright MCP Serverをグローバルインストールすると...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1da25e18c1bcb68880a3</id>
+    <title>JavaScriptの async/await はどこから来たのか？ C#、F#、Haskell……源流を辿ったら1958年にたどり着いた件</title>
+    <link rel="alternate" href="https://qiita.com/Maki-Daisuke/items/1da25e18c1bcb68880a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-23T23:31:05+09:00</updated>
+    <summary type="html">Likes: 87&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Maki-Daisuke&quot;&gt;Maki-Daisuke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T06:07:14+09:00&lt;br/&gt;Updated: 2026-02-23T23:31:05+09:00&lt;br/&gt;ということを書いた手前、async/awaitの歴史について書いておかないといけない気がした。
+なお補足しておきますと、元ネタの記事はJavaScriptの async/await の歴史についていえば、間違ってないと思います。
+
+ただ、 async/awaitは...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:eff0f63dac99554e6439</id>
     <title>Claude CodeやCursorを使って、AIがUIデザインを生成することができる「Pencil」が登場！</title>
     <link rel="alternate" href="https://qiita.com/degudegu2510/items/eff0f63dac99554e6439?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -671,16 +681,6 @@ Playwright MCP Serverをグローバルインストールすると...</summary>
 みなさんは、Pencil というAIツール使ったことがありますか？
 Pencilは、Figma + Layermate みたいなツールで、Pencil上でAIにUIを作らせたり、作成したUIをMCPを経由して開発させることができます！
 この記事では、実際に、Pe...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1da25e18c1bcb68880a3</id>
-    <title>JavaScriptの async/await はどこから来たのか？ C#、F#、Haskell……源流を辿ったら1958年にたどり着いた件</title>
-    <link rel="alternate" href="https://qiita.com/Maki-Daisuke/items/1da25e18c1bcb68880a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-23T23:31:05+09:00</updated>
-    <summary type="html">Likes: 86&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Maki-Daisuke&quot;&gt;Maki-Daisuke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T06:07:14+09:00&lt;br/&gt;Updated: 2026-02-23T23:31:05+09:00&lt;br/&gt;ということを書いた手前、async/awaitの歴史について書いておかないといけない気がした。
-なお補足しておきますと、元ネタの記事はJavaScriptの async/await の歴史についていえば、間違ってないと思います。
-
-ただ、 async/awaitは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:95d9e92894bc99a34606</id>
@@ -1269,6 +1269,16 @@ CLAUDE.md
 サブエー...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4d732a43ac5cdf9daadc</id>
+    <title>技術記事、硬すぎ問題。だからギャルに読ませてみた</title>
+    <link rel="alternate" href="https://qiita.com/kikuziro/items/4d732a43ac5cdf9daadc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-24T06:23:54+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T06:23:54+09:00&lt;br/&gt;Updated: 2026-02-24T06:23:54+09:00&lt;br/&gt;💅 はじめに
+最近私はQiita APIを使って、ギャルがQiita記事を音声解説してくれるWebアプリを作っています。
+そうです。ギャルです。 技術記事 × ギャル
+情報量が多いのか少ないのか分からないカオスな組み合わせですが、テスト中にあまりにも感動してしまったのでと...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
     <title>【Claude Code】 /insights コマンドがおもしろい</title>
     <link rel="alternate" href="https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1278,16 +1288,6 @@ CLAUDE.md
 
 Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレポートを出してくれる /insights コマンドが追加されていたようです。
 私は24時間使いまわすほどのヘビーユーザーでは...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4d732a43ac5cdf9daadc</id>
-    <title>技術記事、硬すぎ問題。だからギャルに読ませてみた</title>
-    <link rel="alternate" href="https://qiita.com/kikuziro/items/4d732a43ac5cdf9daadc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-24T06:23:54+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T06:23:54+09:00&lt;br/&gt;Updated: 2026-02-24T06:23:54+09:00&lt;br/&gt;💅 はじめに
-最近私はQiita APIを使って、ギャルがQiita記事を音声解説してくれるWebアプリを作っています。
-そうです。ギャルです。 技術記事 × ギャル
-情報量が多いのか少ないのか分からないカオスな組み合わせですが、テスト中にあまりにも感動してしまったのでと...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:351912f61ffe1b177a68</id>
