@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-02-23T23:31:05+09:00</updated>
+  <updated>2026-02-24T00:02:51+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -139,6 +139,18 @@ ChatGPT：
 と思ったのですが、いくつか...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1c992f5e2a2d661900e2</id>
+    <title>プログラミングを15年やって、一番大事なのはプログラミングじゃないと気づいた</title>
+    <link rel="alternate" href="https://qiita.com/hetare001/items/1c992f5e2a2d661900e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-22T08:36:32+09:00</updated>
+    <summary type="html">Likes: 181&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hetare001&quot;&gt;hetare001&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T08:36:32+09:00&lt;br/&gt;Updated: 2026-02-22T08:36:32+09:00&lt;br/&gt;この記事は「プログラミングに興味があるけど自分には無理そう」と思っている人にも、
+バイブコーディングを使い始めたエンジニアにも、読んでもらいたい内容です。
+
+自己紹介のかわりに
+私は45歳で、プログラミングを学校で習ったことは一度もありません。
+30歳のとき「この繰り返...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c0fb3bed10f49b0ed523</id>
     <title>拝啓、出社できなかった日の俺へ。──人生が止まったその日から、俺の挑戦が始まった。</title>
     <link rel="alternate" href="https://qiita.com/Keita-0025/items/c0fb3bed10f49b0ed523?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -159,18 +171,6 @@ ChatGPT：
 最近は生成AIの成長が目まぐるしく、どんどん新しい技術が台頭してきています。
 私自身、この技術の荒波に食らいつくため継続的に自己研鑽を続けていますが、なかなか身についている実感が得られていません。
 そんな中、この前本屋で手に取った『アウトプット大全』という本を読...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1c992f5e2a2d661900e2</id>
-    <title>プログラミングを15年やって、一番大事なのはプログラミングじゃないと気づいた</title>
-    <link rel="alternate" href="https://qiita.com/hetare001/items/1c992f5e2a2d661900e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-22T08:36:32+09:00</updated>
-    <summary type="html">Likes: 176&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hetare001&quot;&gt;hetare001&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T08:36:32+09:00&lt;br/&gt;Updated: 2026-02-22T08:36:32+09:00&lt;br/&gt;この記事は「プログラミングに興味があるけど自分には無理そう」と思っている人にも、
-バイブコーディングを使い始めたエンジニアにも、読んでもらいたい内容です。
-
-自己紹介のかわりに
-私は45歳で、プログラミングを学校で習ったことは一度もありません。
-30歳のとき「この繰り返...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d4121721605c8955aa17</id>
@@ -1283,6 +1283,16 @@ Pythonでプログラミングをしていると、当たり前のように使�
 統計モデリング（statistical ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1da25e18c1bcb68880a3</id>
+    <title>JavaScriptの async/await はどこから来たのか？ C#、F#、Haskell……源流を辿ったら1958年にたどり着いた件</title>
+    <link rel="alternate" href="https://qiita.com/Maki-Daisuke/items/1da25e18c1bcb68880a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-23T23:31:05+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Maki-Daisuke&quot;&gt;Maki-Daisuke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T06:07:14+09:00&lt;br/&gt;Updated: 2026-02-23T23:31:05+09:00&lt;br/&gt;ということを書いた手前、async/awaitの歴史について書いておかないといけない気がした。
+なお補足しておきますと、元ネタの記事はJavaScriptの async/await の歴史についていえば、間違ってないと思います。
+
+ただ、 async/awaitは...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4db2182e2384df4122a2</id>
     <title>Microsoft Teams を悪用したCEO詐欺（ビジネスチャット詐欺）について</title>
     <link rel="alternate" href="https://qiita.com/hirotomotaguchi/items/4db2182e2384df4122a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1322,16 +1332,6 @@ draw.io の MCP サーバーが公開されていたので、軽く触ってみ�
 勝手に、よりいい感じの図を出力してくれると思って使ったのですが、（何も使わずに「drawio 形式で書いて」と指示する場合と比べて）あまり違いを感じませんでした。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1da25e18c1bcb68880a3</id>
-    <title>JavaScriptの async/await はどこから来たのか？ C#、F#、Haskell……源流を辿ったら1958年にたどり着いた件</title>
-    <link rel="alternate" href="https://qiita.com/Maki-Daisuke/items/1da25e18c1bcb68880a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-23T23:31:05+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Maki-Daisuke&quot;&gt;Maki-Daisuke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T06:07:14+09:00&lt;br/&gt;Updated: 2026-02-23T23:31:05+09:00&lt;br/&gt;ということを書いた手前、async/awaitの歴史について書いておかないといけない気がした。
-なお補足しておきますと、元ネタの記事はJavaScriptの async/await の歴史についていえば、間違ってないと思います。
-
-ただ、 async/awaitは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6303aa289c9734974f69</id>
@@ -2212,6 +2212,17 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:167c80b277b4850c4869</id>
+    <title>AIをいつでもどこでも動かそうとしたら、気づけば自宅インフラ沼にはまっていた話 【ミニPC/Proxmox/Tailscale】</title>
+    <link rel="alternate" href="https://qiita.com/endo-ly/items/167c80b277b4850c4869?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-24T00:02:51+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/endo-ly&quot;&gt;endo-ly&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T00:02:51+09:00&lt;br/&gt;Updated: 2026-02-24T00:02:51+09:00&lt;br/&gt;3行要約
+
+Claude CodeなどのAIエージェントをいつでもどこでも動かしたくて、ミニPCを購入した。
+気づけばProxmoxを導入し、LXCコンテナで環境を分割し、TailscaleでVPN網を構築していた。
+いつの間にか自宅インフラエンジニアになり、最高のAIエ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b2cec428c1d3c7cced5d</id>
     <title>[読書メモ]再考・ログ設計　障害に強いアプリケーションのログ出力・管理の極意（Software Design 2026年3月号）</title>
     <link rel="alternate" href="https://qiita.com/hatahatahata/items/b2cec428c1d3c7cced5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2233,18 +2244,5 @@ Windows アプリの開発手段の選択肢をまとめてみた #.NET - Qiita
 
 Windows アプリの種類と概要
 前回の...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2c9a543d411d4d0d607c</id>
-    <title>Claude Code チートシート：開発者のための完全リファレンス</title>
-    <link rel="alternate" href="https://qiita.com/Hurry_Fox/items/2c9a543d411d4d0d607c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-29T12:53:51+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Hurry_Fox&quot;&gt;Hurry_Fox&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T01:13:19+09:00&lt;br/&gt;Updated: 2026-01-29T12:53:51+09:00&lt;br/&gt;Claude Code チートシート：開発者のための完全リファレンス
-Claude Codeを効率的に使いこなすための、コマンドリファレンスとTips集です。基本操作から高度な機能まで、実務で役立つ情報をまとめました。
-
-📑 目次
-
-基本コマンド
-対話モードのキーボ...</summary>
   </entry>
 </feed>
