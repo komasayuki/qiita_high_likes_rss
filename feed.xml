@@ -143,7 +143,7 @@ ChatGPT：
     <title>プログラミングを15年やって、一番大事なのはプログラミングじゃないと気づいた</title>
     <link rel="alternate" href="https://qiita.com/hetare001/items/1c992f5e2a2d661900e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-22T08:36:32+09:00</updated>
-    <summary type="html">Likes: 181&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hetare001&quot;&gt;hetare001&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T08:36:32+09:00&lt;br/&gt;Updated: 2026-02-22T08:36:32+09:00&lt;br/&gt;この記事は「プログラミングに興味があるけど自分には無理そう」と思っている人にも、
+    <summary type="html">Likes: 182&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hetare001&quot;&gt;hetare001&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T08:36:32+09:00&lt;br/&gt;Updated: 2026-02-22T08:36:32+09:00&lt;br/&gt;この記事は「プログラミングに興味があるけど自分には無理そう」と思っている人にも、
 バイブコーディングを使い始めたエンジニアにも、読んでもらいたい内容です。
 
 自己紹介のかわりに
@@ -1261,6 +1261,16 @@ Pythonでプログラミングをしていると、当たり前のように使�
 しかし、**結局、pipは何をどこにダウンロードして、どうやってPythonがそれを見つけて...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1da25e18c1bcb68880a3</id>
+    <title>JavaScriptの async/await はどこから来たのか？ C#、F#、Haskell……源流を辿ったら1958年にたどり着いた件</title>
+    <link rel="alternate" href="https://qiita.com/Maki-Daisuke/items/1da25e18c1bcb68880a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-23T23:31:05+09:00</updated>
+    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Maki-Daisuke&quot;&gt;Maki-Daisuke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T06:07:14+09:00&lt;br/&gt;Updated: 2026-02-23T23:31:05+09:00&lt;br/&gt;ということを書いた手前、async/awaitの歴史について書いておかないといけない気がした。
+なお補足しておきますと、元ネタの記事はJavaScriptの async/await の歴史についていえば、間違ってないと思います。
+
+ただ、 async/awaitは...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7476eb9dfc8bca4e0bb8</id>
     <title>Claude Code・Copilot・Codex・Gemini・Cursorが同じスキルを読める時代──Agent Skills標準の実装を徹底比較</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/7476eb9dfc8bca4e0bb8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1281,16 +1291,6 @@ Pythonでプログラミングをしていると、当たり前のように使�
 範囲が広すぎて、何から勉強すればいいのか分からない
 
 統計モデリング（statistical ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1da25e18c1bcb68880a3</id>
-    <title>JavaScriptの async/await はどこから来たのか？ C#、F#、Haskell……源流を辿ったら1958年にたどり着いた件</title>
-    <link rel="alternate" href="https://qiita.com/Maki-Daisuke/items/1da25e18c1bcb68880a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-23T23:31:05+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Maki-Daisuke&quot;&gt;Maki-Daisuke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T06:07:14+09:00&lt;br/&gt;Updated: 2026-02-23T23:31:05+09:00&lt;br/&gt;ということを書いた手前、async/awaitの歴史について書いておかないといけない気がした。
-なお補足しておきますと、元ネタの記事はJavaScriptの async/await の歴史についていえば、間違ってないと思います。
-
-ただ、 async/awaitは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4db2182e2384df4122a2</id>
@@ -2110,6 +2110,17 @@ Gitの設計上の課題を、現代的なモデルで再設計した...</summar
 中々触ることができなかったのですが、今回ハンズオンで触ってみたので、その内容を記事にしていきたいと思います...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:167c80b277b4850c4869</id>
+    <title>AIをいつでもどこでも動かそうとしたら、気づけば自宅インフラ沼にはまっていた話 【ミニPC/Proxmox/Tailscale】</title>
+    <link rel="alternate" href="https://qiita.com/endo-ly/items/167c80b277b4850c4869?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-24T00:02:51+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/endo-ly&quot;&gt;endo-ly&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T00:02:51+09:00&lt;br/&gt;Updated: 2026-02-24T00:02:51+09:00&lt;br/&gt;3行要約
+
+Claude CodeなどのAIエージェントをいつでもどこでも動かしたくて、ミニPCを購入した。
+気づけばProxmoxを導入し、LXCコンテナで環境を分割し、TailscaleでVPN網を構築していた。
+いつの間にか自宅インフラエンジニアになり、最高のAIエ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7a0833e9484b40586f0f</id>
     <title>【実践】Claude Codeの開発速度を2倍にする10のTips</title>
     <link rel="alternate" href="https://qiita.com/pythonista0328/items/7a0833e9484b40586f0f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2155,6 +2166,16 @@ Z80はザイログ自身が製造したオリジナル品の他に、セカン�
 本記事は、JavaエンジニアがTypeScriptを扱う際に感じた違いを解説した記事です。
 これまで実務や個人開発でTypeScriptに触れていましたが、Javaの感覚でコードを読み進めていくと、TypeScript特有の概念や挙動に戸惑うことがありました。
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b2cec428c1d3c7cced5d</id>
+    <title>[読書メモ]再考・ログ設計　障害に強いアプリケーションのログ出力・管理の極意（Software Design 2026年3月号）</title>
+    <link rel="alternate" href="https://qiita.com/hatahatahata/items/b2cec428c1d3c7cced5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-22T11:55:42+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hatahatahata&quot;&gt;hatahatahata&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T11:55:42+09:00&lt;br/&gt;Updated: 2026-02-22T11:55:42+09:00&lt;br/&gt;これは何
+Software Design 2026年3月号の中の特集の一つである「再考・ログ設計 障害に強いアプリケーションのログ出力・管理の極意」に関する読書メモです
+
+自分自身がちょうどログ分析基盤の構築に関わっていることもあり、改めてログ設計について学び直そうと...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9c7bd5791f33b2c034cb</id>
@@ -2210,27 +2231,6 @@ Cloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最
 フルサーバーレスで維持費激安なのが嬉しいポイントです。
 
 モダンな汎用AIエージェントWebアプリをすぐデプロイできるので、画面デザインやAIエージェントの設定...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:167c80b277b4850c4869</id>
-    <title>AIをいつでもどこでも動かそうとしたら、気づけば自宅インフラ沼にはまっていた話 【ミニPC/Proxmox/Tailscale】</title>
-    <link rel="alternate" href="https://qiita.com/endo-ly/items/167c80b277b4850c4869?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-24T00:02:51+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/endo-ly&quot;&gt;endo-ly&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T00:02:51+09:00&lt;br/&gt;Updated: 2026-02-24T00:02:51+09:00&lt;br/&gt;3行要約
-
-Claude CodeなどのAIエージェントをいつでもどこでも動かしたくて、ミニPCを購入した。
-気づけばProxmoxを導入し、LXCコンテナで環境を分割し、TailscaleでVPN網を構築していた。
-いつの間にか自宅インフラエンジニアになり、最高のAIエ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b2cec428c1d3c7cced5d</id>
-    <title>[読書メモ]再考・ログ設計　障害に強いアプリケーションのログ出力・管理の極意（Software Design 2026年3月号）</title>
-    <link rel="alternate" href="https://qiita.com/hatahatahata/items/b2cec428c1d3c7cced5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-22T11:55:42+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hatahatahata&quot;&gt;hatahatahata&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T11:55:42+09:00&lt;br/&gt;Updated: 2026-02-22T11:55:42+09:00&lt;br/&gt;これは何
-Software Design 2026年3月号の中の特集の一つである「再考・ログ設計 障害に強いアプリケーションのログ出力・管理の極意」に関する読書メモです
-
-自分自身がちょうどログ分析基盤の構築に関わっていることもあり、改めてログ設計について学び直そうと...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f036cf3ac3381e6f4438</id>
