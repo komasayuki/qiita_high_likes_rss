@@ -143,7 +143,7 @@ ChatGPT：
     <title>プログラミングを15年やって、一番大事なのはプログラミングじゃないと気づいた</title>
     <link rel="alternate" href="https://qiita.com/hetare001/items/1c992f5e2a2d661900e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-22T08:36:32+09:00</updated>
-    <summary type="html">Likes: 194&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hetare001&quot;&gt;hetare001&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T08:36:32+09:00&lt;br/&gt;Updated: 2026-02-22T08:36:32+09:00&lt;br/&gt;この記事は「プログラミングに興味があるけど自分には無理そう」と思っている人にも、
+    <summary type="html">Likes: 196&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hetare001&quot;&gt;hetare001&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T08:36:32+09:00&lt;br/&gt;Updated: 2026-02-22T08:36:32+09:00&lt;br/&gt;この記事は「プログラミングに興味があるけど自分には無理そう」と思っている人にも、
 バイブコーディングを使い始めたエンジニアにも、読んでもらいたい内容です。
 
 自己紹介のかわりに
@@ -954,6 +954,16 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
 「どの出口から...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1da25e18c1bcb68880a3</id>
+    <title>JavaScriptの async/await はどこから来たのか？ C#、F#、Haskell……源流を辿ったら1958年にたどり着いた件</title>
+    <link rel="alternate" href="https://qiita.com/Maki-Daisuke/items/1da25e18c1bcb68880a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-23T23:31:05+09:00</updated>
+    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Maki-Daisuke&quot;&gt;Maki-Daisuke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T06:07:14+09:00&lt;br/&gt;Updated: 2026-02-23T23:31:05+09:00&lt;br/&gt;ということを書いた手前、async/awaitの歴史について書いておかないといけない気がした。
+なお補足しておきますと、元ネタの記事はJavaScriptの async/await の歴史についていえば、間違ってないと思います。
+
+ただ、 async/awaitは...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:441f4c6a467dae69583a</id>
     <title>セキュリティ基礎講座：公開鍵暗号は３種類あるよ</title>
     <link rel="alternate" href="https://qiita.com/peridotan/items/441f4c6a467dae69583a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -972,16 +982,6 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
     <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa_tech_0326&quot;&gt;masa_tech_0326&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T11:16:12+09:00&lt;br/&gt;Updated: 2026-02-12T12:11:14+09:00&lt;br/&gt;はじめに
 最近技術書を毎日30分以上読むようにしているのですが、記事としてアウトプットしないと、自分の中で定着しない気がしたので、読んで学んだことを共有していきたいと思います。
 今回は『スラスラわかるネットワーク&amp;amp;TCP/IPのきほん』のChapter06 セキュリティ章...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1da25e18c1bcb68880a3</id>
-    <title>JavaScriptの async/await はどこから来たのか？ C#、F#、Haskell……源流を辿ったら1958年にたどり着いた件</title>
-    <link rel="alternate" href="https://qiita.com/Maki-Daisuke/items/1da25e18c1bcb68880a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-23T23:31:05+09:00</updated>
-    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Maki-Daisuke&quot;&gt;Maki-Daisuke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T06:07:14+09:00&lt;br/&gt;Updated: 2026-02-23T23:31:05+09:00&lt;br/&gt;ということを書いた手前、async/awaitの歴史について書いておかないといけない気がした。
-なお補足しておきますと、元ネタの記事はJavaScriptの async/await の歴史についていえば、間違ってないと思います。
-
-ただ、 async/awaitは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:252fb5ef031127784757</id>
@@ -1897,6 +1897,16 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 1. ブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b2cec428c1d3c7cced5d</id>
+    <title>[読書メモ]再考・ログ設計　障害に強いアプリケーションのログ出力・管理の極意（Software Design 2026年3月号）</title>
+    <link rel="alternate" href="https://qiita.com/hatahatahata/items/b2cec428c1d3c7cced5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-22T11:55:42+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hatahatahata&quot;&gt;hatahatahata&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T11:55:42+09:00&lt;br/&gt;Updated: 2026-02-22T11:55:42+09:00&lt;br/&gt;これは何
+Software Design 2026年3月号の中の特集の一つである「再考・ログ設計 障害に強いアプリケーションのログ出力・管理の極意」に関する読書メモです
+
+自分自身がちょうどログ分析基盤の構築に関わっていることもあり、改めてログ設計について学び直そうと...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:eaba05326aa795d9d7ea</id>
     <title>ログインシェルをPowerShellにして .NET を消したら SSH が死んだ話（オワタ → 復活）</title>
     <link rel="alternate" href="https://qiita.com/noobow/items/eaba05326aa795d9d7ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2019,16 +2029,6 @@ Clawdbot（クロードボット）は、1台のPCをハブにして Discord・S
 Claude CodeなどのAIエージェントをいつでもどこでも動かしたくて、ミニPCを購入した。
 気づけばProxmoxを導入し、LXCコンテナで環境を分割し、TailscaleでVPN網を構築していた。
 いつの間にか自宅インフラエンジニアになり、最高のAIエ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b2cec428c1d3c7cced5d</id>
-    <title>[読書メモ]再考・ログ設計　障害に強いアプリケーションのログ出力・管理の極意（Software Design 2026年3月号）</title>
-    <link rel="alternate" href="https://qiita.com/hatahatahata/items/b2cec428c1d3c7cced5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-22T11:55:42+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hatahatahata&quot;&gt;hatahatahata&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T11:55:42+09:00&lt;br/&gt;Updated: 2026-02-22T11:55:42+09:00&lt;br/&gt;これは何
-Software Design 2026年3月号の中の特集の一つである「再考・ログ設計 障害に強いアプリケーションのログ出力・管理の極意」に関する読書メモです
-
-自分自身がちょうどログ分析基盤の構築に関わっていることもあり、改めてログ設計について学び直そうと...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:422591df50d6e3b85e5a</id>
