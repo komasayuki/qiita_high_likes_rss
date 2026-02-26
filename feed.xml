@@ -487,7 +487,7 @@ PRUMについて気になった方は、
     <title>【後編】「で、&quot;結局&quot;今どんな状況なの？」と言われたとき、あなたの報告はまだ“報告”になっていない</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/c66354eda2dbb749207f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-25T14:36:31+09:00</updated>
-    <summary type="html">Likes: 110&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T14:36:31+09:00&lt;br/&gt;Updated: 2026-02-25T14:36:31+09:00&lt;br/&gt;はじめまして。
+    <summary type="html">Likes: 111&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T14:36:31+09:00&lt;br/&gt;Updated: 2026-02-25T14:36:31+09:00&lt;br/&gt;はじめまして。
 株式会社PRUMでエンジニアをしている人見です。
 日々、プログラミング学習や実務の中で
 つまずきやすいポイントを整理して発信しています。
@@ -807,6 +807,16 @@ X（旧Twitter）で海外Tech動画を日々紹介してるKoderです!
 これ、目指している人ほど気になる一方で、いざ探すと“キラキラした成功談”か“技術だけの話”に偏りがちで、実務の肌...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5820d195510861b5be71</id>
+    <title>Boris Cherny氏がシェアした、CLAUDE.mdを理解する</title>
+    <link rel="alternate" href="https://qiita.com/uno_ha07/items/5820d195510861b5be71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-23T22:51:41+09:00</updated>
+    <summary type="html">Likes: 76&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uno_ha07&quot;&gt;uno_ha07&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T22:51:41+09:00&lt;br/&gt;Updated: 2026-02-23T22:51:41+09:00&lt;br/&gt;はじめに
+Claude Codeの生みの親であるAnthropicのスタッフエンジニア、Boris Cherny氏が公開したCLAUDE.mdが話題になっています。
+英語で書かれているため、なんとなく意味はわかるけど、実際どう使えばいいかピンと来なかったので、
+本記事では...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a0a6daad237e97764b85</id>
     <title>Github Copilotを標準機能の範囲で賢くしよう</title>
     <link rel="alternate" href="https://qiita.com/tetsuya-ito-hulft/items/a0a6daad237e97764b85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -853,16 +863,6 @@ SHAP値処理の改修
 感想
 
 初...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5820d195510861b5be71</id>
-    <title>Boris Cherny氏がシェアした、CLAUDE.mdを理解する</title>
-    <link rel="alternate" href="https://qiita.com/uno_ha07/items/5820d195510861b5be71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-23T22:51:41+09:00</updated>
-    <summary type="html">Likes: 75&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uno_ha07&quot;&gt;uno_ha07&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T22:51:41+09:00&lt;br/&gt;Updated: 2026-02-23T22:51:41+09:00&lt;br/&gt;はじめに
-Claude Codeの生みの親であるAnthropicのスタッフエンジニア、Boris Cherny氏が公開したCLAUDE.mdが話題になっています。
-英語で書かれているため、なんとなく意味はわかるけど、実際どう使えばいいかピンと来なかったので、
-本記事では...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1d84037b3b9a499167de</id>
@@ -1813,6 +1813,15 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b9073cce25766508485a</id>
+    <title>MinIO、知らないうちに終了していた</title>
+    <link rel="alternate" href="https://qiita.com/kuma_3838/items/b9073cce25766508485a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-26T10:04:26+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T01:27:19+09:00&lt;br/&gt;Updated: 2026-02-26T10:04:26+09:00&lt;br/&gt;はじめに
+MinIO は Amazon S3 互換の API を備えたオブジェクトストレージです。
+docker-compose.yml に数行書くだけで S3 互換のストレージが立ち上がるため、ローカル開発環境の S3 モックとして広く使われてきました。DockerHu...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a2b936b3796ed1ba7373</id>
     <title>数十行の箇条書きから49枚の提案スライドへ — Claude Opus 4.6 × Slidev【プロンプト全文公開】</title>
     <link rel="alternate" href="https://qiita.com/ntaka329/items/a2b936b3796ed1ba7373?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1856,15 +1865,6 @@ RFPへの提案書作成は、課題分析・ストーリー設計・図表作�
 今回は&quot;ちゃんと業務で使えるようになるための&quot;というテーマで、npmを取り上げたいと思います。
 私自身、業務でもnpmを多用します。
 ただ、新卒で案件に配属された私には、単に&quot;パッケージをインストールできるもの&quot;という理解より、一歩踏み込んだ理解...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b9073cce25766508485a</id>
-    <title>MinIO、知らないうちに終了していた</title>
-    <link rel="alternate" href="https://qiita.com/kuma_3838/items/b9073cce25766508485a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-26T10:04:26+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T01:27:19+09:00&lt;br/&gt;Updated: 2026-02-26T10:04:26+09:00&lt;br/&gt;はじめに
-MinIO は Amazon S3 互換の API を備えたオブジェクトストレージです。
-docker-compose.yml に数行書くだけで S3 互換のストレージが立ち上がるため、ローカル開発環境の S3 モックとして広く使われてきました。DockerHu...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b2cec428c1d3c7cced5d</id>
