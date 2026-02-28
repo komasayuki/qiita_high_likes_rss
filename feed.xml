@@ -374,6 +374,19 @@ AWS 認定の資格保持者は年々増加傾向にあり、なんと全冠保�
 MCP Serverの登場が相次いでいますが、作図ツールとして広く使われている（と思っている）draw.ioからも公式のMC...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2777af8e9912d6bbbbb3</id>
+    <title>個人開発でClaudeCodeに画面操作付きPR動画を生成させてXに自動投稿してる話</title>
+    <link rel="alternate" href="https://qiita.com/akachiryo/items/2777af8e9912d6bbbbb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-25T10:23:36+09:00</updated>
+    <summary type="html">Likes: 127&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T10:23:36+09:00&lt;br/&gt;Updated: 2026-02-25T10:23:36+09:00&lt;br/&gt;実際の投稿例
+このパイプラインで自動生成・自動投稿されたXの投稿がこちらです。
+https://x.com/aiteacher37681/status/2026187321477931407?s=20
+
+生成手順
+
+PlanモードでClaude Codeに「Remot...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5583156dec3b32acb400</id>
     <title>【Python】クラス全員を救うために「実験レポート爆速生成ツール」を作って配布した話</title>
     <link rel="alternate" href="https://qiita.com/afmi21/items/5583156dec3b32acb400?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -385,19 +398,6 @@ MCP Serverの登場が相次いでいますが、作図ツールとして広く�
 中身を書くだけでも大変なのに、僕たちを地味に、しかし確実に削ってくるのが 「事務作業」 の数々です。
 
 毎回Wordの...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2777af8e9912d6bbbbb3</id>
-    <title>個人開発でClaudeCodeに画面操作付きPR動画を生成させてXに自動投稿してる話</title>
-    <link rel="alternate" href="https://qiita.com/akachiryo/items/2777af8e9912d6bbbbb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-25T10:23:36+09:00</updated>
-    <summary type="html">Likes: 126&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T10:23:36+09:00&lt;br/&gt;Updated: 2026-02-25T10:23:36+09:00&lt;br/&gt;実際の投稿例
-このパイプラインで自動生成・自動投稿されたXの投稿がこちらです。
-https://x.com/aiteacher37681/status/2026187321477931407?s=20
-
-生成手順
-
-PlanモードでClaude Codeに「Remot...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:be45d3115ebe74a3e312</id>
@@ -576,6 +576,15 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
 PRUMについて気になった方は...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:87a71916c155d69a336b</id>
+    <title>Markdownを日本の伝統的な雰囲気のあるWordファイルに変換するCLIツール「md2docx」を作った</title>
+    <link rel="alternate" href="https://qiita.com/nokonoko_1203/items/87a71916c155d69a336b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-26T15:55:00+09:00</updated>
+    <summary type="html">Likes: 103&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nokonoko_1203&quot;&gt;nokonoko_1203&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T15:55:00+09:00&lt;br/&gt;Updated: 2026-02-26T15:55:00+09:00&lt;br/&gt;はじめに
+エンジニアであっても、要件定義書や設計書、テスト仕様書、運用手順書など様々な文章を求められることはよくありますよね。
+そういった時にMarkdownのようなプレーンテキストで書きたいと心の底から思いますし、AI時代にはプレーンテキストの方がマッチしているでしょ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:388a7aaad767b9e11fa3</id>
     <title>開発ツール管理？断然Miseでしょ。</title>
     <link rel="alternate" href="https://qiita.com/umekikazuya/items/388a7aaad767b9e11fa3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -593,15 +602,6 @@ PRUMについて気になった方は...</summary>
     <summary type="html">Likes: 102&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TaichiEndoh&quot;&gt;TaichiEndoh&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T14:26:09+09:00&lt;br/&gt;Updated: 2026-02-04T09:41:32+09:00&lt;br/&gt;こんにちは、エンジニアのTaichiです。
 日々アップデートされる技術情報、追いかけるのが大変ですよね。「あとで読む」つもりの記事が溜まっていくばかり…。
 そこで今回は、話題のローコードツール n8n と、愛用のノートアプリ Obsidian を連携させ、「朝起きたら、勝手...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:87a71916c155d69a336b</id>
-    <title>Markdownを日本の伝統的な雰囲気のあるWordファイルに変換するCLIツール「md2docx」を作った</title>
-    <link rel="alternate" href="https://qiita.com/nokonoko_1203/items/87a71916c155d69a336b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-26T15:55:00+09:00</updated>
-    <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nokonoko_1203&quot;&gt;nokonoko_1203&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T15:55:00+09:00&lt;br/&gt;Updated: 2026-02-26T15:55:00+09:00&lt;br/&gt;はじめに
-エンジニアであっても、要件定義書や設計書、テスト仕様書、運用手順書など様々な文章を求められることはよくありますよね。
-そういった時にMarkdownのようなプレーンテキストで書きたいと心の底から思いますし、AI時代にはプレーンテキストの方がマッチしているでしょ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bd39652d49addcb116d3</id>
@@ -1914,6 +1914,18 @@ RFPへの提案書作成は、課題分析・ストーリー設計・図表作�
 対象は10年以上前に開発された、いわゆる「レガシー」なシ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:835a22e52d1d6f5497ff</id>
+    <title>「生成AIでWebデザインできるか調べて」と振られたので Pencil + Claude Code を試した話</title>
+    <link rel="alternate" href="https://qiita.com/tetsuko_room/items/835a22e52d1d6f5497ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-25T17:42:01+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetsuko_room&quot;&gt;tetsuko_room&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T17:39:35+09:00&lt;br/&gt;Updated: 2026-02-25T17:42:01+09:00&lt;br/&gt;お疲れさまです！
+いつも日刊IETFを書き続けているGMOコネクトの名もなきエンジニアです。
+生成AI使ってWebサイトのデザインできるかやっておいてって雑に依頼されたので調査しました。
+
+はじめに
+Figma でデザインを作って、それをエンジニアがコードに起こす。この受け...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b2cec428c1d3c7cced5d</id>
     <title>[読書メモ]再考・ログ設計　障害に強いアプリケーションのログ出力・管理の極意（Software Design 2026年3月号）</title>
     <link rel="alternate" href="https://qiita.com/hatahatahata/items/b2cec428c1d3c7cced5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1963,18 +1975,6 @@ Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sakaimaging&quot;&gt;sakaimaging&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T13:24:45+09:00&lt;br/&gt;Updated: 2026-01-03T19:35:29+09:00&lt;br/&gt;はじめに
 Mermaid では、flowchart の矢印に animation を指定することで、通信が流れる様子をアニメーションとして表現できます。
 アニメーションには slow や fast といった速度指定が用意されており、通信の速さの違いを視覚的に表すことができ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:835a22e52d1d6f5497ff</id>
-    <title>「生成AIでWebデザインできるか調べて」と振られたので Pencil + Claude Code を試した話</title>
-    <link rel="alternate" href="https://qiita.com/tetsuko_room/items/835a22e52d1d6f5497ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-25T17:42:01+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetsuko_room&quot;&gt;tetsuko_room&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T17:39:35+09:00&lt;br/&gt;Updated: 2026-02-25T17:42:01+09:00&lt;br/&gt;お疲れさまです！
-いつも日刊IETFを書き続けているGMOコネクトの名もなきエンジニアです。
-生成AI使ってWebサイトのデザインできるかやっておいてって雑に依頼されたので調査しました。
-
-はじめに
-Figma でデザインを作って、それをエンジニアがコードに起こす。この受け...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8e5c36e43f430a4b4f9e</id>
