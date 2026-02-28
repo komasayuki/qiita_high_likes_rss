@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-02-26T20:22:18+09:00</updated>
+  <updated>2026-02-26T22:02:10+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -448,7 +448,7 @@ AWS Toolkit for V...</summary>
     <title>Markdownを日本の伝統的な雰囲気のあるWordファイルに変換するCLIツール「md2docx」を作った</title>
     <link rel="alternate" href="https://qiita.com/nokonoko_1203/items/87a71916c155d69a336b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-26T15:55:00+09:00</updated>
-    <summary type="html">Likes: 122&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nokonoko_1203&quot;&gt;nokonoko_1203&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T15:55:00+09:00&lt;br/&gt;Updated: 2026-02-26T15:55:00+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 123&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nokonoko_1203&quot;&gt;nokonoko_1203&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T15:55:00+09:00&lt;br/&gt;Updated: 2026-02-26T15:55:00+09:00&lt;br/&gt;はじめに
 エンジニアであっても、要件定義書や設計書、テスト仕様書、運用手順書など様々な文章を求められることはよくありますよね。
 そういった時にMarkdownのようなプレーンテキストで書きたいと心の底から思いますし、AI時代にはプレーンテキストの方がマッチしているでしょ...</summary>
   </entry>
@@ -896,6 +896,18 @@ SHAP値処理の改修
 HTML/画像を根拠にMark...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5befc1eeffa01cab45d7</id>
+    <title>【無料】ブラウザ上で電子工作をシミュレートできる”Tinkercad”が便利すぎてヤバい</title>
+    <link rel="alternate" href="https://qiita.com/horyyyyyy/items/5befc1eeffa01cab45d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-26T16:38:53+09:00</updated>
+    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/horyyyyyy&quot;&gt;horyyyyyy&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T16:38:52+09:00&lt;br/&gt;Updated: 2026-02-26T16:38:53+09:00&lt;br/&gt;シミュレーターで動作確認（Tinkercad）
+電子工作を行なう中で、
+「使いたい部品がどれか分からない」
+「配線がうまくいかず想定通り動かない」
+「配線ミスで部品がショートしないか不安」
+といった悩みを持っていたのですが、Autodeskが提供している無料のオンラインシ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:800beee69019ca84855c</id>
     <title>「ログイン周り」がごちゃつく人へ：認証・認可・SSO・OAuth/OIDC/SAMLの地図</title>
     <link rel="alternate" href="https://qiita.com/ryucciarati/items/800beee69019ca84855c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -925,18 +937,6 @@ GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場�
     <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T09:50:06+09:00&lt;br/&gt;Updated: 2026-01-18T23:28:37+09:00&lt;br/&gt;はじめに：なぜ今 Tauri なのか
 Electron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。
 Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用することで...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5befc1eeffa01cab45d7</id>
-    <title>【無料】ブラウザ上で電子工作をシミュレートできる”Tinkercad”が便利すぎてヤバい</title>
-    <link rel="alternate" href="https://qiita.com/horyyyyyy/items/5befc1eeffa01cab45d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-26T16:38:53+09:00</updated>
-    <summary type="html">Likes: 69&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/horyyyyyy&quot;&gt;horyyyyyy&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T16:38:52+09:00&lt;br/&gt;Updated: 2026-02-26T16:38:53+09:00&lt;br/&gt;シミュレーターで動作確認（Tinkercad）
-電子工作を行なう中で、
-「使いたい部品がどれか分からない」
-「配線がうまくいかず想定通り動かない」
-「配線ミスで部品がショートしないか不安」
-といった悩みを持っていたのですが、Autodeskが提供している無料のオンラインシ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5cc486be289a8ea76728</id>
@@ -2166,6 +2166,16 @@ Clawdbot（クロードボット）は、1台のPCをハブにして Discord・S
 その...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:de6c1ba8ebbd4a20d8ee</id>
+    <title>n8nで「魂」をJSON化したら、毎朝8時に10言語でアフィリエイト記事を自動生成する化け物パイプラインが完成した話</title>
+    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/de6c1ba8ebbd4a20d8ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-26T22:02:10+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T22:02:10+09:00&lt;br/&gt;Updated: 2026-02-26T22:02:10+09:00&lt;br/&gt;「魂の欠如」からの逆襲
+前回の記事『n8nで記事自動生成パイプラインを作ったら、1週間で40本→0本になった話』では、多くの反響をいただいた。
+
+AIに完全丸投げした記事には「人間の体験（魂）」がなく、読む価値がゼロであること。そして、手動で人間の泥臭い体験談を追記...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:539e775adb35195feecd</id>
     <title>反省会が止まらない人へ。アドラー心理学で“心の負荷”を減らす3つの考え</title>
     <link rel="alternate" href="https://qiita.com/mnomoto/items/539e775adb35195feecd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2243,18 +2253,5 @@ Gitの設計上の課題を、現代的なモデルで再設計した...</summar
 麻痺した脳を物理的にハッキングして、他人の目（初見の感覚）を取り戻すためのリセット術をまとめました。
 
 1. 【セルフ診断】客観性を失っ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1a0c2e84dd0898a088ad</id>
-    <title>IPA高度区分試験攻略法(PM/ST/AU)── と思ったらまさかの試験区分再編！</title>
-    <link rel="alternate" href="https://qiita.com/dais_cw/items/1a0c2e84dd0898a088ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T07:44:35+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dais_cw&quot;&gt;dais_cw&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T07:44:35+09:00&lt;br/&gt;Updated: 2026-01-20T07:44:35+09:00&lt;br/&gt;まさかのIPA試験区分再編
-上記タイトルで投稿記事を書いていたら、まさかのIPA試験区分再編！
-折角頑張って書いたのに…。
-とはいえ、少なくとも2026年度は現行方式が継続されそう
-（2026/1/19時点）なので、若干手直しした上で
-投稿してみることにしました。
-202...</summary>
   </entry>
 </feed>
