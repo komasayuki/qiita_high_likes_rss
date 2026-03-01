@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-02-26T22:02:10+09:00</updated>
+  <updated>2026-02-27T23:01:52+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -229,6 +229,15 @@ Python でCSV駆動の自動生成パイプラインを構築
 Canva で誤字脱字を修正（Nano Ban...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:87a71916c155d69a336b</id>
+    <title>Markdownを日本の伝統的な雰囲気のあるWordファイルに変換するCLIツール「md2docx」を作った</title>
+    <link rel="alternate" href="https://qiita.com/nokonoko_1203/items/87a71916c155d69a336b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-26T15:55:00+09:00</updated>
+    <summary type="html">Likes: 159&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nokonoko_1203&quot;&gt;nokonoko_1203&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T15:55:00+09:00&lt;br/&gt;Updated: 2026-02-26T15:55:00+09:00&lt;br/&gt;はじめに
+エンジニアであっても、要件定義書や設計書、テスト仕様書、運用手順書など様々な文章を求められることはよくありますよね。
+そういった時にMarkdownのようなプレーンテキストで書きたいと心の底から思いますし、AI時代にはプレーンテキストの方がマッチしているでしょ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c66354eda2dbb749207f</id>
     <title>【後編】「で、&quot;結局&quot;今どんな状況なの？」と言われたとき、あなたの報告はまだ“報告”になっていない</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/c66354eda2dbb749207f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -254,15 +263,6 @@ GMOコネクトの永田です。
 特に官公庁向け提案書は、評価項目ごとにページを作成していくと数十〜数百ページになることも珍しくありません。PowerPoint で作る場合、こんな苦痛が待っています：
 
 コピペ地獄: スライドをコピ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:87a71916c155d69a336b</id>
-    <title>Markdownを日本の伝統的な雰囲気のあるWordファイルに変換するCLIツール「md2docx」を作った</title>
-    <link rel="alternate" href="https://qiita.com/nokonoko_1203/items/87a71916c155d69a336b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-26T15:55:00+09:00</updated>
-    <summary type="html">Likes: 156&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nokonoko_1203&quot;&gt;nokonoko_1203&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T15:55:00+09:00&lt;br/&gt;Updated: 2026-02-26T15:55:00+09:00&lt;br/&gt;はじめに
-エンジニアであっても、要件定義書や設計書、テスト仕様書、運用手順書など様々な文章を求められることはよくありますよね。
-そういった時にMarkdownのようなプレーンテキストで書きたいと心の底から思いますし、AI時代にはプレーンテキストの方がマッチしているでしょ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:81fabafaaa1fc0e8fade</id>
@@ -757,7 +757,7 @@ Pencilは、Figma + Layermate みたいなツールで、Pencil上でAIにUIを�
     <title>【無料】ブラウザ上で電子工作をシミュレートできる”Tinkercad”が便利すぎてヤバい</title>
     <link rel="alternate" href="https://qiita.com/horyyyyyy/items/5befc1eeffa01cab45d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-26T16:38:53+09:00</updated>
-    <summary type="html">Likes: 83&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/horyyyyyy&quot;&gt;horyyyyyy&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T16:38:52+09:00&lt;br/&gt;Updated: 2026-02-26T16:38:53+09:00&lt;br/&gt;シミュレーターで動作確認（Tinkercad）
+    <summary type="html">Likes: 84&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/horyyyyyy&quot;&gt;horyyyyyy&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T16:38:52+09:00&lt;br/&gt;Updated: 2026-02-26T16:38:53+09:00&lt;br/&gt;シミュレーターで動作確認（Tinkercad）
 電子工作を行なう中で、
 「使いたい部品がどれか分からない」
 「配線がうまくいかず想定通り動かない」
@@ -1411,6 +1411,21 @@ Pythonでプログラミングをしていると、当たり前のように使�
 Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:08873f6569a2b96a276c</id>
+    <title>ローカルLLMの脆弱性があるんか？〜CVE-2024-50050から学ぶ「自分だけで使ってるから安全」の落とし穴〜</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/08873f6569a2b96a276c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-26T09:52:17+09:00</updated>
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T09:52:17+09:00&lt;br/&gt;Updated: 2026-02-26T09:52:17+09:00&lt;br/&gt;この記事の対象読者
+
+OllamaやLM StudioでローカルLLMを動かしている方
+「ローカルで動かしてるから脆弱性は関係ないでしょ？」と思っている方
+セキュリティ対策が必要かどうか判断したいエンジニアの方
+
+この記事で得られること
+
+ローカルLLM基盤を狙う主...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:20a91a58680ed93326ee</id>
     <title>Claude Code × Obsidianで実現！Qiita記事執筆を完全自動化したら、記事が書くのが楽しくなった話</title>
     <link rel="alternate" href="https://qiita.com/hoge_kawamuro/items/20a91a58680ed93326ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1485,21 +1500,6 @@ OCI Market...</summary>
 「Generative UI」という単語をご存知でしょうか？
 Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:08873f6569a2b96a276c</id>
-    <title>ローカルLLMの脆弱性があるんか？〜CVE-2024-50050から学ぶ「自分だけで使ってるから安全」の落とし穴〜</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/08873f6569a2b96a276c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-26T09:52:17+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T09:52:17+09:00&lt;br/&gt;Updated: 2026-02-26T09:52:17+09:00&lt;br/&gt;この記事の対象読者
-
-OllamaやLM StudioでローカルLLMを動かしている方
-「ローカルで動かしてるから脆弱性は関係ないでしょ？」と思っている方
-セキュリティ対策が必要かどうか判断したいエンジニアの方
-
-この記事で得られること
-
-ローカルLLM基盤を狙う主...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d56f9704bc95ffc77e74</id>
@@ -1582,6 +1582,16 @@ Win...</summary>
 そんな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:de6c1ba8ebbd4a20d8ee</id>
+    <title>n8nで「魂」をJSON化したら、毎朝8時に10言語でアフィリエイト記事を自動生成する化け物パイプラインが完成した話</title>
+    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/de6c1ba8ebbd4a20d8ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-26T22:02:10+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T22:02:10+09:00&lt;br/&gt;Updated: 2026-02-26T22:02:10+09:00&lt;br/&gt;「魂の欠如」からの逆襲
+前回の記事『n8nで記事自動生成パイプラインを作ったら、1週間で40本→0本になった話』では、多くの反響をいただいた。
+
+AIに完全丸投げした記事には「人間の体験（魂）」がなく、読む価値がゼロであること。そして、手動で人間の泥臭い体験談を追記...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1492b77916ce3061cadf</id>
     <title>【シリアル通信】「実機がないからテストできない」は言い訳？SocketDebuggerで巨大な産業機器を丸ごと模擬してみた🔥</title>
     <link rel="alternate" href="https://qiita.com/umezawa_udom/items/1492b77916ce3061cadf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1644,16 +1654,6 @@ Web API（REST API）という言葉を聞いたことがある方
     <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/koras7788&quot;&gt;koras7788&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:47:41+09:00&lt;br/&gt;Updated: 2026-01-21T17:55:41+09:00&lt;br/&gt;Claude Codeは、AI支援による開発体験を提供する強力なツールです。しかし、多くの機能が隠れているため、その真価を十分に活用できていないユーザーも少なくありません。この記事では、作業効率を大幅に向上させる実践的なテクニックを4つのカテゴリーに分けて紹介します。
 
 1...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:de6c1ba8ebbd4a20d8ee</id>
-    <title>n8nで「魂」をJSON化したら、毎朝8時に10言語でアフィリエイト記事を自動生成する化け物パイプラインが完成した話</title>
-    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/de6c1ba8ebbd4a20d8ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-26T22:02:10+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T22:02:10+09:00&lt;br/&gt;Updated: 2026-02-26T22:02:10+09:00&lt;br/&gt;「魂の欠如」からの逆襲
-前回の記事『n8nで記事自動生成パイプラインを作ったら、1週間で40本→0本になった話』では、多くの反響をいただいた。
-
-AIに完全丸投げした記事には「人間の体験（魂）」がなく、読む価値がゼロであること。そして、手動で人間の泥臭い体験談を追記...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6c0dd5107d4ce6c4b300</id>
@@ -2069,6 +2069,16 @@ HTTPとはHyper Text Transfer Protocolの略称で、ウェブブラウザとウ
 1. ブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7cb1d8b48cd442e07962</id>
+    <title>AI に 24 時間セキュリティ監視を任せてみた — ホームラボで SOC を構築した話</title>
+    <link rel="alternate" href="https://qiita.com/takao-shimizu/items/7cb1d8b48cd442e07962?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-27T23:01:52+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takao-shimizu&quot;&gt;takao-shimizu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T23:01:50+09:00&lt;br/&gt;Updated: 2026-02-27T23:01:52+09:00&lt;br/&gt;はじめに
+前回の記事では、n8n を MCP サーバーとして OpenClaw に統合し、ワークフロー自動化の基盤を作りました。記事の最後に「今後の展望」としてこう書きました:
+
+セキュリティアラート自動トリアージ: Sysdig アラート → 情報収集 → 重大度判定 ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a116aa00af0884675b25</id>
     <title>Dockerの名前付きボリュームの落とし穴</title>
     <link rel="alternate" href="https://qiita.com/kuma_3838/items/a116aa00af0884675b25?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2244,18 +2254,5 @@ Oracle Analytics Cloud（OAC）
     <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kinopy513&quot;&gt;kinopy513&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T13:50:38+09:00&lt;br/&gt;Updated: 2026-01-23T13:50:38+09:00&lt;br/&gt;最近、海外のエンジニアコミュニティを中心に Jujutsu という新しいバージョン管理システム（VCS）が密かに注目を集めています。
 「Gitの代替」と紹介されることもありますが、正確にはGitをバックエンドに利用しており
 Gitの設計上の課題を、現代的なモデルで再設計した...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3795769451ab003b6ee7</id>
-    <title>自然言語からSQLは魔法ではない</title>
-    <link rel="alternate" href="https://qiita.com/engchina/items/3795769451ab003b6ee7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-22T14:34:07+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T11:08:09+09:00&lt;br/&gt;Updated: 2026-01-22T14:34:07+09:00&lt;br/&gt;― 業務要望に応えるために「設計とカスタマイズ開発」が不可欠な理由
-生成AIの進化により、「自然言語からSQLを生成できる」という話をよく耳にするようになりました。
-一見すると、
-
-テーブル定義書をAIに渡せば、業務ユーザーの質問をそのままSQLに変換してくれる
-
-ように...</summary>
   </entry>
 </feed>
