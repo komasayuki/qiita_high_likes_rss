@@ -1750,6 +1750,16 @@ C#で非同期処理を組み立てていると、タスク間でデータを受
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7cb1d8b48cd442e07962</id>
+    <title>AI に 24 時間セキュリティ監視を任せてみた — ホームラボで SOC を構築した話</title>
+    <link rel="alternate" href="https://qiita.com/takao-shimizu/items/7cb1d8b48cd442e07962?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-27T23:01:52+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takao-shimizu&quot;&gt;takao-shimizu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T23:01:50+09:00&lt;br/&gt;Updated: 2026-02-27T23:01:52+09:00&lt;br/&gt;はじめに
+前回の記事では、n8n を MCP サーバーとして OpenClaw に統合し、ワークフロー自動化の基盤を作りました。記事の最後に「今後の展望」としてこう書きました:
+
+セキュリティアラート自動トリアージ: Sysdig アラート → 情報収集 → 重大度判定 ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7b8a5e65873a35ea72dd</id>
     <title>結局 Python は遅いのか</title>
     <link rel="alternate" href="https://qiita.com/k2-gc/items/7b8a5e65873a35ea72dd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1816,16 +1826,6 @@ https://qiita.com/xhackjp1/items/03045dd62c2f...</summary>
 私はこれまで、社内向けに 業務自動化・業務効率化ツール をいくつも作ってきました。
 Power Automate、Python、VBA、Teams、SharePoint…いろんな仕組みを組み合わせて、「人の仕事を楽にする」ためのツールを作ってきました。
 ただ、そ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7cb1d8b48cd442e07962</id>
-    <title>AI に 24 時間セキュリティ監視を任せてみた — ホームラボで SOC を構築した話</title>
-    <link rel="alternate" href="https://qiita.com/takao-shimizu/items/7cb1d8b48cd442e07962?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-27T23:01:52+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takao-shimizu&quot;&gt;takao-shimizu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T23:01:50+09:00&lt;br/&gt;Updated: 2026-02-27T23:01:52+09:00&lt;br/&gt;はじめに
-前回の記事では、n8n を MCP サーバーとして OpenClaw に統合し、ワークフロー自動化の基盤を作りました。記事の最後に「今後の展望」としてこう書きました:
-
-セキュリティアラート自動トリアージ: Sysdig アラート → 情報収集 → 重大度判定 ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:835a22e52d1d6f5497ff</id>
@@ -1959,6 +1959,16 @@ RFPへの提案書作成は、課題分析・ストーリー設計・図表作�
     <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T20:57:55+09:00&lt;br/&gt;Updated: 2026-01-06T19:49:00+09:00&lt;br/&gt;はじめに
 表題のとおり、Windows OS を USB メモリ上に導入して、任意の PC を使って利用するためのノウハウを共有したいと思います。
 本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:8b870661f80d63499336</id>
+    <title>Claude Code 初学者ロードマップ</title>
+    <link rel="alternate" href="https://qiita.com/marugame/items/8b870661f80d63499336?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-26T23:05:52+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/marugame&quot;&gt;marugame&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T23:05:52+09:00&lt;br/&gt;Updated: 2026-02-26T23:05:52+09:00&lt;br/&gt;最近、下記YouTubeの動画や、記事を見てClaudeCodeが再注目されていることを知りました。
+◾︎ClaudeCodeの動画
+https://youtu.be/ca5HjfclrjE?si=qvIC26aAa99SnOux
+使ってみたいと思いつつ、私は客先業務で貸与...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b2cec428c1d3c7cced5d</id>
@@ -2245,14 +2255,5 @@ Autonomous AI Lakehouse
 Oracle Analytics Cloud（OAC）
 
 を活用し、モダンなデ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:78c976e29a000eaf7819</id>
-    <title>Gitの次に来る？次世代VCS &quot;Jujutsu&quot;</title>
-    <link rel="alternate" href="https://qiita.com/kinopy513/items/78c976e29a000eaf7819?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-23T13:50:38+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kinopy513&quot;&gt;kinopy513&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T13:50:38+09:00&lt;br/&gt;Updated: 2026-01-23T13:50:38+09:00&lt;br/&gt;最近、海外のエンジニアコミュニティを中心に Jujutsu という新しいバージョン管理システム（VCS）が密かに注目を集めています。
-「Gitの代替」と紹介されることもありますが、正確にはGitをバックエンドに利用しており
-Gitの設計上の課題を、現代的なモデルで再設計した...</summary>
   </entry>
 </feed>
