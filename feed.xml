@@ -1340,6 +1340,16 @@ CLAUDE.md
 サブエー...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7cb1d8b48cd442e07962</id>
+    <title>AI に 24 時間セキュリティ監視を任せてみた — ホームラボで SOC を構築した話</title>
+    <link rel="alternate" href="https://qiita.com/takao-shimizu/items/7cb1d8b48cd442e07962?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-27T23:01:52+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takao-shimizu&quot;&gt;takao-shimizu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T23:01:50+09:00&lt;br/&gt;Updated: 2026-02-27T23:01:52+09:00&lt;br/&gt;はじめに
+前回の記事では、n8n を MCP サーバーとして OpenClaw に統合し、ワークフロー自動化の基盤を作りました。記事の最後に「今後の展望」としてこう書きました:
+
+セキュリティアラート自動トリアージ: Sysdig アラート → 情報収集 → 重大度判定 ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
     <title>【Claude Code】 /insights コマンドがおもしろい</title>
     <link rel="alternate" href="https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1359,16 +1369,6 @@ Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレ
 前回の記事『n8nで記事自動生成パイプラインを作ったら、1週間で40本→0本になった話』では、多くの反響をいただいた。
 
 AIに完全丸投げした記事には「人間の体験（魂）」がなく、読む価値がゼロであること。そして、手動で人間の泥臭い体験談を追記...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7cb1d8b48cd442e07962</id>
-    <title>AI に 24 時間セキュリティ監視を任せてみた — ホームラボで SOC を構築した話</title>
-    <link rel="alternate" href="https://qiita.com/takao-shimizu/items/7cb1d8b48cd442e07962?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-27T23:01:52+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takao-shimizu&quot;&gt;takao-shimizu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T23:01:50+09:00&lt;br/&gt;Updated: 2026-02-27T23:01:52+09:00&lt;br/&gt;はじめに
-前回の記事では、n8n を MCP サーバーとして OpenClaw に統合し、ワークフロー自動化の基盤を作りました。記事の最後に「今後の展望」としてこう書きました:
-
-セキュリティアラート自動トリアージ: Sysdig アラート → 情報収集 → 重大度判定 ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:08873f6569a2b96a276c</id>
@@ -1768,6 +1768,15 @@ llama.cpp や Open WebUI を使ったロー...</summary>
 C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
 
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:8a159a81a9c5531c985c</id>
+    <title>【初心者向け】プログラミング初心者が知っておきたい有名な原則・考え方 10選</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/8a159a81a9c5531c985c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-01T12:30:36+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T12:30:36+09:00&lt;br/&gt;Updated: 2026-03-01T12:30:36+09:00&lt;br/&gt;はじめに
+プログラミングの世界には、長年の経験から生まれた「原則」や「考え方」が数多く存在します。これらは先人たちが失敗と成功を繰り返す中で見出した、いわば 開発の知恵 です。
+この記事では、プログラミングを学び始めた方や実務に入ったばかりの方を対象に、知っておくと確実に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7b8a5e65873a35ea72dd</id>
@@ -2242,18 +2251,5 @@ SaaS開発において、エンジニアが「受け身」でいると、最適�
 
 この拡張機能は、よく使う定型文（テンプレート）を保存・管理し、あらゆるウェブサイトの入力欄にワンクリックで挿入できるツールです。
 さらに、{{名前}}のような変数機能も備えており...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cbad89098dfcc8c71178</id>
-    <title>【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（前編）</title>
-    <link rel="alternate" href="https://qiita.com/yushibats/items/cbad89098dfcc8c71178?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-26T15:10:51+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T06:43:13+09:00&lt;br/&gt;Updated: 2026-01-26T15:10:51+09:00&lt;br/&gt;この記事は、OCI（Oracle Cloud Infrustructure） 上で、
-
-Oracle AI Data Platform（AIDP）
-Autonomous AI Lakehouse
-Oracle Analytics Cloud（OAC）
-
-を活用し、モダンなデ...</summary>
   </entry>
 </feed>
