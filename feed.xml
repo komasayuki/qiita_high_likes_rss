@@ -1295,22 +1295,22 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8b870661f80d63499336</id>
+    <title>Claude Code 初学者ロードマップ</title>
+    <link rel="alternate" href="https://qiita.com/marugame/items/8b870661f80d63499336?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-26T23:05:52+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/marugame&quot;&gt;marugame&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T23:05:52+09:00&lt;br/&gt;Updated: 2026-02-26T23:05:52+09:00&lt;br/&gt;最近、下記YouTubeの動画や、記事を見てClaudeCodeが再注目されていることを知りました。
+◾︎ClaudeCodeの動画
+https://youtu.be/ca5HjfclrjE?si=qvIC26aAa99SnOux
+使ってみたいと思いつつ、私は客先業務で貸与...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:85b419b26b2886f5e2d6</id>
     <title>ローカルLLMサーバーの実用的な使い道の検討</title>
     <link rel="alternate" href="https://qiita.com/bd8z/items/85b419b26b2886f5e2d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-18T23:59:50+09:00</updated>
     <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/bd8z&quot;&gt;bd8z&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T12:50:10+09:00&lt;br/&gt;Updated: 2026-01-18T23:59:50+09:00&lt;br/&gt;はじめに
 Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、いわゆるエージェントタスクにおける計算資源としての使い方が向いているのではという気がしてきた。イメージはAWS LambdaのようなFunction as a serviceのようなワンショットな...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8b870661f80d63499336</id>
-    <title>Claude Code 初学者ロードマップ</title>
-    <link rel="alternate" href="https://qiita.com/marugame/items/8b870661f80d63499336?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-26T23:05:52+09:00</updated>
-    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/marugame&quot;&gt;marugame&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T23:05:52+09:00&lt;br/&gt;Updated: 2026-02-26T23:05:52+09:00&lt;br/&gt;最近、下記YouTubeの動画や、記事を見てClaudeCodeが再注目されていることを知りました。
-◾︎ClaudeCodeの動画
-https://youtu.be/ca5HjfclrjE?si=qvIC26aAa99SnOux
-使ってみたいと思いつつ、私は客先業務で貸与...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b31603922b791c37cc37</id>
@@ -1385,6 +1385,16 @@ Pythonでプログラミングをしていると、当たり前のように使�
 しかし、**結局、pipは何をどこにダウンロードして、どうやってPythonがそれを見つけて...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:de6c1ba8ebbd4a20d8ee</id>
+    <title>n8nで「魂」をJSON化したら、毎朝8時に10言語でアフィリエイト記事を自動生成する化け物パイプラインが完成した話</title>
+    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/de6c1ba8ebbd4a20d8ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-01T19:41:40+09:00</updated>
+    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T22:02:10+09:00&lt;br/&gt;Updated: 2026-03-01T19:41:40+09:00&lt;br/&gt;「魂の欠如」からの逆襲
+前回の記事『n8nで記事自動生成パイプラインを作ったら、1週間で40本→0本になった話』では、多くの反響をいただいた。
+
+AIに完全丸投げした記事には「人間の体験（魂）」がなく、読む価値がゼロであること。そして、手動で人間の泥臭い体験談を追記...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7476eb9dfc8bca4e0bb8</id>
     <title>Claude Code・Copilot・Codex・Gemini・Cursorが同じスキルを読める時代──Agent Skills標準の実装を徹底比較</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/7476eb9dfc8bca4e0bb8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1436,16 +1446,6 @@ Pythonでプログラミングをしていると、当たり前のように使�
 Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:de6c1ba8ebbd4a20d8ee</id>
-    <title>n8nで「魂」をJSON化したら、毎朝8時に10言語でアフィリエイト記事を自動生成する化け物パイプラインが完成した話</title>
-    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/de6c1ba8ebbd4a20d8ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-01T19:41:40+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T22:02:10+09:00&lt;br/&gt;Updated: 2026-03-01T19:41:40+09:00&lt;br/&gt;「魂の欠如」からの逆襲
-前回の記事『n8nで記事自動生成パイプラインを作ったら、1週間で40本→0本になった話』では、多くの反響をいただいた。
-
-AIに完全丸投げした記事には「人間の体験（魂）」がなく、読む価値がゼロであること。そして、手動で人間の泥臭い体験談を追記...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:20a91a58680ed93326ee</id>
     <title>Claude Code × Obsidianで実現！Qiita記事執筆を完全自動化したら、記事が書くのが楽しくなった話</title>
     <link rel="alternate" href="https://qiita.com/hoge_kawamuro/items/20a91a58680ed93326ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1471,6 +1471,16 @@ draw.io の MCP サーバーが公開されていたので、軽く触ってみ�
 勝手に、よりいい感じの図を出力してくれると思って使ったのですが、（何も使わずに「drawio 形式で書いて」と指示する場合と比べて）あまり違いを感じませんでした。
 
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:7cb1d8b48cd442e07962</id>
+    <title>AI に 24 時間セキュリティ監視を任せてみた — ホームラボで SOC を構築した話</title>
+    <link rel="alternate" href="https://qiita.com/takao-shimizu/items/7cb1d8b48cd442e07962?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-27T23:01:52+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takao-shimizu&quot;&gt;takao-shimizu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T23:01:50+09:00&lt;br/&gt;Updated: 2026-02-27T23:01:52+09:00&lt;br/&gt;はじめに
+前回の記事では、n8n を MCP サーバーとして OpenClaw に統合し、ワークフロー自動化の基盤を作りました。記事の最後に「今後の展望」としてこう書きました:
+
+セキュリティアラート自動トリアージ: Sysdig アラート → 情報収集 → 重大度判定 ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6303aa289c9734974f69</id>
@@ -1520,16 +1530,6 @@ OCI Market...</summary>
 「Generative UI」という単語をご存知でしょうか？
 Generative UIは、生成AIやAIエージェントによってUIを生成する手法です。
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7cb1d8b48cd442e07962</id>
-    <title>AI に 24 時間セキュリティ監視を任せてみた — ホームラボで SOC を構築した話</title>
-    <link rel="alternate" href="https://qiita.com/takao-shimizu/items/7cb1d8b48cd442e07962?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-27T23:01:52+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takao-shimizu&quot;&gt;takao-shimizu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T23:01:50+09:00&lt;br/&gt;Updated: 2026-02-27T23:01:52+09:00&lt;br/&gt;はじめに
-前回の記事では、n8n を MCP サーバーとして OpenClaw に統合し、ワークフロー自動化の基盤を作りました。記事の最後に「今後の展望」としてこう書きました:
-
-セキュリティアラート自動トリアージ: Sysdig アラート → 情報収集 → 重大度判定 ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d56f9704bc95ffc77e74</id>
