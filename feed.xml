@@ -1417,6 +1417,16 @@ Pythonでプログラミングをしていると、当たり前のように使�
 統計モデリング（statistical ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7cb1d8b48cd442e07962</id>
+    <title>AI に 24 時間セキュリティ監視を任せてみた — ホームラボで SOC を構築した話</title>
+    <link rel="alternate" href="https://qiita.com/takao-shimizu/items/7cb1d8b48cd442e07962?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-27T23:01:52+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takao-shimizu&quot;&gt;takao-shimizu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T23:01:50+09:00&lt;br/&gt;Updated: 2026-02-27T23:01:52+09:00&lt;br/&gt;はじめに
+前回の記事では、n8n を MCP サーバーとして OpenClaw に統合し、ワークフロー自動化の基盤を作りました。記事の最後に「今後の展望」としてこう書きました:
+
+セキュリティアラート自動トリアージ: Sysdig アラート → 情報収集 → 重大度判定 ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4db2182e2384df4122a2</id>
     <title>Microsoft Teams を悪用したCEO詐欺（ビジネスチャット詐欺）について</title>
     <link rel="alternate" href="https://qiita.com/hirotomotaguchi/items/4db2182e2384df4122a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1444,16 +1454,6 @@ Pythonでプログラミングをしていると、当たり前のように使�
 2026/1/18 に以下のようなツイートを見かけました。
 
 Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7cb1d8b48cd442e07962</id>
-    <title>AI に 24 時間セキュリティ監視を任せてみた — ホームラボで SOC を構築した話</title>
-    <link rel="alternate" href="https://qiita.com/takao-shimizu/items/7cb1d8b48cd442e07962?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-27T23:01:52+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takao-shimizu&quot;&gt;takao-shimizu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T23:01:50+09:00&lt;br/&gt;Updated: 2026-02-27T23:01:52+09:00&lt;br/&gt;はじめに
-前回の記事では、n8n を MCP サーバーとして OpenClaw に統合し、ワークフロー自動化の基盤を作りました。記事の最後に「今後の展望」としてこう書きました:
-
-セキュリティアラート自動トリアージ: Sysdig アラート → 情報収集 → 重大度判定 ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:20a91a58680ed93326ee</id>
