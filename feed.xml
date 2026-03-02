@@ -49,7 +49,7 @@ AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示�
     <title>Claude Codeですべての日常業務を爆速化しよう！</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/114f53def8cb0db60f47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-03T02:21:29+09:00</updated>
-    <summary type="html">Likes: 287&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T08:03:49+09:00&lt;br/&gt;Updated: 2026-03-03T02:21:29+09:00&lt;br/&gt;この記事はClaudeと一緒に書きました。
+    <summary type="html">Likes: 304&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T08:03:49+09:00&lt;br/&gt;Updated: 2026-03-03T02:21:29+09:00&lt;br/&gt;この記事はClaudeと一緒に書きました。
 
 Claude Code、まだ「コードを書くツール」だと思ってませんか？
 私は普段AIエージェントを「作る」側の仕事をしていますが、それとは別に日常業務のありとあらゆる雑務をClaude Codeにやらせています。経費精算、...</summary>
@@ -165,7 +165,7 @@ ChatGPT：
     <title>【初心者向け】プログラミング初心者が知っておきたい有名な原則・考え方 10選</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/8a159a81a9c5531c985c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-01T12:30:36+09:00</updated>
-    <summary type="html">Likes: 184&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T12:30:36+09:00&lt;br/&gt;Updated: 2026-03-01T12:30:36+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 187&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T12:30:36+09:00&lt;br/&gt;Updated: 2026-03-01T12:30:36+09:00&lt;br/&gt;はじめに
 プログラミングの世界には、長年の経験から生まれた「原則」や「考え方」が数多く存在します。これらは先人たちが失敗と成功を繰り返す中で見出した、いわば 開発の知恵 です。
 この記事では、プログラミングを学び始めた方や実務に入ったばかりの方を対象に、知っておくと確実に...</summary>
   </entry>
@@ -914,6 +914,15 @@ SHAP値処理の改修
 初...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:56b2fc8bf4e7ed5ba7f3</id>
+    <title>【保存版】Claude Code完全設定ガイド2026 - Hooks/Skills/MCP/権限を全部入りで本番運用する</title>
+    <link rel="alternate" href="https://qiita.com/emi_ndk/items/56b2fc8bf4e7ed5ba7f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-02T05:49:24+09:00</updated>
+    <summary type="html">Likes: 75&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-28T16:17:53+09:00&lt;br/&gt;Updated: 2026-03-02T05:49:24+09:00&lt;br/&gt;Claude Codeの設定、なんとなくで使っていませんか？
+Hooks、Skills、CLAUDE.md、settings.json、MCP、権限管理…… 2026年のClaude Codeは機能が爆発的に増えた。でも全部を正しく設定しているエンジニアは1%もいない。
+こ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1d84037b3b9a499167de</id>
     <title>draw.io MCP + Playwright MCP で画面設計書を自動生成してみた（GitHub Copilot Agent Skills）</title>
     <link rel="alternate" href="https://qiita.com/Ymmy/items/1d84037b3b9a499167de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -925,15 +934,6 @@ SHAP値処理の改修
 画面に遷移してスクリーンショット取得（Playwright）
 スクショに項番を付けたレイアウト図を作る（draw.io）
 HTML/画像を根拠にMark...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:56b2fc8bf4e7ed5ba7f3</id>
-    <title>【保存版】Claude Code完全設定ガイド2026 - Hooks/Skills/MCP/権限を全部入りで本番運用する</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/56b2fc8bf4e7ed5ba7f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-02T05:49:24+09:00</updated>
-    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-28T16:17:53+09:00&lt;br/&gt;Updated: 2026-03-02T05:49:24+09:00&lt;br/&gt;Claude Codeの設定、なんとなくで使っていませんか？
-Hooks、Skills、CLAUDE.md、settings.json、MCP、権限管理…… 2026年のClaude Codeは機能が爆発的に増えた。でも全部を正しく設定しているエンジニアは1%もいない。
-こ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:800beee69019ca84855c</id>
@@ -1830,6 +1830,16 @@ console.log(&quot;Hello&quot;)
 と書く一方で、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d93e4fbc1c1ddda02a53</id>
+    <title>追加コストゼロでClaude Codeの個人サブスクでGitHub Actions自動化</title>
+    <link rel="alternate" href="https://qiita.com/sapeet-lin/items/d93e4fbc1c1ddda02a53?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-02T10:53:34+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sapeet-lin&quot;&gt;sapeet-lin&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T10:53:34+09:00&lt;br/&gt;Updated: 2026-03-02T10:53:34+09:00&lt;br/&gt;この記事について
+この記事は、「PRレビュー、順番待ちやめました — AI時代の&quot;交通整理&quot;を自動化した話」の続編です。
+
+前回の記事では、Claude Code を使った ローカル環境でのコードレビュー 手法を紹介しました。自作の review-pr コマンドを活用し、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:52e164dfb810e700348f</id>
     <title>高校生が作った「AIに丸投げできるスクレイピングシステム」が、Bright Dataで合法かつ最強になった話</title>
     <link rel="alternate" href="https://qiita.com/harupython/items/52e164dfb810e700348f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1915,16 +1925,6 @@ E2Eテストの自動化、進めていますか？
     <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuni-i&quot;&gt;kimuni-i&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T15:16:50+09:00&lt;br/&gt;Updated: 2026-01-20T15:53:08+09:00&lt;br/&gt;はじめに
 要件定義書の作成に悩んでいませんか？「何を書けばいいかわからない」「後工程で使いにくいと言われる」「ステークホルダーとの認識がズレる」——こうした課題は、要件定義書の構造化で大きく改善できます。
 今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d93e4fbc1c1ddda02a53</id>
-    <title>追加コストゼロでClaude Codeの個人サブスクでGitHub Actions自動化</title>
-    <link rel="alternate" href="https://qiita.com/sapeet-lin/items/d93e4fbc1c1ddda02a53?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-02T10:53:34+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sapeet-lin&quot;&gt;sapeet-lin&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T10:53:34+09:00&lt;br/&gt;Updated: 2026-03-02T10:53:34+09:00&lt;br/&gt;この記事について
-この記事は、「PRレビュー、順番待ちやめました — AI時代の&quot;交通整理&quot;を自動化した話」の続編です。
-
-前回の記事では、Claude Code を使った ローカル環境でのコードレビュー 手法を紹介しました。自作の review-pr コマンドを活用し、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fe3446e3f2a8c33efdfb</id>
