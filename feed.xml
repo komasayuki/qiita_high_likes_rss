@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-02T05:49:24+09:00</updated>
+  <updated>2026-03-02T13:52:28+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -437,6 +437,25 @@ PlanモードでClaude Codeに「Remot...</summary>
 エンジニア歴3年目に入った私もまさにその程度で、「言葉はもちろん知ってるんだけど、説明しろと言われるとなぁ」みた...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:114f53def8cb0db60f47</id>
+    <title>Claude Codeですべての日常業務を爆速化しよう！</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/114f53def8cb0db60f47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-02T13:52:28+09:00</updated>
+    <summary type="html">Likes: 125&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T08:03:49+09:00&lt;br/&gt;Updated: 2026-03-02T13:52:28+09:00&lt;br/&gt;この記事はClaudeと一緒に書きました。
+
+Claude Code、まだ「コードを書くツール」だと思ってませんか？
+私は普段AIエージェントを「作る」側の仕事をしていますが、それとは別に日常業務のありとあらゆる雑務をClaude Codeにやらせています。経費精算、...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:8a159a81a9c5531c985c</id>
+    <title>【初心者向け】プログラミング初心者が知っておきたい有名な原則・考え方 10選</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/8a159a81a9c5531c985c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-01T12:30:36+09:00</updated>
+    <summary type="html">Likes: 125&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T12:30:36+09:00&lt;br/&gt;Updated: 2026-03-01T12:30:36+09:00&lt;br/&gt;はじめに
+プログラミングの世界には、長年の経験から生まれた「原則」や「考え方」が数多く存在します。これらは先人たちが失敗と成功を繰り返す中で見出した、いわば 開発の知恵 です。
+この記事では、プログラミングを学び始めた方や実務に入ったばかりの方を対象に、知っておくと確実に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4daa244550e2a4388d26</id>
     <title>2026年、AWS LambdaはVSCodeで開発するのがナウい</title>
     <link rel="alternate" href="https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -472,15 +491,6 @@ AWS Toolkit for V...</summary>
 最近私はQiita APIを使って、ギャルがQiita記事を音声解説してくれるWebアプリを作っています。
 そうです。ギャルです。 技術記事 × ギャル
 情報量が多いのか少ないのか分からないカオスな組み合わせですが、テスト中にあまりにも感動してしまったのでと...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8a159a81a9c5531c985c</id>
-    <title>【初心者向け】プログラミング初心者が知っておきたい有名な原則・考え方 10選</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/8a159a81a9c5531c985c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-01T12:30:36+09:00</updated>
-    <summary type="html">Likes: 118&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T12:30:36+09:00&lt;br/&gt;Updated: 2026-03-01T12:30:36+09:00&lt;br/&gt;はじめに
-プログラミングの世界には、長年の経験から生まれた「原則」や「考え方」が数多く存在します。これらは先人たちが失敗と成功を繰り返す中で見出した、いわば 開発の知恵 です。
-この記事では、プログラミングを学び始めた方や実務に入ったばかりの方を対象に、知っておくと確実に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4c65053a3db0e3bb6ecb</id>
@@ -965,7 +975,7 @@ Tauri は、OS がもともと持っている WebView を利用し、Rust をバ
     <title>AI に 24 時間セキュリティ監視を任せてみた — ホームラボで SOC を構築した話</title>
     <link rel="alternate" href="https://qiita.com/takao-shimizu/items/7cb1d8b48cd442e07962?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-27T23:01:52+09:00</updated>
-    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takao-shimizu&quot;&gt;takao-shimizu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T23:01:50+09:00&lt;br/&gt;Updated: 2026-02-27T23:01:52+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takao-shimizu&quot;&gt;takao-shimizu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T23:01:50+09:00&lt;br/&gt;Updated: 2026-02-27T23:01:52+09:00&lt;br/&gt;はじめに
 前回の記事では、n8n を MCP サーバーとして OpenClaw に統合し、ワークフロー自動化の基盤を作りました。記事の最後に「今後の展望」としてこう書きました:
 
 セキュリティアラート自動トリアージ: Sysdig アラート → 情報収集 → 重大度判定 ...</summary>
@@ -2236,17 +2246,5 @@ Clawdbot（クロードボット）は、1台のPCをハブにして Discord・S
 すべてのコードを読み切れているかと言われたら正直答えはNoです。
 
 その...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:539e775adb35195feecd</id>
-    <title>反省会が止まらない人へ。アドラー心理学で“心の負荷”を減らす3つの考え</title>
-    <link rel="alternate" href="https://qiita.com/mnomoto/items/539e775adb35195feecd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-24T13:56:26+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mnomoto&quot;&gt;mnomoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T13:56:25+09:00&lt;br/&gt;Updated: 2026-02-24T13:56:26+09:00&lt;br/&gt;はじめに
-こんにちは、GxPの野本（@mnomoto）です！
-アドベントカレンダーのタイミングで、1年目・2年目は、
-受けた研修の話やら、研修の運営に回る話を書いてきました。
-気づけば3年目。任される領域や判断する場面が増える中で、最近よく思うのが、こんなことです。
-「あ...</summary>
   </entry>
 </feed>
