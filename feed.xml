@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-02T18:03:36+09:00</updated>
+  <updated>2026-03-02T21:04:55+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -139,6 +139,16 @@ ChatGPT：
 と思ったのですが、いくつか...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:114f53def8cb0db60f47</id>
+    <title>Claude Codeですべての日常業務を爆速化しよう！</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/114f53def8cb0db60f47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-02T21:04:55+09:00</updated>
+    <summary type="html">Likes: 208&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T08:03:49+09:00&lt;br/&gt;Updated: 2026-03-02T21:04:55+09:00&lt;br/&gt;この記事はClaudeと一緒に書きました。
+
+Claude Code、まだ「コードを書くツール」だと思ってませんか？
+私は普段AIエージェントを「作る」側の仕事をしていますが、それとは別に日常業務のありとあらゆる雑務をClaude Codeにやらせています。経費精算、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1c992f5e2a2d661900e2</id>
     <title>プログラミングを15年やって、一番大事なのはプログラミングじゃないと気づいた</title>
     <link rel="alternate" href="https://qiita.com/hetare001/items/1c992f5e2a2d661900e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -149,16 +159,6 @@ ChatGPT：
 自己紹介のかわりに
 私は45歳で、プログラミングを学校で習ったことは一度もありません。
 30歳のとき「この繰り返...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:114f53def8cb0db60f47</id>
-    <title>Claude Codeですべての日常業務を爆速化しよう！</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/114f53def8cb0db60f47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-02T18:03:36+09:00</updated>
-    <summary type="html">Likes: 185&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T08:03:49+09:00&lt;br/&gt;Updated: 2026-03-02T18:03:36+09:00&lt;br/&gt;この記事はClaudeと一緒に書きました。
-
-Claude Code、まだ「コードを書くツール」だと思ってませんか？
-私は普段AIエージェントを「作る」側の仕事をしていますが、それとは別に日常業務のありとあらゆる雑務をClaude Codeにやらせています。経費精算、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c0fb3bed10f49b0ed523</id>
@@ -248,6 +248,15 @@ Python でCSV駆動の自動生成パイプラインを構築
 Canva で誤字脱字を修正（Nano Ban...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8a159a81a9c5531c985c</id>
+    <title>【初心者向け】プログラミング初心者が知っておきたい有名な原則・考え方 10選</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/8a159a81a9c5531c985c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-01T12:30:36+09:00</updated>
+    <summary type="html">Likes: 159&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T12:30:36+09:00&lt;br/&gt;Updated: 2026-03-01T12:30:36+09:00&lt;br/&gt;はじめに
+プログラミングの世界には、長年の経験から生まれた「原則」や「考え方」が数多く存在します。これらは先人たちが失敗と成功を繰り返す中で見出した、いわば 開発の知恵 です。
+この記事では、プログラミングを学び始めた方や実務に入ったばかりの方を対象に、知っておくと確実に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c66354eda2dbb749207f</id>
     <title>【後編】「で、&quot;結局&quot;今どんな状況なの？」と言われたとき、あなたの報告はまだ“報告”になっていない</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/c66354eda2dbb749207f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -273,15 +282,6 @@ GMOコネクトの永田です。
 特に官公庁向け提案書は、評価項目ごとにページを作成していくと数十〜数百ページになることも珍しくありません。PowerPoint で作る場合、こんな苦痛が待っています：
 
 コピペ地獄: スライドをコピ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8a159a81a9c5531c985c</id>
-    <title>【初心者向け】プログラミング初心者が知っておきたい有名な原則・考え方 10選</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/8a159a81a9c5531c985c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-01T12:30:36+09:00</updated>
-    <summary type="html">Likes: 152&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T12:30:36+09:00&lt;br/&gt;Updated: 2026-03-01T12:30:36+09:00&lt;br/&gt;はじめに
-プログラミングの世界には、長年の経験から生まれた「原則」や「考え方」が数多く存在します。これらは先人たちが失敗と成功を繰り返す中で見出した、いわば 開発の知恵 です。
-この記事では、プログラミングを学び始めた方や実務に入ったばかりの方を対象に、知っておくと確実に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:81fabafaaa1fc0e8fade</id>
@@ -1121,6 +1121,15 @@ Claude Codeは2025年2月のリリース以来、ターミナルから直接AI�
 ここでは2025年にFinishedになったproposalについて紹介し...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:56b2fc8bf4e7ed5ba7f3</id>
+    <title>【保存版】Claude Code完全設定ガイド2026 - Hooks/Skills/MCP/権限を全部入りで本番運用する</title>
+    <link rel="alternate" href="https://qiita.com/emi_ndk/items/56b2fc8bf4e7ed5ba7f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-02T05:49:24+09:00</updated>
+    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-28T16:17:53+09:00&lt;br/&gt;Updated: 2026-03-02T05:49:24+09:00&lt;br/&gt;Claude Codeの設定、なんとなくで使っていませんか？
+Hooks、Skills、CLAUDE.md、settings.json、MCP、権限管理…… 2026年のClaude Codeは機能が爆発的に増えた。でも全部を正しく設定しているエンジニアは1%もいない。
+こ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5557800c41eb43b43f2f</id>
     <title>個人開発者として実際にアプリを運営していく中で感じた個人開発の現実を言語化したいと思います。</title>
     <link rel="alternate" href="https://qiita.com/tatsuoNakano/items/5557800c41eb43b43f2f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1135,15 +1144,6 @@ Claude Codeは2025年2月のリリース以来、ターミナルから直接AI�
     <updated>2026-01-16T12:13:32+09:00</updated>
     <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t7u-ito&quot;&gt;t7u-ito&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T10:57:45+09:00&lt;br/&gt;Updated: 2026-01-16T12:13:32+09:00&lt;br/&gt;そういう驚きを感じられるのは、プログラマーとしてかなり有望だと思いますよ。その観点は忘れないでください。
 少なくとも 初期の頃のPythonは、標準パッケージで何でもできることをコンセプトの1つとしていました。 Pythonが生まれた頃はインターネットに転がっているライブラ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:56b2fc8bf4e7ed5ba7f3</id>
-    <title>【保存版】Claude Code完全設定ガイド2026 - Hooks/Skills/MCP/権限を全部入りで本番運用する</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/56b2fc8bf4e7ed5ba7f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-02T05:49:24+09:00</updated>
-    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-28T16:17:53+09:00&lt;br/&gt;Updated: 2026-03-02T05:49:24+09:00&lt;br/&gt;Claude Codeの設定、なんとなくで使っていませんか？
-Hooks、Skills、CLAUDE.md、settings.json、MCP、権限管理…… 2026年のClaude Codeは機能が爆発的に増えた。でも全部を正しく設定しているエンジニアは1%もいない。
-こ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8b870661f80d63499336</id>
