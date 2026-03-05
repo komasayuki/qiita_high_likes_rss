@@ -11,7 +11,7 @@
     <title>Claude Codeですべての日常業務を爆速化しよう！</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/114f53def8cb0db60f47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-04T04:41:24+09:00</updated>
-    <summary type="html">Likes: 765&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T08:03:49+09:00&lt;br/&gt;Updated: 2026-03-04T04:41:24+09:00&lt;br/&gt;この記事はClaudeと一緒に書きました。
+    <summary type="html">Likes: 770&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T08:03:49+09:00&lt;br/&gt;Updated: 2026-03-04T04:41:24+09:00&lt;br/&gt;この記事はClaudeと一緒に書きました。
 
 Claude Code、まだ「コードを書くツール」だと思ってませんか？
 私は普段AIエージェントを「作る」側の仕事をしていますが、それとは別に日常業務のありとあらゆる雑務をClaude Codeにやらせています。経費精算、...</summary>
@@ -476,7 +476,7 @@ AWS Toolkit for V...</summary>
     <title>【公式】VS Codeでレトロゲーム開発が完結！Pyxel VS Code拡張機能のご紹介</title>
     <link rel="alternate" href="https://qiita.com/kitao/items/04b6ab72d957de10f9a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-02T18:12:06+09:00</updated>
-    <summary type="html">Likes: 122&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T18:12:06+09:00&lt;br/&gt;Updated: 2026-03-02T18:12:06+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 124&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T18:12:06+09:00&lt;br/&gt;Updated: 2026-03-02T18:12:06+09:00&lt;br/&gt;はじめに
 Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使いたかった方々、お待たせしました！
 この度、ローカルへのインストール不要でPyxelの実行・リソース編集・アプリ再生ができる、Pyxel VS Code拡張機能をリリース...</summary>
   </entry>
@@ -1072,6 +1072,16 @@ DNSは、URLに出てくる example.com みたいな名前を、通信に使え�
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ee68fc621f7d1c53ffe1</id>
+    <title>Claude Codeのセッション記憶喪失問題を解決し続けたら、開発が劇的に変わった話</title>
+    <link rel="alternate" href="https://qiita.com/ProgrammingForEver/items/ee68fc621f7d1c53ffe1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-05T13:10:15+09:00</updated>
+    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ProgrammingForEver&quot;&gt;ProgrammingForEver&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T11:17:53+09:00&lt;br/&gt;Updated: 2026-03-05T13:10:15+09:00&lt;br/&gt;はじめに
+Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁があります。
+「さっきまで完璧に理解してくれていたのに、新しいセッションを開いたら全部忘れている」
+プロジェクトの背景を説明し直す。コーディング規約を再度伝える。さっき試して失敗したアプローチをま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c9590934c7e72638107b</id>
     <title>async/awaitはなぜ生まれたのか ~ 非同期処理の歴史を辿る ~</title>
     <link rel="alternate" href="https://qiita.com/MoriP-K/items/c9590934c7e72638107b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1115,16 +1125,6 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
     <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa_tech_0326&quot;&gt;masa_tech_0326&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T11:16:12+09:00&lt;br/&gt;Updated: 2026-02-12T12:11:14+09:00&lt;br/&gt;はじめに
 最近技術書を毎日30分以上読むようにしているのですが、記事としてアウトプットしないと、自分の中で定着しない気がしたので、読んで学んだことを共有していきたいと思います。
 今回は『スラスラわかるネットワーク&amp;amp;TCP/IPのきほん』のChapter06 セキュリティ章...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ee68fc621f7d1c53ffe1</id>
-    <title>Claude Codeのセッション記憶喪失問題を解決し続けたら、開発が劇的に変わった話</title>
-    <link rel="alternate" href="https://qiita.com/ProgrammingForEver/items/ee68fc621f7d1c53ffe1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T13:10:15+09:00</updated>
-    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ProgrammingForEver&quot;&gt;ProgrammingForEver&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T11:17:53+09:00&lt;br/&gt;Updated: 2026-03-05T13:10:15+09:00&lt;br/&gt;はじめに
-Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁があります。
-「さっきまで完璧に理解してくれていたのに、新しいセッションを開いたら全部忘れている」
-プロジェクトの背景を説明し直す。コーディング規約を再度伝える。さっき試して失敗したアプローチをま...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:252fb5ef031127784757</id>
