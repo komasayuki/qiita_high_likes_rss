@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-06T06:31:34+09:00</updated>
+  <updated>2026-03-06T20:46:02+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -437,6 +437,17 @@ PlanモードでClaude Codeに「Remot...</summary>
 毎回Wordの...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ecbaedb3d7ffc29c9fb2</id>
+    <title>コンピュータ科学の神様が「AIに負けた」日 — Donald Knuth『Claude&apos;s Cycles』を読み解く</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/ecbaedb3d7ffc29c9fb2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-04T12:28:56+09:00</updated>
+    <summary type="html">Likes: 126&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T12:28:56+09:00&lt;br/&gt;Updated: 2026-03-04T12:28:56+09:00&lt;br/&gt;はじめに：「Shock! Shock!」
+2026年2月28日、コンピュータ科学の世界に小さな衝撃が走った。
+Donald Knuth（ドナルド・クヌース）が新しい論文を公開した。タイトルは「Claude&apos;s Cycles」。冒頭の一言はこうだ。
+
+&quot;Shock! Sho...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:be45d3115ebe74a3e312</id>
     <title>【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン</title>
     <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -489,17 +500,6 @@ AWS Toolkit for V...</summary>
 Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁があります。
 「さっきまで完璧に理解してくれていたのに、新しいセッションを開いたら全部忘れている」
 プロジェクトの背景を説明し直す。コーディング規約を再度伝える。さっき試して失敗したアプローチをま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ecbaedb3d7ffc29c9fb2</id>
-    <title>コンピュータ科学の神様が「AIに負けた」日 — Donald Knuth『Claude&apos;s Cycles』を読み解く</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/ecbaedb3d7ffc29c9fb2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-04T12:28:56+09:00</updated>
-    <summary type="html">Likes: 124&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T12:28:56+09:00&lt;br/&gt;Updated: 2026-03-04T12:28:56+09:00&lt;br/&gt;はじめに：「Shock! Shock!」
-2026年2月28日、コンピュータ科学の世界に小さな衝撃が走った。
-Donald Knuth（ドナルド・クヌース）が新しい論文を公開した。タイトルは「Claude&apos;s Cycles」。冒頭の一言はこうだ。
-
-&quot;Shock! Sho...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:38cedf1f96e981b4f11d</id>
@@ -1407,6 +1407,19 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:77d59a91ce2f2ab54209</id>
+    <title>最近のQiitaがおかしい（かもしれない）</title>
+    <link rel="alternate" href="https://qiita.com/KaiTomotake/items/77d59a91ce2f2ab54209?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-04T19:59:17+09:00</updated>
+    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KaiTomotake&quot;&gt;KaiTomotake&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T02:17:31+09:00&lt;br/&gt;Updated: 2026-03-04T19:59:17+09:00&lt;br/&gt;この記事は割と思想強めかもしれません。
+苦手だなと思ったらすぐにページを閉じることを推奨します。
+
+自己紹介
+こんにちは。KaiTomotakeと申します。
+昔、よくQiitaのお世話になっていました。
+最近はQiitaの記事を書く側になろうと思い、またQiitaに...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:85b419b26b2886f5e2d6</id>
     <title>ローカルLLMサーバーの実用的な使い道の検討</title>
     <link rel="alternate" href="https://qiita.com/bd8z/items/85b419b26b2886f5e2d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1442,19 +1455,6 @@ CLAUDE.md
 サブエー...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:77d59a91ce2f2ab54209</id>
-    <title>最近のQiitaがおかしい（かもしれない）</title>
-    <link rel="alternate" href="https://qiita.com/KaiTomotake/items/77d59a91ce2f2ab54209?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-04T19:59:17+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KaiTomotake&quot;&gt;KaiTomotake&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T02:17:31+09:00&lt;br/&gt;Updated: 2026-03-04T19:59:17+09:00&lt;br/&gt;この記事は割と思想強めかもしれません。
-苦手だなと思ったらすぐにページを閉じることを推奨します。
-
-自己紹介
-こんにちは。KaiTomotakeと申します。
-昔、よくQiitaのお世話になっていました。
-最近はQiitaの記事を書く側になろうと思い、またQiitaに...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
     <title>【Claude Code】 /insights コマンドがおもしろい</title>
     <link rel="alternate" href="https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1464,6 +1464,18 @@ CLAUDE.md
 
 Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレポートを出してくれる /insights コマンドが追加されていたようです。
 私は24時間使いまわすほどのヘビーユーザーでは...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3ab5caa68a8a33f5ec73</id>
+    <title>「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら&quot;成功したはずの出力&quot;がカオスだった話</title>
+    <link rel="alternate" href="https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-04T20:12:41+09:00</updated>
+    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/toarusyakaijin&quot;&gt;toarusyakaijin&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T20:12:41+09:00&lt;br/&gt;Updated: 2026-03-04T20:12:41+09:00&lt;br/&gt;前回「MCPなんていらない」って書いた人間が、もっと手前の問題に気づいた話
+先日、こんな記事を書きました。私が。
+
+「MCPサーバー作るのもうやめていい？」〜CLIがMCPを圧倒する本当の理由〜
+
+「MCP はトークンの無駄遣い、CLI の方が35倍効率いい！」と勢いよ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d93e4fbc1c1ddda02a53</id>
@@ -1550,18 +1562,6 @@ Pythonでプログラミングをしていると、当たり前のように使�
 範囲が広すぎて、何から勉強すればいいのか分からない
 
 統計モデリング（statistical ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3ab5caa68a8a33f5ec73</id>
-    <title>「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら&quot;成功したはずの出力&quot;がカオスだった話</title>
-    <link rel="alternate" href="https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-04T20:12:41+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/toarusyakaijin&quot;&gt;toarusyakaijin&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T20:12:41+09:00&lt;br/&gt;Updated: 2026-03-04T20:12:41+09:00&lt;br/&gt;前回「MCPなんていらない」って書いた人間が、もっと手前の問題に気づいた話
-先日、こんな記事を書きました。私が。
-
-「MCPサーバー作るのもうやめていい？」〜CLIがMCPを圧倒する本当の理由〜
-
-「MCP はトークンの無駄遣い、CLI の方が35倍効率いい！」と勢いよ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4db2182e2384df4122a2</id>
@@ -2221,6 +2221,15 @@ RFPへの提案書作成は、課題分析・ストーリー設計・図表作�
 本記事では、以下の2つの Microsoft 公式技術を組み合わせ、USB 上からの Windows VHDX ネイティブブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6743216583b66168ec12</id>
+    <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
+    <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-06T20:46:02+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-06T20:46:02+09:00&lt;br/&gt;はじめに
+2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました（参考ポスト。
+本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b2cec428c1d3c7cced5d</id>
     <title>[読書メモ]再考・ログ設計　障害に強いアプリケーションのログ出力・管理の極意（Software Design 2026年3月号）</title>
     <link rel="alternate" href="https://qiita.com/hatahatahata/items/b2cec428c1d3c7cced5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2240,15 +2249,5 @@ OCIの構成図、描くの面倒じゃないですか。
 draw.ioを開いて、アイコンを探して、ドラッグ&amp;amp;ドロップして、線を引いて、配置を整えて……。
 設計の本質ではない作業に時間を取られがちです。
 そこで、自然言語で指示するだけで .drawio ファイルが出てくるSk...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7c9c19c257be35f5dcec</id>
-    <title>Microsoft 365 Copilotに色々な方法でパワポ作成を丸投げしてみた</title>
-    <link rel="alternate" href="https://qiita.com/Oyu3m/items/7c9c19c257be35f5dcec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-07T01:53:34+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Oyu3m&quot;&gt;Oyu3m&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T01:53:34+09:00&lt;br/&gt;Updated: 2026-01-07T01:53:34+09:00&lt;br/&gt;前提
-
-Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全然違うものが出来上がります。一部酷評しているのは製品を揶揄しているのではなく、結果を面白く表現しているだけです。
-正しい利用方法やガイドについては、Mirosoft Learnや...</summary>
   </entry>
 </feed>
