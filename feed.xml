@@ -329,7 +329,7 @@ Professor Answers Coding Questions | Tech Sup...</summary>
     <title>コンピュータ科学の神様が「AIに負けた」日 — Donald Knuth『Claude&apos;s Cycles』を読み解く</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/ecbaedb3d7ffc29c9fb2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-04T12:28:56+09:00</updated>
-    <summary type="html">Likes: 140&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T12:28:56+09:00&lt;br/&gt;Updated: 2026-03-04T12:28:56+09:00&lt;br/&gt;はじめに：「Shock! Shock!」
+    <summary type="html">Likes: 141&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T12:28:56+09:00&lt;br/&gt;Updated: 2026-03-04T12:28:56+09:00&lt;br/&gt;はじめに：「Shock! Shock!」
 2026年2月28日、コンピュータ科学の世界に小さな衝撃が走った。
 Donald Knuth（ドナルド・クヌース）が新しい論文を公開した。タイトルは「Claude&apos;s Cycles」。冒頭の一言はこうだ。
 
@@ -1250,6 +1250,15 @@ AIがデザインし、コードを書いたアプリが、
 AIには、日本語で相当うるさく指...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6743216583b66168ec12</id>
+    <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
+    <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-06T23:37:58+09:00</updated>
+    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-06T23:37:58+09:00&lt;br/&gt;はじめに
+2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました（参考ポスト。
+本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:074706837c939ec05a3d</id>
     <title>アセンブリ言語を学ぶことで得られるメリット【アセンブリ言語さくっと入門】</title>
     <link rel="alternate" href="https://qiita.com/minegishirei_v2/items/074706837c939ec05a3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1405,13 +1414,16 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 最初はQiitaのContributionと記事...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:6743216583b66168ec12</id>
-    <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
-    <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-06T23:37:58+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-06T23:37:58+09:00&lt;br/&gt;はじめに
-2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました（参考ポスト。
-本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
+    <id>tag:qiita.com,2026:3ab5caa68a8a33f5ec73</id>
+    <title>「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら&quot;成功したはずの出力&quot;がカオスだった話</title>
+    <link rel="alternate" href="https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-04T20:12:41+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/toarusyakaijin&quot;&gt;toarusyakaijin&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T20:12:41+09:00&lt;br/&gt;Updated: 2026-03-04T20:12:41+09:00&lt;br/&gt;前回「MCPなんていらない」って書いた人間が、もっと手前の問題に気づいた話
+先日、こんな記事を書きました。私が。
+
+「MCPサーバー作るのもうやめていい？」〜CLIがMCPを圧倒する本当の理由〜
+
+「MCP はトークンの無駄遣い、CLI の方が35倍効率いい！」と勢いよ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
@@ -1427,18 +1439,6 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 それが ひたすら数学 です。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3ab5caa68a8a33f5ec73</id>
-    <title>「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら&quot;成功したはずの出力&quot;がカオスだった話</title>
-    <link rel="alternate" href="https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-04T20:12:41+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/toarusyakaijin&quot;&gt;toarusyakaijin&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T20:12:41+09:00&lt;br/&gt;Updated: 2026-03-04T20:12:41+09:00&lt;br/&gt;前回「MCPなんていらない」って書いた人間が、もっと手前の問題に気づいた話
-先日、こんな記事を書きました。私が。
-
-「MCPサーバー作るのもうやめていい？」〜CLIがMCPを圧倒する本当の理由〜
-
-「MCP はトークンの無駄遣い、CLI の方が35倍効率いい！」と勢いよ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:85b419b26b2886f5e2d6</id>
@@ -1728,6 +1728,15 @@ The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハ�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
+    <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
+    <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-05T14:28:59+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
+タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
+大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d7e494d8657fb0fc65fc</id>
     <title>中学生がAIと作った関数型言語「Zenith」</title>
     <link rel="alternate" href="https://qiita.com/nezumickey/items/d7e494d8657fb0fc65fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1984,15 +1993,6 @@ llama.cpp や Open WebUI を使ったロー...</summary>
 C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
 
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
-    <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
-    <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T14:28:59+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
-タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
-大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7b8a5e65873a35ea72dd</id>
