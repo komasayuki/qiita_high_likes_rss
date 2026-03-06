@@ -73,6 +73,18 @@
       "last_seen": "2026-01-17T07:13:42.430335083+00:00"
     },
     {
+      "key": "041340a0e241f6c44eb1",
+      "item_id": "041340a0e241f6c44eb1",
+      "title": "【初参加向け】JAWS DAYS 2026 の回り方 〜当日の動線・セッション選び・交流のコツ〜",
+      "link": "https://qiita.com/yosimitu/items/041340a0e241f6c44eb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nまもなく JAWS DAYS 2026 が開催されます。たくさんの人が来場され、初めて参加される方は「どう動けばいいのか」「何から見ればいいのか」が不安になりがちです。\nこの記事では 「全部を追い切れない」「コミュニティイベントの作法がわからない」 を前提に、...",
+      "published": "2026-03-05T02:11:08+09:00",
+      "updated": "2026-03-05T15:19:01+09:00",
+      "author_name": "yosimitu",
+      "likes_count": 14,
+      "last_seen": "2026-03-06T08:20:07.717143777+00:00"
+    },
+    {
       "key": "042e1fdb7522289d362f",
       "item_id": "042e1fdb7522289d362f",
       "title": "サイバー攻撃の高度化と、企業に求められるセキュリティ意識",
@@ -417,8 +429,20 @@
       "published": "2026-03-04T10:18:28+09:00",
       "updated": "2026-03-04T10:18:28+09:00",
       "author_name": "yamapiiii",
-      "likes_count": 38,
-      "last_seen": "2026-03-06T07:25:57.424482675+00:00"
+      "likes_count": 39,
+      "last_seen": "2026-03-06T08:20:07.717143777+00:00"
+    },
+    {
+      "key": "0ff827a1c2deef68ba9a",
+      "item_id": "0ff827a1c2deef68ba9a",
+      "title": "AIエージェントだけでスクラムを回してみた",
+      "link": "https://qiita.com/shyamagu/items/0ff827a1c2deef68ba9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "この記事のまとめ: GitHub Copilotのカスタムエージェント機能を使い、5体のAIにスクラムチームを組ませて実際にアプリを開発させた実験の全容と、やってみて感じた可能性・課題をまとめています。\n\nAIの賢さとツールが洗練されてきました\nOpus4.6やGPT-...",
+      "published": "2026-03-06T08:26:47+09:00",
+      "updated": "2026-03-06T16:58:46+09:00",
+      "author_name": "shyamagu",
+      "likes_count": 10,
+      "last_seen": "2026-03-06T08:20:07.717143777+00:00"
     },
     {
       "key": "10211c4fa7248c7c9740",
@@ -1509,8 +1533,8 @@
       "published": "2026-03-04T20:12:41+09:00",
       "updated": "2026-03-04T20:12:41+09:00",
       "author_name": "toarusyakaijin",
-      "likes_count": 39,
-      "last_seen": "2026-03-06T07:25:57.424482675+00:00"
+      "likes_count": 41,
+      "last_seen": "2026-03-06T08:20:07.717143777+00:00"
     },
     {
       "key": "3ae7541a112833cad737",
@@ -1641,8 +1665,8 @@
       "published": "2026-03-05T13:15:52+09:00",
       "updated": "2026-03-05T13:15:52+09:00",
       "author_name": "hitomin_poke",
-      "likes_count": 53,
-      "last_seen": "2026-03-06T07:25:57.424482675+00:00"
+      "likes_count": 54,
+      "last_seen": "2026-03-06T08:20:07.717143777+00:00"
     },
     {
       "key": "3f5762ce0469740e5502",
@@ -1690,7 +1714,7 @@
       "updated": "2026-03-04T08:40:40+09:00",
       "author_name": "okikusan-public",
       "likes_count": 18,
-      "last_seen": "2026-03-06T07:25:57.424482675+00:00"
+      "last_seen": "2026-03-06T08:20:07.717143777+00:00"
     },
     {
       "key": "41521d099e374ecc731f",
@@ -2673,8 +2697,8 @@
       "published": "2026-03-05T11:31:17+09:00",
       "updated": "2026-03-05T17:43:17+09:00",
       "author_name": "ShotaFukuyama",
-      "likes_count": 103,
-      "last_seen": "2026-03-06T07:25:57.424482675+00:00"
+      "likes_count": 104,
+      "last_seen": "2026-03-06T08:20:07.717143777+00:00"
     },
     {
       "key": "6303aa289c9734974f69",
@@ -2773,6 +2797,18 @@
       "last_seen": "2026-01-22T07:16:12.526068586+00:00"
     },
     {
+      "key": "6743216583b66168ec12",
+      "item_id": "6743216583b66168ec12",
+      "title": "Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた",
+      "link": "https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました（参考ポスト。\n本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...",
+      "published": "2026-03-05T23:54:19+09:00",
+      "updated": "2026-03-06T14:51:08+09:00",
+      "author_name": "NF0000",
+      "likes_count": 14,
+      "last_seen": "2026-03-06T08:20:07.717143777+00:00"
+    },
+    {
       "key": "67f7fc1c79173c9a6c44",
       "item_id": "67f7fc1c79173c9a6c44",
       "title": "Qiitaのいろいろランキング2025",
@@ -2842,7 +2878,7 @@
       "updated": "2026-03-03T20:15:17+09:00",
       "author_name": "hiroki2712",
       "likes_count": 30,
-      "last_seen": "2026-03-06T07:25:57.424482675+00:00"
+      "last_seen": "2026-03-06T08:20:07.717143777+00:00"
     },
     {
       "key": "6b8fa1d65f992dc2fc1b",
@@ -3081,8 +3117,8 @@
       "published": "2026-03-04T02:17:31+09:00",
       "updated": "2026-03-04T19:59:17+09:00",
       "author_name": "KaiTomotake",
-      "likes_count": 33,
-      "last_seen": "2026-03-06T07:25:57.424482675+00:00"
+      "likes_count": 38,
+      "last_seen": "2026-03-06T08:20:07.717143777+00:00"
     },
     {
       "key": "77e9e022860b57e4bd4d",
@@ -3550,7 +3586,7 @@
       "updated": "2026-03-04T00:44:45+09:00",
       "author_name": "ringo0321",
       "likes_count": 14,
-      "last_seen": "2026-03-06T07:25:57.424482675+00:00"
+      "last_seen": "2026-03-06T08:20:07.717143777+00:00"
     },
     {
       "key": "89b58fe5a399cd284098",
@@ -3958,7 +3994,7 @@
       "updated": "2026-03-04T15:59:12+09:00",
       "author_name": "nobu34",
       "likes_count": 15,
-      "last_seen": "2026-03-06T07:25:57.424482675+00:00"
+      "last_seen": "2026-03-06T08:20:07.717143777+00:00"
     },
     {
       "key": "97b14db690c99ecfbbb1",
@@ -4813,6 +4849,18 @@
       "last_seen": "2026-01-08T19:14:08.391635573+00:00"
     },
     {
+      "key": "bb3306a3c8f33a438cd1",
+      "item_id": "bb3306a3c8f33a438cd1",
+      "title": "【Rails 7】cookies. の後に繋げるメソッド完全ガイド（signed / encrypted / permanent の使い分け）",
+      "link": "https://qiita.com/shibata1111/items/bb3306a3c8f33a438cd1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nRailsでログイン機能などを実装していると、cookies.signed[:user_id] や cookies.permanent といった書き方がよく登場します。\n「なんとなく使っているけれど、それぞれの違いが曖昧……」という方向けに、この記事では coo...",
+      "published": "2026-03-06T15:29:19+09:00",
+      "updated": "2026-03-06T15:33:17+09:00",
+      "author_name": "shibata1111",
+      "likes_count": 11,
+      "last_seen": "2026-03-06T08:20:07.717143777+00:00"
+    },
+    {
       "key": "bb4f83d11f6771febb98",
       "item_id": "bb4f83d11f6771febb98",
       "title": "どの中間CAを選ぶべきかわからなかった話",
@@ -5665,6 +5713,18 @@
       "last_seen": "2026-01-27T07:17:23.969433458+00:00"
     },
     {
+      "key": "d6a7f12c2a472bef58bf",
+      "item_id": "d6a7f12c2a472bef58bf",
+      "title": "結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん",
+      "link": "https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "【図解】RPGで攻略するオブジェクト指向の正体\nタイトルにもある通り今回はオブジェクト指向について取り上げようと思います。\n大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...",
+      "published": "2026-03-05T14:28:10+09:00",
+      "updated": "2026-03-05T14:28:59+09:00",
+      "author_name": "renly",
+      "likes_count": 17,
+      "last_seen": "2026-03-06T08:20:07.717143777+00:00"
+    },
+    {
       "key": "d6c9735ce0f7426a4fc6",
       "item_id": "d6c9735ce0f7426a4fc6",
       "title": "【眺めるメモ帳】情報を浴びれるwebアプリを開発しました。",
@@ -5913,8 +5973,8 @@
       "published": "2026-03-05T17:14:40+09:00",
       "updated": "2026-03-05T17:40:57+09:00",
       "author_name": "NXD139",
-      "likes_count": 12,
-      "last_seen": "2026-03-06T07:25:57.424482675+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-03-06T08:20:07.717143777+00:00"
     },
     {
       "key": "e210531ae5800f23f63c",
@@ -6178,7 +6238,7 @@
       "updated": "2026-03-05T16:34:53+09:00",
       "author_name": "YutoSekine",
       "likes_count": 10,
-      "last_seen": "2026-03-06T07:25:57.424482675+00:00"
+      "last_seen": "2026-03-06T08:20:07.717143777+00:00"
     },
     {
       "key": "eaba05326aa795d9d7ea",
@@ -6273,8 +6333,8 @@
       "published": "2026-03-04T12:28:56+09:00",
       "updated": "2026-03-04T12:28:56+09:00",
       "author_name": "nogataka",
-      "likes_count": 107,
-      "last_seen": "2026-03-06T07:25:57.424482675+00:00"
+      "likes_count": 111,
+      "last_seen": "2026-03-06T08:20:07.717143777+00:00"
     },
     {
       "key": "ecc075eed19afedbc8d3",
