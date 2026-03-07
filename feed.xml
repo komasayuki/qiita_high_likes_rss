@@ -523,6 +523,17 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 情報量が多いのか少ないのか分からないカオスな組み合わせですが、テスト中にあまりにも感動してしまったのでと...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:62519da65ca2dc391f0b</id>
+    <title>リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法</title>
+    <link rel="alternate" href="https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-05T17:43:17+09:00</updated>
+    <summary type="html">Likes: 118&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ShotaFukuyama&quot;&gt;ShotaFukuyama&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T11:31:17+09:00&lt;br/&gt;Updated: 2026-03-05T17:43:17+09:00&lt;br/&gt;はじめに
+「前は動いてたのに、なぜか動かなくなった…」
+開発を進めていると、こんな経験をしたことがある方も多いのではないでしょうか。
+新機能の追加やバグ修正によって、既存の機能が壊れてしまう。これを防ぐために行うのが リグレッションテスト(回帰テスト) です。
+本記事で...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4c65053a3db0e3bb6ecb</id>
     <title>俺の設計が甘かったばかりにAIが精神を崩壊させてしまった件</title>
     <link rel="alternate" href="https://qiita.com/Blacpans/items/4c65053a3db0e3bb6ecb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -562,17 +573,6 @@ PRUMについて気になった方は、
 ▶ コーポレートサイト
 
 新人エンジニアは、なぜ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:62519da65ca2dc391f0b</id>
-    <title>リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法</title>
-    <link rel="alternate" href="https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T17:43:17+09:00</updated>
-    <summary type="html">Likes: 116&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ShotaFukuyama&quot;&gt;ShotaFukuyama&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T11:31:17+09:00&lt;br/&gt;Updated: 2026-03-05T17:43:17+09:00&lt;br/&gt;はじめに
-「前は動いてたのに、なぜか動かなくなった…」
-開発を進めていると、こんな経験をしたことがある方も多いのではないでしょうか。
-新機能の追加やバグ修正によって、既存の機能が壊れてしまう。これを防ぐために行うのが リグレッションテスト(回帰テスト) です。
-本記事で...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0d772d4fdd8a05f5cc8d</id>
@@ -689,6 +689,15 @@ PRUMについて気になった方は、
 ワークフロ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6743216583b66168ec12</id>
+    <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
+    <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-07T11:51:17+09:00</updated>
+    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-07T11:51:17+09:00&lt;br/&gt;はじめに
+2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました(参考ポスト)
+本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1da25e18c1bcb68880a3</id>
     <title>JavaScriptの async/await はどこから来たのか？ C#、F#、Haskell……源流を辿ったら1958年にたどり着いた件</title>
     <link rel="alternate" href="https://qiita.com/Maki-Daisuke/items/1da25e18c1bcb68880a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -754,15 +763,6 @@ A...</summary>
     <updated>2026-01-13T22:59:41+09:00</updated>
     <summary type="html">Likes: 92&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
 またなんか無限レンダリングされるとかなんか2回...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6743216583b66168ec12</id>
-    <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
-    <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-07T11:51:17+09:00</updated>
-    <summary type="html">Likes: 91&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-07T11:51:17+09:00&lt;br/&gt;はじめに
-2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました(参考ポスト)
-本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:56b2fc8bf4e7ed5ba7f3</id>
@@ -976,6 +976,15 @@ SHAP値処理の改修
 HTML/画像を根拠にMark...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
+    <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
+    <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-05T14:28:59+09:00</updated>
+    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
+タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
+大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:392934f79e943e8b9228</id>
     <title>Claude Codeベストプラクティス -- 成果を安定させる7つの鉄則</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/392934f79e943e8b9228?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1080,15 +1089,6 @@ Tauri は、OS がもともと持っている WebView を利用し、Rust をバ
 リマインダーも、ToDo管理も、コーチングサービスも続かない。
 理由はシンプルで、守らなくても痛くないから。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
-    <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
-    <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T14:28:59+09:00</updated>
-    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
-タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
-大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:382920eb22ed3e645257</id>
