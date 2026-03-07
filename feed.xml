@@ -288,7 +288,7 @@ GMOコネクトの永田です。
     <title>コンピュータ科学の神様が「AIに負けた」日 — Donald Knuth『Claude&apos;s Cycles』を読み解く</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/ecbaedb3d7ffc29c9fb2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-04T12:28:56+09:00</updated>
-    <summary type="html">Likes: 152&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T12:28:56+09:00&lt;br/&gt;Updated: 2026-03-04T12:28:56+09:00&lt;br/&gt;はじめに：「Shock! Shock!」
+    <summary type="html">Likes: 155&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T12:28:56+09:00&lt;br/&gt;Updated: 2026-03-04T12:28:56+09:00&lt;br/&gt;はじめに：「Shock! Shock!」
 2026年2月28日、コンピュータ科学の世界に小さな衝撃が走った。
 Donald Knuth（ドナルド・クヌース）が新しい論文を公開した。タイトルは「Claude&apos;s Cycles」。冒頭の一言はこうだ。
 
@@ -564,6 +564,17 @@ PRUMについて気になった方は、
 新人エンジニアは、なぜ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:62519da65ca2dc391f0b</id>
+    <title>リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法</title>
+    <link rel="alternate" href="https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-05T17:43:17+09:00</updated>
+    <summary type="html">Likes: 115&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ShotaFukuyama&quot;&gt;ShotaFukuyama&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T11:31:17+09:00&lt;br/&gt;Updated: 2026-03-05T17:43:17+09:00&lt;br/&gt;はじめに
+「前は動いてたのに、なぜか動かなくなった…」
+開発を進めていると、こんな経験をしたことがある方も多いのではないでしょうか。
+新機能の追加やバグ修正によって、既存の機能が壊れてしまう。これを防ぐために行うのが リグレッションテスト(回帰テスト) です。
+本記事で...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0d772d4fdd8a05f5cc8d</id>
     <title>【前編】新人エンジニアは、なぜ「止まってしまう」のか。─教える側の“死角”</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/0d772d4fdd8a05f5cc8d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -577,17 +588,6 @@ PRUMについて気になった方は、
 ▶ コーポレートサイト
 
 新人エンジニアは、なぜ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:62519da65ca2dc391f0b</id>
-    <title>リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法</title>
-    <link rel="alternate" href="https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T17:43:17+09:00</updated>
-    <summary type="html">Likes: 113&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ShotaFukuyama&quot;&gt;ShotaFukuyama&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T11:31:17+09:00&lt;br/&gt;Updated: 2026-03-05T17:43:17+09:00&lt;br/&gt;はじめに
-「前は動いてたのに、なぜか動かなくなった…」
-開発を進めていると、こんな経験をしたことがある方も多いのではないでしょうか。
-新機能の追加やバグ修正によって、既存の機能が壊れてしまう。これを防ぐために行うのが リグレッションテスト(回帰テスト) です。
-本記事で...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5bd0096ca33d5ea41acb</id>
@@ -868,6 +868,15 @@ Certify
 ※マクロなし／明日から使えるもの中心...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6743216583b66168ec12</id>
+    <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
+    <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-07T11:51:17+09:00</updated>
+    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-07T11:51:17+09:00&lt;br/&gt;はじめに
+2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました（参考ポスト。
+本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ce2327852cef06f5f2ab</id>
     <title>本当に使える！海外Tech動画爆速キャッチアップ術まとめ</title>
     <link rel="alternate" href="https://qiita.com/Koder_dev/items/ce2327852cef06f5f2ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -975,15 +984,6 @@ SHAP値処理の改修
 画面に遷移してスクリーンショット取得（Playwright）
 スクショに項番を付けたレイアウト図を作る（draw.io）
 HTML/画像を根拠にMark...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6743216583b66168ec12</id>
-    <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
-    <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-07T11:51:17+09:00</updated>
-    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-07T11:51:17+09:00&lt;br/&gt;はじめに
-2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました（参考ポスト。
-本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:392934f79e943e8b9228</id>
@@ -1217,6 +1217,15 @@ Claude Codeは2025年2月のリリース以来、ターミナルから直接AI�
 少なくとも 初期の頃のPythonは、標準パッケージで何でもできることをコンセプトの1つとしていました。 Pythonが生まれた頃はインターネットに転がっているライブラ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
+    <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
+    <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-05T14:28:59+09:00</updated>
+    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
+タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
+大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8b870661f80d63499336</id>
     <title>Claude Code 初学者ロードマップ</title>
     <link rel="alternate" href="https://qiita.com/marugame/items/8b870661f80d63499336?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1259,6 +1268,18 @@ AIがデザインし、コードを書いたアプリが、
 AIには、日本語で相当うるさく指...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3ab5caa68a8a33f5ec73</id>
+    <title>「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら&quot;成功したはずの出力&quot;がカオスだった話</title>
+    <link rel="alternate" href="https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-04T20:12:41+09:00</updated>
+    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/toarusyakaijin&quot;&gt;toarusyakaijin&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T20:12:41+09:00&lt;br/&gt;Updated: 2026-03-04T20:12:41+09:00&lt;br/&gt;前回「MCPなんていらない」って書いた人間が、もっと手前の問題に気づいた話
+先日、こんな記事を書きました。私が。
+
+「MCPサーバー作るのもうやめていい？」〜CLIがMCPを圧倒する本当の理由〜
+
+「MCP はトークンの無駄遣い、CLI の方が35倍効率いい！」と勢いよ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:074706837c939ec05a3d</id>
     <title>アセンブリ言語を学ぶことで得られるメリット【アセンブリ言語さくっと入門】</title>
     <link rel="alternate" href="https://qiita.com/minegishirei_v2/items/074706837c939ec05a3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1274,6 +1295,21 @@ CPUの動作に詳しくなる
 C言語はアセンブラに翻訳されます。
 
 ア...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3f14e17314941930ec5c</id>
+    <title>【前編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/3f14e17314941930ec5c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-05T13:15:52+09:00</updated>
+    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T13:15:52+09:00&lt;br/&gt;Updated: 2026-03-05T13:15:52+09:00&lt;br/&gt;はじめまして。
+株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントを整理して発信しています。
+PRUMについて気になった方は、
+コーポレートサイトもご覧ください。
+▶ コーポレートサイト
+
+「また指摘されてしまった...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
@@ -1313,42 +1349,6 @@ https://160.16.12...</summary>
     <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T11:35:04+09:00&lt;br/&gt;Updated: 2026-01-07T11:40:06+09:00&lt;br/&gt;インターネットが開発されてからWebサイトができるまで
 インターネットの始まりは1969年。
 米国防総省のARPA（高等研究計画局）という機関が4台のコンピュータを繋いだのがはじまりです。3つの大学と、スタンフォード研究所（SRI）などの研究機関で繋がれており、ARPAN...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
-    <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
-    <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T14:28:59+09:00</updated>
-    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
-タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
-大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3f14e17314941930ec5c</id>
-    <title>【前編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/3f14e17314941930ec5c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T13:15:52+09:00</updated>
-    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T13:15:52+09:00&lt;br/&gt;Updated: 2026-03-05T13:15:52+09:00&lt;br/&gt;はじめまして。
-株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で
-つまずきやすいポイントを整理して発信しています。
-PRUMについて気になった方は、
-コーポレートサイトもご覧ください。
-▶ コーポレートサイト
-
-「また指摘されてしまった...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3ab5caa68a8a33f5ec73</id>
-    <title>「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら&quot;成功したはずの出力&quot;がカオスだった話</title>
-    <link rel="alternate" href="https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-04T20:12:41+09:00</updated>
-    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/toarusyakaijin&quot;&gt;toarusyakaijin&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T20:12:41+09:00&lt;br/&gt;Updated: 2026-03-04T20:12:41+09:00&lt;br/&gt;前回「MCPなんていらない」って書いた人間が、もっと手前の問題に気づいた話
-先日、こんな記事を書きました。私が。
-
-「MCPサーバー作るのもうやめていい？」〜CLIがMCPを圧倒する本当の理由〜
-
-「MCP はトークンの無駄遣い、CLI の方が35倍効率いい！」と勢いよ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3ae7541a112833cad737</id>
