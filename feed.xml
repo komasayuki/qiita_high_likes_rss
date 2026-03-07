@@ -568,7 +568,7 @@ PRUMについて気になった方は、
     <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
     <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-07T11:51:17+09:00</updated>
-    <summary type="html">Likes: 114&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-07T11:51:17+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 115&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-07T11:51:17+09:00&lt;br/&gt;はじめに
 2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました(参考ポスト)
 本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
   </entry>
@@ -870,7 +870,7 @@ Certify
     <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
     <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-05T14:28:59+09:00</updated>
-    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
+    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
 タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
 大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
   </entry>
@@ -1719,6 +1719,17 @@ The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハ�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:262e0645fbfb024ecd4b</id>
+    <title>できるだけ無料でサービスを運用するための個人開発オススメデプロイ先</title>
+    <link rel="alternate" href="https://qiita.com/Hiru-ge/items/262e0645fbfb024ecd4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-07T22:48:41+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Hiru-ge&quot;&gt;Hiru-ge&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T15:09:40+09:00&lt;br/&gt;Updated: 2026-03-07T22:48:41+09:00&lt;br/&gt;はじめに
+こんにちは、ひるげです。
+個人開発でWebアプリを作ったとき、「どこにデプロイすればいいんだろう？」と悩んだ経験、ありませんか？
+AWSやGCPは高機能だけどコストが怖い。かといって無料のサービスは制限が気になる...
+この記事では、個人開発で使えるおすすめのデ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d7e494d8657fb0fc65fc</id>
     <title>中学生がAIと作った関数型言語「Zenith」</title>
     <link rel="alternate" href="https://qiita.com/nezumickey/items/d7e494d8657fb0fc65fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2001,17 +2012,6 @@ JavaScript
 console.log(&quot;Hello&quot;)
 
 と書く一方で、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:262e0645fbfb024ecd4b</id>
-    <title>できるだけ無料でサービスを運用するための個人開発オススメデプロイ先</title>
-    <link rel="alternate" href="https://qiita.com/Hiru-ge/items/262e0645fbfb024ecd4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-07T22:48:41+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Hiru-ge&quot;&gt;Hiru-ge&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T15:09:40+09:00&lt;br/&gt;Updated: 2026-03-07T22:48:41+09:00&lt;br/&gt;はじめに
-こんにちは、ひるげです。
-個人開発でWebアプリを作ったとき、「どこにデプロイすればいいんだろう？」と悩んだ経験、ありませんか？
-AWSやGCPは高機能だけどコストが怖い。かといって無料のサービスは制限が気になる...
-この記事では、個人開発で使えるおすすめのデ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:52e164dfb810e700348f</id>
