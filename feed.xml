@@ -527,7 +527,7 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
     <title>リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法</title>
     <link rel="alternate" href="https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-05T17:43:17+09:00</updated>
-    <summary type="html">Likes: 118&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ShotaFukuyama&quot;&gt;ShotaFukuyama&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T11:31:17+09:00&lt;br/&gt;Updated: 2026-03-05T17:43:17+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 119&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ShotaFukuyama&quot;&gt;ShotaFukuyama&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T11:31:17+09:00&lt;br/&gt;Updated: 2026-03-05T17:43:17+09:00&lt;br/&gt;はじめに
 「前は動いてたのに、なぜか動かなくなった…」
 開発を進めていると、こんな経験をしたことがある方も多いのではないでしょうか。
 新機能の追加やバグ修正によって、既存の機能が壊れてしまう。これを防ぐために行うのが リグレッションテスト(回帰テスト) です。
@@ -668,7 +668,7 @@ PRUMについて気になった方は...</summary>
     <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
     <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-07T11:51:17+09:00</updated>
-    <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-07T11:51:17+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 101&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-07T11:51:17+09:00&lt;br/&gt;はじめに
 2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました(参考ポスト)
 本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
   </entry>
@@ -905,6 +905,15 @@ docker-compose.yml に数行書くだけで S3 互換のストレージが立ち
 近年、敵対的模倣学習 (Generative Adversarial Imitation Learning; GAIL) や、それを応用した RLHF (Reinforcement Learning from Hu...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
+    <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
+    <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-05T14:28:59+09:00</updated>
+    <summary type="html">Likes: 76&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
+タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
+大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5820d195510861b5be71</id>
     <title>Boris Cherny氏がシェアした、CLAUDE.mdを理解する</title>
     <link rel="alternate" href="https://qiita.com/uno_ha07/items/5820d195510861b5be71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -974,15 +983,6 @@ SHAP値処理の改修
 画面に遷移してスクリーンショット取得（Playwright）
 スクショに項番を付けたレイアウト図を作る（draw.io）
 HTML/画像を根拠にMark...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
-    <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
-    <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T14:28:59+09:00</updated>
-    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
-タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
-大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:392934f79e943e8b9228</id>
@@ -1157,6 +1157,18 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
 今回は『スラスラわかるネットワーク&amp;amp;TCP/IPのきほん』のChapter06 セキュリティ章...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3ab5caa68a8a33f5ec73</id>
+    <title>「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら&quot;成功したはずの出力&quot;がカオスだった話</title>
+    <link rel="alternate" href="https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-04T20:12:41+09:00</updated>
+    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/toarusyakaijin&quot;&gt;toarusyakaijin&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T20:12:41+09:00&lt;br/&gt;Updated: 2026-03-04T20:12:41+09:00&lt;br/&gt;前回「MCPなんていらない」って書いた人間が、もっと手前の問題に気づいた話
+先日、こんな記事を書きました。私が。
+
+「MCPサーバー作るのもうやめていい？」〜CLIがMCPを圧倒する本当の理由〜
+
+「MCP はトークンの無駄遣い、CLI の方が35倍効率いい！」と勢いよ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:252fb5ef031127784757</id>
     <title>Claude Code作者が全公開！9種のカスタマイズ手段と設定の全貌</title>
     <link rel="alternate" href="https://qiita.com/dai_chi/items/252fb5ef031127784757?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1185,18 +1197,6 @@ Claude Codeは2025年2月のリリース以来、ターミナルから直接AI�
     <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:13:46+09:00&lt;br/&gt;Updated: 2026-01-26T21:13:46+09:00&lt;br/&gt;JavaScriptの仕様は、TC39というところで決められています。
 ブラウザベンダや関係者が定期的に会合を行い、様々な新機能について話し合って今後のJavaScriptの方向性を決めていきます。
 ここでは2025年にFinishedになったproposalについて紹介し...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3ab5caa68a8a33f5ec73</id>
-    <title>「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら&quot;成功したはずの出力&quot;がカオスだった話</title>
-    <link rel="alternate" href="https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-04T20:12:41+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/toarusyakaijin&quot;&gt;toarusyakaijin&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T20:12:41+09:00&lt;br/&gt;Updated: 2026-03-04T20:12:41+09:00&lt;br/&gt;前回「MCPなんていらない」って書いた人間が、もっと手前の問題に気づいた話
-先日、こんな記事を書きました。私が。
-
-「MCPサーバー作るのもうやめていい？」〜CLIがMCPを圧倒する本当の理由〜
-
-「MCP はトークンの無駄遣い、CLI の方が35倍効率いい！」と勢いよ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5557800c41eb43b43f2f</id>
@@ -2139,6 +2139,16 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0ff827a1c2deef68ba9a</id>
+    <title>AIエージェントだけでスクラムを回してみた</title>
+    <link rel="alternate" href="https://qiita.com/shyamagu/items/0ff827a1c2deef68ba9a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-06T16:58:46+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shyamagu&quot;&gt;shyamagu&lt;/a&gt;&lt;br/&gt;Published: 2026-03-06T08:26:47+09:00&lt;br/&gt;Updated: 2026-03-06T16:58:46+09:00&lt;br/&gt;この記事のまとめ: GitHub Copilotのカスタムエージェント機能を使い、5体のAIにスクラムチームを組ませて実際にアプリを開発させた実験の全容と、やってみて感じた可能性・課題をまとめています。
+
+AIの賢さとツールが洗練されてきました
+Opus4.6やGPT-...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6b7a4c6125401327fe80</id>
     <title>Gemini CLIで、散らかったGoogle Driveを一瞬で整理してみた。</title>
     <link rel="alternate" href="https://qiita.com/hiroki2712/items/6b7a4c6125401327fe80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2235,16 +2245,5 @@ draw.ioを開いて、アイコンを探して、ドラッグ&amp;amp;ドロッ�
 
 Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全然違うものが出来上がります。一部酷評しているのは製品を揶揄しているのではなく、結果を面白く表現しているだけです。
 正しい利用方法やガイドについては、Mirosoft Learnや...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bafb7b921bf8d16187ba</id>
-    <title>設計はAIと後で直せ。Claude Codeと駆け抜けた「Vibe Coding」16時間のOSS開発記</title>
-    <link rel="alternate" href="https://qiita.com/take-yoda/items/bafb7b921bf8d16187ba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-05T18:54:12+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T18:54:12+09:00&lt;br/&gt;Updated: 2026-01-05T18:54:12+09:00&lt;br/&gt;設計なんて、後でAIと全部書き直せばいい
-株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。
-本記事は、Rust初学者の私がClaude Codeと共に、合計16時間でOSSツール uv-sbom を作り上げた全記録です。
-
-...</summary>
   </entry>
 </feed>
