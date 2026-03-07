@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-06T23:37:58+09:00</updated>
+  <updated>2026-03-07T11:51:17+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -296,7 +296,7 @@ GMOコネクトの永田です。
     <title>コンピュータ科学の神様が「AIに負けた」日 — Donald Knuth『Claude&apos;s Cycles』を読み解く</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/ecbaedb3d7ffc29c9fb2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-04T12:28:56+09:00</updated>
-    <summary type="html">Likes: 150&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T12:28:56+09:00&lt;br/&gt;Updated: 2026-03-04T12:28:56+09:00&lt;br/&gt;はじめに：「Shock! Shock!」
+    <summary type="html">Likes: 151&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T12:28:56+09:00&lt;br/&gt;Updated: 2026-03-04T12:28:56+09:00&lt;br/&gt;はじめに：「Shock! Shock!」
 2026年2月28日、コンピュータ科学の世界に小さな衝撃が走った。
 Donald Knuth（ドナルド・クヌース）が新しい論文を公開した。タイトルは「Claude&apos;s Cycles」。冒頭の一言はこうだ。
 
@@ -977,6 +977,15 @@ SHAP値処理の改修
 HTML/画像を根拠にMark...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6743216583b66168ec12</id>
+    <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
+    <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-07T11:51:17+09:00</updated>
+    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-07T11:51:17+09:00&lt;br/&gt;はじめに
+2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました（参考ポスト。
+本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:392934f79e943e8b9228</id>
     <title>Claude Codeベストプラクティス -- 成果を安定させる7つの鉄則</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/392934f79e943e8b9228?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1050,15 +1059,6 @@ Tauri は、OS がもともと持っている WebView を利用し、Rust をバ
 セキュリティリスク＝影響度☓発生確率
 長く使い古されたフレームワークである。
 そして...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6743216583b66168ec12</id>
-    <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
-    <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-06T23:37:58+09:00</updated>
-    <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-06T23:37:58+09:00&lt;br/&gt;はじめに
-2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました（参考ポスト。
-本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bbc8671d4295139c6e6d</id>
@@ -1346,6 +1346,27 @@ PRUMについて気になった方は、
 この章では、論...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
+    <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
+    <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-05T14:28:59+09:00</updated>
+    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
+タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
+大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3ab5caa68a8a33f5ec73</id>
+    <title>「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら&quot;成功したはずの出力&quot;がカオスだった話</title>
+    <link rel="alternate" href="https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-04T20:12:41+09:00</updated>
+    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/toarusyakaijin&quot;&gt;toarusyakaijin&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T20:12:41+09:00&lt;br/&gt;Updated: 2026-03-04T20:12:41+09:00&lt;br/&gt;前回「MCPなんていらない」って書いた人間が、もっと手前の問題に気づいた話
+先日、こんな記事を書きました。私が。
+
+「MCPサーバー作るのもうやめていい？」〜CLIがMCPを圧倒する本当の理由〜
+
+「MCP はトークンの無駄遣い、CLI の方が35倍効率いい！」と勢いよ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4eff08ff2413c23b95ec</id>
     <title>Claude CodeのAgent Teamsをお試し様子見①「人間チーム開発の問題がなんか再現された」話</title>
     <link rel="alternate" href="https://qiita.com/WdknWdkn/items/4eff08ff2413c23b95ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1377,18 +1398,6 @@ PRUMについて気になった方は、
 私もそう思っていました。
 
 コーディングエージェントとの出会い...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3ab5caa68a8a33f5ec73</id>
-    <title>「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら&quot;成功したはずの出力&quot;がカオスだった話</title>
-    <link rel="alternate" href="https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-04T20:12:41+09:00</updated>
-    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/toarusyakaijin&quot;&gt;toarusyakaijin&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T20:12:41+09:00&lt;br/&gt;Updated: 2026-03-04T20:12:41+09:00&lt;br/&gt;前回「MCPなんていらない」って書いた人間が、もっと手前の問題に気づいた話
-先日、こんな記事を書きました。私が。
-
-「MCPサーバー作るのもうやめていい？」〜CLIがMCPを圧倒する本当の理由〜
-
-「MCP はトークンの無駄遣い、CLI の方が35倍効率いい！」と勢いよ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:918db5c912f436a62e52</id>
@@ -1447,15 +1456,6 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
     <updated>2026-01-18T23:59:50+09:00</updated>
     <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/bd8z&quot;&gt;bd8z&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T12:50:10+09:00&lt;br/&gt;Updated: 2026-01-18T23:59:50+09:00&lt;br/&gt;はじめに
 Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、いわゆるエージェントタスクにおける計算資源としての使い方が向いているのではという気がしてきた。イメージはAWS LambdaのようなFunction as a serviceのようなワンショットな...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
-    <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
-    <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T14:28:59+09:00</updated>
-    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
-タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
-大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b31603922b791c37cc37</id>
