@@ -292,6 +292,17 @@ GMOコネクトの永田です。
 そこで今回はWebサービスにおける脆弱性を利用した攻撃と防ぎ方、そして不正アクセスしたらなぜバレるのかなど私...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ecbaedb3d7ffc29c9fb2</id>
+    <title>コンピュータ科学の神様が「AIに負けた」日 — Donald Knuth『Claude&apos;s Cycles』を読み解く</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/ecbaedb3d7ffc29c9fb2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-04T12:28:56+09:00</updated>
+    <summary type="html">Likes: 150&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T12:28:56+09:00&lt;br/&gt;Updated: 2026-03-04T12:28:56+09:00&lt;br/&gt;はじめに：「Shock! Shock!」
+2026年2月28日、コンピュータ科学の世界に小さな衝撃が走った。
+Donald Knuth（ドナルド・クヌース）が新しい論文を公開した。タイトルは「Claude&apos;s Cycles」。冒頭の一言はこうだ。
+
+&quot;Shock! Sho...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:61100a5b1aa8d752ae24</id>
     <title>Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】</title>
     <link rel="alternate" href="https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -310,17 +321,6 @@ Claude Code Skills と yfinance を使って、株式スクリーニングから
 パスワードをそのまま保存していいの？
 ログイン後、URLを直打ちしたらログインせずに入れてしまうのでは？
 そもそも「ログインしている状態」ってどうやって維持さ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ecbaedb3d7ffc29c9fb2</id>
-    <title>コンピュータ科学の神様が「AIに負けた」日 — Donald Knuth『Claude&apos;s Cycles』を読み解く</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/ecbaedb3d7ffc29c9fb2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-04T12:28:56+09:00</updated>
-    <summary type="html">Likes: 144&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T12:28:56+09:00&lt;br/&gt;Updated: 2026-03-04T12:28:56+09:00&lt;br/&gt;はじめに：「Shock! Shock!」
-2026年2月28日、コンピュータ科学の世界に小さな衝撃が走った。
-Donald Knuth（ドナルド・クヌース）が新しい論文を公開した。タイトルは「Claude&apos;s Cycles」。冒頭の一言はこうだ。
-
-&quot;Shock! Sho...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a4c5d048f6fb662ebbba</id>
@@ -583,7 +583,7 @@ PRUMについて気になった方は、
     <title>リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法</title>
     <link rel="alternate" href="https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-05T17:43:17+09:00</updated>
-    <summary type="html">Likes: 112&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ShotaFukuyama&quot;&gt;ShotaFukuyama&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T11:31:17+09:00&lt;br/&gt;Updated: 2026-03-05T17:43:17+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 113&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ShotaFukuyama&quot;&gt;ShotaFukuyama&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T11:31:17+09:00&lt;br/&gt;Updated: 2026-03-05T17:43:17+09:00&lt;br/&gt;はじめに
 「前は動いてたのに、なぜか動かなくなった…」
 開発を進めていると、こんな経験をしたことがある方も多いのではないでしょうか。
 新機能の追加やバグ修正によって、既存の機能が壊れてしまう。これを防ぐために行うのが リグレッションテスト(回帰テスト) です。
@@ -1052,6 +1052,15 @@ Tauri は、OS がもともと持っている WebView を利用し、Rust をバ
 そして...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6743216583b66168ec12</id>
+    <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
+    <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-06T23:37:58+09:00</updated>
+    <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-06T23:37:58+09:00&lt;br/&gt;はじめに
+2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました（参考ポスト。
+本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bbc8671d4295139c6e6d</id>
     <title>Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。</title>
     <link rel="alternate" href="https://qiita.com/yosim/items/bbc8671d4295139c6e6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1115,15 +1124,6 @@ RAG（検索拡張生成）とは？...</summary>
     <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
 DNSは、URLに出てくる example.com みたいな名前を、通信に使えるIPアドレスに変換する仕組みです。
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6743216583b66168ec12</id>
-    <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
-    <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-06T23:37:58+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-06T23:37:58+09:00&lt;br/&gt;はじめに
-2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました（参考ポスト。
-本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c9590934c7e72638107b</id>
@@ -1449,6 +1449,15 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、いわゆるエージェントタスクにおける計算資源としての使い方が向いているのではという気がしてきた。イメージはAWS LambdaのようなFunction as a serviceのようなワンショットな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
+    <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
+    <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-05T14:28:59+09:00</updated>
+    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
+タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
+大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b31603922b791c37cc37</id>
     <title>応用情報の廃止・再編「今」取るべき理由と合格戦略</title>
     <link rel="alternate" href="https://qiita.com/shibuya-ys/items/b31603922b791c37cc37?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1474,15 +1483,6 @@ Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、い
 
 CLAUDE.md
 サブエー...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
-    <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
-    <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T14:28:59+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
-タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
-大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
