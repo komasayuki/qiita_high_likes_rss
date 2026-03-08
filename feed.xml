@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-07T22:48:41+09:00</updated>
+  <updated>2026-03-08T12:22:41+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -388,6 +388,15 @@ PRUMについて気...</summary>
 以下は公式ブログ、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6743216583b66168ec12</id>
+    <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
+    <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-07T11:51:17+09:00</updated>
+    <summary type="html">Likes: 128&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-07T11:51:17+09:00&lt;br/&gt;はじめに
+2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました(参考ポスト)
+本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8082c999a78137c7cc10</id>
     <title>【完全無料・広告なし】AWS認定の学習支援サイトを公開しました。確かな実力を身につけて「資格取ったけど実務に活かせない」を終わらせよう。</title>
     <link rel="alternate" href="https://qiita.com/kenken38/items/8082c999a78137c7cc10?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -437,6 +446,17 @@ PlanモードでClaude Codeに「Remot...</summary>
 毎回Wordの...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:62519da65ca2dc391f0b</id>
+    <title>リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法</title>
+    <link rel="alternate" href="https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-05T17:43:17+09:00</updated>
+    <summary type="html">Likes: 126&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ShotaFukuyama&quot;&gt;ShotaFukuyama&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T11:31:17+09:00&lt;br/&gt;Updated: 2026-03-05T17:43:17+09:00&lt;br/&gt;はじめに
+「前は動いてたのに、なぜか動かなくなった…」
+開発を進めていると、こんな経験をしたことがある方も多いのではないでしょうか。
+新機能の追加やバグ修正によって、既存の機能が壊れてしまう。これを防ぐために行うのが リグレッションテスト(回帰テスト) です。
+本記事で...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:be45d3115ebe74a3e312</id>
     <title>【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン</title>
     <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -463,26 +483,6 @@ PlanモードでClaude Codeに「Remot...</summary>
 今回はオブジェクト指向について書いていきます。
 オブジェクト指向について「知ってるような、知らないような」そんな感じの方が多いのではないでしょうか。
 エンジニア歴3年目に入った私もまさにその程度で、「言葉はもちろん知ってるんだけど、説明しろと言われるとなぁ」みた...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6743216583b66168ec12</id>
-    <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
-    <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-07T11:51:17+09:00</updated>
-    <summary type="html">Likes: 125&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-07T11:51:17+09:00&lt;br/&gt;はじめに
-2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました(参考ポスト)
-本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:62519da65ca2dc391f0b</id>
-    <title>リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法</title>
-    <link rel="alternate" href="https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T17:43:17+09:00</updated>
-    <summary type="html">Likes: 125&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ShotaFukuyama&quot;&gt;ShotaFukuyama&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T11:31:17+09:00&lt;br/&gt;Updated: 2026-03-05T17:43:17+09:00&lt;br/&gt;はじめに
-「前は動いてたのに、なぜか動かなくなった…」
-開発を進めていると、こんな経験をしたことがある方も多いのではないでしょうか。
-新機能の追加やバグ修正によって、既存の機能が壊れてしまう。これを防ぐために行うのが リグレッションテスト(回帰テスト) です。
-本記事で...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4daa244550e2a4388d26</id>
@@ -707,6 +707,15 @@ PRUMについて気になった方は、
 そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
+    <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
+    <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-05T14:28:59+09:00</updated>
+    <summary type="html">Likes: 93&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
+タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
+大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fca5a1898cc2a9c961f6</id>
     <title>生成AI・LLM必須リンク集2026</title>
     <link rel="alternate" href="https://qiita.com/aokikenichi/items/fca5a1898cc2a9c961f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -761,15 +770,6 @@ A...</summary>
     <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-28T16:17:53+09:00&lt;br/&gt;Updated: 2026-03-02T05:49:24+09:00&lt;br/&gt;Claude Codeの設定、なんとなくで使っていませんか？
 Hooks、Skills、CLAUDE.md、settings.json、MCP、権限管理…… 2026年のClaude Codeは機能が爆発的に増えた。でも全部を正しく設定しているエンジニアは1%もいない。
 こ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
-    <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
-    <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T14:28:59+09:00</updated>
-    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
-タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
-大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
@@ -873,6 +873,17 @@ Certify
 一円の違いや細かい端数処理でミスが許されない業務を行う中で仕組みによる事故防止に努めてきました。
 この記事では、実務で「地味だけど効く」Excelの小技を紹介します。
 ※マクロなし／明日から使えるもの中心...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:262e0645fbfb024ecd4b</id>
+    <title>できるだけ無料でサービスを運用するための個人開発オススメデプロイ先</title>
+    <link rel="alternate" href="https://qiita.com/Hiru-ge/items/262e0645fbfb024ecd4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T12:22:41+09:00</updated>
+    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Hiru-ge&quot;&gt;Hiru-ge&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T15:09:40+09:00&lt;br/&gt;Updated: 2026-03-08T12:22:41+09:00&lt;br/&gt;はじめに
+こんにちは、ひるげです。
+個人開発でWebアプリを作ったとき、「どこにデプロイすればいいんだろう？」と悩んだ経験、ありませんか？
+AWSやGCPは高機能だけどコストが怖い。かといって無料のサービスは制限が気になる...
+この記事では、個人開発で使えるおすすめのデ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ce2327852cef06f5f2ab</id>
@@ -1034,17 +1045,6 @@ GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場�
     <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/automation2025&quot;&gt;automation2025&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T09:50:06+09:00&lt;br/&gt;Updated: 2026-01-18T23:28:37+09:00&lt;br/&gt;はじめに：なぜ今 Tauri なのか
 Electron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。
 Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用することで...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:262e0645fbfb024ecd4b</id>
-    <title>できるだけ無料でサービスを運用するための個人開発オススメデプロイ先</title>
-    <link rel="alternate" href="https://qiita.com/Hiru-ge/items/262e0645fbfb024ecd4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-07T22:48:41+09:00</updated>
-    <summary type="html">Likes: 69&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Hiru-ge&quot;&gt;Hiru-ge&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T15:09:40+09:00&lt;br/&gt;Updated: 2026-03-07T22:48:41+09:00&lt;br/&gt;はじめに
-こんにちは、ひるげです。
-個人開発でWebアプリを作ったとき、「どこにデプロイすればいいんだろう？」と悩んだ経験、ありませんか？
-AWSやGCPは高機能だけどコストが怖い。かといって無料のサービスは制限が気になる...
-この記事では、個人開発で使えるおすすめのデ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5cc486be289a8ea76728</id>
@@ -1527,6 +1527,16 @@ Pythonでプログラミングをしていると、当たり前のように使�
 しかし、**結局、pipは何をどこにダウンロードして、どうやってPythonがそれを見つけて...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0ff827a1c2deef68ba9a</id>
+    <title>AIエージェントだけでスクラムを回してみた</title>
+    <link rel="alternate" href="https://qiita.com/shyamagu/items/0ff827a1c2deef68ba9a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-06T16:58:46+09:00</updated>
+    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shyamagu&quot;&gt;shyamagu&lt;/a&gt;&lt;br/&gt;Published: 2026-03-06T08:26:47+09:00&lt;br/&gt;Updated: 2026-03-06T16:58:46+09:00&lt;br/&gt;この記事のまとめ: GitHub Copilotのカスタムエージェント機能を使い、5体のAIにスクラムチームを組ませて実際にアプリを開発させた実験の全容と、やってみて感じた可能性・課題をまとめています。
+
+AIの賢さとツールが洗練されてきました
+Opus4.6やGPT-...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4e158dbe22bc4c8d4e0d</id>
     <title>Claudeが社内に広がるほど、.envが危ない。Cowork時代に必要なのは「便利さ」より秘密情報の置き場所</title>
     <link rel="alternate" href="https://qiita.com/taketsuyo/items/4e158dbe22bc4c8d4e0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1627,16 +1637,6 @@ draw.io の MCP サーバーが公開されていたので、軽く触ってみ�
 勝手に、よりいい感じの図を出力してくれると思って使ったのですが、（何も使わずに「drawio 形式で書いて」と指示する場合と比べて）あまり違いを感じませんでした。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0ff827a1c2deef68ba9a</id>
-    <title>AIエージェントだけでスクラムを回してみた</title>
-    <link rel="alternate" href="https://qiita.com/shyamagu/items/0ff827a1c2deef68ba9a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-06T16:58:46+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shyamagu&quot;&gt;shyamagu&lt;/a&gt;&lt;br/&gt;Published: 2026-03-06T08:26:47+09:00&lt;br/&gt;Updated: 2026-03-06T16:58:46+09:00&lt;br/&gt;この記事のまとめ: GitHub Copilotのカスタムエージェント機能を使い、5体のAIにスクラムチームを組ませて実際にアプリを開発させた実験の全容と、やってみて感じた可能性・課題をまとめています。
-
-AIの賢さとツールが洗練されてきました
-Opus4.6やGPT-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0dd4fc68180aa8526678</id>
