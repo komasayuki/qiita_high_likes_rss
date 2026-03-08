@@ -392,7 +392,7 @@ PRUMについて気...</summary>
     <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
     <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-07T11:51:17+09:00</updated>
-    <summary type="html">Likes: 129&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-07T11:51:17+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 130&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-07T11:51:17+09:00&lt;br/&gt;はじめに
 2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました(参考ポスト)
 本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
   </entry>
@@ -677,6 +677,17 @@ PRUMについて気になった方は、
 「で、&quot;結局&quot;今どんな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:262e0645fbfb024ecd4b</id>
+    <title>できるだけ無料でサービスを運用するための個人開発オススメデプロイ先</title>
+    <link rel="alternate" href="https://qiita.com/Hiru-ge/items/262e0645fbfb024ecd4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T12:22:41+09:00</updated>
+    <summary type="html">Likes: 99&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Hiru-ge&quot;&gt;Hiru-ge&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T15:09:40+09:00&lt;br/&gt;Updated: 2026-03-08T12:22:41+09:00&lt;br/&gt;はじめに
+こんにちは、ひるげです。
+個人開発でWebアプリを作ったとき、「どこにデプロイすればいいんだろう？」と悩んだ経験、ありませんか？
+AWSやGCPは高機能だけどコストが怖い。かといって無料のサービスは制限が気になる...
+この記事では、個人開発で使えるおすすめのデ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c937af562c4d40c24e42</id>
     <title>n8nで記事自動生成パイプラインを作ったら、1週間で40本→0本になった話</title>
     <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/c937af562c4d40c24e42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -685,6 +696,15 @@ PRUMについて気になった方は、
 2026年の冬、私はn8nに魅了された。
 「人手を介さず、記事が自動生成される」 その夢に、私は狂ったように没頭した。スプレッドシートにキーワードを入れるだけで、AIが記事を書き、画像を生成し、CMSに投稿する。それも10言語同時に。
 ワークフロ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
+    <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
+    <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-05T14:28:59+09:00</updated>
+    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
+タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
+大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1da25e18c1bcb68880a3</id>
@@ -705,26 +725,6 @@ PRUMについて気になった方は、
 セキュリティに問題があると、大変なことになります。
 普通のバグは不便で済むこともありますが、セキュリティの穴はアカウント乗っ取り、情報漏えい、サービス停止など、取り返しがつかない形で表に出やすいのです。
 そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
-    <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
-    <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T14:28:59+09:00</updated>
-    <summary type="html">Likes: 94&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
-タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
-大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:262e0645fbfb024ecd4b</id>
-    <title>できるだけ無料でサービスを運用するための個人開発オススメデプロイ先</title>
-    <link rel="alternate" href="https://qiita.com/Hiru-ge/items/262e0645fbfb024ecd4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T12:22:41+09:00</updated>
-    <summary type="html">Likes: 93&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Hiru-ge&quot;&gt;Hiru-ge&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T15:09:40+09:00&lt;br/&gt;Updated: 2026-03-08T12:22:41+09:00&lt;br/&gt;はじめに
-こんにちは、ひるげです。
-個人開発でWebアプリを作ったとき、「どこにデプロイすればいいんだろう？」と悩んだ経験、ありませんか？
-AWSやGCPは高機能だけどコストが怖い。かといって無料のサービスは制限が気になる...
-この記事では、個人開発で使えるおすすめのデ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fca5a1898cc2a9c961f6</id>
@@ -1088,19 +1088,6 @@ Tauri は、OS がもともと持っている WebView を利用し、Rust をバ
     <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Fujiwo&quot;&gt;Fujiwo&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T15:56:45+09:00&lt;br/&gt;Updated: 2026-01-28T16:55:12+09:00&lt;br/&gt;概要
 この記事は、「現代のソフトウェア開発において、オブジェクト指向(OOP)はまだ中心的な指針たり得るか?」をテーマにした、肯定派・否定派によるディベート形式の文章です。
 目的は、結論を一つに決め打ちすることではなく、オブジェクト指向をめぐる代表的な賛否の論点(歴史...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bd5266a987d082caea16</id>
-    <title>【狂気の実証実験2】GPTsに電気ショック権限を付与してみた</title>
-    <link rel="alternate" href="https://qiita.com/motoya0118/items/bd5266a987d082caea16?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-04T14:03:43+09:00</updated>
-    <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/motoya0118&quot;&gt;motoya0118&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T11:10:54+09:00&lt;br/&gt;Updated: 2026-01-04T14:03:43+09:00&lt;br/&gt;概要
-本記事では、
-「自分の意思では生活習慣を改善できない人間が、AI Agentに“罰”を与える権限を渡したらどうなるか」
-という実証実験について紹介します。
-リマインダーも、ToDo管理も、コーチングサービスも続かない。
-理由はシンプルで、守らなくても痛くないから。
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:382920eb22ed3e645257</id>
@@ -2247,5 +2234,20 @@ Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全
 本記事は、Rust初学者の私がClaude Codeと共に、合計16時間でOSSツール uv-sbom を作り上げた全記録です。
 
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e1eef1c2735083b7e6e4</id>
+    <title>フロントエンドにおけるキャッシュの全レベルを理解する</title>
+    <link rel="alternate" href="https://qiita.com/NXD139/items/e1eef1c2735083b7e6e4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-05T17:40:57+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NXD139&quot;&gt;NXD139&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T17:14:40+09:00&lt;br/&gt;Updated: 2026-03-05T17:40:57+09:00&lt;br/&gt;Webアプリケーションを高速化する技術の中で、キャッシュは最も重要なものの一つです。ただ、キャッシュといっても種類はさまざまです：
+
+React の memoization
+
+ブラウザの HTTP cache
+
+Service Worker の Cache API
+
+CDN...</summary>
   </entry>
 </feed>
