@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-08T12:22:41+09:00</updated>
+  <updated>2026-03-08T22:00:51+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -2236,15 +2236,18 @@ Microsoft 365 Copilotはあくまで生成AIのため、出力するたびに全
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:8e5c36e43f430a4b4f9e</id>
-    <title>仕事が遅い人の特徴を自分で分析してみた</title>
-    <link rel="alternate" href="https://qiita.com/kmatsuda_slj/items/8e5c36e43f430a4b4f9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-18T09:40:01+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kmatsuda_slj&quot;&gt;kmatsuda_slj&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T09:40:01+09:00&lt;br/&gt;Updated: 2026-02-18T09:40:01+09:00&lt;br/&gt;はじめに
-自分は正直、仕事が速いタイプではありません。
-シンプルに、まだ能力が足りなくて遅いと感じる場面もあります。
-ただ、遅いままにしておくのは嫌なので、
-「自分はどこで時間を使っているのか」「どういう癖があるのか」を一度整理してみました。
-あくまで一年目の自分の振り返...</summary>
+    <id>tag:qiita.com,2026:299a221088f5905332a4</id>
+    <title>【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】</title>
+    <link rel="alternate" href="https://qiita.com/Sicut_study/items/299a221088f5905332a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T22:00:51+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
+こんにちは、Watanabe Jin(@Sicut_study)です。
+Reactを書いていると時々思うんです。
+
+私はReactを活かしたコードをかけているのだろうか？
+
+Reactにはデザインパターンとしていくつかの代表的なものが存在します。
+
+HOC(高...</summary>
   </entry>
 </feed>
