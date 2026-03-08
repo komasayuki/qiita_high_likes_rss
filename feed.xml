@@ -347,6 +347,15 @@ Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使�
 この度、ローカルへのインストール不要でPyxelの実行・リソース編集・アプリ再生ができる、Pyxel VS Code拡張機能をリリース...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6743216583b66168ec12</id>
+    <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
+    <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-07T11:51:17+09:00</updated>
+    <summary type="html">Likes: 135&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-07T11:51:17+09:00&lt;br/&gt;はじめに
+2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました(参考ポスト)
+本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f3028a229d0c42877cf4</id>
     <title>Claude Codeが私の職場を激変させはじめた</title>
     <link rel="alternate" href="https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -369,15 +378,6 @@ Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使�
 日々、プログラミング学習や実務の中で
 つまずきやすいポイントを整理して発信しています。
 PRUMについて気...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6743216583b66168ec12</id>
-    <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
-    <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-07T11:51:17+09:00</updated>
-    <summary type="html">Likes: 133&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T23:54:19+09:00&lt;br/&gt;Updated: 2026-03-07T11:51:17+09:00&lt;br/&gt;はじめに
-2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました(参考ポスト)
-本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bf5637f40d59e18c4d5e</id>
