@@ -762,7 +762,7 @@ Hooks、Skills、CLAUDE.md、settings.json、MCP、権限管理…… 2026年の
     <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
     <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-08T21:21:56+09:00</updated>
-    <summary type="html">Likes: 88&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-08T21:21:56+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-08T21:21:56+09:00&lt;br/&gt;はじめに
 バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
 前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
   </entry>
@@ -1452,6 +1452,15 @@ CLAUDE.md
 サブエー...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f30d1cd8fd0f7dce692d</id>
+    <title>【初心者向け】物理層と論理層がわかったら、クラウドが一気にスッキリした話</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/f30d1cd8fd0f7dce692d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-07T15:38:22+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T15:38:22+09:00&lt;br/&gt;Updated: 2026-03-07T15:38:22+09:00&lt;br/&gt;はじめに ― クラウドサービスが多すぎて混乱していた頃
+データエンジニアとして働き始めた頃、一番困ったのが 「クラウドサービスが多すぎて、何がなんだかわからない」 ということでした。
+EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
     <title>【Claude Code】 /insights コマンドがおもしろい</title>
     <link rel="alternate" href="https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1515,15 +1524,6 @@ OllamaやLM StudioでローカルLLMを動かしている方
 Pythonでプログラミングをしていると、当たり前のように使っているpip installコマンド。
 このコマンド一つで、便利なライブラリがすぐに使えるようになります。
 しかし、**結局、pipは何をどこにダウンロードして、どうやってPythonがそれを見つけて...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f30d1cd8fd0f7dce692d</id>
-    <title>【初心者向け】物理層と論理層がわかったら、クラウドが一気にスッキリした話</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/f30d1cd8fd0f7dce692d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-07T15:38:22+09:00</updated>
-    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T15:38:22+09:00&lt;br/&gt;Updated: 2026-03-07T15:38:22+09:00&lt;br/&gt;はじめに ― クラウドサービスが多すぎて混乱していた頃
-データエンジニアとして働き始めた頃、一番困ったのが 「クラウドサービスが多すぎて、何がなんだかわからない」 ということでした。
-EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4e158dbe22bc4c8d4e0d</id>
