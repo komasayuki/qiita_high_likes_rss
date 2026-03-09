@@ -637,6 +637,15 @@ PRUMについて気になった方は、
 「で、&quot;結局&quot;今どんな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:66510f959b1c22f011a7</id>
+    <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
+    <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T21:21:56+09:00</updated>
+    <summary type="html">Likes: 99&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-08T21:21:56+09:00&lt;br/&gt;はじめに
+バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
+前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:262e0645fbfb024ecd4b</id>
     <title>できるだけ無料でサービスを運用するための個人開発オススメデプロイ先</title>
     <link rel="alternate" href="https://qiita.com/Hiru-ge/items/262e0645fbfb024ecd4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -687,13 +696,19 @@ AWSやGCPは高機能だけどコストが怖い。かといって無料のサ�
 そうした重大な事故を未然に防ぐために、本記事ではOWASP...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:66510f959b1c22f011a7</id>
-    <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
-    <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T21:21:56+09:00</updated>
-    <summary type="html">Likes: 93&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-08T21:21:56+09:00&lt;br/&gt;はじめに
-バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
-前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
+    <id>tag:qiita.com,2026:299a221088f5905332a4</id>
+    <title>【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】</title>
+    <link rel="alternate" href="https://qiita.com/Sicut_study/items/299a221088f5905332a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T22:00:51+09:00</updated>
+    <summary type="html">Likes: 93&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
+こんにちは、Watanabe Jin(@Sicut_study)です。
+Reactを書いていると時々思うんです。
+
+私はReactを活かしたコードをかけているのだろうか？
+
+Reactにはデザインパターンとしていくつかの代表的なものが存在します。
+
+HOC(高...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fca5a1898cc2a9c961f6</id>
@@ -741,21 +756,6 @@ A...</summary>
     <updated>2026-01-13T22:59:41+09:00</updated>
     <summary type="html">Likes: 92&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T19:12:01+09:00&lt;br/&gt;Updated: 2026-01-13T22:59:41+09:00&lt;br/&gt;ReactやVueとかの記事を見ていると、useMemoしろとuseMemoするなとか、イベントハンドラにuseEffectを使えとイベントハンドラにuseEffectを使うなとか、どうすりゃええねんという話をよく見かけます。
 またなんか無限レンダリングされるとかなんか2回...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:299a221088f5905332a4</id>
-    <title>【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】</title>
-    <link rel="alternate" href="https://qiita.com/Sicut_study/items/299a221088f5905332a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T22:00:51+09:00</updated>
-    <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
-こんにちは、Watanabe Jin(@Sicut_study)です。
-Reactを書いていると時々思うんです。
-
-私はReactを活かしたコードをかけているのだろうか？
-
-Reactにはデザインパターンとしていくつかの代表的なものが存在します。
-
-HOC(高...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:56b2fc8bf4e7ed5ba7f3</id>
@@ -1421,7 +1421,7 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
     <title>【初心者向け】物理層と論理層がわかったら、クラウドが一気にスッキリした話</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/f30d1cd8fd0f7dce692d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-07T15:38:22+09:00</updated>
-    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T15:38:22+09:00&lt;br/&gt;Updated: 2026-03-07T15:38:22+09:00&lt;br/&gt;はじめに ― クラウドサービスが多すぎて混乱していた頃
+    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T15:38:22+09:00&lt;br/&gt;Updated: 2026-03-07T15:38:22+09:00&lt;br/&gt;はじめに ― クラウドサービスが多すぎて混乱していた頃
 データエンジニアとして働き始めた頃、一番困ったのが 「クラウドサービスが多すぎて、何がなんだかわからない」 ということでした。
 EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
   </entry>
@@ -1558,6 +1558,21 @@ Pythonでプログラミングをしていると、当たり前のように使�
 統計モデリング（statistical ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:568cc5e9b6050522611e</id>
+    <title>【後編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/568cc5e9b6050522611e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T12:44:16+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T12:44:16+09:00&lt;br/&gt;Updated: 2026-03-09T12:44:16+09:00&lt;br/&gt;はじめまして。
+株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントを整理して発信しています。
+PRUMについて気になった方は、
+コーポレートサイトもご覧ください。
+▶ コーポレートサイト
+
+【後編】「また指摘され...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4db2182e2384df4122a2</id>
     <title>Microsoft Teams を悪用したCEO詐欺（ビジネスチャット詐欺）について</title>
     <link rel="alternate" href="https://qiita.com/hirotomotaguchi/items/4db2182e2384df4122a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1595,21 +1610,6 @@ Ollama（ローカルで LLM を実行するためのオープンソースツー
 「ChatGPTって、なんとなく一般向けのツールっぽいんだよな」
 「文章を書いてもらうくらいなら、Copilotで十分じゃない？」「API直接叩いた方がカスタマイズできるし」
 エンジニアあるあるだと思います。APIが使える...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:568cc5e9b6050522611e</id>
-    <title>【後編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/568cc5e9b6050522611e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T12:44:16+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T12:44:16+09:00&lt;br/&gt;Updated: 2026-03-09T12:44:16+09:00&lt;br/&gt;はじめまして。
-株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で
-つまずきやすいポイントを整理して発信しています。
-PRUMについて気になった方は、
-コーポレートサイトもご覧ください。
-▶ コーポレートサイト
-
-【後編】「また指摘され...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:27e2a11e80fe3b835f96</id>
@@ -2221,6 +2221,14 @@ RFPへの提案書作成は、課題分析・ストーリー設計・図表作�
 この3層...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
+    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T18:15:21+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
+2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e0a9b48a93d9c0305399</id>
     <title>【初心者向け】「これ何て読むの？」IT業界の初見殺し用語を50個集めてみた</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/e0a9b48a93d9c0305399?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2230,20 +2238,5 @@ RFPへの提案書作成は、課題分析・ストーリー設計・図表作�
 はじめに
 IT業界に入って最初にぶつかる壁、それは 技術そのものではなく「読み方」 だったりします。
 先輩が会議で「ケーナインって使ってる？」と言ってきて、頭の中が「？？？」になった経験、ありませんか？（正解...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e1eef1c2735083b7e6e4</id>
-    <title>フロントエンドにおけるキャッシュの全レベルを理解する</title>
-    <link rel="alternate" href="https://qiita.com/NXD139/items/e1eef1c2735083b7e6e4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T17:40:57+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NXD139&quot;&gt;NXD139&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T17:14:40+09:00&lt;br/&gt;Updated: 2026-03-05T17:40:57+09:00&lt;br/&gt;Webアプリケーションを高速化する技術の中で、キャッシュは最も重要なものの一つです。ただ、キャッシュといっても種類はさまざまです：
-
-React の memoization
-
-ブラウザの HTTP cache
-
-Service Worker の Cache API
-
-CDN...</summary>
   </entry>
 </feed>
