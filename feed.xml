@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-08T22:00:51+09:00</updated>
+  <updated>2026-03-09T12:44:16+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1168,6 +1168,21 @@ Claude Codeは2025年2月のリリース以来、ターミナルから直接AI�
 ここでは2025年にFinishedになったproposalについて紹介し...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:299a221088f5905332a4</id>
+    <title>【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】</title>
+    <link rel="alternate" href="https://qiita.com/Sicut_study/items/299a221088f5905332a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T22:00:51+09:00</updated>
+    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
+こんにちは、Watanabe Jin(@Sicut_study)です。
+Reactを書いていると時々思うんです。
+
+私はReactを活かしたコードをかけているのだろうか？
+
+Reactにはデザインパターンとしていくつかの代表的なものが存在します。
+
+HOC(高...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5557800c41eb43b43f2f</id>
     <title>個人開発者として実際にアプリを運営していく中で感じた個人開発の現実を言語化したいと思います。</title>
     <link rel="alternate" href="https://qiita.com/tatsuoNakano/items/5557800c41eb43b43f2f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1182,21 +1197,6 @@ Claude Codeは2025年2月のリリース以来、ターミナルから直接AI�
     <updated>2026-01-16T12:13:32+09:00</updated>
     <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t7u-ito&quot;&gt;t7u-ito&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T10:57:45+09:00&lt;br/&gt;Updated: 2026-01-16T12:13:32+09:00&lt;br/&gt;そういう驚きを感じられるのは、プログラマーとしてかなり有望だと思いますよ。その観点は忘れないでください。
 少なくとも 初期の頃のPythonは、標準パッケージで何でもできることをコンセプトの1つとしていました。 Pythonが生まれた頃はインターネットに転がっているライブラ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:299a221088f5905332a4</id>
-    <title>【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】</title>
-    <link rel="alternate" href="https://qiita.com/Sicut_study/items/299a221088f5905332a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T22:00:51+09:00</updated>
-    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
-こんにちは、Watanabe Jin(@Sicut_study)です。
-Reactを書いていると時々思うんです。
-
-私はReactを活かしたコードをかけているのだろうか？
-
-Reactにはデザインパターンとしていくつかの代表的なものが存在します。
-
-HOC(高...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8b870661f80d63499336</id>
@@ -1239,6 +1239,15 @@ AIがデザインし、コードを書いたアプリが、
 特別な裏技も、ゴリ押しもありません。
 ただし、放っておいてできた話ではありません。
 AIには、日本語で相当うるさく指...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:66510f959b1c22f011a7</id>
+    <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
+    <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T21:21:56+09:00</updated>
+    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-08T21:21:56+09:00&lt;br/&gt;はじめに
+バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
+前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3f14e17314941930ec5c</id>
@@ -1326,15 +1335,6 @@ PRUMについて気になった方は、
 
 はじめに
 この章では、論...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:66510f959b1c22f011a7</id>
-    <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
-    <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T21:21:56+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-08T21:21:56+09:00&lt;br/&gt;はじめに
-バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
-前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4eff08ff2413c23b95ec</id>
@@ -1787,6 +1787,16 @@ Win...</summary>
 そんな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e80b763797d073815710</id>
+    <title>エンジニアがChatGPTを使いこなせていないかもしれない話</title>
+    <link rel="alternate" href="https://qiita.com/kamome_susume/items/e80b763797d073815710?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-07T23:11:22+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-03-06T20:18:42+09:00&lt;br/&gt;Updated: 2026-03-07T23:11:22+09:00&lt;br/&gt;突然ですが、こんな気持ちになったことありませんか？
+「ChatGPTって、なんとなく一般向けのツールっぽいんだよな」
+「文章を書いてもらうくらいなら、Copilotで十分じゃない？」「API直接叩いた方がカスタマイズできるし」
+エンジニアあるあるだと思います。APIが使える...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1492b77916ce3061cadf</id>
     <title>【シリアル通信】「実機がないからテストできない」は言い訳？SocketDebuggerで巨大な産業機器を丸ごと模擬してみた🔥</title>
     <link rel="alternate" href="https://qiita.com/umezawa_udom/items/1492b77916ce3061cadf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1821,14 +1831,13 @@ Web API（REST API）という言葉を聞いたことがある方
 バックエンド開発に興味があり、最...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:e80b763797d073815710</id>
-    <title>エンジニアがChatGPTを使いこなせていないかもしれない話</title>
-    <link rel="alternate" href="https://qiita.com/kamome_susume/items/e80b763797d073815710?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-07T23:11:22+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-03-06T20:18:42+09:00&lt;br/&gt;Updated: 2026-03-07T23:11:22+09:00&lt;br/&gt;突然ですが、こんな気持ちになったことありませんか？
-「ChatGPTって、なんとなく一般向けのツールっぽいんだよな」
-「文章を書いてもらうくらいなら、Copilotで十分じゃない？」「API直接叩いた方がカスタマイズできるし」
-エンジニアあるあるだと思います。APIが使える...</summary>
+    <id>tag:qiita.com,2026:5a8a16a2b7e91c3536a8</id>
+    <title>Pandasはもう古い？2026年のPythonデータ分析ライブラリを整理してみた</title>
+    <link rel="alternate" href="https://qiita.com/YASUHARA-Wataru/items/5a8a16a2b7e91c3536a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T10:56:36+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YASUHARA-Wataru&quot;&gt;YASUHARA-Wataru&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T01:58:34+09:00&lt;br/&gt;Updated: 2026-03-08T10:56:36+09:00&lt;br/&gt;はじめに
+Pythonを使い始めてはや十数年。他の言語も覚えないと思いつつ、研究、PoC用途で使う、簡単な解析や簡単なシミュレーションに使ってきました。
+表計算で広く使われるPandasですが、Pandasを最近あまり使わなくなったというSNSの投稿をみて、使用するライブ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:05e66bd57148b4909d90</id>
@@ -1869,15 +1878,6 @@ Web API（REST API）という言葉を聞いたことがある方
     <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/koras7788&quot;&gt;koras7788&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:47:41+09:00&lt;br/&gt;Updated: 2026-01-21T17:55:41+09:00&lt;br/&gt;Claude Codeは、AI支援による開発体験を提供する強力なツールです。しかし、多くの機能が隠れているため、その真価を十分に活用できていないユーザーも少なくありません。この記事では、作業効率を大幅に向上させる実践的なテクニックを4つのカテゴリーに分けて紹介します。
 
 1...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5a8a16a2b7e91c3536a8</id>
-    <title>Pandasはもう古い？2026年のPythonデータ分析ライブラリを整理してみた</title>
-    <link rel="alternate" href="https://qiita.com/YASUHARA-Wataru/items/5a8a16a2b7e91c3536a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T10:56:36+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YASUHARA-Wataru&quot;&gt;YASUHARA-Wataru&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T01:58:34+09:00&lt;br/&gt;Updated: 2026-03-08T10:56:36+09:00&lt;br/&gt;はじめに
-Pythonを使い始めてはや十数年。他の言語も覚えないと思いつつ、研究、PoC用途で使う、簡単な解析や簡単なシミュレーションに使ってきました。
-表計算で広く使われるPandasですが、Pandasを最近あまり使わなくなったというSNSの投稿をみて、使用するライブ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cc2450f410b64329d275</id>
@@ -2042,6 +2042,30 @@ https://qiita.com/xhackjp1/items/03045dd62c2f...</summary>
     <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tkmiii_GiGOOO&quot;&gt;tkmiii_GiGOOO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T10:24:42+09:00&lt;br/&gt;Updated: 2026-01-13T17:55:18+09:00&lt;br/&gt;本記事の内容は、セキュリティの仕組みを理解するための学習・研究を目的としています。 許可のない第三者のシステムへの攻撃や侵入行為は、法律で固く禁止されています。 検証を行う際は、必ずご自身が管理する環境、または許可を得た環境内でのみ実施してください。 本記事の情報を利用...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:568cc5e9b6050522611e</id>
+    <title>【後編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/568cc5e9b6050522611e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T12:44:16+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T12:44:16+09:00&lt;br/&gt;Updated: 2026-03-09T12:44:16+09:00&lt;br/&gt;はじめまして。
+株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントを整理して発信しています。
+PRUMについて気になった方は、
+コーポレートサイトもご覧ください。
+▶ コーポレートサイト
+
+【後編】「また指摘され...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:f30d1cd8fd0f7dce692d</id>
+    <title>【初心者向け】物理層と論理層がわかったら、クラウドが一気にスッキリした話</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/f30d1cd8fd0f7dce692d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-07T15:38:22+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T15:38:22+09:00&lt;br/&gt;Updated: 2026-03-07T15:38:22+09:00&lt;br/&gt;はじめに ― クラウドサービスが多すぎて混乱していた頃
+データエンジニアとして働き始めた頃、一番困ったのが 「クラウドサービスが多すぎて、何がなんだかわからない」 ということでした。
+EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9f35a0d6e24edd8f2265</id>
     <title>Terminal 版 Playwright 風テストツールの tuistory が便利</title>
     <link rel="alternate" href="https://qiita.com/tomoasleep/items/9f35a0d6e24edd8f2265?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2102,15 +2126,6 @@ E2Eテストの自動化、進めていますか？
     <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuni-i&quot;&gt;kimuni-i&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T15:16:50+09:00&lt;br/&gt;Updated: 2026-01-20T15:53:08+09:00&lt;br/&gt;はじめに
 要件定義書の作成に悩んでいませんか？「何を書けばいいかわからない」「後工程で使いにくいと言われる」「ステークホルダーとの認識がズレる」——こうした課題は、要件定義書の構造化で大きく改善できます。
 今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f30d1cd8fd0f7dce692d</id>
-    <title>【初心者向け】物理層と論理層がわかったら、クラウドが一気にスッキリした話</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/f30d1cd8fd0f7dce692d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-07T15:38:22+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T15:38:22+09:00&lt;br/&gt;Updated: 2026-03-07T15:38:22+09:00&lt;br/&gt;はじめに ― クラウドサービスが多すぎて混乱していた頃
-データエンジニアとして働き始めた頃、一番困ったのが 「クラウドサービスが多すぎて、何がなんだかわからない」 ということでした。
-EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fe3446e3f2a8c33efdfb</id>
@@ -2227,20 +2242,5 @@ RFPへの提案書作成は、課題分析・ストーリー設計・図表作�
 はじめに
 IT業界に入って最初にぶつかる壁、それは 技術そのものではなく「読み方」 だったりします。
 先輩が会議で「ケーナインって使ってる？」と言ってきて、頭の中が「？？？」になった経験、ありませんか？（正解...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e1eef1c2735083b7e6e4</id>
-    <title>フロントエンドにおけるキャッシュの全レベルを理解する</title>
-    <link rel="alternate" href="https://qiita.com/NXD139/items/e1eef1c2735083b7e6e4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T17:40:57+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NXD139&quot;&gt;NXD139&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T17:14:40+09:00&lt;br/&gt;Updated: 2026-03-05T17:40:57+09:00&lt;br/&gt;Webアプリケーションを高速化する技術の中で、キャッシュは最も重要なものの一つです。ただ、キャッシュといっても種類はさまざまです：
-
-React の memoization
-
-ブラウザの HTTP cache
-
-Service Worker の Cache API
-
-CDN...</summary>
   </entry>
 </feed>
