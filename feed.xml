@@ -261,7 +261,7 @@ GMOコネクトの永田です。
     <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
     <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-10T12:55:45+09:00</updated>
-    <summary type="html">Likes: 155&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 156&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
 バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
 前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
   </entry>
@@ -767,6 +767,14 @@ Hooks、Skills、CLAUDE.md、settings.json、MCP、権限管理…… 2026年の
 こ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
+    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T18:15:21+09:00</updated>
+    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
+2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
     <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
     <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -834,14 +842,6 @@ Pencilは、Figma + Layermate みたいなツールで、Pencil上でAIにUIを�
 
 「分からなければ聞けばいい」
 「調べればす...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
-    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T18:15:21+09:00</updated>
-    <summary type="html">Likes: 84&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
-2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b15f9adc9fb807a3e148</id>
@@ -1620,6 +1620,24 @@ Ollama（ローカルで LLM を実行するためのオープンソースツー
 エンジニアあるあるだと思います。APIが使える...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2ad32fc119d5b5e1bb98</id>
+    <title>「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）</title>
+    <link rel="alternate" href="https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T14:15:52+09:00</updated>
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T14:15:52+09:00&lt;br/&gt;Updated: 2026-03-09T14:15:52+09:00&lt;br/&gt;「Vite + Reactでいい」とは、Reactユーザーの一部が持ち、度々表明される意見です。
+比較対象はNext.jsやその他Reactフレームワークであり、そのようなフレームワークよりも「Vite + React」というシンプルな構成を好む意見です。
+現実とは、筆者が...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ab8af60a632e7a562e06</id>
+    <title>draw.ioのMCP Toolを使ってアーキテクチャ図を自動生成する</title>
+    <link rel="alternate" href="https://qiita.com/xxyc/items/ab8af60a632e7a562e06?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T11:14:50+09:00</updated>
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/xxyc&quot;&gt;xxyc&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T11:14:50+09:00&lt;br/&gt;Updated: 2026-03-08T11:14:50+09:00&lt;br/&gt;最近、draw.ioが公式のMCP Toolを公開しました。
+draw.io はアーキテクチャ図を作成する際によく使われるツールで、主要なクラウドサービス（Azure、AWS、GCP など）のアイコンが豊富に揃っているため、とても便利です。
+ただし、アーキテクチャ図を作る作...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:27e2a11e80fe3b835f96</id>
     <title>AI時代にすべてをGitHubで管理するあなたへ — HTTPS接続、今すぐやめてください</title>
     <link rel="alternate" href="https://qiita.com/kenimo49/items/27e2a11e80fe3b835f96?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1659,24 +1677,6 @@ draw.io の MCP サーバーが公開されていたので、軽く触ってみ�
 勝手に、よりいい感じの図を出力してくれると思って使ったのですが、（何も使わずに「drawio 形式で書いて」と指示する場合と比べて）あまり違いを感じませんでした。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2ad32fc119d5b5e1bb98</id>
-    <title>「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）</title>
-    <link rel="alternate" href="https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T14:15:52+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T14:15:52+09:00&lt;br/&gt;Updated: 2026-03-09T14:15:52+09:00&lt;br/&gt;「Vite + Reactでいい」とは、Reactユーザーの一部が持ち、度々表明される意見です。
-比較対象はNext.jsやその他Reactフレームワークであり、そのようなフレームワークよりも「Vite + React」というシンプルな構成を好む意見です。
-現実とは、筆者が...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ab8af60a632e7a562e06</id>
-    <title>draw.ioのMCP Toolを使ってアーキテクチャ図を自動生成する</title>
-    <link rel="alternate" href="https://qiita.com/xxyc/items/ab8af60a632e7a562e06?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T11:14:50+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/xxyc&quot;&gt;xxyc&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T11:14:50+09:00&lt;br/&gt;Updated: 2026-03-08T11:14:50+09:00&lt;br/&gt;最近、draw.ioが公式のMCP Toolを公開しました。
-draw.io はアーキテクチャ図を作成する際によく使われるツールで、主要なクラウドサービス（Azure、AWS、GCP など）のアイコンが豊富に揃っているため、とても便利です。
-ただし、アーキテクチャ図を作る作...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0dd4fc68180aa8526678</id>
@@ -1909,6 +1909,13 @@ Web API（REST API）という言葉を聞いたことがある方
 1...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c4b0a91e1a6b5cf2041f</id>
+    <title>BFF(Backend For Frontend)入門：なぜ中間にサーバーを置くのか？</title>
+    <link rel="alternate" href="https://qiita.com/aki_number16/items/c4b0a91e1a6b5cf2041f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T12:14:37+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aki_number16&quot;&gt;aki_number16&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T12:14:37+09:00&lt;br/&gt;Updated: 2026-03-08T12:14:37+09:00&lt;br/&gt;最近、マイクロサービスやフロントエンド開発の文脈でよく耳にするのが「BFF」です。「フロントエンドのためのバックエンド」という名前は知っていましたが、いざ「API Gatewayと何が違うの？」とか「具体的に何を担当させるべき？」と聞かれると、意外と言語化が難しいものです。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cc2450f410b64329d275</id>
     <title>Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話</title>
     <link rel="alternate" href="https://qiita.com/yamapiiii/items/cc2450f410b64329d275?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1981,13 +1988,6 @@ PRUMについて気になった方は、
 
 この記事の情報は、2026年1月12日現在のものです。
 またユーザーの呼称は、正式でなく便宜的な...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c4b0a91e1a6b5cf2041f</id>
-    <title>BFF(Backend For Frontend)入門：なぜ中間にサーバーを置くのか？</title>
-    <link rel="alternate" href="https://qiita.com/aki_number16/items/c4b0a91e1a6b5cf2041f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T12:14:37+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aki_number16&quot;&gt;aki_number16&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T12:14:37+09:00&lt;br/&gt;Updated: 2026-03-08T12:14:37+09:00&lt;br/&gt;最近、マイクロサービスやフロントエンド開発の文脈でよく耳にするのが「BFF」です。「フロントエンドのためのバックエンド」という名前は知っていましたが、いざ「API Gatewayと何が違うの？」とか「具体的に何を担当させるべき？」と聞かれると、意外と言語化が難しいものです。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:db60751497f6e31339b8</id>
