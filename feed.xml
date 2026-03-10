@@ -495,6 +495,15 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 オンボーディングの速さは、エンジニアとしての評価に直結します。早く戦力になれれば、チームからの信頼も得やすく、その後の仕事がスムーズにな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:66510f959b1c22f011a7</id>
+    <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
+    <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T21:21:56+09:00</updated>
+    <summary type="html">Likes: 121&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-08T21:21:56+09:00&lt;br/&gt;はじめに
+バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
+前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4d732a43ac5cdf9daadc</id>
     <title>技術記事、硬すぎ問題。だからギャルに読ませてみた</title>
     <link rel="alternate" href="https://qiita.com/kikuziro/items/4d732a43ac5cdf9daadc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -546,15 +555,6 @@ PRUMについて気になった方は、
 ▶ コーポレートサイト
 
 新人エンジニアは、なぜ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:66510f959b1c22f011a7</id>
-    <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
-    <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T21:21:56+09:00</updated>
-    <summary type="html">Likes: 113&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-08T21:21:56+09:00&lt;br/&gt;はじめに
-バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
-前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5bd0096ca33d5ea41acb</id>
@@ -657,21 +657,11 @@ AWSやGCPは高機能だけどコストが怖い。かといって無料のサ�
 この記事では、個人開発で使えるおすすめのデ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c937af562c4d40c24e42</id>
-    <title>n8nで記事自動生成パイプラインを作ったら、1週間で40本→0本になった話</title>
-    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/c937af562c4d40c24e42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-12T17:43:03+09:00</updated>
-    <summary type="html">Likes: 98&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T17:43:03+09:00&lt;br/&gt;Updated: 2026-02-12T17:43:03+09:00&lt;br/&gt;「自動化の時代」が来た
-2026年の冬、私はn8nに魅了された。
-「人手を介さず、記事が自動生成される」 その夢に、私は狂ったように没頭した。スプレッドシートにキーワードを入れるだけで、AIが記事を書き、画像を生成し、CMSに投稿する。それも10言語同時に。
-ワークフロ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:299a221088f5905332a4</id>
     <title>【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】</title>
     <link rel="alternate" href="https://qiita.com/Sicut_study/items/299a221088f5905332a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-08T22:00:51+09:00</updated>
-    <summary type="html">Likes: 97&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 98&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
 こんにちは、Watanabe Jin(@Sicut_study)です。
 Reactを書いていると時々思うんです。
 
@@ -680,6 +670,16 @@ Reactを書いていると時々思うんです。
 Reactにはデザインパターンとしていくつかの代表的なものが存在します。
 
 HOC(高...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c937af562c4d40c24e42</id>
+    <title>n8nで記事自動生成パイプラインを作ったら、1週間で40本→0本になった話</title>
+    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/c937af562c4d40c24e42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-12T17:43:03+09:00</updated>
+    <summary type="html">Likes: 98&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T17:43:03+09:00&lt;br/&gt;Updated: 2026-02-12T17:43:03+09:00&lt;br/&gt;「自動化の時代」が来た
+2026年の冬、私はn8nに魅了された。
+「人手を介さず、記事が自動生成される」 その夢に、私は狂ったように没頭した。スプレッドシートにキーワードを入れるだけで、AIが記事を書き、画像を生成し、CMSに投稿する。それも10言語同時に。
+ワークフロ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
@@ -1150,6 +1150,15 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
 今回は『スラスラわかるネットワーク&amp;amp;TCP/IPのきほん』のChapter06 セキュリティ章...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5a8a16a2b7e91c3536a8</id>
+    <title>Pandasはもう古い？2026年のPythonデータ分析ライブラリを整理してみた</title>
+    <link rel="alternate" href="https://qiita.com/YASUHARA-Wataru/items/5a8a16a2b7e91c3536a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T21:56:57+09:00</updated>
+    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YASUHARA-Wataru&quot;&gt;YASUHARA-Wataru&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T01:58:34+09:00&lt;br/&gt;Updated: 2026-03-09T21:56:57+09:00&lt;br/&gt;はじめに
+Pythonを使い始めてはや十数年。他の言語も覚えないと思いつつ、研究、PoC用途で使う、簡単な解析や簡単なシミュレーションに使ってきました。
+表計算で広く使われるPandasですが、Pandasを最近あまり使わなくなったというSNSの投稿をみて、使用するライブ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:252fb5ef031127784757</id>
     <title>Claude Code作者が全公開！9種のカスタマイズ手段と設定の全貌</title>
     <link rel="alternate" href="https://qiita.com/dai_chi/items/252fb5ef031127784757?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1196,15 +1205,6 @@ Claude Codeは2025年2月のリリース以来、ターミナルから直接AI�
 少なくとも 初期の頃のPythonは、標準パッケージで何でもできることをコンセプトの1つとしていました。 Pythonが生まれた頃はインターネットに転がっているライブラ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5a8a16a2b7e91c3536a8</id>
-    <title>Pandasはもう古い？2026年のPythonデータ分析ライブラリを整理してみた</title>
-    <link rel="alternate" href="https://qiita.com/YASUHARA-Wataru/items/5a8a16a2b7e91c3536a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T21:56:57+09:00</updated>
-    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YASUHARA-Wataru&quot;&gt;YASUHARA-Wataru&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T01:58:34+09:00&lt;br/&gt;Updated: 2026-03-09T21:56:57+09:00&lt;br/&gt;はじめに
-Pythonを使い始めてはや十数年。他の言語も覚えないと思いつつ、研究、PoC用途で使う、簡単な解析や簡単なシミュレーションに使ってきました。
-表計算で広く使われるPandasですが、Pandasを最近あまり使わなくなったというSNSの投稿をみて、使用するライブ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:8b870661f80d63499336</id>
     <title>Claude Code 初学者ロードマップ</title>
     <link rel="alternate" href="https://qiita.com/marugame/items/8b870661f80d63499336?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1247,6 +1247,15 @@ AIがデザインし、コードを書いたアプリが、
 AIには、日本語で相当うるさく指...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f30d1cd8fd0f7dce692d</id>
+    <title>【初心者向け】物理層と論理層がわかったら、クラウドが一気にスッキリした話</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/f30d1cd8fd0f7dce692d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-07T15:38:22+09:00</updated>
+    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T15:38:22+09:00&lt;br/&gt;Updated: 2026-03-07T15:38:22+09:00&lt;br/&gt;はじめに ― クラウドサービスが多すぎて混乱していた頃
+データエンジニアとして働き始めた頃、一番困ったのが 「クラウドサービスが多すぎて、何がなんだかわからない」 ということでした。
+EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3f14e17314941930ec5c</id>
     <title>【前編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/3f14e17314941930ec5c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1277,15 +1286,6 @@ CPUの動作に詳しくなる
 C言語はアセンブラに翻訳されます。
 
 ア...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f30d1cd8fd0f7dce692d</id>
-    <title>【初心者向け】物理層と論理層がわかったら、クラウドが一気にスッキリした話</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/f30d1cd8fd0f7dce692d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-07T15:38:22+09:00</updated>
-    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T15:38:22+09:00&lt;br/&gt;Updated: 2026-03-07T15:38:22+09:00&lt;br/&gt;はじめに ― クラウドサービスが多すぎて混乱していた頃
-データエンジニアとして働き始めた頃、一番困ったのが 「クラウドサービスが多すぎて、何がなんだかわからない」 ということでした。
-EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
@@ -1461,6 +1461,21 @@ CLAUDE.md
 サブエー...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:568cc5e9b6050522611e</id>
+    <title>【後編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/568cc5e9b6050522611e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T12:44:16+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T12:44:16+09:00&lt;br/&gt;Updated: 2026-03-09T12:44:16+09:00&lt;br/&gt;はじめまして。
+株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントを整理して発信しています。
+PRUMについて気になった方は、
+コーポレートサイトもご覧ください。
+▶ コーポレートサイト
+
+【後編】「また指摘され...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
     <title>【Claude Code】 /insights コマンドがおもしろい</title>
     <link rel="alternate" href="https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1470,21 +1485,6 @@ CLAUDE.md
 
 Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレポートを出してくれる /insights コマンドが追加されていたようです。
 私は24時間使いまわすほどのヘビーユーザーでは...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:568cc5e9b6050522611e</id>
-    <title>【後編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/568cc5e9b6050522611e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T12:44:16+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T12:44:16+09:00&lt;br/&gt;Updated: 2026-03-09T12:44:16+09:00&lt;br/&gt;はじめまして。
-株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で
-つまずきやすいポイントを整理して発信しています。
-PRUMについて気になった方は、
-コーポレートサイトもご覧ください。
-▶ コーポレートサイト
-
-【後編】「また指摘され...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d93e4fbc1c1ddda02a53</id>
@@ -1809,6 +1809,14 @@ Win...</summary>
 資格取得年表...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
+    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T18:15:21+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
+2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1492b77916ce3061cadf</id>
     <title>【シリアル通信】「実機がないからテストできない」は言い訳？SocketDebuggerで巨大な産業機器を丸ごと模擬してみた🔥</title>
     <link rel="alternate" href="https://qiita.com/umezawa_udom/items/1492b77916ce3061cadf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1881,14 +1889,6 @@ Web API（REST API）という言葉を聞いたことがある方
     <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/koras7788&quot;&gt;koras7788&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:47:41+09:00&lt;br/&gt;Updated: 2026-01-21T17:55:41+09:00&lt;br/&gt;Claude Codeは、AI支援による開発体験を提供する強力なツールです。しかし、多くの機能が隠れているため、その真価を十分に活用できていないユーザーも少なくありません。この記事では、作業効率を大幅に向上させる実践的なテクニックを4つのカテゴリーに分けて紹介します。
 
 1...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
-    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T18:15:21+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
-2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cc2450f410b64329d275</id>
@@ -1965,6 +1965,15 @@ PRUMについて気になった方は、
 またユーザーの呼称は、正式でなく便宜的な...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ab8af60a632e7a562e06</id>
+    <title>draw.ioのMCP Toolを使ってアーキテクチャ図を自動生成する</title>
+    <link rel="alternate" href="https://qiita.com/xxyc/items/ab8af60a632e7a562e06?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T11:14:50+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/xxyc&quot;&gt;xxyc&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T11:14:50+09:00&lt;br/&gt;Updated: 2026-03-08T11:14:50+09:00&lt;br/&gt;最近、draw.ioが公式のMCP Toolを公開しました。
+draw.io はアーキテクチャ図を作成する際によく使われるツールで、主要なクラウドサービス（Azure、AWS、GCP など）のアイコンが豊富に揃っているため、とても便利です。
+ただし、アーキテクチャ図を作る作...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:db60751497f6e31339b8</id>
     <title>Nemotron-Nano-9B-v2-Japaneseってなんだ？〜NVIDIAが放つ日本語特化9Bモデルをローカルで完全攻略〜</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/db60751497f6e31339b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1993,15 +2002,6 @@ llama.cpp や Open WebUI を使ったロー...</summary>
 C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
 
 Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ab8af60a632e7a562e06</id>
-    <title>draw.ioのMCP Toolを使ってアーキテクチャ図を自動生成する</title>
-    <link rel="alternate" href="https://qiita.com/xxyc/items/ab8af60a632e7a562e06?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T11:14:50+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/xxyc&quot;&gt;xxyc&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T11:14:50+09:00&lt;br/&gt;Updated: 2026-03-08T11:14:50+09:00&lt;br/&gt;最近、draw.ioが公式のMCP Toolを公開しました。
-draw.io はアーキテクチャ図を作成する際によく使われるツールで、主要なクラウドサービス（Azure、AWS、GCP など）のアイコンが豊富に揃っているため、とても便利です。
-ただし、アーキテクチャ図を作る作...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7b8a5e65873a35ea72dd</id>
