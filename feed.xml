@@ -261,7 +261,7 @@ GMOコネクトの永田です。
     <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
     <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-10T12:55:45+09:00</updated>
-    <summary type="html">Likes: 153&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 155&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
 バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
 前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
   </entry>
@@ -589,20 +589,11 @@ BizCodeXで案件をご紹介いただき、人生初の副業に挑戦しまし
 Claude Code への質問とその回答を指定のファイルに保...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:cace9602e4eaea995cc9</id>
-    <title>Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/cace9602e4eaea995cc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T12:28:24+09:00</updated>
-    <summary type="html">Likes: 108&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T11:43:54+09:00&lt;br/&gt;Updated: 2026-02-19T12:28:24+09:00&lt;br/&gt;はじめに
-2026年1月、Anthropicが「The Complete Guide to Building Skills for Claude」という32ページのPDFを公開しました。
-スキルとは、Claudeに特定のタスクを一貫して実行させるための仕組みです。Mar...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:299a221088f5905332a4</id>
     <title>【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】</title>
     <link rel="alternate" href="https://qiita.com/Sicut_study/items/299a221088f5905332a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-08T22:00:51+09:00</updated>
-    <summary type="html">Likes: 107&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 108&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
 こんにちは、Watanabe Jin(@Sicut_study)です。
 Reactを書いていると時々思うんです。
 
@@ -611,6 +602,15 @@ Reactを書いていると時々思うんです。
 Reactにはデザインパターンとしていくつかの代表的なものが存在します。
 
 HOC(高...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:cace9602e4eaea995cc9</id>
+    <title>Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/cace9602e4eaea995cc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-19T12:28:24+09:00</updated>
+    <summary type="html">Likes: 108&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T11:43:54+09:00&lt;br/&gt;Updated: 2026-02-19T12:28:24+09:00&lt;br/&gt;はじめに
+2026年1月、Anthropicが「The Complete Guide to Building Skills for Claude」という32ページのPDFを公開しました。
+スキルとは、Claudeに特定のタスクを一貫して実行させるための仕組みです。Mar...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9607008aefc2521615ac</id>
@@ -836,6 +836,14 @@ Pencilは、Figma + Layermate みたいなツールで、Pencil上でAIにUIを�
 「調べればす...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
+    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T18:15:21+09:00</updated>
+    <summary type="html">Likes: 83&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
+2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b15f9adc9fb807a3e148</id>
     <title>ペネトレーションテスト チートシート（CRTP）</title>
     <link rel="alternate" href="https://qiita.com/sanyamarseille/items/b15f9adc9fb807a3e148?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -878,14 +886,6 @@ Certify
 X（旧Twitter）で海外Tech動画を日々紹介してるKoderです!
 普段から毎日のように、英語のエンジニア向け動画や役立つネタを発信してるんですが、最近「どうやって情報集めてるの？」って聞かれることがかなり増えてきました。
 そこで今回は、Qiitaの記事と...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
-    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T18:15:21+09:00</updated>
-    <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
-2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b9073cce25766508485a</id>
@@ -1661,6 +1661,15 @@ draw.io の MCP サーバーが公開されていたので、軽く触ってみ�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ab8af60a632e7a562e06</id>
+    <title>draw.ioのMCP Toolを使ってアーキテクチャ図を自動生成する</title>
+    <link rel="alternate" href="https://qiita.com/xxyc/items/ab8af60a632e7a562e06?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T11:14:50+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/xxyc&quot;&gt;xxyc&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T11:14:50+09:00&lt;br/&gt;Updated: 2026-03-08T11:14:50+09:00&lt;br/&gt;最近、draw.ioが公式のMCP Toolを公開しました。
+draw.io はアーキテクチャ図を作成する際によく使われるツールで、主要なクラウドサービス（Azure、AWS、GCP など）のアイコンが豊富に揃っているため、とても便利です。
+ただし、アーキテクチャ図を作る作...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0dd4fc68180aa8526678</id>
     <title>エンジニアが「事業を動かせる人」になるための4要素</title>
     <link rel="alternate" href="https://qiita.com/yamapiiii/items/0dd4fc68180aa8526678?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1726,6 +1735,15 @@ Generative UIは、生成AIやAIエージェントによってUIを生成する�
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2ad32fc119d5b5e1bb98</id>
+    <title>「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）</title>
+    <link rel="alternate" href="https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T14:15:52+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T14:15:52+09:00&lt;br/&gt;Updated: 2026-03-09T14:15:52+09:00&lt;br/&gt;「Vite + Reactでいい」とは、Reactユーザーの一部が持ち、度々表明される意見です。
+比較対象はNext.jsやその他Reactフレームワークであり、そのようなフレームワークよりも「Vite + React」というシンプルな構成を好む意見です。
+現実とは、筆者が...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d56f9704bc95ffc77e74</id>
     <title>依存性注入（DI）とは？“外から渡す”だけでコードがここまで変わる</title>
     <link rel="alternate" href="https://qiita.com/HK_Reisfeld/items/d56f9704bc95ffc77e74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1760,24 +1778,6 @@ The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハ�
 具体的には、M365を導入している企業において利用できる以下を対象とします:
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2ad32fc119d5b5e1bb98</id>
-    <title>「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）</title>
-    <link rel="alternate" href="https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T14:15:52+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T14:15:52+09:00&lt;br/&gt;Updated: 2026-03-09T14:15:52+09:00&lt;br/&gt;「Vite + Reactでいい」とは、Reactユーザーの一部が持ち、度々表明される意見です。
-比較対象はNext.jsやその他Reactフレームワークであり、そのようなフレームワークよりも「Vite + React」というシンプルな構成を好む意見です。
-現実とは、筆者が...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ab8af60a632e7a562e06</id>
-    <title>draw.ioのMCP Toolを使ってアーキテクチャ図を自動生成する</title>
-    <link rel="alternate" href="https://qiita.com/xxyc/items/ab8af60a632e7a562e06?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T11:14:50+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/xxyc&quot;&gt;xxyc&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T11:14:50+09:00&lt;br/&gt;Updated: 2026-03-08T11:14:50+09:00&lt;br/&gt;最近、draw.ioが公式のMCP Toolを公開しました。
-draw.io はアーキテクチャ図を作成する際によく使われるツールで、主要なクラウドサービス（Azure、AWS、GCP など）のアイコンが豊富に揃っているため、とても便利です。
-ただし、アーキテクチャ図を作る作...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d7e494d8657fb0fc65fc</id>
