@@ -458,6 +458,15 @@ PlanモードでClaude Codeに「Remot...</summary>
 エンジニア歴3年目に入った私もまさにその程度で、「言葉はもちろん知ってるんだけど、説明しろと言われるとなぁ」みた...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:66510f959b1c22f011a7</id>
+    <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
+    <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T21:21:56+09:00</updated>
+    <summary type="html">Likes: 125&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-08T21:21:56+09:00&lt;br/&gt;はじめに
+バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
+前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4daa244550e2a4388d26</id>
     <title>2026年、AWS LambdaはVSCodeで開発するのがナウい</title>
     <link rel="alternate" href="https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -493,15 +502,6 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 
 はじめに
 オンボーディングの速さは、エンジニアとしての評価に直結します。早く戦力になれれば、チームからの信頼も得やすく、その後の仕事がスムーズにな...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:66510f959b1c22f011a7</id>
-    <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
-    <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T21:21:56+09:00</updated>
-    <summary type="html">Likes: 121&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-08T21:21:56+09:00&lt;br/&gt;はじめに
-バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
-前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4d732a43ac5cdf9daadc</id>
@@ -631,6 +631,21 @@ PRUMについて気になった方は...</summary>
 そこで今回は、話題のローコードツール n8n と、愛用のノートアプリ Obsidian を連携させ、「朝起きたら、勝手...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:299a221088f5905332a4</id>
+    <title>【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】</title>
+    <link rel="alternate" href="https://qiita.com/Sicut_study/items/299a221088f5905332a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T22:00:51+09:00</updated>
+    <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
+こんにちは、Watanabe Jin(@Sicut_study)です。
+Reactを書いていると時々思うんです。
+
+私はReactを活かしたコードをかけているのだろうか？
+
+Reactにはデザインパターンとしていくつかの代表的なものが存在します。
+
+HOC(高...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bd39652d49addcb116d3</id>
     <title>【前編】「で、&quot;結局&quot;今どんな状況なの？」と言われたとき、あなたの報告はまだ“報告”になっていない</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/bd39652d49addcb116d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -655,21 +670,6 @@ PRUMについて気になった方は、
 個人開発でWebアプリを作ったとき、「どこにデプロイすればいいんだろう？」と悩んだ経験、ありませんか？
 AWSやGCPは高機能だけどコストが怖い。かといって無料のサービスは制限が気になる...
 この記事では、個人開発で使えるおすすめのデ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:299a221088f5905332a4</id>
-    <title>【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】</title>
-    <link rel="alternate" href="https://qiita.com/Sicut_study/items/299a221088f5905332a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T22:00:51+09:00</updated>
-    <summary type="html">Likes: 98&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
-こんにちは、Watanabe Jin(@Sicut_study)です。
-Reactを書いていると時々思うんです。
-
-私はReactを活かしたコードをかけているのだろうか？
-
-Reactにはデザインパターンとしていくつかの代表的なものが存在します。
-
-HOC(高...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c937af562c4d40c24e42</id>
@@ -1130,6 +1130,15 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
 「どの出口から...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5a8a16a2b7e91c3536a8</id>
+    <title>Pandasはもう古い？2026年のPythonデータ分析ライブラリを整理してみた</title>
+    <link rel="alternate" href="https://qiita.com/YASUHARA-Wataru/items/5a8a16a2b7e91c3536a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T21:56:57+09:00</updated>
+    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YASUHARA-Wataru&quot;&gt;YASUHARA-Wataru&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T01:58:34+09:00&lt;br/&gt;Updated: 2026-03-09T21:56:57+09:00&lt;br/&gt;はじめに
+Pythonを使い始めてはや十数年。他の言語も覚えないと思いつつ、研究、PoC用途で使う、簡単な解析や簡単なシミュレーションに使ってきました。
+表計算で広く使われるPandasですが、Pandasを最近あまり使わなくなったというSNSの投稿をみて、使用するライブ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:441f4c6a467dae69583a</id>
     <title>セキュリティ基礎講座：公開鍵暗号は３種類あるよ</title>
     <link rel="alternate" href="https://qiita.com/peridotan/items/441f4c6a467dae69583a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1148,15 +1157,6 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
     <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa_tech_0326&quot;&gt;masa_tech_0326&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T11:16:12+09:00&lt;br/&gt;Updated: 2026-02-12T12:11:14+09:00&lt;br/&gt;はじめに
 最近技術書を毎日30分以上読むようにしているのですが、記事としてアウトプットしないと、自分の中で定着しない気がしたので、読んで学んだことを共有していきたいと思います。
 今回は『スラスラわかるネットワーク&amp;amp;TCP/IPのきほん』のChapter06 セキュリティ章...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5a8a16a2b7e91c3536a8</id>
-    <title>Pandasはもう古い？2026年のPythonデータ分析ライブラリを整理してみた</title>
-    <link rel="alternate" href="https://qiita.com/YASUHARA-Wataru/items/5a8a16a2b7e91c3536a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T21:56:57+09:00</updated>
-    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YASUHARA-Wataru&quot;&gt;YASUHARA-Wataru&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T01:58:34+09:00&lt;br/&gt;Updated: 2026-03-09T21:56:57+09:00&lt;br/&gt;はじめに
-Pythonを使い始めてはや十数年。他の言語も覚えないと思いつつ、研究、PoC用途で使う、簡単な解析や簡単なシミュレーションに使ってきました。
-表計算で広く使われるPandasですが、Pandasを最近あまり使わなくなったというSNSの投稿をみて、使用するライブ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:252fb5ef031127784757</id>
@@ -1434,6 +1434,21 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、いわゆるエージェントタスクにおける計算資源としての使い方が向いているのではという気がしてきた。イメージはAWS LambdaのようなFunction as a serviceのようなワンショットな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:568cc5e9b6050522611e</id>
+    <title>【後編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/568cc5e9b6050522611e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T12:44:16+09:00</updated>
+    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T12:44:16+09:00&lt;br/&gt;Updated: 2026-03-09T12:44:16+09:00&lt;br/&gt;はじめまして。
+株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントを整理して発信しています。
+PRUMについて気になった方は、
+コーポレートサイトもご覧ください。
+▶ コーポレートサイト
+
+【後編】「また指摘され...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b31603922b791c37cc37</id>
     <title>応用情報の廃止・再編「今」取るべき理由と合格戦略</title>
     <link rel="alternate" href="https://qiita.com/shibuya-ys/items/b31603922b791c37cc37?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1459,21 +1474,6 @@ Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、い
 
 CLAUDE.md
 サブエー...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:568cc5e9b6050522611e</id>
-    <title>【後編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/568cc5e9b6050522611e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T12:44:16+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T12:44:16+09:00&lt;br/&gt;Updated: 2026-03-09T12:44:16+09:00&lt;br/&gt;はじめまして。
-株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で
-つまずきやすいポイントを整理して発信しています。
-PRUMについて気になった方は、
-コーポレートサイトもご覧ください。
-▶ コーポレートサイト
-
-【後編】「また指摘され...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
@@ -1571,6 +1571,14 @@ Pythonでプログラミングをしていると、当たり前のように使�
 範囲が広すぎて、何から勉強すればいいのか分からない
 
 統計モデリング（statistical ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
+    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T18:15:21+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
+2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4db2182e2384df4122a2</id>
@@ -1807,14 +1815,6 @@ Win...</summary>
 基本情報に3回落ち、「IT向いてない」と絶望していた自分が、24歳までにAWS 12冠、ネットワークスペシャリスト、情報処理安全確保支援士など計24個の資格を取得するまでの記録です。
 
 資格取得年表...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
-    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T18:15:21+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
-2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1492b77916ce3061cadf</id>
