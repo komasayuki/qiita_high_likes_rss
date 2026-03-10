@@ -298,6 +298,15 @@ Professor Answers Coding Questions
 Professor Answers Coding Questions | Tech Sup...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:66510f959b1c22f011a7</id>
+    <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
+    <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-10T12:55:45+09:00</updated>
+    <summary type="html">Likes: 140&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
+バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
+前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:45699be4eb9d7e0f3b8b</id>
     <title>データベースはなぜ大切なのか？多くの人が説明できない概念的な考え方について</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/45699be4eb9d7e0f3b8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -327,15 +336,6 @@ Professor Answers Coding Questions | Tech Sup...</summary>
     <summary type="html">Likes: 137&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T18:12:06+09:00&lt;br/&gt;Updated: 2026-03-02T18:12:06+09:00&lt;br/&gt;はじめに
 Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使いたかった方々、お待たせしました！
 この度、ローカルへのインストール不要でPyxelの実行・リソース編集・アプリ再生ができる、Pyxel VS Code拡張機能をリリース...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:66510f959b1c22f011a7</id>
-    <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
-    <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-10T12:55:45+09:00</updated>
-    <summary type="html">Likes: 135&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
-バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
-前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f3028a229d0c42877cf4</id>
@@ -598,6 +598,21 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
 スキルとは、Claudeに特定のタスクを一貫して実行させるための仕組みです。Mar...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:299a221088f5905332a4</id>
+    <title>【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】</title>
+    <link rel="alternate" href="https://qiita.com/Sicut_study/items/299a221088f5905332a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T22:00:51+09:00</updated>
+    <summary type="html">Likes: 105&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
+こんにちは、Watanabe Jin(@Sicut_study)です。
+Reactを書いていると時々思うんです。
+
+私はReactを活かしたコードをかけているのだろうか？
+
+Reactにはデザインパターンとしていくつかの代表的なものが存在します。
+
+HOC(高...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9607008aefc2521615ac</id>
     <title>【後編】先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/9607008aefc2521615ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -610,21 +625,6 @@ Claude Code への質問とその回答を指定のファイルに保...</summar
 日々、プログラミング学習や実務の中で
 つまずきやすいポイントを整理して発信しています。
 PRUMについて気になった方は...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:299a221088f5905332a4</id>
-    <title>【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】</title>
-    <link rel="alternate" href="https://qiita.com/Sicut_study/items/299a221088f5905332a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T22:00:51+09:00</updated>
-    <summary type="html">Likes: 103&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
-こんにちは、Watanabe Jin(@Sicut_study)です。
-Reactを書いていると時々思うんです。
-
-私はReactを活かしたコードをかけているのだろうか？
-
-Reactにはデザインパターンとしていくつかの代表的なものが存在します。
-
-HOC(高...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:388a7aaad767b9e11fa3</id>
@@ -1256,6 +1256,14 @@ AIがデザインし、コードを書いたアプリが、
 AIには、日本語で相当うるさく指...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
+    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T18:15:21+09:00</updated>
+    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
+2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3f14e17314941930ec5c</id>
     <title>【前編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/3f14e17314941930ec5c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1343,14 +1351,6 @@ PRUMについて気になった方は、
 この章では、論...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
-    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T18:15:21+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
-2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:4eff08ff2413c23b95ec</id>
     <title>Claude CodeのAgent Teamsをお試し様子見①「人間チーム開発の問題がなんか再現された」話</title>
     <link rel="alternate" href="https://qiita.com/WdknWdkn/items/4eff08ff2413c23b95ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1382,6 +1382,21 @@ PRUMについて気になった方は、
 私もそう思っていました。
 
 コーディングエージェントとの出会い...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:568cc5e9b6050522611e</id>
+    <title>【後編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/568cc5e9b6050522611e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T12:44:16+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T12:44:16+09:00&lt;br/&gt;Updated: 2026-03-09T12:44:16+09:00&lt;br/&gt;はじめまして。
+株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントを整理して発信しています。
+PRUMについて気になった方は、
+コーポレートサイトもご覧ください。
+▶ コーポレートサイト
+
+【後編】「また指摘され...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:918db5c912f436a62e52</id>
@@ -1432,21 +1447,6 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 それが ひたすら数学 です。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:568cc5e9b6050522611e</id>
-    <title>【後編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/568cc5e9b6050522611e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T12:44:16+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T12:44:16+09:00&lt;br/&gt;Updated: 2026-03-09T12:44:16+09:00&lt;br/&gt;はじめまして。
-株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で
-つまずきやすいポイントを整理して発信しています。
-PRUMについて気になった方は、
-コーポレートサイトもご覧ください。
-▶ コーポレートサイト
-
-【後編】「また指摘され...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:85b419b26b2886f5e2d6</id>
@@ -2036,6 +2036,15 @@ console.log(&quot;Hello&quot;)
 と書く一方で、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2ad32fc119d5b5e1bb98</id>
+    <title>「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）</title>
+    <link rel="alternate" href="https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T14:15:52+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T14:15:52+09:00&lt;br/&gt;Updated: 2026-03-09T14:15:52+09:00&lt;br/&gt;「Vite + Reactでいい」とは、Reactユーザーの一部が持ち、度々表明される意見です。
+比較対象はNext.jsやその他Reactフレームワークであり、そのようなフレームワークよりも「Vite + React」というシンプルな構成を好む意見です。
+現実とは、筆者が...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:52e164dfb810e700348f</id>
     <title>高校生が作った「AIに丸投げできるスクレイピングシステム」が、Bright Dataで合法かつ最強になった話</title>
     <link rel="alternate" href="https://qiita.com/harupython/items/52e164dfb810e700348f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2060,15 +2069,6 @@ https://qiita.com/xhackjp1/items/03045dd62c2f...</summary>
     <link rel="alternate" href="https://qiita.com/tkmiii_GiGOOO/items/01de1ee21d2491c54450?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-13T17:55:18+09:00</updated>
     <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tkmiii_GiGOOO&quot;&gt;tkmiii_GiGOOO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T10:24:42+09:00&lt;br/&gt;Updated: 2026-01-13T17:55:18+09:00&lt;br/&gt;本記事の内容は、セキュリティの仕組みを理解するための学習・研究を目的としています。 許可のない第三者のシステムへの攻撃や侵入行為は、法律で固く禁止されています。 検証を行う際は、必ずご自身が管理する環境、または許可を得た環境内でのみ実施してください。 本記事の情報を利用...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2ad32fc119d5b5e1bb98</id>
-    <title>「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）</title>
-    <link rel="alternate" href="https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T14:15:52+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T14:15:52+09:00&lt;br/&gt;Updated: 2026-03-09T14:15:52+09:00&lt;br/&gt;「Vite + Reactでいい」とは、Reactユーザーの一部が持ち、度々表明される意見です。
-比較対象はNext.jsやその他Reactフレームワークであり、そのようなフレームワークよりも「Vite + React」というシンプルな構成を好む意見です。
-現実とは、筆者が...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9f35a0d6e24edd8f2265</id>
@@ -2180,6 +2180,13 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c4b0a91e1a6b5cf2041f</id>
+    <title>BFF(Backend For Frontend)入門：なぜ中間にサーバーを置くのか？</title>
+    <link rel="alternate" href="https://qiita.com/aki_number16/items/c4b0a91e1a6b5cf2041f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T12:14:37+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aki_number16&quot;&gt;aki_number16&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T12:14:37+09:00&lt;br/&gt;Updated: 2026-03-08T12:14:37+09:00&lt;br/&gt;最近、マイクロサービスやフロントエンド開発の文脈でよく耳にするのが「BFF」です。「フロントエンドのためのバックエンド」という名前は知っていましたが、いざ「API Gatewayと何が違うの？」とか「具体的に何を担当させるべき？」と聞かれると、意外と言語化が難しいものです。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6b7a4c6125401327fe80</id>
     <title>Gemini CLIで、散らかったGoogle Driveを一瞬で整理してみた。</title>
     <link rel="alternate" href="https://qiita.com/hiroki2712/items/6b7a4c6125401327fe80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2221,20 +2228,5 @@ GMOコネクトの永田です。
 数十行の箇条書き → 49ページの提案スライド。
 大げさに聞こえるかもしれませんが、Claude Code と Slidev を組み合わせたワークフローで実現しました。
 RFPへの提案書作成は、課題分析・ストーリー設計・図表作成・デザ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b1726a7a6054ed7e64df</id>
-    <title>アーキテクチャの本質は共通している？最も大切な責務分離という考え方</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/b1726a7a6054ed7e64df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-13T16:18:51+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T15:27:06+09:00&lt;br/&gt;Updated: 2026-01-13T16:18:51+09:00&lt;br/&gt;はじめに
-みなさんはWebシステムの3層アーキテクチャ(構造)についてご存じでしょうか？
-簡単に説明すると、Webシステムは
-
-画面を見せるところ（プレゼンテーション層）
-プロセスを実行するところ（アプリケーション層）
-データを保存するところ（データベース層）
-
-この3層...</summary>
   </entry>
 </feed>
