@@ -257,21 +257,21 @@ GMOコネクトの永田です。
 コピペ地獄: スライドをコピ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:66510f959b1c22f011a7</id>
+    <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
+    <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-10T12:55:45+09:00</updated>
+    <summary type="html">Likes: 153&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
+バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
+前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:81fabafaaa1fc0e8fade</id>
     <title>Webのしないといけないセキュリティ対策</title>
     <link rel="alternate" href="https://qiita.com/murasaki1994/items/81fabafaaa1fc0e8fade?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-02-06T12:54:23+09:00</updated>
     <summary type="html">Likes: 152&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/murasaki1994&quot;&gt;murasaki1994&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T11:37:20+09:00&lt;br/&gt;Updated: 2026-02-06T12:54:23+09:00&lt;br/&gt;昨今流行に合わせたWebサイトの作り方など聞くことがしばしありますが、流行以前にWebサイトはDBの設計だったりセキュリティ対策など様々な事をしなければなりません。
 そこで今回はWebサービスにおける脆弱性を利用した攻撃と防ぎ方、そして不正アクセスしたらなぜバレるのかなど私...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:66510f959b1c22f011a7</id>
-    <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
-    <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-10T12:55:45+09:00</updated>
-    <summary type="html">Likes: 149&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
-バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
-前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:61100a5b1aa8d752ae24</id>
@@ -979,6 +979,14 @@ SHAP値処理の改修
 HTML/画像を根拠にMark...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
+    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T18:15:21+09:00</updated>
+    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
+2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:392934f79e943e8b9228</id>
     <title>Claude Codeベストプラクティス -- 成果を安定させる7つの鉄則</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/392934f79e943e8b9228?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1112,14 +1120,6 @@ Pythonを使い始めてはや十数年。他の言語も覚えないと思い�
     <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
 DNSは、URLに出てくる example.com みたいな名前を、通信に使えるIPアドレスに変換する仕組みです。
 インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
-    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T18:15:21+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
-2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c9590934c7e72638107b</id>
@@ -1762,6 +1762,15 @@ The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハ�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2ad32fc119d5b5e1bb98</id>
+    <title>「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）</title>
+    <link rel="alternate" href="https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T14:15:52+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T14:15:52+09:00&lt;br/&gt;Updated: 2026-03-09T14:15:52+09:00&lt;br/&gt;「Vite + Reactでいい」とは、Reactユーザーの一部が持ち、度々表明される意見です。
+比較対象はNext.jsやその他Reactフレームワークであり、そのようなフレームワークよりも「Vite + React」というシンプルな構成を好む意見です。
+現実とは、筆者が...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d7e494d8657fb0fc65fc</id>
     <title>中学生がAIと作った関数型言語「Zenith」</title>
     <link rel="alternate" href="https://qiita.com/nezumickey/items/d7e494d8657fb0fc65fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1804,15 +1813,6 @@ Win...</summary>
 知らなくてもコードは書けますが、知っておくとエラーが起きた時の対応が早くなったり、コードを書く以外の部分で役に立つと思います。
 
 1. Webアプリケーショ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2ad32fc119d5b5e1bb98</id>
-    <title>「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）</title>
-    <link rel="alternate" href="https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T14:15:52+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T14:15:52+09:00&lt;br/&gt;Updated: 2026-03-09T14:15:52+09:00&lt;br/&gt;「Vite + Reactでいい」とは、Reactユーザーの一部が持ち、度々表明される意見です。
-比較対象はNext.jsやその他Reactフレームワークであり、そのようなフレームワークよりも「Vite + React」というシンプルな構成を好む意見です。
-現実とは、筆者が...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ab8af60a632e7a562e06</id>
