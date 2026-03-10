@@ -219,6 +219,15 @@ ChatGPT：
 そういった時にMarkdownのようなプレーンテキストで書きたいと心の底から思いますし、AI時代にはプレーンテキストの方がマッチしているでしょ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:66510f959b1c22f011a7</id>
+    <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
+    <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-10T12:55:45+09:00</updated>
+    <summary type="html">Likes: 159&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
+バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
+前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ecbaedb3d7ffc29c9fb2</id>
     <title>コンピュータ科学の神様が「AIに負けた」日 — Donald Knuth『Claude&apos;s Cycles』を読み解く</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/ecbaedb3d7ffc29c9fb2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -243,15 +252,6 @@ PRUMについて気になった方は、
 ▶ コーポレートサイト
 
 「で、&quot;結局&quot;今どんな...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:66510f959b1c22f011a7</id>
-    <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
-    <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-10T12:55:45+09:00</updated>
-    <summary type="html">Likes: 158&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
-バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
-前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:47fb89fb6a84d9976d36</id>
@@ -561,7 +561,7 @@ PRUMについて気になった方は、
     <title>【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】</title>
     <link rel="alternate" href="https://qiita.com/Sicut_study/items/299a221088f5905332a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-08T22:00:51+09:00</updated>
-    <summary type="html">Likes: 110&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 111&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
 こんにちは、Watanabe Jin(@Sicut_study)です。
 Reactを書いていると時々思うんです。
 
