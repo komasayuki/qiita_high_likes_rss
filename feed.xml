@@ -151,7 +151,7 @@ ChatGPT：
     <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
     <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-10T12:55:45+09:00</updated>
-    <summary type="html">Likes: 201&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 202&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
 バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
 前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
   </entry>
@@ -232,7 +232,7 @@ ChatGPT：
     <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-08T18:15:21+09:00</updated>
-    <summary type="html">Likes: 159&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 160&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
 2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
   </entry>
   <entry>
@@ -1120,15 +1120,6 @@ Pythonを使い始めてはや十数年。他の言語も覚えないと思い�
 これが、私の日常になりました。
 
 メールの確認、Slackの未返信チェック、Notionでのタ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a3e91b89b5ed9b266e91</id>
-    <title>情報はどうやって海を越えるのか？IPアドレスとDNSの関係性について</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/a3e91b89b5ed9b266e91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-07T18:15:47+09:00</updated>
-    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T17:34:20+09:00&lt;br/&gt;Updated: 2026-01-07T18:15:47+09:00&lt;br/&gt;DNSは何をしているのか
-DNSは、URLに出てくる example.com みたいな名前を、通信に使えるIPアドレスに変換する仕組みです。
-インターネットの通信は最終的に「IPアドレスのどこに送るか」で動きます。でも人間は 203.0.113.10 みたいな数字を覚えに...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c9590934c7e72638107b</id>
@@ -2044,6 +2035,18 @@ console.log(&quot;Hello&quot;)
 と書く一方で、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2913db0cbd5ed75f6968</id>
+    <title>いまさら聞けない…そんな人のための Claude Code「さしすせそ」</title>
+    <link rel="alternate" href="https://qiita.com/shinnosuke_takami/items/2913db0cbd5ed75f6968?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T10:55:29+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinnosuke_takami&quot;&gt;shinnosuke_takami&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T10:55:28+09:00&lt;br/&gt;Updated: 2026-03-09T10:55:29+09:00&lt;br/&gt;概要
+料理の基本といえば「さしすせそ」（砂糖・塩・酢・醤油・味噌）。
+実は Claude Code にも、同じように覚えておきたい5つのコツがあります。
+難しく考えなくて大丈夫。一つひとつ、気軽に読んでみてください！
+
+対象読者：Claude Code初心者 ~ 中級者...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:52e164dfb810e700348f</id>
     <title>高校生が作った「AIに丸投げできるスクレイピングシステム」が、Bright Dataで合法かつ最強になった話</title>
     <link rel="alternate" href="https://qiita.com/harupython/items/52e164dfb810e700348f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2082,18 +2085,6 @@ https://qiita.com/xhackjp1/items/03045dd62c2f...</summary>
 などを思ったりする人も多いと思います。
 ただ、実は案外シンプルなことをやっているみたいです。
 今回は、シンプルだけど、実際に仕事...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2913db0cbd5ed75f6968</id>
-    <title>いまさら聞けない…そんな人のための Claude Code「さしすせそ」</title>
-    <link rel="alternate" href="https://qiita.com/shinnosuke_takami/items/2913db0cbd5ed75f6968?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T10:55:29+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinnosuke_takami&quot;&gt;shinnosuke_takami&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T10:55:28+09:00&lt;br/&gt;Updated: 2026-03-09T10:55:29+09:00&lt;br/&gt;概要
-料理の基本といえば「さしすせそ」（砂糖・塩・酢・醤油・味噌）。
-実は Claude Code にも、同じように覚えておきたい5つのコツがあります。
-難しく考えなくて大丈夫。一つひとつ、気軽に読んでみてください！
-
-対象読者：Claude Code初心者 ~ 中級者...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9f35a0d6e24edd8f2265</id>
@@ -2236,5 +2227,14 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 
 自然色を抜けてとうとう寒色になったということで、ざっと灰色のころからのふりかえり、そして緑の間になにをやっていたかを記事にしていこうと思います！
 最後まで...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:116ba416d2ebd3f28bbd</id>
+    <title>Claude Code を Pro プランで2週間使ってみた</title>
+    <link rel="alternate" href="https://qiita.com/wataru86/items/116ba416d2ebd3f28bbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-27T15:51:19+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wataru86&quot;&gt;wataru86&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T15:51:19+09:00&lt;br/&gt;Updated: 2026-02-27T15:51:19+09:00&lt;br/&gt;はじめに
+これまでは主に GitHub Copilot in VSCode を使用していたのですが、プレミアムリクエスト上限まで届くことが多くなってきたので、いまさらですが Claude Code を使ってみました。
+使用開始して2週間くらい経ったので、最初に設定するとよ...</summary>
   </entry>
 </feed>
