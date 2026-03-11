@@ -163,7 +163,7 @@ ChatGPT：
     <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
     <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-10T12:55:45+09:00</updated>
-    <summary type="html">Likes: 195&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 196&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
 バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
 前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
   </entry>
@@ -266,6 +266,14 @@ GMOコネクトの永田です。
 コピペ地獄: スライドをコピ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
+    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T18:15:21+09:00</updated>
+    <summary type="html">Likes: 152&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
+2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:81fabafaaa1fc0e8fade</id>
     <title>Webのしないといけないセキュリティ対策</title>
     <link rel="alternate" href="https://qiita.com/murasaki1994/items/81fabafaaa1fc0e8fade?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -280,14 +288,6 @@ GMOコネクトの永田です。
     <updated>2026-02-14T11:55:18+09:00</updated>
     <summary type="html">Likes: 149&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/okikusan-public&quot;&gt;okikusan-public&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T11:55:18+09:00&lt;br/&gt;Updated: 2026-02-14T11:55:18+09:00&lt;br/&gt;なぜ投資分析の自動化が必要だったのか
 Claude Code Skills と yfinance を使って、株式スクリーニングからポートフォリオ管理まで投資分析を自動化するシステムを作りました。Python × バイブコーディングで、個人投資家の投資ワークフロー全体を5つ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
-    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T18:15:21+09:00</updated>
-    <summary type="html">Likes: 146&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
-2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:855524191d08f73a6748</id>
@@ -1062,6 +1062,15 @@ Tauri は、OS がもともと持っている WebView を利用し、Rust をバ
 そして...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2ad32fc119d5b5e1bb98</id>
+    <title>「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）</title>
+    <link rel="alternate" href="https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T14:15:52+09:00</updated>
+    <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T14:15:52+09:00&lt;br/&gt;Updated: 2026-03-09T14:15:52+09:00&lt;br/&gt;「Vite + Reactでいい」とは、Reactユーザーの一部が持ち、度々表明される意見です。
+比較対象はNext.jsやその他Reactフレームワークであり、そのようなフレームワークよりも「Vite + React」というシンプルな構成を好む意見です。
+現実とは、筆者が...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3ab5caa68a8a33f5ec73</id>
     <title>「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら&quot;成功したはずの出力&quot;がカオスだった話</title>
     <link rel="alternate" href="https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1099,15 +1108,6 @@ Tauri は、OS がもともと持っている WebView を利用し、Rust をバ
     <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YASUHARA-Wataru&quot;&gt;YASUHARA-Wataru&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T01:58:34+09:00&lt;br/&gt;Updated: 2026-03-09T21:56:57+09:00&lt;br/&gt;はじめに
 Pythonを使い始めてはや十数年。他の言語も覚えないと思いつつ、研究、PoC用途で使う、簡単な解析や簡単なシミュレーションに使ってきました。
 表計算で広く使われるPandasですが、Pandasを最近あまり使わなくなったというSNSの投稿をみて、使用するライブ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2ad32fc119d5b5e1bb98</id>
-    <title>「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）</title>
-    <link rel="alternate" href="https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T14:15:52+09:00</updated>
-    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T14:15:52+09:00&lt;br/&gt;Updated: 2026-03-09T14:15:52+09:00&lt;br/&gt;「Vite + Reactでいい」とは、Reactユーザーの一部が持ち、度々表明される意見です。
-比較対象はNext.jsやその他Reactフレームワークであり、そのようなフレームワークよりも「Vite + React」というシンプルな構成を好む意見です。
-現実とは、筆者が...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:382920eb22ed3e645257</id>
