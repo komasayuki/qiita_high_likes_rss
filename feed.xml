@@ -163,7 +163,7 @@ ChatGPT：
     <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
     <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-10T12:55:45+09:00</updated>
-    <summary type="html">Likes: 194&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 195&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
 バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
 前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
   </entry>
@@ -282,6 +282,14 @@ GMOコネクトの永田です。
 Claude Code Skills と yfinance を使って、株式スクリーニングからポートフォリオ管理まで投資分析を自動化するシステムを作りました。Python × バイブコーディングで、個人投資家の投資ワークフロー全体を5つ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
+    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T18:15:21+09:00</updated>
+    <summary type="html">Likes: 146&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
+2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:855524191d08f73a6748</id>
     <title>意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み</title>
     <link rel="alternate" href="https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -292,14 +300,6 @@ Claude Code Skills と yfinance を使って、株式スクリーニングから
 パスワードをそのまま保存していいの？
 ログイン後、URLを直打ちしたらログインせずに入れてしまうのでは？
 そもそも「ログインしている状態」ってどうやって維持さ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
-    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T18:15:21+09:00</updated>
-    <summary type="html">Likes: 143&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
-2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a4c5d048f6fb662ebbba</id>
