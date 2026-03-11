@@ -163,7 +163,7 @@ ChatGPT：
     <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
     <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-10T12:55:45+09:00</updated>
-    <summary type="html">Likes: 196&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 197&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
 バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
 前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
   </entry>
@@ -270,7 +270,7 @@ GMOコネクトの永田です。
     <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-08T18:15:21+09:00</updated>
-    <summary type="html">Likes: 152&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 154&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
 2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
   </entry>
   <entry>
@@ -1735,6 +1735,17 @@ Generative UIは、生成AIやAIエージェントによってUIを生成する�
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4997156bbe8c304231b9</id>
+    <title>試験まで1週間!?「やっべ、全然勉強してない」を救うGemini爆速学習法</title>
+    <link rel="alternate" href="https://qiita.com/esukei_8876/items/4997156bbe8c304231b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T21:19:21+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/esukei_8876&quot;&gt;esukei_8876&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T21:19:21+09:00&lt;br/&gt;Updated: 2026-03-08T21:19:21+09:00&lt;br/&gt;こんなことあるよね？
+「仕事が忙しく、気づけば資格試験まであと1週間……」
+「諸事情で、7日以内に合格しなきゃいけない（かなり滅茶苦茶な話）」
+こんなことってよくありますよね？ね？（あってはならない）
+丁度筆者もそのような絶望的な状況でしたが、GeminiとNoteboo...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c4b0a91e1a6b5cf2041f</id>
     <title>BFF(Backend For Frontend)入門：なぜ中間にサーバーを置くのか？</title>
     <link rel="alternate" href="https://qiita.com/aki_number16/items/c4b0a91e1a6b5cf2041f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1776,17 +1787,6 @@ The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハ�
 具体的には、M365を導入している企業において利用できる以下を対象とします:
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4997156bbe8c304231b9</id>
-    <title>試験まで1週間!?「やっべ、全然勉強してない」を救うGemini爆速学習法</title>
-    <link rel="alternate" href="https://qiita.com/esukei_8876/items/4997156bbe8c304231b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T21:19:21+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/esukei_8876&quot;&gt;esukei_8876&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T21:19:21+09:00&lt;br/&gt;Updated: 2026-03-08T21:19:21+09:00&lt;br/&gt;こんなことあるよね？
-「仕事が忙しく、気づけば資格試験まであと1週間……」
-「諸事情で、7日以内に合格しなきゃいけない（かなり滅茶苦茶な話）」
-こんなことってよくありますよね？ね？（あってはならない）
-丁度筆者もそのような絶望的な状況でしたが、GeminiとNoteboo...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d7e494d8657fb0fc65fc</id>
