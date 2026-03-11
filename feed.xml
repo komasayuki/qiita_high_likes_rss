@@ -294,6 +294,14 @@ Claude Code Skills と yfinance を使って、株式スクリーニングから
 そもそも「ログインしている状態」ってどうやって維持さ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
+    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T18:15:21+09:00</updated>
+    <summary type="html">Likes: 143&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
+2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a4c5d048f6fb662ebbba</id>
     <title>開発者はAIを使うと24％速くなると考えているが実際には約20％遅いという主張について調べた件</title>
     <link rel="alternate" href="https://qiita.com/morry_48/items/a4c5d048f6fb662ebbba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -336,14 +344,6 @@ Professor Answers Coding Questions | Tech Sup...</summary>
     <summary type="html">Likes: 137&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T18:12:06+09:00&lt;br/&gt;Updated: 2026-03-02T18:12:06+09:00&lt;br/&gt;はじめに
 Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使いたかった方々、お待たせしました！
 この度、ローカルへのインストール不要でPyxelの実行・リソース編集・アプリ再生ができる、Pyxel VS Code拡張機能をリリース...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
-    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T18:15:21+09:00</updated>
-    <summary type="html">Likes: 136&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
-2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f3028a229d0c42877cf4</id>
@@ -1778,6 +1778,17 @@ The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハ�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4997156bbe8c304231b9</id>
+    <title>試験まで1週間!?「やっべ、全然勉強してない」を救うGemini爆速学習法</title>
+    <link rel="alternate" href="https://qiita.com/esukei_8876/items/4997156bbe8c304231b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T21:19:21+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/esukei_8876&quot;&gt;esukei_8876&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T21:19:21+09:00&lt;br/&gt;Updated: 2026-03-08T21:19:21+09:00&lt;br/&gt;こんなことあるよね？
+「仕事が忙しく、気づけば資格試験まであと1週間……」
+「諸事情で、7日以内に合格しなきゃいけない（かなり滅茶苦茶な話）」
+こんなことってよくありますよね？ね？（あってはならない）
+丁度筆者もそのような絶望的な状況でしたが、GeminiとNoteboo...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d7e494d8657fb0fc65fc</id>
     <title>中学生がAIと作った関数型言語「Zenith」</title>
     <link rel="alternate" href="https://qiita.com/nezumickey/items/d7e494d8657fb0fc65fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1831,17 +1842,6 @@ Win...</summary>
 基本情報に3回落ち、「IT向いてない」と絶望していた自分が、24歳までにAWS 12冠、ネットワークスペシャリスト、情報処理安全確保支援士など計24個の資格を取得するまでの記録です。
 
 資格取得年表...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4997156bbe8c304231b9</id>
-    <title>試験まで1週間!?「やっべ、全然勉強してない」を救うGemini爆速学習法</title>
-    <link rel="alternate" href="https://qiita.com/esukei_8876/items/4997156bbe8c304231b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T21:19:21+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/esukei_8876&quot;&gt;esukei_8876&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T21:19:21+09:00&lt;br/&gt;Updated: 2026-03-08T21:19:21+09:00&lt;br/&gt;こんなことあるよね？
-「仕事が忙しく、気づけば資格試験まであと1週間……」
-「諸事情で、7日以内に合格しなきゃいけない（かなり滅茶苦茶な話）」
-こんなことってよくありますよね？ね？（あってはならない）
-丁度筆者もそのような絶望的な状況でしたが、GeminiとNoteboo...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1492b77916ce3061cadf</id>
