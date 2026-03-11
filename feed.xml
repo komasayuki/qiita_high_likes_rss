@@ -428,6 +428,14 @@ PlanモードでClaude Codeに「Remot...</summary>
 毎回Wordの...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
+    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T18:15:21+09:00</updated>
+    <summary type="html">Likes: 126&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
+2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:62519da65ca2dc391f0b</id>
     <title>リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法</title>
     <link rel="alternate" href="https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -481,14 +489,6 @@ PlanモードでClaude Codeに「Remot...</summary>
 
 VSCode
 AWS Toolkit for V...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
-    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T18:15:21+09:00</updated>
-    <summary type="html">Likes: 124&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
-2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ee68fc621f7d1c53ffe1</id>
@@ -569,7 +569,7 @@ PRUMについて気になった方は、
     <title>【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】</title>
     <link rel="alternate" href="https://qiita.com/Sicut_study/items/299a221088f5905332a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-08T22:00:51+09:00</updated>
-    <summary type="html">Likes: 112&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 113&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
 こんにちは、Watanabe Jin(@Sicut_study)です。
 Reactを書いていると時々思うんです。
 
@@ -1182,6 +1182,15 @@ PRUMについて気になった方は、
 【後編】「また指摘され...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2ad32fc119d5b5e1bb98</id>
+    <title>「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）</title>
+    <link rel="alternate" href="https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T14:15:52+09:00</updated>
+    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T14:15:52+09:00&lt;br/&gt;Updated: 2026-03-09T14:15:52+09:00&lt;br/&gt;「Vite + Reactでいい」とは、Reactユーザーの一部が持ち、度々表明される意見です。
+比較対象はNext.jsやその他Reactフレームワークであり、そのようなフレームワークよりも「Vite + React」というシンプルな構成を好む意見です。
+現実とは、筆者が...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:252fb5ef031127784757</id>
     <title>Claude Code作者が全公開！9種のカスタマイズ手段と設定の全貌</title>
     <link rel="alternate" href="https://qiita.com/dai_chi/items/252fb5ef031127784757?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1210,15 +1219,6 @@ Claude Codeは2025年2月のリリース以来、ターミナルから直接AI�
     <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:13:46+09:00&lt;br/&gt;Updated: 2026-01-26T21:13:46+09:00&lt;br/&gt;JavaScriptの仕様は、TC39というところで決められています。
 ブラウザベンダや関係者が定期的に会合を行い、様々な新機能について話し合って今後のJavaScriptの方向性を決めていきます。
 ここでは2025年にFinishedになったproposalについて紹介し...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2ad32fc119d5b5e1bb98</id>
-    <title>「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）</title>
-    <link rel="alternate" href="https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T14:15:52+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T14:15:52+09:00&lt;br/&gt;Updated: 2026-03-09T14:15:52+09:00&lt;br/&gt;「Vite + Reactでいい」とは、Reactユーザーの一部が持ち、度々表明される意見です。
-比較対象はNext.jsやその他Reactフレームワークであり、そのようなフレームワークよりも「Vite + React」というシンプルな構成を好む意見です。
-現実とは、筆者が...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f30d1cd8fd0f7dce692d</id>
@@ -1348,15 +1348,6 @@ https://160.16.12...</summary>
     <updated>2026-01-11T17:19:46+09:00</updated>
     <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yugoes1021&quot;&gt;yugoes1021&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T17:19:46+09:00&lt;br/&gt;Updated: 2026-01-11T17:19:46+09:00&lt;br/&gt;ふと思いました
 2025年も変わらず、Power BI の仕事をしていました。多くは、企業さんから依頼を受けて、初学者向けに Power BI の研修を担当していました。その他、データ周りのコンサルティングもやってきました。2026年も引き続き、大きく変わらない予定です。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1403f6be43bad5d085b3</id>
-    <title>インターネットは軍事目的で始まった？歴史をざっくりと学ぶ</title>
-    <link rel="alternate" href="https://qiita.com/shibata1111/items/1403f6be43bad5d085b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-07T11:40:06+09:00</updated>
-    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibata1111&quot;&gt;shibata1111&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T11:35:04+09:00&lt;br/&gt;Updated: 2026-01-07T11:40:06+09:00&lt;br/&gt;インターネットが開発されてからWebサイトができるまで
-インターネットの始まりは1969年。
-米国防総省のARPA（高等研究計画局）という機関が4台のコンピュータを繋いだのがはじまりです。3つの大学と、スタンフォード研究所（SRI）などの研究機関で繋がれており、ARPAN...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3ae7541a112833cad737</id>
@@ -1916,6 +1907,17 @@ Web API（REST API）という言葉を聞いたことがある方
 1...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4997156bbe8c304231b9</id>
+    <title>試験まで1週間!?「やっべ、全然勉強してない」を救うGemini爆速学習法</title>
+    <link rel="alternate" href="https://qiita.com/esukei_8876/items/4997156bbe8c304231b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T21:19:21+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/esukei_8876&quot;&gt;esukei_8876&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T21:19:21+09:00&lt;br/&gt;Updated: 2026-03-08T21:19:21+09:00&lt;br/&gt;こんなことあるよね？
+「仕事が忙しく、気づけば資格試験まであと1週間……」
+「諸事情で、7日以内に合格しなきゃいけない（かなり滅茶苦茶な話）」
+こんなことってよくありますよね？ね？（あってはならない）
+丁度筆者もそのような絶望的な状況でしたが、GeminiとNoteboo...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cc2450f410b64329d275</id>
     <title>Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話</title>
     <link rel="alternate" href="https://qiita.com/yamapiiii/items/cc2450f410b64329d275?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1990,17 +1992,6 @@ PRUMについて気になった方は、
 またユーザーの呼称は、正式でなく便宜的な...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:4997156bbe8c304231b9</id>
-    <title>試験まで1週間!?「やっべ、全然勉強してない」を救うGemini爆速学習法</title>
-    <link rel="alternate" href="https://qiita.com/esukei_8876/items/4997156bbe8c304231b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T21:19:21+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/esukei_8876&quot;&gt;esukei_8876&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T21:19:21+09:00&lt;br/&gt;Updated: 2026-03-08T21:19:21+09:00&lt;br/&gt;こんなことあるよね？
-「仕事が忙しく、気づけば資格試験まであと1週間……」
-「諸事情で、7日以内に合格しなきゃいけない（かなり滅茶苦茶な話）」
-こんなことってよくありますよね？ね？（あってはならない）
-丁度筆者もそのような絶望的な状況でしたが、GeminiとNoteboo...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:db60751497f6e31339b8</id>
     <title>Nemotron-Nano-9B-v2-Japaneseってなんだ？〜NVIDIAが放つ日本語特化9Bモデルをローカルで完全攻略〜</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/db60751497f6e31339b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2019,16 +2010,6 @@ llama.cpp や Open WebUI を使ったロー...</summary>
     <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Lambwool-711&quot;&gt;Lambwool-711&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T10:40:08+09:00&lt;br/&gt;Updated: 2026-02-12T13:25:47+09:00&lt;br/&gt;はじめに
 こんにちは。インフラエンジニア2年目で、運用メインたまに設計構築をやらせてもらっています。まだまだ知らないことだらけで日々学習を継続しています。
 去年(2025年)にAZ-104、SOA、SAA、SAP、ANSなどのいわゆるアソシエイトからプロフェッショナルあた...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9bc0a7a0a68b50c8e138</id>
-    <title>【C#】Channel&lt;T&gt;  でスレッド間通信をシンプルに</title>
-    <link rel="alternate" href="https://qiita.com/Sakai_path/items/9bc0a7a0a68b50c8e138?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-07T12:22:24+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sakai_path&quot;&gt;Sakai_path&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T12:22:24+09:00&lt;br/&gt;Updated: 2026-01-07T12:22:24+09:00&lt;br/&gt;はじめに
-C#で非同期処理を組み立てていると、タスク間でデータを受け渡すキューが欲しくなる場面が出てきます。ですが、キューを自前で実装すると、次のような課題に直面します。
-
-Channel は、こうした「ステージ間の受け渡し」を .NET らしい形で整理して書くため...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7b8a5e65873a35ea72dd</id>
@@ -2210,6 +2191,16 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 対象読者：Claude Code初心者 ~ 中級者...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e97168314c00ce166286</id>
+    <title>次世代パッケージマネージャーpnpmは何が違うのか？設計思想から読み解く依存管理</title>
+    <link rel="alternate" href="https://qiita.com/t0hara/items/e97168314c00ce166286?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T09:37:06+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t0hara&quot;&gt;t0hara&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T09:37:05+09:00&lt;br/&gt;Updated: 2026-03-09T09:37:06+09:00&lt;br/&gt;Node.jsのパッケージ管理は、本当に健全なのか？pnpmを調べていく中で、依存管理の“当たり前”を見直すことになりました。この記事ではpnpmの設計思想に焦点を当てて整理します。
+
+1. はじめに ― パッケージ管理は本当に健全か？
+あるシステムのリプレイス検証の中で、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6b7a4c6125401327fe80</id>
     <title>Gemini CLIで、散らかったGoogle Driveを一瞬で整理してみた。</title>
     <link rel="alternate" href="https://qiita.com/hiroki2712/items/6b7a4c6125401327fe80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2231,5 +2222,14 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 
 自然色を抜けてとうとう寒色になったということで、ざっと灰色のころからのふりかえり、そして緑の間になにをやっていたかを記事にしていこうと思います！
 最後まで...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:116ba416d2ebd3f28bbd</id>
+    <title>Claude Code を Pro プランで2週間使ってみた</title>
+    <link rel="alternate" href="https://qiita.com/wataru86/items/116ba416d2ebd3f28bbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-27T15:51:19+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wataru86&quot;&gt;wataru86&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T15:51:19+09:00&lt;br/&gt;Updated: 2026-02-27T15:51:19+09:00&lt;br/&gt;はじめに
+これまでは主に GitHub Copilot in VSCode を使用していたのですが、プレミアムリクエスト上限まで届くことが多くなってきたので、いまさらですが Claude Code を使ってみました。
+使用開始して2週間くらい経ったので、最初に設定するとよ...</summary>
   </entry>
 </feed>
