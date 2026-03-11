@@ -163,7 +163,7 @@ ChatGPT：
     <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
     <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-10T12:55:45+09:00</updated>
-    <summary type="html">Likes: 188&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 194&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
 バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
 前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
   </entry>
@@ -338,6 +338,14 @@ Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使�
 この度、ローカルへのインストール不要でPyxelの実行・リソース編集・アプリ再生ができる、Pyxel VS Code拡張機能をリリース...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
+    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T18:15:21+09:00</updated>
+    <summary type="html">Likes: 136&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
+2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f3028a229d0c42877cf4</id>
     <title>Claude Codeが私の職場を激変させはじめた</title>
     <link rel="alternate" href="https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -377,14 +385,6 @@ PRUMについて気...</summary>
     <summary type="html">Likes: 131&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T20:09:27+09:00&lt;br/&gt;Updated: 2026-02-11T19:01:42+09:00&lt;br/&gt;この手の話をもう何万回聞いたかわかりませんが、GitHubリポジトリのコミット数や頻度を見るにかなりの本気度を感じます。
 そんなわけでJavaScriptをそのままネイティブアプリにするプロジェクトのひとつ、OpenWebFがベータ版に到達したようです。
 以下は公式ブログ、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
-    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T18:15:21+09:00</updated>
-    <summary type="html">Likes: 130&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
-2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8082c999a78137c7cc10</id>
@@ -1101,6 +1101,15 @@ Pythonを使い始めてはや十数年。他の言語も覚えないと思い�
 表計算で広く使われるPandasですが、Pandasを最近あまり使わなくなったというSNSの投稿をみて、使用するライブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2ad32fc119d5b5e1bb98</id>
+    <title>「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）</title>
+    <link rel="alternate" href="https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T14:15:52+09:00</updated>
+    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T14:15:52+09:00&lt;br/&gt;Updated: 2026-03-09T14:15:52+09:00&lt;br/&gt;「Vite + Reactでいい」とは、Reactユーザーの一部が持ち、度々表明される意見です。
+比較対象はNext.jsやその他Reactフレームワークであり、そのようなフレームワークよりも「Vite + React」というシンプルな構成を好む意見です。
+現実とは、筆者が...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:382920eb22ed3e645257</id>
     <title>AIエージェントと協働するオフィスワーク2026</title>
     <link rel="alternate" href="https://qiita.com/hirokidaichi/items/382920eb22ed3e645257?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1180,15 +1189,6 @@ PRUMについて気になった方は、
 ▶ コーポレートサイト
 
 【後編】「また指摘され...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2ad32fc119d5b5e1bb98</id>
-    <title>「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）</title>
-    <link rel="alternate" href="https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T14:15:52+09:00</updated>
-    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/uhyo&quot;&gt;uhyo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T14:15:52+09:00&lt;br/&gt;Updated: 2026-03-09T14:15:52+09:00&lt;br/&gt;「Vite + Reactでいい」とは、Reactユーザーの一部が持ち、度々表明される意見です。
-比較対象はNext.jsやその他Reactフレームワークであり、そのようなフレームワークよりも「Vite + React」というシンプルな構成を好む意見です。
-現実とは、筆者が...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:252fb5ef031127784757</id>
@@ -1833,6 +1833,17 @@ Win...</summary>
 資格取得年表...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4997156bbe8c304231b9</id>
+    <title>試験まで1週間!?「やっべ、全然勉強してない」を救うGemini爆速学習法</title>
+    <link rel="alternate" href="https://qiita.com/esukei_8876/items/4997156bbe8c304231b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-08T21:19:21+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/esukei_8876&quot;&gt;esukei_8876&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T21:19:21+09:00&lt;br/&gt;Updated: 2026-03-08T21:19:21+09:00&lt;br/&gt;こんなことあるよね？
+「仕事が忙しく、気づけば資格試験まであと1週間……」
+「諸事情で、7日以内に合格しなきゃいけない（かなり滅茶苦茶な話）」
+こんなことってよくありますよね？ね？（あってはならない）
+丁度筆者もそのような絶望的な状況でしたが、GeminiとNoteboo...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1492b77916ce3061cadf</id>
     <title>【シリアル通信】「実機がないからテストできない」は言い訳？SocketDebuggerで巨大な産業機器を丸ごと模擬してみた🔥</title>
     <link rel="alternate" href="https://qiita.com/umezawa_udom/items/1492b77916ce3061cadf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1905,17 +1916,6 @@ Web API（REST API）という言葉を聞いたことがある方
     <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/koras7788&quot;&gt;koras7788&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:47:41+09:00&lt;br/&gt;Updated: 2026-01-21T17:55:41+09:00&lt;br/&gt;Claude Codeは、AI支援による開発体験を提供する強力なツールです。しかし、多くの機能が隠れているため、その真価を十分に活用できていないユーザーも少なくありません。この記事では、作業効率を大幅に向上させる実践的なテクニックを4つのカテゴリーに分けて紹介します。
 
 1...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4997156bbe8c304231b9</id>
-    <title>試験まで1週間!?「やっべ、全然勉強してない」を救うGemini爆速学習法</title>
-    <link rel="alternate" href="https://qiita.com/esukei_8876/items/4997156bbe8c304231b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T21:19:21+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/esukei_8876&quot;&gt;esukei_8876&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T21:19:21+09:00&lt;br/&gt;Updated: 2026-03-08T21:19:21+09:00&lt;br/&gt;こんなことあるよね？
-「仕事が忙しく、気づけば資格試験まであと1週間……」
-「諸事情で、7日以内に合格しなきゃいけない（かなり滅茶苦茶な話）」
-こんなことってよくありますよね？ね？（あってはならない）
-丁度筆者もそのような絶望的な状況でしたが、GeminiとNoteboo...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cc2450f410b64329d275</id>
@@ -2132,6 +2132,28 @@ E2Eテストの自動化、進めていますか？
 今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2913db0cbd5ed75f6968</id>
+    <title>いまさら聞けない…そんな人のための Claude Code「さしすせそ」</title>
+    <link rel="alternate" href="https://qiita.com/shinnosuke_takami/items/2913db0cbd5ed75f6968?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T10:55:29+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinnosuke_takami&quot;&gt;shinnosuke_takami&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T10:55:28+09:00&lt;br/&gt;Updated: 2026-03-09T10:55:29+09:00&lt;br/&gt;概要
+料理の基本といえば「さしすせそ」（砂糖・塩・酢・醤油・味噌）。
+実は Claude Code にも、同じように覚えておきたい5つのコツがあります。
+難しく考えなくて大丈夫。一つひとつ、気軽に読んでみてください！
+
+対象読者：Claude Code初心者 ~ 中級者...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e97168314c00ce166286</id>
+    <title>次世代パッケージマネージャーpnpmは何が違うのか？設計思想から読み解く依存管理</title>
+    <link rel="alternate" href="https://qiita.com/t0hara/items/e97168314c00ce166286?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T09:37:06+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t0hara&quot;&gt;t0hara&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T09:37:05+09:00&lt;br/&gt;Updated: 2026-03-09T09:37:06+09:00&lt;br/&gt;Node.jsのパッケージ管理は、本当に健全なのか？pnpmを調べていく中で、依存管理の“当たり前”を見直すことになりました。この記事ではpnpmの設計思想に焦点を当てて整理します。
+
+1. はじめに ― パッケージ管理は本当に健全か？
+あるシステムのリプレイス検証の中で、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fe3446e3f2a8c33efdfb</id>
     <title>【宇宙最速レビュー】AWSではじめるMCP実践ガイド</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/fe3446e3f2a8c33efdfb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2177,28 +2199,6 @@ Macを使い始めてから、いろいろなツールを試してきました�
 AI Coding.Infoというサイトを2025年7月から運営しています。
 
 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2913db0cbd5ed75f6968</id>
-    <title>いまさら聞けない…そんな人のための Claude Code「さしすせそ」</title>
-    <link rel="alternate" href="https://qiita.com/shinnosuke_takami/items/2913db0cbd5ed75f6968?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T10:55:29+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinnosuke_takami&quot;&gt;shinnosuke_takami&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T10:55:28+09:00&lt;br/&gt;Updated: 2026-03-09T10:55:29+09:00&lt;br/&gt;概要
-料理の基本といえば「さしすせそ」（砂糖・塩・酢・醤油・味噌）。
-実は Claude Code にも、同じように覚えておきたい5つのコツがあります。
-難しく考えなくて大丈夫。一つひとつ、気軽に読んでみてください！
-
-対象読者：Claude Code初心者 ~ 中級者...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e97168314c00ce166286</id>
-    <title>次世代パッケージマネージャーpnpmは何が違うのか？設計思想から読み解く依存管理</title>
-    <link rel="alternate" href="https://qiita.com/t0hara/items/e97168314c00ce166286?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T09:37:06+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t0hara&quot;&gt;t0hara&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T09:37:05+09:00&lt;br/&gt;Updated: 2026-03-09T09:37:06+09:00&lt;br/&gt;Node.jsのパッケージ管理は、本当に健全なのか？pnpmを調べていく中で、依存管理の“当たり前”を見直すことになりました。この記事ではpnpmの設計思想に焦点を当てて整理します。
-
-1. はじめに ― パッケージ管理は本当に健全か？
-あるシステムのリプレイス検証の中で、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6b7a4c6125401327fe80</id>
