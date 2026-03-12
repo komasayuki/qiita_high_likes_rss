@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-11T09:08:52+09:00</updated>
+  <updated>2026-03-11T18:15:42+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1147,6 +1147,20 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
 「どの出口から...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d6a9842f477f0aa0b89e</id>
+    <title>[AI時代でも生き残る] シンプルに優秀な人がやっていること７選</title>
+    <link rel="alternate" href="https://qiita.com/taka_xin/items/d6a9842f477f0aa0b89e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-11T09:08:52+09:00</updated>
+    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/taka_xin&quot;&gt;taka_xin&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T09:08:52+09:00&lt;br/&gt;Updated: 2026-03-11T09:08:52+09:00&lt;br/&gt;はじめに
+仕事ができる人の特徴というと、なんとなく
+「頭の回転が速いのかなぁ」
+「地頭がいいんだろうな」
+「とにかく仕事が好きなんだろうなぁ」
+などを思ったりする人も多いと思います。
+ただ、実は案外シンプルなことをやっているみたいです。
+今回は、シンプルだけど、実際に仕事...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:441f4c6a467dae69583a</id>
     <title>セキュリティ基礎講座：公開鍵暗号は３種類あるよ</title>
     <link rel="alternate" href="https://qiita.com/peridotan/items/441f4c6a467dae69583a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1388,20 +1402,6 @@ PRUMについて気になった方は、
 私もそう思っていました。
 
 コーディングエージェントとの出会い...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6a9842f477f0aa0b89e</id>
-    <title>[AI時代でも生き残る] シンプルに優秀な人がやっていること７選</title>
-    <link rel="alternate" href="https://qiita.com/taka_xin/items/d6a9842f477f0aa0b89e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-11T09:08:52+09:00</updated>
-    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/taka_xin&quot;&gt;taka_xin&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T09:08:52+09:00&lt;br/&gt;Updated: 2026-03-11T09:08:52+09:00&lt;br/&gt;はじめに
-仕事ができる人の特徴というと、なんとなく
-「頭の回転が速いのかなぁ」
-「地頭がいいんだろうな」
-「とにかく仕事が好きなんだろうなぁ」
-などを思ったりする人も多いと思います。
-ただ、実は案外シンプルなことをやっているみたいです。
-今回は、シンプルだけど、実際に仕事...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:918db5c912f436a62e52</id>
@@ -2206,6 +2206,16 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:78fdef38b201985cb0d9</id>
+    <title>【GitHub】GitHubは低品質なユーザによるContributeを拒否する仕様を検討・実装中</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/78fdef38b201985cb0d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-11T18:15:42+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T19:28:32+09:00&lt;br/&gt;Updated: 2026-03-11T18:15:42+09:00&lt;br/&gt;GitHubの現在の仕様は、性善説です。
+すなわち、プルリクを出すことができるユーザは、ある程度コードを理解しているという前提です。
+開発者Collaboratorと、外部貢献者Contributerは、信頼モデルで結ばれていたのです。
+逆にコードを理解していない人によるプ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6b7a4c6125401327fe80</id>
     <title>Gemini CLIで、散らかったGoogle Driveを一瞬で整理してみた。</title>
     <link rel="alternate" href="https://qiita.com/hiroki2712/items/6b7a4c6125401327fe80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2227,14 +2237,5 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 
 自然色を抜けてとうとう寒色になったということで、ざっと灰色のころからのふりかえり、そして緑の間になにをやっていたかを記事にしていこうと思います！
 最後まで...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:116ba416d2ebd3f28bbd</id>
-    <title>Claude Code を Pro プランで2週間使ってみた</title>
-    <link rel="alternate" href="https://qiita.com/wataru86/items/116ba416d2ebd3f28bbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-27T15:51:19+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wataru86&quot;&gt;wataru86&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T15:51:19+09:00&lt;br/&gt;Updated: 2026-02-27T15:51:19+09:00&lt;br/&gt;はじめに
-これまでは主に GitHub Copilot in VSCode を使用していたのですが、プレミアムリクエスト上限まで届くことが多くなってきたので、いまさらですが Claude Code を使ってみました。
-使用開始して2週間くらい経ったので、最初に設定するとよ...</summary>
   </entry>
 </feed>
