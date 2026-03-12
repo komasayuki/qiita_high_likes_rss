@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-11T18:15:42+09:00</updated>
+  <updated>2026-03-13T01:26:39+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -500,6 +500,20 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 オンボーディングの速さは、エンジニアとしての評価に直結します。早く戦力になれれば、チームからの信頼も得やすく、その後の仕事がスムーズにな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d6a9842f477f0aa0b89e</id>
+    <title>[AI時代でも生き残る] シンプルに優秀な人がやっていること７選</title>
+    <link rel="alternate" href="https://qiita.com/taka_xin/items/d6a9842f477f0aa0b89e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-11T09:08:52+09:00</updated>
+    <summary type="html">Likes: 121&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/taka_xin&quot;&gt;taka_xin&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T09:08:52+09:00&lt;br/&gt;Updated: 2026-03-11T09:08:52+09:00&lt;br/&gt;はじめに
+仕事ができる人の特徴というと、なんとなく
+「頭の回転が速いのかなぁ」
+「地頭がいいんだろうな」
+「とにかく仕事が好きなんだろうなぁ」
+などを思ったりする人も多いと思います。
+ただ、実は案外シンプルなことをやっているみたいです。
+今回は、シンプルだけど、実際に仕事...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4d732a43ac5cdf9daadc</id>
     <title>技術記事、硬すぎ問題。だからギャルに読ませてみた</title>
     <link rel="alternate" href="https://qiita.com/kikuziro/items/4d732a43ac5cdf9daadc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -508,20 +522,6 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 最近私はQiita APIを使って、ギャルがQiita記事を音声解説してくれるWebアプリを作っています。
 そうです。ギャルです。 技術記事 × ギャル
 情報量が多いのか少ないのか分からないカオスな組み合わせですが、テスト中にあまりにも感動してしまったのでと...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6a9842f477f0aa0b89e</id>
-    <title>[AI時代でも生き残る] シンプルに優秀な人がやっていること７選</title>
-    <link rel="alternate" href="https://qiita.com/taka_xin/items/d6a9842f477f0aa0b89e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-11T09:08:52+09:00</updated>
-    <summary type="html">Likes: 119&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/taka_xin&quot;&gt;taka_xin&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T09:08:52+09:00&lt;br/&gt;Updated: 2026-03-11T09:08:52+09:00&lt;br/&gt;はじめに
-仕事ができる人の特徴というと、なんとなく
-「頭の回転が速いのかなぁ」
-「地頭がいいんだろうな」
-「とにかく仕事が好きなんだろうなぁ」
-などを思ったりする人も多いと思います。
-ただ、実は案外シンプルなことをやっているみたいです。
-今回は、シンプルだけど、実際に仕事...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4c65053a3db0e3bb6ecb</id>
@@ -1392,6 +1392,16 @@ PRUMについて気になった方は、
 コーディングエージェントとの出会い...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:78fdef38b201985cb0d9</id>
+    <title>【GitHub】GitHubは低品質なユーザによるContributeを拒否する仕様を検討・実装中</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/78fdef38b201985cb0d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-11T18:15:42+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T19:28:32+09:00&lt;br/&gt;Updated: 2026-03-11T18:15:42+09:00&lt;br/&gt;GitHubの現在の仕様は、性善説です。
+すなわち、プルリクを出すことができるユーザは、ある程度コードを理解しているという前提です。
+開発者Collaboratorと、外部貢献者Contributerは、信頼モデルで結ばれていたのです。
+逆にコードを理解していない人によるプ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:918db5c912f436a62e52</id>
     <title>無料で使い放題のローカルLLM「Ollama」を試してみた！</title>
     <link rel="alternate" href="https://qiita.com/hiroki2712/items/918db5c912f436a62e52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1440,16 +1450,6 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 それが ひたすら数学 です。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:78fdef38b201985cb0d9</id>
-    <title>【GitHub】GitHubは低品質なユーザによるContributeを拒否する仕様を検討・実装中</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/78fdef38b201985cb0d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-11T18:15:42+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T19:28:32+09:00&lt;br/&gt;Updated: 2026-03-11T18:15:42+09:00&lt;br/&gt;GitHubの現在の仕様は、性善説です。
-すなわち、プルリクを出すことができるユーザは、ある程度コードを理解しているという前提です。
-開発者Collaboratorと、外部貢献者Contributerは、信頼モデルで結ばれていたのです。
-逆にコードを理解していない人によるプ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:85b419b26b2886f5e2d6</id>
@@ -1684,6 +1684,23 @@ draw.io の MCP サーバーが公開されていたので、軽く触ってみ�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6e5bc00f8426194d0978</id>
+    <title>【deepwiki-open】いいパソコンはもってないけど、ローカルLLMで社内Wikiをつくりたい</title>
+    <link rel="alternate" href="https://qiita.com/melhts/items/6e5bc00f8426194d0978?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-11T10:13:16+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/melhts&quot;&gt;melhts&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T10:13:16+09:00&lt;br/&gt;Updated: 2026-03-11T10:13:16+09:00&lt;br/&gt;１.はじめに
+こんにちは。
+みなさん、『 いいパソコン 』持っていますか？
+
+GPUが積まれた高性能マシン。
+メモリたっぷり。
+ローカルでLLMをブン回せる環境。
+
+私は持っていません。
+（パソコンってお高いですからね...設定も大変だし。）
+それでもローカルLLMで社内...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0dd4fc68180aa8526678</id>
     <title>エンジニアが「事業を動かせる人」になるための4要素</title>
     <link rel="alternate" href="https://qiita.com/yamapiiii/items/0dd4fc68180aa8526678?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1749,21 +1766,18 @@ Generative UIは、生成AIやAIエージェントによってUIを生成する�
 AIエージェントを組み込んだアプリケーションにおいて、ユーザーとの対話中にAIが適切なUIを動的に生成します。...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:6e5bc00f8426194d0978</id>
-    <title>【deepwiki-open】いいパソコンはもってないけど、ローカルLLMで社内Wikiをつくりたい</title>
-    <link rel="alternate" href="https://qiita.com/melhts/items/6e5bc00f8426194d0978?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-11T10:13:16+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/melhts&quot;&gt;melhts&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T10:13:16+09:00&lt;br/&gt;Updated: 2026-03-11T10:13:16+09:00&lt;br/&gt;１.はじめに
-こんにちは。
-みなさん、『 いいパソコン 』持っていますか？
+    <id>tag:qiita.com,2026:dd3ea7c8834c7bebebf9</id>
+    <title>メモリ使用量40MBの衝撃。理想のMarkdownエディタを求めた結果、Tauriで自作が一番良かった</title>
+    <link rel="alternate" href="https://qiita.com/ssaita/items/dd3ea7c8834c7bebebf9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-11T14:54:16+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssaita&quot;&gt;ssaita&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T23:12:38+09:00&lt;br/&gt;Updated: 2026-03-11T14:54:16+09:00&lt;br/&gt;なければ自分で作ればいいのよ！
+――――涼宮ハルヒ
 
-GPUが積まれた高性能マシン。
-メモリたっぷり。
-ローカルでLLMをブン回せる環境。
+かのアニメの主人公はこう言っていました。
 
-私は持っていません。
-（パソコンってお高いですからね...設定も大変だし。）
-それでもローカルLLMで社内...</summary>
+はじめに
+「もっとサクサク動くMarkdownエディタが欲しい！」
+エンジニアなら一度はそう思ったことがあるのではないでしょうか。・・・あれ、ないですか？そうですか。まあ、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c4b0a91e1a6b5cf2041f</id>
@@ -1812,8 +1826,8 @@ The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハ�
     <id>tag:qiita.com,2026:411bfd2be559b82d156d</id>
     <title>【2026年最新】100ページ超の要件定義書も楽勝！Antigravity × NotebookLMでドキュメント作成を爆速化</title>
     <link rel="alternate" href="https://qiita.com/hitotch/items/411bfd2be559b82d156d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-10T03:08:27+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitotch&quot;&gt;hitotch&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T02:59:32+09:00&lt;br/&gt;Updated: 2026-03-10T03:08:27+09:00&lt;br/&gt;AntigravityとNotebookLMで大規模PDF仕様書から大規模Wordドキュメントを作成するワークフロー
+    <updated>2026-03-13T01:26:39+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitotch&quot;&gt;hitotch&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T02:59:32+09:00&lt;br/&gt;Updated: 2026-03-13T01:26:39+09:00&lt;br/&gt;AntigravityとNotebookLMで大規模PDF仕様書から大規模Wordドキュメントを作成するワークフロー
 大規模な要件定義書や仕様書（数百ページのPDFなど）をAIに読み込ませ、そこからシステム設計書や提案書などの新規ドキュメントを自動生成させたい。
 通常、こ...</summary>
   </entry>
@@ -1871,20 +1885,6 @@ Win...</summary>
 基本情報に3回落ち、「IT向いてない」と絶望していた自分が、24歳までにAWS 12冠、ネットワークスペシャリスト、情報処理安全確保支援士など計24個の資格を取得するまでの記録です。
 
 資格取得年表...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:dd3ea7c8834c7bebebf9</id>
-    <title>メモリ使用量40MBの衝撃。理想のMarkdownエディタを求めた結果、Tauriで自作が一番良かった</title>
-    <link rel="alternate" href="https://qiita.com/ssaita/items/dd3ea7c8834c7bebebf9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-11T14:54:16+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssaita&quot;&gt;ssaita&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T23:12:38+09:00&lt;br/&gt;Updated: 2026-03-11T14:54:16+09:00&lt;br/&gt;なければ自分で作ればいいのよ！
-――――涼宮ハルヒ
-
-かのアニメの主人公はこう言っていました。
-
-はじめに
-「もっとサクサク動くMarkdownエディタが欲しい！」
-エンジニアなら一度はそう思ったことがあるのではないでしょうか。・・・あれ、ないですか？そうですか。まあ、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1492b77916ce3061cadf</id>
