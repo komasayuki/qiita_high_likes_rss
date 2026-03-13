@@ -22,7 +22,7 @@
       "updated": "2026-03-10T17:30:58+09:00",
       "author_name": "gmo-connect-ogawa",
       "likes_count": 29,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "01de1ee21d2491c54450",
@@ -154,7 +154,7 @@
       "updated": "2026-03-11T09:27:23+09:00",
       "author_name": "tomo-ryo",
       "likes_count": 16,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "05e66bd57148b4909d90",
@@ -381,8 +381,8 @@
       "published": "2026-03-13T11:41:08+09:00",
       "updated": "2026-03-13T11:41:09+09:00",
       "author_name": "masa20057",
-      "likes_count": 58,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "likes_count": 59,
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "0bf79993886f7d73a81b",
@@ -393,8 +393,8 @@
       "published": "2026-03-11T23:29:41+09:00",
       "updated": "2026-03-11T23:29:41+09:00",
       "author_name": "d94231",
-      "likes_count": 16,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "0cda3b9df8bd889803cf",
@@ -634,7 +634,7 @@
       "updated": "2026-03-12T11:51:06+09:00",
       "author_name": "Takashi_Masumori",
       "likes_count": 12,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "176fb69b1be583c14a4a",
@@ -1486,7 +1486,7 @@
       "updated": "2026-03-11T13:55:22+09:00",
       "author_name": "ntaka329",
       "likes_count": 14,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "362517e59d8eab1b6054",
@@ -1545,8 +1545,8 @@
       "published": "2026-03-11T07:21:50+09:00",
       "updated": "2026-03-12T09:55:27+09:00",
       "author_name": "ngimixin",
-      "likes_count": 31,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "likes_count": 32,
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "382920eb22ed3e645257",
@@ -2062,7 +2062,7 @@
       "updated": "2026-03-10T22:30:32+09:00",
       "author_name": "akira_papa_AI",
       "likes_count": 15,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "4b3bc75731f109927ebd",
@@ -2122,7 +2122,7 @@
       "updated": "2026-03-12T02:40:30+09:00",
       "author_name": "minorun365",
       "likes_count": 16,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "4d0737f8e07dd5fb8a48",
@@ -2254,7 +2254,7 @@
       "updated": "2026-03-11T10:20:58+09:00",
       "author_name": "nogataka",
       "likes_count": 18,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "500f73822cfbcd4783bd",
@@ -2566,7 +2566,7 @@
       "updated": "2026-03-12T14:48:30+09:00",
       "author_name": "takishun_schoo",
       "likes_count": 12,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "5b757456b3c2b3676531",
@@ -2699,6 +2699,18 @@
       "author_name": "yi_sugii",
       "likes_count": 25,
       "last_seen": "2026-03-06T07:25:57.424482675+00:00"
+    },
+    {
+      "key": "5f9ba2cdb2a9e9e93105",
+      "item_id": "5f9ba2cdb2a9e9e93105",
+      "title": "LLMからエージェントへ：2026年に学ぶべきオープンソースAIプロジェクトまとめ",
+      "link": "https://qiita.com/yamamoto0/items/5f9ba2cdb2a9e9e93105?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "2024年まで、AIの学習といえば「モデルのファインチューニング」が主流でした。でも2026年の今、完全にゲームが変わりました。\n今のAI開発の主戦場は 「モデルの精度を0.1%上げること」ではなく、「AIにシステム権限を与えて、自律的にタスクを実行させるアーキテクチャをど...",
+      "published": "2026-03-12T15:30:20+09:00",
+      "updated": "2026-03-12T15:30:20+09:00",
+      "author_name": "yamamoto0",
+      "likes_count": 10,
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "5facca343fc873b8ab4a",
@@ -3082,7 +3094,7 @@
       "updated": "2026-03-11T10:13:16+09:00",
       "author_name": "melhts",
       "likes_count": 55,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "6f68248545359f468563",
@@ -4534,7 +4546,7 @@
       "updated": "2026-03-11T12:18:34+09:00",
       "author_name": "nogataka",
       "likes_count": 18,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "a8409d108cae24888ba0",
@@ -4677,8 +4689,8 @@
       "published": "2026-03-12T21:53:59+09:00",
       "updated": "2026-03-12T21:53:59+09:00",
       "author_name": "nogataka",
-      "likes_count": 12,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "ae29aaa3a960f832e273",
@@ -5710,7 +5722,7 @@
       "updated": "2026-03-11T09:08:52+09:00",
       "author_name": "taka_xin",
       "likes_count": 179,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "d6c9735ce0f7426a4fc6",
@@ -5758,7 +5770,19 @@
       "updated": "2026-03-12T09:47:49+09:00",
       "author_name": "Tsurukawauchi_Jin",
       "likes_count": 17,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
+    },
+    {
+      "key": "d85df55f384b06161af3",
+      "item_id": "d85df55f384b06161af3",
+      "title": "AIコーディングの「理解負債」— 技術負債の次に来る落とし穴",
+      "link": "https://qiita.com/nogataka/items/d85df55f384b06161af3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nAIコーディングツールの普及が止まらない。GitHub Copilot、Cursor、Claude Code——開発者の多くが何らかのAIアシスタントを日常的に使っている。生成されたコードは動く。テストも通る。PRも出せる。\nしかし、ここで見落とされている問題が...",
+      "published": "2026-03-12T21:53:41+09:00",
+      "updated": "2026-03-12T21:53:41+09:00",
+      "author_name": "nogataka",
+      "likes_count": 10,
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "d865fc92921a822c1f44",
@@ -5865,8 +5889,8 @@
       "published": "2026-03-10T23:12:38+09:00",
       "updated": "2026-03-13T21:22:06+09:00",
       "author_name": "ssaita",
-      "likes_count": 120,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "likes_count": 127,
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "dda01037624623a8e7ca",
@@ -5902,7 +5926,7 @@
       "updated": "2026-03-11T07:06:34+09:00",
       "author_name": "CoboMemo",
       "likes_count": 20,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "de6c1ba8ebbd4a20d8ee",
@@ -5962,7 +5986,7 @@
       "updated": "2026-03-12T21:52:33+09:00",
       "author_name": "miruky",
       "likes_count": 15,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "e00e7373b3f8a15877f2",
@@ -6955,10 +6979,10 @@
       "link": "https://qiita.com/masakinihirota/items/fdb955deb0eff36f263f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "【この記事の結論】\n私個人の体感として最も効果的だった解決方法は、「Antigravityから一度ログアウトし、再度ログインする」（またはAntigravityの再起動）ことでした。\nこれを実施した直後から、無事にGemini 3.1 Pro が利用可能になりました。\n（も...",
       "published": "2026-03-13T04:03:42+09:00",
-      "updated": "2026-03-13T21:22:50+09:00",
+      "updated": "2026-03-13T21:48:33+09:00",
       "author_name": "masakinihirota",
-      "likes_count": 17,
-      "last_seen": "2026-03-13T12:24:46.918760689+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-03-13T13:34:45.942385577+00:00"
     },
     {
       "key": "fe3446e3f2a8c33efdfb",
