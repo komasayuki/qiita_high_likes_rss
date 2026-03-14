@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-14T15:39:19+09:00</updated>
+  <updated>2026-03-14T21:27:08+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -885,6 +885,17 @@ X（旧Twitter）で海外Tech動画を日々紹介してるKoderです!
 そこで今回は、Qiitaの記事と...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0ba6853020a40edc97da</id>
+    <title>エンジニア初学者へ伝えたい。現場を通して思ったこれからのエンジニアになるために必要な考え方と姿勢</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/0ba6853020a40edc97da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-13T11:41:09+09:00</updated>
+    <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-03-13T11:41:08+09:00&lt;br/&gt;Updated: 2026-03-13T11:41:09+09:00&lt;br/&gt;今の学習を続けていて、10年後も笑っていられるだろうか
+AIに仕事が奪われるというニュースを見て、エンジニアになるという方向性は間違っていないだろうか
+そんな不安を抱えて、思い悩んでいませんか？
+実は僕も、前は同じでした。
+毎日変わり映えしない仕事をこなしながら、「このまま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:2ad32fc119d5b5e1bb98</id>
     <title>「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）</title>
     <link rel="alternate" href="https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -920,17 +931,6 @@ docker-compose.yml に数行書くだけで S3 互換のストレージが立ち
 
 AIの賢さとツールが洗練されてきました
 Opus4.6やGPT-...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0ba6853020a40edc97da</id>
-    <title>エンジニア初学者へ伝えたい。現場を通して思ったこれからのエンジニアになるために必要な考え方と姿勢</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/0ba6853020a40edc97da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-13T11:41:09+09:00</updated>
-    <summary type="html">Likes: 76&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-03-13T11:41:08+09:00&lt;br/&gt;Updated: 2026-03-13T11:41:09+09:00&lt;br/&gt;今の学習を続けていて、10年後も笑っていられるだろうか
-AIに仕事が奪われるというニュースを見て、エンジニアになるという方向性は間違っていないだろうか
-そんな不安を抱えて、思い悩んでいませんか？
-実は僕も、前は同じでした。
-毎日変わり映えしない仕事をこなしながら、「このまま...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5820d195510861b5be71</id>
@@ -1279,6 +1279,19 @@ AIがデザインし、コードを書いたアプリが、
 AIには、日本語で相当うるさく指...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0bf79993886f7d73a81b</id>
+    <title>AI × Pythonで研究が“30秒で終わる”ようになった話 ― データ基盤 → 仮説量産 → 高速検証の時代へ</title>
+    <link rel="alternate" href="https://qiita.com/d94231/items/0bf79993886f7d73a81b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-14T21:27:08+09:00</updated>
+    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/d94231&quot;&gt;d94231&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T23:29:41+09:00&lt;br/&gt;Updated: 2026-03-14T21:27:08+09:00&lt;br/&gt;最近、研究の進め方が劇的に変わりました。
+きっかけは AIとPythonを本格的に導入したこと。
+昔ながらの
+「テーマ決め → データ収集 → 分析」
+という研究フローは、もう完全に過去のものになりました。
+今は、
+データ基盤を先に作り、AIで仮説を量産し、Pythonで高...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3f14e17314941930ec5c</id>
     <title>【前編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/3f14e17314941930ec5c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1311,19 +1324,6 @@ C言語はアセンブラに翻訳されます。
 ア...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:0bf79993886f7d73a81b</id>
-    <title>AI × Pythonで研究が“30秒で終わる”ようになった話 ― データ基盤 → 仮説量産 → 高速検証の時代へ</title>
-    <link rel="alternate" href="https://qiita.com/d94231/items/0bf79993886f7d73a81b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-11T23:29:41+09:00</updated>
-    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/d94231&quot;&gt;d94231&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T23:29:41+09:00&lt;br/&gt;Updated: 2026-03-11T23:29:41+09:00&lt;br/&gt;最近、研究の進め方が劇的に変わりました。
-きっかけは AIとPythonを本格的に導入したこと。
-昔ながらの
-「テーマ決め → データ収集 → 分析」
-という研究フローは、もう完全に過去のものになりました。
-今は、
-データ基盤を先に作り、AIで仮説を量産し、Pythonで高...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
     <title>https://2685434919 と https://160.16.124.39 はSameOriginか</title>
     <link rel="alternate" href="https://qiita.com/flano_yuki/items/e038be1a66448aaf594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1352,6 +1352,14 @@ https://160.16.12...</summary>
     <updated>2026-01-11T17:19:46+09:00</updated>
     <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yugoes1021&quot;&gt;yugoes1021&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T17:19:46+09:00&lt;br/&gt;Updated: 2026-01-11T17:19:46+09:00&lt;br/&gt;ふと思いました
 2025年も変わらず、Power BI の仕事をしていました。多くは、企業さんから依頼を受けて、初学者向けに Power BI の研修を担当していました。その他、データ周りのコンサルティングもやってきました。2026年も引き続き、大きく変わらない予定です。...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ad9995fb1b3db7055740</id>
+    <title>Claude Code Skills 完全活用ガイド 2026 — 個人最適化からチーム展開まで</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/ad9995fb1b3db7055740?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-12T21:53:59+09:00</updated>
+    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T21:53:59+09:00&lt;br/&gt;Updated: 2026-03-12T21:53:59+09:00&lt;br/&gt;はじめに
+2026年3月現在、Claude Code Skillsに関するはてなブックマークが爆発的に伸びている。クラスメソッドの入門記事が783users、Anthropic公式講座の解説が763users、チーム展開の課題に関する記事が74users——Skillsは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3ae7541a112833cad737</id>
@@ -1461,14 +1469,6 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 それが ひたすら数学 です。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ad9995fb1b3db7055740</id>
-    <title>Claude Code Skills 完全活用ガイド 2026 — 個人最適化からチーム展開まで</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/ad9995fb1b3db7055740?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-12T21:53:59+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T21:53:59+09:00&lt;br/&gt;Updated: 2026-03-12T21:53:59+09:00&lt;br/&gt;はじめに
-2026年3月現在、Claude Code Skillsに関するはてなブックマークが爆発的に伸びている。クラスメソッドの入門記事が783users、Anthropic公式講座の解説が763users、チーム展開の課題に関する記事が74users——Skillsは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:85b419b26b2886f5e2d6</id>
@@ -2051,6 +2051,19 @@ PRUMについて気になった方は、
 またユーザーの呼称は、正式でなく便宜的な...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:72cc4282819ace823524</id>
+    <title>【入門記事】ClaudeCodeの中級者になりたい人は集合してください</title>
+    <link rel="alternate" href="https://qiita.com/K5K/items/72cc4282819ace823524?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-13T21:32:07+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/K5K&quot;&gt;K5K&lt;/a&gt;&lt;br/&gt;Published: 2026-03-13T17:10:20+09:00&lt;br/&gt;Updated: 2026-03-13T21:32:07+09:00&lt;br/&gt;はじめに
+
+この記事はClaudeCodeと共同で執筆しました。
+ただ内容については100%投稿主の意図したものであり、隅々まで監修しております。
+
+みなさん、ClaudeCodeを使っていますか？
+(「バチバチ使いこなしているぜ！」という方は読んでも意味ないので、こ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:db60751497f6e31339b8</id>
     <title>Nemotron-Nano-9B-v2-Japaneseってなんだ？〜NVIDIAが放つ日本語特化9Bモデルをローカルで完全攻略〜</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/db60751497f6e31339b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2220,15 +2233,5 @@ E2Eテストの自動化、進めていますか？
 （私はProプラン加入者）
 Antigravityでクォータ（Gemini3.1などのAIを使用できる量）が０％になる問題が出ました。
 これまではAntigravityで制御(5時間制限、1週間制限)していたクォータを、クレジット方式(直接課金)...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e97168314c00ce166286</id>
-    <title>次世代パッケージマネージャーpnpmは何が違うのか？設計思想から読み解く依存管理</title>
-    <link rel="alternate" href="https://qiita.com/t0hara/items/e97168314c00ce166286?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T09:37:06+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t0hara&quot;&gt;t0hara&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T09:37:05+09:00&lt;br/&gt;Updated: 2026-03-09T09:37:06+09:00&lt;br/&gt;Node.jsのパッケージ管理は、本当に健全なのか？pnpmを調べていく中で、依存管理の“当たり前”を見直すことになりました。この記事ではpnpmの設計思想に焦点を当てて整理します。
-
-1. はじめに ― パッケージ管理は本当に健全か？
-あるシステムのリプレイス検証の中で、...</summary>
   </entry>
 </feed>
