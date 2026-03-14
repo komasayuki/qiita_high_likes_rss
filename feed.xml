@@ -530,19 +530,6 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 情報量が多いのか少ないのか分からないカオスな組み合わせですが、テスト中にあまりにも感動してしまったのでと...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:4c65053a3db0e3bb6ecb</id>
-    <title>俺の設計が甘かったばかりにAIが精神を崩壊させてしまった件</title>
-    <link rel="alternate" href="https://qiita.com/Blacpans/items/4c65053a3db0e3bb6ecb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-10T17:20:09+09:00</updated>
-    <summary type="html">Likes: 118&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Blacpans&quot;&gt;Blacpans&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T17:20:09+09:00&lt;br/&gt;Updated: 2026-01-10T17:20:09+09:00&lt;br/&gt;TL;DR
-
-AIに「全く同じこと」を頼み続けると、人間と同じく虚無に至る
-そうならないためにはタスクにランダム性をもたせるか、明示的にコンテキストを破棄させる必要がある
-どうしても同じことを頼む場合はそもそもコンテキストを保持させてはいけない
-
-以降の内容には、人に...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:10211c4fa7248c7c9740</id>
     <title>【後編】新人エンジニアは、なぜ「止まってしまう」のか。─教える側の“死角”</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/10211c4fa7248c7c9740?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -595,18 +582,6 @@ PRUMについて気になった方は、
     <summary type="html">Likes: 110&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hisaho&quot;&gt;hisaho&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T10:20:46+09:00&lt;br/&gt;Updated: 2026-01-23T10:20:46+09:00&lt;br/&gt;はじめに
 本記事は、AIコーディングツール「Cursor」を使用してゼロから構築された大規模プロジェクト「FastRender」の開発から得られた汎用的なAIコーディングの知見をまとめたものです。
 FastRenderはCursorの並列AIエージェント研究1の一環として...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:09f4a782cee077000c9e</id>
-    <title>人生初の副業で、要件定義・スケジュール管理・API申請・本業バッティングに全部やられた話</title>
-    <link rel="alternate" href="https://qiita.com/oageST/items/09f4a782cee077000c9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-10T21:19:37+09:00</updated>
-    <summary type="html">Likes: 110&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/oageST&quot;&gt;oageST&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T21:19:37+09:00&lt;br/&gt;Updated: 2026-01-10T21:19:37+09:00&lt;br/&gt;はじめに
-BizCodeXで案件をご紹介いただき、人生初の副業に挑戦しました。
-正直に言うと、
-「技術的にできるか」よりも
-「要件定義・スケジュール管理・API申請・本業との両立」 の方が、何倍も大変でした。
-本記事では、初副業で実際に詰まったポイントや失敗、そこから学ん...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cace9602e4eaea995cc9</id>
@@ -1054,6 +1029,19 @@ Tauri は、OS がもともと持っている WebView を利用し、Rust をバ
 そして...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0bf79993886f7d73a81b</id>
+    <title>AI × Pythonで研究が“30秒で終わる”ようになった話 ― データ基盤 → 仮説量産 → 高速検証の時代へ</title>
+    <link rel="alternate" href="https://qiita.com/d94231/items/0bf79993886f7d73a81b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-14T21:27:08+09:00</updated>
+    <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/d94231&quot;&gt;d94231&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T23:29:41+09:00&lt;br/&gt;Updated: 2026-03-14T21:27:08+09:00&lt;br/&gt;最近、研究の進め方が劇的に変わりました。
+きっかけは AIとPythonを本格的に導入したこと。
+昔ながらの
+「テーマ決め → データ収集 → 分析」
+という研究フローは、もう完全に過去のものになりました。
+今は、
+データ基盤を先に作り、AIで仮説を量産し、Pythonで高...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6e5bc00f8426194d0978</id>
     <title>【deepwiki-open】いいパソコンはもってないけど、ローカルLLMで社内Wikiをつくりたい</title>
     <link rel="alternate" href="https://qiita.com/melhts/items/6e5bc00f8426194d0978?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1128,19 +1116,6 @@ Pythonを使い始めてはや十数年。他の言語も覚えないと思い�
 これが、私の日常になりました。
 
 メールの確認、Slackの未返信チェック、Notionでのタ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0bf79993886f7d73a81b</id>
-    <title>AI × Pythonで研究が“30秒で終わる”ようになった話 ― データ基盤 → 仮説量産 → 高速検証の時代へ</title>
-    <link rel="alternate" href="https://qiita.com/d94231/items/0bf79993886f7d73a81b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-14T21:27:08+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/d94231&quot;&gt;d94231&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T23:29:41+09:00&lt;br/&gt;Updated: 2026-03-14T21:27:08+09:00&lt;br/&gt;最近、研究の進め方が劇的に変わりました。
-きっかけは AIとPythonを本格的に導入したこと。
-昔ながらの
-「テーマ決め → データ収集 → 分析」
-という研究フローは、もう完全に過去のものになりました。
-今は、
-データ基盤を先に作り、AIで仮説を量産し、Pythonで高...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c9590934c7e72638107b</id>
@@ -1258,6 +1233,19 @@ EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
 少なくとも 初期の頃のPythonは、標準パッケージで何でもできることをコンセプトの1つとしていました。 Pythonが生まれた頃はインターネットに転がっているライブラ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:72cc4282819ace823524</id>
+    <title>【入門記事】ClaudeCodeの中級者になりたい人は集合してください</title>
+    <link rel="alternate" href="https://qiita.com/K5K/items/72cc4282819ace823524?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-13T21:32:07+09:00</updated>
+    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/K5K&quot;&gt;K5K&lt;/a&gt;&lt;br/&gt;Published: 2026-03-13T17:10:20+09:00&lt;br/&gt;Updated: 2026-03-13T21:32:07+09:00&lt;br/&gt;はじめに
+
+この記事はClaudeCodeと共同で執筆しました。
+ただ内容については100%投稿主の意図したものであり、隅々まで監修しております。
+
+みなさん、ClaudeCodeを使っていますか？
+(「バチバチ使いこなしているぜ！」という方は読んでも意味ないので、こ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8b870661f80d63499336</id>
     <title>Claude Code 初学者ロードマップ</title>
     <link rel="alternate" href="https://qiita.com/marugame/items/8b870661f80d63499336?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1298,19 +1286,6 @@ AIがデザインし、コードを書いたアプリが、
 特別な裏技も、ゴリ押しもありません。
 ただし、放っておいてできた話ではありません。
 AIには、日本語で相当うるさく指...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:72cc4282819ace823524</id>
-    <title>【入門記事】ClaudeCodeの中級者になりたい人は集合してください</title>
-    <link rel="alternate" href="https://qiita.com/K5K/items/72cc4282819ace823524?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-13T21:32:07+09:00</updated>
-    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/K5K&quot;&gt;K5K&lt;/a&gt;&lt;br/&gt;Published: 2026-03-13T17:10:20+09:00&lt;br/&gt;Updated: 2026-03-13T21:32:07+09:00&lt;br/&gt;はじめに
-
-この記事はClaudeCodeと共同で執筆しました。
-ただ内容については100%投稿主の意図したものであり、隅々まで監修しております。
-
-みなさん、ClaudeCodeを使っていますか？
-(「バチバチ使いこなしているぜ！」という方は読んでも意味ないので、こ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3f14e17314941930ec5c</id>
@@ -2233,5 +2208,26 @@ E2Eテストの自動化、進めていますか？
 （私はProプラン加入者）
 Antigravityでクォータ（Gemini3.1などのAIを使用できる量）が０％になる問題が出ました。
 これまではAntigravityで制御(5時間制限、1週間制限)していたクォータを、クレジット方式(直接課金)...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e97168314c00ce166286</id>
+    <title>次世代パッケージマネージャーpnpmは何が違うのか？設計思想から読み解く依存管理</title>
+    <link rel="alternate" href="https://qiita.com/t0hara/items/e97168314c00ce166286?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T09:37:06+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t0hara&quot;&gt;t0hara&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T09:37:05+09:00&lt;br/&gt;Updated: 2026-03-09T09:37:06+09:00&lt;br/&gt;Node.jsのパッケージ管理は、本当に健全なのか？pnpmを調べていく中で、依存管理の“当たり前”を見直すことになりました。この記事ではpnpmの設計思想に焦点を当てて整理します。
+
+1. はじめに ― パッケージ管理は本当に健全か？
+あるシステムのリプレイス検証の中で、...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:fe3446e3f2a8c33efdfb</id>
+    <title>【宇宙最速レビュー】AWSではじめるMCP実践ガイド</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/fe3446e3f2a8c33efdfb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-18T00:33:53+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T00:32:08+09:00&lt;br/&gt;Updated: 2026-02-18T00:33:53+09:00&lt;br/&gt;この記事はClaude Codeと一緒に執筆しました。
+
+AWSコミュニティ仲間の塚田さん・森田さんが書かれたMCP本が、いよいよ2/26に発売されます！ 私もご恵贈いただきました。ありがとうございます🙇‍♂️
+
+私はレビュアーとして発売前の原稿を読ませていただいたの...</summary>
   </entry>
 </feed>
