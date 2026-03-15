@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-15T11:31:07+09:00</updated>
+  <updated>2026-03-15T23:20:18+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -177,8 +177,8 @@ ChatGPT：
     <id>tag:qiita.com,2026:72cc4282819ace823524</id>
     <title>【入門記事】ClaudeCodeの中級者になりたい人は集合してください</title>
     <link rel="alternate" href="https://qiita.com/K5K/items/72cc4282819ace823524?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-15T11:31:07+09:00</updated>
-    <summary type="html">Likes: 192&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/K5K&quot;&gt;K5K&lt;/a&gt;&lt;br/&gt;Published: 2026-03-13T17:10:20+09:00&lt;br/&gt;Updated: 2026-03-15T11:31:07+09:00&lt;br/&gt;はじめに
+    <updated>2026-03-15T23:20:18+09:00</updated>
+    <summary type="html">Likes: 197&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/K5K&quot;&gt;K5K&lt;/a&gt;&lt;br/&gt;Published: 2026-03-13T17:10:20+09:00&lt;br/&gt;Updated: 2026-03-15T23:20:18+09:00&lt;br/&gt;はじめに
 
 この記事はClaudeCodeと共同で執筆しました。
 ただ内容については100%投稿主の意図したものであり、隅々まで監修しております。
@@ -762,6 +762,25 @@ A...</summary>
 またなんか無限レンダリングされるとかなんか2回...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:51db293a7a7d0d277a5d</id>
+    <title>【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/51db293a7a7d0d277a5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-14T22:06:20+09:00</updated>
+    <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T22:06:20+09:00&lt;br/&gt;Updated: 2026-03-14T22:06:20+09:00&lt;br/&gt;はじめに
+
+こんばんは、mirukyです。
+みなさん、Claude Codeは使っていますか。
+Claude Codeは非常に強力なAIコーディングエージェントですが、ターミナルコマンドの実行やファイルの読み書きができるため、セキュリティ設定を怠ると思わぬリスクを招きます...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ad9995fb1b3db7055740</id>
+    <title>Claude Code Skills 完全活用ガイド 2026 — 個人最適化からチーム展開まで</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/ad9995fb1b3db7055740?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-12T21:53:59+09:00</updated>
+    <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T21:53:59+09:00&lt;br/&gt;Updated: 2026-03-12T21:53:59+09:00&lt;br/&gt;はじめに
+2026年3月現在、Claude Code Skillsに関するはてなブックマークが爆発的に伸びている。クラスメソッドの入門記事が783users、Anthropic公式講座の解説が763users、チーム展開の課題に関する記事が74users——Skillsは...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:56b2fc8bf4e7ed5ba7f3</id>
     <title>【保存版】Claude Code完全設定ガイド2026 - Hooks/Skills/MCP/権限を全部入りで本番運用する</title>
     <link rel="alternate" href="https://qiita.com/emi_ndk/items/56b2fc8bf4e7ed5ba7f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -769,14 +788,6 @@ A...</summary>
     <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-28T16:17:53+09:00&lt;br/&gt;Updated: 2026-03-02T05:49:24+09:00&lt;br/&gt;Claude Codeの設定、なんとなくで使っていませんか？
 Hooks、Skills、CLAUDE.md、settings.json、MCP、権限管理…… 2026年のClaude Codeは機能が爆発的に増えた。でも全部を正しく設定しているエンジニアは1%もいない。
 こ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ad9995fb1b3db7055740</id>
-    <title>Claude Code Skills 完全活用ガイド 2026 — 個人最適化からチーム展開まで</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/ad9995fb1b3db7055740?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-12T21:53:59+09:00</updated>
-    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T21:53:59+09:00&lt;br/&gt;Updated: 2026-03-12T21:53:59+09:00&lt;br/&gt;はじめに
-2026年3月現在、Claude Code Skillsに関するはてなブックマークが爆発的に伸びている。クラスメソッドの入門記事が783users、Anthropic公式講座の解説が763users、チーム展開の課題に関する記事が74users——Skillsは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
@@ -880,17 +891,6 @@ Certify
 一円の違いや細かい端数処理でミスが許されない業務を行う中で仕組みによる事故防止に努めてきました。
 この記事では、実務で「地味だけど効く」Excelの小技を紹介します。
 ※マクロなし／明日から使えるもの中心...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:51db293a7a7d0d277a5d</id>
-    <title>【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/51db293a7a7d0d277a5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-14T22:06:20+09:00</updated>
-    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T22:06:20+09:00&lt;br/&gt;Updated: 2026-03-14T22:06:20+09:00&lt;br/&gt;はじめに
-
-こんばんは、mirukyです。
-みなさん、Claude Codeは使っていますか。
-Claude Codeは非常に強力なAIコーディングエージェントですが、ターミナルコマンドの実行やファイルの読み書きができるため、セキュリティ設定を怠ると思わぬリスクを招きます...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ce2327852cef06f5f2ab</id>
@@ -1470,21 +1470,21 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5b5747f619e6eb745436</id>
+    <title>簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/5b5747f619e6eb745436?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-14T15:11:26+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T15:04:10+09:00&lt;br/&gt;Updated: 2026-03-14T15:11:26+09:00&lt;br/&gt;agency-agentsとは何か
+agency-agentsは、144個のAIエージェント定義をMarkdownファイルで提供するOSSです。Claude Code、Copilot、Cursor、Gemini CLIなど10以上のツールに対応しています。
+「開発者として...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:85b419b26b2886f5e2d6</id>
     <title>ローカルLLMサーバーの実用的な使い道の検討</title>
     <link rel="alternate" href="https://qiita.com/bd8z/items/85b419b26b2886f5e2d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-01-18T23:59:50+09:00</updated>
     <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/bd8z&quot;&gt;bd8z&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T12:50:10+09:00&lt;br/&gt;Updated: 2026-01-18T23:59:50+09:00&lt;br/&gt;はじめに
 Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、いわゆるエージェントタスクにおける計算資源としての使い方が向いているのではという気がしてきた。イメージはAWS LambdaのようなFunction as a serviceのようなワンショットな...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5b5747f619e6eb745436</id>
-    <title>簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/5b5747f619e6eb745436?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-14T15:11:26+09:00</updated>
-    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T15:04:10+09:00&lt;br/&gt;Updated: 2026-03-14T15:11:26+09:00&lt;br/&gt;agency-agentsとは何か
-agency-agentsは、144個のAIエージェント定義をMarkdownファイルで提供するOSSです。Claude Code、Copilot、Cursor、Gemini CLIなど10以上のツールに対応しています。
-「開発者として...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b31603922b791c37cc37</id>
