@@ -106,6 +106,17 @@ CI/CD / AWS / Docker / Clean Architecture
 これらは私がジュニアレベルからミドルレベルに上がる中でも特に大変だったなと思う項目です。これを見ている方も憧...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:51db293a7a7d0d277a5d</id>
+    <title>【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/51db293a7a7d0d277a5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-14T22:06:20+09:00</updated>
+    <summary type="html">Likes: 231&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T22:06:20+09:00&lt;br/&gt;Updated: 2026-03-14T22:06:20+09:00&lt;br/&gt;はじめに
+
+こんばんは、mirukyです。
+みなさん、Claude Codeは使っていますか。
+Claude Codeは非常に強力なAIコーディングエージェントですが、ターミナルコマンドの実行やファイルの読み書きができるため、セキュリティ設定を怠ると思わぬリスクを招きます...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:656c122f1ef714f3079d</id>
     <title>ChatGPTに「生成AIが広まったけど、結局 言語化能力がある人が得してるだけじゃない？」と問いかけてみた</title>
     <link rel="alternate" href="https://qiita.com/8853Tomtomtom/items/656c122f1ef714f3079d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -128,17 +139,6 @@ ChatGPT：
 本記事はGitHub Copilotを使っている人は全員&quot;copilot-instructions.md&quot;を作成してくださいの続編になります。
 
 本記事ではカスタムインストラクション(あるいはコンテキストファイル)にcopilot-instructio...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:51db293a7a7d0d277a5d</id>
-    <title>【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/51db293a7a7d0d277a5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-14T22:06:20+09:00</updated>
-    <summary type="html">Likes: 226&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T22:06:20+09:00&lt;br/&gt;Updated: 2026-03-14T22:06:20+09:00&lt;br/&gt;はじめに
-
-こんばんは、mirukyです。
-みなさん、Claude Codeは使っていますか。
-Claude Codeは非常に強力なAIコーディングエージェントですが、ターミナルコマンドの実行やファイルの読み書きができるため、セキュリティ設定を怠ると思わぬリスクを招きます...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a6786232ccff689da825</id>
@@ -360,6 +360,15 @@ Professor Answers Coding Questions | Tech Sup...</summary>
 データベースに対する「概念的な」大切さを説いている人は意外にも...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5b5747f619e6eb745436</id>
+    <title>簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/5b5747f619e6eb745436?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-14T15:11:26+09:00</updated>
+    <summary type="html">Likes: 139&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T15:04:10+09:00&lt;br/&gt;Updated: 2026-03-14T15:11:26+09:00&lt;br/&gt;agency-agentsとは何か
+agency-agentsは、144個のAIエージェント定義をMarkdownファイルで提供するOSSです。Claude Code、Copilot、Cursor、Gemini CLIなど10以上のツールに対応しています。
+「開発者として...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6743216583b66168ec12</id>
     <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
     <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -376,15 +385,6 @@ Professor Answers Coding Questions | Tech Sup...</summary>
     <summary type="html">Likes: 137&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T18:12:06+09:00&lt;br/&gt;Updated: 2026-03-02T18:12:06+09:00&lt;br/&gt;はじめに
 Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使いたかった方々、お待たせしました！
 この度、ローカルへのインストール不要でPyxelの実行・リソース編集・アプリ再生ができる、Pyxel VS Code拡張機能をリリース...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5b5747f619e6eb745436</id>
-    <title>簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/5b5747f619e6eb745436?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-14T15:11:26+09:00</updated>
-    <summary type="html">Likes: 136&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T15:04:10+09:00&lt;br/&gt;Updated: 2026-03-14T15:11:26+09:00&lt;br/&gt;agency-agentsとは何か
-agency-agentsは、144個のAIエージェント定義をMarkdownファイルで提供するOSSです。Claude Code、Copilot、Cursor、Gemini CLIなど10以上のツールに対応しています。
-「開発者として...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f3028a229d0c42877cf4</id>
@@ -1143,6 +1143,14 @@ Pythonを使い始めてはや十数年。他の言語も覚えないと思い�
 メールの確認、Slackの未返信チェック、Notionでのタ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7597edb999821efd2d8b</id>
+    <title>Claude Code で20年前の商用ゲームをほぼ書き直さずにブラウザ移植するまで</title>
+    <link rel="alternate" href="https://qiita.com/LostMyCode/items/7597edb999821efd2d8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-16T09:27:47+09:00</updated>
+    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T07:38:27+09:00&lt;br/&gt;Updated: 2026-03-16T09:27:47+09:00&lt;br/&gt;みなさん PC のオンラインゲームはプレイしたことがありますか？
+最近では環境に依存せずクロスプラットフォーム対応のゲームも多いですが、昔は PC ゲームといえば windows のみ対応で長い長いダウンロードとインストール作業をしてようやく遊べるようになるのが普通でした。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c9590934c7e72638107b</id>
     <title>async/awaitはなぜ生まれたのか ~ 非同期処理の歴史を辿る ~</title>
     <link rel="alternate" href="https://qiita.com/MoriP-K/items/c9590934c7e72638107b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1298,14 +1306,6 @@ AIがデザインし、コードを書いたアプリが、
 特別な裏技も、ゴリ押しもありません。
 ただし、放っておいてできた話ではありません。
 AIには、日本語で相当うるさく指...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7597edb999821efd2d8b</id>
-    <title>Claude Code で20年前の商用ゲームをほぼ書き直さずにブラウザ移植するまで</title>
-    <link rel="alternate" href="https://qiita.com/LostMyCode/items/7597edb999821efd2d8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-16T09:27:47+09:00</updated>
-    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T07:38:27+09:00&lt;br/&gt;Updated: 2026-03-16T09:27:47+09:00&lt;br/&gt;みなさん PC のオンラインゲームはプレイしたことがありますか？
-最近では環境に依存せずクロスプラットフォーム対応のゲームも多いですが、昔は PC ゲームといえば windows のみ対応で長い長いダウンロードとインストール作業をしてようやく遊べるようになるのが普通でした。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3f14e17314941930ec5c</id>
