@@ -134,7 +134,7 @@ ChatGPT：
     <title>【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/51db293a7a7d0d277a5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-14T22:06:20+09:00</updated>
-    <summary type="html">Likes: 222&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T22:06:20+09:00&lt;br/&gt;Updated: 2026-03-14T22:06:20+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 226&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T22:06:20+09:00&lt;br/&gt;Updated: 2026-03-14T22:06:20+09:00&lt;br/&gt;はじめに
 
 こんばんは、mirukyです。
 みなさん、Claude Codeは使っていますか。
@@ -378,6 +378,15 @@ Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使�
 この度、ローカルへのインストール不要でPyxelの実行・リソース編集・アプリ再生ができる、Pyxel VS Code拡張機能をリリース...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5b5747f619e6eb745436</id>
+    <title>簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/5b5747f619e6eb745436?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-14T15:11:26+09:00</updated>
+    <summary type="html">Likes: 136&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T15:04:10+09:00&lt;br/&gt;Updated: 2026-03-14T15:11:26+09:00&lt;br/&gt;agency-agentsとは何か
+agency-agentsは、144個のAIエージェント定義をMarkdownファイルで提供するOSSです。Claude Code、Copilot、Cursor、Gemini CLIなど10以上のツールに対応しています。
+「開発者として...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f3028a229d0c42877cf4</id>
     <title>Claude Codeが私の職場を激変させはじめた</title>
     <link rel="alternate" href="https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -400,15 +409,6 @@ Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使�
 日々、プログラミング学習や実務の中で
 つまずきやすいポイントを整理して発信しています。
 PRUMについて気...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5b5747f619e6eb745436</id>
-    <title>簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/5b5747f619e6eb745436?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-14T15:11:26+09:00</updated>
-    <summary type="html">Likes: 133&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T15:04:10+09:00&lt;br/&gt;Updated: 2026-03-14T15:11:26+09:00&lt;br/&gt;agency-agentsとは何か
-agency-agentsは、144個のAIエージェント定義をMarkdownファイルで提供するOSSです。Claude Code、Copilot、Cursor、Gemini CLIなど10以上のツールに対応しています。
-「開発者として...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bf5637f40d59e18c4d5e</id>
@@ -1300,6 +1300,14 @@ AIがデザインし、コードを書いたアプリが、
 AIには、日本語で相当うるさく指...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7597edb999821efd2d8b</id>
+    <title>Claude Code で20年前の商用ゲームをほぼ書き直さずにブラウザ移植するまで</title>
+    <link rel="alternate" href="https://qiita.com/LostMyCode/items/7597edb999821efd2d8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-16T09:27:47+09:00</updated>
+    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T07:38:27+09:00&lt;br/&gt;Updated: 2026-03-16T09:27:47+09:00&lt;br/&gt;みなさん PC のオンラインゲームはプレイしたことがありますか？
+最近では環境に依存せずクロスプラットフォーム対応のゲームも多いですが、昔は PC ゲームといえば windows のみ対応で長い長いダウンロードとインストール作業をしてようやく遊べるようになるのが普通でした。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3f14e17314941930ec5c</id>
     <title>【前編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/3f14e17314941930ec5c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1392,12 +1400,18 @@ PRUMについて気になった方は、
 まず大前提として、本記事は信用...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:7597edb999821efd2d8b</id>
-    <title>Claude Code で20年前の商用ゲームをほぼ書き直さずにブラウザ移植するまで</title>
-    <link rel="alternate" href="https://qiita.com/LostMyCode/items/7597edb999821efd2d8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-16T09:27:47+09:00</updated>
-    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T07:38:27+09:00&lt;br/&gt;Updated: 2026-03-16T09:27:47+09:00&lt;br/&gt;みなさん PC のオンラインゲームはプレイしたことがありますか？
-最近では環境に依存せずクロスプラットフォーム対応のゲームも多いですが、昔は PC ゲームといえば windows のみ対応で長い長いダウンロードとインストール作業をしてようやく遊べるようになるのが普通でした。...</summary>
+    <id>tag:qiita.com,2026:67d68b074c45d10f0307</id>
+    <title>「やりたいこと」がなくてもいい！ - Canから始めるエンジニアのキャリア戦略 -</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/67d68b074c45d10f0307?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-17T08:42:44+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T12:41:03+09:00&lt;br/&gt;Updated: 2026-03-17T08:42:44+09:00&lt;br/&gt;はじめまして。
+株式会社PRUMでエンジニアをしている ひとみ です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントや、エンジニアとしての考え方を
+整理して発信しています。
+PRUMについて気になった方は、
+コーポレートサイトもご覧ください。
+▶ コーポレー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:78fdef38b201985cb0d9</id>
@@ -1443,20 +1457,6 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 
 1年間のサマリー
 最初はQiitaのContributionと記事...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:67d68b074c45d10f0307</id>
-    <title>「やりたいこと」がなくてもいい！ - Canから始めるエンジニアのキャリア戦略 -</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/67d68b074c45d10f0307?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-17T08:42:44+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T12:41:03+09:00&lt;br/&gt;Updated: 2026-03-17T08:42:44+09:00&lt;br/&gt;はじめまして。
-株式会社PRUMでエンジニアをしている ひとみ です。
-日々、プログラミング学習や実務の中で
-つまずきやすいポイントや、エンジニアとしての考え方を
-整理して発信しています。
-PRUMについて気になった方は、
-コーポレートサイトもご覧ください。
-▶ コーポレー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
