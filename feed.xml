@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-16T12:41:48+09:00</updated>
+  <updated>2026-03-17T08:42:44+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -156,7 +156,7 @@ ChatGPT：
     <title>【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/51db293a7a7d0d277a5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-14T22:06:20+09:00</updated>
-    <summary type="html">Likes: 202&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T22:06:20+09:00&lt;br/&gt;Updated: 2026-03-14T22:06:20+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 204&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T22:06:20+09:00&lt;br/&gt;Updated: 2026-03-14T22:06:20+09:00&lt;br/&gt;はじめに
 
 こんばんは、mirukyです。
 みなさん、Claude Codeは使っていますか。
@@ -507,6 +507,15 @@ PlanモードでClaude Codeに「Remot...</summary>
 エンジニア歴3年目に入った私もまさにその程度で、「言葉はもちろん知ってるんだけど、説明しろと言われるとなぁ」みた...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5b5747f619e6eb745436</id>
+    <title>簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/5b5747f619e6eb745436?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-14T15:11:26+09:00</updated>
+    <summary type="html">Likes: 125&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T15:04:10+09:00&lt;br/&gt;Updated: 2026-03-14T15:11:26+09:00&lt;br/&gt;agency-agentsとは何か
+agency-agentsは、144個のAIエージェント定義をMarkdownファイルで提供するOSSです。Claude Code、Copilot、Cursor、Gemini CLIなど10以上のツールに対応しています。
+「開発者として...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4daa244550e2a4388d26</id>
     <title>2026年、AWS LambdaはVSCodeで開発するのがナウい</title>
     <link rel="alternate" href="https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -531,15 +540,6 @@ AWS Toolkit for V...</summary>
 Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁があります。
 「さっきまで完璧に理解してくれていたのに、新しいセッションを開いたら全部忘れている」
 プロジェクトの背景を説明し直す。コーディング規約を再度伝える。さっき試して失敗したアプローチをま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5b5747f619e6eb745436</id>
-    <title>簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/5b5747f619e6eb745436?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-14T15:11:26+09:00</updated>
-    <summary type="html">Likes: 122&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T15:04:10+09:00&lt;br/&gt;Updated: 2026-03-14T15:11:26+09:00&lt;br/&gt;agency-agentsとは何か
-agency-agentsは、144個のAIエージェント定義をMarkdownファイルで提供するOSSです。Claude Code、Copilot、Cursor、Gemini CLIなど10以上のツールに対応しています。
-「開発者として...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:38cedf1f96e981b4f11d</id>
@@ -1602,6 +1602,20 @@ Morpho社の調査が興味深いデータを出しています。SWE-benchに�
 統計モデリング（statistical ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:67d68b074c45d10f0307</id>
+    <title>「やりたいこと」がなくてもいい！ - Canから始めるエンジニアのキャリア戦略 -</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/67d68b074c45d10f0307?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-17T08:42:44+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T12:41:03+09:00&lt;br/&gt;Updated: 2026-03-17T08:42:44+09:00&lt;br/&gt;はじめまして。
+株式会社PRUMでエンジニアをしている ひとみ です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントや、エンジニアとしての考え方を
+整理して発信しています。
+PRUMについて気になった方は、
+コーポレートサイトもご覧ください。
+▶ コーポレー...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4db2182e2384df4122a2</id>
     <title>Microsoft Teams を悪用したCEO詐欺（ビジネスチャット詐欺）について</title>
     <link rel="alternate" href="https://qiita.com/hirotomotaguchi/items/4db2182e2384df4122a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1799,20 +1813,6 @@ The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハ�
 具体的には、M365を導入している企業において利用できる以下を対象とします:
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:67d68b074c45d10f0307</id>
-    <title>【新人エンジニアへ】「やりたいこと」がなくてもいい！ - Canから始めるエンジニアのキャリア戦略 -</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/67d68b074c45d10f0307?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-16T12:41:48+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T12:41:03+09:00&lt;br/&gt;Updated: 2026-03-16T12:41:48+09:00&lt;br/&gt;はじめまして。
-株式会社PRUMでエンジニアをしている ひとみ です。
-日々、プログラミング学習や実務の中で
-つまずきやすいポイントや、エンジニアとしての考え方を
-整理して発信しています。
-PRUMについて気になった方は、
-コーポレートサイトもご覧ください。
-▶ コーポレー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:411bfd2be559b82d156d</id>
