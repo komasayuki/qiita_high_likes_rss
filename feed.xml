@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-17T08:42:44+09:00</updated>
+  <updated>2026-03-17T11:56:18+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -110,7 +110,7 @@ CI/CD / AWS / Docker / Clean Architecture
     <title>【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/51db293a7a7d0d277a5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-14T22:06:20+09:00</updated>
-    <summary type="html">Likes: 233&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T22:06:20+09:00&lt;br/&gt;Updated: 2026-03-14T22:06:20+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 238&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T22:06:20+09:00&lt;br/&gt;Updated: 2026-03-14T22:06:20+09:00&lt;br/&gt;はじめに
 
 こんばんは、mirukyです。
 みなさん、Claude Codeは使っていますか。
@@ -871,6 +871,14 @@ Certify
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7597edb999821efd2d8b</id>
+    <title>Claude Code で20年前の商用ゲームをほぼ書き直さずにブラウザ移植するまで</title>
+    <link rel="alternate" href="https://qiita.com/LostMyCode/items/7597edb999821efd2d8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-16T09:27:47+09:00</updated>
+    <summary type="html">Likes: 82&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T07:38:27+09:00&lt;br/&gt;Updated: 2026-03-16T09:27:47+09:00&lt;br/&gt;みなさん PC のオンラインゲームはプレイしたことがありますか？
+最近では環境に依存せずクロスプラットフォーム対応のゲームも多いですが、昔は PC ゲームといえば windows のみ対応で長い長いダウンロードとインストール作業をしてようやく遊べるようになるのが普通でした。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e41062344f0b86049a68</id>
     <title>【元経理】実務で本当に使えたExcelの小技５選【ミス防止】</title>
     <link rel="alternate" href="https://qiita.com/2000na/items/e41062344f0b86049a68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -972,14 +980,6 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
 画面に遷移してスクリーンショット取得（Playwright）
 スクショに項番を付けたレイアウト図を作る（draw.io）
 HTML/画像を根拠にMark...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7597edb999821efd2d8b</id>
-    <title>Claude Code で20年前の商用ゲームをほぼ書き直さずにブラウザ移植するまで</title>
-    <link rel="alternate" href="https://qiita.com/LostMyCode/items/7597edb999821efd2d8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-16T09:27:47+09:00</updated>
-    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T07:38:27+09:00&lt;br/&gt;Updated: 2026-03-16T09:27:47+09:00&lt;br/&gt;みなさん PC のオンラインゲームはプレイしたことがありますか？
-最近では環境に依存せずクロスプラットフォーム対応のゲームも多いですが、昔は PC ゲームといえば windows のみ対応で長い長いダウンロードとインストール作業をしてようやく遊べるようになるのが普通でした。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:392934f79e943e8b9228</id>
@@ -2222,27 +2222,13 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:f3b92f07929f1ab9d67e</id>
-    <title>144人のAI専門家チームが無料で手に入る時代 ── agency-agentsの急成長が示すエージェント専門化の潮流</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/f3b92f07929f1ab9d67e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-14T15:04:22+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T15:04:22+09:00&lt;br/&gt;Updated: 2026-03-14T15:04:22+09:00&lt;br/&gt;数字で見る急成長
-agency-agentsは2025年10月に作成されたリポジトリです。2026年3月14日時点の数値を見てみます。
-
-指標
-数値
-
-スター数
-40,889
-
-フォーク数
-6,172
-
-PR総数
-132+
-
-コントリビューター数
-36+
-...</summary>
+    <id>tag:qiita.com,2026:838bc1b59a84b16820a9</id>
+    <title>エンジニア初学者に知ってほしい。プログラミングすることより大切な成長を加速させる4つの指針</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/838bc1b59a84b16820a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-17T11:56:18+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T11:56:17+09:00&lt;br/&gt;Updated: 2026-03-17T11:56:18+09:00&lt;br/&gt;プログラムは「動けばOK」
+AIにコードを丸投げし、中身が分からないまま過ごす日々が不安
+こんなことを思って日々過ごしていませんか？
+そんな方に僕が現場を経験して気づいた、技術の「表面」ではなく「本質」を掴んで成長を加速させるためのヒントを、僕の失敗談を交えつつお伝えします...</summary>
   </entry>
 </feed>
