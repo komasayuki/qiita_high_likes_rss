@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-17T21:11:49+09:00</updated>
+  <updated>2026-03-18T12:32:12+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -672,6 +672,16 @@ PRUMについて気になった方は、
 「で、&quot;結局&quot;今どんな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:838bc1b59a84b16820a9</id>
+    <title>エンジニア初学者に知ってほしい。プログラミングすることより大切な成長を加速させる4つの指針</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/838bc1b59a84b16820a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-17T11:56:18+09:00</updated>
+    <summary type="html">Likes: 99&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T11:56:17+09:00&lt;br/&gt;Updated: 2026-03-17T11:56:18+09:00&lt;br/&gt;プログラムは「動けばOK」
+AIにコードを丸投げし、中身が分からないまま過ごす日々が不安
+こんなことを思って日々過ごしていませんか？
+そんな方に僕が現場を経験して気づいた、技術の「表面」ではなく「本質」を掴んで成長を加速させるためのヒントを、僕の失敗談を交えつつお伝えします...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:262e0645fbfb024ecd4b</id>
     <title>できるだけ無料でサービスを運用するための個人開発オススメデプロイ先</title>
     <link rel="alternate" href="https://qiita.com/Hiru-ge/items/262e0645fbfb024ecd4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -710,16 +720,6 @@ AWSやGCPは高機能だけどコストが怖い。かといって無料のサ�
 なお補足しておきますと、元ネタの記事はJavaScriptの async/await の歴史についていえば、間違ってないと思います。
 
 ただ、 async/awaitは...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:838bc1b59a84b16820a9</id>
-    <title>エンジニア初学者に知ってほしい。プログラミングすることより大切な成長を加速させる4つの指針</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/838bc1b59a84b16820a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-17T11:56:18+09:00</updated>
-    <summary type="html">Likes: 95&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T11:56:17+09:00&lt;br/&gt;Updated: 2026-03-17T11:56:18+09:00&lt;br/&gt;プログラムは「動けばOK」
-AIにコードを丸投げし、中身が分からないまま過ごす日々が不安
-こんなことを思って日々過ごしていませんか？
-そんな方に僕が現場を経験して気づいた、技術の「表面」ではなく「本質」を掴んで成長を加速させるためのヒントを、僕の失敗談を交えつつお伝えします...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fca5a1898cc2a9c961f6</id>
@@ -1057,6 +1057,15 @@ Tauri は、OS がもともと持っている WebView を利用し、Rust をバ
 そして...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:76a4d9dac74e70bceebb</id>
+    <title>生成AIで古（いにしえ）のFORTRANコードに挑戦する</title>
+    <link rel="alternate" href="https://qiita.com/cometscome_phys/items/76a4d9dac74e70bceebb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-17T21:11:49+09:00</updated>
+    <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/cometscome_phys&quot;&gt;cometscome_phys&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T19:12:14+09:00&lt;br/&gt;Updated: 2026-03-17T21:11:49+09:00&lt;br/&gt;古（いにしえ）のFORTRANコード
+ChatGPT5.4 を使います。MacのCodexアプリを使います(5.4 Codexではなく5.4でした。)。
+このWebサイトでは、物理学で使う計算手法のコードが公開されています。FORTRANです。DMFTと呼ばれる手法の超有...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0bf79993886f7d73a81b</id>
     <title>AI × Pythonで研究が“30秒で終わる”ようになった話 ― データ基盤 → 仮説量産 → 高速検証の時代へ</title>
     <link rel="alternate" href="https://qiita.com/d94231/items/0bf79993886f7d73a81b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1136,15 +1145,6 @@ Pythonを使い始めてはや十数年。他の言語も覚えないと思い�
 これが、私の日常になりました。
 
 メールの確認、Slackの未返信チェック、Notionでのタ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:76a4d9dac74e70bceebb</id>
-    <title>生成AIで古（いにしえ）のFORTRANコードに挑戦する</title>
-    <link rel="alternate" href="https://qiita.com/cometscome_phys/items/76a4d9dac74e70bceebb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-17T21:11:49+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/cometscome_phys&quot;&gt;cometscome_phys&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T19:12:14+09:00&lt;br/&gt;Updated: 2026-03-17T21:11:49+09:00&lt;br/&gt;古（いにしえ）のFORTRANコード
-ChatGPT5.4 を使います。MacのCodexアプリを使います(5.4 Codexではなく5.4でした。)。
-このWebサイトでは、物理学で使う計算手法のコードが公開されています。FORTRANです。DMFTと呼ばれる手法の超有...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c9590934c7e72638107b</id>
@@ -1237,6 +1237,16 @@ Claude Codeは2025年2月のリリース以来、ターミナルから直接AI�
 ここでは2025年にFinishedになったproposalについて紹介し...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c05c3aed3bf8e46a7ddb</id>
+    <title>Claude Codeで「Issue起票→並列開発→PR作成」を全自動化したら、開発速度が異次元になった</title>
+    <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/c05c3aed3bf8e46a7ddb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-15T17:03:27+09:00</updated>
+    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kazuki_ogawa&quot;&gt;kazuki_ogawa&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T17:03:27+09:00&lt;br/&gt;Updated: 2026-03-15T17:03:27+09:00&lt;br/&gt;はじめに
+「Claude Codeで開発してるけど、1つずつ順番にIssueを片付けるのが遅い…」
+そんな悩みを解決するために、Issue起票から並列開発、PR作成までを一気通貫で自動化するワークフローを構築しました。
+具体的には、Claude CodeのSkillsを組...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f30d1cd8fd0f7dce692d</id>
     <title>【初心者向け】物理層と論理層がわかったら、クラウドが一気にスッキリした話</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/f30d1cd8fd0f7dce692d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1292,14 +1302,18 @@ CPU が I/O デバイスのレジスタをアクセスする際は、物理メ�
 CPU がメモリ空間にアクセスする際の用途は文字通り記録(メモリ)するためです。しかし、...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c05c3aed3bf8e46a7ddb</id>
-    <title>Claude Codeで「Issue起票→並列開発→PR作成」を全自動化したら、開発速度が異次元になった</title>
-    <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/c05c3aed3bf8e46a7ddb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-15T17:03:27+09:00</updated>
-    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kazuki_ogawa&quot;&gt;kazuki_ogawa&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T17:03:27+09:00&lt;br/&gt;Updated: 2026-03-15T17:03:27+09:00&lt;br/&gt;はじめに
-「Claude Codeで開発してるけど、1つずつ順番にIssueを片付けるのが遅い…」
-そんな悩みを解決するために、Issue起票から並列開発、PR作成までを一気通貫で自動化するワークフローを構築しました。
-具体的には、Claude CodeのSkillsを組...</summary>
+    <id>tag:qiita.com,2026:67d68b074c45d10f0307</id>
+    <title>「やりたいこと」がなくてもいい！ - Canから始めるエンジニアのキャリア戦略 -</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/67d68b074c45d10f0307?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-17T08:42:44+09:00</updated>
+    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T12:41:03+09:00&lt;br/&gt;Updated: 2026-03-17T08:42:44+09:00&lt;br/&gt;はじめまして。
+株式会社PRUMでエンジニアをしている ひとみ です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントや、エンジニアとしての考え方を
+整理して発信しています。
+PRUMについて気になった方は、
+コーポレートサイトもご覧ください。
+▶ コーポレー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3f14e17314941930ec5c</id>
@@ -1332,20 +1346,6 @@ CPUの動作に詳しくなる
 C言語はアセンブラに翻訳されます。
 
 ア...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:67d68b074c45d10f0307</id>
-    <title>「やりたいこと」がなくてもいい！ - Canから始めるエンジニアのキャリア戦略 -</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/67d68b074c45d10f0307?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-17T08:42:44+09:00</updated>
-    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T12:41:03+09:00&lt;br/&gt;Updated: 2026-03-17T08:42:44+09:00&lt;br/&gt;はじめまして。
-株式会社PRUMでエンジニアをしている ひとみ です。
-日々、プログラミング学習や実務の中で
-つまずきやすいポイントや、エンジニアとしての考え方を
-整理して発信しています。
-PRUMについて気になった方は、
-コーポレートサイトもご覧ください。
-▶ コーポレー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e038be1a66448aaf594f</id>
@@ -2056,6 +2056,21 @@ console.log(&quot;Hello&quot;)
 と書く一方で、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:48ede59ebe33b4b774ac</id>
+    <title>Claude Code 知らないと損する隠しコマンド・時短術 20選</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/48ede59ebe33b4b774ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-16T16:37:31+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T13:00:11+09:00&lt;br/&gt;Updated: 2026-03-16T16:37:31+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+Claude Codeを使っていて、こんな経験はありませんか？
+
+毎回同じ操作を手動で繰り返している
+もっと速くできるはずなのにやり方がわからない
+公式ドキュメントが膨大すぎて追いきれない
+
+本記事では、公式ドキュメント・chan...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:52e164dfb810e700348f</id>
     <title>高校生が作った「AIに丸投げできるスクレイピングシステム」が、Bright Dataで合法かつ最強になった話</title>
     <link rel="alternate" href="https://qiita.com/harupython/items/52e164dfb810e700348f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2075,19 +2090,18 @@ Qiita上の解説としては以下の記事が最速ですが、本当に便利
 https://qiita.com/xhackjp1/items/03045dd62c2f...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:48ede59ebe33b4b774ac</id>
-    <title>Claude Code 知らないと損する隠しコマンド・時短術 20選</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/48ede59ebe33b4b774ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-16T16:37:31+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T13:00:11+09:00&lt;br/&gt;Updated: 2026-03-16T16:37:31+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-Claude Codeを使っていて、こんな経験はありませんか？
+    <id>tag:qiita.com,2026:bc9aee9c5951e01ad13b</id>
+    <title>【個人開発】最寄り駅から徒歩X分以内の物件を地図上に列挙できるアプリを作ってみた【React,TS,supabase,leaflet】</title>
+    <link rel="alternate" href="https://qiita.com/nu197ma/items/bc9aee9c5951e01ad13b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-15T17:00:12+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nu197ma&quot;&gt;nu197ma&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T17:00:12+09:00&lt;br/&gt;Updated: 2026-03-15T17:00:12+09:00&lt;br/&gt;はじめに
 
-毎回同じ操作を手動で繰り返している
-もっと速くできるはずなのにやり方がわからない
-公式ドキュメントが膨大すぎて追いきれない
+個人開発で、supabaseとReactを使ったアプリケーションを作成している。
 
-本記事では、公式ドキュメント・chan...</summary>
+解決したかった問題
+
+賃貸物件を探す際、「駅から近い物件」、あるいは「駅から遠くてもいいので家賃が安い物件」などを調べたいことがよくある。
+既存の賃貸サイトでは、「駅からX分...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9f35a0d6e24edd8f2265</id>
@@ -2152,18 +2166,19 @@ E2Eテストの自動化、進めていますか？
 今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:bc9aee9c5951e01ad13b</id>
-    <title>【個人開発】最寄り駅から徒歩X分以内の物件を地図上に列挙できるアプリを作ってみた【React,TS,supabase,leaflet】</title>
-    <link rel="alternate" href="https://qiita.com/nu197ma/items/bc9aee9c5951e01ad13b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-15T17:00:12+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nu197ma&quot;&gt;nu197ma&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T17:00:12+09:00&lt;br/&gt;Updated: 2026-03-15T17:00:12+09:00&lt;br/&gt;はじめに
+    <id>tag:qiita.com,2026:417b4d6f416fb188a30c</id>
+    <title>【前編】「バグが出ました。」それは報告？相談？ ― 意識の違いでシゴデキエンジニアに！！ ―</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/417b4d6f416fb188a30c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-18T12:32:12+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:30:10+09:00&lt;br/&gt;Updated: 2026-03-18T12:32:12+09:00&lt;br/&gt;はじめまして。
+株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントを整理して発信しています。
+PRUMについて気になった方は、
+コーポレートサイトもご覧ください。
+▶ コーポレートサイト
 
-個人開発で、supabaseとReactを使ったアプリケーションを作成している。
-
-解決したかった問題
-
-賃貸物件を探す際、「駅から近い物件」、あるいは「駅から遠くてもいいので家賃が安い物件」などを調べたいことがよくある。
-既存の賃貸サイトでは、「駅からX分...</summary>
+「バグが出ました。」それ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b1c979cda8518f8b6695</id>
@@ -2221,15 +2236,5 @@ Macを使い始めてから、いろいろなツールを試してきました�
 「前も同じエラー出た気がするけど、誰が直したっけ」
 
 この状態...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a8409d108cae24888ba0</id>
-    <title>Codex CLI猛進。Github Copilotと大差。　～データで見る2026年1月のAI Codingの動向まとめ～</title>
-    <link rel="alternate" href="https://qiita.com/kotauchisunsun/items/a8409d108cae24888ba0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-03T20:20:09+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kotauchisunsun&quot;&gt;kotauchisunsun&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T21:47:06+09:00&lt;br/&gt;Updated: 2026-02-03T20:20:09+09:00&lt;br/&gt;AI Coding Agentの1月の動向
-AI Coding.Infoというサイトを2025年7月から運営しています。
-
-これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
   </entry>
 </feed>
