@@ -936,6 +936,16 @@ AIの賢さとツールが洗練されてきました
 Opus4.6やGPT-...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c05c3aed3bf8e46a7ddb</id>
+    <title>Claude Codeで「Issue起票→並列開発→PR作成」を全自動化したら、開発速度が異次元になった</title>
+    <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/c05c3aed3bf8e46a7ddb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-15T17:03:27+09:00</updated>
+    <summary type="html">Likes: 76&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kazuki_ogawa&quot;&gt;kazuki_ogawa&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T17:03:27+09:00&lt;br/&gt;Updated: 2026-03-15T17:03:27+09:00&lt;br/&gt;はじめに
+「Claude Codeで開発してるけど、1つずつ順番にIssueを片付けるのが遅い…」
+そんな悩みを解決するために、Issue起票から並列開発、PR作成までを一気通貫で自動化するワークフローを構築しました。
+具体的には、Claude CodeのSkillsを組...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5820d195510861b5be71</id>
     <title>Boris Cherny氏がシェアした、CLAUDE.mdを理解する</title>
     <link rel="alternate" href="https://qiita.com/uno_ha07/items/5820d195510861b5be71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -967,16 +977,6 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
     <summary type="html">Likes: 76&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/newt0&quot;&gt;newt0&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T15:15:15+09:00&lt;br/&gt;Updated: 2026-01-18T15:15:15+09:00&lt;br/&gt;Pythonをめぐる後悔
 プログラミングを始めた頃、学生向けのブームに乗ってPythonを選びました。
 当時はProgateやUdemyでもPython推しが強くて、「これからはAIの時代だ」みたいな雰囲気に流されました。でも実際に個人開発を始めてみると、作ったものを人に...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c05c3aed3bf8e46a7ddb</id>
-    <title>Claude Codeで「Issue起票→並列開発→PR作成」を全自動化したら、開発速度が異次元になった</title>
-    <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/c05c3aed3bf8e46a7ddb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-15T17:03:27+09:00</updated>
-    <summary type="html">Likes: 75&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kazuki_ogawa&quot;&gt;kazuki_ogawa&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T17:03:27+09:00&lt;br/&gt;Updated: 2026-03-15T17:03:27+09:00&lt;br/&gt;はじめに
-「Claude Codeで開発してるけど、1つずつ順番にIssueを片付けるのが遅い…」
-そんな悩みを解決するために、Issue起票から並列開発、PR作成までを一気通貫で自動化するワークフローを構築しました。
-具体的には、Claude CodeのSkillsを組...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1d84037b3b9a499167de</id>
@@ -1254,14 +1254,6 @@ Claude Codeは2025年2月のリリース以来、ターミナルから直接AI�
     <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T15:38:22+09:00&lt;br/&gt;Updated: 2026-03-07T15:38:22+09:00&lt;br/&gt;はじめに ― クラウドサービスが多すぎて混乱していた頃
 データエンジニアとして働き始めた頃、一番困ったのが 「クラウドサービスが多すぎて、何がなんだかわからない」 ということでした。
 EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5557800c41eb43b43f2f</id>
-    <title>個人開発者として実際にアプリを運営していく中で感じた個人開発の現実を言語化したいと思います。</title>
-    <link rel="alternate" href="https://qiita.com/tatsuoNakano/items/5557800c41eb43b43f2f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-17T12:49:24+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuoNakano&quot;&gt;tatsuoNakano&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T18:53:04+09:00&lt;br/&gt;Updated: 2026-01-17T12:49:24+09:00&lt;br/&gt;序文
-個人開発者はプログラミングができることなど必要最低条件でしかないです。しかし世の中には、プログラミングは万能技能であり、プログラミングができれば人生逆転可能であるなどという言動が巷に溢れています。その現状を啓蒙したいという思いが少しあり、今回この記事を執筆するに至り...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6a4e4d894dbfc79ce246</id>
@@ -2232,5 +2224,19 @@ Macを使い始めてから、いろいろなツールを試してきました�
 すべて実際に日常的に使っているツールです。
 「Macを買ったけど、何を入れればいいかわからない...」という方や、
 「...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4eadb2019e0c61746631</id>
+    <title>属人化自体は悪じゃない。“〇〇な属人化”が悪い</title>
+    <link rel="alternate" href="https://qiita.com/taka_xin/items/4eadb2019e0c61746631?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-16T12:49:58+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/taka_xin&quot;&gt;taka_xin&lt;/a&gt;&lt;br/&gt;Published: 2026-02-16T12:49:58+09:00&lt;br/&gt;Updated: 2026-02-16T12:49:58+09:00&lt;br/&gt;はじめに
+チームで開発していると、だいたい一度はこんな出来事、1度は経験したことがあるのではないでしょうか。
+
+「それ、Aさんがまとめてくれてるところだから分からない」
+「Aさんがいないとリリースできない…」
+「前も同じエラー出た気がするけど、誰が直したっけ」
+
+この状態...</summary>
   </entry>
 </feed>
