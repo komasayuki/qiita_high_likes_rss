@@ -529,6 +529,16 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 プロジェクトの背景を説明し直す。コーディング規約を再度伝える。さっき試して失敗したアプローチをま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:838bc1b59a84b16820a9</id>
+    <title>エンジニア初学者に知ってほしい。プログラミングすることより大切な成長を加速させる4つの指針</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/838bc1b59a84b16820a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-17T11:56:18+09:00</updated>
+    <summary type="html">Likes: 123&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T11:56:17+09:00&lt;br/&gt;Updated: 2026-03-17T11:56:18+09:00&lt;br/&gt;プログラムは「動けばOK」
+AIにコードを丸投げし、中身が分からないまま過ごす日々が不安
+こんなことを思って日々過ごしていませんか？
+そんな方に僕が現場を経験して気づいた、技術の「表面」ではなく「本質」を掴んで成長を加速させるためのヒントを、僕の失敗談を交えつつお伝えします...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:38cedf1f96e981b4f11d</id>
     <title>「オンボーディングが早い」と言われるためにやっていること</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/38cedf1f96e981b4f11d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -538,16 +548,6 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 
 はじめに
 オンボーディングの速さは、エンジニアとしての評価に直結します。早く戦力になれれば、チームからの信頼も得やすく、その後の仕事がスムーズにな...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:838bc1b59a84b16820a9</id>
-    <title>エンジニア初学者に知ってほしい。プログラミングすることより大切な成長を加速させる4つの指針</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/838bc1b59a84b16820a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-17T11:56:18+09:00</updated>
-    <summary type="html">Likes: 121&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T11:56:17+09:00&lt;br/&gt;Updated: 2026-03-17T11:56:18+09:00&lt;br/&gt;プログラムは「動けばOK」
-AIにコードを丸投げし、中身が分からないまま過ごす日々が不安
-こんなことを思って日々過ごしていませんか？
-そんな方に僕が現場を経験して気づいた、技術の「表面」ではなく「本質」を掴んで成長を加速させるためのヒントを、僕の失敗談を交えつつお伝えします...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4d732a43ac5cdf9daadc</id>
@@ -969,6 +969,16 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
 当時はProgateやUdemyでもPython推しが強くて、「これからはAIの時代だ」みたいな雰囲気に流されました。でも実際に個人開発を始めてみると、作ったものを人に...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c05c3aed3bf8e46a7ddb</id>
+    <title>Claude Codeで「Issue起票→並列開発→PR作成」を全自動化したら、開発速度が異次元になった</title>
+    <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/c05c3aed3bf8e46a7ddb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-15T17:03:27+09:00</updated>
+    <summary type="html">Likes: 75&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kazuki_ogawa&quot;&gt;kazuki_ogawa&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T17:03:27+09:00&lt;br/&gt;Updated: 2026-03-15T17:03:27+09:00&lt;br/&gt;はじめに
+「Claude Codeで開発してるけど、1つずつ順番にIssueを片付けるのが遅い…」
+そんな悩みを解決するために、Issue起票から並列開発、PR作成までを一気通貫で自動化するワークフローを構築しました。
+具体的には、Claude CodeのSkillsを組...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1d84037b3b9a499167de</id>
     <title>draw.io MCP + Playwright MCP で画面設計書を自動生成してみた（GitHub Copilot Agent Skills）</title>
     <link rel="alternate" href="https://qiita.com/Ymmy/items/1d84037b3b9a499167de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -980,16 +990,6 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
 画面に遷移してスクリーンショット取得（Playwright）
 スクショに項番を付けたレイアウト図を作る（draw.io）
 HTML/画像を根拠にMark...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c05c3aed3bf8e46a7ddb</id>
-    <title>Claude Codeで「Issue起票→並列開発→PR作成」を全自動化したら、開発速度が異次元になった</title>
-    <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/c05c3aed3bf8e46a7ddb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-15T17:03:27+09:00</updated>
-    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kazuki_ogawa&quot;&gt;kazuki_ogawa&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T17:03:27+09:00&lt;br/&gt;Updated: 2026-03-15T17:03:27+09:00&lt;br/&gt;はじめに
-「Claude Codeで開発してるけど、1つずつ順番にIssueを片付けるのが遅い…」
-そんな悩みを解決するために、Issue起票から並列開発、PR作成までを一気通貫で自動化するワークフローを構築しました。
-具体的には、Claude CodeのSkillsを組...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:76a4d9dac74e70bceebb</id>
