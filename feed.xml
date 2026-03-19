@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-18T12:32:12+09:00</updated>
+  <updated>2026-03-19T12:46:24+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -324,7 +324,7 @@ Claude Code Skills と yfinance を使って、株式スクリーニングから
     <title>エンジニア初学者に知ってほしい。プログラミングすることより大切な成長を加速させる4つの指針</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/838bc1b59a84b16820a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-17T11:56:18+09:00</updated>
-    <summary type="html">Likes: 143&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T11:56:17+09:00&lt;br/&gt;Updated: 2026-03-17T11:56:18+09:00&lt;br/&gt;プログラムは「動けばOK」
+    <summary type="html">Likes: 144&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T11:56:17+09:00&lt;br/&gt;Updated: 2026-03-17T11:56:18+09:00&lt;br/&gt;プログラムは「動けばOK」
 AIにコードを丸投げし、中身が分からないまま過ごす日々が不安
 こんなことを思って日々過ごしていませんか？
 そんな方に僕が現場を経験して気づいた、技術の「表面」ではなく「本質」を掴んで成長を加速させるためのヒントを、僕の失敗談を交えつつお伝えします...</summary>
@@ -899,6 +899,15 @@ X（旧Twitter）で海外Tech動画を日々紹介してるKoderです!
 そこで今回は、Qiitaの記事と...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:76a4d9dac74e70bceebb</id>
+    <title>生成AIで古（いにしえ）のFORTRANコードに挑戦する</title>
+    <link rel="alternate" href="https://qiita.com/cometscome_phys/items/76a4d9dac74e70bceebb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-17T21:11:49+09:00</updated>
+    <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/cometscome_phys&quot;&gt;cometscome_phys&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T19:12:14+09:00&lt;br/&gt;Updated: 2026-03-17T21:11:49+09:00&lt;br/&gt;古（いにしえ）のFORTRANコード
+ChatGPT5.4 を使います。MacのCodexアプリを使います(5.4 Codexではなく5.4でした。)。
+このWebサイトでは、物理学で使う計算手法のコードが公開されています。FORTRANです。DMFTと呼ばれる手法の超有...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:2ad32fc119d5b5e1bb98</id>
     <title>「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）</title>
     <link rel="alternate" href="https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -924,15 +933,6 @@ docker-compose.yml に数行書くだけで S3 互換のストレージが立ち
     <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/momo10&quot;&gt;momo10&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T18:19:24+09:00&lt;br/&gt;Updated: 2026-01-20T20:09:54+09:00&lt;br/&gt;はじめに
 敵対的模倣学習の圏論的解釈について紹介します。
 近年、敵対的模倣学習 (Generative Adversarial Imitation Learning; GAIL) や、それを応用した RLHF (Reinforcement Learning from Hu...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:76a4d9dac74e70bceebb</id>
-    <title>生成AIで古（いにしえ）のFORTRANコードに挑戦する</title>
-    <link rel="alternate" href="https://qiita.com/cometscome_phys/items/76a4d9dac74e70bceebb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-17T21:11:49+09:00</updated>
-    <summary type="html">Likes: 77&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/cometscome_phys&quot;&gt;cometscome_phys&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T19:12:14+09:00&lt;br/&gt;Updated: 2026-03-17T21:11:49+09:00&lt;br/&gt;古（いにしえ）のFORTRANコード
-ChatGPT5.4 を使います。MacのCodexアプリを使います(5.4 Codexではなく5.4でした。)。
-このWebサイトでは、物理学で使う計算手法のコードが公開されています。FORTRANです。DMFTと呼ばれる手法の超有...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0ff827a1c2deef68ba9a</id>
@@ -999,6 +999,21 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
 画面に遷移してスクリーンショット取得（Playwright）
 スクショに項番を付けたレイアウト図を作る（draw.io）
 HTML/画像を根拠にMark...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:48ede59ebe33b4b774ac</id>
+    <title>Claude Code 知らないと損するコマンド・時短術 20選</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/48ede59ebe33b4b774ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-19T12:46:24+09:00</updated>
+    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T13:00:11+09:00&lt;br/&gt;Updated: 2026-03-19T12:46:24+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+Claude Codeを使っていて、こんな経験はありませんか？
+
+毎回同じ操作を手動で繰り返している
+もっと速くできるはずなのにやり方がわからない
+公式ドキュメントが膨大すぎて追いきれない
+
+本記事では、公式ドキュメント・chan...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:392934f79e943e8b9228</id>
@@ -1074,21 +1089,6 @@ Tauri は、OS がもともと持っている WebView を利用し、Rust をバ
 セキュリティリスク＝影響度☓発生確率
 長く使い古されたフレームワークである。
 そして...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:48ede59ebe33b4b774ac</id>
-    <title>Claude Code 知らないと損する隠しコマンド・時短術 20選</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/48ede59ebe33b4b774ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-16T16:37:31+09:00</updated>
-    <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T13:00:11+09:00&lt;br/&gt;Updated: 2026-03-16T16:37:31+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-Claude Codeを使っていて、こんな経験はありませんか？
-
-毎回同じ操作を手動で繰り返している
-もっと速くできるはずなのにやり方がわからない
-公式ドキュメントが膨大すぎて追いきれない
-
-本記事では、公式ドキュメント・chan...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0bf79993886f7d73a81b</id>
@@ -1467,6 +1467,21 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、いわゆるエージェントタスクにおける計算資源としての使い方が向いているのではという気がしてきた。イメージはAWS LambdaのようなFunction as a serviceのようなワンショットな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:417b4d6f416fb188a30c</id>
+    <title>【前編】「バグが出ました。」それは報告？相談？ ― 意識の違いでシゴデキエンジニアに！！ ―</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/417b4d6f416fb188a30c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-18T12:32:12+09:00</updated>
+    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:30:10+09:00&lt;br/&gt;Updated: 2026-03-18T12:32:12+09:00&lt;br/&gt;はじめまして。
+株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントを整理して発信しています。
+PRUMについて気になった方は、
+コーポレートサイトもご覧ください。
+▶ コーポレートサイト
+
+「バグが出ました。」それ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b31603922b791c37cc37</id>
     <title>応用情報の廃止・再編「今」取るべき理由と合格戦略</title>
     <link rel="alternate" href="https://qiita.com/shibuya-ys/items/b31603922b791c37cc37?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1594,21 +1609,6 @@ Morpho社の調査が興味深いデータを出しています。SWE-benchに�
 範囲が広すぎて、何から勉強すればいいのか分からない
 
 統計モデリング（statistical ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:417b4d6f416fb188a30c</id>
-    <title>【前編】「バグが出ました。」それは報告？相談？ ― 意識の違いでシゴデキエンジニアに！！ ―</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/417b4d6f416fb188a30c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-18T12:32:12+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:30:10+09:00&lt;br/&gt;Updated: 2026-03-18T12:32:12+09:00&lt;br/&gt;はじめまして。
-株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で
-つまずきやすいポイントを整理して発信しています。
-PRUMについて気になった方は、
-コーポレートサイトもご覧ください。
-▶ コーポレートサイト
-
-「バグが出ました。」それ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4db2182e2384df4122a2</id>
