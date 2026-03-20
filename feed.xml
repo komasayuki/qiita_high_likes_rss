@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-19T12:46:24+09:00</updated>
+  <updated>2026-03-19T12:57:17+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -438,6 +438,17 @@ AWS 認定の資格保持者は年々増加傾向にあり、なんと全冠保�
 MCP Serverの登場が相次いでいますが、作図ツールとして広く使われている（と思っている）draw.ioからも公式のMC...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1ad4e4ccaf47816c63e0</id>
+    <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-18T22:14:33+09:00</updated>
+    <summary type="html">Likes: 127&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
+Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
+
+「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
+「プロジェクトのル...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:2777af8e9912d6bbbbb3</id>
     <title>個人開発でClaudeCodeに画面操作付きPR動画を生成させてXに自動投稿してる話</title>
     <link rel="alternate" href="https://qiita.com/akachiryo/items/2777af8e9912d6bbbbb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -527,17 +538,6 @@ AWS Toolkit for V...</summary>
 Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁があります。
 「さっきまで完璧に理解してくれていたのに、新しいセッションを開いたら全部忘れている」
 プロジェクトの背景を説明し直す。コーディング規約を再度伝える。さっき試して失敗したアプローチをま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1ad4e4ccaf47816c63e0</id>
-    <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-18T22:14:33+09:00</updated>
-    <summary type="html">Likes: 122&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
-Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
-
-「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
-「プロジェクトのル...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:38cedf1f96e981b4f11d</id>
@@ -2105,6 +2105,19 @@ Qiita上の解説としては以下の記事が最速ですが、本当に便利
 https://qiita.com/xhackjp1/items/03045dd62c2f...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
+    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-19T12:57:17+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
+
+OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
+「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
+APIのコスト見積もりを上司やクライアントに提出する必要がある人
+
+LLMのトークナイゼーシ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9f35a0d6e24edd8f2265</id>
     <title>Terminal 版 Playwright 風テストツールの tuistory が便利</title>
     <link rel="alternate" href="https://qiita.com/tomoasleep/items/9f35a0d6e24edd8f2265?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2232,29 +2245,5 @@ Macを使い始めてから、いろいろなツールを試してきました�
 AI Coding.Infoというサイトを2025年7月から運営しています。
 
 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f3b92f07929f1ab9d67e</id>
-    <title>144人のAI専門家チームが無料で手に入る時代 ── agency-agentsの急成長が示すエージェント専門化の潮流</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/f3b92f07929f1ab9d67e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-14T15:04:22+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T15:04:22+09:00&lt;br/&gt;Updated: 2026-03-14T15:04:22+09:00&lt;br/&gt;数字で見る急成長
-agency-agentsは2025年10月に作成されたリポジトリです。2026年3月14日時点の数値を見てみます。
-
-指標
-数値
-
-スター数
-40,889
-
-フォーク数
-6,172
-
-PR総数
-132+
-
-コントリビューター数
-36+
-...</summary>
   </entry>
 </feed>
