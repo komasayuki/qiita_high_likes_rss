@@ -406,6 +406,17 @@ PRUMについて気...</summary>
 この言葉が「バズった...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1ad4e4ccaf47816c63e0</id>
+    <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-18T22:14:33+09:00</updated>
+    <summary type="html">Likes: 132&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
+Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
+
+「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
+「プロジェクトのル...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6c8f9db6565e80332d05</id>
     <title>【WebF】React/Vue/Svelteがそのままネイティブアプリになるよ</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/6c8f9db6565e80332d05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -413,17 +424,6 @@ PRUMについて気...</summary>
     <summary type="html">Likes: 131&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T20:09:27+09:00&lt;br/&gt;Updated: 2026-02-11T19:01:42+09:00&lt;br/&gt;この手の話をもう何万回聞いたかわかりませんが、GitHubリポジトリのコミット数や頻度を見るにかなりの本気度を感じます。
 そんなわけでJavaScriptをそのままネイティブアプリにするプロジェクトのひとつ、OpenWebFがベータ版に到達したようです。
 以下は公式ブログ、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1ad4e4ccaf47816c63e0</id>
-    <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-18T22:14:33+09:00</updated>
-    <summary type="html">Likes: 130&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
-Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
-
-「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
-「プロジェクトのル...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8082c999a78137c7cc10</id>
@@ -1500,6 +1500,23 @@ Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレ
 私は24時間使いまわすほどのヘビーユーザーでは...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6d26b6ffc11d163dfd71</id>
+    <title>GitHub Copilot CLI の公式ハンズオンやってみた (第0章/7章)</title>
+    <link rel="alternate" href="https://qiita.com/chomado/items/6d26b6ffc11d163dfd71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-19T00:04:15+09:00</updated>
+    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/chomado&quot;&gt;chomado&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:18:06+09:00&lt;br/&gt;Updated: 2026-03-19T00:04:15+09:00&lt;br/&gt;先月 (2026 年 2 月) 末、GitHub Copilot CLI が正式リリース (GA) されました！
+
+さっそく触ってみましょう！
+
+GitHub Copilot ファミリー
+
+製品
+動作する場所
+説明
+
+GitHub Copilot CL...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ab8af60a632e7a562e06</id>
     <title>draw.ioのMCP Toolを使ってアーキテクチャ図を自動生成する</title>
     <link rel="alternate" href="https://qiita.com/xxyc/items/ab8af60a632e7a562e06?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1561,23 +1578,6 @@ OllamaやLM StudioでローカルLLMを動かしている方
 Pythonでプログラミングをしていると、当たり前のように使っているpip installコマンド。
 このコマンド一つで、便利なライブラリがすぐに使えるようになります。
 しかし、**結局、pipは何をどこにダウンロードして、どうやってPythonがそれを見つけて...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6d26b6ffc11d163dfd71</id>
-    <title>GitHub Copilot CLI の公式ハンズオンやってみた (第0章/7章)</title>
-    <link rel="alternate" href="https://qiita.com/chomado/items/6d26b6ffc11d163dfd71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-19T00:04:15+09:00</updated>
-    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/chomado&quot;&gt;chomado&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:18:06+09:00&lt;br/&gt;Updated: 2026-03-19T00:04:15+09:00&lt;br/&gt;先月 (2026 年 2 月) 末、GitHub Copilot CLI が正式リリース (GA) されました！
-
-さっそく触ってみましょう！
-
-GitHub Copilot ファミリー
-
-製品
-動作する場所
-説明
-
-GitHub Copilot CL...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a8306067788798975fa7</id>
@@ -1861,6 +1861,19 @@ Win...</summary>
 資格取得年表...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
+    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-19T12:57:17+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
+
+OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
+「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
+APIのコスト見積もりを上司やクライアントに提出する必要がある人
+
+LLMのトークナイゼーシ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1492b77916ce3061cadf</id>
     <title>【シリアル通信】「実機がないからテストできない」は言い訳？SocketDebuggerで巨大な産業機器を丸ごと模擬してみた🔥</title>
     <link rel="alternate" href="https://qiita.com/umezawa_udom/items/1492b77916ce3061cadf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1881,19 +1894,6 @@ Win...</summary>
 エージェントAIは次なる大きな内部リスク
 
 それぞれが手探りでAIセキュリティの取り組みを進めているため、シャドーAIのリス...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
-    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-19T12:57:17+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
-
-OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
-「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
-APIのコスト見積もりを上司やクライアントに提出する必要がある人
-
-LLMのトークナイゼーシ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:05e66bd57148b4909d90</id>
