@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-19T12:57:17+09:00</updated>
+  <updated>2026-03-19T23:38:54+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -268,6 +268,17 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
 そういった時にMarkdownのようなプレーンテキストで書きたいと心の底から思いますし、AI時代にはプレーンテキストの方がマッチしているでしょ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1ad4e4ccaf47816c63e0</id>
+    <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-18T22:14:33+09:00</updated>
+    <summary type="html">Likes: 161&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
+Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
+
+「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
+「プロジェクトのル...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
     <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -300,17 +311,6 @@ PRUMについて気になった方は、
 ▶ コーポレートサイト
 
 「で、&quot;結局&quot;今どんな...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1ad4e4ccaf47816c63e0</id>
-    <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-18T22:14:33+09:00</updated>
-    <summary type="html">Likes: 158&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
-Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
-
-「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
-「プロジェクトのル...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:47fb89fb6a84d9976d36</id>
@@ -1201,6 +1201,19 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
 「どの出口から...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
+    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-19T12:57:17+09:00</updated>
+    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
+
+OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
+「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
+APIのコスト見積もりを上司やクライアントに提出する必要がある人
+
+LLMのトークナイゼーシ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:441f4c6a467dae69583a</id>
     <title>セキュリティ基礎講座：公開鍵暗号は３種類あるよ</title>
     <link rel="alternate" href="https://qiita.com/peridotan/items/441f4c6a467dae69583a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1287,19 +1300,6 @@ PRUMについて気になった方は、
     <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T15:38:22+09:00&lt;br/&gt;Updated: 2026-03-07T15:38:22+09:00&lt;br/&gt;はじめに ― クラウドサービスが多すぎて混乱していた頃
 データエンジニアとして働き始めた頃、一番困ったのが 「クラウドサービスが多すぎて、何がなんだかわからない」 ということでした。
 EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
-    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-19T12:57:17+09:00</updated>
-    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
-
-OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
-「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
-APIのコスト見積もりを上司やクライアントに提出する必要がある人
-
-LLMのトークナイゼーシ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8b870661f80d63499336</id>
@@ -2234,27 +2234,13 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:f3b92f07929f1ab9d67e</id>
-    <title>144人のAI専門家チームが無料で手に入る時代 ── agency-agentsの急成長が示すエージェント専門化の潮流</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/f3b92f07929f1ab9d67e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-14T15:04:22+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T15:04:22+09:00&lt;br/&gt;Updated: 2026-03-14T15:04:22+09:00&lt;br/&gt;数字で見る急成長
-agency-agentsは2025年10月に作成されたリポジトリです。2026年3月14日時点の数値を見てみます。
-
-指標
-数値
-
-スター数
-40,889
-
-フォーク数
-6,172
-
-PR総数
-132+
-
-コントリビューター数
-36+
-...</summary>
+    <id>tag:qiita.com,2026:ed8662412cc98a0d5868</id>
+    <title>AWS Community Builders（Serverless）に選出されました</title>
+    <link rel="alternate" href="https://qiita.com/tetutetu214/items/ed8662412cc98a0d5868?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-19T23:38:54+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetutetu214&quot;&gt;tetutetu214&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T22:45:32+09:00&lt;br/&gt;Updated: 2026-03-19T23:38:54+09:00&lt;br/&gt;はじめに
+この度 AWS Community Builders 2026 に Serverless カテゴリーで応募し、選出いただきました。
+この記事では、結果的に選出へと繋がった「私がこの1年、どんな思いをもって取り組んできたのか」についてまとめます。
+応募を検討してい...</summary>
   </entry>
 </feed>
