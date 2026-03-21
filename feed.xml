@@ -259,6 +259,17 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
 📉 2026/02/20 サイバーセキュリティ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1ad4e4ccaf47816c63e0</id>
+    <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-18T22:14:33+09:00</updated>
+    <summary type="html">Likes: 163&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
+Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
+
+「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
+「プロジェクトのル...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:87a71916c155d69a336b</id>
     <title>Markdownを日本の伝統的な雰囲気のあるWordファイルに変換するCLIツール「md2docx」を作った</title>
     <link rel="alternate" href="https://qiita.com/nokonoko_1203/items/87a71916c155d69a336b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -266,17 +277,6 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
     <summary type="html">Likes: 163&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nokonoko_1203&quot;&gt;nokonoko_1203&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T15:55:00+09:00&lt;br/&gt;Updated: 2026-02-26T15:55:00+09:00&lt;br/&gt;はじめに
 エンジニアであっても、要件定義書や設計書、テスト仕様書、運用手順書など様々な文章を求められることはよくありますよね。
 そういった時にMarkdownのようなプレーンテキストで書きたいと心の底から思いますし、AI時代にはプレーンテキストの方がマッチしているでしょ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1ad4e4ccaf47816c63e0</id>
-    <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-18T22:14:33+09:00</updated>
-    <summary type="html">Likes: 161&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
-Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
-
-「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
-「プロジェクトのル...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
@@ -1155,6 +1155,19 @@ GPUが積まれた高性能マシン。
 目的は、結論を一つに決め打ちすることではなく、オブジェクト指向をめぐる代表的な賛否の論点(歴史...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
+    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-19T12:57:17+09:00</updated>
+    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
+
+OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
+「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
+APIのコスト見積もりを上司やクライアントに提出する必要がある人
+
+LLMのトークナイゼーシ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5a8a16a2b7e91c3536a8</id>
     <title>Pandasはもう古い？2026年のPythonデータ分析ライブラリを整理してみた</title>
     <link rel="alternate" href="https://qiita.com/YASUHARA-Wataru/items/5a8a16a2b7e91c3536a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1199,19 +1212,6 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
 
 特に新宿駅のような巨大駅では、
 「どの出口から...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
-    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-19T12:57:17+09:00</updated>
-    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
-
-OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
-「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
-APIのコスト見積もりを上司やクライアントに提出する必要がある人
-
-LLMのトークナイゼーシ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:441f4c6a467dae69583a</id>
