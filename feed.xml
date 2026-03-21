@@ -231,7 +231,7 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
     <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-18T22:14:33+09:00</updated>
-    <summary type="html">Likes: 168&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 169&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
 Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
 
 「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
@@ -1000,6 +1000,19 @@ HTML/画像を根拠にMark...</summary>
 本記事では、公式ドキュメントの内容を参考に、特に押さえておきたいポイントを7つの鉄則とし...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
+    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-19T12:57:17+09:00</updated>
+    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
+
+OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
+「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
+APIのコスト見積もりを上司やクライアントに提出する必要がある人
+
+LLMのトークナイゼーシ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:77d59a91ce2f2ab54209</id>
     <title>最近のQiitaがおかしい（かもしれない）</title>
     <link rel="alternate" href="https://qiita.com/KaiTomotake/items/77d59a91ce2f2ab54209?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1033,19 +1046,6 @@ HTML/画像を根拠にMark...</summary>
 こんにちは、いのせです。
 最近はAIの進化が止まることなく、AIを使ってコーディングするのが当たり前な時代になりましたね。
 GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場し、コードを書く速度は格段に上がったと思いま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
-    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-19T12:57:17+09:00</updated>
-    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
-
-OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
-「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
-APIのコスト見積もりを上司やクライアントに提出する必要がある人
-
-LLMのトークナイゼーシ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7cb1d8b48cd442e07962</id>
