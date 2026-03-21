@@ -302,6 +302,17 @@ PRUMについて気になった方は、
 「で、&quot;結局&quot;今どんな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1ad4e4ccaf47816c63e0</id>
+    <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-18T22:14:33+09:00</updated>
+    <summary type="html">Likes: 158&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
+Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
+
+「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
+「プロジェクトのル...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:47fb89fb6a84d9976d36</id>
     <title>「Markdownだけで」顧客提案レベルのスライドを作ってみた【Slidev x Claude Opus 4.6】</title>
     <link rel="alternate" href="https://qiita.com/ntaka329/items/47fb89fb6a84d9976d36?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -312,17 +323,6 @@ GMOコネクトの永田です。
 特に官公庁向け提案書は、評価項目ごとにページを作成していくと数十〜数百ページになることも珍しくありません。PowerPoint で作る場合、こんな苦痛が待っています：
 
 コピペ地獄: スライドをコピ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1ad4e4ccaf47816c63e0</id>
-    <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-18T22:14:33+09:00</updated>
-    <summary type="html">Likes: 153&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
-Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
-
-「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
-「プロジェクトのル...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:81fabafaaa1fc0e8fade</id>
@@ -1289,6 +1289,19 @@ PRUMについて気になった方は、
 EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
+    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-19T12:57:17+09:00</updated>
+    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
+
+OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
+「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
+APIのコスト見積もりを上司やクライアントに提出する必要がある人
+
+LLMのトークナイゼーシ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8b870661f80d63499336</id>
     <title>Claude Code 初学者ロードマップ</title>
     <link rel="alternate" href="https://qiita.com/marugame/items/8b870661f80d63499336?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1383,19 +1396,6 @@ https://160.16.12...</summary>
 複数のClaude Codeインスタンスを「チーム」として協調動作させるという、なかなか攻めた実験的機能（Re...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
-    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-19T12:57:17+09:00</updated>
-    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
-
-OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
-「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
-APIのコスト見積もりを上司やクライアントに提出する必要がある人
-
-LLMのトークナイゼーシ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:8010f0d62025db8f3d81</id>
     <title>ベイズ原理主義者ブチ切れ必至！因子分析の再学習を50倍速める運用の知恵</title>
     <link rel="alternate" href="https://qiita.com/Gotoubun_taiwan/items/8010f0d62025db8f3d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1477,22 +1477,11 @@ Mac miniで建てたLLMサーバの使い道を色々考えてみた結果、い
 これ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
-    <title>【Claude Code】 /insights コマンドがおもしろい</title>
-    <link rel="alternate" href="https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-04T19:51:48+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T19:51:48+09:00&lt;br/&gt;Updated: 2026-02-04T19:51:48+09:00&lt;br/&gt;はじめに
-今朝（2/4 朝）、以下のツイートを見かけました。
-
-Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレポートを出してくれる /insights コマンドが追加されていたようです。
-私は24時間使いまわすほどのヘビーユーザーでは...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:6d26b6ffc11d163dfd71</id>
     <title>GitHub Copilot CLI の公式ハンズオンやってみた (第0章/7章)</title>
     <link rel="alternate" href="https://qiita.com/chomado/items/6d26b6ffc11d163dfd71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-19T00:04:15+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/chomado&quot;&gt;chomado&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:18:06+09:00&lt;br/&gt;Updated: 2026-03-19T00:04:15+09:00&lt;br/&gt;先月 (2026 年 2 月) 末、GitHub Copilot CLI が正式リリース (GA) されました！
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/chomado&quot;&gt;chomado&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:18:06+09:00&lt;br/&gt;Updated: 2026-03-19T00:04:15+09:00&lt;br/&gt;先月 (2026 年 2 月) 末、GitHub Copilot CLI が正式リリース (GA) されました！
 
 さっそく触ってみましょう！
 
@@ -1503,6 +1492,17 @@ GitHub Copilot ファミリー
 説明
 
 GitHub Copilot CL...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:7748d48a725f742428b0</id>
+    <title>【Claude Code】 /insights コマンドがおもしろい</title>
+    <link rel="alternate" href="https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-04T19:51:48+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T19:51:48+09:00&lt;br/&gt;Updated: 2026-02-04T19:51:48+09:00&lt;br/&gt;はじめに
+今朝（2/4 朝）、以下のツイートを見かけました。
+
+Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレポートを出してくれる /insights コマンドが追加されていたようです。
+私は24時間使いまわすほどのヘビーユーザーでは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ab8af60a632e7a562e06</id>
@@ -1977,6 +1977,18 @@ MacからWindowsに移行して、GPU環境を構築したばかりの方
 Qwen3-...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:026aeee6b59f78df5e9d</id>
+    <title>【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/026aeee6b59f78df5e9d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-18T12:12:26+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:12:26+09:00&lt;br/&gt;Updated: 2026-03-18T12:12:26+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+今回は、ローカルLLMをテーマに、完全オフラインで動作するAI開発環境をゼロから構築していきます。
+ChatGPTやClaude、Geminiなどのクラウド型AIは非常に便利ですが、こんな課題を感じたことはありませんか？
+
+ソース...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bc9aee9c5951e01ad13b</id>
     <title>【個人開発】最寄り駅から徒歩X分以内の物件を地図上に列挙できるアプリを作ってみた【React,TS,supabase,leaflet】</title>
     <link rel="alternate" href="https://qiita.com/nu197ma/items/bc9aee9c5951e01ad13b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2009,18 +2021,6 @@ llama.cpp や Open WebUI を使ったロー...</summary>
     <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Lambwool-711&quot;&gt;Lambwool-711&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T10:40:08+09:00&lt;br/&gt;Updated: 2026-02-12T13:25:47+09:00&lt;br/&gt;はじめに
 こんにちは。インフラエンジニア2年目で、運用メインたまに設計構築をやらせてもらっています。まだまだ知らないことだらけで日々学習を継続しています。
 去年(2025年)にAZ-104、SOA、SAA、SAP、ANSなどのいわゆるアソシエイトからプロフェッショナルあた...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:026aeee6b59f78df5e9d</id>
-    <title>【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/026aeee6b59f78df5e9d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-18T12:12:26+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:12:26+09:00&lt;br/&gt;Updated: 2026-03-18T12:12:26+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-今回は、ローカルLLMをテーマに、完全オフラインで動作するAI開発環境をゼロから構築していきます。
-ChatGPTやClaude、Geminiなどのクラウド型AIは非常に便利ですが、こんな課題を感じたことはありませんか？
-
-ソース...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a2c5012d496312358323</id>
