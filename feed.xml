@@ -202,7 +202,7 @@ ChatGPT：
     <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-18T22:14:33+09:00</updated>
-    <summary type="html">Likes: 187&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 188&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
 Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
 
 「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
@@ -869,7 +869,7 @@ Certify
     <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-19T12:57:17+09:00</updated>
-    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
+    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
 
 OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
 「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
@@ -2083,6 +2083,14 @@ Qiita上の解説としては以下の記事が最速ですが、本当に便利
 https://qiita.com/xhackjp1/items/03045dd62c2f...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:df077776b293163e0a42</id>
+    <title>【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策</title>
+    <link rel="alternate" href="https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T23:23:18+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sarubot&quot;&gt;sarubot&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T15:43:04+09:00&lt;br/&gt;Updated: 2026-03-21T23:23:18+09:00&lt;br/&gt;【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWormの全貌と対策を徹底解説
+2026年3月、開発者コミュニティに激震が走りました。GitHub、npm、VSCode拡張機能など、私たちが日常的に信頼を置く400以上のリポジトリが「GlassW...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9f35a0d6e24edd8f2265</id>
     <title>Terminal 版 Playwright 風テストツールの tuistory が便利</title>
     <link rel="alternate" href="https://qiita.com/tomoasleep/items/9f35a0d6e24edd8f2265?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2220,14 +2228,6 @@ Macを使い始めてから、いろいろなツールを試してきました�
 AI Coding.Infoというサイトを2025年7月から運営しています。
 
 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:df077776b293163e0a42</id>
-    <title>【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策</title>
-    <link rel="alternate" href="https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T23:23:18+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sarubot&quot;&gt;sarubot&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T15:43:04+09:00&lt;br/&gt;Updated: 2026-03-21T23:23:18+09:00&lt;br/&gt;【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWormの全貌と対策を徹底解説
-2026年3月、開発者コミュニティに激震が走りました。GitHub、npm、VSCode拡張機能など、私たちが日常的に信頼を置く400以上のリポジトリが「GlassW...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f3b92f07929f1ab9d67e</id>
