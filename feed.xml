@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-19T23:38:54+09:00</updated>
+  <updated>2026-03-21T23:23:18+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -202,7 +202,7 @@ ChatGPT：
     <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-18T22:14:33+09:00</updated>
-    <summary type="html">Likes: 185&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 187&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
 Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
 
 「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
@@ -865,6 +865,19 @@ Certify
 ※マクロなし／明日から使えるもの中心...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
+    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-19T12:57:17+09:00</updated>
+    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
+
+OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
+「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
+APIのコスト見積もりを上司やクライアントに提出する必要がある人
+
+LLMのトークナイゼーシ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:76a4d9dac74e70bceebb</id>
     <title>生成AIで古（いにしえ）のFORTRANコードに挑戦する</title>
     <link rel="alternate" href="https://qiita.com/cometscome_phys/items/76a4d9dac74e70bceebb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -924,19 +937,6 @@ docker-compose.yml に数行書くだけで S3 互換のストレージが立ち
     <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/momo10&quot;&gt;momo10&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T18:19:24+09:00&lt;br/&gt;Updated: 2026-01-20T20:09:54+09:00&lt;br/&gt;はじめに
 敵対的模倣学習の圏論的解釈について紹介します。
 近年、敵対的模倣学習 (Generative Adversarial Imitation Learning; GAIL) や、それを応用した RLHF (Reinforcement Learning from Hu...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
-    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-19T12:57:17+09:00</updated>
-    <summary type="html">Likes: 77&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
-
-OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
-「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
-APIのコスト見積もりを上司やクライアントに提出する必要がある人
-
-LLMのトークナイゼーシ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0ff827a1c2deef68ba9a</id>
@@ -2222,6 +2222,14 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:df077776b293163e0a42</id>
+    <title>【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策</title>
+    <link rel="alternate" href="https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T23:23:18+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sarubot&quot;&gt;sarubot&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T15:43:04+09:00&lt;br/&gt;Updated: 2026-03-21T23:23:18+09:00&lt;br/&gt;【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWormの全貌と対策を徹底解説
+2026年3月、開発者コミュニティに激震が走りました。GitHub、npm、VSCode拡張機能など、私たちが日常的に信頼を置く400以上のリポジトリが「GlassW...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f3b92f07929f1ab9d67e</id>
     <title>144人のAI専門家チームが無料で手に入る時代 ── agency-agentsの急成長が示すエージェント専門化の潮流</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/f3b92f07929f1ab9d67e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2244,16 +2252,5 @@ PR総数
 コントリビューター数
 36+
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6b7a4c6125401327fe80</id>
-    <title>Gemini CLIで、散らかったGoogle Driveを一瞬で整理してみた。</title>
-    <link rel="alternate" href="https://qiita.com/hiroki2712/items/6b7a4c6125401327fe80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-03T20:15:17+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki2712&quot;&gt;hiroki2712&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T20:14:46+09:00&lt;br/&gt;Updated: 2026-03-03T20:15:17+09:00&lt;br/&gt;はじめに
-先日、X（旧Twitter）で気になるポストを見かけました。
-内容は、「Claude Code」と「Google ドライブ for Desktop」を組み合わせて、散らかったGoogle ドライブのフォルダを一瞬で整理した、というもの。
-
-「Googleドライブ...</summary>
   </entry>
 </feed>
