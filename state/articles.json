@@ -85,6 +85,18 @@
       "last_seen": "2026-03-11T07:27:32.675800638+00:00"
     },
     {
+      "key": "0385b6d1468e6d564b50",
+      "item_id": "0385b6d1468e6d564b50",
+      "title": "AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド",
+      "link": "https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに — 同じCursorを使っているのに、なぜ10倍の差がつくのか\nこんな経験、ないでしょうか。\nチームの隣の席の人が、CursorやCopilotで爆速開発している。同じツールを使っているのに、自分のプロジェクトだと全然うまくいかない。AIが的外れなコードを吐く。...",
+      "published": "2026-03-21T09:01:09+09:00",
+      "updated": "2026-03-21T09:01:09+09:00",
+      "author_name": "akira_papa_AI",
+      "likes_count": 11,
+      "last_seen": "2026-03-21T11:14:48.987942650+00:00"
+    },
+    {
       "key": "03a8ca234f9461cac2e5",
       "item_id": "03a8ca234f9461cac2e5",
       "title": "【感想文】Qiita 週1投稿を1年間完走した感想",
@@ -141,8 +153,8 @@
       "published": "2026-03-19T12:57:17+09:00",
       "updated": "2026-03-19T12:57:17+09:00",
       "author_name": "GeneLab_999",
-      "likes_count": 73,
-      "last_seen": "2026-03-21T10:14:57.798132581+00:00"
+      "likes_count": 74,
+      "last_seen": "2026-03-21T11:14:48.987942650+00:00"
     },
     {
       "key": "05195584c36f539995c1",
@@ -358,7 +370,7 @@
       "updated": "2026-03-20T15:06:27+09:00",
       "author_name": "sh_fukatsu",
       "likes_count": 15,
-      "last_seen": "2026-03-21T10:14:57.798132581+00:00"
+      "last_seen": "2026-03-21T11:14:48.987942650+00:00"
     },
     {
       "key": "0ba6853020a40edc97da",
@@ -478,7 +490,7 @@
       "updated": "2026-03-19T16:18:51+09:00",
       "author_name": "TND_mi",
       "likes_count": 19,
-      "last_seen": "2026-03-21T10:14:57.798132581+00:00"
+      "last_seen": "2026-03-21T11:14:48.987942650+00:00"
     },
     {
       "key": "0ff827a1c2deef68ba9a",
@@ -813,8 +825,8 @@
       "published": "2026-03-18T21:04:26+09:00",
       "updated": "2026-03-18T22:14:33+09:00",
       "author_name": "nogataka",
-      "likes_count": 172,
-      "last_seen": "2026-03-21T10:14:57.798132581+00:00"
+      "likes_count": 175,
+      "last_seen": "2026-03-21T11:14:48.987942650+00:00"
     },
     {
       "key": "1ae89e9d8d5c2cfa8180",
@@ -1126,7 +1138,7 @@
       "updated": "2026-03-21T12:06:19+09:00",
       "author_name": "ko1nksm",
       "likes_count": 13,
-      "last_seen": "2026-03-21T10:14:57.798132581+00:00"
+      "last_seen": "2026-03-21T11:14:48.987942650+00:00"
     },
     {
       "key": "26fd67d082a42e46b4b2",
@@ -1198,7 +1210,7 @@
       "updated": "2026-03-20T11:50:17+09:00",
       "author_name": "moritalous",
       "likes_count": 16,
-      "last_seen": "2026-03-21T10:14:57.798132581+00:00"
+      "last_seen": "2026-03-21T11:14:48.987942650+00:00"
     },
     {
       "key": "2913db0cbd5ed75f6968",
@@ -3082,7 +3094,7 @@
       "updated": "2026-03-20T21:06:57+09:00",
       "author_name": "kaminuma",
       "likes_count": 12,
-      "last_seen": "2026-03-21T10:14:57.798132581+00:00"
+      "last_seen": "2026-03-21T11:14:48.987942650+00:00"
     },
     {
       "key": "6c0dd5107d4ce6c4b300",
@@ -4318,7 +4330,7 @@
       "updated": "2026-03-18T21:04:53+09:00",
       "author_name": "nogataka",
       "likes_count": 24,
-      "last_seen": "2026-03-21T10:14:57.798132581+00:00"
+      "last_seen": "2026-03-21T11:14:48.987942650+00:00"
     },
     {
       "key": "99cf932786dad3b3ec05",
@@ -5209,6 +5221,18 @@
       "last_seen": "2026-01-31T07:18:37.340037969+00:00"
     },
     {
+      "key": "c045233e1c4fb497c25d",
+      "item_id": "c045233e1c4fb497c25d",
+      "title": "Claude Codeでひとりチーム開発を回すための設定とワークフロー",
+      "link": "https://qiita.com/kei1-dev/items/c045233e1c4fb497c25d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n社内でどのようにClaude Codeを使っているのかを紹介する機会があり、その時に利用している設定をメモ程度にまとめたので、Qiitaにも残そうと思いました。\n基本的に複数人で開発するのではなく、ひとりで開発することが多いため、AIに多くを任せたいと思い、設定...",
+      "published": "2026-03-20T23:33:44+09:00",
+      "updated": "2026-03-20T23:33:44+09:00",
+      "author_name": "kei1-dev",
+      "likes_count": 10,
+      "last_seen": "2026-03-21T11:14:48.987942650+00:00"
+    },
+    {
       "key": "c05c3aed3bf8e46a7ddb",
       "item_id": "c05c3aed3bf8e46a7ddb",
       "title": "Claude Codeで「Issue起票→並列開発→PR作成」を全自動化したら、開発速度が異次元になった",
@@ -5638,7 +5662,7 @@
       "updated": "2026-03-21T09:43:40+09:00",
       "author_name": "igapyon",
       "likes_count": 13,
-      "last_seen": "2026-03-21T10:14:57.798132581+00:00"
+      "last_seen": "2026-03-21T11:14:48.987942650+00:00"
     },
     {
       "key": "cfc3d0bb11b41d67b4cb",
@@ -6058,7 +6082,7 @@
       "updated": "2026-03-21T11:04:19+09:00",
       "author_name": "sarubot",
       "likes_count": 27,
-      "last_seen": "2026-03-21T10:14:57.798132581+00:00"
+      "last_seen": "2026-03-21T11:14:48.987942650+00:00"
     },
     {
       "key": "df787a587324d418b277",
@@ -6190,7 +6214,7 @@
       "updated": "2026-03-19T23:33:28+09:00",
       "author_name": "miruky",
       "likes_count": 10,
-      "last_seen": "2026-03-21T10:14:57.798132581+00:00"
+      "last_seen": "2026-03-21T11:14:48.987942650+00:00"
     },
     {
       "key": "e3d1aa1ab112062c146e",
@@ -6526,7 +6550,7 @@
       "updated": "2026-03-19T23:38:54+09:00",
       "author_name": "tetutetu214",
       "likes_count": 32,
-      "last_seen": "2026-03-21T10:14:57.798132581+00:00"
+      "last_seen": "2026-03-21T11:14:48.987942650+00:00"
     },
     {
       "key": "ee412628917fe2fc3e45",
@@ -6561,8 +6585,8 @@
       "published": "2026-03-20T04:24:06+09:00",
       "updated": "2026-03-20T04:26:46+09:00",
       "author_name": "Towa_ONGRKL",
-      "likes_count": 10,
-      "last_seen": "2026-03-21T10:14:57.798132581+00:00"
+      "likes_count": 11,
+      "last_seen": "2026-03-21T11:14:48.987942650+00:00"
     },
     {
       "key": "ee68fc621f7d1c53ffe1",
@@ -6933,8 +6957,8 @@
       "published": "2026-03-19T12:12:34+09:00",
       "updated": "2026-03-19T12:12:35+09:00",
       "author_name": "keishin_nishiura",
-      "likes_count": 24,
-      "last_seen": "2026-03-21T10:14:57.798132581+00:00"
+      "likes_count": 25,
+      "last_seen": "2026-03-21T11:14:48.987942650+00:00"
     },
     {
       "key": "f917292498925c99fe8b",
