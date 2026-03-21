@@ -249,6 +249,17 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
 実際、生成AIでコーディング作業が削れた代わりに、別のコストが前面に出てきま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1ad4e4ccaf47816c63e0</id>
+    <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-18T22:14:33+09:00</updated>
+    <summary type="html">Likes: 165&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
+Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
+
+「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
+「プロジェクトのル...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fb529b2ede94661e5287</id>
     <title>Claude Code Securityが発表され、セキュリティ株が暴落。AIが数十年見逃されたバグ500件を発見した</title>
     <link rel="alternate" href="https://qiita.com/emi_ndk/items/fb529b2ede94661e5287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -257,17 +268,6 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
 2026年2月20日、AnthropicがClaude Code上で動作するセキュリティスキャン機能「Claude Code Security」を発表した。
 その瞬間、サイバーセキュリティ株が軒並み暴落した。
 📉 2026/02/20 サイバーセキュリティ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1ad4e4ccaf47816c63e0</id>
-    <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-18T22:14:33+09:00</updated>
-    <summary type="html">Likes: 163&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
-Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
-
-「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
-「プロジェクトのル...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:87a71916c155d69a336b</id>
@@ -1067,6 +1067,19 @@ Electron のようなフレームワークは便利ですが、「アプリサ�
 Tauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用することで...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
+    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-19T12:57:17+09:00</updated>
+    <summary type="html">Likes: 69&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
+
+OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
+「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
+APIのコスト見積もりを上司やクライアントに提出する必要がある人
+
+LLMのトークナイゼーシ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5cc486be289a8ea76728</id>
     <title>「セキュリティリスク＝影響度☓発生確率」をやめよう</title>
     <link rel="alternate" href="https://qiita.com/f_0000/items/5cc486be289a8ea76728?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1153,19 +1166,6 @@ GPUが積まれた高性能マシン。
     <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Fujiwo&quot;&gt;Fujiwo&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T15:56:45+09:00&lt;br/&gt;Updated: 2026-01-28T16:55:12+09:00&lt;br/&gt;概要
 この記事は、「現代のソフトウェア開発において、オブジェクト指向(OOP)はまだ中心的な指針たり得るか?」をテーマにした、肯定派・否定派によるディベート形式の文章です。
 目的は、結論を一つに決め打ちすることではなく、オブジェクト指向をめぐる代表的な賛否の論点(歴史...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
-    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-19T12:57:17+09:00</updated>
-    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
-
-OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
-「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
-APIのコスト見積もりを上司やクライアントに提出する必要がある人
-
-LLMのトークナイゼーシ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5a8a16a2b7e91c3536a8</id>
@@ -1911,6 +1911,18 @@ Win...</summary>
 1...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:026aeee6b59f78df5e9d</id>
+    <title>【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/026aeee6b59f78df5e9d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-18T12:12:26+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:12:26+09:00&lt;br/&gt;Updated: 2026-03-18T12:12:26+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+今回は、ローカルLLMをテーマに、完全オフラインで動作するAI開発環境をゼロから構築していきます。
+ChatGPTやClaude、Geminiなどのクラウド型AIは非常に便利ですが、こんな課題を感じたことはありませんか？
+
+ソース...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3825da22d42572aee59c</id>
     <title>SES3年・30代でWeb系自社開発企業に転職するまで（応募117社 / 学習922時間）</title>
     <link rel="alternate" href="https://qiita.com/ngimixin/items/3825da22d42572aee59c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1975,18 +1987,6 @@ MacからWindowsに移行して、GPU環境を構築したばかりの方
 この記事で得られること
 
 Qwen3-...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:026aeee6b59f78df5e9d</id>
-    <title>【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/026aeee6b59f78df5e9d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-18T12:12:26+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:12:26+09:00&lt;br/&gt;Updated: 2026-03-18T12:12:26+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-今回は、ローカルLLMをテーマに、完全オフラインで動作するAI開発環境をゼロから構築していきます。
-ChatGPTやClaude、Geminiなどのクラウド型AIは非常に便利ですが、こんな課題を感じたことはありませんか？
-
-ソース...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bc9aee9c5951e01ad13b</id>
