@@ -218,6 +218,17 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
 そんな方に僕が現場を経験して気づいた、技術の「表面」ではなく「本質」を掴んで成長を加速させるためのヒントを、僕の失敗談を交えつつお伝えします...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1ad4e4ccaf47816c63e0</id>
+    <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-18T22:14:33+09:00</updated>
+    <summary type="html">Likes: 172&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
+Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
+
+「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
+「プロジェクトのル...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d4121721605c8955aa17</id>
     <title>なぜあの人と話すと仕事が止まるのか。</title>
     <link rel="alternate" href="https://qiita.com/haihaikazuma/items/d4121721605c8955aa17?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -225,17 +236,6 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
     <summary type="html">Likes: 170&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/haihaikazuma&quot;&gt;haihaikazuma&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T10:31:28+09:00&lt;br/&gt;Updated: 2026-01-28T10:31:28+09:00&lt;br/&gt;会話・チャットでやり取りをしていて、「なんか、このひと面倒くさいなー」とイライラすることがある。
 イライラするだけなら、まだ我慢できる。けれど、それが仕事に支障をきたすのであれば話は別だ。─── で、そういう場面は珍しくない。
 そういうひとのことばを観察していると、あいまい...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1ad4e4ccaf47816c63e0</id>
-    <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-18T22:14:33+09:00</updated>
-    <summary type="html">Likes: 169&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
-Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
-
-「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
-「プロジェクトのル...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:dda01037624623a8e7ca</id>
@@ -992,25 +992,25 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
 HTML/画像を根拠にMark...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:392934f79e943e8b9228</id>
-    <title>Claude Codeベストプラクティス -- 成果を安定させる7つの鉄則</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/392934f79e943e8b9228?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-04T12:26:47+09:00</updated>
-    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T17:38:55+09:00&lt;br/&gt;Updated: 2026-03-04T12:26:47+09:00&lt;br/&gt;Claude Codeの公式ベストプラクティスには、成果を安定させるためのパターンが数多く掲載されている。ただ、情報量が多く、どこから手をつければよいか迷う人も多いのではないだろうか。
-本記事では、公式ドキュメントの内容を参考に、特に押さえておきたいポイントを7つの鉄則とし...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
     <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-19T12:57:17+09:00</updated>
-    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
+    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
 
 OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
 「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
 APIのコスト見積もりを上司やクライアントに提出する必要がある人
 
 LLMのトークナイゼーシ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:392934f79e943e8b9228</id>
+    <title>Claude Codeベストプラクティス -- 成果を安定させる7つの鉄則</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/392934f79e943e8b9228?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-04T12:26:47+09:00</updated>
+    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T17:38:55+09:00&lt;br/&gt;Updated: 2026-03-04T12:26:47+09:00&lt;br/&gt;Claude Codeの公式ベストプラクティスには、成果を安定させるためのパターンが数多く掲載されている。ただ、情報量が多く、どこから手をつければよいか迷う人も多いのではないだろうか。
+本記事では、公式ドキュメントの内容を参考に、特に押さえておきたいポイントを7つの鉄則とし...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:77d59a91ce2f2ab54209</id>
