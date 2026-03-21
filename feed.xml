@@ -930,15 +930,6 @@ MinIO は Amazon S3 互換の API を備えたオブジェクトストレージ�
 docker-compose.yml に数行書くだけで S3 互換のストレージが立ち上がるため、ローカル開発環境の S3 モックとして広く使われてきました。DockerHu...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:097d51405416e93d5132</id>
-    <title>生成AIの収束先の存在を圏論で証明する</title>
-    <link rel="alternate" href="https://qiita.com/momo10/items/097d51405416e93d5132?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T20:09:54+09:00</updated>
-    <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/momo10&quot;&gt;momo10&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T18:19:24+09:00&lt;br/&gt;Updated: 2026-01-20T20:09:54+09:00&lt;br/&gt;はじめに
-敵対的模倣学習の圏論的解釈について紹介します。
-近年、敵対的模倣学習 (Generative Adversarial Imitation Learning; GAIL) や、それを応用した RLHF (Reinforcement Learning from Hu...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:0ff827a1c2deef68ba9a</id>
     <title>AIエージェントだけでスクラムを回してみた</title>
     <link rel="alternate" href="https://qiita.com/shyamagu/items/0ff827a1c2deef68ba9a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2252,5 +2243,16 @@ PR総数
 コントリビューター数
 36+
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:6b7a4c6125401327fe80</id>
+    <title>Gemini CLIで、散らかったGoogle Driveを一瞬で整理してみた。</title>
+    <link rel="alternate" href="https://qiita.com/hiroki2712/items/6b7a4c6125401327fe80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-03T20:15:17+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki2712&quot;&gt;hiroki2712&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T20:14:46+09:00&lt;br/&gt;Updated: 2026-03-03T20:15:17+09:00&lt;br/&gt;はじめに
+先日、X（旧Twitter）で気になるポストを見かけました。
+内容は、「Claude Code」と「Google ドライブ for Desktop」を組み合わせて、散らかったGoogle ドライブのフォルダを一瞬で整理した、というもの。
+
+「Googleドライブ...</summary>
   </entry>
 </feed>
