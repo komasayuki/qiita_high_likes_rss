@@ -757,6 +757,19 @@ A...</summary>
 「なぜ単体テストを作るのか」「どのような単体テストを書くべきか」「何を単体テストで確認するべきか」という知りたかったことがたくさん書いてある本。章ごとに「まとめ」が書いてあるので、1つの章を読み終わった後で復習できるの...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
+    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
+    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-19T12:57:17+09:00</updated>
+    <summary type="html">Likes: 91&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
+
+OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
+「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
+APIのコスト見積もりを上司やクライアントに提出する必要がある人
+
+LLMのトークナイゼーシ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7597edb999821efd2d8b</id>
     <title>Claude Code で20年前の商用ゲームをほぼ書き直さずにブラウザ移植するまで</title>
     <link rel="alternate" href="https://qiita.com/LostMyCode/items/7597edb999821efd2d8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -772,19 +785,6 @@ A...</summary>
     <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-28T16:17:53+09:00&lt;br/&gt;Updated: 2026-03-02T05:49:24+09:00&lt;br/&gt;Claude Codeの設定、なんとなくで使っていませんか？
 Hooks、Skills、CLAUDE.md、settings.json、MCP、権限管理…… 2026年のClaude Codeは機能が爆発的に増えた。でも全部を正しく設定しているエンジニアは1%もいない。
 こ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
-    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-19T12:57:17+09:00</updated>
-    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
-
-OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
-「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
-APIのコスト見積もりを上司やクライアントに提出する必要がある人
-
-LLMのトークナイゼーシ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
@@ -1752,6 +1752,14 @@ The Hacker Newsを読んでたんですけど、130カ国175000のOllamaがハ�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:df077776b293163e0a42</id>
+    <title>【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策</title>
+    <link rel="alternate" href="https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T23:23:18+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sarubot&quot;&gt;sarubot&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T15:43:04+09:00&lt;br/&gt;Updated: 2026-03-21T23:23:18+09:00&lt;br/&gt;【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWormの全貌と対策を徹底解説
+2026年3月、開発者コミュニティに激震が走りました。GitHub、npm、VSCode拡張機能など、私たちが日常的に信頼を置く400以上のリポジトリが「GlassW...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:952ce224a77b06e2cc26</id>
     <title>「安全なウェブサイトの作り方」に沿って、Next.jsで脆弱性の攻撃と防御を体験するハンズオン</title>
     <link rel="alternate" href="https://qiita.com/arunbababa/items/952ce224a77b06e2cc26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1805,14 +1813,6 @@ Claude Codeを日常的に使っているのですが、ここ1年ほどでSkill
 私の現在のデスクトップ環境
 
 Win...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:df077776b293163e0a42</id>
-    <title>【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策</title>
-    <link rel="alternate" href="https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T23:23:18+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sarubot&quot;&gt;sarubot&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T15:43:04+09:00&lt;br/&gt;Updated: 2026-03-21T23:23:18+09:00&lt;br/&gt;【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWormの全貌と対策を徹底解説
-2026年3月、開発者コミュニティに激震が走りました。GitHub、npm、VSCode拡張機能など、私たちが日常的に信頼を置く400以上のリポジトリが「GlassW...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:176fb69b1be583c14a4a</id>
@@ -2082,6 +2082,15 @@ Qiita上の解説としては以下の記事が最速ですが、本当に便利
 https://qiita.com/xhackjp1/items/03045dd62c2f...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cfbbc0d6112059b26522</id>
+    <title>Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました</title>
+    <link rel="alternate" href="https://qiita.com/igapyon/items/cfbbc0d6112059b26522?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T09:43:40+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/igapyon&quot;&gt;igapyon&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T10:49:55+09:00&lt;br/&gt;Updated: 2026-03-21T09:43:40+09:00&lt;br/&gt;Excel ブックは情報の入れ物としては便利ですが、生成 AI にそのまま渡すには扱いづらいことがあります。
+そこで、Excel ブックを生成 AI に食べさせやすい形へローカル変換する Single-file Web App として xlsx2md を作りました。
+xls...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ed8662412cc98a0d5868</id>
     <title>AWS Community Builders（Serverless）に選出されました</title>
     <link rel="alternate" href="https://qiita.com/tetutetu214/items/ed8662412cc98a0d5868?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2154,6 +2163,14 @@ E2Eテストの自動化、進めていますか？
 今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0fe0e777053eb52c6f5f</id>
+    <title>Copilot Studioで実現する「AIチーム」の作り方。マルチエージェント開発入門</title>
+    <link rel="alternate" href="https://qiita.com/TND_mi/items/0fe0e777053eb52c6f5f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-19T16:18:51+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TND_mi&quot;&gt;TND_mi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T16:18:50+09:00&lt;br/&gt;Updated: 2026-03-19T16:18:51+09:00&lt;br/&gt;これまでのAI活用は、翻訳や要約、問い合わせ対応など、ひとつの役割をこなす優秀な個人のような存在でした。しかし最近は、複数のAIが役割分担して動くマルチエージェントが登場し、AIがチームで仕事をするような使い方ができるようになっています。
+Copilot Studioでも、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b1c979cda8518f8b6695</id>
     <title>Antigravityの「青いボタン」をポチポチ押すのはもう終わり！ターミナル自動承認でAntigravityで楽々開発を実現しよう ＋追記 Antigravity０％問題</title>
     <link rel="alternate" href="https://qiita.com/masakinihirota/items/b1c979cda8518f8b6695?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2219,37 +2236,5 @@ Macを使い始めてから、いろいろなツールを試してきました�
 AI Coding.Infoというサイトを2025年7月から運営しています。
 
 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0fe0e777053eb52c6f5f</id>
-    <title>Copilot Studioで実現する「AIチーム」の作り方。マルチエージェント開発入門</title>
-    <link rel="alternate" href="https://qiita.com/TND_mi/items/0fe0e777053eb52c6f5f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-19T16:18:51+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TND_mi&quot;&gt;TND_mi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T16:18:50+09:00&lt;br/&gt;Updated: 2026-03-19T16:18:51+09:00&lt;br/&gt;これまでのAI活用は、翻訳や要約、問い合わせ対応など、ひとつの役割をこなす優秀な個人のような存在でした。しかし最近は、複数のAIが役割分担して動くマルチエージェントが登場し、AIがチームで仕事をするような使い方ができるようになっています。
-Copilot Studioでも、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f3b92f07929f1ab9d67e</id>
-    <title>144人のAI専門家チームが無料で手に入る時代 ── agency-agentsの急成長が示すエージェント専門化の潮流</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/f3b92f07929f1ab9d67e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-14T15:04:22+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T15:04:22+09:00&lt;br/&gt;Updated: 2026-03-14T15:04:22+09:00&lt;br/&gt;数字で見る急成長
-agency-agentsは2025年10月に作成されたリポジトリです。2026年3月14日時点の数値を見てみます。
-
-指標
-数値
-
-スター数
-40,889
-
-フォーク数
-6,172
-
-PR総数
-132+
-
-コントリビューター数
-36+
-...</summary>
   </entry>
 </feed>
