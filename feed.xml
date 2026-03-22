@@ -714,7 +714,7 @@ AWSやGCPは高機能だけどコストが怖い。かといって無料のサ�
     <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-19T12:57:17+09:00</updated>
-    <summary type="html">Likes: 93&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
+    <summary type="html">Likes: 95&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
 
 OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
 「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
@@ -1607,6 +1607,23 @@ Morpho社の調査が興味深いデータを出しています。SWE-benchに�
 Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:df077776b293163e0a42</id>
+    <title>【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策</title>
+    <link rel="alternate" href="https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T23:23:18+09:00</updated>
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sarubot&quot;&gt;sarubot&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T15:43:04+09:00&lt;br/&gt;Updated: 2026-03-21T23:23:18+09:00&lt;br/&gt;【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWormの全貌と対策を徹底解説
+2026年3月、開発者コミュニティに激震が走りました。GitHub、npm、VSCode拡張機能など、私たちが日常的に信頼を置く400以上のリポジトリが「GlassW...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ee5c69831501251a0ec0</id>
+    <title>高校の文化祭で簡易POSを作って学んだ、「ITを入れれば効率化する」とは限らないという話</title>
+    <link rel="alternate" href="https://qiita.com/Towa_ONGRKL/items/ee5c69831501251a0ec0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T21:07:09+09:00</updated>
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Towa_ONGRKL&quot;&gt;Towa_ONGRKL&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T04:24:06+09:00&lt;br/&gt;Updated: 2026-03-21T21:07:09+09:00&lt;br/&gt;はじめに
+高校3年生のとき（1年半ほど前）、文化祭のたい焼き屋で使うために、スプレッドシートとApps Scriptで簡易的なPOSのような仕組みを作りました。
+今振り返ると、この経験は「技術で現場を良くする面白さ」を知るきっかけであると同時に、ITを導入すること自体が目...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e80b763797d073815710</id>
     <title>エンジニアがChatGPTを使いこなせていないかもしれない話</title>
     <link rel="alternate" href="https://qiita.com/kamome_susume/items/e80b763797d073815710?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1667,14 +1684,6 @@ draw.io の MCP サーバーが公開されていたので、軽く触ってみ�
 勝手に、よりいい感じの図を出力してくれると思って使ったのですが、（何も使わずに「drawio 形式で書いて」と指示する場合と比べて）あまり違いを感じませんでした。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:df077776b293163e0a42</id>
-    <title>【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策</title>
-    <link rel="alternate" href="https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T23:23:18+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sarubot&quot;&gt;sarubot&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T15:43:04+09:00&lt;br/&gt;Updated: 2026-03-21T23:23:18+09:00&lt;br/&gt;【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWormの全貌と対策を徹底解説
-2026年3月、開発者コミュニティに激震が走りました。GitHub、npm、VSCode拡張機能など、私たちが日常的に信頼を置く400以上のリポジトリが「GlassW...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0dd4fc68180aa8526678</id>
@@ -1815,15 +1824,6 @@ Claude Codeを日常的に使っているのですが、ここ1年ほどでSkill
 Win...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:ee5c69831501251a0ec0</id>
-    <title>高校の文化祭で簡易POSを作って学んだ、「ITを入れれば効率化する」とは限らないという話</title>
-    <link rel="alternate" href="https://qiita.com/Towa_ONGRKL/items/ee5c69831501251a0ec0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T21:07:09+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Towa_ONGRKL&quot;&gt;Towa_ONGRKL&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T04:24:06+09:00&lt;br/&gt;Updated: 2026-03-21T21:07:09+09:00&lt;br/&gt;はじめに
-高校3年生のとき（1年半ほど前）、文化祭のたい焼き屋で使うために、スプレッドシートとApps Scriptで簡易的なPOSのような仕組みを作りました。
-今振り返ると、この経験は「技術で現場を良くする面白さ」を知るきっかけであると同時に、ITを導入すること自体が目...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:176fb69b1be583c14a4a</id>
     <title>【ポエム】 高卒、基本情報3連敗。それでも24歳までに「ネスペ・支援士・AWS12冠」など24資格に合格した話</title>
     <link rel="alternate" href="https://qiita.com/fuji0202/items/176fb69b1be583c14a4a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1895,6 +1895,15 @@ Win...</summary>
     <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/koras7788&quot;&gt;koras7788&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:47:41+09:00&lt;br/&gt;Updated: 2026-01-21T17:55:41+09:00&lt;br/&gt;Claude Codeは、AI支援による開発体験を提供する強力なツールです。しかし、多くの機能が隠れているため、その真価を十分に活用できていないユーザーも少なくありません。この記事では、作業効率を大幅に向上させる実践的なテクニックを4つのカテゴリーに分けて紹介します。
 
 1...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:cfbbc0d6112059b26522</id>
+    <title>Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました</title>
+    <link rel="alternate" href="https://qiita.com/igapyon/items/cfbbc0d6112059b26522?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T09:43:40+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/igapyon&quot;&gt;igapyon&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T10:49:55+09:00&lt;br/&gt;Updated: 2026-03-21T09:43:40+09:00&lt;br/&gt;Excel ブックは情報の入れ物としては便利ですが、生成 AI にそのまま渡すには扱いづらいことがあります。
+そこで、Excel ブックを生成 AI に食べさせやすい形へローカル変換する Single-file Web App として xlsx2md を作りました。
+xls...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:026aeee6b59f78df5e9d</id>
@@ -1973,15 +1982,6 @@ MacからWindowsに移行して、GPU環境を構築したばかりの方
 この記事で得られること
 
 Qwen3-...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cfbbc0d6112059b26522</id>
-    <title>Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました</title>
-    <link rel="alternate" href="https://qiita.com/igapyon/items/cfbbc0d6112059b26522?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T09:43:40+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/igapyon&quot;&gt;igapyon&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T10:49:55+09:00&lt;br/&gt;Updated: 2026-03-21T09:43:40+09:00&lt;br/&gt;Excel ブックは情報の入れ物としては便利ですが、生成 AI にそのまま渡すには扱いづらいことがあります。
-そこで、Excel ブックを生成 AI に食べさせやすい形へローカル変換する Single-file Web App として xlsx2md を作りました。
-xls...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bc9aee9c5951e01ad13b</id>
@@ -2172,6 +2172,15 @@ E2Eテストの自動化、進めていますか？
 今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0385b6d1468e6d564b50</id>
+    <title>AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド</title>
+    <link rel="alternate" href="https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T09:01:09+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akira_papa_AI&quot;&gt;akira_papa_AI&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T09:01:09+09:00&lt;br/&gt;Updated: 2026-03-21T09:01:09+09:00&lt;br/&gt;はじめに — 同じCursorを使っているのに、なぜ10倍の差がつくのか
+こんな経験、ないでしょうか。
+チームの隣の席の人が、CursorやCopilotで爆速開発している。同じツールを使っているのに、自分のプロジェクトだと全然うまくいかない。AIが的外れなコードを吐く。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0fe0e777053eb52c6f5f</id>
     <title>Copilot Studioで実現する「AIチーム」の作り方。マルチエージェント開発入門</title>
     <link rel="alternate" href="https://qiita.com/TND_mi/items/0fe0e777053eb52c6f5f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2221,19 +2230,5 @@ Macを使い始めてから、いろいろなツールを試してきました�
 すべて実際に日常的に使っているツールです。
 「Macを買ったけど、何を入れればいいかわからない...」という方や、
 「...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4eadb2019e0c61746631</id>
-    <title>属人化自体は悪じゃない。“〇〇な属人化”が悪い</title>
-    <link rel="alternate" href="https://qiita.com/taka_xin/items/4eadb2019e0c61746631?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-16T12:49:58+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/taka_xin&quot;&gt;taka_xin&lt;/a&gt;&lt;br/&gt;Published: 2026-02-16T12:49:58+09:00&lt;br/&gt;Updated: 2026-02-16T12:49:58+09:00&lt;br/&gt;はじめに
-チームで開発していると、だいたい一度はこんな出来事、1度は経験したことがあるのではないでしょうか。
-
-「それ、Aさんがまとめてくれてるところだから分からない」
-「Aさんがいないとリリースできない…」
-「前も同じエラー出た気がするけど、誰が直したっけ」
-
-この状態...</summary>
   </entry>
 </feed>
