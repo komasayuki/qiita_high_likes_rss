@@ -1350,9 +1350,18 @@ https://160.16.12...</summary>
     <title>Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました</title>
     <link rel="alternate" href="https://qiita.com/igapyon/items/cfbbc0d6112059b26522?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-21T09:43:40+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/igapyon&quot;&gt;igapyon&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T10:49:55+09:00&lt;br/&gt;Updated: 2026-03-21T09:43:40+09:00&lt;br/&gt;Excel ブックは情報の入れ物としては便利ですが、生成 AI にそのまま渡すには扱いづらいことがあります。
+    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/igapyon&quot;&gt;igapyon&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T10:49:55+09:00&lt;br/&gt;Updated: 2026-03-21T09:43:40+09:00&lt;br/&gt;Excel ブックは情報の入れ物としては便利ですが、生成 AI にそのまま渡すには扱いづらいことがあります。
 そこで、Excel ブックを生成 AI に食べさせやすい形へローカル変換する Single-file Web App として xlsx2md を作りました。
 xls...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:0385b6d1468e6d564b50</id>
+    <title>AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド</title>
+    <link rel="alternate" href="https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T09:01:09+09:00</updated>
+    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akira_papa_AI&quot;&gt;akira_papa_AI&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T09:01:09+09:00&lt;br/&gt;Updated: 2026-03-21T09:01:09+09:00&lt;br/&gt;はじめに — 同じCursorを使っているのに、なぜ10倍の差がつくのか
+こんな経験、ないでしょうか。
+チームの隣の席の人が、CursorやCopilotで爆速開発している。同じツールを使っているのに、自分のプロジェクトだと全然うまくいかない。AIが的外れなコードを吐く。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4eff08ff2413c23b95ec</id>
@@ -1363,15 +1372,6 @@ xls...</summary>
 いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
 みなさん、Claude CodeのAgent Teams つかってます？
 複数のClaude Codeインスタンスを「チーム」として協調動作させるという、なかなか攻めた実験的機能（Re...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0385b6d1468e6d564b50</id>
-    <title>AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド</title>
-    <link rel="alternate" href="https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T09:01:09+09:00</updated>
-    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akira_papa_AI&quot;&gt;akira_papa_AI&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T09:01:09+09:00&lt;br/&gt;Updated: 2026-03-21T09:01:09+09:00&lt;br/&gt;はじめに — 同じCursorを使っているのに、なぜ10倍の差がつくのか
-こんな経験、ないでしょうか。
-チームの隣の席の人が、CursorやCopilotで爆速開発している。同じツールを使っているのに、自分のプロジェクトだと全然うまくいかない。AIが的外れなコードを吐く。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8010f0d62025db8f3d81</id>
