@@ -787,6 +787,15 @@ Hooks、Skills、CLAUDE.md、settings.json、MCP、権限管理…… 2026年の
 こ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ee5c69831501251a0ec0</id>
+    <title>高校の文化祭で簡易POSを作って学んだ、「ITを入れれば効率化する」とは限らないという話</title>
+    <link rel="alternate" href="https://qiita.com/Towa_ONGRKL/items/ee5c69831501251a0ec0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T21:07:09+09:00</updated>
+    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Towa_ONGRKL&quot;&gt;Towa_ONGRKL&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T04:24:06+09:00&lt;br/&gt;Updated: 2026-03-21T21:07:09+09:00&lt;br/&gt;はじめに
+高校3年生のとき（1年半ほど前）、文化祭のたい焼き屋で使うために、スプレッドシートとApps Scriptで簡易的なPOSのような仕組みを作りました。
+今振り返ると、この経験は「技術で現場を良くする面白さ」を知るきっかけであると同時に、ITを導入すること自体が目...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d3f492b66a35bbaa0a94</id>
     <title>就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ</title>
     <link rel="alternate" href="https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -876,15 +885,6 @@ Certify
 一円の違いや細かい端数処理でミスが許されない業務を行う中で仕組みによる事故防止に努めてきました。
 この記事では、実務で「地味だけど効く」Excelの小技を紹介します。
 ※マクロなし／明日から使えるもの中心...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ee5c69831501251a0ec0</id>
-    <title>高校の文化祭で簡易POSを作って学んだ、「ITを入れれば効率化する」とは限らないという話</title>
-    <link rel="alternate" href="https://qiita.com/Towa_ONGRKL/items/ee5c69831501251a0ec0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T21:07:09+09:00</updated>
-    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Towa_ONGRKL&quot;&gt;Towa_ONGRKL&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T04:24:06+09:00&lt;br/&gt;Updated: 2026-03-21T21:07:09+09:00&lt;br/&gt;はじめに
-高校3年生のとき（1年半ほど前）、文化祭のたい焼き屋で使うために、スプレッドシートとApps Scriptで簡易的なPOSのような仕組みを作りました。
-今振り返ると、この経験は「技術で現場を良くする面白さ」を知るきっかけであると同時に、ITを導入すること自体が目...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:76a4d9dac74e70bceebb</id>
@@ -1417,6 +1417,15 @@ Bedrockエージェント（AIエージェント構築機能）
 AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cfbbc0d6112059b26522</id>
+    <title>Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました</title>
+    <link rel="alternate" href="https://qiita.com/igapyon/items/cfbbc0d6112059b26522?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T09:43:40+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/igapyon&quot;&gt;igapyon&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T10:49:55+09:00&lt;br/&gt;Updated: 2026-03-21T09:43:40+09:00&lt;br/&gt;Excel ブックは情報の入れ物としては便利ですが、生成 AI にそのまま渡すには扱いづらいことがあります。
+そこで、Excel ブックを生成 AI に食べさせやすい形へローカル変換する Single-file Web App として xlsx2md を作りました。
+xls...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
     <title>個人開発「ひたすら数学」作ってリリースしてみた iOS/Android</title>
     <link rel="alternate" href="https://qiita.com/keitaMax/items/eba4cc53538a37121ede?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1472,15 +1481,6 @@ GitHub Copilot CL...</summary>
 
 Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレポートを出してくれる /insights コマンドが追加されていたようです。
 私は24時間使いまわすほどのヘビーユーザーでは...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cfbbc0d6112059b26522</id>
-    <title>Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました</title>
-    <link rel="alternate" href="https://qiita.com/igapyon/items/cfbbc0d6112059b26522?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T09:43:40+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/igapyon&quot;&gt;igapyon&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T10:49:55+09:00&lt;br/&gt;Updated: 2026-03-21T09:43:40+09:00&lt;br/&gt;Excel ブックは情報の入れ物としては便利ですが、生成 AI にそのまま渡すには扱いづらいことがあります。
-そこで、Excel ブックを生成 AI に食べさせやすい形へローカル変換する Single-file Web App として xlsx2md を作りました。
-xls...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ab8af60a632e7a562e06</id>
@@ -1544,6 +1544,15 @@ OllamaやLM StudioでローカルLLMを動かしている方
 Pythonでプログラミングをしていると、当たり前のように使っているpip installコマンド。
 このコマンド一つで、便利なライブラリがすぐに使えるようになります。
 しかし、**結局、pipは何をどこにダウンロードして、どうやってPythonがそれを見つけて...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:0385b6d1468e6d564b50</id>
+    <title>AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド</title>
+    <link rel="alternate" href="https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T09:01:09+09:00</updated>
+    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akira_papa_AI&quot;&gt;akira_papa_AI&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T09:01:09+09:00&lt;br/&gt;Updated: 2026-03-21T09:01:09+09:00&lt;br/&gt;はじめに — 同じCursorを使っているのに、なぜ10倍の差がつくのか
+こんな経験、ないでしょうか。
+チームの隣の席の人が、CursorやCopilotで爆速開発している。同じツールを使っているのに、自分のプロジェクトだと全然うまくいかない。AIが的外れなコードを吐く。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a8306067788798975fa7</id>
@@ -1800,15 +1809,6 @@ Claude Codeを日常的に使っているのですが、ここ1年ほどでSkill
 私の現在のデスクトップ環境
 
 Win...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0385b6d1468e6d564b50</id>
-    <title>AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド</title>
-    <link rel="alternate" href="https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T09:01:09+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akira_papa_AI&quot;&gt;akira_papa_AI&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T09:01:09+09:00&lt;br/&gt;Updated: 2026-03-21T09:01:09+09:00&lt;br/&gt;はじめに — 同じCursorを使っているのに、なぜ10倍の差がつくのか
-こんな経験、ないでしょうか。
-チームの隣の席の人が、CursorやCopilotで爆速開発している。同じツールを使っているのに、自分のプロジェクトだと全然うまくいかない。AIが的外れなコードを吐く。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:176fb69b1be583c14a4a</id>
