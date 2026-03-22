@@ -681,6 +681,15 @@ AWSやGCPは高機能だけどコストが怖い。かといって無料のサ�
 この記事では、個人開発で使えるおすすめのデ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ee5c69831501251a0ec0</id>
+    <title>高校の文化祭で簡易POSを作って学んだ、「ITを入れれば効率化する」とは限らないという話</title>
+    <link rel="alternate" href="https://qiita.com/Towa_ONGRKL/items/ee5c69831501251a0ec0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T21:07:09+09:00</updated>
+    <summary type="html">Likes: 98&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Towa_ONGRKL&quot;&gt;Towa_ONGRKL&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T04:24:06+09:00&lt;br/&gt;Updated: 2026-03-21T21:07:09+09:00&lt;br/&gt;はじめに
+高校3年生のとき（1年半ほど前）、文化祭のたい焼き屋で使うために、スプレッドシートとApps Scriptで簡易的なPOSのような仕組みを作りました。
+今振り返ると、この経験は「技術で現場を良くする面白さ」を知るきっかけであると同時に、ITを導入すること自体が目...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
     <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -721,15 +730,6 @@ LLMのトークナイゼーシ...</summary>
 なお補足しておきますと、元ネタの記事はJavaScriptの async/await の歴史についていえば、間違ってないと思います。
 
 ただ、 async/awaitは...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ee5c69831501251a0ec0</id>
-    <title>高校の文化祭で簡易POSを作って学んだ、「ITを入れれば効率化する」とは限らないという話</title>
-    <link rel="alternate" href="https://qiita.com/Towa_ONGRKL/items/ee5c69831501251a0ec0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T21:07:09+09:00</updated>
-    <summary type="html">Likes: 95&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Towa_ONGRKL&quot;&gt;Towa_ONGRKL&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T04:24:06+09:00&lt;br/&gt;Updated: 2026-03-21T21:07:09+09:00&lt;br/&gt;はじめに
-高校3年生のとき（1年半ほど前）、文化祭のたい焼き屋で使うために、スプレッドシートとApps Scriptで簡易的なPOSのような仕組みを作りました。
-今振り返ると、この経験は「技術で現場を良くする面白さ」を知るきっかけであると同時に、ITを導入すること自体が目...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fca5a1898cc2a9c961f6</id>
@@ -1373,6 +1373,15 @@ https://160.16.12...</summary>
 2026年3月、開発者コミュニティに激震が走りました。GitHub、npm、VSCode拡張機能など、私たちが日常的に信頼を置く400以上のリポジトリが「GlassW...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cfbbc0d6112059b26522</id>
+    <title>Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました</title>
+    <link rel="alternate" href="https://qiita.com/igapyon/items/cfbbc0d6112059b26522?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T09:43:40+09:00</updated>
+    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/igapyon&quot;&gt;igapyon&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T10:49:55+09:00&lt;br/&gt;Updated: 2026-03-21T09:43:40+09:00&lt;br/&gt;Excel ブックは情報の入れ物としては便利ですが、生成 AI にそのまま渡すには扱いづらいことがあります。
+そこで、Excel ブックを生成 AI に食べさせやすい形へローカル変換する Single-file Web App として xlsx2md を作りました。
+xls...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8010f0d62025db8f3d81</id>
     <title>ベイズ原理主義者ブチ切れ必至！因子分析の再学習を50倍速める運用の知恵</title>
     <link rel="alternate" href="https://qiita.com/Gotoubun_taiwan/items/8010f0d62025db8f3d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1383,15 +1392,6 @@ https://160.16.12...</summary>
 本記事は、以下の記事の続編として、推定したベイズ機械学習モデル、とりわけ、いわゆる因子分析系のモデル、を「実際にどう運用するのか」に焦点を当てて解説します。
 
 まず大前提として、本記事は信用...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cfbbc0d6112059b26522</id>
-    <title>Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました</title>
-    <link rel="alternate" href="https://qiita.com/igapyon/items/cfbbc0d6112059b26522?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T09:43:40+09:00</updated>
-    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/igapyon&quot;&gt;igapyon&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T10:49:55+09:00&lt;br/&gt;Updated: 2026-03-21T09:43:40+09:00&lt;br/&gt;Excel ブックは情報の入れ物としては便利ですが、生成 AI にそのまま渡すには扱いづらいことがあります。
-そこで、Excel ブックを生成 AI に食べさせやすい形へローカル変換する Single-file Web App として xlsx2md を作りました。
-xls...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:78fdef38b201985cb0d9</id>
@@ -1445,7 +1445,7 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
     <title>AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド</title>
     <link rel="alternate" href="https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-21T09:01:09+09:00</updated>
-    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akira_papa_AI&quot;&gt;akira_papa_AI&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T09:01:09+09:00&lt;br/&gt;Updated: 2026-03-21T09:01:09+09:00&lt;br/&gt;はじめに — 同じCursorを使っているのに、なぜ10倍の差がつくのか
+    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akira_papa_AI&quot;&gt;akira_papa_AI&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T09:01:09+09:00&lt;br/&gt;Updated: 2026-03-21T09:01:09+09:00&lt;br/&gt;はじめに — 同じCursorを使っているのに、なぜ10倍の差がつくのか
 こんな経験、ないでしょうか。
 チームの隣の席の人が、CursorやCopilotで爆速開発している。同じツールを使っているのに、自分のプロジェクトだと全然うまくいかない。AIが的外れなコードを吐く。...</summary>
   </entry>
@@ -1844,6 +1844,15 @@ Win...</summary>
 それぞれが手探りでAIセキュリティの取り組みを進めているため、シャドーAIのリス...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4d04c2691c788d1781e1</id>
+    <title>おうちで通信キャリアを再現してみた</title>
+    <link rel="alternate" href="https://qiita.com/takuteh/items/4d04c2691c788d1781e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-20T21:26:26+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takuteh&quot;&gt;takuteh&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T21:25:38+09:00&lt;br/&gt;Updated: 2026-03-20T21:26:26+09:00&lt;br/&gt;はじめに
+せっかく通信キャリアのモバイルコア部門のエンジニアになったので、自宅でもコア設備を再現してみようと思いました。とは言っても私はモバイルコアの基盤開発担当なので、3GPPや設備については概要程度しか知りません。
+一部曖昧な説明があるかもしれませんがご了承ください。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:05e66bd57148b4909d90</id>
     <title>新メンバーが入った瞬間、チームのアジャイル度は試される</title>
     <link rel="alternate" href="https://qiita.com/kimdev/items/05e66bd57148b4909d90?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1994,15 +2003,6 @@ llama.cpp や Open WebUI を使ったロー...</summary>
     <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Lambwool-711&quot;&gt;Lambwool-711&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T10:40:08+09:00&lt;br/&gt;Updated: 2026-02-12T13:25:47+09:00&lt;br/&gt;はじめに
 こんにちは。インフラエンジニア2年目で、運用メインたまに設計構築をやらせてもらっています。まだまだ知らないことだらけで日々学習を継続しています。
 去年(2025年)にAZ-104、SOA、SAA、SAP、ANSなどのいわゆるアソシエイトからプロフェッショナルあた...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4d04c2691c788d1781e1</id>
-    <title>おうちで通信キャリアを再現してみた</title>
-    <link rel="alternate" href="https://qiita.com/takuteh/items/4d04c2691c788d1781e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-20T21:26:26+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takuteh&quot;&gt;takuteh&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T21:25:38+09:00&lt;br/&gt;Updated: 2026-03-20T21:26:26+09:00&lt;br/&gt;はじめに
-せっかく通信キャリアのモバイルコア部門のエンジニアになったので、自宅でもコア設備を再現してみようと思いました。とは言っても私はモバイルコアの基盤開発担当なので、3GPPや設備については概要程度しか知りません。
-一部曖昧な説明があるかもしれませんがご了承ください。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a2c5012d496312358323</id>
