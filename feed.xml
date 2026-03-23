@@ -877,6 +877,15 @@ Certify
 ※マクロなし／明日から使えるもの中心...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cfbbc0d6112059b26522</id>
+    <title>Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました</title>
+    <link rel="alternate" href="https://qiita.com/igapyon/items/cfbbc0d6112059b26522?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-23T07:54:49+09:00</updated>
+    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/igapyon&quot;&gt;igapyon&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T10:49:55+09:00&lt;br/&gt;Updated: 2026-03-23T07:54:49+09:00&lt;br/&gt;Excel ブックは情報の入れ物としては便利ですが、生成 AI にそのまま渡すには扱いづらいことがあります。
+そこで、Excel ブックを生成 AI に食べさせやすい形へローカル変換する Single-file Web App として xlsx2md を作りました。
+xls...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:76a4d9dac74e70bceebb</id>
     <title>生成AIで古（いにしえ）のFORTRANコードに挑戦する</title>
     <link rel="alternate" href="https://qiita.com/cometscome_phys/items/76a4d9dac74e70bceebb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -973,15 +982,6 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
 自分も一度、デフォルト設定でバイブコーディングをしてみて「こんなもんか」と失望したも...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:cfbbc0d6112059b26522</id>
-    <title>Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました</title>
-    <link rel="alternate" href="https://qiita.com/igapyon/items/cfbbc0d6112059b26522?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-23T07:54:49+09:00</updated>
-    <summary type="html">Likes: 75&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/igapyon&quot;&gt;igapyon&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T10:49:55+09:00&lt;br/&gt;Updated: 2026-03-23T07:54:49+09:00&lt;br/&gt;Excel ブックは情報の入れ物としては便利ですが、生成 AI にそのまま渡すには扱いづらいことがあります。
-そこで、Excel ブックを生成 AI に食べさせやすい形へローカル変換する Single-file Web App として xlsx2md を作りました。
-xls...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:1d84037b3b9a499167de</id>
     <title>draw.io MCP + Playwright MCP で画面設計書を自動生成してみた（GitHub Copilot Agent Skills）</title>
     <link rel="alternate" href="https://qiita.com/Ymmy/items/1d84037b3b9a499167de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1001,6 +1001,15 @@ HTML/画像を根拠にMark...</summary>
     <updated>2026-03-04T12:26:47+09:00</updated>
     <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T17:38:55+09:00&lt;br/&gt;Updated: 2026-03-04T12:26:47+09:00&lt;br/&gt;Claude Codeの公式ベストプラクティスには、成果を安定させるためのパターンが数多く掲載されている。ただ、情報量が多く、どこから手をつければよいか迷う人も多いのではないだろうか。
 本記事では、公式ドキュメントの内容を参考に、特に押さえておきたいポイントを7つの鉄則とし...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:0385b6d1468e6d564b50</id>
+    <title>AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド</title>
+    <link rel="alternate" href="https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T09:01:09+09:00</updated>
+    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akira_papa_AI&quot;&gt;akira_papa_AI&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T09:01:09+09:00&lt;br/&gt;Updated: 2026-03-21T09:01:09+09:00&lt;br/&gt;はじめに — 同じCursorを使っているのに、なぜ10倍の差がつくのか
+こんな経験、ないでしょうか。
+チームの隣の席の人が、CursorやCopilotで爆速開発している。同じツールを使っているのに、自分のプロジェクトだと全然うまくいかない。AIが的外れなコードを吐く。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:77d59a91ce2f2ab54209</id>
@@ -1048,15 +1057,6 @@ GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場�
 セキュリティアラート自動トリアージ: Sysdig アラート → 情報収集 → 重大度判定 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:0385b6d1468e6d564b50</id>
-    <title>AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド</title>
-    <link rel="alternate" href="https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T09:01:09+09:00</updated>
-    <summary type="html">Likes: 69&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akira_papa_AI&quot;&gt;akira_papa_AI&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T09:01:09+09:00&lt;br/&gt;Updated: 2026-03-21T09:01:09+09:00&lt;br/&gt;はじめに — 同じCursorを使っているのに、なぜ10倍の差がつくのか
-こんな経験、ないでしょうか。
-チームの隣の席の人が、CursorやCopilotで爆速開発している。同じツールを使っているのに、自分のプロジェクトだと全然うまくいかない。AIが的外れなコードを吐く。...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:5cc486be289a8ea76728</id>
     <title>「セキュリティリスク＝影響度☓発生確率」をやめよう</title>
     <link rel="alternate" href="https://qiita.com/f_0000/items/5cc486be289a8ea76728?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1068,6 +1068,15 @@ GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場�
 セキュリティリスク＝影響度☓発生確率
 長く使い古されたフレームワークである。
 そして...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4d04c2691c788d1781e1</id>
+    <title>おうちで通信キャリアを再現してみた</title>
+    <link rel="alternate" href="https://qiita.com/takuteh/items/4d04c2691c788d1781e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-20T21:26:26+09:00</updated>
+    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takuteh&quot;&gt;takuteh&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T21:25:38+09:00&lt;br/&gt;Updated: 2026-03-20T21:26:26+09:00&lt;br/&gt;はじめに
+せっかく通信キャリアのモバイルコア部門のエンジニアになったので、自宅でもコア設備を再現してみようと思いました。とは言っても私はモバイルコアの基盤開発担当なので、3GPPや設備については概要程度しか知りません。
+一部曖昧な説明があるかもしれませんがご了承ください。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:417b4d6f416fb188a30c</id>
@@ -1164,15 +1173,6 @@ Pythonを使い始めてはや十数年。他の言語も覚えないと思い�
 これが、私の日常になりました。
 
 メールの確認、Slackの未返信チェック、Notionでのタ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4d04c2691c788d1781e1</id>
-    <title>おうちで通信キャリアを再現してみた</title>
-    <link rel="alternate" href="https://qiita.com/takuteh/items/4d04c2691c788d1781e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-20T21:26:26+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takuteh&quot;&gt;takuteh&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T21:25:38+09:00&lt;br/&gt;Updated: 2026-03-20T21:26:26+09:00&lt;br/&gt;はじめに
-せっかく通信キャリアのモバイルコア部門のエンジニアになったので、自宅でもコア設備を再現してみようと思いました。とは言っても私はモバイルコアの基盤開発担当なので、3GPPや設備については概要程度しか知りません。
-一部曖昧な説明があるかもしれませんがご了承ください。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c9590934c7e72638107b</id>
@@ -1862,6 +1862,19 @@ Win...</summary>
 1...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1d6e71aed59920c642a4</id>
+    <title>【AWS学習の最適解】AWS全冠がお届けする、無料学習サイト「AWS認定合格ナビゲーター」のご紹介</title>
+    <link rel="alternate" href="https://qiita.com/kenken38/items/1d6e71aed59920c642a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T21:45:59+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenken38&quot;&gt;kenken38&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T20:04:06+09:00&lt;br/&gt;Updated: 2026-03-21T21:45:59+09:00&lt;br/&gt;実際の学習サイトはこちら
+https://kenta-matsuda.github.io/Kenta-Matsuda.github.io-aws-study/
+
+はじめに
+先日、AWS学習サイトのα版を公開しました。
+
+このα版では、AWS認定学習の「航路」を...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:026aeee6b59f78df5e9d</id>
     <title>【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/026aeee6b59f78df5e9d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2136,19 +2149,6 @@ E2Eテストの自動化、進めていますか？
 今回の記事では、実務で使える要件定義書の構造化ノウハウを、章立ての...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:1d6e71aed59920c642a4</id>
-    <title>【AWS学習の最適解】AWS全冠がお届けする、無料学習サイト「AWS認定合格ナビゲーター」のご紹介</title>
-    <link rel="alternate" href="https://qiita.com/kenken38/items/1d6e71aed59920c642a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T21:45:59+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenken38&quot;&gt;kenken38&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T20:04:06+09:00&lt;br/&gt;Updated: 2026-03-21T21:45:59+09:00&lt;br/&gt;実際の学習サイトはこちら
-https://kenta-matsuda.github.io/Kenta-Matsuda.github.io-aws-study/
-
-はじめに
-先日、AWS学習サイトのα版を公開しました。
-
-このα版では、AWS認定学習の「航路」を...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b1c979cda8518f8b6695</id>
     <title>Antigravityの「青いボタン」をポチポチ押すのはもう終わり！ターミナル自動承認でAntigravityで楽々開発を実現しよう ＋追記 Antigravity０％問題</title>
     <link rel="alternate" href="https://qiita.com/masakinihirota/items/b1c979cda8518f8b6695?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2216,6 +2216,17 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:155f3b5a0dcde72fcd10</id>
+    <title>ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/155f3b5a0dcde72fcd10?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-22T00:25:02+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T18:19:07+09:00&lt;br/&gt;Updated: 2026-03-22T00:25:02+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+「AIエージェントにコードを書かせたら、半分書いたところでコンテキストが切れて、次のセッションで最初からやり直しになった。」
+この経験、ありませんか。
+2025年後半から、AIコーディングエージェントの能力は飛躍的に向上しました。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f3b92f07929f1ab9d67e</id>
     <title>144人のAI専門家チームが無料で手に入る時代 ── agency-agentsの急成長が示すエージェント専門化の潮流</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/f3b92f07929f1ab9d67e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2238,16 +2249,5 @@ PR総数
 コントリビューター数
 36+
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6b7a4c6125401327fe80</id>
-    <title>Gemini CLIで、散らかったGoogle Driveを一瞬で整理してみた。</title>
-    <link rel="alternate" href="https://qiita.com/hiroki2712/items/6b7a4c6125401327fe80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-03T20:15:17+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki2712&quot;&gt;hiroki2712&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T20:14:46+09:00&lt;br/&gt;Updated: 2026-03-03T20:15:17+09:00&lt;br/&gt;はじめに
-先日、X（旧Twitter）で気になるポストを見かけました。
-内容は、「Claude Code」と「Google ドライブ for Desktop」を組み合わせて、散らかったGoogle ドライブのフォルダを一瞬で整理した、というもの。
-
-「Googleドライブ...</summary>
   </entry>
 </feed>
