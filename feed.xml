@@ -27,14 +27,6 @@ AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示�
 同じ「タスク管理アプリ」という指示で、ペルソナの有無によってどれだけ差が出るか実験しました。...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:66e7c07c459e3bb7082d</id>
-    <title>【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた</title>
-    <link rel="alternate" href="https://qiita.com/ot12/items/66e7c07c459e3bb7082d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-20T06:44:50+09:00</updated>
-    <summary type="html">Likes: 334&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T06:42:29+09:00&lt;br/&gt;Updated: 2026-01-20T06:44:50+09:00&lt;br/&gt;Claude Codeの開発者である Boris Cherny氏 (@bcherny) が公開した「2026年の開発セットアップ」が、Claude Codeを使う全人類が読むべき内容でした
-彼が実践しているのは、単なるツールの使いこなしではありません。 人間自身のCPUをマ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:72cc4282819ace823524</id>
     <title>【入門記事】ClaudeCodeの中級者になりたい人は集合してください</title>
     <link rel="alternate" href="https://qiita.com/K5K/items/72cc4282819ace823524?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -852,6 +844,15 @@ xls...</summary>
 残業が続くと、つい口にしてしまうこの言葉。私も以前は同じでした。月60〜80時間の残業に追われ、帰宅すれば疲れ果てて寝るだけの日々。「時間がない」...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4d04c2691c788d1781e1</id>
+    <title>おうちで通信キャリアを再現してみた</title>
+    <link rel="alternate" href="https://qiita.com/takuteh/items/4d04c2691c788d1781e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-20T21:26:26+09:00</updated>
+    <summary type="html">Likes: 83&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takuteh&quot;&gt;takuteh&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T21:25:38+09:00&lt;br/&gt;Updated: 2026-03-20T21:26:26+09:00&lt;br/&gt;はじめに
+せっかく通信キャリアのモバイルコア部門のエンジニアになったので、自宅でもコア設備を再現してみようと思いました。とは言っても私はモバイルコアの基盤開発担当なので、3GPPや設備については概要程度しか知りません。
+一部曖昧な説明があるかもしれませんがご了承ください。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b15f9adc9fb807a3e148</id>
     <title>ペネトレーションテスト チートシート（CRTP）</title>
     <link rel="alternate" href="https://qiita.com/sanyamarseille/items/b15f9adc9fb807a3e148?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -884,15 +885,6 @@ Certify
 一円の違いや細かい端数処理でミスが許されない業務を行う中で仕組みによる事故防止に努めてきました。
 この記事では、実務で「地味だけど効く」Excelの小技を紹介します。
 ※マクロなし／明日から使えるもの中心...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4d04c2691c788d1781e1</id>
-    <title>おうちで通信キャリアを再現してみた</title>
-    <link rel="alternate" href="https://qiita.com/takuteh/items/4d04c2691c788d1781e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-20T21:26:26+09:00</updated>
-    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takuteh&quot;&gt;takuteh&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T21:25:38+09:00&lt;br/&gt;Updated: 2026-03-20T21:26:26+09:00&lt;br/&gt;はじめに
-せっかく通信キャリアのモバイルコア部門のエンジニアになったので、自宅でもコア設備を再現してみようと思いました。とは言っても私はモバイルコアの基盤開発担当なので、3GPPや設備については概要程度しか知りません。
-一部曖昧な説明があるかもしれませんがご了承ください。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:76a4d9dac74e70bceebb</id>
@@ -1593,16 +1585,6 @@ Morpho社の調査が興味深いデータを出しています。SWE-benchに�
 シンシアでは、年間100人程度の実務未経験の方が応募し技術面接を受けます。その経験を通し、実務未経験者の方にぜひ身につけて...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:eed90901fdd044ce7f40</id>
-    <title>【Claude Code】Claude CodeがOllamaと連携できるようになったらしい</title>
-    <link rel="alternate" href="https://qiita.com/ryu-ki/items/eed90901fdd044ce7f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-01-19T17:14:00+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T08:41:06+09:00&lt;br/&gt;Updated: 2026-01-19T17:14:00+09:00&lt;br/&gt;はじめに
-2026/1/18 に以下のようなツイートを見かけました。
-
-Ollama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:e80b763797d073815710</id>
     <title>エンジニアがChatGPTを使いこなせていないかもしれない話</title>
     <link rel="alternate" href="https://qiita.com/kamome_susume/items/e80b763797d073815710?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1835,6 +1817,17 @@ Win...</summary>
 それぞれが手探りでAIセキュリティの取り組みを進めているため、シャドーAIのリス...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:155f3b5a0dcde72fcd10</id>
+    <title>ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/155f3b5a0dcde72fcd10?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-22T00:25:02+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T18:19:07+09:00&lt;br/&gt;Updated: 2026-03-22T00:25:02+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+「AIエージェントにコードを書かせたら、半分書いたところでコンテキストが切れて、次のセッションで最初からやり直しになった。」
+この経験、ありませんか。
+2025年後半から、AIコーディングエージェントの能力は飛躍的に向上しました。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:05e66bd57148b4909d90</id>
     <title>新メンバーが入った瞬間、チームのアジャイル度は試される</title>
     <link rel="alternate" href="https://qiita.com/kimdev/items/05e66bd57148b4909d90?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1873,17 +1866,6 @@ Win...</summary>
     <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/koras7788&quot;&gt;koras7788&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:47:41+09:00&lt;br/&gt;Updated: 2026-01-21T17:55:41+09:00&lt;br/&gt;Claude Codeは、AI支援による開発体験を提供する強力なツールです。しかし、多くの機能が隠れているため、その真価を十分に活用できていないユーザーも少なくありません。この記事では、作業効率を大幅に向上させる実践的なテクニックを4つのカテゴリーに分けて紹介します。
 
 1...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:155f3b5a0dcde72fcd10</id>
-    <title>ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/155f3b5a0dcde72fcd10?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-22T00:25:02+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T18:19:07+09:00&lt;br/&gt;Updated: 2026-03-22T00:25:02+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-「AIエージェントにコードを書かせたら、半分書いたところでコンテキストが切れて、次のセッションで最初からやり直しになった。」
-この経験、ありませんか。
-2025年後半から、AIコーディングエージェントの能力は飛躍的に向上しました。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:026aeee6b59f78df5e9d</id>
@@ -2249,5 +2231,28 @@ PR総数
 コントリビューター数
 36+
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:6b7a4c6125401327fe80</id>
+    <title>Gemini CLIで、散らかったGoogle Driveを一瞬で整理してみた。</title>
+    <link rel="alternate" href="https://qiita.com/hiroki2712/items/6b7a4c6125401327fe80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-03T20:15:17+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki2712&quot;&gt;hiroki2712&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T20:14:46+09:00&lt;br/&gt;Updated: 2026-03-03T20:15:17+09:00&lt;br/&gt;はじめに
+先日、X（旧Twitter）で気になるポストを見かけました。
+内容は、「Claude Code」と「Google ドライブ for Desktop」を組み合わせて、散らかったGoogle ドライブのフォルダを一瞬で整理した、というもの。
+
+「Googleドライブ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:a7ed6f6da64d6b0d19f1</id>
+    <title>【色変記事】緑になってから約2か月で入水しました！</title>
+    <link rel="alternate" href="https://qiita.com/Un_titled/items/a7ed6f6da64d6b0d19f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-03T05:05:18+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Un_titled&quot;&gt;Un_titled&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T14:30:28+09:00&lt;br/&gt;Updated: 2026-03-03T05:05:18+09:00&lt;br/&gt;Hello, world!
+こんにちは！Un_titledです。
+このたび ABC447 で水色になりました！
+
+自然色を抜けてとうとう寒色になったということで、ざっと灰色のころからのふりかえり、そして緑の間になにをやっていたかを記事にしていこうと思います！
+最後まで...</summary>
   </entry>
 </feed>
