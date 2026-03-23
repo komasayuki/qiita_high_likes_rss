@@ -647,6 +647,15 @@ PRUMについて気になった方は...</summary>
 かと...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4d04c2691c788d1781e1</id>
+    <title>おうちで通信キャリアを再現してみた</title>
+    <link rel="alternate" href="https://qiita.com/takuteh/items/4d04c2691c788d1781e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-20T21:26:26+09:00</updated>
+    <summary type="html">Likes: 102&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takuteh&quot;&gt;takuteh&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T21:25:38+09:00&lt;br/&gt;Updated: 2026-03-20T21:26:26+09:00&lt;br/&gt;はじめに
+せっかく通信キャリアのモバイルコア部門のエンジニアになったので、自宅でもコア設備を再現してみようと思いました。とは言っても私はモバイルコアの基盤開発担当なので、3GPPや設備については概要程度しか知りません。
+一部曖昧な説明があるかもしれませんがご了承ください。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b534f73310ce4508dac2</id>
     <title>【完全自動化】n8n×Obsidianで「寝ている間に最新ニュースが届く」最強の情報収集システムを作った話</title>
     <link rel="alternate" href="https://qiita.com/TaichiEndoh/items/b534f73310ce4508dac2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -654,15 +663,6 @@ PRUMについて気になった方は...</summary>
     <summary type="html">Likes: 102&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TaichiEndoh&quot;&gt;TaichiEndoh&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T14:26:09+09:00&lt;br/&gt;Updated: 2026-02-04T09:41:32+09:00&lt;br/&gt;こんにちは、エンジニアのTaichiです。
 日々アップデートされる技術情報、追いかけるのが大変ですよね。「あとで読む」つもりの記事が溜まっていくばかり…。
 そこで今回は、話題のローコードツール n8n と、愛用のノートアプリ Obsidian を連携させ、「朝起きたら、勝手...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4d04c2691c788d1781e1</id>
-    <title>おうちで通信キャリアを再現してみた</title>
-    <link rel="alternate" href="https://qiita.com/takuteh/items/4d04c2691c788d1781e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-20T21:26:26+09:00</updated>
-    <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takuteh&quot;&gt;takuteh&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T21:25:38+09:00&lt;br/&gt;Updated: 2026-03-20T21:26:26+09:00&lt;br/&gt;はじめに
-せっかく通信キャリアのモバイルコア部門のエンジニアになったので、自宅でもコア設備を再現してみようと思いました。とは言っても私はモバイルコアの基盤開発担当なので、3GPPや設備については概要程度しか知りません。
-一部曖昧な説明があるかもしれませんがご了承ください。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bd39652d49addcb116d3</id>
@@ -1986,6 +1986,15 @@ MacからWindowsに移行して、GPU環境を構築したばかりの方
 Qwen3-...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:21703af242e7ebfc37a9</id>
+    <title>【図解】2層構造→MVC→レイヤード→ヘキサゴナル→クリーンアーキテクチャ：設計思想の進化を一気に理解する</title>
+    <link rel="alternate" href="https://qiita.com/yut-nagase/items/21703af242e7ebfc37a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-22T18:42:01+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yut-nagase&quot;&gt;yut-nagase&lt;/a&gt;&lt;br/&gt;Published: 2026-03-22T18:36:28+09:00&lt;br/&gt;Updated: 2026-03-22T18:42:01+09:00&lt;br/&gt;はじめに
+Webアプリケーションのアーキテクチャは、時代とともに構造が整理されてきた。
+本記事では、その変遷をJavaの技術スタックを軸に、2層構造（Model 1）からMVCパターン（Model 2）、レイヤードアーキテクチャ、そしてヘキサゴナルアーキテクチャ・クリーン...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bc9aee9c5951e01ad13b</id>
     <title>【個人開発】最寄り駅から徒歩X分以内の物件を地図上に列挙できるアプリを作ってみた【React,TS,supabase,leaflet】</title>
     <link rel="alternate" href="https://qiita.com/nu197ma/items/bc9aee9c5951e01ad13b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2081,15 +2090,6 @@ JavaScript
 console.log(&quot;Hello&quot;)
 
 と書く一方で、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:21703af242e7ebfc37a9</id>
-    <title>【図解】2層構造→MVC→レイヤード→ヘキサゴナル→クリーンアーキテクチャ：設計思想の進化を一気に理解する</title>
-    <link rel="alternate" href="https://qiita.com/yut-nagase/items/21703af242e7ebfc37a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-22T18:42:01+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yut-nagase&quot;&gt;yut-nagase&lt;/a&gt;&lt;br/&gt;Published: 2026-03-22T18:36:28+09:00&lt;br/&gt;Updated: 2026-03-22T18:42:01+09:00&lt;br/&gt;はじめに
-Webアプリケーションのアーキテクチャは、時代とともに構造が整理されてきた。
-本記事では、その変遷をJavaの技術スタックを軸に、2層構造（Model 1）からMVCパターン（Model 2）、レイヤードアーキテクチャ、そしてヘキサゴナルアーキテクチャ・クリーン...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:52e164dfb810e700348f</id>
