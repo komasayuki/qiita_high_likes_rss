@@ -585,6 +585,15 @@ PRUMについて気になった方は、
 新人エンジニアは、なぜ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0385b6d1468e6d564b50</id>
+    <title>AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド</title>
+    <link rel="alternate" href="https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T09:01:09+09:00</updated>
+    <summary type="html">Likes: 110&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akira_papa_AI&quot;&gt;akira_papa_AI&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T09:01:09+09:00&lt;br/&gt;Updated: 2026-03-21T09:01:09+09:00&lt;br/&gt;はじめに — 同じCursorを使っているのに、なぜ10倍の差がつくのか
+こんな経験、ないでしょうか。
+チームの隣の席の人が、CursorやCopilotで爆速開発している。同じツールを使っているのに、自分のプロジェクトだと全然うまくいかない。AIが的外れなコードを吐く。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5bd0096ca33d5ea41acb</id>
     <title>【86万行・29,000コミット】AIが「本気で」コードを書いたらこうなった —— Cursorの大規模実験から学ぶ10の知見</title>
     <link rel="alternate" href="https://qiita.com/hisaho/items/5bd0096ca33d5ea41acb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -610,15 +619,6 @@ FastRenderはCursorの並列AIエージェント研究1の一環として...</su
     <summary type="html">Likes: 107&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Towa_ONGRKL&quot;&gt;Towa_ONGRKL&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T04:24:06+09:00&lt;br/&gt;Updated: 2026-03-21T21:07:09+09:00&lt;br/&gt;はじめに
 高校3年生のとき（1年半ほど前）、文化祭のたい焼き屋で使うために、スプレッドシートとApps Scriptで簡易的なPOSのような仕組みを作りました。
 今振り返ると、この経験は「技術で現場を良くする面白さ」を知るきっかけであると同時に、ITを導入すること自体が目...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0385b6d1468e6d564b50</id>
-    <title>AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド</title>
-    <link rel="alternate" href="https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T09:01:09+09:00</updated>
-    <summary type="html">Likes: 107&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akira_papa_AI&quot;&gt;akira_papa_AI&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T09:01:09+09:00&lt;br/&gt;Updated: 2026-03-21T09:01:09+09:00&lt;br/&gt;はじめに — 同じCursorを使っているのに、なぜ10倍の差がつくのか
-こんな経験、ないでしょうか。
-チームの隣の席の人が、CursorやCopilotで爆速開発している。同じツールを使っているのに、自分のプロジェクトだと全然うまくいかない。AIが的外れなコードを吐く。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0ba6853020a40edc97da</id>
@@ -1009,9 +1009,22 @@ HTML/画像を根拠にMark...</summary>
     <title>【図解】2層構造→MVC→レイヤード→ヘキサゴナル→クリーンアーキテクチャ：設計思想の進化を一気に理解する</title>
     <link rel="alternate" href="https://qiita.com/yut-nagase/items/21703af242e7ebfc37a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-22T18:42:01+09:00</updated>
-    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yut-nagase&quot;&gt;yut-nagase&lt;/a&gt;&lt;br/&gt;Published: 2026-03-22T18:36:28+09:00&lt;br/&gt;Updated: 2026-03-22T18:42:01+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yut-nagase&quot;&gt;yut-nagase&lt;/a&gt;&lt;br/&gt;Published: 2026-03-22T18:36:28+09:00&lt;br/&gt;Updated: 2026-03-22T18:42:01+09:00&lt;br/&gt;はじめに
 Webアプリケーションのアーキテクチャは、時代とともに構造が整理されてきた。
 本記事では、その変遷をJavaの技術スタックを軸に、2層構造（Model 1）からMVCパターン（Model 2）、レイヤードアーキテクチャ、そしてヘキサゴナルアーキテクチャ・クリーン...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:1d6e71aed59920c642a4</id>
+    <title>【AWS学習の最適解】AWS全冠がお届けする、無料学習サイト「AWS認定合格ナビゲーター」のご紹介</title>
+    <link rel="alternate" href="https://qiita.com/kenken38/items/1d6e71aed59920c642a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T21:45:59+09:00</updated>
+    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenken38&quot;&gt;kenken38&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T20:04:06+09:00&lt;br/&gt;Updated: 2026-03-21T21:45:59+09:00&lt;br/&gt;実際の学習サイトはこちら
+https://kenta-matsuda.github.io/Kenta-Matsuda.github.io-aws-study/
+
+はじめに
+先日、AWS学習サイトのα版を公開しました。
+
+このα版では、AWS認定学習の「航路」を...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:392934f79e943e8b9228</id>
@@ -1065,19 +1078,6 @@ GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場�
 前回の記事では、n8n を MCP サーバーとして OpenClaw に統合し、ワークフロー自動化の基盤を作りました。記事の最後に「今後の展望」としてこう書きました:
 
 セキュリティアラート自動トリアージ: Sysdig アラート → 情報収集 → 重大度判定 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1d6e71aed59920c642a4</id>
-    <title>【AWS学習の最適解】AWS全冠がお届けする、無料学習サイト「AWS認定合格ナビゲーター」のご紹介</title>
-    <link rel="alternate" href="https://qiita.com/kenken38/items/1d6e71aed59920c642a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T21:45:59+09:00</updated>
-    <summary type="html">Likes: 69&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenken38&quot;&gt;kenken38&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T20:04:06+09:00&lt;br/&gt;Updated: 2026-03-21T21:45:59+09:00&lt;br/&gt;実際の学習サイトはこちら
-https://kenta-matsuda.github.io/Kenta-Matsuda.github.io-aws-study/
-
-はじめに
-先日、AWS学習サイトのα版を公開しました。
-
-このα版では、AWS認定学習の「航路」を...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5cc486be289a8ea76728</id>
@@ -1420,6 +1420,15 @@ https://160.16.12...</summary>
 まず大前提として、本記事は信用...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2130c606657942d4e3f7</id>
+    <title>IT業界って結局どんな世界？未経験向けにざっくり全体像を整理してみる</title>
+    <link rel="alternate" href="https://qiita.com/prum_iha/items/2130c606657942d4e3f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-23T14:57:16+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_iha&quot;&gt;prum_iha&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T14:57:16+09:00&lt;br/&gt;Updated: 2026-03-23T14:57:16+09:00&lt;br/&gt;こんにちは。株式会社PRUMで採用人事をしている井原です。
+日々、未経験の方やキャリアチェンジを考えている方とお話しする中で、 「IT業界って結局どんな世界なんですか？」 という質問をよくいただきます。
+この記事では、そんな方に向けてIT業界の全体像をなるべくやさしく整理し...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:78fdef38b201985cb0d9</id>
     <title>【GitHub】GitHubは低品質なユーザによるContributeを拒否する仕様を検討・実装中</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/78fdef38b201985cb0d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1479,15 +1488,6 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 「2027年から試験制度が抜本的に変わり、今の応用情報はなくなる？」
 
 これ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2130c606657942d4e3f7</id>
-    <title>IT業界って結局どんな世界？未経験向けにざっくり全体像を整理してみる</title>
-    <link rel="alternate" href="https://qiita.com/prum_iha/items/2130c606657942d4e3f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-23T14:57:16+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_iha&quot;&gt;prum_iha&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T14:57:16+09:00&lt;br/&gt;Updated: 2026-03-23T14:57:16+09:00&lt;br/&gt;こんにちは。株式会社PRUMで採用人事をしている井原です。
-日々、未経験の方やキャリアチェンジを考えている方とお話しする中で、 「IT業界って結局どんな世界なんですか？」 という質問をよくいただきます。
-この記事では、そんな方に向けてIT業界の全体像をなるべくやさしく整理し...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6d26b6ffc11d163dfd71</id>
@@ -1689,6 +1689,16 @@ draw.io の MCP サーバーが公開されていたので、軽く触ってみ�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:22e6a3faea1bdcaefef3</id>
+    <title>「新人にAI禁止令を出した組織」が、どのくらい開発フローでAIを使っているか</title>
+    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/22e6a3faea1bdcaefef3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T20:00:27+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T20:00:27+09:00&lt;br/&gt;Updated: 2026-03-21T20:00:27+09:00&lt;br/&gt;いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
+
+この記事を書いた経緯
+去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきまし...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0dd4fc68180aa8526678</id>
     <title>エンジニアが「事業を動かせる人」になるための4要素</title>
     <link rel="alternate" href="https://qiita.com/yamapiiii/items/0dd4fc68180aa8526678?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1717,16 +1727,6 @@ PdMや事業責任者へのキャリアチェンジを考えている人
 怖、、、
 自分だったらまっさきにその言葉が思い浮かびます。笑
 あるいは、自分がレビューする側で「伝えたいことがうまく伝わらない...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:22e6a3faea1bdcaefef3</id>
-    <title>「新人にAI禁止令を出した組織」が、どのくらい開発フローでAIを使っているか</title>
-    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/22e6a3faea1bdcaefef3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T20:00:27+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T20:00:27+09:00&lt;br/&gt;Updated: 2026-03-21T20:00:27+09:00&lt;br/&gt;いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
-
-この記事を書いた経緯
-去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきまし...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3c98999786c7dbd2b26a</id>
