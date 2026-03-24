@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-23T14:57:16+09:00</updated>
+  <updated>2026-03-24T11:49:31+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -837,6 +837,19 @@ Pencilは、Figma + Layermate みたいなツールで、Pencil上でAIにUIを�
 xls...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1d6e71aed59920c642a4</id>
+    <title>【AWS学習の最適解】AWS全冠がお届けする、無料学習サイト「AWS認定合格ナビゲーター」のご紹介</title>
+    <link rel="alternate" href="https://qiita.com/kenken38/items/1d6e71aed59920c642a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T21:45:59+09:00</updated>
+    <summary type="html">Likes: 85&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenken38&quot;&gt;kenken38&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T20:04:06+09:00&lt;br/&gt;Updated: 2026-03-21T21:45:59+09:00&lt;br/&gt;実際の学習サイトはこちら
+https://kenta-matsuda.github.io/Kenta-Matsuda.github.io-aws-study/
+
+はじめに
+先日、AWS学習サイトのα版を公開しました。
+
+このα版では、AWS認定学習の「航路」を...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:95d9e92894bc99a34606</id>
     <title>残業60時間でも年間200時間の学習を確保する技術【エンジニアの時間戦略】</title>
     <link rel="alternate" href="https://qiita.com/handson-lab/items/95d9e92894bc99a34606?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -848,17 +861,13 @@ xls...</summary>
 残業が続くと、つい口にしてしまうこの言葉。私も以前は同じでした。月60〜80時間の残業に追われ、帰宅すれば疲れ果てて寝るだけの日々。「時間がない」...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:1d6e71aed59920c642a4</id>
-    <title>【AWS学習の最適解】AWS全冠がお届けする、無料学習サイト「AWS認定合格ナビゲーター」のご紹介</title>
-    <link rel="alternate" href="https://qiita.com/kenken38/items/1d6e71aed59920c642a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T21:45:59+09:00</updated>
-    <summary type="html">Likes: 83&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenken38&quot;&gt;kenken38&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T20:04:06+09:00&lt;br/&gt;Updated: 2026-03-21T21:45:59+09:00&lt;br/&gt;実際の学習サイトはこちら
-https://kenta-matsuda.github.io/Kenta-Matsuda.github.io-aws-study/
-
-はじめに
-先日、AWS学習サイトのα版を公開しました。
-
-このα版では、AWS認定学習の「航路」を...</summary>
+    <id>tag:qiita.com,2026:21703af242e7ebfc37a9</id>
+    <title>【図解】2層構造→MVC→レイヤード→ヘキサゴナル→クリーンアーキテクチャ：設計思想の進化を一気に理解する</title>
+    <link rel="alternate" href="https://qiita.com/yut-nagase/items/21703af242e7ebfc37a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-22T18:42:01+09:00</updated>
+    <summary type="html">Likes: 83&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yut-nagase&quot;&gt;yut-nagase&lt;/a&gt;&lt;br/&gt;Published: 2026-03-22T18:36:28+09:00&lt;br/&gt;Updated: 2026-03-22T18:42:01+09:00&lt;br/&gt;はじめに
+Webアプリケーションのアーキテクチャは、時代とともに構造が整理されてきた。
+本記事では、その変遷をJavaの技術スタックを軸に、2層構造（Model 1）からMVCパターン（Model 2）、レイヤードアーキテクチャ、そしてヘキサゴナルアーキテクチャ・クリーン...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b15f9adc9fb807a3e148</id>
@@ -893,15 +902,6 @@ Certify
 一円の違いや細かい端数処理でミスが許されない業務を行う中で仕組みによる事故防止に努めてきました。
 この記事では、実務で「地味だけど効く」Excelの小技を紹介します。
 ※マクロなし／明日から使えるもの中心...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:21703af242e7ebfc37a9</id>
-    <title>【図解】2層構造→MVC→レイヤード→ヘキサゴナル→クリーンアーキテクチャ：設計思想の進化を一気に理解する</title>
-    <link rel="alternate" href="https://qiita.com/yut-nagase/items/21703af242e7ebfc37a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-22T18:42:01+09:00</updated>
-    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yut-nagase&quot;&gt;yut-nagase&lt;/a&gt;&lt;br/&gt;Published: 2026-03-22T18:36:28+09:00&lt;br/&gt;Updated: 2026-03-22T18:42:01+09:00&lt;br/&gt;はじめに
-Webアプリケーションのアーキテクチャは、時代とともに構造が整理されてきた。
-本記事では、その変遷をJavaの技術スタックを軸に、2層構造（Model 1）からMVCパターン（Model 2）、レイヤードアーキテクチャ、そしてヘキサゴナルアーキテクチャ・クリーン...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:76a4d9dac74e70bceebb</id>
@@ -1154,6 +1154,15 @@ GPUが積まれた高性能マシン。
 目的は、結論を一つに決め打ちすることではなく、オブジェクト指向をめぐる代表的な賛否の論点(歴史...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2130c606657942d4e3f7</id>
+    <title>IT業界って結局どんな世界？未経験向けにざっくり全体像を整理してみる</title>
+    <link rel="alternate" href="https://qiita.com/prum_iha/items/2130c606657942d4e3f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-23T14:57:16+09:00</updated>
+    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_iha&quot;&gt;prum_iha&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T14:57:16+09:00&lt;br/&gt;Updated: 2026-03-23T14:57:16+09:00&lt;br/&gt;こんにちは。株式会社PRUMで採用人事をしている井原です。
+日々、未経験の方やキャリアチェンジを考えている方とお話しする中で、 「IT業界って結局どんな世界なんですか？」 という質問をよくいただきます。
+この記事では、そんな方に向けてIT業界の全体像をなるべくやさしく整理し...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5a8a16a2b7e91c3536a8</id>
     <title>Pandasはもう古い？2026年のPythonデータ分析ライブラリを整理してみた</title>
     <link rel="alternate" href="https://qiita.com/YASUHARA-Wataru/items/5a8a16a2b7e91c3536a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1173,15 +1182,6 @@ Pythonを使い始めてはや十数年。他の言語も覚えないと思い�
 これが、私の日常になりました。
 
 メールの確認、Slackの未返信チェック、Notionでのタ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2130c606657942d4e3f7</id>
-    <title>IT業界って結局どんな世界？未経験向けにざっくり全体像を整理してみる</title>
-    <link rel="alternate" href="https://qiita.com/prum_iha/items/2130c606657942d4e3f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-23T14:57:16+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_iha&quot;&gt;prum_iha&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T14:57:16+09:00&lt;br/&gt;Updated: 2026-03-23T14:57:16+09:00&lt;br/&gt;こんにちは。株式会社PRUMで採用人事をしている井原です。
-日々、未経験の方やキャリアチェンジを考えている方とお話しする中で、 「IT業界って結局どんな世界なんですか？」 という質問をよくいただきます。
-この記事では、そんな方に向けてIT業界の全体像をなるべくやさしく整理し...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:df077776b293163e0a42</id>
@@ -1237,6 +1237,17 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
 今回は『スラスラわかるネットワーク&amp;amp;TCP/IPのきほん』のChapter06 セキュリティ章...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:155f3b5a0dcde72fcd10</id>
+    <title>ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/155f3b5a0dcde72fcd10?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-22T00:25:02+09:00</updated>
+    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T18:19:07+09:00&lt;br/&gt;Updated: 2026-03-22T00:25:02+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+「AIエージェントにコードを書かせたら、半分書いたところでコンテキストが切れて、次のセッションで最初からやり直しになった。」
+この経験、ありませんか。
+2025年後半から、AIコーディングエージェントの能力は飛躍的に向上しました。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:568cc5e9b6050522611e</id>
     <title>【後編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/568cc5e9b6050522611e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1280,17 +1291,6 @@ Claude Codeは2025年2月のリリース以来、ターミナルから直接AI�
     <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T21:13:46+09:00&lt;br/&gt;Updated: 2026-01-26T21:13:46+09:00&lt;br/&gt;JavaScriptの仕様は、TC39というところで決められています。
 ブラウザベンダや関係者が定期的に会合を行い、様々な新機能について話し合って今後のJavaScriptの方向性を決めていきます。
 ここでは2025年にFinishedになったproposalについて紹介し...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:155f3b5a0dcde72fcd10</id>
-    <title>ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/155f3b5a0dcde72fcd10?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-22T00:25:02+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T18:19:07+09:00&lt;br/&gt;Updated: 2026-03-22T00:25:02+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-「AIエージェントにコードを書かせたら、半分書いたところでコンテキストが切れて、次のセッションで最初からやり直しになった。」
-この経験、ありませんか。
-2025年後半から、AIコーディングエージェントの能力は飛躍的に向上しました。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:67d68b074c45d10f0307</id>
@@ -1401,6 +1401,18 @@ https://160.16.12...</summary>
 いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
 みなさん、Claude CodeのAgent Teams つかってます？
 複数のClaude Codeインスタンスを「チーム」として協調動作させるという、なかなか攻めた実験的機能（Re...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c841d47f35e9c04c6bee</id>
+    <title>「何からやれば...」を卒業する。実務の解像度を劇的に高める3ステップ</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/c841d47f35e9c04c6bee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-24T11:49:31+09:00</updated>
+    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T11:49:31+09:00&lt;br/&gt;Updated: 2026-03-24T11:49:31+09:00&lt;br/&gt;今、自分がやっている作業が全体の中でどんな意味があるのか見えない
+当時の僕も、まさにそんな視界不良の中にいました。
+黒い画面に並ぶ膨大なコード
+複雑に絡み合った仕様書
+次々と飛び交う専門用語
+それらを前にして、「どこから手をつければいいのかわからない」と立ち尽くす毎日でした...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8010f0d62025db8f3d81</id>
@@ -2222,15 +2234,5 @@ Macを使い始めてから、いろいろなツールを試してきました�
 「前も同じエラー出た気がするけど、誰が直したっけ」
 
 この状態...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a8409d108cae24888ba0</id>
-    <title>Codex CLI猛進。Github Copilotと大差。　～データで見る2026年1月のAI Codingの動向まとめ～</title>
-    <link rel="alternate" href="https://qiita.com/kotauchisunsun/items/a8409d108cae24888ba0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-03T20:20:09+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kotauchisunsun&quot;&gt;kotauchisunsun&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T21:47:06+09:00&lt;br/&gt;Updated: 2026-02-03T20:20:09+09:00&lt;br/&gt;AI Coding Agentの1月の動向
-AI Coding.Infoというサイトを2025年7月から運営しています。
-
-これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...</summary>
   </entry>
 </feed>
