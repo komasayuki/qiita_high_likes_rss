@@ -525,6 +525,15 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 チームの隣の席の人が、CursorやCopilotで爆速開発している。同じツールを使っているのに、自分のプロジェクトだと全然うまくいかない。AIが的外れなコードを吐く。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:21703af242e7ebfc37a9</id>
+    <title>【図解】2層構造→MVC→レイヤード→ヘキサゴナル→クリーンアーキテクチャ：設計思想の進化を一気に理解する</title>
+    <link rel="alternate" href="https://qiita.com/yut-nagase/items/21703af242e7ebfc37a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-22T18:42:01+09:00</updated>
+    <summary type="html">Likes: 120&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yut-nagase&quot;&gt;yut-nagase&lt;/a&gt;&lt;br/&gt;Published: 2026-03-22T18:36:28+09:00&lt;br/&gt;Updated: 2026-03-22T18:42:01+09:00&lt;br/&gt;はじめに
+Webアプリケーションのアーキテクチャは、時代とともに構造が整理されてきた。
+本記事では、その変遷をJavaの技術スタックを軸に、2層構造（Model 1）からMVCパターン（Model 2）、レイヤードアーキテクチャ、そしてヘキサゴナルアーキテクチャ・クリーン...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4d732a43ac5cdf9daadc</id>
     <title>技術記事、硬すぎ問題。だからギャルに読ませてみた</title>
     <link rel="alternate" href="https://qiita.com/kikuziro/items/4d732a43ac5cdf9daadc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -533,15 +542,6 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 最近私はQiita APIを使って、ギャルがQiita記事を音声解説してくれるWebアプリを作っています。
 そうです。ギャルです。 技術記事 × ギャル
 情報量が多いのか少ないのか分からないカオスな組み合わせですが、テスト中にあまりにも感動してしまったのでと...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:21703af242e7ebfc37a9</id>
-    <title>【図解】2層構造→MVC→レイヤード→ヘキサゴナル→クリーンアーキテクチャ：設計思想の進化を一気に理解する</title>
-    <link rel="alternate" href="https://qiita.com/yut-nagase/items/21703af242e7ebfc37a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-22T18:42:01+09:00</updated>
-    <summary type="html">Likes: 118&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yut-nagase&quot;&gt;yut-nagase&lt;/a&gt;&lt;br/&gt;Published: 2026-03-22T18:36:28+09:00&lt;br/&gt;Updated: 2026-03-22T18:42:01+09:00&lt;br/&gt;はじめに
-Webアプリケーションのアーキテクチャは、時代とともに構造が整理されてきた。
-本記事では、その変遷をJavaの技術スタックを軸に、2層構造（Model 1）からMVCパターン（Model 2）、レイヤードアーキテクチャ、そしてヘキサゴナルアーキテクチャ・クリーン...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:10211c4fa7248c7c9740</id>
@@ -1000,6 +1000,18 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
 自分も一度、デフォルト設定でバイブコーディングをしてみて「こんなもんか」と失望したも...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c841d47f35e9c04c6bee</id>
+    <title>「何からやれば...」を卒業する。実務の解像度を劇的に高める3ステップ</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/c841d47f35e9c04c6bee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-24T11:49:31+09:00</updated>
+    <summary type="html">Likes: 75&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T11:49:31+09:00&lt;br/&gt;Updated: 2026-03-24T11:49:31+09:00&lt;br/&gt;今、自分がやっている作業が全体の中でどんな意味があるのか見えない
+当時の僕も、まさにそんな視界不良の中にいました。
+黒い画面に並ぶ膨大なコード
+複雑に絡み合った仕様書
+次々と飛び交う専門用語
+それらを前にして、「どこから手をつければいいのかわからない」と立ち尽くす毎日でした...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1d84037b3b9a499167de</id>
     <title>draw.io MCP + Playwright MCP で画面設計書を自動生成してみた（GitHub Copilot Agent Skills）</title>
     <link rel="alternate" href="https://qiita.com/Ymmy/items/1d84037b3b9a499167de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1011,18 +1023,6 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
 画面に遷移してスクリーンショット取得（Playwright）
 スクショに項番を付けたレイアウト図を作る（draw.io）
 HTML/画像を根拠にMark...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c841d47f35e9c04c6bee</id>
-    <title>「何からやれば...」を卒業する。実務の解像度を劇的に高める3ステップ</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/c841d47f35e9c04c6bee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-24T11:49:31+09:00</updated>
-    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T11:49:31+09:00&lt;br/&gt;Updated: 2026-03-24T11:49:31+09:00&lt;br/&gt;今、自分がやっている作業が全体の中でどんな意味があるのか見えない
-当時の僕も、まさにそんな視界不良の中にいました。
-黒い画面に並ぶ膨大なコード
-複雑に絡み合った仕様書
-次々と飛び交う専門用語
-それらを前にして、「どこから手をつければいいのかわからない」と立ち尽くす毎日でした...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2130c606657942d4e3f7</id>
@@ -1459,6 +1459,16 @@ Bedrockエージェント（AIエージェント構築機能）
 AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:22e6a3faea1bdcaefef3</id>
+    <title>「新人にAI禁止令を出した組織」が、どのくらい開発フローでAIを使っているか</title>
+    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/22e6a3faea1bdcaefef3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-21T20:00:27+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T20:00:27+09:00&lt;br/&gt;Updated: 2026-03-21T20:00:27+09:00&lt;br/&gt;いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
+
+この記事を書いた経緯
+去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきまし...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:eba4cc53538a37121ede</id>
     <title>個人開発「ひたすら数学」作ってリリースしてみた iOS/Android</title>
     <link rel="alternate" href="https://qiita.com/keitaMax/items/eba4cc53538a37121ede?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1472,16 +1482,6 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 それが ひたすら数学 です。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:22e6a3faea1bdcaefef3</id>
-    <title>「新人にAI禁止令を出した組織」が、どのくらい開発フローでAIを使っているか</title>
-    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/22e6a3faea1bdcaefef3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-21T20:00:27+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T20:00:27+09:00&lt;br/&gt;Updated: 2026-03-21T20:00:27+09:00&lt;br/&gt;いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
-
-この記事を書いた経緯
-去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきまし...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b31603922b791c37cc37</id>
@@ -2081,6 +2081,20 @@ console.log(&quot;Hello&quot;)
 と書く一方で、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b11ebbcf7e14ff251b76</id>
+    <title>Figmaから Pencil.dev に乗り換えを検討してみた【検証編】</title>
+    <link rel="alternate" href="https://qiita.com/kobayashimakoto/items/b11ebbcf7e14ff251b76?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-23T15:58:43+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobayashimakoto&quot;&gt;kobayashimakoto&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T13:57:07+09:00&lt;br/&gt;Updated: 2026-03-23T15:58:43+09:00&lt;br/&gt;はじめに
+この記事ではまず Pencil検証フェーズで得られた知見をまとめます。
+良かった点・つまずいた点・実際に使って気づいたtipsを包み隠さず書いていきます。
+
+今の運用
+弊社ではデザインからコードに落とし込む上で以下のステップで進めています。
+
+デザイナーがデザイ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:52e164dfb810e700348f</id>
     <title>高校生が作った「AIに丸投げできるスクレイピングシステム」が、Bright Dataで合法かつ最強になった話</title>
     <link rel="alternate" href="https://qiita.com/harupython/items/52e164dfb810e700348f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2098,20 +2112,6 @@ console.log(&quot;Hello&quot;)
 Qiitaでサーバにインストールする記事としては最速ということで(若干誇張)。
 Qiita上の解説としては以下の記事が最速ですが、本当に便利だったので紹介させてください。
 https://qiita.com/xhackjp1/items/03045dd62c2f...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b11ebbcf7e14ff251b76</id>
-    <title>Figmaから Pencil.dev に乗り換えを検討してみた【検証編】</title>
-    <link rel="alternate" href="https://qiita.com/kobayashimakoto/items/b11ebbcf7e14ff251b76?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-23T15:58:43+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kobayashimakoto&quot;&gt;kobayashimakoto&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T13:57:07+09:00&lt;br/&gt;Updated: 2026-03-23T15:58:43+09:00&lt;br/&gt;はじめに
-この記事ではまず Pencil検証フェーズで得られた知見をまとめます。
-良かった点・つまずいた点・実際に使って気づいたtipsを包み隠さず書いていきます。
-
-今の運用
-弊社ではデザインからコードに落とし込む上で以下のステップで進めています。
-
-デザイナーがデザイ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ed8662412cc98a0d5868</id>
