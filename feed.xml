@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-25T23:32:14+09:00</updated>
+  <updated>2026-03-26T00:49:53+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -204,8 +204,8 @@ Claude Codeを使い始めた直後は感動します。自然言語でコード
     <id>tag:qiita.com,2026:21703af242e7ebfc37a9</id>
     <title>【図解】2層構造→MVC→レイヤード→ヘキサゴナル→クリーンアーキテクチャ：設計思想の進化を一気に理解する</title>
     <link rel="alternate" href="https://qiita.com/yut-nagase/items/21703af242e7ebfc37a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-25T23:32:14+09:00</updated>
-    <summary type="html">Likes: 183&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yut-nagase&quot;&gt;yut-nagase&lt;/a&gt;&lt;br/&gt;Published: 2026-03-22T18:36:28+09:00&lt;br/&gt;Updated: 2026-03-25T23:32:14+09:00&lt;br/&gt;はじめに
+    <updated>2026-03-26T00:49:53+09:00</updated>
+    <summary type="html">Likes: 185&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yut-nagase&quot;&gt;yut-nagase&lt;/a&gt;&lt;br/&gt;Published: 2026-03-22T18:36:28+09:00&lt;br/&gt;Updated: 2026-03-26T00:49:53+09:00&lt;br/&gt;はじめに
 Webアプリケーションのアーキテクチャは、時代とともに構造が整理されてきた。
 本記事では、その変遷をJavaの技術スタックを軸に、2層構造（Model 1）からMVCパターン（Model 2）、レイヤードアーキテクチャ、そしてヘキサゴナルアーキテクチャ・クリーン...</summary>
   </entry>
@@ -1100,6 +1100,19 @@ GitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場�
 そして...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:33729fdbbd54cdaac60e</id>
+    <title>エンジニアなら自動化すべき「日常の定型タスク」10選まとめてみた【プロンプト付き】</title>
+    <link rel="alternate" href="https://qiita.com/kamome_susume/items/33729fdbbd54cdaac60e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-23T22:42:05+09:00</updated>
+    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T22:42:05+09:00&lt;br/&gt;Updated: 2026-03-23T22:42:05+09:00&lt;br/&gt;はじめに
+コードを書くことが好きでエンジニアになったはずなのに、気づけば毎日同じような作業を繰り返している——そんな経験、ありませんか？
+
+毎朝Slackに投稿する進捗報告
+リリース前に手作業でチェックする確認項目
+コードレビューのたびに書く定型コメント
+週次MTGのため...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:417b4d6f416fb188a30c</id>
     <title>【前編】「バグが出ました。」それは報告？相談？ ― 意識の違いでシゴデキエンジニアに！！ ―</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/417b4d6f416fb188a30c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1173,19 +1186,6 @@ GPUが積まれた高性能マシン。
     <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Fujiwo&quot;&gt;Fujiwo&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T15:56:45+09:00&lt;br/&gt;Updated: 2026-01-28T16:55:12+09:00&lt;br/&gt;概要
 この記事は、「現代のソフトウェア開発において、オブジェクト指向(OOP)はまだ中心的な指針たり得るか?」をテーマにした、肯定派・否定派によるディベート形式の文章です。
 目的は、結論を一つに決め打ちすることではなく、オブジェクト指向をめぐる代表的な賛否の論点(歴史...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:33729fdbbd54cdaac60e</id>
-    <title>エンジニアなら自動化すべき「日常の定型タスク」10選まとめてみた【プロンプト付き】</title>
-    <link rel="alternate" href="https://qiita.com/kamome_susume/items/33729fdbbd54cdaac60e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-23T22:42:05+09:00</updated>
-    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T22:42:05+09:00&lt;br/&gt;Updated: 2026-03-23T22:42:05+09:00&lt;br/&gt;はじめに
-コードを書くことが好きでエンジニアになったはずなのに、気づけば毎日同じような作業を繰り返している——そんな経験、ありませんか？
-
-毎朝Slackに投稿する進捗報告
-リリース前に手作業でチェックする確認項目
-コードレビューのたびに書く定型コメント
-週次MTGのため...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5a8a16a2b7e91c3536a8</id>
@@ -2212,6 +2212,14 @@ E2Eテストの自動化、進めていますか？
 こんな悩みをお持ちの方に朗報です。今回はPlaywright MCPを使って、自然言語で書かれたテスト仕様書から、AI...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ad15bfa383c98ae5cc36</id>
+    <title>AGENTS.md完全入門 ── 60,000リポジトリが採用した事実上の共通フォーマット</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/ad15bfa383c98ae5cc36?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-24T10:35:47+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T10:35:47+09:00&lt;br/&gt;Updated: 2026-03-24T10:35:47+09:00&lt;br/&gt;AGENTS.md は「AIコーディングエージェント向けの README」です。
+リポジトリにこのファイルを置くことで、Codex CLI・Cursor・GitHub Copilot など多くのツールが共通の指示を読み取れます。ただし、ツールごとに対応状況や読み込み条件には...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1e35dd4f573547626aff</id>
     <title>UI UX Pro Max：AIコーディングアシスタントにデザインセンスを与えるSkill</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/1e35dd4f573547626aff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2228,15 +2236,5 @@ Claude CodeやCursorなどのAIコーディングアシスタントに「ラン�
 （私はProプラン加入者）
 Antigravityでクォータ（Gemini3.1などのAIを使用できる量）が０％になる問題が出ました。
 これまではAntigravityで制御(5時間制限、1週間制限)していたクォータを、クレジット方式(直接課金)...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e97168314c00ce166286</id>
-    <title>次世代パッケージマネージャーpnpmは何が違うのか？設計思想から読み解く依存管理</title>
-    <link rel="alternate" href="https://qiita.com/t0hara/items/e97168314c00ce166286?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T09:37:06+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t0hara&quot;&gt;t0hara&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T09:37:05+09:00&lt;br/&gt;Updated: 2026-03-09T09:37:06+09:00&lt;br/&gt;Node.jsのパッケージ管理は、本当に健全なのか？pnpmを調べていく中で、依存管理の“当たり前”を見直すことになりました。この記事ではpnpmの設計思想に焦点を当てて整理します。
-
-1. はじめに ― パッケージ管理は本当に健全か？
-あるシステムのリプレイス検証の中で、...</summary>
   </entry>
 </feed>
