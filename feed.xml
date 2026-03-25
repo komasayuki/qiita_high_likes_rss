@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-25T18:09:18+09:00</updated>
+  <updated>2026-03-25T23:32:14+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -204,8 +204,8 @@ Claude Codeを使い始めた直後は感動します。自然言語でコード
     <id>tag:qiita.com,2026:21703af242e7ebfc37a9</id>
     <title>【図解】2層構造→MVC→レイヤード→ヘキサゴナル→クリーンアーキテクチャ：設計思想の進化を一気に理解する</title>
     <link rel="alternate" href="https://qiita.com/yut-nagase/items/21703af242e7ebfc37a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-22T18:42:01+09:00</updated>
-    <summary type="html">Likes: 181&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yut-nagase&quot;&gt;yut-nagase&lt;/a&gt;&lt;br/&gt;Published: 2026-03-22T18:36:28+09:00&lt;br/&gt;Updated: 2026-03-22T18:42:01+09:00&lt;br/&gt;はじめに
+    <updated>2026-03-25T23:32:14+09:00</updated>
+    <summary type="html">Likes: 181&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yut-nagase&quot;&gt;yut-nagase&lt;/a&gt;&lt;br/&gt;Published: 2026-03-22T18:36:28+09:00&lt;br/&gt;Updated: 2026-03-25T23:32:14+09:00&lt;br/&gt;はじめに
 Webアプリケーションのアーキテクチャは、時代とともに構造が整理されてきた。
 本記事では、その変遷をJavaの技術スタックを軸に、2層構造（Model 1）からMVCパターン（Model 2）、レイヤードアーキテクチャ、そしてヘキサゴナルアーキテクチャ・クリーン...</summary>
   </entry>
@@ -906,6 +906,15 @@ Certify
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2130c606657942d4e3f7</id>
+    <title>IT業界って結局どんな世界？未経験向けにざっくり全体像を整理してみる</title>
+    <link rel="alternate" href="https://qiita.com/prum_iha/items/2130c606657942d4e3f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-23T14:57:16+09:00</updated>
+    <summary type="html">Likes: 82&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_iha&quot;&gt;prum_iha&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T14:57:16+09:00&lt;br/&gt;Updated: 2026-03-23T14:57:16+09:00&lt;br/&gt;こんにちは。株式会社PRUMで採用人事をしている井原です。
+日々、未経験の方やキャリアチェンジを考えている方とお話しする中で、 「IT業界って結局どんな世界なんですか？」 という質問をよくいただきます。
+この記事では、そんな方に向けてIT業界の全体像をなるべくやさしく整理し...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e41062344f0b86049a68</id>
     <title>【元経理】実務で本当に使えたExcelの小技５選【ミス防止】</title>
     <link rel="alternate" href="https://qiita.com/2000na/items/e41062344f0b86049a68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -914,15 +923,6 @@ Certify
 一円の違いや細かい端数処理でミスが許されない業務を行う中で仕組みによる事故防止に努めてきました。
 この記事では、実務で「地味だけど効く」Excelの小技を紹介します。
 ※マクロなし／明日から使えるもの中心...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2130c606657942d4e3f7</id>
-    <title>IT業界って結局どんな世界？未経験向けにざっくり全体像を整理してみる</title>
-    <link rel="alternate" href="https://qiita.com/prum_iha/items/2130c606657942d4e3f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-23T14:57:16+09:00</updated>
-    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_iha&quot;&gt;prum_iha&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T14:57:16+09:00&lt;br/&gt;Updated: 2026-03-23T14:57:16+09:00&lt;br/&gt;こんにちは。株式会社PRUMで採用人事をしている井原です。
-日々、未経験の方やキャリアチェンジを考えている方とお話しする中で、 「IT業界って結局どんな世界なんですか？」 という質問をよくいただきます。
-この記事では、そんな方に向けてIT業界の全体像をなるべくやさしく整理し...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:76a4d9dac74e70bceebb</id>
@@ -1175,6 +1175,19 @@ GPUが積まれた高性能マシン。
 目的は、結論を一つに決め打ちすることではなく、オブジェクト指向をめぐる代表的な賛否の論点(歴史...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:33729fdbbd54cdaac60e</id>
+    <title>エンジニアなら自動化すべき「日常の定型タスク」10選まとめてみた【プロンプト付き】</title>
+    <link rel="alternate" href="https://qiita.com/kamome_susume/items/33729fdbbd54cdaac60e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-23T22:42:05+09:00</updated>
+    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T22:42:05+09:00&lt;br/&gt;Updated: 2026-03-23T22:42:05+09:00&lt;br/&gt;はじめに
+コードを書くことが好きでエンジニアになったはずなのに、気づけば毎日同じような作業を繰り返している——そんな経験、ありませんか？
+
+毎朝Slackに投稿する進捗報告
+リリース前に手作業でチェックする確認項目
+コードレビューのたびに書く定型コメント
+週次MTGのため...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5a8a16a2b7e91c3536a8</id>
     <title>Pandasはもう古い？2026年のPythonデータ分析ライブラリを整理してみた</title>
     <link rel="alternate" href="https://qiita.com/YASUHARA-Wataru/items/5a8a16a2b7e91c3536a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1227,19 +1240,6 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
 
 特に新宿駅のような巨大駅では、
 「どの出口から...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:33729fdbbd54cdaac60e</id>
-    <title>エンジニアなら自動化すべき「日常の定型タスク」10選まとめてみた【プロンプト付き】</title>
-    <link rel="alternate" href="https://qiita.com/kamome_susume/items/33729fdbbd54cdaac60e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-23T22:42:05+09:00</updated>
-    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T22:42:05+09:00&lt;br/&gt;Updated: 2026-03-23T22:42:05+09:00&lt;br/&gt;はじめに
-コードを書くことが好きでエンジニアになったはずなのに、気づけば毎日同じような作業を繰り返している——そんな経験、ありませんか？
-
-毎朝Slackに投稿する進捗報告
-リリース前に手作業でチェックする確認項目
-コードレビューのたびに書く定型コメント
-週次MTGのため...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:441f4c6a467dae69583a</id>
@@ -1341,6 +1341,21 @@ PRUMについて気になった方は、
 EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:114b2fdc1b50e3676ba8</id>
+    <title>【後編】「バグが出ました。」それは報告？相談？ ― 意識の違いでシゴデキエンジニアに！！ ―</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/114b2fdc1b50e3676ba8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-25T16:04:07+09:00</updated>
+    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T12:49:01+09:00&lt;br/&gt;Updated: 2026-03-25T16:04:07+09:00&lt;br/&gt;はじめまして。
+株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントを整理して発信しています。
+PRUMについて気になった方は、
+コーポレートサイトもご覧ください。
+▶コーポレートサイト
+
+「バグが出ました。」それは...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8b870661f80d63499336</id>
     <title>Claude Code 初学者ロードマップ</title>
     <link rel="alternate" href="https://qiita.com/marugame/items/8b870661f80d63499336?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1369,21 +1384,6 @@ Claude CodeなどのAIエージェントをいつでもどこでも動かした�
     <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ikwzm&quot;&gt;ikwzm&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T14:53:24+09:00&lt;br/&gt;Updated: 2026-01-31T00:09:21+09:00&lt;br/&gt;はじめに
 CPU が I/O デバイスのレジスタをアクセスする際は、物理メモリ空間にマッピングされたアドレスを介して行われるのが一般的です。これをメモリマップド I/O と言います。
 CPU がメモリ空間にアクセスする際の用途は文字通り記録(メモリ)するためです。しかし、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:114b2fdc1b50e3676ba8</id>
-    <title>【後編】「バグが出ました。」それは報告？相談？ ― 意識の違いでシゴデキエンジニアに！！ ―</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/114b2fdc1b50e3676ba8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-25T16:04:07+09:00</updated>
-    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T12:49:01+09:00&lt;br/&gt;Updated: 2026-03-25T16:04:07+09:00&lt;br/&gt;はじめまして。
-株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で
-つまずきやすいポイントを整理して発信しています。
-PRUMについて気になった方は、
-コーポレートサイトもご覧ください。
-▶コーポレートサイト
-
-「バグが出ました。」それは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3f14e17314941930ec5c</id>
