@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-25T14:23:22+09:00</updated>
+  <updated>2026-03-25T16:04:07+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -221,6 +221,15 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
 そんな方に僕が現場を経験して気づいた、技術の「表面」ではなく「本質」を掴んで成長を加速させるためのヒントを、僕の失敗談を交えつつお伝えします...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:21703af242e7ebfc37a9</id>
+    <title>【図解】2層構造→MVC→レイヤード→ヘキサゴナル→クリーンアーキテクチャ：設計思想の進化を一気に理解する</title>
+    <link rel="alternate" href="https://qiita.com/yut-nagase/items/21703af242e7ebfc37a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-22T18:42:01+09:00</updated>
+    <summary type="html">Likes: 170&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yut-nagase&quot;&gt;yut-nagase&lt;/a&gt;&lt;br/&gt;Published: 2026-03-22T18:36:28+09:00&lt;br/&gt;Updated: 2026-03-22T18:42:01+09:00&lt;br/&gt;はじめに
+Webアプリケーションのアーキテクチャは、時代とともに構造が整理されてきた。
+本記事では、その変遷をJavaの技術スタックを軸に、2層構造（Model 1）からMVCパターン（Model 2）、レイヤードアーキテクチャ、そしてヘキサゴナルアーキテクチャ・クリーン...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d4121721605c8955aa17</id>
     <title>なぜあの人と話すと仕事が止まるのか。</title>
     <link rel="alternate" href="https://qiita.com/haihaikazuma/items/d4121721605c8955aa17?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -239,15 +248,6 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
 1社目2社目ともに要件定義を担当する機会があったのですが、
 どちらの現場も要件定義のフォーマットが存在しないか、あるいはフォーマットがあっても明らかに項目が足りないような状態でした。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:21703af242e7ebfc37a9</id>
-    <title>【図解】2層構造→MVC→レイヤード→ヘキサゴナル→クリーンアーキテクチャ：設計思想の進化を一気に理解する</title>
-    <link rel="alternate" href="https://qiita.com/yut-nagase/items/21703af242e7ebfc37a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-22T18:42:01+09:00</updated>
-    <summary type="html">Likes: 166&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yut-nagase&quot;&gt;yut-nagase&lt;/a&gt;&lt;br/&gt;Published: 2026-03-22T18:36:28+09:00&lt;br/&gt;Updated: 2026-03-22T18:42:01+09:00&lt;br/&gt;はじめに
-Webアプリケーションのアーキテクチャは、時代とともに構造が整理されてきた。
-本記事では、その変遷をJavaの技術スタックを軸に、2層構造（Model 1）からMVCパターン（Model 2）、レイヤードアーキテクチャ、そしてヘキサゴナルアーキテクチャ・クリーン...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:14554853372f33c3374b</id>
@@ -1469,6 +1469,19 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:33729fdbbd54cdaac60e</id>
+    <title>エンジニアなら自動化すべき「日常の定型タスク」10選まとめてみた【プロンプト付き】</title>
+    <link rel="alternate" href="https://qiita.com/kamome_susume/items/33729fdbbd54cdaac60e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-23T22:42:05+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T22:42:05+09:00&lt;br/&gt;Updated: 2026-03-23T22:42:05+09:00&lt;br/&gt;はじめに
+コードを書くことが好きでエンジニアになったはずなのに、気づけば毎日同じような作業を繰り返している——そんな経験、ありませんか？
+
+毎朝Slackに投稿する進捗報告
+リリース前に手作業でチェックする確認項目
+コードレビューのたびに書く定型コメント
+週次MTGのため...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b31603922b791c37cc37</id>
     <title>応用情報の廃止・再編「今」取るべき理由と合格戦略</title>
     <link rel="alternate" href="https://qiita.com/shibuya-ys/items/b31603922b791c37cc37?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1481,6 +1494,21 @@ AgentCoreの登場で出番が少なくなったBedrock Ag...</summary>
 「2027年から試験制度が抜本的に変わり、今の応用情報はなくなる？」
 
 これ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:114b2fdc1b50e3676ba8</id>
+    <title>【後編】「バグが出ました。」それは報告？相談？ ― 意識の違いでシゴデキエンジニアに！！ ―</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/114b2fdc1b50e3676ba8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-25T16:04:07+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T12:49:01+09:00&lt;br/&gt;Updated: 2026-03-25T16:04:07+09:00&lt;br/&gt;はじめまして。
+株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントを整理して発信しています。
+PRUMについて気になった方は、
+コーポレートサイトもご覧ください。
+▶コーポレートサイト
+
+「バグが出ました。」それは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6d26b6ffc11d163dfd71</id>
@@ -1572,19 +1600,6 @@ OllamaやLM StudioでローカルLLMを動かしている方
 Pythonでプログラミングをしていると、当たり前のように使っているpip installコマンド。
 このコマンド一つで、便利なライブラリがすぐに使えるようになります。
 しかし、**結局、pipは何をどこにダウンロードして、どうやってPythonがそれを見つけて...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:33729fdbbd54cdaac60e</id>
-    <title>エンジニアなら自動化すべき「日常の定型タスク」10選まとめてみた【プロンプト付き】</title>
-    <link rel="alternate" href="https://qiita.com/kamome_susume/items/33729fdbbd54cdaac60e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-23T22:42:05+09:00</updated>
-    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T22:42:05+09:00&lt;br/&gt;Updated: 2026-03-23T22:42:05+09:00&lt;br/&gt;はじめに
-コードを書くことが好きでエンジニアになったはずなのに、気づけば毎日同じような作業を繰り返している——そんな経験、ありませんか？
-
-毎朝Slackに投稿する進捗報告
-リリース前に手作業でチェックする確認項目
-コードレビューのたびに書く定型コメント
-週次MTGのため...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a8306067788798975fa7</id>
@@ -1709,6 +1724,20 @@ draw.io の MCP サーバーが公開されていたので、軽く触ってみ�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
+    <title>LinuxエンジニアのためのWindowsセキュリティ再入門 〜 第1回：はじめに —— なぜ今、LinuxエンジニアがWindowsセキュリティを学ぶのか</title>
+    <link rel="alternate" href="https://qiita.com/555hamano/items/e9e1dce9e2dbc574a93f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-23T12:04:01+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/555hamano&quot;&gt;555hamano&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T12:04:01+09:00&lt;br/&gt;Updated: 2026-03-23T12:04:01+09:00&lt;br/&gt;はじめに
+$ whoami
+linux_engineer
+$ uname -a
+Linux prod-server 5.15.0 #1 SMP x86_64 GNU/Linux
+
+「Windowsのセキュリティ？ 情シスやPC管理者の仕事でしょ？」
+そう思っているLinu...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0dd4fc68180aa8526678</id>
     <title>エンジニアが「事業を動かせる人」になるための4要素</title>
     <link rel="alternate" href="https://qiita.com/yamapiiii/items/0dd4fc68180aa8526678?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1737,20 +1766,6 @@ PdMや事業責任者へのキャリアチェンジを考えている人
 怖、、、
 自分だったらまっさきにその言葉が思い浮かびます。笑
 あるいは、自分がレビューする側で「伝えたいことがうまく伝わらない...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
-    <title>LinuxエンジニアのためのWindowsセキュリティ再入門 〜 第1回：はじめに —— なぜ今、LinuxエンジニアがWindowsセキュリティを学ぶのか</title>
-    <link rel="alternate" href="https://qiita.com/555hamano/items/e9e1dce9e2dbc574a93f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-23T12:04:01+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/555hamano&quot;&gt;555hamano&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T12:04:01+09:00&lt;br/&gt;Updated: 2026-03-23T12:04:01+09:00&lt;br/&gt;はじめに
-$ whoami
-linux_engineer
-$ uname -a
-Linux prod-server 5.15.0 #1 SMP x86_64 GNU/Linux
-
-「Windowsのセキュリティ？ 情シスやPC管理者の仕事でしょ？」
-そう思っているLinu...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3c98999786c7dbd2b26a</id>
@@ -2223,16 +2238,5 @@ Antigravityでクォータ（Gemini3.1などのAIを使用できる量）が０�
 
 1. はじめに ― パッケージ管理は本当に健全か？
 あるシステムのリプレイス検証の中で、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fe3446e3f2a8c33efdfb</id>
-    <title>【宇宙最速レビュー】AWSではじめるMCP実践ガイド</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/fe3446e3f2a8c33efdfb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-18T00:33:53+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T00:32:08+09:00&lt;br/&gt;Updated: 2026-02-18T00:33:53+09:00&lt;br/&gt;この記事はClaude Codeと一緒に執筆しました。
-
-AWSコミュニティ仲間の塚田さん・森田さんが書かれたMCP本が、いよいよ2/26に発売されます！ 私もご恵贈いただきました。ありがとうございます🙇‍♂️
-
-私はレビュアーとして発売前の原稿を読ませていただいたの...</summary>
   </entry>
 </feed>
