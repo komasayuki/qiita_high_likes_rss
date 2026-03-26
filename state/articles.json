@@ -109,18 +109,6 @@
       "last_seen": "2026-03-07T19:14:39.459348969+00:00"
     },
     {
-      "key": "047ae4d6922b9f3c150c",
-      "item_id": "047ae4d6922b9f3c150c",
-      "title": "Feedlyがいつか終わるのが怖いので、月額0円で動くRSSリーダーを自作した",
-      "link": "https://qiita.com/votepurchase/items/047ae4d6922b9f3c150c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "TL;DR\n\nPocketのサービス終了をきっかけに、セルフホスト型RSSリーダー「FeedOwn」を作った\n\nCloudflare Pages + Supabase で月額0円運用\nWeb + iOS + Android対応、リーダーモード・ダークモード搭載\nOSSとし...",
-      "published": "2026-01-23T02:14:46+09:00",
-      "updated": "2026-01-23T02:19:59+09:00",
-      "author_name": "votepurchase",
-      "likes_count": 19,
-      "last_seen": "2026-01-25T19:14:04.998502601+00:00"
-    },
-    {
       "key": "04b6ab72d957de10f9a7",
       "item_id": "04b6ab72d957de10f9a7",
       "title": "【公式】VS Codeでレトロゲーム開発が完結！Pyxel VS Code拡張機能のご紹介",
@@ -274,7 +262,7 @@
       "updated": "2026-03-24T01:42:31+09:00",
       "author_name": "Gaakuu",
       "likes_count": 35,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "08873f6569a2b96a276c",
@@ -466,7 +454,7 @@
       "updated": "2026-03-25T16:04:07+09:00",
       "author_name": "hitomin_poke",
       "likes_count": 85,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "114f53def8cb0db60f47",
@@ -693,8 +681,8 @@
       "published": "2026-03-25T15:03:23+09:00",
       "updated": "2026-03-26T12:06:25+09:00",
       "author_name": "yamamoto0",
-      "likes_count": 79,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "likes_count": 80,
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "17bf381e46ad3fd82170",
@@ -755,18 +743,6 @@
       "author_name": "Nospare_Inc",
       "likes_count": 126,
       "last_seen": "2026-02-23T07:33:28.443084763+00:00"
-    },
-    {
-      "key": "1907d54e51f939e61bad",
-      "item_id": "1907d54e51f939e61bad",
-      "title": "ついにAgentCoreランタイムにTypeScript SDKが対応🔥🔥 Mastraで試してみた",
-      "link": "https://qiita.com/minorun365/items/1907d54e51f939e61bad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "AWSでAIエージェントをサーバーレス運用できるインフラ「AgentCoreランタイム」のTypeScript SDKに、ついにAPIサーバー機能が実装されました！！\n\n何が嬉しいの？\n最近はAIエージェントを開発するのに、LangChainやStrandsなどのPy...",
-      "published": "2026-01-24T01:51:39+09:00",
-      "updated": "2026-01-24T12:45:38+09:00",
-      "author_name": "minorun365",
-      "likes_count": 12,
-      "last_seen": "2026-01-25T19:14:04.998502601+00:00"
     },
     {
       "key": "1ad4e4ccaf47816c63e0",
@@ -1029,8 +1005,8 @@
       "published": "2026-03-25T02:51:59+09:00",
       "updated": "2026-03-26T15:54:48+09:00",
       "author_name": "emi_ndk",
-      "likes_count": 173,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "likes_count": 174,
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "23a16aa7d3f11fd8623b",
@@ -1186,7 +1162,7 @@
       "updated": "2026-03-23T21:42:06+09:00",
       "author_name": "tonbi_attack",
       "likes_count": 21,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "2777af8e9912d6bbbbb3",
@@ -1393,16 +1369,16 @@
       "last_seen": "2026-02-06T07:28:29.064809391+00:00"
     },
     {
-      "key": "30b527e4208c9165b19c",
-      "item_id": "30b527e4208c9165b19c",
-      "title": "SOLID原則を“暗記で終わらせない”ために：料金計算で腹落ちさせる",
-      "link": "https://qiita.com/ryucciarati/items/30b527e4208c9165b19c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "新卒で実装していると、こんな場面ありませんか？\n\n「SOLID？聞いたことあるけど、説明しろと言われると詰まる」\n「設計って、結局なにを意識すればいいの…？」\n「仕様追加が怖い。どこを直せばいいかわからない」\n\nこの記事では 「料金計算（税・送料・割引・クーポン）」 を題材...",
-      "published": "2026-01-22T23:46:38+09:00",
-      "updated": "2026-01-22T23:47:00+09:00",
-      "author_name": "ryucciarati",
-      "likes_count": 17,
-      "last_seen": "2026-01-25T19:14:04.998502601+00:00"
+      "key": "306bde3e138ce071f7b2",
+      "item_id": "306bde3e138ce071f7b2",
+      "title": "ハーネスエンジニアリングは本当に「新しい」のか？ — Martin Fowlerの批評から再考する",
+      "link": "https://qiita.com/Aochan0604/items/306bde3e138ce071f7b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n2026年、「ハーネスエンジニアリング」という言葉をよく見かけるようになりました。\nOpenAIが「3人で5ヶ月、100万行」という数字とともに発表し、LangChainが「ハーネス改善だけでベンチマーク30位→5位」と続いています。自分も気になって調べてみたの...",
+      "published": "2026-03-25T17:00:19+09:00",
+      "updated": "2026-03-25T17:00:19+09:00",
+      "author_name": "Aochan0604",
+      "likes_count": 10,
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "3110282ae821fc653a06",
@@ -1533,8 +1509,8 @@
       "published": "2026-03-23T22:42:05+09:00",
       "updated": "2026-03-23T22:42:05+09:00",
       "author_name": "kamome_susume",
-      "likes_count": 118,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "likes_count": 119,
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "351912f61ffe1b177a68",
@@ -1738,7 +1714,7 @@
       "updated": "2026-03-25T18:21:48+09:00",
       "author_name": "Hidetoshi_Kawaguchi",
       "likes_count": 18,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "3c5dd7703fe9955af5c3",
@@ -2314,7 +2290,7 @@
       "updated": "2026-03-25T10:08:37+09:00",
       "author_name": "bakuchiku",
       "likes_count": 54,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "4e158dbe22bc4c8d4e0d",
@@ -2434,7 +2410,7 @@
       "updated": "2026-03-25T07:13:29+09:00",
       "author_name": "aki_number16",
       "likes_count": 16,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "5100aae89b9686865810",
@@ -2842,19 +2818,7 @@
       "updated": "2026-03-24T09:59:59+09:00",
       "author_name": "yushibats",
       "likes_count": 17,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
-    },
-    {
-      "key": "5f11084c98d32d86248d",
-      "item_id": "5f11084c98d32d86248d",
-      "title": "【2026最新】BedrockでRAGとエージェント作って、Amplifyから呼ぼう！ 維持費ほぼ無料!?",
-      "link": "https://qiita.com/minorun365/items/5f11084c98d32d86248d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "AWSの生成AIサービス、Amazon Bedrockを使った最も基本的な機能の最新ハンズオンです。\n\nBedrockナレッジベース（RAG構築機能）\nBedrockエージェント（AIエージェント構築機能）\n\nAgentCoreの登場で出番が少なくなったBedrock Ag...",
-      "published": "2026-01-23T04:45:34+09:00",
-      "updated": "2026-01-25T22:19:08+09:00",
-      "author_name": "minorun365",
-      "likes_count": 53,
-      "last_seen": "2026-01-25T19:14:04.998502601+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "5f389c5d7c786e6b8877",
@@ -3358,7 +3322,7 @@
       "updated": "2026-03-24T09:40:53+09:00",
       "author_name": "miruky",
       "likes_count": 37,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "72cc4282819ace823524",
@@ -3429,8 +3393,8 @@
       "published": "2026-03-26T11:28:51+09:00",
       "updated": "2026-03-26T11:28:52+09:00",
       "author_name": "masa20057",
-      "likes_count": 57,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "likes_count": 58,
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "7597edb999821efd2d8b",
@@ -3454,7 +3418,7 @@
       "updated": "2026-03-25T18:49:55+09:00",
       "author_name": "kobayashimakoto",
       "likes_count": 14,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "76a4d9dac74e70bceebb",
@@ -3731,18 +3695,6 @@
       "author_name": "kenken38",
       "likes_count": 128,
       "last_seen": "2026-02-23T19:34:09.026892443+00:00"
-    },
-    {
-      "key": "8096f9d9ccbe4666d85d",
-      "item_id": "8096f9d9ccbe4666d85d",
-      "title": "VS Code の GitHub Copilot 設定、多すぎて分からない？〜 settings.json 完全ガイド〜",
-      "link": "https://qiita.com/aktsmm/items/8096f9d9ccbe4666d85d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "こんにちは、設定画面を開くたびに項目の多さに圧倒されるアーキテクトのやまぱんです 😅\n補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！\n間違っていたら 優しく 教えてください！\n\n⚠️ 本記事の情報は執筆時点（2026 年 1 月・VS Code 1.108.1）...",
-      "published": "2026-01-23T00:40:51+09:00",
-      "updated": "2026-01-25T02:22:28+09:00",
-      "author_name": "aktsmm",
-      "likes_count": 38,
-      "last_seen": "2026-01-25T19:14:04.998502601+00:00"
     },
     {
       "key": "809fa2aa5b52c6c29166",
@@ -4345,18 +4297,6 @@
       "last_seen": "2026-01-30T07:26:14.371629048+00:00"
     },
     {
-      "key": "960ce9989723a1a31e40",
-      "item_id": "960ce9989723a1a31e40",
-      "title": "Transformer（自己注意＝Self-Attention）とポケモン",
-      "link": "https://qiita.com/qwer123123/items/960ce9989723a1a31e40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "これは「ポケモン風の短いテキスト」を学習データにして、Transformer（自己注意＝Self-Attention）で次の文字を予測する “超小型言語モデル” を Colab 上で動かすデモコードです。目的は「アテンション機構がどこを見て次の文字を出しているか」を可視化す...",
-      "published": "2026-01-22T18:41:55+09:00",
-      "updated": "2026-01-22T18:41:55+09:00",
-      "author_name": "qwer123123",
-      "likes_count": 10,
-      "last_seen": "2026-01-25T19:14:04.998502601+00:00"
-    },
-    {
       "key": "975d74e93f73750b255d",
       "item_id": "975d74e93f73750b255d",
       "title": "バックエンドとフロントエンドがつながっている箇所",
@@ -4570,7 +4510,7 @@
       "updated": "2026-03-24T10:36:13+09:00",
       "author_name": "nogataka",
       "likes_count": 31,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "9f35a0d6e24edd8f2265",
@@ -4917,8 +4857,8 @@
       "published": "2026-03-24T10:35:47+09:00",
       "updated": "2026-03-24T10:35:47+09:00",
       "author_name": "nogataka",
-      "likes_count": 72,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "likes_count": 73,
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "ad9995fb1b3db7055740",
@@ -5062,7 +5002,7 @@
       "updated": "2026-03-25T02:00:24+09:00",
       "author_name": "kyuko",
       "likes_count": 18,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "b31603922b791c37cc37",
@@ -5279,18 +5219,6 @@
       "author_name": "masa-555",
       "likes_count": 18,
       "last_seen": "2026-02-17T07:30:35.252844861+00:00"
-    },
-    {
-      "key": "bd20f5fdec145334e10c",
-      "item_id": "bd20f5fdec145334e10c",
-      "title": "個人開発で使えるFrontend & Backendのフォルダ構成について",
-      "link": "https://qiita.com/ZHAOJIAYI/items/bd20f5fdec145334e10c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "最近、X（旧Twitter）で @e_opore さんが投稿していたフロントエンド、バックエンドとフルスタックのフォルダ構造が非常に整理されており、非常に参考にできそうな内容でした。\n特に個人開発のプロジェクトで、スケーラブルに開発を進める際に役立つ構成だと感じたため、元投...",
-      "published": "2026-01-22T21:53:22+09:00",
-      "updated": "2026-01-25T19:00:58+09:00",
-      "author_name": "ZHAOJIAYI",
-      "likes_count": 19,
-      "last_seen": "2026-01-25T19:14:04.998502601+00:00"
     },
     {
       "key": "bd39652d49addcb116d3",
@@ -5590,7 +5518,7 @@
       "updated": "2026-03-24T11:49:31+09:00",
       "author_name": "masa20057",
       "likes_count": 118,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "c8ed058644beb0023b8a",
@@ -5842,7 +5770,7 @@
       "updated": "2026-03-24T10:36:39+09:00",
       "author_name": "nogataka",
       "likes_count": 18,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "d2072de63ac3cfdd4603",
@@ -5866,7 +5794,7 @@
       "updated": "2026-03-26T17:09:36+09:00",
       "author_name": "yamazombie",
       "likes_count": 18,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "d2bd94f3dafd7ace1014",
@@ -6169,18 +6097,6 @@
       "last_seen": "2026-03-13T19:21:31.835855745+00:00"
     },
     {
-      "key": "dda01037624623a8e7ca",
-      "item_id": "dda01037624623a8e7ca",
-      "title": "要件定義に不安があった実務3年目エンジニア、国際規格に救われる",
-      "link": "https://qiita.com/howanpin5525/items/dda01037624623a8e7ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n筆者は実務経験3年目の開発エンジニアで、現在は2社目の会社に在籍しています。\n1社目2社目ともに要件定義を担当する機会があったのですが、\nどちらの現場も要件定義のフォーマットが存在しないか、あるいはフォーマットがあっても明らかに項目が足りないような状態でした。\n...",
-      "published": "2026-01-22T18:46:55+09:00",
-      "updated": "2026-01-23T21:54:40+09:00",
-      "author_name": "howanpin5525",
-      "likes_count": 168,
-      "last_seen": "2026-01-25T19:14:04.998502601+00:00"
-    },
-    {
       "key": "dde45b8e229d703c0a67",
       "item_id": "dde45b8e229d703c0a67",
       "title": "【Playwright】 何ができるのか",
@@ -6359,18 +6275,6 @@
       "author_name": "qwertyhoge",
       "likes_count": 21,
       "last_seen": "2026-03-10T07:26:24.774363071+00:00"
-    },
-    {
-      "key": "e3f47c36c980f49381d6",
-      "item_id": "e3f47c36c980f49381d6",
-      "title": "ブラウザ操作不要！Playwright MCPでテスト仕様書からE2Eテストコードを自動生成してみた",
-      "link": "https://qiita.com/ntaka329/items/e3f47c36c980f49381d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nGMOコネクトの永田です。\nE2Eテストの自動化、進めていますか？\n「テストコード実装に工数がかかる」\n「既存のテスト仕様書を活用できないか」\nこんな悩みをお持ちの方に朗報です。今回はPlaywright MCPを使って、自然言語で書かれたテスト仕様書から、AI...",
-      "published": "2026-01-22T21:04:56+09:00",
-      "updated": "2026-01-22T21:04:56+09:00",
-      "author_name": "ntaka329",
-      "likes_count": 33,
-      "last_seen": "2026-01-25T19:14:04.998502601+00:00"
     },
     {
       "key": "e41062344f0b86049a68",
@@ -6718,7 +6622,7 @@
       "updated": "2026-03-23T17:16:46+09:00",
       "author_name": "Seine_A_Shintani",
       "likes_count": 20,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "efc227e8fe159cadb50b",
@@ -6766,7 +6670,7 @@
       "updated": "2026-03-25T17:15:06+09:00",
       "author_name": "tomoyasasaki1204",
       "likes_count": 11,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "f036cf3ac3381e6f4438",
@@ -7006,7 +6910,7 @@
       "updated": "2026-03-24T17:54:24+09:00",
       "author_name": "Yuuto127",
       "likes_count": 36,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "f6d8974e0a4ac51d97ec",
@@ -7114,7 +7018,7 @@
       "updated": "2026-03-24T10:36:22+09:00",
       "author_name": "nogataka",
       "likes_count": 23,
-      "last_seen": "2026-03-26T18:33:26.361269214+00:00"
+      "last_seen": "2026-03-26T19:34:07.358921907+00:00"
     },
     {
       "key": "fb529b2ede94661e5287",
