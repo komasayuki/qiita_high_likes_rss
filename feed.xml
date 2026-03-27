@@ -73,7 +73,7 @@ AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示�
     <title>【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる</title>
     <link rel="alternate" href="https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-26T15:54:48+09:00</updated>
-    <summary type="html">Likes: 281&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T02:51:59+09:00&lt;br/&gt;Updated: 2026-03-26T15:54:48+09:00&lt;br/&gt;あなたのマシンにLiteLLMが入っていたら、今すぐこの記事を読んでください。
+    <summary type="html">Likes: 282&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T02:51:59+09:00&lt;br/&gt;Updated: 2026-03-26T15:54:48+09:00&lt;br/&gt;あなたのマシンにLiteLLMが入っていたら、今すぐこの記事を読んでください。
 2026年3月24日、AIエージェント開発者の間で最も広く使われているPythonライブラリの一つ「LiteLLM」が、サプライチェーン攻撃により完全に乗っ取られました。
 月間9,500万ダウン...</summary>
   </entry>
@@ -243,7 +243,7 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
     <title>【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド</title>
     <link rel="alternate" href="https://qiita.com/yamamoto0/items/17817dc09a78078fa132?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-26T12:06:25+09:00</updated>
-    <summary type="html">Likes: 171&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamamoto0&quot;&gt;yamamoto0&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T15:03:23+09:00&lt;br/&gt;Updated: 2026-03-26T12:06:25+09:00&lt;br/&gt;最近、Claude CodeやCopilot Agentを触り始めたんだけど、正直な感想として「素のAgent、思ったより微妙じゃない？」って思ったんですよね。
+    <summary type="html">Likes: 173&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamamoto0&quot;&gt;yamamoto0&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T15:03:23+09:00&lt;br/&gt;Updated: 2026-03-26T12:06:25+09:00&lt;br/&gt;最近、Claude CodeやCopilot Agentを触り始めたんだけど、正直な感想として「素のAgent、思ったより微妙じゃない？」って思ったんですよね。
 チャットはできる。コードも生成してくれる。でも、なんか…プロダクションレベルじゃない。
 例えばこんな感じ：
 
@@ -2029,6 +2029,17 @@ MacからWindowsに移行して、GPU環境を構築したばかりの方
 Qwen3-...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b2e5f07b66988ddbfd1b</id>
+    <title>個人開発しても、明日には誰かが、明後日にはOpenAIがもっと良いものを作る世の中で</title>
+    <link rel="alternate" href="https://qiita.com/kyuko/items/b2e5f07b66988ddbfd1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-25T02:00:24+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T02:00:24+09:00&lt;br/&gt;Updated: 2026-03-25T02:00:24+09:00&lt;br/&gt;こんにちは、ひさふるです。
+ここ最近、StandOSというアプリをリリースしました。
+画面端からターミナルなどのユーティリティツールを呼び出せるというアプリです。
+
+実はこのアプリ、私が大学院生だった3年ほど前から趣味でチマチマと作り続けていたのですが、原因不明のバグにハマ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bc9aee9c5951e01ad13b</id>
     <title>【個人開発】最寄り駅から徒歩X分以内の物件を地図上に列挙できるアプリを作ってみた【React,TS,supabase,leaflet】</title>
     <link rel="alternate" href="https://qiita.com/nu197ma/items/bc9aee9c5951e01ad13b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2061,17 +2072,6 @@ llama.cpp や Open WebUI を使ったロー...</summary>
     <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Lambwool-711&quot;&gt;Lambwool-711&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T10:40:08+09:00&lt;br/&gt;Updated: 2026-02-12T13:25:47+09:00&lt;br/&gt;はじめに
 こんにちは。インフラエンジニア2年目で、運用メインたまに設計構築をやらせてもらっています。まだまだ知らないことだらけで日々学習を継続しています。
 去年(2025年)にAZ-104、SOA、SAA、SAP、ANSなどのいわゆるアソシエイトからプロフェッショナルあた...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b2e5f07b66988ddbfd1b</id>
-    <title>個人開発しても、明日には誰かが、明後日にはOpenAIがもっと良いものを作る世の中で</title>
-    <link rel="alternate" href="https://qiita.com/kyuko/items/b2e5f07b66988ddbfd1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-25T02:00:24+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T02:00:24+09:00&lt;br/&gt;Updated: 2026-03-25T02:00:24+09:00&lt;br/&gt;こんにちは、ひさふるです。
-ここ最近、StandOSというアプリをリリースしました。
-画面端からターミナルなどのユーティリティツールを呼び出せるというアプリです。
-
-実はこのアプリ、私が大学院生だった3年ほど前から趣味でチマチマと作り続けていたのですが、原因不明のバグにハマ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:08449740998cff7469df</id>
