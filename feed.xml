@@ -79,6 +79,15 @@ AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示�
 はじめまして、セキュリティエンジ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2332ff5c93e63ab736ad</id>
+    <title>【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる</title>
+    <link rel="alternate" href="https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-26T15:54:48+09:00</updated>
+    <summary type="html">Likes: 268&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T02:51:59+09:00&lt;br/&gt;Updated: 2026-03-26T15:54:48+09:00&lt;br/&gt;あなたのマシンにLiteLLMが入っていたら、今すぐこの記事を読んでください。
+2026年3月24日、AIエージェント開発者の間で最も広く使われているPythonライブラリの一つ「LiteLLM」が、サプライチェーン攻撃により完全に乗っ取られました。
+月間9,500万ダウン...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bf3b5f0f3eef99a4d124</id>
     <title>【緊急】AIエージェントの12%がマルウェアだった。OpenClaw史上最悪のサプライチェーン攻撃の全貌</title>
     <link rel="alternate" href="https://qiita.com/emi_ndk/items/bf3b5f0f3eef99a4d124?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -96,15 +105,6 @@ AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示�
 エンジニアをやっていると大きな山場のようなものがいくつかあります。
 CI/CD / AWS / Docker / Clean Architecture
 これらは私がジュニアレベルからミドルレベルに上がる中でも特に大変だったなと思う項目です。これを見ている方も憧...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2332ff5c93e63ab736ad</id>
-    <title>【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-26T15:54:48+09:00</updated>
-    <summary type="html">Likes: 260&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T02:51:59+09:00&lt;br/&gt;Updated: 2026-03-26T15:54:48+09:00&lt;br/&gt;あなたのマシンにLiteLLMが入っていたら、今すぐこの記事を読んでください。
-2026年3月24日、AIエージェント開発者の間で最も広く使われているPythonライブラリの一つ「LiteLLM」が、サプライチェーン攻撃により完全に乗っ取られました。
-月間9,500万ダウン...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:51db293a7a7d0d277a5d</id>
@@ -278,23 +278,23 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
 そういった時にMarkdownのようなプレーンテキストで書きたいと心の底から思いますし、AI時代にはプレーンテキストの方がマッチしているでしょ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:17817dc09a78078fa132</id>
+    <title>【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド</title>
+    <link rel="alternate" href="https://qiita.com/yamamoto0/items/17817dc09a78078fa132?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-26T12:06:25+09:00</updated>
+    <summary type="html">Likes: 160&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamamoto0&quot;&gt;yamamoto0&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T15:03:23+09:00&lt;br/&gt;Updated: 2026-03-26T12:06:25+09:00&lt;br/&gt;最近、Claude CodeやCopilot Agentを触り始めたんだけど、正直な感想として「素のAgent、思ったより微妙じゃない？」って思ったんですよね。
+チャットはできる。コードも生成してくれる。でも、なんか…プロダクションレベルじゃない。
+例えばこんな感じ：
+
+コ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
     <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-08T18:15:21+09:00</updated>
     <summary type="html">Likes: 160&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
 2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:17817dc09a78078fa132</id>
-    <title>【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド</title>
-    <link rel="alternate" href="https://qiita.com/yamamoto0/items/17817dc09a78078fa132?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-26T12:06:25+09:00</updated>
-    <summary type="html">Likes: 159&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamamoto0&quot;&gt;yamamoto0&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T15:03:23+09:00&lt;br/&gt;Updated: 2026-03-26T12:06:25+09:00&lt;br/&gt;最近、Claude CodeやCopilot Agentを触り始めたんだけど、正直な感想として「素のAgent、思ったより微妙じゃない？」って思ったんですよね。
-チャットはできる。コードも生成してくれる。でも、なんか…プロダクションレベルじゃない。
-例えばこんな感じ：
-
-コ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ecbaedb3d7ffc29c9fb2</id>
@@ -1330,6 +1330,19 @@ Claude Codeは2025年2月のリリース以来、ターミナルから直接AI�
 ここでは2025年にFinishedになったproposalについて紹介し...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:07b7926408a3447b6665</id>
+    <title>「エンジニアは難しい」は本当か？― 未経験の自分が勘違いしていた“難しさ”の正体 ―</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/07b7926408a3447b6665?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-27T12:18:34+09:00</updated>
+    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T12:18:33+09:00&lt;br/&gt;Updated: 2026-03-27T12:18:34+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている ひとみ です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+エンジニア...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:67d68b074c45d10f0307</id>
     <title>「やりたいこと」がなくてもいい！ - Canから始めるエンジニアのキャリア戦略 -</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/67d68b074c45d10f0307?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1423,19 +1436,6 @@ CPUの動作に詳しくなる
 C言語はアセンブラに翻訳されます。
 
 ア...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:07b7926408a3447b6665</id>
-    <title>「エンジニアは難しい」は本当か？― 未経験の自分が勘違いしていた“難しさ”の正体 ―</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/07b7926408a3447b6665?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-27T12:18:34+09:00</updated>
-    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T12:18:33+09:00&lt;br/&gt;Updated: 2026-03-27T12:18:34+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている ひとみ です。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-エンジニア...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4eff08ff2413c23b95ec</id>
