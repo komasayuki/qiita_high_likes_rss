@@ -73,7 +73,7 @@ AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示�
     <title>【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる</title>
     <link rel="alternate" href="https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-26T15:54:48+09:00</updated>
-    <summary type="html">Likes: 275&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T02:51:59+09:00&lt;br/&gt;Updated: 2026-03-26T15:54:48+09:00&lt;br/&gt;あなたのマシンにLiteLLMが入っていたら、今すぐこの記事を読んでください。
+    <summary type="html">Likes: 279&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T02:51:59+09:00&lt;br/&gt;Updated: 2026-03-26T15:54:48+09:00&lt;br/&gt;あなたのマシンにLiteLLMが入っていたら、今すぐこの記事を読んでください。
 2026年3月24日、AIエージェント開発者の間で最も広く使われているPythonライブラリの一つ「LiteLLM」が、サプライチェーン攻撃により完全に乗っ取られました。
 月間9,500万ダウン...</summary>
   </entry>
@@ -239,6 +239,17 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
 そんな方に僕が現場を経験して気づいた、技術の「表面」ではなく「本質」を掴んで成長を加速させるためのヒントを、僕の失敗談を交えつつお伝えします...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:17817dc09a78078fa132</id>
+    <title>【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド</title>
+    <link rel="alternate" href="https://qiita.com/yamamoto0/items/17817dc09a78078fa132?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-26T12:06:25+09:00</updated>
+    <summary type="html">Likes: 170&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamamoto0&quot;&gt;yamamoto0&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T15:03:23+09:00&lt;br/&gt;Updated: 2026-03-26T12:06:25+09:00&lt;br/&gt;最近、Claude CodeやCopilot Agentを触り始めたんだけど、正直な感想として「素のAgent、思ったより微妙じゃない？」って思ったんですよね。
+チャットはできる。コードも生成してくれる。でも、なんか…プロダクションレベルじゃない。
+例えばこんな感じ：
+
+コ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d4121721605c8955aa17</id>
     <title>なぜあの人と話すと仕事が止まるのか。</title>
     <link rel="alternate" href="https://qiita.com/haihaikazuma/items/d4121721605c8955aa17?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -246,17 +257,6 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
     <summary type="html">Likes: 170&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/haihaikazuma&quot;&gt;haihaikazuma&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T10:31:28+09:00&lt;br/&gt;Updated: 2026-01-28T10:31:28+09:00&lt;br/&gt;会話・チャットでやり取りをしていて、「なんか、このひと面倒くさいなー」とイライラすることがある。
 イライラするだけなら、まだ我慢できる。けれど、それが仕事に支障をきたすのであれば話は別だ。─── で、そういう場面は珍しくない。
 そういうひとのことばを観察していると、あいまい...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:17817dc09a78078fa132</id>
-    <title>【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド</title>
-    <link rel="alternate" href="https://qiita.com/yamamoto0/items/17817dc09a78078fa132?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-26T12:06:25+09:00</updated>
-    <summary type="html">Likes: 166&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamamoto0&quot;&gt;yamamoto0&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T15:03:23+09:00&lt;br/&gt;Updated: 2026-03-26T12:06:25+09:00&lt;br/&gt;最近、Claude CodeやCopilot Agentを触り始めたんだけど、正直な感想として「素のAgent、思ったより微妙じゃない？」って思ったんですよね。
-チャットはできる。コードも生成してくれる。でも、なんか…プロダクションレベルじゃない。
-例えばこんな感じ：
-
-コ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:14554853372f33c3374b</id>
@@ -2135,6 +2135,17 @@ console.log(&quot;Hello&quot;)
 と書く一方で、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b2e5f07b66988ddbfd1b</id>
+    <title>個人開発しても、明日には誰かが、明後日にはOpenAIがもっと良いものを作る世の中で</title>
+    <link rel="alternate" href="https://qiita.com/kyuko/items/b2e5f07b66988ddbfd1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-25T02:00:24+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T02:00:24+09:00&lt;br/&gt;Updated: 2026-03-25T02:00:24+09:00&lt;br/&gt;こんにちは、ひさふるです。
+ここ最近、StandOSというアプリをリリースしました。
+画面端からターミナルなどのユーティリティツールを呼び出せるというアプリです。
+
+実はこのアプリ、私が大学院生だった3年ほど前から趣味でチマチマと作り続けていたのですが、原因不明のバグにハマ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9eedb6b88eb84042e699</id>
     <title>ナレッジグラフ×LLM実践入門 ── RAGの次のアーキテクチャを理解する</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/9eedb6b88eb84042e699?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2174,17 +2185,6 @@ RAGは外部知識をLLMに注入する手法として定着しました。
 Qiitaでサーバにインストールする記事としては最速ということで(若干誇張)。
 Qiita上の解説としては以下の記事が最速ですが、本当に便利だったので紹介させてください。
 https://qiita.com/xhackjp1/items/03045dd62c2f...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b2e5f07b66988ddbfd1b</id>
-    <title>個人開発しても、明日には誰かが、明後日にはOpenAIがもっと良いものを作る世の中で</title>
-    <link rel="alternate" href="https://qiita.com/kyuko/items/b2e5f07b66988ddbfd1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-25T02:00:24+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T02:00:24+09:00&lt;br/&gt;Updated: 2026-03-25T02:00:24+09:00&lt;br/&gt;こんにちは、ひさふるです。
-ここ最近、StandOSというアプリをリリースしました。
-画面端からターミナルなどのユーティリティツールを呼び出せるというアプリです。
-
-実はこのアプリ、私が大学院生だった3年ほど前から趣味でチマチマと作り続けていたのですが、原因不明のバグにハマ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ed8662412cc98a0d5868</id>
