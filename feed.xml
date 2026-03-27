@@ -113,7 +113,7 @@ Claude Codeは非常に強力なAIコーディングエージェントですが�
     <title>【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる</title>
     <link rel="alternate" href="https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-26T15:54:48+09:00</updated>
-    <summary type="html">Likes: 240&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T02:51:59+09:00&lt;br/&gt;Updated: 2026-03-26T15:54:48+09:00&lt;br/&gt;あなたのマシンにLiteLLMが入っていたら、今すぐこの記事を読んでください。
+    <summary type="html">Likes: 243&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T02:51:59+09:00&lt;br/&gt;Updated: 2026-03-26T15:54:48+09:00&lt;br/&gt;あなたのマシンにLiteLLMが入っていたら、今すぐこの記事を読んでください。
 2026年3月24日、AIエージェント開発者の間で最も広く使われているPythonライブラリの一つ「LiteLLM」が、サプライチェーン攻撃により完全に乗っ取られました。
 月間9,500万ダウン...</summary>
   </entry>
@@ -340,6 +340,17 @@ GMOコネクトの永田です。
 Claude Code Skills と yfinance を使って、株式スクリーニングからポートフォリオ管理まで投資分析を自動化するシステムを作りました。Python × バイブコーディングで、個人投資家の投資ワークフロー全体を5つ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:17817dc09a78078fa132</id>
+    <title>【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド</title>
+    <link rel="alternate" href="https://qiita.com/yamamoto0/items/17817dc09a78078fa132?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-26T12:06:25+09:00</updated>
+    <summary type="html">Likes: 144&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamamoto0&quot;&gt;yamamoto0&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T15:03:23+09:00&lt;br/&gt;Updated: 2026-03-26T12:06:25+09:00&lt;br/&gt;最近、Claude CodeやCopilot Agentを触り始めたんだけど、正直な感想として「素のAgent、思ったより微妙じゃない？」って思ったんですよね。
+チャットはできる。コードも生成してくれる。でも、なんか…プロダクションレベルじゃない。
+例えばこんな感じ：
+
+コ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a4c5d048f6fb662ebbba</id>
     <title>開発者はAIを使うと24％速くなると考えているが実際には約20％遅いという主張について調べた件</title>
     <link rel="alternate" href="https://qiita.com/morry_48/items/a4c5d048f6fb662ebbba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -365,17 +376,6 @@ Professor Answers Coding Questions | Tech Sup...</summary>
 はじめに
 「もっとサクサク動くMarkdownエディタが欲しい！」
 エンジニアなら一度はそう思ったことがあるのではないでしょうか。・・・あれ、ないですか？そうですか。まあ、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:17817dc09a78078fa132</id>
-    <title>【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド</title>
-    <link rel="alternate" href="https://qiita.com/yamamoto0/items/17817dc09a78078fa132?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-26T12:06:25+09:00</updated>
-    <summary type="html">Likes: 139&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamamoto0&quot;&gt;yamamoto0&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T15:03:23+09:00&lt;br/&gt;Updated: 2026-03-26T12:06:25+09:00&lt;br/&gt;最近、Claude CodeやCopilot Agentを触り始めたんだけど、正直な感想として「素のAgent、思ったより微妙じゃない？」って思ったんですよね。
-チャットはできる。コードも生成してくれる。でも、なんか…プロダクションレベルじゃない。
-例えばこんな感じ：
-
-コ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5b5747f619e6eb745436</id>
@@ -623,6 +623,14 @@ PRUMについて気になった方は、
 新人エンジニアは、なぜ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ad15bfa383c98ae5cc36</id>
+    <title>AGENTS.md完全入門 ── 60,000リポジトリが採用した事実上の共通フォーマット</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/ad15bfa383c98ae5cc36?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-24T10:35:47+09:00</updated>
+    <summary type="html">Likes: 110&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T10:35:47+09:00&lt;br/&gt;Updated: 2026-03-24T10:35:47+09:00&lt;br/&gt;AGENTS.md は「AIコーディングエージェント向けの README」です。
+リポジトリにこのファイルを置くことで、Codex CLI・Cursor・GitHub Copilot など多くのツールが共通の指示を読み取れます。ただし、ツールごとに対応状況や読み込み条件には...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5bd0096ca33d5ea41acb</id>
     <title>【86万行・29,000コミット】AIが「本気で」コードを書いたらこうなった —— Cursorの大規模実験から学ぶ10の知見</title>
     <link rel="alternate" href="https://qiita.com/hisaho/items/5bd0096ca33d5ea41acb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -630,14 +638,6 @@ PRUMについて気になった方は、
     <summary type="html">Likes: 110&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hisaho&quot;&gt;hisaho&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T10:20:46+09:00&lt;br/&gt;Updated: 2026-01-23T10:20:46+09:00&lt;br/&gt;はじめに
 本記事は、AIコーディングツール「Cursor」を使用してゼロから構築された大規模プロジェクト「FastRender」の開発から得られた汎用的なAIコーディングの知見をまとめたものです。
 FastRenderはCursorの並列AIエージェント研究1の一環として...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ad15bfa383c98ae5cc36</id>
-    <title>AGENTS.md完全入門 ── 60,000リポジトリが採用した事実上の共通フォーマット</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/ad15bfa383c98ae5cc36?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-24T10:35:47+09:00</updated>
-    <summary type="html">Likes: 109&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T10:35:47+09:00&lt;br/&gt;Updated: 2026-03-24T10:35:47+09:00&lt;br/&gt;AGENTS.md は「AIコーディングエージェント向けの README」です。
-リポジトリにこのファイルを置くことで、Codex CLI・Cursor・GitHub Copilot など多くのツールが共通の指示を読み取れます。ただし、ツールごとに対応状況や読み込み条件には...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cace9602e4eaea995cc9</id>
@@ -1428,7 +1428,7 @@ C言語はアセンブラに翻訳されます。
     <title>AI駆動開発でETH/JPY自動売買ボットを作って不労所得ｶﾞｯﾎﾟｶﾞｯﾎﾟ</title>
     <link rel="alternate" href="https://qiita.com/bakuchiku/items/4dcb7c27c053b28543b4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-25T10:08:37+09:00</updated>
-    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/bakuchiku&quot;&gt;bakuchiku&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T11:28:29+09:00&lt;br/&gt;Updated: 2026-03-25T10:08:37+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/bakuchiku&quot;&gt;bakuchiku&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T11:28:29+09:00&lt;br/&gt;Updated: 2026-03-25T10:08:37+09:00&lt;br/&gt;はじめに
 お久しぶりです〜
 今回はちょっと毛色の違う記事です。楽天WalletのETH/JPY CFDをGeminiが自動でトレードするボットを作ったので、その話をしたいと思います。
 AI駆動開発（AI-DLC）で開発し、インフラはAWS CDKで全部コード管理してます。...</summary>
