@@ -589,7 +589,7 @@ PRUMについて気になった方は、
     <title>実務1年目の僕に伝えたい。完璧主義を捨てて「プロ」になるための行動4選</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/747faa3de771373a3e4f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-26T11:28:52+09:00</updated>
-    <summary type="html">Likes: 115&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-03-26T11:28:51+09:00&lt;br/&gt;Updated: 2026-03-26T11:28:52+09:00&lt;br/&gt;「プログラミングを始めたけれど、周りと比べて焦ってしまう」「今のやり方で本当にエンジニアとして成長できているのかな」と不安になることありませんか？実務3年目の僕が、失敗だらけだった1年目を振り返り、未経験からプロへと脱皮するための行動を僕の主観でお伝えします。
+    <summary type="html">Likes: 116&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-03-26T11:28:51+09:00&lt;br/&gt;Updated: 2026-03-26T11:28:52+09:00&lt;br/&gt;「プログラミングを始めたけれど、周りと比べて焦ってしまう」「今のやり方で本当にエンジニアとして成長できているのかな」と不安になることありませんか？実務3年目の僕が、失敗だらけだった1年目を振り返り、未経験からプロへと脱皮するための行動を僕の主観でお伝えします。
 
 「完璧主義...</summary>
   </entry>
@@ -972,6 +972,19 @@ MinIO は Amazon S3 互換の API を備えたオブジェクトストレージ�
 docker-compose.yml に数行書くだけで S3 互換のストレージが立ち上がるため、ローカル開発環境の S3 モックとして広く使われてきました。DockerHu...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c392f0804987593dc179</id>
+    <title>ChatGPTが長いチャットで重くなったときに使っている「引き継ぎプロンプト」</title>
+    <link rel="alternate" href="https://qiita.com/SatoRyota_zvc/items/c392f0804987593dc179?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-27T16:24:29+09:00</updated>
+    <summary type="html">Likes: 77&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/SatoRyota_zvc&quot;&gt;SatoRyota_zvc&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T16:24:29+09:00&lt;br/&gt;Updated: 2026-03-27T16:24:29+09:00&lt;br/&gt;こんにちは。
+今回は、ChatGPTを使っているときに自分がよく感じていた
+「同じチャットをずっと使っていると、だんだん重くなる…」
+という悩みと、そのときに便利だった
+新しいチャットへスムーズに移るための引き継ぎプロンプト
+について紹介。
+ChatGPTを使って開発の相談...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0ff827a1c2deef68ba9a</id>
     <title>AIエージェントだけでスクラムを回してみた</title>
     <link rel="alternate" href="https://qiita.com/shyamagu/items/0ff827a1c2deef68ba9a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1040,19 +1053,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 エンジニア...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c392f0804987593dc179</id>
-    <title>ChatGPTが長いチャットで重くなったときに使っている「引き継ぎプロンプト」</title>
-    <link rel="alternate" href="https://qiita.com/SatoRyota_zvc/items/c392f0804987593dc179?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-27T16:24:29+09:00</updated>
-    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/SatoRyota_zvc&quot;&gt;SatoRyota_zvc&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T16:24:29+09:00&lt;br/&gt;Updated: 2026-03-27T16:24:29+09:00&lt;br/&gt;こんにちは。
-今回は、ChatGPTを使っているときに自分がよく感じていた
-「同じチャットをずっと使っていると、だんだん重くなる…」
-という悩みと、そのときに便利だった
-新しいチャットへスムーズに移るための引き継ぎプロンプト
-について紹介。
-ChatGPTを使って開発の相談...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:392934f79e943e8b9228</id>
@@ -1419,6 +1419,16 @@ C言語はアセンブラに翻訳されます。
 複数のClaude Codeインスタンスを「チーム」として協調動作させるという、なかなか攻めた実験的機能（Re...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b996e374c91923141178</id>
+    <title>DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/b996e374c91923141178?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-27T00:01:05+09:00</updated>
+    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T00:01:05+09:00&lt;br/&gt;Updated: 2026-03-27T00:01:05+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+ある日突然、AWSから $15,000（約200万円）の請求書 が届いたらどうしますか？
+2026年3月、海外でまさにこの事態が発生しました。個人開発者のS3バケットがDDoS攻撃を受け、3日間で160TBのデータ転送が発生。結果...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8010f0d62025db8f3d81</id>
     <title>ベイズ原理主義者ブチ切れ必至！因子分析の再学習を50倍速める運用の知恵</title>
     <link rel="alternate" href="https://qiita.com/Gotoubun_taiwan/items/8010f0d62025db8f3d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1474,16 +1484,6 @@ C言語はアセンブラに翻訳されます。
 それが ひたすら数学 です。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b996e374c91923141178</id>
-    <title>DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/b996e374c91923141178?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-27T00:01:05+09:00</updated>
-    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T00:01:05+09:00&lt;br/&gt;Updated: 2026-03-27T00:01:05+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-ある日突然、AWSから $15,000（約200万円）の請求書 が届いたらどうしますか？
-2026年3月、海外でまさにこの事態が発生しました。個人開発者のS3バケットがDDoS攻撃を受け、3日間で160TBのデータ転送が発生。結果...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
