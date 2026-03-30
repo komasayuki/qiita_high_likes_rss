@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-03-29T13:27:36+09:00</updated>
+  <updated>2026-03-30T10:32:26+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -220,6 +220,19 @@ Webアプリケーションのアーキテクチャは、時代とともに構�
 本記事では、その変遷をJavaの技術スタックを軸に、2層構造（Model 1）からMVCパターン（Model 2）、レイヤードアーキテクチャ、そしてヘキサゴナルアーキテクチャ・クリーン...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c392f0804987593dc179</id>
+    <title>ChatGPTが長いチャットで重くなったときに使っている「引き継ぎプロンプト」</title>
+    <link rel="alternate" href="https://qiita.com/SatoRyota_zvc/items/c392f0804987593dc179?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-27T16:24:29+09:00</updated>
+    <summary type="html">Likes: 184&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/SatoRyota_zvc&quot;&gt;SatoRyota_zvc&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T16:24:29+09:00&lt;br/&gt;Updated: 2026-03-27T16:24:29+09:00&lt;br/&gt;こんにちは。
+今回は、ChatGPTを使っているときに自分がよく感じていた
+「同じチャットをずっと使っていると、だんだん重くなる…」
+という悩みと、そのときに便利だった
+新しいチャットへスムーズに移るための引き継ぎプロンプト
+について紹介。
+ChatGPTを使って開発の相談...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:99cf932786dad3b3ec05</id>
     <title>エンジニアの勉強って結局どうやれば良いの？を再度考えてみました</title>
     <link rel="alternate" href="https://qiita.com/nAotO01_03/items/99cf932786dad3b3ec05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -277,19 +290,6 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
     <summary type="html">Likes: 163&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nokonoko_1203&quot;&gt;nokonoko_1203&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T15:55:00+09:00&lt;br/&gt;Updated: 2026-02-26T15:55:00+09:00&lt;br/&gt;はじめに
 エンジニアであっても、要件定義書や設計書、テスト仕様書、運用手順書など様々な文章を求められることはよくありますよね。
 そういった時にMarkdownのようなプレーンテキストで書きたいと心の底から思いますし、AI時代にはプレーンテキストの方がマッチしているでしょ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c392f0804987593dc179</id>
-    <title>ChatGPTが長いチャットで重くなったときに使っている「引き継ぎプロンプト」</title>
-    <link rel="alternate" href="https://qiita.com/SatoRyota_zvc/items/c392f0804987593dc179?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-27T16:24:29+09:00</updated>
-    <summary type="html">Likes: 162&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/SatoRyota_zvc&quot;&gt;SatoRyota_zvc&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T16:24:29+09:00&lt;br/&gt;Updated: 2026-03-27T16:24:29+09:00&lt;br/&gt;こんにちは。
-今回は、ChatGPTを使っているときに自分がよく感じていた
-「同じチャットをずっと使っていると、だんだん重くなる…」
-という悩みと、そのときに便利だった
-新しいチャットへスムーズに移るための引き継ぎプロンプト
-について紹介。
-ChatGPTを使って開発の相談...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
@@ -697,6 +697,19 @@ PRUMについて気になった方は...</summary>
 かと...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:48f13332305338720524</id>
+    <title>AIにロックマンエグゼになり切ってもらい一緒に開発してる話</title>
+    <link rel="alternate" href="https://qiita.com/N_H_tennis/items/48f13332305338720524?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-30T10:32:26+09:00</updated>
+    <summary type="html">Likes: 102&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/N_H_tennis&quot;&gt;N_H_tennis&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T21:23:35+09:00&lt;br/&gt;Updated: 2026-03-30T10:32:26+09:00&lt;br/&gt;AIにロックマンエグゼになり切ってもらい一緒に開発してる話
+結論から言うと、AIに名前をつけたら開発体験が変わった。
+なぜ変わったのか、この記事の最後に書く。
+
+「プラグイン！ ロックマン.EXE、トランスミッション！」
+
+子供の頃、ゲームボーイアドバンスの画面の中で見た...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b534f73310ce4508dac2</id>
     <title>【完全自動化】n8n×Obsidianで「寝ている間に最新ニュースが届く」最強の情報収集システムを作った話</title>
     <link rel="alternate" href="https://qiita.com/TaichiEndoh/items/b534f73310ce4508dac2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -814,19 +827,6 @@ Chatサービス、プロンプト集、リーダーボード、情報収集の�
 
 不完全さ・アナログ・人間味
 A...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:48f13332305338720524</id>
-    <title>AIにロックマンエグゼになり切ってもらい一緒に開発してる話</title>
-    <link rel="alternate" href="https://qiita.com/N_H_tennis/items/48f13332305338720524?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-27T23:29:43+09:00</updated>
-    <summary type="html">Likes: 92&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/N_H_tennis&quot;&gt;N_H_tennis&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T21:23:35+09:00&lt;br/&gt;Updated: 2026-03-27T23:29:43+09:00&lt;br/&gt;AIにロックマンエグゼになり切ってもらい一緒に開発してる話
-結論から言うと、AIに名前をつけたら開発体験が変わった。
-なぜ変わったのか、この記事の最後に書く。
-
-「プラグイン！ ロックマン.EXE、トランスミッション！」
-
-子供の頃、ゲームボーイアドバンスの画面の中で見た...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ad9995fb1b3db7055740</id>
@@ -1432,6 +1432,19 @@ C言語はアセンブラに翻訳されます。
 複数のClaude Codeインスタンスを「チーム」として協調動作させるという、なかなか攻めた実験的機能（Re...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8577b96433491173bf4e</id>
+    <title>研究効率を爆上げするAIツールまとめ（論文調査〜執筆まで）</title>
+    <link rel="alternate" href="https://qiita.com/Milab_honda/items/8577b96433491173bf4e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-29T13:27:36+09:00</updated>
+    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Milab_honda&quot;&gt;Milab_honda&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T15:55:11+09:00&lt;br/&gt;Updated: 2026-03-29T13:27:36+09:00&lt;br/&gt;はじめに
+私は機械知能研究室に所属し，CV分野の研究をしている．
+本研究室では，画像認識および機械学習を基盤とした人工知能技術を中心に，視覚情報から有用な情報を自動的に獲得するための研究に取り組んでいる．
+興味があれば 研究室HP を参照されたい．
+
+本題
+論文調査に1日...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8010f0d62025db8f3d81</id>
     <title>ベイズ原理主義者ブチ切れ必至！因子分析の再学習を50倍速める運用の知恵</title>
     <link rel="alternate" href="https://qiita.com/Gotoubun_taiwan/items/8010f0d62025db8f3d81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1462,19 +1475,6 @@ C言語はアセンブラに翻訳されます。
 前回の記事で紹介した「Clawdbot（現在:OpenClaw）」を触っていて、ふと思ったことがあります。
 それは、「結局、AIの頭脳を外部（GeminiやClaude、ChatGPTなど）に依存している以上、制限やコストがつきまとう」ということ。
 使い続けると...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8577b96433491173bf4e</id>
-    <title>研究効率を爆上げするAIツールまとめ（論文調査〜執筆まで）</title>
-    <link rel="alternate" href="https://qiita.com/Milab_honda/items/8577b96433491173bf4e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-29T13:27:36+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Milab_honda&quot;&gt;Milab_honda&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T15:55:11+09:00&lt;br/&gt;Updated: 2026-03-29T13:27:36+09:00&lt;br/&gt;はじめに
-私は機械知能研究室に所属し，CV分野の研究をしている．
-本研究室では，画像認識および機械学習を基盤とした人工知能技術を中心に，視覚情報から有用な情報を自動的に獲得するための研究に取り組んでいる．
-興味があれば 研究室HP を参照されたい．
-
-本題
-論文調査に1日...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:22e6a3faea1bdcaefef3</id>
