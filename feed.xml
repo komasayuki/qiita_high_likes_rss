@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-04-01T23:34:49+09:00</updated>
+  <updated>2026-04-02T00:02:13+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -929,6 +929,17 @@ ChatGPT5.4 を使います。MacのCodexアプリを使います(5.4 Codexでは
 このWebサイトでは、物理学で使う計算手法のコードが公開されています。FORTRANです。DMFTと呼ばれる手法の超有...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1592158be6ca86837429</id>
+    <title>未経験からITエンジニアを目指しているけど、内定先を決めきれない人へ。後悔しにくい考え方を整理してみる</title>
+    <link rel="alternate" href="https://qiita.com/prum_iha/items/1592158be6ca86837429?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-31T16:34:07+09:00</updated>
+    <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_iha&quot;&gt;prum_iha&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T16:31:52+09:00&lt;br/&gt;Updated: 2026-03-31T16:34:07+09:00&lt;br/&gt;こんにちは。株式会社PRUMで採用広報を担当している井原です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く悩みがあります。
+内定はもらえた。 でも、本当にこの会社に決めていいのかわからない。
+これはかなり自然なことだと思っています。
+未経験からの転職は...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:48ede59ebe33b4b774ac</id>
     <title>Claude Code 知らないと損するコマンド・時短術 20選</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/48ede59ebe33b4b774ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -960,17 +971,6 @@ Claude Codeを使っていて、こんな経験はありませんか？
     <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T01:27:19+09:00&lt;br/&gt;Updated: 2026-02-26T10:04:26+09:00&lt;br/&gt;はじめに
 MinIO は Amazon S3 互換の API を備えたオブジェクトストレージです。
 docker-compose.yml に数行書くだけで S3 互換のストレージが立ち上がるため、ローカル開発環境の S3 モックとして広く使われてきました。DockerHu...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1592158be6ca86837429</id>
-    <title>未経験からITエンジニアを目指しているけど、内定先を決めきれない人へ。後悔しにくい考え方を整理してみる</title>
-    <link rel="alternate" href="https://qiita.com/prum_iha/items/1592158be6ca86837429?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-31T16:34:07+09:00</updated>
-    <summary type="html">Likes: 77&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_iha&quot;&gt;prum_iha&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T16:31:52+09:00&lt;br/&gt;Updated: 2026-03-31T16:34:07+09:00&lt;br/&gt;こんにちは。株式会社PRUMで採用広報を担当している井原です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く悩みがあります。
-内定はもらえた。 でも、本当にこの会社に決めていいのかわからない。
-これはかなり自然なことだと思っています。
-未経験からの転職は...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:07b7926408a3447b6665</id>
@@ -1555,6 +1555,16 @@ Claude Code v2.1.30 から、過去の使用履歴や使い方の改善案のレ
 私は24時間使いまわすほどのヘビーユーザーでは...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a867e1954b80e78cf146</id>
+    <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
+    <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T00:02:13+09:00</updated>
+    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
+原因はなんと、npmパッケージに含まれた .map（sourcemap）ファイル という、開発者なら誰もが知っている「あのファイル」。
+
+B...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:001a7c7d3a35d797ddcb</id>
     <title>データアナリスト3年目が語る「教科書に載ってない」現場のリアル</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/001a7c7d3a35d797ddcb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1660,16 +1670,6 @@ Morpho社の調査が興味深いデータを出しています。SWE-benchに�
     <updated>2026-02-19T13:30:12+09:00</updated>
     <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T13:10:30+09:00&lt;br/&gt;Updated: 2026-02-19T13:30:12+09:00&lt;br/&gt;2025年12月、Anthropicが「Agent Skills」というオープン標準を公開しました。SKILL.mdというMarkdownファイルにエージェントへの指示を書けば、対応するどのツールでもそのスキルが動く、という仕組みです。
 注目すべきは、その採用速度です。公開...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a867e1954b80e78cf146</id>
-    <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
-    <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-01T23:34:49+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-01T23:34:49+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
-原因はなんと、npmパッケージに含まれた .map（sourcemap）ファイル という、開発者なら誰もが知っている「あのファイル」。
-
-B...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4db2182e2384df4122a2</id>
