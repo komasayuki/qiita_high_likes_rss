@@ -2174,6 +2174,14 @@ RAGは外部知識をLLMに注入する手法として定着しました。
 スクレイピングスクリプトを自作したものの、案の...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d6c83ea50b82e1c2602c</id>
+    <title>100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-01T12:06:54+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T09:18:35+09:00&lt;br/&gt;Updated: 2026-04-01T12:06:54+09:00&lt;br/&gt;CLAUDE.mdは長いほど効くわけではありません。むしろ長いほどClaude Codeは従いにくくなります。
+100行書いたCLAUDE.mdと、35行に削って残りを.claude/rules/に分離したCLAUDE.md。同じ指示を出しても、後者の方がClaudeの出力...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d2694937d2ebcd442060</id>
     <title>生成AIで誰でもオシャレなパワポを作る方法</title>
     <link rel="alternate" href="https://qiita.com/yamazombie/items/d2694937d2ebcd442060?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2222,14 +2230,5 @@ playwr...</summary>
 
 はじめに
 Figma でデザインを作って、それをエンジニアがコードに起こす。この受け...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3b03cf922886bca5c661</id>
-    <title>PRレビュー、順番待ちやめました — AI時代の&quot;交通整理&quot;を自動化した話</title>
-    <link rel="alternate" href="https://qiita.com/sapeet-lin/items/3b03cf922886bca5c661?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-19T11:59:02+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sapeet-lin&quot;&gt;sapeet-lin&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T11:59:02+09:00&lt;br/&gt;Updated: 2026-02-19T11:59:02+09:00&lt;br/&gt;はじめに
-AI駆動の開発が一般化した現在、Claude CodeやGitHub Copilotなどのツールを活用することで、コードを書くスピードが劇的に向上しています。しかし、その結果として新たな課題が浮上してきました。
-PRを出すスピードが速くなりすぎて、レビュー側が追...</summary>
   </entry>
 </feed>
