@@ -1186,6 +1186,21 @@ GPUが積まれた高性能マシン。
 　一言で言うとvllmライクなインターフェースをApple Silicon向けに提供するもので、MacのGPU（Metal/MPS）アクセラレーションによる...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:094edffe1d7961bb6395</id>
+    <title>【前編】9割の新人エンジニアがやっている 「失礼しました」の落とし穴</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/094edffe1d7961bb6395?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-01T13:18:18+09:00</updated>
+    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T13:18:17+09:00&lt;br/&gt;Updated: 2026-04-01T13:18:18+09:00&lt;br/&gt;はじめまして。
+株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で
+つまずきやすいポイントを整理して発信しています。
+PRUMについて気になった方は、
+コーポレートサイトもご覧ください。
+▶ コーポレートサイト
+
+9割の新人エンジニアがや...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8577b96433491173bf4e</id>
     <title>研究効率を爆上げするAIツールまとめ（論文調査〜執筆まで）</title>
     <link rel="alternate" href="https://qiita.com/Milab_honda/items/8577b96433491173bf4e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1218,21 +1233,6 @@ Pythonを使い始めてはや十数年。他の言語も覚えないと思い�
 これが、私の日常になりました。
 
 メールの確認、Slackの未返信チェック、Notionでのタ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:094edffe1d7961bb6395</id>
-    <title>【前編】9割の新人エンジニアがやっている 「失礼しました」の落とし穴</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/094edffe1d7961bb6395?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-01T13:18:18+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T13:18:17+09:00&lt;br/&gt;Updated: 2026-04-01T13:18:18+09:00&lt;br/&gt;はじめまして。
-株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で
-つまずきやすいポイントを整理して発信しています。
-PRUMについて気になった方は、
-コーポレートサイトもご覧ください。
-▶ コーポレートサイト
-
-9割の新人エンジニアがや...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:df077776b293163e0a42</id>
@@ -2143,6 +2143,14 @@ console.log(&quot;Hello&quot;)
 と書く一方で、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d6c83ea50b82e1c2602c</id>
+    <title>100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-01T12:06:54+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T09:18:35+09:00&lt;br/&gt;Updated: 2026-04-01T12:06:54+09:00&lt;br/&gt;CLAUDE.mdは長いほど効くわけではありません。むしろ長いほどClaude Codeは従いにくくなります。
+100行書いたCLAUDE.mdと、35行に削って残りを.claude/rules/に分離したCLAUDE.md。同じ指示を出しても、後者の方がClaudeの出力...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9eedb6b88eb84042e699</id>
     <title>ナレッジグラフ×LLM実践入門 ── RAGの次のアーキテクチャを理解する</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/9eedb6b88eb84042e699?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2172,14 +2180,6 @@ RAGは外部知識をLLMに注入する手法として定着しました。
     <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/harupython&quot;&gt;harupython&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T08:41:18+09:00&lt;br/&gt;Updated: 2026-02-09T08:41:18+09:00&lt;br/&gt;はじめに
 僕は都内の高校に通う学生で、普段はPythonで自作ツールを作ったり、技術記事を書いたりしている。先日、学校の課題で「複数のECサイトの公開価格データを比較分析する」必要があったのだが、手動でやるには量が多すぎた。
 スクレイピングスクリプトを自作したものの、案の...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6c83ea50b82e1c2602c</id>
-    <title>100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-01T12:06:54+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T09:18:35+09:00&lt;br/&gt;Updated: 2026-04-01T12:06:54+09:00&lt;br/&gt;CLAUDE.mdは長いほど効くわけではありません。むしろ長いほどClaude Codeは従いにくくなります。
-100行書いたCLAUDE.mdと、35行に削って残りを.claude/rules/に分離したCLAUDE.md。同じ指示を出しても、後者の方がClaudeの出力...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d2694937d2ebcd442060</id>
