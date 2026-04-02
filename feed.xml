@@ -391,6 +391,14 @@ agency-agentsは、144個のAIエージェント定義をMarkdownファイルで
 本記事では、このインシデントの攻撃手法を理解するために自分で検証環境を...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d6c83ea50b82e1c2602c</id>
+    <title>100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-01T12:06:54+09:00</updated>
+    <summary type="html">Likes: 137&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T09:18:35+09:00&lt;br/&gt;Updated: 2026-04-01T12:06:54+09:00&lt;br/&gt;CLAUDE.mdは長いほど効くわけではありません。むしろ長いほどClaude Codeは従いにくくなります。
+100行書いたCLAUDE.mdと、35行に削って残りを.claude/rules/に分離したCLAUDE.md。同じ指示を出しても、後者の方がClaudeの出力...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:04b6ab72d957de10f9a7</id>
     <title>【公式】VS Codeでレトロゲーム開発が完結！Pyxel VS Code拡張機能のご紹介</title>
     <link rel="alternate" href="https://qiita.com/kitao/items/04b6ab72d957de10f9a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -398,14 +406,6 @@ agency-agentsは、144個のAIエージェント定義をMarkdownファイルで
     <summary type="html">Likes: 137&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T18:12:06+09:00&lt;br/&gt;Updated: 2026-03-02T18:12:06+09:00&lt;br/&gt;はじめに
 Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使いたかった方々、お待たせしました！
 この度、ローカルへのインストール不要でPyxelの実行・リソース編集・アプリ再生ができる、Pyxel VS Code拡張機能をリリース...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6c83ea50b82e1c2602c</id>
-    <title>100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-01T12:06:54+09:00</updated>
-    <summary type="html">Likes: 136&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T09:18:35+09:00&lt;br/&gt;Updated: 2026-04-01T12:06:54+09:00&lt;br/&gt;CLAUDE.mdは長いほど効くわけではありません。むしろ長いほどClaude Codeは従いにくくなります。
-100行書いたCLAUDE.mdと、35行に削って残りを.claude/rules/に分離したCLAUDE.md。同じ指示を出しても、後者の方がClaudeの出力...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6c8f9db6565e80332d05</id>
@@ -529,6 +529,16 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 オンボーディングの速さは、エンジニアとしての評価に直結します。早く戦力になれれば、チームからの信頼も得やすく、その後の仕事がスムーズにな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a867e1954b80e78cf146</id>
+    <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
+    <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T00:02:13+09:00</updated>
+    <summary type="html">Likes: 121&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
+原因はなんと、npmパッケージに含まれた .map（sourcemap）ファイル 。
+
+Bunでビルドしたときにデフォルトで生成されるsou...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c841d47f35e9c04c6bee</id>
     <title>「何からやれば...」を卒業する。実務の解像度を劇的に高める3ステップ</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/c841d47f35e9c04c6bee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -558,16 +568,6 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 最近私はQiita APIを使って、ギャルがQiita記事を音声解説してくれるWebアプリを作っています。
 そうです。ギャルです。 技術記事 × ギャル
 情報量が多いのか少ないのか分からないカオスな組み合わせですが、テスト中にあまりにも感動してしまったのでと...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a867e1954b80e78cf146</id>
-    <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
-    <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T00:02:13+09:00</updated>
-    <summary type="html">Likes: 119&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
-原因はなんと、npmパッケージに含まれた .map（sourcemap）ファイル 。
-
-Bunでビルドしたときにデフォルトで生成されるsou...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:33729fdbbd54cdaac60e</id>
@@ -1311,6 +1311,22 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
 今回は『スラスラわかるネットワーク&amp;amp;TCP/IPのきほん』のChapter06 セキュリティ章...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a185ecd13bf4be6cf65c</id>
+    <title>【35歳未経験でも理解できた】Webシステムの全体像</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/a185ecd13bf4be6cf65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T10:31:49+09:00</updated>
+    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T10:31:49+09:00&lt;br/&gt;Updated: 2026-04-02T10:31:49+09:00&lt;br/&gt;はじめに
+こんにちは！
+35歳から未経験でエンジニアの世界に飛び込んだ者です。
+
+プログラミングの勉強を始めた当初、正直かなり曖昧な理解でした。
+
+「ネットに繋がってるから動く」
+「ボタンを押したら結果が出る」
+
+その裏側で何が起きているのかは、まったく意識していませんで...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:155f3b5a0dcde72fcd10</id>
     <title>ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/155f3b5a0dcde72fcd10?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1379,22 +1395,6 @@ PRUMについて気になった方は、
     <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T15:38:22+09:00&lt;br/&gt;Updated: 2026-03-07T15:38:22+09:00&lt;br/&gt;はじめに ― クラウドサービスが多すぎて混乱していた頃
 データエンジニアとして働き始めた頃、一番困ったのが 「クラウドサービスが多すぎて、何がなんだかわからない」 ということでした。
 EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a185ecd13bf4be6cf65c</id>
-    <title>【35歳未経験でも理解できた】Webシステムの全体像</title>
-    <link rel="alternate" href="https://qiita.com/wata-sho/items/a185ecd13bf4be6cf65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T10:31:49+09:00</updated>
-    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T10:31:49+09:00&lt;br/&gt;Updated: 2026-04-02T10:31:49+09:00&lt;br/&gt;はじめに
-こんにちは！
-35歳から未経験でエンジニアの世界に飛び込んだ者です。
-
-プログラミングの勉強を始めた当初、正直かなり曖昧な理解でした。
-
-「ネットに繋がってるから動く」
-「ボタンを押したら結果が出る」
-
-その裏側で何が起きているのかは、まったく意識していませんで...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8b870661f80d63499336</id>
@@ -1473,7 +1473,7 @@ C言語はアセンブラに翻訳されます。
     <title>現場で折れないマインドを作る3つのコツ</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/3a979c3041ea36c05f41?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-02T13:19:43+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T13:19:42+09:00&lt;br/&gt;Updated: 2026-04-02T13:19:43+09:00&lt;br/&gt;エラーが出るたびに凹む
+    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T13:19:42+09:00&lt;br/&gt;Updated: 2026-04-02T13:19:43+09:00&lt;br/&gt;エラーが出るたびに凹む
 レビュー結果が怖い...
 そんな風に悩んでいませんか？
 私も最初は毎日「才能がない」と嘆いていました。
@@ -1523,6 +1523,13 @@ C言語はアセンブラに翻訳されます。
 使い続けると...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6bb67ea89fb6e2074203</id>
+    <title>Geminiで学会発表レベルの綺麗なスライド資料を作ろう</title>
+    <link rel="alternate" href="https://qiita.com/zakuro/items/6bb67ea89fb6e2074203?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-31T10:27:52+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/zakuro&quot;&gt;zakuro&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T10:27:51+09:00&lt;br/&gt;Updated: 2026-03-31T10:27:52+09:00&lt;br/&gt;株式会社ブレインパッド プロダクト事業部でプロダクトアーキテクトをしている zakuro です。普段は Rtoaster GenAI をはじめとするプロダクトの技術開発業務をする一方で、レコメンドやマーケティング技術に対するR&amp;amp;Dや社会実装なども行っています。そのような仕事...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:22e6a3faea1bdcaefef3</id>
     <title>「新人にAI禁止令を出した組織」が、どのくらい開発フローでAIを使っているか</title>
     <link rel="alternate" href="https://qiita.com/WdknWdkn/items/22e6a3faea1bdcaefef3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1531,13 +1538,6 @@ C言語はアセンブラに翻訳されます。
 
 この記事を書いた経緯
 去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきまし...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6bb67ea89fb6e2074203</id>
-    <title>Geminiで学会発表レベルの綺麗なスライド資料を作ろう</title>
-    <link rel="alternate" href="https://qiita.com/zakuro/items/6bb67ea89fb6e2074203?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-31T10:27:52+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/zakuro&quot;&gt;zakuro&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T10:27:51+09:00&lt;br/&gt;Updated: 2026-03-31T10:27:52+09:00&lt;br/&gt;株式会社ブレインパッド プロダクト事業部でプロダクトアーキテクトをしている zakuro です。普段は Rtoaster GenAI をはじめとするプロダクトの技術開発業務をする一方で、レコメンドやマーケティング技術に対するR&amp;amp;Dや社会実装なども行っています。そのような仕事...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
