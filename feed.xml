@@ -592,6 +592,14 @@ PRUMについて気になった方は、
 新人エンジニアは、なぜ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d6c83ea50b82e1c2602c</id>
+    <title>100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-01T12:06:54+09:00</updated>
+    <summary type="html">Likes: 116&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T09:18:35+09:00&lt;br/&gt;Updated: 2026-04-01T12:06:54+09:00&lt;br/&gt;CLAUDE.mdは長いほど効くわけではありません。むしろ長いほどClaude Codeは従いにくくなります。
+100行書いたCLAUDE.mdと、35行に削って残りを.claude/rules/に分離したCLAUDE.md。同じ指示を出しても、後者の方がClaudeの出力...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:747faa3de771373a3e4f</id>
     <title>実務1年目の僕に伝えたい。完璧主義を捨てて「プロ」になるための行動4選</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/747faa3de771373a3e4f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -642,14 +650,6 @@ PRUMについて気になった方は、
 ▶ コーポレートサイト
 
 新人エンジニアは、なぜ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6c83ea50b82e1c2602c</id>
-    <title>100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-01T12:06:54+09:00</updated>
-    <summary type="html">Likes: 113&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T09:18:35+09:00&lt;br/&gt;Updated: 2026-04-01T12:06:54+09:00&lt;br/&gt;CLAUDE.mdは長いほど効くわけではありません。むしろ長いほどClaude Codeは従いにくくなります。
-100行書いたCLAUDE.mdと、35行に削って残りを.claude/rules/に分離したCLAUDE.md。同じ指示を出しても、後者の方がClaudeの出力...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ad15bfa383c98ae5cc36</id>
@@ -766,6 +766,16 @@ LLMのトークナイゼーシ...</summary>
 ワークフロ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a867e1954b80e78cf146</id>
+    <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
+    <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T00:02:13+09:00</updated>
+    <summary type="html">Likes: 97&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
+原因はなんと、npmパッケージに含まれた .map（sourcemap）ファイル 。
+
+Bunでビルドしたときにデフォルトで生成されるsou...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
     <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
     <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -796,16 +806,6 @@ https://kenta-matsuda.github.io/Kenta-Matsuda.github.io-aws-study/
 先日、AWS学習サイトのα版を公開しました。
 
 このα版では、AWS認定学習の「航路」を...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a867e1954b80e78cf146</id>
-    <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
-    <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T00:02:13+09:00</updated>
-    <summary type="html">Likes: 94&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
-原因はなんと、npmパッケージに含まれた .map（sourcemap）ファイル 。
-
-Bunでビルドしたときにデフォルトで生成されるsou...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:81ddcadc785a6498d10f</id>
@@ -1533,6 +1533,18 @@ C言語はアセンブラに翻訳されます。
 去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきまし...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3a979c3041ea36c05f41</id>
+    <title>現場で折れないマインドを作る3つのコツ</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/3a979c3041ea36c05f41?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T13:19:43+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T13:19:42+09:00&lt;br/&gt;Updated: 2026-04-02T13:19:43+09:00&lt;br/&gt;エラーが出るたびに凹む
+レビュー結果が怖い...
+そんな風に悩んでいませんか？
+私も最初は毎日「才能がない」と嘆いていました。
+でも、現場で長く活躍するために必要なのは、知識量と同じくらい 折れないマインド も大切になります。
+今回は私が学んだ折れないマインドを作るコツをお...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
     <title>LinuxエンジニアのためのWindowsセキュリティ再入門 〜 第1回：はじめに —— なぜ今、LinuxエンジニアがWindowsセキュリティを学ぶのか</title>
     <link rel="alternate" href="https://qiita.com/555hamano/items/e9e1dce9e2dbc574a93f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1545,18 +1557,6 @@ Linux prod-server 5.15.0 #1 SMP x86_64 GNU/Linux
 
 「Windowsのセキュリティ？ 情シスやPC管理者の仕事でしょ？」
 そう思っているLinu...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3a979c3041ea36c05f41</id>
-    <title>現場で折れないマインドを作る3つのコツ</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/3a979c3041ea36c05f41?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T13:19:43+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T13:19:42+09:00&lt;br/&gt;Updated: 2026-04-02T13:19:43+09:00&lt;br/&gt;エラーが出るたびに凹む
-レビュー結果が怖い...
-そんな風に悩んでいませんか？
-私も最初は毎日「才能がない」と嘆いていました。
-でも、現場で長く活躍するために必要なのは、知識量と同じくらい 折れないマインド も大切になります。
-今回は私が学んだ折れないマインドを作るコツをお...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6d26b6ffc11d163dfd71</id>
@@ -2165,6 +2165,17 @@ console.log(&quot;Hello&quot;)
 と書く一方で、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c78839d3f58ae8db3a0e</id>
+    <title>AIの情報を追うこと自体が非効率になっている気がする</title>
+    <link rel="alternate" href="https://qiita.com/tmaru-eng/items/c78839d3f58ae8db3a0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-31T17:32:23+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tmaru-eng&quot;&gt;tmaru-eng&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T17:32:22+09:00&lt;br/&gt;Updated: 2026-03-31T17:32:23+09:00&lt;br/&gt;はじめに
+ご無沙汰してます。@tmaru-engです。
+ここ最近、AI関連技術に対してモヤモヤを感じることが増えてきたので、一度言語化してみようと思いました。
+生成AIが一気に身近になってきたこの2〜3年ほど、AIの情報をかなり追ってきました。
+新しいモデル、ツール、ベン...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9eedb6b88eb84042e699</id>
     <title>ナレッジグラフ×LLM実践入門 ── RAGの次のアーキテクチャを理解する</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/9eedb6b88eb84042e699?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2194,17 +2205,6 @@ RAGは外部知識をLLMに注入する手法として定着しました。
     <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/harupython&quot;&gt;harupython&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T08:41:18+09:00&lt;br/&gt;Updated: 2026-02-09T08:41:18+09:00&lt;br/&gt;はじめに
 僕は都内の高校に通う学生で、普段はPythonで自作ツールを作ったり、技術記事を書いたりしている。先日、学校の課題で「複数のECサイトの公開価格データを比較分析する」必要があったのだが、手動でやるには量が多すぎた。
 スクレイピングスクリプトを自作したものの、案の...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c78839d3f58ae8db3a0e</id>
-    <title>AIの情報を追うこと自体が非効率になっている気がする</title>
-    <link rel="alternate" href="https://qiita.com/tmaru-eng/items/c78839d3f58ae8db3a0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-31T17:32:23+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tmaru-eng&quot;&gt;tmaru-eng&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T17:32:22+09:00&lt;br/&gt;Updated: 2026-03-31T17:32:23+09:00&lt;br/&gt;はじめに
-ご無沙汰してます。@tmaru-engです。
-ここ最近、AI関連技術に対してモヤモヤを感じることが増えてきたので、一度言語化してみようと思いました。
-生成AIが一気に身近になってきたこの2〜3年ほど、AIの情報をかなり追ってきました。
-新しいモデル、ツール、ベン...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d2694937d2ebcd442060</id>
