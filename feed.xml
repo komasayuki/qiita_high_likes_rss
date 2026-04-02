@@ -425,7 +425,7 @@ Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使�
     <title>100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-01T12:06:54+09:00</updated>
-    <summary type="html">Likes: 129&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T09:18:35+09:00&lt;br/&gt;Updated: 2026-04-01T12:06:54+09:00&lt;br/&gt;CLAUDE.mdは長いほど効くわけではありません。むしろ長いほどClaude Codeは従いにくくなります。
+    <summary type="html">Likes: 130&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T09:18:35+09:00&lt;br/&gt;Updated: 2026-04-01T12:06:54+09:00&lt;br/&gt;CLAUDE.mdは長いほど効くわけではありません。むしろ長いほどClaude Codeは従いにくくなります。
 100行書いたCLAUDE.mdと、35行に削って残りを.claude/rules/に分離したCLAUDE.md。同じ指示を出しても、後者の方がClaudeの出力...</summary>
   </entry>
   <entry>
@@ -624,6 +624,16 @@ Reactにはデザインパターンとしていくつかの代表的なものが
 HOC(高...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a867e1954b80e78cf146</id>
+    <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
+    <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T00:02:13+09:00</updated>
+    <summary type="html">Likes: 114&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
+原因はなんと、npmパッケージに含まれた .map（sourcemap）ファイル 。
+
+Bunでビルドしたときにデフォルトで生成されるsou...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ac1e447ba9996b5543da</id>
     <title>未経験から3年で感じたこれからのキャリアを築くための行動3選</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/ac1e447ba9996b5543da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -658,16 +668,6 @@ PRUMについて気になった方は、
     <updated>2026-03-24T10:35:47+09:00</updated>
     <summary type="html">Likes: 113&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T10:35:47+09:00&lt;br/&gt;Updated: 2026-03-24T10:35:47+09:00&lt;br/&gt;AGENTS.md は「AIコーディングエージェント向けの README」です。
 リポジトリにこのファイルを置くことで、Codex CLI・Cursor・GitHub Copilot など多くのツールが共通の指示を読み取れます。ただし、ツールごとに対応状況や読み込み条件には...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a867e1954b80e78cf146</id>
-    <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
-    <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T00:02:13+09:00</updated>
-    <summary type="html">Likes: 112&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
-原因はなんと、npmパッケージに含まれた .map（sourcemap）ファイル 。
-
-Bunでビルドしたときにデフォルトで生成されるsou...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cace9602e4eaea995cc9</id>
@@ -2093,6 +2093,17 @@ llama.cpp や Open WebUI を使ったロー...</summary>
 去年(2025年)にAZ-104、SOA、SAA、SAP、ANSなどのいわゆるアソシエイトからプロフェッショナルあた...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c78839d3f58ae8db3a0e</id>
+    <title>AIの情報を追うこと自体が非効率になっている気がする</title>
+    <link rel="alternate" href="https://qiita.com/tmaru-eng/items/c78839d3f58ae8db3a0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-31T17:32:23+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tmaru-eng&quot;&gt;tmaru-eng&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T17:32:22+09:00&lt;br/&gt;Updated: 2026-03-31T17:32:23+09:00&lt;br/&gt;はじめに
+ご無沙汰してます。@tmaru-engです。
+ここ最近、AI関連技術に対してモヤモヤを感じることが増えてきたので、一度言語化してみようと思いました。
+生成AIが一気に身近になってきたこの2〜3年ほど、AIの情報をかなり追ってきました。
+新しいモデル、ツール、ベン...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:08449740998cff7469df</id>
     <title>同じ処理=共通化ではダメ？共通化の罠</title>
     <link rel="alternate" href="https://qiita.com/Gaakuu/items/08449740998cff7469df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2163,17 +2174,6 @@ JavaScript
 console.log(&quot;Hello&quot;)
 
 と書く一方で、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c78839d3f58ae8db3a0e</id>
-    <title>AIの情報を追うこと自体が非効率になっている気がする</title>
-    <link rel="alternate" href="https://qiita.com/tmaru-eng/items/c78839d3f58ae8db3a0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-31T17:32:23+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tmaru-eng&quot;&gt;tmaru-eng&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T17:32:22+09:00&lt;br/&gt;Updated: 2026-03-31T17:32:23+09:00&lt;br/&gt;はじめに
-ご無沙汰してます。@tmaru-engです。
-ここ最近、AI関連技術に対してモヤモヤを感じることが増えてきたので、一度言語化してみようと思いました。
-生成AIが一気に身近になってきたこの2〜3年ほど、AIの情報をかなり追ってきました。
-新しいモデル、ツール、ベン...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9eedb6b88eb84042e699</id>
