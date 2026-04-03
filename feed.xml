@@ -283,6 +283,16 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
 そういった時にMarkdownのようなプレーンテキストで書きたいと心の底から思いますし、AI時代にはプレーンテキストの方がマッチしているでしょ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a867e1954b80e78cf146</id>
+    <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
+    <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T00:02:13+09:00</updated>
+    <summary type="html">Likes: 160&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
+原因はなんと、npmパッケージに含まれた .map（sourcemap）ファイル 。
+
+Bunでビルドしたときにデフォルトで生成されるsou...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
     <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -315,16 +325,6 @@ PRUMについて気になった方は、
 ▶ コーポレートサイト
 
 「で、&quot;結局&quot;今どんな...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a867e1954b80e78cf146</id>
-    <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
-    <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T00:02:13+09:00</updated>
-    <summary type="html">Likes: 158&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
-原因はなんと、npmパッケージに含まれた .map（sourcemap）ファイル 。
-
-Bunでビルドしたときにデフォルトで生成されるsou...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:47fb89fb6a84d9976d36</id>
