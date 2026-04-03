@@ -245,7 +245,7 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
     <title>100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-01T12:06:54+09:00</updated>
-    <summary type="html">Likes: 168&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T09:18:35+09:00&lt;br/&gt;Updated: 2026-04-01T12:06:54+09:00&lt;br/&gt;CLAUDE.mdは長いほど効くわけではありません。むしろ長いほどClaude Codeは従いにくくなります。
+    <summary type="html">Likes: 169&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T09:18:35+09:00&lt;br/&gt;Updated: 2026-04-01T12:06:54+09:00&lt;br/&gt;CLAUDE.mdは長いほど効くわけではありません。むしろ長いほどClaude Codeは従いにくくなります。
 100行書いたCLAUDE.mdと、35行に削って残りを.claude/rules/に分離したCLAUDE.md。同じ指示を出しても、後者の方がClaudeの出力...</summary>
   </entry>
   <entry>
@@ -385,7 +385,7 @@ Professor Answers Coding Questions | Tech Sup...</summary>
     <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
     <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-02T00:02:13+09:00</updated>
-    <summary type="html">Likes: 139&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
+    <summary type="html">Likes: 141&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
 原因はなんと、npmパッケージに含まれた .map（sourcemap）ファイル 。
 
 Bunでビルドしたときにデフォルトで生成されるsou...</summary>
@@ -1034,6 +1034,22 @@ AIの賢さとツールが洗練されてきました
 Opus4.6やGPT-...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a185ecd13bf4be6cf65c</id>
+    <title>【35歳未経験でも理解できた】Webシステムの全体像</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/a185ecd13bf4be6cf65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T10:31:49+09:00</updated>
+    <summary type="html">Likes: 76&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T10:31:49+09:00&lt;br/&gt;Updated: 2026-04-02T10:31:49+09:00&lt;br/&gt;はじめに
+こんにちは！
+35歳から未経験でエンジニアの世界に飛び込んだ者です。
+
+プログラミングの勉強を始めた当初、正直かなり曖昧な理解でした。
+
+「ネットに繋がってるから動く」
+「ボタンを押したら結果が出る」
+
+その裏側で何が起きているのかは、まったく意識していませんで...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c05c3aed3bf8e46a7ddb</id>
     <title>Claude Codeで「Issue起票→並列開発→PR作成」を全自動化したら、開発速度が異次元になった</title>
     <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/c05c3aed3bf8e46a7ddb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1066,22 +1082,6 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
 サブエージェントを活用しよう
 
 自分も一度、デフォルト設定でバイブコーディングをしてみて「こんなもんか」と失望したも...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a185ecd13bf4be6cf65c</id>
-    <title>【35歳未経験でも理解できた】Webシステムの全体像</title>
-    <link rel="alternate" href="https://qiita.com/wata-sho/items/a185ecd13bf4be6cf65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T10:31:49+09:00</updated>
-    <summary type="html">Likes: 75&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T10:31:49+09:00&lt;br/&gt;Updated: 2026-04-02T10:31:49+09:00&lt;br/&gt;はじめに
-こんにちは！
-35歳から未経験でエンジニアの世界に飛び込んだ者です。
-
-プログラミングの勉強を始めた当初、正直かなり曖昧な理解でした。
-
-「ネットに繋がってるから動く」
-「ボタンを押したら結果が出る」
-
-その裏側で何が起きているのかは、まったく意識していませんで...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1d84037b3b9a499167de</id>
@@ -1481,6 +1481,14 @@ C言語はアセンブラに翻訳されます。
 ア...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5e64037cc452c5d497fa</id>
+    <title>Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/5e64037cc452c5d497fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T12:30:47+09:00</updated>
+    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T12:17:55+09:00&lt;br/&gt;Updated: 2026-04-02T12:30:47+09:00&lt;br/&gt;Claude Code は Anthropic 公式の CLI エージェントです。ターミナルから直接 Claude を呼び出し、コード生成・編集・デバッグ・Git 操作・プロジェクト管理まで一気通貫で行えます。
+この記事では 2026 年 4 月時点の全機能をカテゴリ別に整...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6bb67ea89fb6e2074203</id>
     <title>Geminiで学会発表レベルの綺麗なスライド資料を作ろう</title>
     <link rel="alternate" href="https://qiita.com/zakuro/items/6bb67ea89fb6e2074203?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1530,12 +1538,15 @@ C言語はアセンブラに翻訳されます。
 使い続けると...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5e64037cc452c5d497fa</id>
-    <title>Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/5e64037cc452c5d497fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T12:30:47+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T12:17:55+09:00&lt;br/&gt;Updated: 2026-04-02T12:30:47+09:00&lt;br/&gt;Claude Code は Anthropic 公式の CLI エージェントです。ターミナルから直接 Claude を呼び出し、コード生成・編集・デバッグ・Git 操作・プロジェクト管理まで一気通貫で行えます。
-この記事では 2026 年 4 月時点の全機能をカテゴリ別に整...</summary>
+    <id>tag:qiita.com,2026:c78839d3f58ae8db3a0e</id>
+    <title>AIの情報を追うこと自体が非効率になっている気がする</title>
+    <link rel="alternate" href="https://qiita.com/tmaru-eng/items/c78839d3f58ae8db3a0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-31T17:32:23+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tmaru-eng&quot;&gt;tmaru-eng&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T17:32:22+09:00&lt;br/&gt;Updated: 2026-03-31T17:32:23+09:00&lt;br/&gt;はじめに
+ご無沙汰してます。@tmaru-engです。
+ここ最近、AI関連技術に対してモヤモヤを感じることが増えてきたので、一度言語化してみようと思いました。
+生成AIが一気に身近になってきたこの2〜3年ほど、AIの情報をかなり追ってきました。
+新しいモデル、ツール、ベン...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:22e6a3faea1bdcaefef3</id>
@@ -1546,17 +1557,6 @@ C言語はアセンブラに翻訳されます。
 
 この記事を書いた経緯
 去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきまし...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c78839d3f58ae8db3a0e</id>
-    <title>AIの情報を追うこと自体が非効率になっている気がする</title>
-    <link rel="alternate" href="https://qiita.com/tmaru-eng/items/c78839d3f58ae8db3a0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-31T17:32:23+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tmaru-eng&quot;&gt;tmaru-eng&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T17:32:22+09:00&lt;br/&gt;Updated: 2026-03-31T17:32:23+09:00&lt;br/&gt;はじめに
-ご無沙汰してます。@tmaru-engです。
-ここ最近、AI関連技術に対してモヤモヤを感じることが増えてきたので、一度言語化してみようと思いました。
-生成AIが一気に身近になってきたこの2〜3年ほど、AIの情報をかなり追ってきました。
-新しいモデル、ツール、ベン...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
@@ -1944,6 +1944,16 @@ Win...</summary>
 今回はその続きとして、より「現場」に近いシチュエーシ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f6fa910cb0c7efe2defc</id>
+    <title>Claude Codeのコード流出から考える開発者の倫理</title>
+    <link rel="alternate" href="https://qiita.com/mosaxiv/items/f6fa910cb0c7efe2defc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T15:26:39+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mosaxiv&quot;&gt;mosaxiv&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T19:35:29+09:00&lt;br/&gt;Updated: 2026-04-02T15:26:39+09:00&lt;br/&gt;はじめに
+Anthropic社のAIコーディングツール「Claude Code」のソースコードが流出しました。
+npmパッケージのリリース時にソースマップファイル（.map）を含めてしまった、という人的ミスが原因です。
+約1,900ファイル、51万2,000行ものType...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5f66b2b289994e4a0256</id>
     <title>AIに「いい感じに作って」と言うのをやめたら、開発が回り出した — Spec-Driven Development 実践ガイド</title>
     <link rel="alternate" href="https://qiita.com/akira_papa_AI/items/5f66b2b289994e4a0256?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1974,16 +1984,6 @@ AIに「いい感じに作って」と言って、本当に「いい感じ」の
 今回は&quot;ちゃんと業務で使えるようになるための&quot;というテーマで、npmを取り上げたいと思います。
 私自身、業務でもnpmを多用します。
 ただ、新卒で案件に配属された私には、単に&quot;パッケージをインストールできるもの&quot;という理解より、一歩踏み込んだ理解...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f6fa910cb0c7efe2defc</id>
-    <title>Claude Codeのコード流出から考える開発者の倫理</title>
-    <link rel="alternate" href="https://qiita.com/mosaxiv/items/f6fa910cb0c7efe2defc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T15:26:39+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mosaxiv&quot;&gt;mosaxiv&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T19:35:29+09:00&lt;br/&gt;Updated: 2026-04-02T15:26:39+09:00&lt;br/&gt;はじめに
-Anthropic社のAIコーディングツール「Claude Code」のソースコードが流出しました。
-npmパッケージのリリース時にソースマップファイル（.map）を含めてしまった、という人的ミスが原因です。
-約1,900ファイル、51万2,000行ものType...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f6b1680ede88de76d372</id>
