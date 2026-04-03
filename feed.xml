@@ -333,7 +333,7 @@ GMOコネクトの永田です。
     <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
     <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-02T00:02:13+09:00</updated>
-    <summary type="html">Likes: 152&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
+    <summary type="html">Likes: 154&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
 原因はなんと、npmパッケージに含まれた .map（sourcemap）ファイル 。
 
 Bunでビルドしたときにデフォルトで生成されるsou...</summary>
@@ -932,6 +932,14 @@ xls...</summary>
 残業が続くと、つい口にしてしまうこの言葉。私も以前は同じでした。月60〜80時間の残業に追われ、帰宅すれば疲れ果てて寝るだけの日々。「時間がない」...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5e64037cc452c5d497fa</id>
+    <title>Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/5e64037cc452c5d497fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T12:30:47+09:00</updated>
+    <summary type="html">Likes: 83&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T12:17:55+09:00&lt;br/&gt;Updated: 2026-04-02T12:30:47+09:00&lt;br/&gt;Claude Code は Anthropic 公式の CLI エージェントです。ターミナルから直接 Claude を呼び出し、コード生成・編集・デバッグ・Git 操作・プロジェクト管理まで一気通貫で行えます。
+この記事では 2026 年 4 月時点の全機能をカテゴリ別に整...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1592158be6ca86837429</id>
     <title>未経験からITエンジニアを目指しているけど、内定先を決めきれない人へ。後悔しにくい考え方を整理してみる</title>
     <link rel="alternate" href="https://qiita.com/prum_iha/items/1592158be6ca86837429?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -972,28 +980,11 @@ xls...</summary>
 今回は私が学んだ折れないマインドを作るコツをお...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5e64037cc452c5d497fa</id>
-    <title>Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/5e64037cc452c5d497fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T12:30:47+09:00</updated>
-    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T12:17:55+09:00&lt;br/&gt;Updated: 2026-04-02T12:30:47+09:00&lt;br/&gt;Claude Code は Anthropic 公式の CLI エージェントです。ターミナルから直接 Claude を呼び出し、コード生成・編集・デバッグ・Git 操作・プロジェクト管理まで一気通貫で行えます。
-この記事では 2026 年 4 月時点の全機能をカテゴリ別に整...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:76a4d9dac74e70bceebb</id>
-    <title>生成AIで古（いにしえ）のFORTRANコードに挑戦する</title>
-    <link rel="alternate" href="https://qiita.com/cometscome_phys/items/76a4d9dac74e70bceebb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-17T21:11:49+09:00</updated>
-    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/cometscome_phys&quot;&gt;cometscome_phys&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T19:12:14+09:00&lt;br/&gt;Updated: 2026-03-17T21:11:49+09:00&lt;br/&gt;古（いにしえ）のFORTRANコード
-ChatGPT5.4 を使います。MacのCodexアプリを使います(5.4 Codexではなく5.4でした。)。
-このWebサイトでは、物理学で使う計算手法のコードが公開されています。FORTRANです。DMFTと呼ばれる手法の超有...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:a185ecd13bf4be6cf65c</id>
     <title>【35歳未経験でも理解できた】Webシステムの全体像</title>
     <link rel="alternate" href="https://qiita.com/wata-sho/items/a185ecd13bf4be6cf65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-02T10:31:49+09:00</updated>
-    <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T10:31:49+09:00&lt;br/&gt;Updated: 2026-04-02T10:31:49+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T10:31:49+09:00&lt;br/&gt;Updated: 2026-04-02T10:31:49+09:00&lt;br/&gt;はじめに
 こんにちは！
 35歳から未経験でエンジニアの世界に飛び込んだ者です。
 
@@ -1003,6 +994,15 @@ ChatGPT5.4 を使います。MacのCodexアプリを使います(5.4 Codexでは
 「ボタンを押したら結果が出る」
 
 その裏側で何が起きているのかは、まったく意識していませんで...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:76a4d9dac74e70bceebb</id>
+    <title>生成AIで古（いにしえ）のFORTRANコードに挑戦する</title>
+    <link rel="alternate" href="https://qiita.com/cometscome_phys/items/76a4d9dac74e70bceebb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-17T21:11:49+09:00</updated>
+    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/cometscome_phys&quot;&gt;cometscome_phys&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T19:12:14+09:00&lt;br/&gt;Updated: 2026-03-17T21:11:49+09:00&lt;br/&gt;古（いにしえ）のFORTRANコード
+ChatGPT5.4 を使います。MacのCodexアプリを使います(5.4 Codexではなく5.4でした。)。
+このWebサイトでは、物理学で使う計算手法のコードが公開されています。FORTRANです。DMFTと呼ばれる手法の超有...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:48ede59ebe33b4b774ac</id>
@@ -1385,6 +1385,19 @@ Claude Codeは2025年2月のリリース以来、ターミナルから直接AI�
 2025年10月にプラグインシステムが公開ベータになり、MCP（Model Contex...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:406b35769eec8c0ce0f4</id>
+    <title>“作業者”で終わらないために｜未経験エンジニアが最初に変えるべき考え方</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/406b35769eec8c0ce0f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-03T12:28:57+09:00</updated>
+    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-03T12:28:56+09:00&lt;br/&gt;Updated: 2026-04-03T12:28:57+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている ひとみ です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+“作業者...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:67d68b074c45d10f0307</id>
     <title>「やりたいこと」がなくてもいい！ - Canから始めるエンジニアのキャリア戦略 -</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/67d68b074c45d10f0307?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1429,17 +1442,16 @@ Claude CodeなどのAIエージェントをいつでもどこでも動かした�
 いつの間にか自宅インフラエンジニアになり、最高のAIエ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:406b35769eec8c0ce0f4</id>
-    <title>“作業者”で終わらないために｜未経験エンジニアが最初に変えるべき考え方</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/406b35769eec8c0ce0f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-03T12:28:57+09:00</updated>
-    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-03T12:28:56+09:00&lt;br/&gt;Updated: 2026-04-03T12:28:57+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている ひとみ です。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
+    <id>tag:qiita.com,2026:1c443b123080dcd994f1</id>
+    <title>【35歳未経験でも理解できた】WWWの基礎</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/1c443b123080dcd994f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-03T10:21:16+09:00</updated>
+    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-03T10:21:16+09:00&lt;br/&gt;Updated: 2026-04-03T10:21:16+09:00&lt;br/&gt;『WWWの基礎〜Webの裏側、完全理解（した気分）〜』
 
-“作業者...</summary>
+この記事はこんな方におすすめです！
+「Web」と「インターネット」の違いをふんわりとしか分かっていない方
+　URI、HTTP、HTMLなど、アルファベットの連続で脳がフリーズしがちな方
+　Web開発の勉強を始めた...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6bb67ea89fb6e2074203</id>
@@ -1489,18 +1501,6 @@ CPUの動作に詳しくなる
 C言語はアセンブラに翻訳されます。
 
 ア...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1c443b123080dcd994f1</id>
-    <title>【35歳未経験でも理解できた】WWWの基礎</title>
-    <link rel="alternate" href="https://qiita.com/wata-sho/items/1c443b123080dcd994f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-03T10:21:16+09:00</updated>
-    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-03T10:21:16+09:00&lt;br/&gt;Updated: 2026-04-03T10:21:16+09:00&lt;br/&gt;『WWWの基礎〜Webの裏側、完全理解（した気分）〜』
-
-この記事はこんな方におすすめです！
-「Web」と「インターネット」の違いをふんわりとしか分かっていない方
-　URI、HTTP、HTMLなど、アルファベットの連続で脳がフリーズしがちな方
-　Web開発の勉強を始めた...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c78839d3f58ae8db3a0e</id>
