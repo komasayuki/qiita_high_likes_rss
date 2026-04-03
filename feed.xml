@@ -1900,6 +1900,16 @@ Claude Codeを日常的に使っているのですが、ここ1年ほどでSkill
 Win...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f6fa910cb0c7efe2defc</id>
+    <title>Claude Codeのコード流出から考える開発者の倫理</title>
+    <link rel="alternate" href="https://qiita.com/mosaxiv/items/f6fa910cb0c7efe2defc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T15:26:39+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mosaxiv&quot;&gt;mosaxiv&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T19:35:29+09:00&lt;br/&gt;Updated: 2026-04-02T15:26:39+09:00&lt;br/&gt;はじめに
+Anthropic社のAIコーディングツール「Claude Code」のソースコードが流出しました。
+npmパッケージのリリース時にソースマップファイル（.map）を含めてしまった、という人的ミスが原因です。
+約1,900ファイル、51万2,000行ものType...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:48a51c38ae5a87788954</id>
     <title>Proxmox + Ollama + Continueで作るAIアシスタント基盤</title>
     <link rel="alternate" href="https://qiita.com/ohtsuka-shota/items/48a51c38ae5a87788954?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1919,16 +1929,6 @@ Win...</summary>
     <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuchi_a&quot;&gt;kimuchi_a&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T19:16:12+09:00&lt;br/&gt;Updated: 2026-04-03T00:19:55+09:00&lt;br/&gt;はじめに：新卒、焦らなくてもいいかも。
 過去の投稿を読んでくださった方は「何回言うねん」と思うかもしれませんが、  私はコーディング未経験の新卒としてこの会社に入社しました。
 周りは優秀な人たちばかりで、同じくコーディング未経験でも、「明らかに自分よりできる」人がごろごろ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f6fa910cb0c7efe2defc</id>
-    <title>Claude Codeのコード流出から考える開発者の倫理</title>
-    <link rel="alternate" href="https://qiita.com/mosaxiv/items/f6fa910cb0c7efe2defc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T15:26:39+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mosaxiv&quot;&gt;mosaxiv&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T19:35:29+09:00&lt;br/&gt;Updated: 2026-04-02T15:26:39+09:00&lt;br/&gt;はじめに
-Anthropic社のAIコーディングツール「Claude Code」のソースコードが流出しました。
-npmパッケージのリリース時にソースマップファイル（.map）を含めてしまった、という人的ミスが原因です。
-約1,900ファイル、51万2,000行ものType...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1492b77916ce3061cadf</id>
