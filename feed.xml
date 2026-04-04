@@ -244,7 +244,7 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
     <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
     <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-02T00:02:13+09:00</updated>
-    <summary type="html">Likes: 170&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
+    <summary type="html">Likes: 171&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
 原因はなんと、npmパッケージに含まれた .map（sourcemap）ファイル 。
 
 Bunでビルドしたときにデフォルトで生成されるsou...</summary>
@@ -649,6 +649,14 @@ PRUMについて気になった方は、
 リポジトリにこのファイルを置くことで、Codex CLI・Cursor・GitHub Copilot など多くのツールが共通の指示を読み取れます。ただし、ツールごとに対応状況や読み込み条件には...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5e64037cc452c5d497fa</id>
+    <title>Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/5e64037cc452c5d497fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T12:30:47+09:00</updated>
+    <summary type="html">Likes: 111&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T12:17:55+09:00&lt;br/&gt;Updated: 2026-04-02T12:30:47+09:00&lt;br/&gt;Claude Code は Anthropic 公式の CLI エージェントです。ターミナルから直接 Claude を呼び出し、コード生成・編集・デバッグ・Git 操作・プロジェクト管理まで一気通貫で行えます。
+この記事では 2026 年 4 月時点の全機能をカテゴリ別に整...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cace9602e4eaea995cc9</id>
     <title>Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/cace9602e4eaea995cc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -656,14 +664,6 @@ PRUMについて気になった方は、
     <summary type="html">Likes: 108&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T11:43:54+09:00&lt;br/&gt;Updated: 2026-02-19T12:28:24+09:00&lt;br/&gt;はじめに
 2026年1月、Anthropicが「The Complete Guide to Building Skills for Claude」という32ページのPDFを公開しました。
 スキルとは、Claudeに特定のタスクを一貫して実行させるための仕組みです。Mar...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5e64037cc452c5d497fa</id>
-    <title>Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/5e64037cc452c5d497fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T12:30:47+09:00</updated>
-    <summary type="html">Likes: 107&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T12:17:55+09:00&lt;br/&gt;Updated: 2026-04-02T12:30:47+09:00&lt;br/&gt;Claude Code は Anthropic 公式の CLI エージェントです。ターミナルから直接 Claude を呼び出し、コード生成・編集・デバッグ・Git 操作・プロジェクト管理まで一気通貫で行えます。
-この記事では 2026 年 4 月時点の全機能をカテゴリ別に整...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ee5c69831501251a0ec0</id>
@@ -951,6 +951,18 @@ xls...</summary>
 未経験からの転職は...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3a979c3041ea36c05f41</id>
+    <title>現場で折れないマインドを作る3つのコツ</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/3a979c3041ea36c05f41?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T13:19:43+09:00</updated>
+    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T13:19:42+09:00&lt;br/&gt;Updated: 2026-04-02T13:19:43+09:00&lt;br/&gt;エラーが出るたびに凹む
+レビュー結果が怖い...
+そんな風に悩んでいませんか？
+私も最初は毎日「才能がない」と嘆いていました。
+でも、現場で長く活躍するために必要なのは、知識量と同じくらい 折れないマインド も大切になります。
+今回は私が学んだ折れないマインドを作るコツをお...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ff44f2069e3331ab9c0f</id>
     <title>【35歳未経験でも理解できた】「現代の技術の学び方」</title>
     <link rel="alternate" href="https://qiita.com/wata-sho/items/ff44f2069e3331ab9c0f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -968,23 +980,11 @@ xls...</summary>
 35歳から未経験でエ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3a979c3041ea36c05f41</id>
-    <title>現場で折れないマインドを作る3つのコツ</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/3a979c3041ea36c05f41?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T13:19:43+09:00</updated>
-    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T13:19:42+09:00&lt;br/&gt;Updated: 2026-04-02T13:19:43+09:00&lt;br/&gt;エラーが出るたびに凹む
-レビュー結果が怖い...
-そんな風に悩んでいませんか？
-私も最初は毎日「才能がない」と嘆いていました。
-でも、現場で長く活躍するために必要なのは、知識量と同じくらい 折れないマインド も大切になります。
-今回は私が学んだ折れないマインドを作るコツをお...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:a185ecd13bf4be6cf65c</id>
     <title>【35歳未経験でも理解できた】Webシステムの全体像</title>
     <link rel="alternate" href="https://qiita.com/wata-sho/items/a185ecd13bf4be6cf65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-02T10:31:49+09:00</updated>
-    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T10:31:49+09:00&lt;br/&gt;Updated: 2026-04-02T10:31:49+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T10:31:49+09:00&lt;br/&gt;Updated: 2026-04-02T10:31:49+09:00&lt;br/&gt;はじめに
 こんにちは！
 35歳から未経験でエンジニアの世界に飛び込んだ者です。
 
@@ -1285,6 +1285,19 @@ Pythonを使い始めてはや十数年。他の言語も覚えないと思い�
 メールの確認、Slackの未返信チェック、Notionでのタ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:406b35769eec8c0ce0f4</id>
+    <title>“作業者”で終わらないために｜未経験エンジニアが最初に変えるべき考え方</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/406b35769eec8c0ce0f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-03T12:28:57+09:00</updated>
+    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-03T12:28:56+09:00&lt;br/&gt;Updated: 2026-04-03T12:28:57+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている ひとみ です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+“作業者...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:df077776b293163e0a42</id>
     <title>【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策</title>
     <link rel="alternate" href="https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1336,19 +1349,6 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
     <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa_tech_0326&quot;&gt;masa_tech_0326&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T11:16:12+09:00&lt;br/&gt;Updated: 2026-02-12T12:11:14+09:00&lt;br/&gt;はじめに
 最近技術書を毎日30分以上読むようにしているのですが、記事としてアウトプットしないと、自分の中で定着しない気がしたので、読んで学んだことを共有していきたいと思います。
 今回は『スラスラわかるネットワーク&amp;amp;TCP/IPのきほん』のChapter06 セキュリティ章...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:406b35769eec8c0ce0f4</id>
-    <title>“作業者”で終わらないために｜未経験エンジニアが最初に変えるべき考え方</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/406b35769eec8c0ce0f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-03T12:28:57+09:00</updated>
-    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-03T12:28:56+09:00&lt;br/&gt;Updated: 2026-04-03T12:28:57+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている ひとみ です。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-“作業者...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:155f3b5a0dcde72fcd10</id>
