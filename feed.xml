@@ -222,6 +222,16 @@ Webアプリケーションのアーキテクチャは、時代とともに構�
 そんな中、この前本屋で手に取った『アウトプット大全』という本を読...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a867e1954b80e78cf146</id>
+    <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
+    <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T00:02:13+09:00</updated>
+    <summary type="html">Likes: 177&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
+原因はなんと、npmパッケージに含まれた .map（sourcemap）ファイル 。
+
+Bunでビルドしたときにデフォルトで生成されるsou...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d6c83ea50b82e1c2602c</id>
     <title>100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -238,16 +248,6 @@ Webアプリケーションのアーキテクチャは、時代とともに構�
 AIにコードを丸投げし、中身が分からないまま過ごす日々が不安
 こんなことを思って日々過ごしていませんか？
 そんな方に僕が現場を経験して気づいた、技術の「表面」ではなく「本質」を掴んで成長を加速させるためのヒントを、僕の失敗談を交えつつお伝えします...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a867e1954b80e78cf146</id>
-    <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
-    <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T00:02:13+09:00</updated>
-    <summary type="html">Likes: 172&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
-原因はなんと、npmパッケージに含まれた .map（sourcemap）ファイル 。
-
-Bunでビルドしたときにデフォルトで生成されるsou...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:48f13332305338720524</id>
@@ -519,6 +519,14 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 プロジェクトの背景を説明し直す。コーディング規約を再度伝える。さっき試して失敗したアプローチをま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5e64037cc452c5d497fa</id>
+    <title>Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/5e64037cc452c5d497fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T12:30:47+09:00</updated>
+    <summary type="html">Likes: 122&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T12:17:55+09:00&lt;br/&gt;Updated: 2026-04-02T12:30:47+09:00&lt;br/&gt;Claude Code は Anthropic 公式の CLI エージェントです。ターミナルから直接 Claude を呼び出し、コード生成・編集・デバッグ・Git 操作・プロジェクト管理まで一気通貫で行えます。
+この記事では 2026 年 4 月時点の全機能をカテゴリ別に整...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:38cedf1f96e981b4f11d</id>
     <title>「オンボーディングが早い」と言われるためにやっていること</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/38cedf1f96e981b4f11d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -639,14 +647,6 @@ PRUMについて気になった方は、
 ▶ コーポレートサイト
 
 新人エンジニアは、なぜ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5e64037cc452c5d497fa</id>
-    <title>Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/5e64037cc452c5d497fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T12:30:47+09:00</updated>
-    <summary type="html">Likes: 113&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T12:17:55+09:00&lt;br/&gt;Updated: 2026-04-02T12:30:47+09:00&lt;br/&gt;Claude Code は Anthropic 公式の CLI エージェントです。ターミナルから直接 Claude を呼び出し、コード生成・編集・デバッグ・Git 操作・プロジェクト管理まで一気通貫で行えます。
-この記事では 2026 年 4 月時点の全機能をカテゴリ別に整...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ad15bfa383c98ae5cc36</id>
@@ -1162,6 +1162,19 @@ HTML/画像を根拠にMark...</summary>
 2026年3月、海外でまさにこの事態が発生しました。個人開発者のS3バケットがDDoS攻撃を受け、3日間で160TBのデータ転送が発生。結果...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:406b35769eec8c0ce0f4</id>
+    <title>“作業者”で終わらないために｜未経験エンジニアが最初に変えるべき考え方</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/406b35769eec8c0ce0f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-03T12:28:57+09:00</updated>
+    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-03T12:28:56+09:00&lt;br/&gt;Updated: 2026-04-03T12:28:57+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている ひとみ です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+“作業者...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ae0f16a088f71639e50f</id>
     <title>Draw.ioをプロンプトとして実行すると便利かもしれない</title>
     <link rel="alternate" href="https://qiita.com/ShotaOki/items/ae0f16a088f71639e50f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1249,19 +1262,6 @@ GPUが積まれた高性能マシン。
     <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yosim&quot;&gt;yosim&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T11:25:59+09:00&lt;br/&gt;Updated: 2026-02-03T11:25:59+09:00&lt;br/&gt;最近インパクトの大きいApple Silicon向けフレームワークが出現しました。「vllm-mlx」です。
 
 　一言で言うとvllmライクなインターフェースをApple Silicon向けに提供するもので、MacのGPU（Metal/MPS）アクセラレーションによる...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:406b35769eec8c0ce0f4</id>
-    <title>“作業者”で終わらないために｜未経験エンジニアが最初に変えるべき考え方</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/406b35769eec8c0ce0f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-03T12:28:57+09:00</updated>
-    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-03T12:28:56+09:00&lt;br/&gt;Updated: 2026-04-03T12:28:57+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている ひとみ です。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-“作業者...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8577b96433491173bf4e</id>
@@ -1973,6 +1973,17 @@ AIに「いい感じに作って」と言って、本当に「いい感じ」の
 ただ、新卒で案件に配属された私には、単に&quot;パッケージをインストールできるもの&quot;という理解より、一歩踏み込んだ理解...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2b28f629ea2daab701cd</id>
+    <title>Vibe Coding、最初は速い。でも後半で急にしんどくなる</title>
+    <link rel="alternate" href="https://qiita.com/engchina/items/2b28f629ea2daab701cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T23:57:33+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T23:57:33+09:00&lt;br/&gt;Updated: 2026-04-02T23:57:33+09:00&lt;br/&gt;実際にやってみて分かったこと
+最近 Vibe Coding を続けていて、最初はかなり便利だと感じました。
+画面も処理もすぐ形になるし、初速は本当に速いです。
+ただ、機能が増えてくると、しんどさの種類が変わってきます。
+大変なのは「コードを書くこと」より、その後の設計、整...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f6b1680ede88de76d372</id>
     <title>プロが毎日使ってるClaude Codeの隠しコマンド＆ショートカットキー</title>
     <link rel="alternate" href="https://qiita.com/Yuuto127/items/f6b1680ede88de76d372?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2198,17 +2209,6 @@ RAGは外部知識をLLMに注入する手法として定着しました。
     <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/harupython&quot;&gt;harupython&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T08:41:18+09:00&lt;br/&gt;Updated: 2026-02-09T08:41:18+09:00&lt;br/&gt;はじめに
 僕は都内の高校に通う学生で、普段はPythonで自作ツールを作ったり、技術記事を書いたりしている。先日、学校の課題で「複数のECサイトの公開価格データを比較分析する」必要があったのだが、手動でやるには量が多すぎた。
 スクレイピングスクリプトを自作したものの、案の...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2b28f629ea2daab701cd</id>
-    <title>Vibe Coding、最初は速い。でも後半で急にしんどくなる</title>
-    <link rel="alternate" href="https://qiita.com/engchina/items/2b28f629ea2daab701cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T23:57:33+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T23:57:33+09:00&lt;br/&gt;Updated: 2026-04-02T23:57:33+09:00&lt;br/&gt;実際にやってみて分かったこと
-最近 Vibe Coding を続けていて、最初はかなり便利だと感じました。
-画面も処理もすぐ形になるし、初速は本当に速いです。
-ただ、機能が増えてくると、しんどさの種類が変わってきます。
-大変なのは「コードを書くこと」より、その後の設計、整...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d2694937d2ebcd442060</id>
