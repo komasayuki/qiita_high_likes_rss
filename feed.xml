@@ -244,7 +244,7 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
     <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
     <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-02T00:02:13+09:00</updated>
-    <summary type="html">Likes: 171&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
+    <summary type="html">Likes: 172&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
 原因はなんと、npmパッケージに含まれた .map（sourcemap）ファイル 。
 
 Bunでビルドしたときにデフォルトで生成されるsou...</summary>
@@ -641,20 +641,20 @@ PRUMについて気になった方は、
 新人エンジニアは、なぜ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5e64037cc452c5d497fa</id>
+    <title>Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/5e64037cc452c5d497fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T12:30:47+09:00</updated>
+    <summary type="html">Likes: 113&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T12:17:55+09:00&lt;br/&gt;Updated: 2026-04-02T12:30:47+09:00&lt;br/&gt;Claude Code は Anthropic 公式の CLI エージェントです。ターミナルから直接 Claude を呼び出し、コード生成・編集・デバッグ・Git 操作・プロジェクト管理まで一気通貫で行えます。
+この記事では 2026 年 4 月時点の全機能をカテゴリ別に整...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ad15bfa383c98ae5cc36</id>
     <title>AGENTS.md完全入門 ── 60,000リポジトリが採用した事実上の共通フォーマット</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/ad15bfa383c98ae5cc36?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-24T10:35:47+09:00</updated>
     <summary type="html">Likes: 113&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T10:35:47+09:00&lt;br/&gt;Updated: 2026-03-24T10:35:47+09:00&lt;br/&gt;AGENTS.md は「AIコーディングエージェント向けの README」です。
 リポジトリにこのファイルを置くことで、Codex CLI・Cursor・GitHub Copilot など多くのツールが共通の指示を読み取れます。ただし、ツールごとに対応状況や読み込み条件には...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5e64037cc452c5d497fa</id>
-    <title>Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/5e64037cc452c5d497fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T12:30:47+09:00</updated>
-    <summary type="html">Likes: 111&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T12:17:55+09:00&lt;br/&gt;Updated: 2026-04-02T12:30:47+09:00&lt;br/&gt;Claude Code は Anthropic 公式の CLI エージェントです。ターミナルから直接 Claude を呼び出し、コード生成・編集・デバッグ・Git 操作・プロジェクト管理まで一気通貫で行えます。
-この記事では 2026 年 4 月時点の全機能をカテゴリ別に整...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cace9602e4eaea995cc9</id>
@@ -955,7 +955,7 @@ xls...</summary>
     <title>現場で折れないマインドを作る3つのコツ</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/3a979c3041ea36c05f41?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-02T13:19:43+09:00</updated>
-    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T13:19:42+09:00&lt;br/&gt;Updated: 2026-04-02T13:19:43+09:00&lt;br/&gt;エラーが出るたびに凹む
+    <summary type="html">Likes: 82&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T13:19:42+09:00&lt;br/&gt;Updated: 2026-04-02T13:19:43+09:00&lt;br/&gt;エラーが出るたびに凹む
 レビュー結果が怖い...
 そんな風に悩んでいませんか？
 私も最初は毎日「才能がない」と嘆いていました。
@@ -963,11 +963,27 @@ xls...</summary>
 今回は私が学んだ折れないマインドを作るコツをお...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a185ecd13bf4be6cf65c</id>
+    <title>【35歳未経験でも理解できた】Webシステムの全体像</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/a185ecd13bf4be6cf65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T10:31:49+09:00</updated>
+    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T10:31:49+09:00&lt;br/&gt;Updated: 2026-04-02T10:31:49+09:00&lt;br/&gt;はじめに
+こんにちは！
+35歳から未経験でエンジニアの世界に飛び込んだ者です。
+
+プログラミングの勉強を始めた当初、正直かなり曖昧な理解でした。
+
+「ネットに繋がってるから動く」
+「ボタンを押したら結果が出る」
+
+その裏側で何が起きているのかは、まったく意識していませんで...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ff44f2069e3331ab9c0f</id>
     <title>【35歳未経験でも理解できた】「現代の技術の学び方」</title>
     <link rel="alternate" href="https://qiita.com/wata-sho/items/ff44f2069e3331ab9c0f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-01T10:26:15+09:00</updated>
-    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T10:26:15+09:00&lt;br/&gt;Updated: 2026-04-01T10:26:15+09:00&lt;br/&gt;この記事はこんな方におすすめです
+    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T10:26:15+09:00&lt;br/&gt;Updated: 2026-04-01T10:26:15+09:00&lt;br/&gt;この記事はこんな方におすすめです
 
 次から次へと出てくる学習に、正直心が折れそうな方
 
@@ -978,22 +994,6 @@ xls...</summary>
 はじめに
 こんにちは！
 35歳から未経験でエ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a185ecd13bf4be6cf65c</id>
-    <title>【35歳未経験でも理解できた】Webシステムの全体像</title>
-    <link rel="alternate" href="https://qiita.com/wata-sho/items/a185ecd13bf4be6cf65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T10:31:49+09:00</updated>
-    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T10:31:49+09:00&lt;br/&gt;Updated: 2026-04-02T10:31:49+09:00&lt;br/&gt;はじめに
-こんにちは！
-35歳から未経験でエンジニアの世界に飛び込んだ者です。
-
-プログラミングの勉強を始めた当初、正直かなり曖昧な理解でした。
-
-「ネットに繋がってるから動く」
-「ボタンを押したら結果が出る」
-
-その裏側で何が起きているのかは、まったく意識していませんで...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:76a4d9dac74e70bceebb</id>
@@ -1251,6 +1251,19 @@ GPUが積まれた高性能マシン。
 　一言で言うとvllmライクなインターフェースをApple Silicon向けに提供するもので、MacのGPU（Metal/MPS）アクセラレーションによる...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:406b35769eec8c0ce0f4</id>
+    <title>“作業者”で終わらないために｜未経験エンジニアが最初に変えるべき考え方</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/406b35769eec8c0ce0f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-03T12:28:57+09:00</updated>
+    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-03T12:28:56+09:00&lt;br/&gt;Updated: 2026-04-03T12:28:57+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている ひとみ です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+“作業者...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8577b96433491173bf4e</id>
     <title>研究効率を爆上げするAIツールまとめ（論文調査〜執筆まで）</title>
     <link rel="alternate" href="https://qiita.com/Milab_honda/items/8577b96433491173bf4e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1283,19 +1296,6 @@ Pythonを使い始めてはや十数年。他の言語も覚えないと思い�
 これが、私の日常になりました。
 
 メールの確認、Slackの未返信チェック、Notionでのタ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:406b35769eec8c0ce0f4</id>
-    <title>“作業者”で終わらないために｜未経験エンジニアが最初に変えるべき考え方</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/406b35769eec8c0ce0f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-03T12:28:57+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-03T12:28:56+09:00&lt;br/&gt;Updated: 2026-04-03T12:28:57+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている ひとみ です。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-“作業者...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:df077776b293163e0a42</id>
@@ -2200,6 +2200,17 @@ RAGは外部知識をLLMに注入する手法として定着しました。
 スクレイピングスクリプトを自作したものの、案の...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2b28f629ea2daab701cd</id>
+    <title>Vibe Coding、最初は速い。でも後半で急にしんどくなる</title>
+    <link rel="alternate" href="https://qiita.com/engchina/items/2b28f629ea2daab701cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-02T23:57:33+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T23:57:33+09:00&lt;br/&gt;Updated: 2026-04-02T23:57:33+09:00&lt;br/&gt;実際にやってみて分かったこと
+最近 Vibe Coding を続けていて、最初はかなり便利だと感じました。
+画面も処理もすぐ形になるし、初速は本当に速いです。
+ただ、機能が増えてくると、しんどさの種類が変わってきます。
+大変なのは「コードを書くこと」より、その後の設計、整...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d2694937d2ebcd442060</id>
     <title>生成AIで誰でもオシャレなパワポを作る方法</title>
     <link rel="alternate" href="https://qiita.com/yamazombie/items/d2694937d2ebcd442060?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2225,16 +2236,5 @@ RAGは外部知識をLLMに注入する手法として定着しました。
     <updated>2026-03-19T16:18:51+09:00</updated>
     <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TND_mi&quot;&gt;TND_mi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T16:18:50+09:00&lt;br/&gt;Updated: 2026-03-19T16:18:51+09:00&lt;br/&gt;これまでのAI活用は、翻訳や要約、問い合わせ対応など、ひとつの役割をこなす優秀な個人のような存在でした。しかし最近は、複数のAIが役割分担して動くマルチエージェントが登場し、AIがチームで仕事をするような使い方ができるようになっています。
 Copilot Studioでも、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9f35a0d6e24edd8f2265</id>
-    <title>Terminal 版 Playwright 風テストツールの tuistory が便利</title>
-    <link rel="alternate" href="https://qiita.com/tomoasleep/items/9f35a0d6e24edd8f2265?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-02T11:58:48+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomoasleep&quot;&gt;tomoasleep&lt;/a&gt;&lt;br/&gt;Published: 2026-02-28T21:28:53+09:00&lt;br/&gt;Updated: 2026-03-02T11:58:48+09:00&lt;br/&gt;TUI ツールを Vibe coding で作ることが最近多く、その際の動作確認として tuistory というツールを使っていて便利だったので紹介する。
-
-tuistory はどんなツールか
-簡単に言うと Terminal 版の Playwright。
-playwr...</summary>
   </entry>
 </feed>
