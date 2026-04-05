@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-04-05T18:44:41+09:00</updated>
+  <updated>2026-04-06T08:03:10+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1072,6 +1072,16 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
 HTML/画像を根拠にMark...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ab78bb338500b4c71103</id>
+    <title>Claude Codeの首位陥落。CodexがシェアNo.1へ。 ～データで見る2026年3月のAI Codingの動向まとめ～</title>
+    <link rel="alternate" href="https://qiita.com/kotauchisunsun/items/ab78bb338500b4c71103?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-04T00:17:52+09:00</updated>
+    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kotauchisunsun&quot;&gt;kotauchisunsun&lt;/a&gt;&lt;br/&gt;Published: 2026-04-04T00:17:52+09:00&lt;br/&gt;Updated: 2026-04-04T00:17:52+09:00&lt;br/&gt;AI Coding Agentの2026年3月の動向
+AI Coding.Infoというサイトを2025年7月から運営しています。
+
+これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:392934f79e943e8b9228</id>
     <title>Claude Codeベストプラクティス -- 成果を安定させる7つの鉄則</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/392934f79e943e8b9228?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1114,16 +1124,6 @@ HTML/画像を根拠にMark...</summary>
 セキュリティリスク＝影響度☓発生確率
 長く使い古されたフレームワークである。
 そして...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ab78bb338500b4c71103</id>
-    <title>Claude Codeの首位陥落。CodexがシェアNo.1へ。 ～データで見る2026年3月のAI Codingの動向まとめ～</title>
-    <link rel="alternate" href="https://qiita.com/kotauchisunsun/items/ab78bb338500b4c71103?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-04T00:17:52+09:00</updated>
-    <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kotauchisunsun&quot;&gt;kotauchisunsun&lt;/a&gt;&lt;br/&gt;Published: 2026-04-04T00:17:52+09:00&lt;br/&gt;Updated: 2026-04-04T00:17:52+09:00&lt;br/&gt;AI Coding Agentの2026年3月の動向
-AI Coding.Infoというサイトを2025年7月から運営しています。
-
-これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b996e374c91923141178</id>
@@ -1497,6 +1497,17 @@ C言語はアセンブラに翻訳されます。
 まず大前提として、本記事は信用...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2c9df846e96a47900e6d</id>
+    <title>【初心者完全版】0からNext.js開発して2時間で基礎をマスターする最強チュートリアル【図解解説】</title>
+    <link rel="alternate" href="https://qiita.com/Sicut_study/items/2c9df846e96a47900e6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-05T17:00:09+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-04-05T17:00:09+09:00&lt;br/&gt;Updated: 2026-04-05T17:00:09+09:00&lt;br/&gt;はじめに
+こんにちは、Watanabe jinです。
+AIが発展して多くの人がReactでアプリを作っているのをみてすごい時代だなと改めて実感しております。
+しかし、AIがReactを(綺麗に)書くのは課題が多く難しいというのが私の感覚です。
+Reactを書こうとすると...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c787ccd02775613f6f13</id>
     <title>Axiosサプライチェーン攻撃の手口をPostmortemで読んだら、まるでルパン三世だった</title>
     <link rel="alternate" href="https://qiita.com/WdknWdkn/items/c787ccd02775613f6f13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1550,17 +1561,6 @@ Linux prod-server 5.15.0 #1 SMP x86_64 GNU/Linux
 
 「Windowsのセキュリティ？ 情シスやPC管理者の仕事でしょ？」
 そう思っているLinu...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2c9df846e96a47900e6d</id>
-    <title>【初心者完全版】0からNext.js開発して2時間で基礎をマスターする最強チュートリアル【図解解説】</title>
-    <link rel="alternate" href="https://qiita.com/Sicut_study/items/2c9df846e96a47900e6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-05T17:00:09+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-04-05T17:00:09+09:00&lt;br/&gt;Updated: 2026-04-05T17:00:09+09:00&lt;br/&gt;はじめに
-こんにちは、Watanabe jinです。
-AIが発展して多くの人がReactでアプリを作っているのをみてすごい時代だなと改めて実感しております。
-しかし、AIがReactを(綺麗に)書くのは課題が多く難しいというのが私の感覚です。
-Reactを書こうとすると...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6d26b6ffc11d163dfd71</id>
@@ -2162,8 +2162,8 @@ C++ で近似
     <id>tag:qiita.com,2026:382bd11e374df6774ec4</id>
     <title>「このボタンどこ？」をAIが解決する。AIリアルタイム操作ナビゲーション「Waylume」をリリース</title>
     <link rel="alternate" href="https://qiita.com/yoshikim1467/items/382bd11e374df6774ec4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-05T18:44:41+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yoshikim1467&quot;&gt;yoshikim1467&lt;/a&gt;&lt;br/&gt;Published: 2026-04-05T10:00:29+09:00&lt;br/&gt;Updated: 2026-04-05T18:44:41+09:00&lt;br/&gt;みなさんこんにちは！omatsumanです！
+    <updated>2026-04-06T08:03:10+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yoshikim1467&quot;&gt;yoshikim1467&lt;/a&gt;&lt;br/&gt;Published: 2026-04-05T10:00:29+09:00&lt;br/&gt;Updated: 2026-04-06T08:03:10+09:00&lt;br/&gt;みなさんこんにちは！omatsumanです！
 株式会社GitSBTの代表をしております。
 今回がQiitaで初の投稿になります。（緊張...）
 さて、今回なぜ私がQiitaの記事を書こうか思い立ったのかと言いますと...
