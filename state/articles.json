@@ -325,6 +325,18 @@
       "last_seen": "2026-03-22T07:25:12.680725393+00:00"
     },
     {
+      "key": "0b1ec01a6a41de94efa5",
+      "item_id": "0b1ec01a6a41de94efa5",
+      "title": "【セキュリティ】JWTの署名を信頼していたら `alg: none` で管理者権限を奪取された話",
+      "link": "https://qiita.com/fe1ix/items/0b1ec01a6a41de94efa5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "導入：改ざん不可能なはずのトークン\n「JWTって署名が付いてるから改ざんされませんよね？」\n認証基盤の設計レビューで、私はそう発言しました。チームの誰もが同意し、JWTベースの認証システムは予定通りリリースされました。\n数週間後、脆弱性診断レポートの一番上に赤字の【Cri...",
+      "published": "2026-04-05T11:55:39+09:00",
+      "updated": "2026-04-05T11:55:39+09:00",
+      "author_name": "fe1ix",
+      "likes_count": 10,
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
+    },
+    {
       "key": "0ba6853020a40edc97da",
       "item_id": "0ba6853020a40edc97da",
       "title": "エンジニア初学者へ伝えたい。現場を通して思ったこれからのエンジニアになるために必要な考え方と姿勢",
@@ -730,7 +742,7 @@
       "updated": "2026-04-03T12:28:33+09:00",
       "author_name": "nogataka",
       "likes_count": 18,
-      "last_seen": "2026-04-05T19:22:27.930343071+00:00"
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
     },
     {
       "key": "17fc8d9c2b2efde570a6",
@@ -911,18 +923,6 @@
       "author_name": "Katayama_Studio",
       "likes_count": 15,
       "last_seen": "2026-02-07T07:21:04.232583885+00:00"
-    },
-    {
-      "key": "1f73ed7d1d3e6af932a8",
-      "item_id": "1f73ed7d1d3e6af932a8",
-      "title": "プロンプトで祈るのはもうやめる。Outlines/Guidance で LLM の出力を 100% 制御する技術",
-      "link": "https://qiita.com/harusato2806/items/1f73ed7d1d3e6af932a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "プロンプトで祈るのはもうやめる\n\nOutlines / Guidance で LLM の出力を 100% 制御する技術\n\nはじめに：開発現場における「お祈り」の限界\nLLMをシステムに組み込む際、私たちはいつまでプロンプトで「お祈り」を続けるのでしょうか。\n\n「以下のJ...",
-      "published": "2026-02-02T10:51:44+09:00",
-      "updated": "2026-02-02T10:52:16+09:00",
-      "author_name": "harusato2806",
-      "likes_count": 15,
-      "last_seen": "2026-02-04T19:26:10.916635114+00:00"
     },
     {
       "key": "205aa17d0acc88a34bf4",
@@ -1321,6 +1321,18 @@
       "last_seen": "2026-02-12T07:31:55.627466039+00:00"
     },
     {
+      "key": "2c9df846e96a47900e6d",
+      "item_id": "2c9df846e96a47900e6d",
+      "title": "【初心者完全版】0からNext.js開発して2時間で基礎をマスターする最強チュートリアル【図解解説】",
+      "link": "https://qiita.com/Sicut_study/items/2c9df846e96a47900e6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこんにちは、Watanabe jinです。\nAIが発展して多くの人がReactでアプリを作っているのをみてすごい時代だなと改めて実感しております。\nしかし、AIがReactを(綺麗に)書くのは課題が多く難しいというのが私の感覚です。\nReactを書こうとすると...",
+      "published": "2026-04-05T17:00:09+09:00",
+      "updated": "2026-04-05T17:00:09+09:00",
+      "author_name": "Sicut_study",
+      "likes_count": 44,
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
+    },
+    {
       "key": "2d88e5b9eea5b0153887",
       "item_id": "2d88e5b9eea5b0153887",
       "title": "APIのレート制限について",
@@ -1618,7 +1630,7 @@
       "updated": "2026-04-05T18:44:41+09:00",
       "author_name": "yoshikim1467",
       "likes_count": 34,
-      "last_seen": "2026-04-05T19:22:27.930343071+00:00"
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
     },
     {
       "key": "388a7aaad767b9e11fa3",
@@ -1870,7 +1882,7 @@
       "updated": "2026-04-03T12:28:57+09:00",
       "author_name": "prum_hitomi",
       "likes_count": 82,
-      "last_seen": "2026-04-05T19:22:27.930343071+00:00"
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
     },
     {
       "key": "411bfd2be559b82d156d",
@@ -1883,18 +1895,6 @@
       "author_name": "hitotch",
       "likes_count": 41,
       "last_seen": "2026-03-12T19:26:33.612148059+00:00"
-    },
-    {
-      "key": "41521d099e374ecc731f",
-      "item_id": "41521d099e374ecc731f",
-      "title": "React開発でよく聞くWebpack/Vite/SSR/SSG… 結局何なのか整理した",
-      "link": "https://qiita.com/gentarou/items/41521d099e374ecc731f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Reactを勉強していると、Node.jsやnpm以外にも色々な横文字が出てくるので、\n改めてこれらは何なのか？を整理しました。\n※前回のNode.js/npmについて整理した記事の続きです。\n\nビルドツール周り\n\nWebpack / Vite\nWebpackとVit...",
-      "published": "2026-02-01T17:26:33+09:00",
-      "updated": "2026-02-04T19:45:08+09:00",
-      "author_name": "gentarou",
-      "likes_count": 14,
-      "last_seen": "2026-02-04T19:26:10.916635114+00:00"
     },
     {
       "key": "417b4d6f416fb188a30c",
@@ -3022,7 +3022,7 @@
       "updated": "2026-04-04T23:48:59+09:00",
       "author_name": "YMatsubara",
       "likes_count": 10,
-      "last_seen": "2026-04-05T19:22:27.930343071+00:00"
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
     },
     {
       "key": "6303aa289c9734974f69",
@@ -3130,7 +3130,7 @@
       "updated": "2026-04-04T14:46:36+09:00",
       "author_name": "yakumo_09",
       "likes_count": 11,
-      "last_seen": "2026-04-05T19:22:27.930343071+00:00"
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
     },
     {
       "key": "6743216583b66168ec12",
@@ -3393,8 +3393,8 @@
       "published": "2026-04-04T12:15:00+09:00",
       "updated": "2026-04-04T12:15:00+09:00",
       "author_name": "ktdatascience",
-      "likes_count": 11,
-      "last_seen": "2026-04-05T19:22:27.930343071+00:00"
+      "likes_count": 12,
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
     },
     {
       "key": "70991a5ac68ad1f6dc61",
@@ -3479,6 +3479,18 @@
       "author_name": "to3izo",
       "likes_count": 19,
       "last_seen": "2026-03-03T19:26:09.943390546+00:00"
+    },
+    {
+      "key": "73b1a59a513a5eee98c8",
+      "item_id": "73b1a59a513a5eee98c8",
+      "title": "【個人開発】泳げば泳ぐほどモテる。水泳×マッチングアプリ「スイモテ」を作りました【React × Supabase × Firebase】",
+      "link": "https://qiita.com/jota9613/items/73b1a59a513a5eee98c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "⚠️ 本サービスは開発中のポートフォリオ作品であり、一般ユーザー向けには公開しておりません。\nマッチングアプリとして実運用する際には、出会い系サイト規制法に基づく届出・年齢確認等の法的対応が必要です。\n\nはじめに\n「マッチングアプリ疲れ」という言葉を最近よく聞きます。\n...",
+      "published": "2026-04-05T16:56:02+09:00",
+      "updated": "2026-04-05T17:58:44+09:00",
+      "author_name": "jota9613",
+      "likes_count": 15,
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
     },
     {
       "key": "7476eb9dfc8bca4e0bb8",
@@ -4381,18 +4393,6 @@
       "last_seen": "2026-02-21T19:15:21.062840165+00:00"
     },
     {
-      "key": "975d74e93f73750b255d",
-      "item_id": "975d74e93f73750b255d",
-      "title": "バックエンドとフロントエンドがつながっている箇所",
-      "link": "https://qiita.com/skill_toy/items/975d74e93f73750b255d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n現在、個人開発でバックエンドとフロントエンドの環境構築がひと通り完了しました。\nただ、「この二つがどこでつながっているのか」を曖昧なまま進めてしまっていた部分も多く、振り返りの意味も込めて、この記事を書くことにしました。\n注\n現時点では環境構築のみを行っており、...",
-      "published": "2026-02-01T19:49:03+09:00",
-      "updated": "2026-02-01T19:49:03+09:00",
-      "author_name": "skill_toy",
-      "likes_count": 22,
-      "last_seen": "2026-02-04T19:26:10.916635114+00:00"
-    },
-    {
       "key": "9781a4afcb4f2b75bbbf",
       "item_id": "9781a4afcb4f2b75bbbf",
       "title": "えっ！？ドキュメントがない？(AIで)できらぁ！",
@@ -4414,7 +4414,7 @@
       "updated": "2026-04-03T23:01:54+09:00",
       "author_name": "takurot",
       "likes_count": 19,
-      "last_seen": "2026-04-05T19:22:27.930343071+00:00"
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
     },
     {
       "key": "985fb9b9a91e08dea989",
@@ -4546,7 +4546,7 @@
       "updated": "2026-04-06T01:54:20+09:00",
       "author_name": "MameMame777",
       "likes_count": 10,
-      "last_seen": "2026-04-05T19:22:27.930343071+00:00"
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
     },
     {
       "key": "9d9556e9c5f82b791a05",
@@ -4777,18 +4777,6 @@
       "last_seen": "2026-04-04T07:31:38.709708361+00:00"
     },
     {
-      "key": "a4c5d048f6fb662ebbba",
-      "item_id": "a4c5d048f6fb662ebbba",
-      "title": "開発者はAIを使うと24％速くなると考えているが実際には約20％遅いという主張について調べた件",
-      "link": "https://qiita.com/morry_48/items/a4c5d048f6fb662ebbba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n\nどうも。鳩胸になりたい文鳥です。\n\nProfessor Answers Coding Questions\nある日YouTubeを見ていたところ面白い動画に遭遇しました。\nProfessor Answers Coding Questions | Tech Sup...",
-      "published": "2026-02-01T18:20:28+09:00",
-      "updated": "2026-02-03T13:53:25+09:00",
-      "author_name": "morry_48",
-      "likes_count": 143,
-      "last_seen": "2026-02-04T19:26:10.916635114+00:00"
-    },
-    {
       "key": "a574a91f87d8231534b1",
       "item_id": "a574a91f87d8231534b1",
       "title": "OpenFangとは？OpenClawからの進化と特徴",
@@ -4822,7 +4810,7 @@
       "updated": "2026-04-04T22:04:01+09:00",
       "author_name": "miruky",
       "likes_count": 10,
-      "last_seen": "2026-04-05T19:22:27.930343071+00:00"
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
     },
     {
       "key": "a63d1b3a8849c53538e2",
@@ -4870,7 +4858,7 @@
       "updated": "2026-04-04T06:26:06+09:00",
       "author_name": "Tadataka_Takahashi",
       "likes_count": 10,
-      "last_seen": "2026-04-05T19:22:27.930343071+00:00"
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
     },
     {
       "key": "a77dcd725aeda22854f2",
@@ -4907,18 +4895,6 @@
       "author_name": "nogataka",
       "likes_count": 46,
       "last_seen": "2026-03-14T07:23:36.191504629+00:00"
-    },
-    {
-      "key": "a8409d108cae24888ba0",
-      "item_id": "a8409d108cae24888ba0",
-      "title": "Codex CLI猛進。Github Copilotと大差。　～データで見る2026年1月のAI Codingの動向まとめ～",
-      "link": "https://qiita.com/kotauchisunsun/items/a8409d108cae24888ba0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "AI Coding Agentの1月の動向\nAI Coding.Infoというサイトを2025年7月から運営しています。\n\nこれは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding Agent...",
-      "published": "2026-02-01T21:47:06+09:00",
-      "updated": "2026-02-03T20:20:09+09:00",
-      "author_name": "kotauchisunsun",
-      "likes_count": 32,
-      "last_seen": "2026-02-04T19:26:10.916635114+00:00"
     },
     {
       "key": "a867e1954b80e78cf146",
@@ -4990,7 +4966,7 @@
       "updated": "2026-04-04T00:17:52+09:00",
       "author_name": "kotauchisunsun",
       "likes_count": 67,
-      "last_seen": "2026-04-05T19:22:27.930343071+00:00"
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
     },
     {
       "key": "ab8af60a632e7a562e06",
@@ -5710,7 +5686,7 @@
       "updated": "2026-04-03T22:19:08+09:00",
       "author_name": "WdknWdkn",
       "likes_count": 52,
-      "last_seen": "2026-04-05T19:22:27.930343071+00:00"
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
     },
     {
       "key": "c78839d3f58ae8db3a0e",
@@ -6418,7 +6394,7 @@
       "updated": "2026-04-03T12:29:36+09:00",
       "author_name": "nogataka",
       "likes_count": 16,
-      "last_seen": "2026-04-05T19:22:27.930343071+00:00"
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
     },
     {
       "key": "e6ca001e88b7c1b7500d",
@@ -6778,7 +6754,7 @@
       "updated": "2026-04-03T09:12:02+09:00",
       "author_name": "kentawata",
       "likes_count": 12,
-      "last_seen": "2026-04-05T19:22:27.930343071+00:00"
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
     },
     {
       "key": "f1cd5357efb2907eb11d",
@@ -7090,7 +7066,7 @@
       "updated": "2026-04-03T18:15:56+09:00",
       "author_name": "Shinyas77",
       "likes_count": 13,
-      "last_seen": "2026-04-05T19:22:27.930343071+00:00"
+      "last_seen": "2026-04-05T20:16:34.021158654+00:00"
     },
     {
       "key": "fb00ffbf902256e322b8",
