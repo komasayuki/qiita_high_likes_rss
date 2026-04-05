@@ -203,7 +203,7 @@ Webアプリケーションのアーキテクチャは、時代とともに構�
     <title>Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/5e64037cc452c5d497fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-02T12:30:47+09:00</updated>
-    <summary type="html">Likes: 183&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T12:17:55+09:00&lt;br/&gt;Updated: 2026-04-02T12:30:47+09:00&lt;br/&gt;Claude Code は Anthropic 公式の CLI エージェントです。ターミナルから直接 Claude を呼び出し、コード生成・編集・デバッグ・Git 操作・プロジェクト管理まで一気通貫で行えます。
+    <summary type="html">Likes: 184&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T12:17:55+09:00&lt;br/&gt;Updated: 2026-04-02T12:30:47+09:00&lt;br/&gt;Claude Code は Anthropic 公式の CLI エージェントです。ターミナルから直接 Claude を呼び出し、コード生成・編集・デバッグ・Git 操作・プロジェクト管理まで一気通貫で行えます。
 この記事では 2026 年 4 月時点の全機能をカテゴリ別に整...</summary>
   </entry>
   <entry>
@@ -827,6 +827,17 @@ Chatサービス、プロンプト集、リーダーボード、情報収集の�
 最近では環境に依存せずクロスプラットフォーム対応のゲームも多いですが、昔は PC ゲームといえば windows のみ対応で長い長いダウンロードとインストール作業をしてようやく遊べるようになるのが普通でした。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2b28f629ea2daab701cd</id>
+    <title>Vibe Coding、最初は速い。でも後半で急にしんどくなる</title>
+    <link rel="alternate" href="https://qiita.com/engchina/items/2b28f629ea2daab701cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-05T08:25:53+09:00</updated>
+    <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T23:57:33+09:00&lt;br/&gt;Updated: 2026-04-05T08:25:53+09:00&lt;br/&gt;実際にやってみて分かったこと
+最近 Vibe Coding を続けていて、最初はかなり便利だと感じました。
+画面も処理もすぐ形になるし、初速は本当に速いです。
+ただ、機能が増えてくると、しんどさの種類が変わってきます。
+大変なのは「コードを書くこと」より、その後の設計、整...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5d2087dd5500d0689d7e</id>
     <title>【M365 Copilot】Teamsでチャットするだけで進捗管理ができた話</title>
     <link rel="alternate" href="https://qiita.com/yuyanz/items/5d2087dd5500d0689d7e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -844,17 +855,6 @@ Chatサービス、プロンプト集、リーダーボード、情報収集の�
     <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-28T16:17:53+09:00&lt;br/&gt;Updated: 2026-03-02T05:49:24+09:00&lt;br/&gt;Claude Codeの設定、なんとなくで使っていませんか？
 Hooks、Skills、CLAUDE.md、settings.json、MCP、権限管理…… 2026年のClaude Codeは機能が爆発的に増えた。でも全部を正しく設定しているエンジニアは1%もいない。
 こ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2b28f629ea2daab701cd</id>
-    <title>Vibe Coding、最初は速い。でも後半で急にしんどくなる</title>
-    <link rel="alternate" href="https://qiita.com/engchina/items/2b28f629ea2daab701cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-05T08:25:53+09:00</updated>
-    <summary type="html">Likes: 87&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T23:57:33+09:00&lt;br/&gt;Updated: 2026-04-05T08:25:53+09:00&lt;br/&gt;実際にやってみて分かったこと
-最近 Vibe Coding を続けていて、最初はかなり便利だと感じました。
-画面も処理もすぐ形になるし、初速は本当に速いです。
-ただ、機能が増えてくると、しんどさの種類が変わってきます。
-大変なのは「コードを書くこと」より、その後の設計、整...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:114b2fdc1b50e3676ba8</id>
@@ -1688,6 +1688,17 @@ Morpho社の調査が興味深いデータを出しています。SWE-benchに�
 本記事では ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c787ccd02775613f6f13</id>
+    <title>Axiosサプライチェーン攻撃の手口をPostmortemで読んだら、まるでルパン三世だった</title>
+    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/c787ccd02775613f6f13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-03T22:19:08+09:00</updated>
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-04-03T21:58:18+09:00&lt;br/&gt;Updated: 2026-04-03T22:19:08+09:00&lt;br/&gt;いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
+axiosサプライチェーン攻撃に関して、GitHub IssueにPostmortem（事後報告）上がっていましたね。
+
+特に注目したのが、攻撃された流れのところ。「これ、ルパン三世？」。
+変...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e80b763797d073815710</id>
     <title>エンジニアがChatGPTを使いこなせていないかもしれない話</title>
     <link rel="alternate" href="https://qiita.com/kamome_susume/items/e80b763797d073815710?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1748,17 +1759,6 @@ draw.io の MCP サーバーが公開されていたので、軽く触ってみ�
 勝手に、よりいい感じの図を出力してくれると思って使ったのですが、（何も使わずに「drawio 形式で書いて」と指示する場合と比べて）あまり違いを感じませんでした。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c787ccd02775613f6f13</id>
-    <title>Axiosサプライチェーン攻撃の手口をPostmortemで読んだら、まるでルパン三世だった</title>
-    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/c787ccd02775613f6f13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-03T22:19:08+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-04-03T21:58:18+09:00&lt;br/&gt;Updated: 2026-04-03T22:19:08+09:00&lt;br/&gt;いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
-axiosサプライチェーン攻撃に関して、GitHub IssueにPostmortem（事後報告）上がっていましたね。
-
-特に注目したのが、攻撃された流れのところ。「これ、ルパン三世？」。
-変...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0dd4fc68180aa8526678</id>
