@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-04-07T22:28:02+09:00</updated>
+  <updated>2026-04-08T12:50:49+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1537,6 +1537,18 @@ C言語はアセンブラに翻訳されます。
 まず大前提として、本記事は信用...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:eb731b9d753ca7cda3c6</id>
+    <title>【後編】9割の新人エンジニアがやっている 「失礼しました」の落とし穴</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/eb731b9d753ca7cda3c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-08T12:50:49+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T12:50:48+09:00&lt;br/&gt;Updated: 2026-04-08T12:50:49+09:00&lt;br/&gt;はじめまして。
+株式会社PRUMでエンジニアをしている人見です。日々、プログラミング学習や実務の中で、つまずきやすいポイントを整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもご覧ください。
+▶ コーポレートサイト
+
+9割の新人エンジニアがやって...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:78fdef38b201985cb0d9</id>
     <title>【GitHub】GitHubは低品質なユーザによるContributeを拒否する仕様を検討・実装中</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/78fdef38b201985cb0d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1565,6 +1577,19 @@ C言語はアセンブラに翻訳されます。
 
 この記事を書いた経緯
 去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきまし...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:34d20cd39006cce775d0</id>
+    <title>【35歳未経験でも理解できた】従来型のアプリケーション</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/34d20cd39006cce775d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-08T10:26:57+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T10:26:57+09:00&lt;br/&gt;Updated: 2026-04-08T10:26:57+09:00&lt;br/&gt;従来型Webアプリの裏側をスッキリ整理してみた
+はじめまして！
+35歳未経験でエンジニアを目指し日々奮闘している者です。
+Webの勉強を始めてすぐ、こんなことありませんか？
+「画面は動くけど、裏で何が起きてるのか説明できない…」
+僕もそんな状況でした。
+この記事では、そん...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
@@ -1926,6 +1951,16 @@ Claude Codeを日常的に使っているのですが、ここ1年ほどでSkill
 Win...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e8803a092dd192543fb4</id>
+    <title>自作の短縮URLを社内Slackに貼ったら「フィッシングです」とセキュリティチームに通報された</title>
+    <link rel="alternate" href="https://qiita.com/kojin_dev_hub/items/e8803a092dd192543fb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-07T22:28:02+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kojin_dev_hub&quot;&gt;kojin_dev_hub&lt;/a&gt;&lt;br/&gt;Published: 2026-04-07T22:28:02+09:00&lt;br/&gt;Updated: 2026-04-07T22:28:02+09:00&lt;br/&gt;個人開発で短縮URLサービスを作っている。
+クリック分析、UTMパラメータ自動付与、OGPプレビュー。企業向けのBitlyみたいなやつを、個人で安く使える版として開発した。
+完成した時、嬉しくて社内Slackで共有した。
+「短縮URLサービス作りました！ よかったら使ってく...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f6fa910cb0c7efe2defc</id>
     <title>Claude Codeのコード流出から考える開発者の倫理</title>
     <link rel="alternate" href="https://qiita.com/mosaxiv/items/f6fa910cb0c7efe2defc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2145,16 +2180,6 @@ llama.cpp や Open WebUI を使ったロー...</summary>
 去年(2025年)にAZ-104、SOA、SAA、SAP、ANSなどのいわゆるアソシエイトからプロフェッショナルあた...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:e8803a092dd192543fb4</id>
-    <title>自作の短縮URLを社内Slackに貼ったら「フィッシングです」とセキュリティチームに通報された</title>
-    <link rel="alternate" href="https://qiita.com/kojin_dev_hub/items/e8803a092dd192543fb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-07T22:28:02+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kojin_dev_hub&quot;&gt;kojin_dev_hub&lt;/a&gt;&lt;br/&gt;Published: 2026-04-07T22:28:02+09:00&lt;br/&gt;Updated: 2026-04-07T22:28:02+09:00&lt;br/&gt;個人開発で短縮URLサービスを作っている。
-クリック分析、UTMパラメータ自動付与、OGPプレビュー。企業向けのBitlyみたいなやつを、個人で安く使える版として開発した。
-完成した時、嬉しくて社内Slackで共有した。
-「短縮URLサービス作りました！ よかったら使ってく...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:792a3dc35ec04ee24da9</id>
     <title>新人プログラマーは、全部を覚えなくていい。～ 最初に身につけたい3つの土台 ～</title>
     <link rel="alternate" href="https://qiita.com/Fujiwo/items/792a3dc35ec04ee24da9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2202,35 +2227,5 @@ Unity で演出を作っていると、ほぼ確実にスキップ機能が必�
 難しく考えなくて大丈夫。一つひとつ、気軽に読んでみてください！
 
 対象読者：Claude Code初心者 ~ 中級者...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7b8a5e65873a35ea72dd</id>
-    <title>結局 Python は遅いのか</title>
-    <link rel="alternate" href="https://qiita.com/k2-gc/items/7b8a5e65873a35ea72dd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-16T22:42:34+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/k2-gc&quot;&gt;k2-gc&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T14:23:13+09:00&lt;br/&gt;Updated: 2026-02-16T22:42:34+09:00&lt;br/&gt;結局 Python は遅いのか
-
-この記事では
-
-Python を用いて幾つかの方法で定積分の近似
-C++ で近似
-比較
-
-を行います．
-
-※追記(2026/02/16)：実行環境追加
-
-はじめに
-「Python は遅い」，「Python で for 使うな！」 と言...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:565941faee9c67b64e14</id>
-    <title>ランダムフォレスト → XGBoost → LightGBM：進化の流れで理解する機械学習モデル</title>
-    <link rel="alternate" href="https://qiita.com/KanNishida/items/565941faee9c67b64e14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-06T11:51:10+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KanNishida&quot;&gt;KanNishida&lt;/a&gt;&lt;br/&gt;Published: 2026-04-06T11:34:49+09:00&lt;br/&gt;Updated: 2026-04-06T11:51:10+09:00&lt;br/&gt;表形式データに対して機械学習の予測モデルを作るとき、このような疑問を持った経験はないでしょうか。
-「結局、ランダムフォレスト、XGBoost、LightGBM、どれを使えばいいんだろうか？」
-とりあえずXGBoostを使う。
-あるいは「速いらしい」という理由でLightG...</summary>
   </entry>
 </feed>
