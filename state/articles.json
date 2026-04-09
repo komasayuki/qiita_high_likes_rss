@@ -226,7 +226,7 @@
       "updated": "2026-04-07T18:35:04+09:00",
       "author_name": "yuto-vj",
       "likes_count": 28,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "07661b914aad38800286",
@@ -310,7 +310,7 @@
       "updated": "2026-04-08T17:51:00+09:00",
       "author_name": "S_kamon",
       "likes_count": 22,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "0a7546befe9091348d40",
@@ -1402,7 +1402,7 @@
       "updated": "2026-04-07T11:50:12+09:00",
       "author_name": "masa20057",
       "likes_count": 81,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "3271d742da296e6a4622",
@@ -1414,7 +1414,7 @@
       "updated": "2026-04-08T18:45:48+09:00",
       "author_name": "ryo_sh",
       "likes_count": 22,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "3273fd4406bf0aa03acf",
@@ -1533,8 +1533,8 @@
       "published": "2026-04-08T10:26:57+09:00",
       "updated": "2026-04-08T10:26:57+09:00",
       "author_name": "wata-sho",
-      "likes_count": 72,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "likes_count": 73,
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "3501b63f345f79246e4c",
@@ -1605,8 +1605,8 @@
       "published": "2026-04-07T09:41:36+09:00",
       "updated": "2026-04-07T12:51:30+09:00",
       "author_name": "ju-kosaka",
-      "likes_count": 46,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "likes_count": 47,
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "3825da22d42572aee59c",
@@ -1882,7 +1882,7 @@
       "updated": "2026-04-08T18:14:01+09:00",
       "author_name": "yuto-vj",
       "likes_count": 24,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "405949f83e8a39a49566",
@@ -2050,7 +2050,7 @@
       "updated": "2026-04-07T20:24:14+09:00",
       "author_name": "hiroki_notes",
       "likes_count": 26,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "45e64e43fe623fcbe1dd",
@@ -2662,7 +2662,7 @@
       "updated": "2026-04-08T11:18:52+09:00",
       "author_name": "S_kamon",
       "likes_count": 22,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "5820d195510861b5be71",
@@ -3082,7 +3082,7 @@
       "updated": "2026-04-08T09:23:28+09:00",
       "author_name": "yama3133",
       "likes_count": 18,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "62519da65ca2dc391f0b",
@@ -3193,6 +3193,18 @@
       "last_seen": "2026-03-18T19:28:55.190998624+00:00"
     },
     {
+      "key": "66c01a87e57b148212b0",
+      "item_id": "66c01a87e57b148212b0",
+      "title": "ローカル環境のS3をlocalstackからRustFSへ",
+      "link": "https://qiita.com/michi-yzrh/items/66c01a87e57b148212b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "結論\nタイトル通りlocalstackからRustFSへ変更しました\n\n目的\nlocalstackの無料版でも認証トークン必須となったのでローカル環境のS3を変更する\n\n何に変更するか\n最初にMinIOが浮かんだのですがここ最近、利用することがなかったので調査\nこのタイミ...",
+      "published": "2026-04-09T09:42:54+09:00",
+      "updated": "2026-04-09T09:42:54+09:00",
+      "author_name": "michi-yzrh",
+      "likes_count": 10,
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
+    },
+    {
       "key": "66c8065e7caf1c5e9a16",
       "item_id": "66c8065e7caf1c5e9a16",
       "title": "CORSとプリフライトリクエストについて",
@@ -3238,7 +3250,7 @@
       "updated": "2026-04-08T09:50:20+09:00",
       "author_name": "nogataka",
       "likes_count": 18,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "6856459c6e8f3decbba3",
@@ -3455,6 +3467,18 @@
       "author_name": "GeneLab_999",
       "likes_count": 12,
       "last_seen": "2026-03-04T07:25:15.380338640+00:00"
+    },
+    {
+      "key": "6dda0b4e6d018cc6aa14",
+      "item_id": "6dda0b4e6d018cc6aa14",
+      "title": "「なぜこの言語で開発するの？」と聞かれた時に、納得してもらう説明の方法",
+      "link": "https://qiita.com/ssaita/items/6dda0b4e6d018cc6aa14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに：こんな質問、経験ありませんか？\n新しい開発プロジェクトが立ち上がるとき、技術選定は避けて通れないですよね。\n設計や要件定義はもちろん大事ですが、「どの技術で作るか」も同じくらい重要なテーマです。\nチーム内で時間をかけて議論し、「今回はこれが一番合っているよね」...",
+      "published": "2026-04-08T02:05:09+09:00",
+      "updated": "2026-04-09T12:30:45+09:00",
+      "author_name": "ssaita",
+      "likes_count": 11,
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "6e5bc00f8426194d0978",
@@ -4113,8 +4137,8 @@
       "published": "2026-04-07T10:25:05+09:00",
       "updated": "2026-04-07T10:25:05+09:00",
       "author_name": "wata-sho",
-      "likes_count": 86,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "likes_count": 87,
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "89b58fe5a399cd284098",
@@ -4990,7 +5014,7 @@
       "updated": "2026-04-08T17:20:23+09:00",
       "author_name": "aito1234",
       "likes_count": 24,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "a9cbd830db94ee669dc7",
@@ -5014,7 +5038,7 @@
       "updated": "2026-04-08T18:57:08+09:00",
       "author_name": "km23",
       "likes_count": 23,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "aa2596a8233b76478d59",
@@ -5026,7 +5050,7 @@
       "updated": "2026-04-08T06:07:33+09:00",
       "author_name": "ay-T",
       "likes_count": 14,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "ab50a7e052a478c5ee4c",
@@ -5193,8 +5217,8 @@
       "published": "2026-04-08T08:45:49+09:00",
       "updated": "2026-04-08T16:27:34+09:00",
       "author_name": "shirok",
-      "likes_count": 22,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "likes_count": 23,
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "b11ebbcf7e14ff251b76",
@@ -5422,7 +5446,7 @@
       "updated": "2026-04-06T18:59:50+09:00",
       "author_name": "atsushi_0000",
       "likes_count": 17,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "ba51ac72fd10ebcd0a91",
@@ -5519,6 +5543,18 @@
       "author_name": "YushiYamamoto",
       "likes_count": 126,
       "last_seen": "2026-02-21T07:20:44.223426399+00:00"
+    },
+    {
+      "key": "be5d46e82f7301747e86",
+      "item_id": "be5d46e82f7301747e86",
+      "title": "脱・セキュリティ初心者。現場の信頼を勝ち取るための「3つの原則」と「1つの習慣」",
+      "link": "https://qiita.com/masa20057/items/be5d46e82f7301747e86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "「コードさえ書ければOK」だと思っていませんか？実は僕もそうでした。\nでも、技術以前に「信頼」を守るセキュリティ意識も非常に大切です。\nエンジニア未経験の方々が、最初の一歩で躓かないための「守りの本質」を、社内の情報セキュリティを守る活動もしている私の経験を交えて共有します...",
+      "published": "2026-04-09T11:44:25+09:00",
+      "updated": "2026-04-09T11:44:26+09:00",
+      "author_name": "masa20057",
+      "likes_count": 36,
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "be7275bf10d1e43adb6d",
@@ -5770,7 +5806,7 @@
       "updated": "2026-04-08T16:31:24+09:00",
       "author_name": "hiroki_notes",
       "likes_count": 25,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "c53f3f22c2a958437b72",
@@ -6142,7 +6178,7 @@
       "updated": "2026-04-08T11:01:02+09:00",
       "author_name": "kentaro_kawamura",
       "likes_count": 11,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "d698429413a1c9703b76",
@@ -6505,6 +6541,18 @@
       "last_seen": "2026-03-22T07:25:12.680725393+00:00"
     },
     {
+      "key": "e38b3523685367108b68",
+      "item_id": "e38b3523685367108b68",
+      "title": "【35歳未経験でも理解できた】SPAへの進化",
+      "link": "https://qiita.com/wata-sho/items/e38b3523685367108b68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "「会議の紙資料」で例えるSPAの仕組み\n\n〜もう全ページ印刷し直さない〜\nこんにちは！\n35歳、未経験からWebエンジニアの道を歩み始めた者です。\nさて、みなさんは普段スマホでSNSを見ているとき、「いいね」を押しても画面が真っ白にならずにサクサク動くのを当たり前に感じて...",
+      "published": "2026-04-09T10:24:10+09:00",
+      "updated": "2026-04-09T10:24:10+09:00",
+      "author_name": "wata-sho",
+      "likes_count": 50,
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
+    },
+    {
       "key": "e3d1aa1ab112062c146e",
       "item_id": "e3d1aa1ab112062c146e",
       "title": "あなたはAIに「待った！」が言えるか？  ― AI時代に必要な「レビューする力」の話 ―",
@@ -6598,7 +6646,7 @@
       "updated": "2026-04-08T12:37:47+09:00",
       "author_name": "aito1234",
       "likes_count": 28,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "e80b763797d073815710",
@@ -6633,8 +6681,8 @@
       "published": "2026-04-07T22:28:02+09:00",
       "updated": "2026-04-07T22:28:02+09:00",
       "author_name": "kojin_dev_hub",
-      "likes_count": 78,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "likes_count": 82,
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "e88e7c247c6cb70c57dc",
@@ -6777,8 +6825,8 @@
       "published": "2026-04-08T12:50:48+09:00",
       "updated": "2026-04-08T12:50:49+09:00",
       "author_name": "hitomin_poke",
-      "likes_count": 95,
-      "last_seen": "2026-04-09T07:42:48.968025927+00:00"
+      "likes_count": 97,
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "eb9b3af2ef6e5b6b71ea",
@@ -6863,6 +6911,18 @@
       "author_name": "nak435",
       "likes_count": 15,
       "last_seen": "2026-03-05T07:26:37.977532674+00:00"
+    },
+    {
+      "key": "ee594fcff8a5b4e9ea2a",
+      "item_id": "ee594fcff8a5b4e9ea2a",
+      "title": "Java経験者がLaravel(PHP)の文法を整理【超基本】",
+      "link": "https://qiita.com/w_pechi/items/ee594fcff8a5b4e9ea2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "執筆のきっかけ\nこれまでのエンジニア歴でほぼJavaしか経験してきませんでしたが、\nついにPHP (Laravel) という別言語を使用している業務に入ることになりました。\n実際の業務が開始される前に、少しでもソースコードを理解しようとサンプルコードを探っていましたが、\n...",
+      "published": "2026-04-08T19:20:42+09:00",
+      "updated": "2026-04-08T19:20:42+09:00",
+      "author_name": "w_pechi",
+      "likes_count": 20,
+      "last_seen": "2026-04-09T08:43:57.267406069+00:00"
     },
     {
       "key": "ee5c69831501251a0ec0",
