@@ -1937,19 +1937,6 @@ GitHub: nezmickey/Zenith
 Claude Codeを日常的に使っているのですが、ここ1年ほどでSkills、プラグイン、Agent Teams、Hooksの進化…とアップデートが立て続けに入...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:4a7ddbcb8ed76d1c621b</id>
-    <title>なぜ私はWindowsを捨ててArch Linuxに住み着いたのか。システムの主しての「自由」</title>
-    <link rel="alternate" href="https://qiita.com/ry2x/items/4a7ddbcb8ed76d1c621b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-09T01:47:58+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ry2x&quot;&gt;ry2x&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T00:13:16+09:00&lt;br/&gt;Updated: 2026-02-09T01:47:58+09:00&lt;br/&gt;はじめに
-はじめまして。Ry2Xといいます。システムエンジニアをしている一般人です。
-今回は、Windows11からLinuxへ乗り換えて半年以上たったので自分がなぜLinuxに移住したのかをつらつらと書いていきたいと思います。
-
-私の現在のデスクトップ環境
-
-Win...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:f6fa910cb0c7efe2defc</id>
     <title>Claude Codeのコード流出から考える開発者の倫理</title>
     <link rel="alternate" href="https://qiita.com/mosaxiv/items/f6fa910cb0c7efe2defc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2226,5 +2213,25 @@ Unity で演出を作っていると、ほぼ確実にスキップ機能が必�
 難しく考えなくて大丈夫。一つひとつ、気軽に読んでみてください！
 
 対象読者：Claude Code初心者 ~ 中級者...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:7b8a5e65873a35ea72dd</id>
+    <title>結局 Python は遅いのか</title>
+    <link rel="alternate" href="https://qiita.com/k2-gc/items/7b8a5e65873a35ea72dd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-16T22:42:34+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/k2-gc&quot;&gt;k2-gc&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T14:23:13+09:00&lt;br/&gt;Updated: 2026-02-16T22:42:34+09:00&lt;br/&gt;結局 Python は遅いのか
+
+この記事では
+
+Python を用いて幾つかの方法で定積分の近似
+C++ で近似
+比較
+
+を行います．
+
+※追記(2026/02/16)：実行環境追加
+
+はじめに
+「Python は遅い」，「Python で for 使うな！」 と言...</summary>
   </entry>
 </feed>
