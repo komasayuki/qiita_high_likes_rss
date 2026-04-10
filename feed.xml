@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-04-09T11:44:26+09:00</updated>
+  <updated>2026-04-10T13:18:50+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -613,6 +613,16 @@ AIに仕事が奪われるというニュースを見て、エンジニアにな
 毎日変わり映えしない仕事をこなしながら、「このまま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e8803a092dd192543fb4</id>
+    <title>自作の短縮URLを社内Slackに貼ったら「フィッシングです」とセキュリティチームに通報された</title>
+    <link rel="alternate" href="https://qiita.com/kojin_dev_hub/items/e8803a092dd192543fb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-07T22:28:02+09:00</updated>
+    <summary type="html">Likes: 104&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kojin_dev_hub&quot;&gt;kojin_dev_hub&lt;/a&gt;&lt;br/&gt;Published: 2026-04-07T22:28:02+09:00&lt;br/&gt;Updated: 2026-04-07T22:28:02+09:00&lt;br/&gt;個人開発で短縮URLサービスを作っている。
+クリック分析、UTMパラメータ自動付与、OGPプレビュー。企業向けのBitlyみたいなやつを、個人で安く使える版として開発した。
+完成した時、嬉しくて社内Slackで共有した。
+「短縮URLサービス作りました！ よかったら使ってく...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4d04c2691c788d1781e1</id>
     <title>おうちで通信キャリアを再現してみた</title>
     <link rel="alternate" href="https://qiita.com/takuteh/items/4d04c2691c788d1781e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -620,16 +630,6 @@ AIに仕事が奪われるというニュースを見て、エンジニアにな
     <summary type="html">Likes: 104&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takuteh&quot;&gt;takuteh&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T21:25:38+09:00&lt;br/&gt;Updated: 2026-03-20T21:26:26+09:00&lt;br/&gt;はじめに
 せっかく通信キャリアのモバイルコア部門のエンジニアになったので、自宅でもコア設備を再現してみようと思いました。とは言っても私はモバイルコアの基盤開発担当なので、3GPPや設備については概要程度しか知りません。
 一部曖昧な説明があるかもしれませんがご了承ください。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e8803a092dd192543fb4</id>
-    <title>自作の短縮URLを社内Slackに貼ったら「フィッシングです」とセキュリティチームに通報された</title>
-    <link rel="alternate" href="https://qiita.com/kojin_dev_hub/items/e8803a092dd192543fb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-07T22:28:02+09:00</updated>
-    <summary type="html">Likes: 103&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kojin_dev_hub&quot;&gt;kojin_dev_hub&lt;/a&gt;&lt;br/&gt;Published: 2026-04-07T22:28:02+09:00&lt;br/&gt;Updated: 2026-04-07T22:28:02+09:00&lt;br/&gt;個人開発で短縮URLサービスを作っている。
-クリック分析、UTMパラメータ自動付与、OGPプレビュー。企業向けのBitlyみたいなやつを、個人で安く使える版として開発した。
-完成した時、嬉しくて社内Slackで共有した。
-「短縮URLサービス作りました！ よかったら使ってく...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:388a7aaad767b9e11fa3</id>
@@ -1168,6 +1168,15 @@ axiosサプライチェーン攻撃に関して、GitHub IssueにPostmortem（�
 そして...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:be5d46e82f7301747e86</id>
+    <title>脱・セキュリティ初心者。現場の信頼を勝ち取るための「3つの原則」と「1つの習慣」</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/be5d46e82f7301747e86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-09T11:44:26+09:00</updated>
+    <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T11:44:25+09:00&lt;br/&gt;Updated: 2026-04-09T11:44:26+09:00&lt;br/&gt;「コードさえ書ければOK」だと思っていませんか？実は僕もそうでした。
+でも、技術以前に「信頼」を守るセキュリティ意識も非常に大切です。
+エンジニア未経験の方々が、最初の一歩で躓かないための「守りの本質」を、社内の情報セキュリティを守る活動もしている私の経験を交えて共有します...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b996e374c91923141178</id>
     <title>DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/b996e374c91923141178?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1290,15 +1299,6 @@ GPUが積まれた高性能マシン。
     <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YASUHARA-Wataru&quot;&gt;YASUHARA-Wataru&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T01:58:34+09:00&lt;br/&gt;Updated: 2026-03-09T21:56:57+09:00&lt;br/&gt;はじめに
 Pythonを使い始めてはや十数年。他の言語も覚えないと思いつつ、研究、PoC用途で使う、簡単な解析や簡単なシミュレーションに使ってきました。
 表計算で広く使われるPandasですが、Pandasを最近あまり使わなくなったというSNSの投稿をみて、使用するライブ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:be5d46e82f7301747e86</id>
-    <title>脱・セキュリティ初心者。現場の信頼を勝ち取るための「3つの原則」と「1つの習慣」</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/be5d46e82f7301747e86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-09T11:44:26+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T11:44:25+09:00&lt;br/&gt;Updated: 2026-04-09T11:44:26+09:00&lt;br/&gt;「コードさえ書ければOK」だと思っていませんか？実は僕もそうでした。
-でも、技術以前に「信頼」を守るセキュリティ意識も非常に大切です。
-エンジニア未経験の方々が、最初の一歩で躓かないための「守りの本質」を、社内の情報セキュリティを守る活動もしている私の経験を交えて共有します...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:df077776b293163e0a42</id>
@@ -1635,6 +1635,31 @@ GitHub Copilot ファミリー
 GitHub Copilot CL...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d3f222758833cb694672</id>
+    <title>【35歳未経験でも理解できた】Web API</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/d3f222758833cb694672?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-10T10:22:05+09:00</updated>
+    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T10:22:05+09:00&lt;br/&gt;Updated: 2026-04-10T10:22:05+09:00&lt;br/&gt;「Web APIとREST」をファミレスの注文でスッキリ理解する
+こんにちは！
+35歳から未経験でWebを学んでいる者です。
+「Web API」や「REST」について、自分なりに理解を整理したのでまとめてみます。
+今回は、イメージしやすいように
+「ファミレスの注文」に例え...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:a9d75de3677bdd22dced</id>
+    <title>障害調査中にviewコマンドで巨大ログを開いてアプリを全停止させたお話</title>
+    <link rel="alternate" href="https://qiita.com/km23/items/a9d75de3677bdd22dced?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-08T18:57:08+09:00</updated>
+    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/km23&quot;&gt;km23&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T18:57:08+09:00&lt;br/&gt;Updated: 2026-04-08T18:57:08+09:00&lt;br/&gt;はじめに
+稼働中のシステムで問題が発生した際、いち早く原因を特定しようと焦ってしまうことはないでしょうか。
+今回は、良かれと思って行った障害調査のアクションが、結果的にシステム全体を停止させる二次災害を引き起こしてしまったお話です。
+
+事の顛末
+
+1. アプリケーション障...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:001a7c7d3a35d797ddcb</id>
     <title>データアナリスト3年目が語る「教科書に載ってない」現場のリアル</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/001a7c7d3a35d797ddcb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1733,19 +1758,6 @@ Morpho社の調査が興味深いデータを出しています。SWE-benchに�
 注目すべきは、その採用速度です。公開...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a9d75de3677bdd22dced</id>
-    <title>障害調査中にviewコマンドで巨大ログを開いてアプリを全停止させたお話</title>
-    <link rel="alternate" href="https://qiita.com/km23/items/a9d75de3677bdd22dced?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-08T18:57:08+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/km23&quot;&gt;km23&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T18:57:08+09:00&lt;br/&gt;Updated: 2026-04-08T18:57:08+09:00&lt;br/&gt;はじめに
-稼働中のシステムで問題が発生した際、いち早く原因を特定しようと焦ってしまうことはないでしょうか。
-今回は、良かれと思って行った障害調査のアクションが、結果的にシステム全体を停止させる二次災害を引き起こしてしまったお話です。
-
-事の顛末
-
-1. アプリケーション障...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:4db2182e2384df4122a2</id>
     <title>Microsoft Teams を悪用したCEO詐欺（ビジネスチャット詐欺）について</title>
     <link rel="alternate" href="https://qiita.com/hirotomotaguchi/items/4db2182e2384df4122a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1832,6 +1844,14 @@ draw.io の MCP サーバーが公開されていたので、軽く触ってみ�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2ad0240c56eb7507b261</id>
+    <title>日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/2ad0240c56eb7507b261?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-09T00:40:23+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuji-arakawa&quot;&gt;yuji-arakawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T00:40:23+09:00&lt;br/&gt;Updated: 2026-04-09T00:40:23+09:00&lt;br/&gt;はじめに
+富士通、理化学研究所 AIP、東京科学大学、東海大学の研究チームが arXiv で公開した論文 「PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0dd4fc68180aa8526678</id>
     <title>エンジニアが「事業を動かせる人」になるための4要素</title>
     <link rel="alternate" href="https://qiita.com/yamapiiii/items/0dd4fc68180aa8526678?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1890,14 +1910,6 @@ PdMや事業責任者へのキャリアチェンジを考えている人
 c...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:2ad0240c56eb7507b261</id>
-    <title>日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/2ad0240c56eb7507b261?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-09T00:40:23+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuji-arakawa&quot;&gt;yuji-arakawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T00:40:23+09:00&lt;br/&gt;Updated: 2026-04-09T00:40:23+09:00&lt;br/&gt;はじめに
-富士通、理化学研究所 AIP、東京科学大学、東海大学の研究チームが arXiv で公開した論文 「PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:726d9210cc8666866f86</id>
     <title>ポートフォリオ用の綺麗なGitHubリポジトリの作り方 ―すぐに使えるテンプレート付き</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/726d9210cc8666866f86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1948,6 +1960,19 @@ GitHub: nezmickey/Zenith
     <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/gawa32&quot;&gt;gawa32&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T17:30:10+09:00&lt;br/&gt;Updated: 2026-03-02T17:30:12+09:00&lt;br/&gt;0. はじめに
 こんにちは！KIYO Learningでスタディングの開発をしている @gawa32 です！
 Claude Codeを日常的に使っているのですが、ここ1年ほどでSkills、プラグイン、Agent Teams、Hooksの進化…とアップデートが立て続けに入...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:79f74ec8cd016172619b</id>
+    <title>“書けるだけ”じゃ足りない。今どきエンジニアに必要なスキルの話</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/79f74ec8cd016172619b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-10T13:18:50+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T13:17:40+09:00&lt;br/&gt;Updated: 2026-04-10T13:18:50+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+“書けるだけ”...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f6fa910cb0c7efe2defc</id>
@@ -2205,26 +2230,5 @@ llama.cpp や Open WebUI を使ったロー...</summary>
 Unity で演出を作っていると、ほぼ確実にスキップ機能が必要になります。
 リザルト画面、ガチャ演出、ストーリーパート。やりたいことは「ボタンが押されたら、実行中の演出を飛ばして次へ進む」だけなのに、実装は毎回つらい。
 私自身、この問題にかなり悩みました。その末...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fdb955deb0eff36f263f</id>
-    <title>Antigravity クオータ0%枯渇問題 (Proプラン向け) (クレジットに関して修正)</title>
-    <link rel="alternate" href="https://qiita.com/masakinihirota/items/fdb955deb0eff36f263f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-14T15:39:19+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masakinihirota&quot;&gt;masakinihirota&lt;/a&gt;&lt;br/&gt;Published: 2026-03-13T04:03:42+09:00&lt;br/&gt;Updated: 2026-03-14T15:39:19+09:00&lt;br/&gt;お詫びと訂正
-本記事の初版では、AIクレジットの解釈に誤りがあり、GCPクレジットと同一視する記述を含んでいました。正しくは、Google One ヘルプに記載のある「AIクレジット」の単価体系に基づくもので、GCPの無料トライアルクレジットとは別枠でした。
-誤解を招く内...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2913db0cbd5ed75f6968</id>
-    <title>いまさら聞けない…そんな人のための Claude Code「さしすせそ」</title>
-    <link rel="alternate" href="https://qiita.com/shinnosuke_takami/items/2913db0cbd5ed75f6968?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T10:55:29+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinnosuke_takami&quot;&gt;shinnosuke_takami&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T10:55:28+09:00&lt;br/&gt;Updated: 2026-03-09T10:55:29+09:00&lt;br/&gt;概要
-料理の基本といえば「さしすせそ」（砂糖・塩・酢・醤油・味噌）。
-実は Claude Code にも、同じように覚えておきたい5つのコツがあります。
-難しく考えなくて大丈夫。一つひとつ、気軽に読んでみてください！
-
-対象読者：Claude Code初心者 ~ 中級者...</summary>
   </entry>
 </feed>
