@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-04-10T13:18:50+09:00</updated>
+  <updated>2026-04-10T22:15:57+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -584,6 +584,16 @@ HOC(高...</summary>
 リポジトリにこのファイルを置くことで、Codex CLI・Cursor・GitHub Copilot など多くのツールが共通の指示を読み取れます。ただし、ツールごとに対応状況や読み込み条件には...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e8803a092dd192543fb4</id>
+    <title>自作の短縮URLを社内Slackに貼ったら「フィッシングです」とセキュリティチームに通報された</title>
+    <link rel="alternate" href="https://qiita.com/kojin_dev_hub/items/e8803a092dd192543fb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-07T22:28:02+09:00</updated>
+    <summary type="html">Likes: 108&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kojin_dev_hub&quot;&gt;kojin_dev_hub&lt;/a&gt;&lt;br/&gt;Published: 2026-04-07T22:28:02+09:00&lt;br/&gt;Updated: 2026-04-07T22:28:02+09:00&lt;br/&gt;個人開発で短縮URLサービスを作っている。
+クリック分析、UTMパラメータ自動付与、OGPプレビュー。企業向けのBitlyみたいなやつを、個人で安く使える版として開発した。
+完成した時、嬉しくて社内Slackで共有した。
+「短縮URLサービス作りました！ よかったら使ってく...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cace9602e4eaea995cc9</id>
     <title>Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/cace9602e4eaea995cc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -591,16 +601,6 @@ HOC(高...</summary>
     <summary type="html">Likes: 108&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T11:43:54+09:00&lt;br/&gt;Updated: 2026-02-19T12:28:24+09:00&lt;br/&gt;はじめに
 2026年1月、Anthropicが「The Complete Guide to Building Skills for Claude」という32ページのPDFを公開しました。
 スキルとは、Claudeに特定のタスクを一貫して実行させるための仕組みです。Mar...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e8803a092dd192543fb4</id>
-    <title>自作の短縮URLを社内Slackに貼ったら「フィッシングです」とセキュリティチームに通報された</title>
-    <link rel="alternate" href="https://qiita.com/kojin_dev_hub/items/e8803a092dd192543fb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-07T22:28:02+09:00</updated>
-    <summary type="html">Likes: 107&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kojin_dev_hub&quot;&gt;kojin_dev_hub&lt;/a&gt;&lt;br/&gt;Published: 2026-04-07T22:28:02+09:00&lt;br/&gt;Updated: 2026-04-07T22:28:02+09:00&lt;br/&gt;個人開発で短縮URLサービスを作っている。
-クリック分析、UTMパラメータ自動付与、OGPプレビュー。企業向けのBitlyみたいなやつを、個人で安く使える版として開発した。
-完成した時、嬉しくて社内Slackで共有した。
-「短縮URLサービス作りました！ よかったら使ってく...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ee5c69831501251a0ec0</id>
@@ -1079,6 +1079,15 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
 自分も一度、デフォルト設定でバイブコーディングをしてみて「こんなもんか」と失望したも...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:be5d46e82f7301747e86</id>
+    <title>脱・セキュリティ初心者。現場の信頼を勝ち取るための「3つの原則」と「1つの習慣」</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/be5d46e82f7301747e86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-09T11:44:26+09:00</updated>
+    <summary type="html">Likes: 75&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T11:44:25+09:00&lt;br/&gt;Updated: 2026-04-09T11:44:26+09:00&lt;br/&gt;「コードさえ書ければOK」だと思っていませんか？実は僕もそうでした。
+でも、技術以前に「信頼」を守るセキュリティ意識も非常に大切です。
+エンジニア未経験の方々が、最初の一歩で躓かないための「守りの本質」を、社内の情報セキュリティを守る活動もしている私の経験を交えて共有します...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1d84037b3b9a499167de</id>
     <title>draw.io MCP + Playwright MCP で画面設計書を自動生成してみた（GitHub Copilot Agent Skills）</title>
     <link rel="alternate" href="https://qiita.com/Ymmy/items/1d84037b3b9a499167de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1090,15 +1099,6 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
 画面に遷移してスクリーンショット取得（Playwright）
 スクショに項番を付けたレイアウト図を作る（draw.io）
 HTML/画像を根拠にMark...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:be5d46e82f7301747e86</id>
-    <title>脱・セキュリティ初心者。現場の信頼を勝ち取るための「3つの原則」と「1つの習慣」</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/be5d46e82f7301747e86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-09T11:44:26+09:00</updated>
-    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T11:44:25+09:00&lt;br/&gt;Updated: 2026-04-09T11:44:26+09:00&lt;br/&gt;「コードさえ書ければOK」だと思っていませんか？実は僕もそうでした。
-でも、技術以前に「信頼」を守るセキュリティ意識も非常に大切です。
-エンジニア未経験の方々が、最初の一歩で躓かないための「守りの本質」を、社内の情報セキュリティを守る活動もしている私の経験を交えて共有します...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e38b3523685367108b68</id>
@@ -1542,6 +1542,19 @@ C言語はアセンブラに翻訳されます。
 ア...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:79f74ec8cd016172619b</id>
+    <title>“書けるだけ”じゃ足りない。今どきエンジニアに必要なスキルの話</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/79f74ec8cd016172619b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-10T13:18:50+09:00</updated>
+    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T13:17:40+09:00&lt;br/&gt;Updated: 2026-04-10T13:18:50+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+“書けるだけ”...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3674294dc301f5dcf453</id>
     <title>仕様駆動開発は、ウォーターフォールへの回帰ではない。</title>
     <link rel="alternate" href="https://qiita.com/ju-kosaka/items/3674294dc301f5dcf453?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1594,19 +1607,6 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 使い続けると...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:79f74ec8cd016172619b</id>
-    <title>“書けるだけ”じゃ足りない。今どきエンジニアに必要なスキルの話</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/79f74ec8cd016172619b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-10T13:18:50+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T13:17:40+09:00&lt;br/&gt;Updated: 2026-04-10T13:18:50+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-“書けるだけ”...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:22e6a3faea1bdcaefef3</id>
     <title>「新人にAI禁止令を出した組織」が、どのくらい開発フローでAIを使っているか</title>
     <link rel="alternate" href="https://qiita.com/WdknWdkn/items/22e6a3faea1bdcaefef3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1615,6 +1615,14 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 
 この記事を書いた経緯
 去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきまし...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:2ad0240c56eb7507b261</id>
+    <title>日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/2ad0240c56eb7507b261?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-10T22:15:57+09:00</updated>
+    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuji-arakawa&quot;&gt;yuji-arakawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T00:40:23+09:00&lt;br/&gt;Updated: 2026-04-10T22:15:57+09:00&lt;br/&gt;はじめに
+富士通、理化学研究所 AIP、東京科学大学、東海大学の研究チームが arXiv で公開した論文 「PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d3f222758833cb694672</id>
@@ -1640,14 +1648,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 事の顛末
 
 1. アプリケーション障...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2ad0240c56eb7507b261</id>
-    <title>日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/2ad0240c56eb7507b261?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-09T00:40:23+09:00</updated>
-    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuji-arakawa&quot;&gt;yuji-arakawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T00:40:23+09:00&lt;br/&gt;Updated: 2026-04-09T00:40:23+09:00&lt;br/&gt;はじめに
-富士通、理化学研究所 AIP、東京科学大学、東海大学の研究チームが arXiv で公開した論文 「PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
