@@ -967,6 +967,14 @@ AIがコードを書くことが当たり前となった2026年現在、エン�
 35歳から未経験でエ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2ad0240c56eb7507b261</id>
+    <title>日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/2ad0240c56eb7507b261?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-10T22:15:57+09:00</updated>
+    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuji-arakawa&quot;&gt;yuji-arakawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T00:40:23+09:00&lt;br/&gt;Updated: 2026-04-10T22:15:57+09:00&lt;br/&gt;はじめに
+富士通、理化学研究所 AIP、東京科学大学、東海大学の研究チームが arXiv で公開した論文 「PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:be5d46e82f7301747e86</id>
     <title>脱・セキュリティ初心者。現場の信頼を勝ち取るための「3つの原則」と「1つの習慣」</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/be5d46e82f7301747e86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1028,14 +1036,6 @@ Claude Codeを使っていて、こんな経験はありませんか？
     <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T01:27:19+09:00&lt;br/&gt;Updated: 2026-02-26T10:04:26+09:00&lt;br/&gt;はじめに
 MinIO は Amazon S3 互換の API を備えたオブジェクトストレージです。
 docker-compose.yml に数行書くだけで S3 互換のストレージが立ち上がるため、ローカル開発環境の S3 モックとして広く使われてきました。DockerHu...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2ad0240c56eb7507b261</id>
-    <title>日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/2ad0240c56eb7507b261?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-10T22:15:57+09:00</updated>
-    <summary type="html">Likes: 77&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuji-arakawa&quot;&gt;yuji-arakawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T00:40:23+09:00&lt;br/&gt;Updated: 2026-04-10T22:15:57+09:00&lt;br/&gt;はじめに
-富士通、理化学研究所 AIP、東京科学大学、東海大学の研究チームが arXiv で公開した論文 「PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:07b7926408a3447b6665</id>
@@ -2185,6 +2185,22 @@ llama.cpp や Open WebUI を使ったロー...</summary>
 去年(2025年)にAZ-104、SOA、SAA、SAP、ANSなどのいわゆるアソシエイトからプロフェッショナルあた...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:402d4a9c414354220ba3</id>
+    <title>【Git】実務でよくあるGitエラーと対処法まとめ</title>
+    <link rel="alternate" href="https://qiita.com/yuto-vj/items/402d4a9c414354220ba3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-08T18:14:01+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuto-vj&quot;&gt;yuto-vj&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T18:14:01+09:00&lt;br/&gt;Updated: 2026-04-08T18:14:01+09:00&lt;br/&gt;Gitを使っていると、ほぼ必ずエラーに遭遇します。
+特に実務では、
+
+pullしたらコンフリクトした
+pushできない
+ブランチを間違えた
+コミットをやり直したい
+
+といったトラブルが日常的に発生します。
+今回は、実務でよくあるGitエラーとその対処法をまとめて紹介します...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:565941faee9c67b64e14</id>
     <title>ランダムフォレスト → XGBoost → LightGBM：進化の流れで理解する機械学習モデル</title>
     <link rel="alternate" href="https://qiita.com/KanNishida/items/565941faee9c67b64e14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2221,14 +2237,5 @@ llama.cpp や Open WebUI を使ったロー...</summary>
 Unity で演出を作っていると、ほぼ確実にスキップ機能が必要になります。
 リザルト画面、ガチャ演出、ストーリーパート。やりたいことは「ボタンが押されたら、実行中の演出を飛ばして次へ進む」だけなのに、実装は毎回つらい。
 私自身、この問題にかなり悩みました。その末...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fdb955deb0eff36f263f</id>
-    <title>Antigravity クオータ0%枯渇問題 (Proプラン向け) (クレジットに関して修正)</title>
-    <link rel="alternate" href="https://qiita.com/masakinihirota/items/fdb955deb0eff36f263f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-14T15:39:19+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masakinihirota&quot;&gt;masakinihirota&lt;/a&gt;&lt;br/&gt;Published: 2026-03-13T04:03:42+09:00&lt;br/&gt;Updated: 2026-03-14T15:39:19+09:00&lt;br/&gt;お詫びと訂正
-本記事の初版では、AIクレジットの解釈に誤りがあり、GCPクレジットと同一視する記述を含んでいました。正しくは、Google One ヘルプに記載のある「AIクレジット」の単価体系に基づくもので、GCPの無料トライアルクレジットとは別枠でした。
-誤解を招く内...</summary>
   </entry>
 </feed>
