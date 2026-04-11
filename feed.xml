@@ -1187,6 +1187,14 @@ axiosサプライチェーン攻撃に関して、GitHub IssueにPostmortem（�
 2026年3月、海外でまさにこの事態が発生しました。個人開発者のS3バケットがDDoS攻撃を受け、3日間で160TBのデータ転送が発生。結果...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2ad0240c56eb7507b261</id>
+    <title>日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/2ad0240c56eb7507b261?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-10T22:15:57+09:00</updated>
+    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuji-arakawa&quot;&gt;yuji-arakawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T00:40:23+09:00&lt;br/&gt;Updated: 2026-04-10T22:15:57+09:00&lt;br/&gt;はじめに
+富士通、理化学研究所 AIP、東京科学大学、東海大学の研究チームが arXiv で公開した論文 「PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1c443b123080dcd994f1</id>
     <title>【35歳未経験でも理解できた】WWWの基礎</title>
     <link rel="alternate" href="https://qiita.com/wata-sho/items/1c443b123080dcd994f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1279,6 +1287,19 @@ GPUが積まれた高性能マシン。
 「MCP はトークンの無駄遣い、CLI の方が35倍効率いい！」と勢いよ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:79f74ec8cd016172619b</id>
+    <title>“書けるだけ”じゃ足りない。今どきエンジニアに必要なスキルの話</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/79f74ec8cd016172619b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-10T13:18:50+09:00</updated>
+    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T13:17:40+09:00&lt;br/&gt;Updated: 2026-04-10T13:18:50+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+“書けるだけ”...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8577b96433491173bf4e</id>
     <title>研究効率を爆上げするAIツールまとめ（論文調査〜執筆まで）</title>
     <link rel="alternate" href="https://qiita.com/Milab_honda/items/8577b96433491173bf4e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1299,14 +1320,6 @@ GPUが積まれた高性能マシン。
     <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YASUHARA-Wataru&quot;&gt;YASUHARA-Wataru&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T01:58:34+09:00&lt;br/&gt;Updated: 2026-03-09T21:56:57+09:00&lt;br/&gt;はじめに
 Pythonを使い始めてはや十数年。他の言語も覚えないと思いつつ、研究、PoC用途で使う、簡単な解析や簡単なシミュレーションに使ってきました。
 表計算で広く使われるPandasですが、Pandasを最近あまり使わなくなったというSNSの投稿をみて、使用するライブ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2ad0240c56eb7507b261</id>
-    <title>日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/2ad0240c56eb7507b261?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-10T22:15:57+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuji-arakawa&quot;&gt;yuji-arakawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T00:40:23+09:00&lt;br/&gt;Updated: 2026-04-10T22:15:57+09:00&lt;br/&gt;はじめに
-富士通、理化学研究所 AIP、東京科学大学、東海大学の研究チームが arXiv で公開した論文 「PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:df077776b293163e0a42</id>
@@ -1342,19 +1355,6 @@ Googleマップを開いても、駅構内ではほぼ役に立たない
 「どの出口から...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:79f74ec8cd016172619b</id>
-    <title>“書けるだけ”じゃ足りない。今どきエンジニアに必要なスキルの話</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/79f74ec8cd016172619b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-10T13:18:50+09:00</updated>
-    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T13:17:40+09:00&lt;br/&gt;Updated: 2026-04-10T13:18:50+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-“書けるだけ”...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:441f4c6a467dae69583a</id>
     <title>セキュリティ基礎講座：公開鍵暗号は３種類あるよ</title>
     <link rel="alternate" href="https://qiita.com/peridotan/items/441f4c6a467dae69583a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1375,6 +1375,18 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 今回は『スラスラわかるネットワーク&amp;amp;TCP/IPのきほん』のChapter06 セキュリティ章...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d3f222758833cb694672</id>
+    <title>【35歳未経験でも理解できた】Web API</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/d3f222758833cb694672?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-10T10:22:05+09:00</updated>
+    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T10:22:05+09:00&lt;br/&gt;Updated: 2026-04-10T10:22:05+09:00&lt;br/&gt;「Web APIとREST」をファミレスの注文でスッキリ理解する
+こんにちは！
+35歳から未経験でWebを学んでいる者です。
+「Web API」や「REST」について、自分なりに理解を整理したのでまとめてみます。
+今回は、イメージしやすいように
+「ファミレスの注文」に例え...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:17c497375ed2c6c3d054</id>
     <title>axios乗っ取り事件の全容 — 39分間で何が起きたか、そして今すぐやるべき防御策</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/17c497375ed2c6c3d054?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1385,18 +1397,6 @@ axiosはJavaScriptで最も使われるHTTPクライアントです。
 週間ダウンロード数は1億回を超えます。
 私自身、ほぼすべてのNode.jsプロジェクトで使っています。
 事件を知っ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d3f222758833cb694672</id>
-    <title>【35歳未経験でも理解できた】Web API</title>
-    <link rel="alternate" href="https://qiita.com/wata-sho/items/d3f222758833cb694672?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-10T10:22:05+09:00</updated>
-    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T10:22:05+09:00&lt;br/&gt;Updated: 2026-04-10T10:22:05+09:00&lt;br/&gt;「Web APIとREST」をファミレスの注文でスッキリ理解する
-こんにちは！
-35歳から未経験でWebを学んでいる者です。
-「Web API」や「REST」について、自分なりに理解を整理したのでまとめてみます。
-今回は、イメージしやすいように
-「ファミレスの注文」に例え...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:155f3b5a0dcde72fcd10</id>
@@ -1570,7 +1570,7 @@ C言語はアセンブラに翻訳されます。
     <title>障害調査中にviewコマンドで巨大ログを開いてアプリを全停止させたお話</title>
     <link rel="alternate" href="https://qiita.com/km23/items/a9d75de3677bdd22dced?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-08T18:57:08+09:00</updated>
-    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/km23&quot;&gt;km23&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T18:57:08+09:00&lt;br/&gt;Updated: 2026-04-08T18:57:08+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/km23&quot;&gt;km23&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T18:57:08+09:00&lt;br/&gt;Updated: 2026-04-08T18:57:08+09:00&lt;br/&gt;はじめに
 稼働中のシステムで問題が発生した際、いち早く原因を特定しようと焦ってしまうことはないでしょうか。
 今回は、良かれと思って行った障害調査のアクションが、結果的にシステム全体を停止させる二次災害を引き起こしてしまったお話です。
 
