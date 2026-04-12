@@ -31,7 +31,7 @@ AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示�
     <title>エンジニア歴20年の私が、素人バイブコーディング勢に物申す</title>
     <link rel="alternate" href="https://qiita.com/Akira-Isegawa/items/00f23d206c504db2ac3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-10T21:40:06+09:00</updated>
-    <summary type="html">Likes: 331&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Akira-Isegawa&quot;&gt;Akira-Isegawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T16:59:36+09:00&lt;br/&gt;Updated: 2026-04-10T21:40:06+09:00&lt;br/&gt;お前がコードを書き始める前に
+    <summary type="html">Likes: 341&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Akira-Isegawa&quot;&gt;Akira-Isegawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T16:59:36+09:00&lt;br/&gt;Updated: 2026-04-10T21:40:06+09:00&lt;br/&gt;お前がコードを書き始める前に
 言っておきたい事がある
 かなりきびしい話もするが
 俺の本音を聞いておけ
@@ -249,6 +249,17 @@ Bunでビルドしたときにデフォルトで生成されるsou...</summary>
 100行書いたCLAUDE.mdと、35行に削って残りを.claude/rules/に分離したCLAUDE.md。同じ指示を出しても、後者の方がClaudeの出力...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:36404f9ec9c786cde671</id>
+    <title>マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術</title>
+    <link rel="alternate" href="https://qiita.com/teppei19980914/items/36404f9ec9c786cde671?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-10T18:34:01+09:00</updated>
+    <summary type="html">Likes: 174&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T18:34:01+09:00&lt;br/&gt;Updated: 2026-04-10T18:34:01+09:00&lt;br/&gt;マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術
+
+はじめに
+皆さんは Markdown（マークダウン） を「見出しと箇条書きが書ける記法」程度に思っていませんか？
+私もかつてはそうでした。しかし、個人開発で REQUIREMENTS....</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:838bc1b59a84b16820a9</id>
     <title>エンジニア初学者に知ってほしい。プログラミングすることより大切な成長を加速させる4つの指針</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/838bc1b59a84b16820a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -257,17 +268,6 @@ Bunでビルドしたときにデフォルトで生成されるsou...</summary>
 AIにコードを丸投げし、中身が分からないまま過ごす日々が不安
 こんなことを思って日々過ごしていませんか？
 そんな方に僕が現場を経験して気づいた、技術の「表面」ではなく「本質」を掴んで成長を加速させるためのヒントを、僕の失敗談を交えつつお伝えします...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:36404f9ec9c786cde671</id>
-    <title>マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術</title>
-    <link rel="alternate" href="https://qiita.com/teppei19980914/items/36404f9ec9c786cde671?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-10T18:34:01+09:00</updated>
-    <summary type="html">Likes: 170&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T18:34:01+09:00&lt;br/&gt;Updated: 2026-04-10T18:34:01+09:00&lt;br/&gt;マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術
-
-はじめに
-皆さんは Markdown（マークダウン） を「見出しと箇条書きが書ける記法」程度に思っていませんか？
-私もかつてはそうでした。しかし、個人開発で REQUIREMENTS....</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:48f13332305338720524</id>
@@ -1598,6 +1598,16 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 複数のClaude Codeインスタンスを「チーム」として協調動作させるという、なかなか攻めた実験的機能（Re...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
+    <title>【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/fcab851c5351f79b481d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-12T20:56:45+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T13:53:43+09:00&lt;br/&gt;Updated: 2026-04-12T20:56:45+09:00&lt;br/&gt;はじめに
+
+こんばんは、mirukyです。
+2026年3月31日、npmの Axios パッケージ（週間1億ダウンロード）がサプライチェーン攻撃を受けました。攻撃者はメンテナーへの標的型ソーシャルエンジニアリングでセッションを乗っ取り、悪意ある依存 plain-crypt...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:78fdef38b201985cb0d9</id>
     <title>【GitHub】GitHubは低品質なユーザによるContributeを拒否する仕様を検討・実装中</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/78fdef38b201985cb0d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1626,16 +1636,6 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 
 この記事を書いた経緯
 去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきまし...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
-    <title>【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/fcab851c5351f79b481d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-12T20:56:45+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T13:53:43+09:00&lt;br/&gt;Updated: 2026-04-12T20:56:45+09:00&lt;br/&gt;はじめに
-
-こんばんは、mirukyです。
-2026年3月31日、npmの Axios パッケージ（週間1億ダウンロード）がサプライチェーン攻撃を受けました。攻撃者はメンテナーへの標的型ソーシャルエンジニアリングでセッションを乗っ取り、悪意ある依存 plain-crypt...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
