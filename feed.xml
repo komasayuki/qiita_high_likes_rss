@@ -31,7 +31,7 @@ AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示�
     <title>エンジニア歴20年の私が、素人バイブコーディング勢に物申す</title>
     <link rel="alternate" href="https://qiita.com/Akira-Isegawa/items/00f23d206c504db2ac3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-10T21:40:06+09:00</updated>
-    <summary type="html">Likes: 344&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Akira-Isegawa&quot;&gt;Akira-Isegawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T16:59:36+09:00&lt;br/&gt;Updated: 2026-04-10T21:40:06+09:00&lt;br/&gt;お前がコードを書き始める前に
+    <summary type="html">Likes: 345&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Akira-Isegawa&quot;&gt;Akira-Isegawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T16:59:36+09:00&lt;br/&gt;Updated: 2026-04-10T21:40:06+09:00&lt;br/&gt;お前がコードを書き始める前に
 言っておきたい事がある
 かなりきびしい話もするが
 俺の本音を聞いておけ
@@ -1578,6 +1578,16 @@ C言語はアセンブラに翻訳されます。
 ア...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
+    <title>【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/fcab851c5351f79b481d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-12T20:56:45+09:00</updated>
+    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T13:53:43+09:00&lt;br/&gt;Updated: 2026-04-12T20:56:45+09:00&lt;br/&gt;はじめに
+
+こんばんは、mirukyです。
+2026年3月31日、npmの Axios パッケージ（週間1億ダウンロード）がサプライチェーン攻撃を受けました。攻撃者はメンテナーへの標的型ソーシャルエンジニアリングでセッションを乗っ取り、悪意ある依存 plain-crypt...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3674294dc301f5dcf453</id>
     <title>仕様駆動開発は、ウォーターフォールへの回帰ではない。</title>
     <link rel="alternate" href="https://qiita.com/ju-kosaka/items/3674294dc301f5dcf453?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1596,16 +1606,6 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
 みなさん、Claude CodeのAgent Teams つかってます？
 複数のClaude Codeインスタンスを「チーム」として協調動作させるという、なかなか攻めた実験的機能（Re...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
-    <title>【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/fcab851c5351f79b481d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-12T20:56:45+09:00</updated>
-    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T13:53:43+09:00&lt;br/&gt;Updated: 2026-04-12T20:56:45+09:00&lt;br/&gt;はじめに
-
-こんばんは、mirukyです。
-2026年3月31日、npmの Axios パッケージ（週間1億ダウンロード）がサプライチェーン攻撃を受けました。攻撃者はメンテナーへの標的型ソーシャルエンジニアリングでセッションを乗っ取り、悪意ある依存 plain-crypt...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:78fdef38b201985cb0d9</id>
