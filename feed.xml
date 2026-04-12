@@ -208,6 +208,19 @@ Webアプリケーションのアーキテクチャは、時代とともに構�
 本記事では、その変遷をJavaの技術スタックを軸に、2層構造（Model 1）からMVCパターン（Model 2）、レイヤードアーキテクチャ、そしてヘキサゴナルアーキテクチャ・クリーン...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:00f23d206c504db2ac3b</id>
+    <title>エンジニア歴20年の私が、素人バイブコーディング勢に物申す</title>
+    <link rel="alternate" href="https://qiita.com/Akira-Isegawa/items/00f23d206c504db2ac3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-10T21:40:06+09:00</updated>
+    <summary type="html">Likes: 183&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Akira-Isegawa&quot;&gt;Akira-Isegawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T16:59:36+09:00&lt;br/&gt;Updated: 2026-04-10T21:40:06+09:00&lt;br/&gt;お前がコードを書き始める前に
+言っておきたい事がある
+かなりきびしい話もするが
+俺の本音を聞いておけ
+
+はじめに
+これから少しの間、不器用で、偉そうで、厳しいことを言う。けれど最後まで聞いてくれれば、その裏側にあるものもわかってもらえると思う。だから先に謝っておく。生...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a867e1954b80e78cf146</id>
     <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
     <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -244,19 +257,6 @@ Bunでビルドしたときにデフォルトで生成されるsou...</summary>
 AIにコードを丸投げし、中身が分からないまま過ごす日々が不安
 こんなことを思って日々過ごしていませんか？
 そんな方に僕が現場を経験して気づいた、技術の「表面」ではなく「本質」を掴んで成長を加速させるためのヒントを、僕の失敗談を交えつつお伝えします...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:00f23d206c504db2ac3b</id>
-    <title>エンジニア歴20年の私が、素人バイブコーディング勢に物申す</title>
-    <link rel="alternate" href="https://qiita.com/Akira-Isegawa/items/00f23d206c504db2ac3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-10T21:40:06+09:00</updated>
-    <summary type="html">Likes: 170&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Akira-Isegawa&quot;&gt;Akira-Isegawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T16:59:36+09:00&lt;br/&gt;Updated: 2026-04-10T21:40:06+09:00&lt;br/&gt;お前がコードを書き始める前に
-言っておきたい事がある
-かなりきびしい話もするが
-俺の本音を聞いておけ
-
-はじめに
-これから少しの間、不器用で、偉そうで、厳しいことを言う。けれど最後まで聞いてくれれば、その裏側にあるものもわかってもらえると思う。だから先に謝っておく。生...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:48f13332305338720524</id>
@@ -431,6 +431,17 @@ https://x.com/aiteacher37681/status/2026187321477931407?s=20
 PlanモードでClaude Codeに「Remot...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:36404f9ec9c786cde671</id>
+    <title>マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術</title>
+    <link rel="alternate" href="https://qiita.com/teppei19980914/items/36404f9ec9c786cde671?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-10T18:34:01+09:00</updated>
+    <summary type="html">Likes: 126&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T18:34:01+09:00&lt;br/&gt;Updated: 2026-04-10T18:34:01+09:00&lt;br/&gt;マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術
+
+はじめに
+皆さんは Markdown（マークダウン） を「見出しと箇条書きが書ける記法」程度に思っていませんか？
+私もかつてはそうでした。しかし、個人開発で REQUIREMENTS....</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:62519da65ca2dc391f0b</id>
     <title>リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法</title>
     <link rel="alternate" href="https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -480,17 +491,6 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁があります。
 「さっきまで完璧に理解してくれていたのに、新しいセッションを開いたら全部忘れている」
 プロジェクトの背景を説明し直す。コーディング規約を再度伝える。さっき試して失敗したアプローチをま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:36404f9ec9c786cde671</id>
-    <title>マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術</title>
-    <link rel="alternate" href="https://qiita.com/teppei19980914/items/36404f9ec9c786cde671?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-10T18:34:01+09:00</updated>
-    <summary type="html">Likes: 121&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T18:34:01+09:00&lt;br/&gt;Updated: 2026-04-10T18:34:01+09:00&lt;br/&gt;マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術
-
-はじめに
-皆さんは Markdown（マークダウン） を「見出しと箇条書きが書ける記法」程度に思っていませんか？
-私もかつてはそうでした。しかし、個人開発で REQUIREMENTS....</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c841d47f35e9c04c6bee</id>
