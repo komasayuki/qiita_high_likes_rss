@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-04-12T20:56:45+09:00</updated>
+  <updated>2026-04-13T11:07:41+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -20,8 +20,8 @@ Claude Code、まだ「コードを書くツール」だと思ってませんか
     <id>tag:qiita.com,2026:00f23d206c504db2ac3b</id>
     <title>エンジニア歴20年の私が、素人バイブコーディング勢に物申す</title>
     <link rel="alternate" href="https://qiita.com/Akira-Isegawa/items/00f23d206c504db2ac3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-10T21:40:06+09:00</updated>
-    <summary type="html">Likes: 460&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Akira-Isegawa&quot;&gt;Akira-Isegawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T16:59:36+09:00&lt;br/&gt;Updated: 2026-04-10T21:40:06+09:00&lt;br/&gt;お前がコードを書き始める前に
+    <updated>2026-04-13T11:07:41+09:00</updated>
+    <summary type="html">Likes: 501&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Akira-Isegawa&quot;&gt;Akira-Isegawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T16:59:36+09:00&lt;br/&gt;Updated: 2026-04-13T11:07:41+09:00&lt;br/&gt;お前がコードを書き始める前に
 言っておきたい事がある
 かなりきびしい話もするが
 俺の本音を聞いておけ
@@ -151,7 +151,7 @@ Reactを書こうとすると...</summary>
     <title>マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術</title>
     <link rel="alternate" href="https://qiita.com/teppei19980914/items/36404f9ec9c786cde671?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-10T18:34:01+09:00</updated>
-    <summary type="html">Likes: 203&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T18:34:01+09:00&lt;br/&gt;Updated: 2026-04-10T18:34:01+09:00&lt;br/&gt;マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術
+    <summary type="html">Likes: 208&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T18:34:01+09:00&lt;br/&gt;Updated: 2026-04-10T18:34:01+09:00&lt;br/&gt;マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術
 
 はじめに
 皆さんは Markdown（マークダウン） を「見出しと箇条書きが書ける記法」程度に思っていませんか？
@@ -689,6 +689,19 @@ PRUMについて気になった方は、
 「で、&quot;結局&quot;今どんな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:79f74ec8cd016172619b</id>
+    <title>“書けるだけ”じゃ足りない。今どきエンジニアに必要なスキルの話</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/79f74ec8cd016172619b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-10T13:18:50+09:00</updated>
+    <summary type="html">Likes: 99&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T13:17:40+09:00&lt;br/&gt;Updated: 2026-04-10T13:18:50+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+“書けるだけ”...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:262e0645fbfb024ecd4b</id>
     <title>できるだけ無料でサービスを運用するための個人開発オススメデプロイ先</title>
     <link rel="alternate" href="https://qiita.com/Hiru-ge/items/262e0645fbfb024ecd4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -698,19 +711,6 @@ PRUMについて気になった方は、
 個人開発でWebアプリを作ったとき、「どこにデプロイすればいいんだろう？」と悩んだ経験、ありませんか？
 AWSやGCPは高機能だけどコストが怖い。かといって無料のサービスは制限が気になる...
 この記事では、個人開発で使えるおすすめのデ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:79f74ec8cd016172619b</id>
-    <title>“書けるだけ”じゃ足りない。今どきエンジニアに必要なスキルの話</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/79f74ec8cd016172619b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-10T13:18:50+09:00</updated>
-    <summary type="html">Likes: 98&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T13:17:40+09:00&lt;br/&gt;Updated: 2026-04-10T13:18:50+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-“書けるだけ”...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
@@ -1133,6 +1133,16 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
 HTML/画像を根拠にMark...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
+    <title>【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/fcab851c5351f79b481d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-12T20:56:45+09:00</updated>
+    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T13:53:43+09:00&lt;br/&gt;Updated: 2026-04-12T20:56:45+09:00&lt;br/&gt;はじめに
+
+こんばんは、mirukyです。
+2026年3月31日、npmの Axios パッケージ（週間1億ダウンロード）がサプライチェーン攻撃を受けました。攻撃者はメンテナーへの標的型ソーシャルエンジニアリングでセッションを乗っ取り、悪意ある依存 plain-crypt...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:392934f79e943e8b9228</id>
     <title>Claude Codeベストプラクティス -- 成果を安定させる7つの鉄則</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/392934f79e943e8b9228?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1164,16 +1174,6 @@ HTML/画像を根拠にMark...</summary>
 こんにちは。KaiTomotakeと申します。
 昔、よくQiitaのお世話になっていました。
 最近はQiitaの記事を書く側になろうと思い、またQiitaに...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
-    <title>【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/fcab851c5351f79b481d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-12T20:56:45+09:00</updated>
-    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T13:53:43+09:00&lt;br/&gt;Updated: 2026-04-12T20:56:45+09:00&lt;br/&gt;はじめに
-
-こんばんは、mirukyです。
-2026年3月31日、npmの Axios パッケージ（週間1億ダウンロード）がサプライチェーン攻撃を受けました。攻撃者はメンテナーへの標的型ソーシャルエンジニアリングでセッションを乗っ取り、悪意ある依存 plain-crypt...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c787ccd02775613f6f13</id>
