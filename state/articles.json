@@ -985,6 +985,18 @@
       "last_seen": "2026-02-15T07:24:57.135609297+00:00"
     },
     {
+      "key": "231a8cdee9dc01d45ed9",
+      "item_id": "231a8cdee9dc01d45ed9",
+      "title": "Javaの例外処理を正しく理解する — 検査例外・非検査例外・throwsの使いどころ",
+      "link": "https://qiita.com/S_kamon/items/231a8cdee9dc01d45ed9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nJavaを学び始めると、例外処理は早い段階でつまずきやすいテーマのひとつです。\n「とりあえず try-catch で囲めばいい」「throws Exception と書けばコンパイルが通る」という理解のまま進んでしまうと、バグの原因に気づきにくいコードになってし...",
+      "published": "2026-04-10T17:49:25+09:00",
+      "updated": "2026-04-10T17:49:25+09:00",
+      "author_name": "S_kamon",
+      "likes_count": 20,
+      "last_seen": "2026-04-13T08:55:24.969497862+00:00"
+    },
+    {
       "key": "2332ff5c93e63ab736ad",
       "item_id": "2332ff5c93e63ab736ad",
       "title": "【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる",
@@ -1402,7 +1414,7 @@
       "updated": "2026-04-11T00:49:30+09:00",
       "author_name": "miruky",
       "likes_count": 19,
-      "last_seen": "2026-04-13T07:45:02.995447212+00:00"
+      "last_seen": "2026-04-13T08:55:24.969497862+00:00"
     },
     {
       "key": "3237a14437fbaad63f46",
@@ -1617,8 +1629,8 @@
       "published": "2026-04-10T18:34:01+09:00",
       "updated": "2026-04-10T18:34:01+09:00",
       "author_name": "teppei19980914",
-      "likes_count": 232,
-      "last_seen": "2026-04-13T07:45:02.995447212+00:00"
+      "likes_count": 242,
+      "last_seen": "2026-04-13T08:55:24.969497862+00:00"
     },
     {
       "key": "3674294dc301f5dcf453",
@@ -1943,6 +1955,18 @@
       "author_name": "hitomin_poke",
       "likes_count": 66,
       "last_seen": "2026-03-21T07:21:34.243596530+00:00"
+    },
+    {
+      "key": "417ec32f3b19185a7ca4",
+      "item_id": "417ec32f3b19185a7ca4",
+      "title": "【35歳未経験でも理解できた】サーバープッシュ技術",
+      "link": "https://qiita.com/wata-sho/items/417ec32f3b19185a7ca4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "SSE・WebSocketをスッキリ理解する\nこんにちは！\n35歳未経験からWebエンジニアの世界に飛び込んだ者です。\n突然ですが、LINEなどのチャットアプリで、自分が何も操作していないのに「ポンッ」と新しいメッセージが表示されるのって、不思議に思ったことはありませんか...",
+      "published": "2026-04-13T10:22:30+09:00",
+      "updated": "2026-04-13T10:22:30+09:00",
+      "author_name": "wata-sho",
+      "likes_count": 43,
+      "last_seen": "2026-04-13T08:55:24.969497862+00:00"
     },
     {
       "key": "41fcbf0504dbd74a782b",
@@ -2721,8 +2745,8 @@
       "published": "2026-04-11T11:24:21+09:00",
       "updated": "2026-04-13T03:33:56+09:00",
       "author_name": "engchina",
-      "likes_count": 22,
-      "last_seen": "2026-04-13T07:45:02.995447212+00:00"
+      "likes_count": 23,
+      "last_seen": "2026-04-13T08:55:24.969497862+00:00"
     },
     {
       "key": "5a8a16a2b7e91c3536a8",
@@ -4117,6 +4141,18 @@
       "last_seen": "2026-03-01T07:22:13.047532603+00:00"
     },
     {
+      "key": "88ed3c88e72eb7b8e870",
+      "item_id": "88ed3c88e72eb7b8e870",
+      "title": "draw.ioのMCPサーバーのかっこいいUXを模倣しようとしたらなかなか複雑だった件",
+      "link": "https://qiita.com/moritalous/items/88ed3c88e72eb7b8e870?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "少し前に話題になったdraw.ioのMCPサーバー\n少しずつダイアグラムを生成する様子が、抜群におしゃれです。\n動画を再生してね👇️\n\nこのおしゃれなやつ、やってみたいですよね？\n検証のためにマーメイド記法の文字列を受け取り少しずつダイアグラムが生成されるものを作りまし...",
+      "published": "2026-04-12T11:04:34+09:00",
+      "updated": "2026-04-12T11:04:34+09:00",
+      "author_name": "moritalous",
+      "likes_count": 10,
+      "last_seen": "2026-04-13T08:55:24.969497862+00:00"
+    },
+    {
       "key": "89192a80919a7a67728c",
       "item_id": "89192a80919a7a67728c",
       "title": "WSL2でClaude Codeが異常に重い？Dev Containersへの移行で爆速開発環境を構築する",
@@ -4199,6 +4235,18 @@
       "author_name": "marugame",
       "likes_count": 59,
       "last_seen": "2026-03-01T19:15:01.019991400+00:00"
+    },
+    {
+      "key": "8c5953b7c9d11979b320",
+      "item_id": "8c5953b7c9d11979b320",
+      "title": "TypeScript における any と unknown の使い分け",
+      "link": "https://qiita.com/ryo_sh/items/8c5953b7c9d11979b320?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "TypeScript で「型がはっきり分からない値」を扱うとき、any と unknown が候補に挙がります。\nどちらも何でも代入できる型ですが、代入した後に何ができるかがまったく違います。\nこの記事では両者の違いと、使い分けを整理します。\n\nany — 型チェックを無効...",
+      "published": "2026-04-10T18:39:43+09:00",
+      "updated": "2026-04-10T18:39:43+09:00",
+      "author_name": "ryo_sh",
+      "likes_count": 19,
+      "last_seen": "2026-04-13T08:55:24.969497862+00:00"
     },
     {
       "key": "8c5f8e991c58dbe80c72",
@@ -4487,6 +4535,18 @@
       "author_name": "handson-lab",
       "likes_count": 85,
       "last_seen": "2026-02-21T19:15:21.062840165+00:00"
+    },
+    {
+      "key": "9631a596b5590e9ee7b8",
+      "item_id": "9631a596b5590e9ee7b8",
+      "title": "【Git】実務で使うPull Request運用ルールまとめ",
+      "link": "https://qiita.com/yuto-vj/items/9631a596b5590e9ee7b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "チーム開発では、コードを書くだけでなく Pull Request（PR）の運用ルール も非常に重要です。\nルールが曖昧なまま運用すると、\n\n何を変更したPRなのか分かりづらい\nレビューに時間がかかる\n見落としが増える\nマージ事故が起きやすい\n\nといった問題につながります。...",
+      "published": "2026-04-10T18:45:08+09:00",
+      "updated": "2026-04-10T18:45:08+09:00",
+      "author_name": "yuto-vj",
+      "likes_count": 21,
+      "last_seen": "2026-04-13T08:55:24.969497862+00:00"
     },
     {
       "key": "96cdc8bcd48d8a193556",
@@ -5087,6 +5147,18 @@
       "author_name": "kotauchisunsun",
       "likes_count": 102,
       "last_seen": "2026-04-06T19:32:40.333922591+00:00"
+    },
+    {
+      "key": "ab87d7b6498aaa63ccd1",
+      "item_id": "ab87d7b6498aaa63ccd1",
+      "title": "PHP パイプ演算子を試してみる",
+      "link": "https://qiita.com/kakita-yzrh/items/ab87d7b6498aaa63ccd1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nPHP 8.5からパイプ演算子が導入されたので、どんな使い方ができるのか試してみました。\n\nパイプ演算子とは\n\nPHP 8.5 以降では、callable に直接値を渡す演算子をサポートしています。 |&gt; 演算子、または \"パイプ\" は、右辺にパラメーターをひと...",
+      "published": "2026-04-12T04:36:58+09:00",
+      "updated": "2026-04-12T04:39:29+09:00",
+      "author_name": "kakita-yzrh",
+      "likes_count": 10,
+      "last_seen": "2026-04-13T08:55:24.969497862+00:00"
     },
     {
       "key": "ab8af60a632e7a562e06",
@@ -5737,6 +5809,18 @@
       "last_seen": "2026-02-21T07:20:44.223426399+00:00"
     },
     {
+      "key": "c3ef3c71aad13fc78daf",
+      "item_id": "c3ef3c71aad13fc78daf",
+      "title": "Claudeの概要と設計思想から学んだこと",
+      "link": "https://qiita.com/aito1234/items/c3ef3c71aad13fc78daf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n前回はAIエージェントについて特徴やできることを整理しました。\nAIエージェントの仕組みと振る舞いを整理してみた\n今回はその理解を前提に、「Claude」について学びました。Claudeの概念だけでなく「なぜこの機能が生まれたのか」という背景まで理解できたことで...",
+      "published": "2026-04-10T18:28:31+09:00",
+      "updated": "2026-04-10T18:45:00+09:00",
+      "author_name": "aito1234",
+      "likes_count": 22,
+      "last_seen": "2026-04-13T08:55:24.969497862+00:00"
+    },
+    {
       "key": "c47ce205344b95bb26df",
       "item_id": "c47ce205344b95bb26df",
       "title": "OpenClawの登場で何が変わったのか？10の注目ツールで見るAIの「実行力」",
@@ -5843,6 +5927,18 @@
       "author_name": "tmaru-eng",
       "likes_count": 58,
       "last_seen": "2026-04-03T19:24:42.001651749+00:00"
+    },
+    {
+      "key": "c7d5a7bafd343f8604d0",
+      "item_id": "c7d5a7bafd343f8604d0",
+      "title": "少人数で新機能を出し切る — エンジニア2人 × AI × チームの戦い方",
+      "link": "https://qiita.com/Katsu30/items/c7d5a7bafd343f8604d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこんにちは！@Katsu30 です。\nSchooでは、新機能としてトレーニング機能をリリースしました。\n\nこのトレーニング機能をゼロから作る開発で、メインのエンジニアは2人でした。\n少人数だからこそ、進め方・分業・AIの活用をどう設計するかが、成果と品質の...",
+      "published": "2026-04-13T11:57:26+09:00",
+      "updated": "2026-04-13T11:57:27+09:00",
+      "author_name": "Katsu30",
+      "likes_count": 11,
+      "last_seen": "2026-04-13T08:55:24.969497862+00:00"
     },
     {
       "key": "c841d47f35e9c04c6bee",
@@ -5973,8 +6069,8 @@
       "published": "2026-04-12T15:23:30+09:00",
       "updated": "2026-04-12T15:23:30+09:00",
       "author_name": "kamome_susume",
-      "likes_count": 16,
-      "last_seen": "2026-04-13T07:45:02.995447212+00:00"
+      "likes_count": 17,
+      "last_seen": "2026-04-13T08:55:24.969497862+00:00"
     },
     {
       "key": "cfbbc0d6112059b26522",
@@ -7417,6 +7513,18 @@
       "last_seen": "2026-04-03T19:24:42.001651749+00:00"
     },
     {
+      "key": "fbca13aa136ed9f76979",
+      "item_id": "fbca13aa136ed9f76979",
+      "title": "【n8n】毎朝7時にQiita人気記事TOP5をLINEに自動通知する仕組みを作ってみた",
+      "link": "https://qiita.com/wan-code/items/fbca13aa136ed9f76979?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n隙間時間にQiitaの記事を効率よくチェックしたいと思い、\n人気記事を自動で取得して通知する仕組みを作成しました。\n今回は、n8nを使ってQiitaの人気記事をLINEに自動通知する方法を紹介します。\n完成イメージ\n毎朝こんな感じでLINEに届きます\n昨日のQi...",
+      "published": "2026-04-10T18:55:51+09:00",
+      "updated": "2026-04-10T18:55:51+09:00",
+      "author_name": "wan-code",
+      "likes_count": 20,
+      "last_seen": "2026-04-13T08:55:24.969497862+00:00"
+    },
+    {
       "key": "fc90f2751a2e4ccab41e",
       "item_id": "fc90f2751a2e4ccab41e",
       "title": "個人開発こそ、GitHub × AI × スクラムで回したほうがいい",
@@ -7437,8 +7545,8 @@
       "published": "2026-04-11T13:53:43+09:00",
       "updated": "2026-04-12T20:56:45+09:00",
       "author_name": "miruky",
-      "likes_count": 78,
-      "last_seen": "2026-04-13T07:45:02.995447212+00:00"
+      "likes_count": 79,
+      "last_seen": "2026-04-13T08:55:24.969497862+00:00"
     },
     {
       "key": "fce80534fb495f532c2a",
