@@ -831,6 +831,16 @@ Webの勉強を始めると、必ず目にする「URL」と「HTTP」。
 「これってどういう仕組み？」と聞かれると少...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
+    <title>【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/fcab851c5351f79b481d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-12T20:56:45+09:00</updated>
+    <summary type="html">Likes: 87&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T13:53:43+09:00&lt;br/&gt;Updated: 2026-04-12T20:56:45+09:00&lt;br/&gt;はじめに
+
+こんばんは、mirukyです。
+2026年3月31日、npmの Axios パッケージ（週間1億ダウンロード）がサプライチェーン攻撃を受けました。攻撃者はメンテナーへの標的型ソーシャルエンジニアリングでセッションを乗っ取り、悪意ある依存 plain-crypt...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6856459c6e8f3decbba3</id>
     <title>【35歳未経験でも理解できた】HTTPクライアントとHTTPサーバー</title>
     <link rel="alternate" href="https://qiita.com/wata-sho/items/6856459c6e8f3decbba3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -869,16 +879,6 @@ PRUMについて気になった方は、
 「配線がうまくいかず想定通り動かない」
 「配線ミスで部品がショートしないか不安」
 といった悩みを持っていたのですが、Autodeskが提供している無料のオンラインシ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
-    <title>【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/fcab851c5351f79b481d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-12T20:56:45+09:00</updated>
-    <summary type="html">Likes: 86&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T13:53:43+09:00&lt;br/&gt;Updated: 2026-04-12T20:56:45+09:00&lt;br/&gt;はじめに
-
-こんばんは、mirukyです。
-2026年3月31日、npmの Axios パッケージ（週間1億ダウンロード）がサプライチェーン攻撃を受けました。攻撃者はメンテナーへの標的型ソーシャルエンジニアリングでセッションを乗っ取り、悪意ある依存 plain-crypt...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:406b35769eec8c0ce0f4</id>
@@ -1595,6 +1595,16 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきまし...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:417ec32f3b19185a7ca4</id>
+    <title>【35歳未経験でも理解できた】サーバープッシュ技術</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/417ec32f3b19185a7ca4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T10:22:30+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T10:22:30+09:00&lt;br/&gt;Updated: 2026-04-13T10:22:30+09:00&lt;br/&gt;SSE・WebSocketをスッキリ理解する
+こんにちは！
+35歳未経験からWebエンジニアの世界に飛び込んだ者です。
+突然ですが、LINEなどのチャットアプリで、自分が何も操作していないのに「ポンッ」と新しいメッセージが表示されるのって、不思議に思ったことはありませんか...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
     <title>LinuxエンジニアのためのWindowsセキュリティ再入門 〜 第1回：はじめに —— なぜ今、LinuxエンジニアがWindowsセキュリティを学ぶのか</title>
     <link rel="alternate" href="https://qiita.com/555hamano/items/e9e1dce9e2dbc574a93f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1624,16 +1634,6 @@ GitHub Copilot ファミリー
 説明
 
 GitHub Copilot CL...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:417ec32f3b19185a7ca4</id>
-    <title>【35歳未経験でも理解できた】サーバープッシュ技術</title>
-    <link rel="alternate" href="https://qiita.com/wata-sho/items/417ec32f3b19185a7ca4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T10:22:30+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T10:22:30+09:00&lt;br/&gt;Updated: 2026-04-13T10:22:30+09:00&lt;br/&gt;SSE・WebSocketをスッキリ理解する
-こんにちは！
-35歳未経験からWebエンジニアの世界に飛び込んだ者です。
-突然ですが、LINEなどのチャットアプリで、自分が何も操作していないのに「ポンッ」と新しいメッセージが表示されるのって、不思議に思ったことはありませんか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:001a7c7d3a35d797ddcb</id>
