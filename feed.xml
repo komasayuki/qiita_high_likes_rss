@@ -539,21 +539,6 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 大変なのは「コードを書くこと」より、その後の設計、整...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:10211c4fa7248c7c9740</id>
-    <title>【後編】新人エンジニアは、なぜ「止まってしまう」のか。─教える側の“死角”</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/10211c4fa7248c7c9740?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-10T13:46:53+09:00</updated>
-    <summary type="html">Likes: 117&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T13:46:53+09:00&lt;br/&gt;Updated: 2026-02-10T13:46:53+09:00&lt;br/&gt;はじめまして。
-株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で
-つまずきやすいポイントを整理して発信しています。
-PRUMについて気になった方は、
-コーポレートサイトもご覧ください。
-▶ コーポレートサイト
-
-新人エンジニアは、なぜ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:747faa3de771373a3e4f</id>
     <title>実務1年目の僕に伝えたい。完璧主義を捨てて「プロ」になるための行動4選</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/747faa3de771373a3e4f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -618,6 +603,16 @@ HOC(高...</summary>
 スキルとは、Claudeに特定のタスクを一貫して実行させるための仕組みです。Mar...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
+    <title>【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/fcab851c5351f79b481d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-12T20:56:45+09:00</updated>
+    <summary type="html">Likes: 107&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T13:53:43+09:00&lt;br/&gt;Updated: 2026-04-12T20:56:45+09:00&lt;br/&gt;はじめに
+
+こんばんは、mirukyです。
+2026年3月31日、npmの Axios パッケージ（週間1億ダウンロード）がサプライチェーン攻撃を受けました。攻撃者はメンテナーへの標的型ソーシャルエンジニアリングでセッションを乗っ取り、悪意ある依存 plain-crypt...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ee5c69831501251a0ec0</id>
     <title>高校の文化祭で簡易POSを作って学んだ、「ITを入れれば効率化する」とは限らないという話</title>
     <link rel="alternate" href="https://qiita.com/Towa_ONGRKL/items/ee5c69831501251a0ec0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -625,16 +620,6 @@ HOC(高...</summary>
     <summary type="html">Likes: 107&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Towa_ONGRKL&quot;&gt;Towa_ONGRKL&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T04:24:06+09:00&lt;br/&gt;Updated: 2026-03-21T21:07:09+09:00&lt;br/&gt;はじめに
 高校3年生のとき（1年半ほど前）、文化祭のたい焼き屋で使うために、スプレッドシートとApps Scriptで簡易的なPOSのような仕組みを作りました。
 今振り返ると、この経験は「技術で現場を良くする面白さ」を知るきっかけであると同時に、ITを導入すること自体が目...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
-    <title>【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/fcab851c5351f79b481d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-12T20:56:45+09:00</updated>
-    <summary type="html">Likes: 106&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T13:53:43+09:00&lt;br/&gt;Updated: 2026-04-12T20:56:45+09:00&lt;br/&gt;はじめに
-
-こんばんは、mirukyです。
-2026年3月31日、npmの Axios パッケージ（週間1億ダウンロード）がサプライチェーン攻撃を受けました。攻撃者はメンテナーへの標的型ソーシャルエンジニアリングでセッションを乗っ取り、悪意ある依存 plain-crypt...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0ba6853020a40edc97da</id>
@@ -1210,6 +1195,16 @@ axiosサプライチェーン攻撃に関して、GitHub IssueにPostmortem（�
 そして...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:417ec32f3b19185a7ca4</id>
+    <title>【35歳未経験でも理解できた】サーバープッシュ技術</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/417ec32f3b19185a7ca4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T10:22:30+09:00</updated>
+    <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T10:22:30+09:00&lt;br/&gt;Updated: 2026-04-13T10:22:30+09:00&lt;br/&gt;SSE・WebSocketをスッキリ理解する
+こんにちは！
+35歳未経験からWebエンジニアの世界に飛び込んだ者です。
+突然ですが、LINEなどのチャットアプリで、自分が何も操作していないのに「ポンッ」と新しいメッセージが表示されるのって、不思議に思ったことはありませんか...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b996e374c91923141178</id>
     <title>DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/b996e374c91923141178?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1218,16 +1213,6 @@ axiosサプライチェーン攻撃に関して、GitHub IssueにPostmortem（�
 こんばんは、mirukyです。
 ある日突然、AWSから $15,000（約200万円）の請求書 が届いたらどうしますか？
 2026年3月、海外でまさにこの事態が発生しました。個人開発者のS3バケットがDDoS攻撃を受け、3日間で160TBのデータ転送が発生。結果...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:417ec32f3b19185a7ca4</id>
-    <title>【35歳未経験でも理解できた】サーバープッシュ技術</title>
-    <link rel="alternate" href="https://qiita.com/wata-sho/items/417ec32f3b19185a7ca4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T10:22:30+09:00</updated>
-    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T10:22:30+09:00&lt;br/&gt;Updated: 2026-04-13T10:22:30+09:00&lt;br/&gt;SSE・WebSocketをスッキリ理解する
-こんにちは！
-35歳未経験からWebエンジニアの世界に飛び込んだ者です。
-突然ですが、LINEなどのチャットアプリで、自分が何も操作していないのに「ポンッ」と新しいメッセージが表示されるのって、不思議に思ったことはありませんか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1c443b123080dcd994f1</id>
@@ -1631,6 +1616,14 @@ Linux prod-server 5.15.0 #1 SMP x86_64 GNU/Linux
 そう思っているLinu...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ce71acf0aa0b80631c35</id>
+    <title>エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】</title>
+    <link rel="alternate" href="https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-12T15:23:30+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-04-12T15:23:30+09:00&lt;br/&gt;Updated: 2026-04-12T15:23:30+09:00&lt;br/&gt;設計書を書くのに毎回何時間もかかって、本来の開発に集中できていない…そんな経験はありませんか？
+仕様書、API設計書、DB設計書、クラス設計書——エンジニアの仕事には「書かなければいけないドキュメント」が山ほどあります。でも、コードを書く時間と同じくらい、あるいはそれ以上の...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6d26b6ffc11d163dfd71</id>
     <title>GitHub Copilot CLI の公式ハンズオンやってみた (第0章/7章)</title>
     <link rel="alternate" href="https://qiita.com/chomado/items/6d26b6ffc11d163dfd71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1646,14 +1639,6 @@ GitHub Copilot ファミリー
 説明
 
 GitHub Copilot CL...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ce71acf0aa0b80631c35</id>
-    <title>エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】</title>
-    <link rel="alternate" href="https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-12T15:23:30+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-04-12T15:23:30+09:00&lt;br/&gt;Updated: 2026-04-12T15:23:30+09:00&lt;br/&gt;設計書を書くのに毎回何時間もかかって、本来の開発に集中できていない…そんな経験はありませんか？
-仕様書、API設計書、DB設計書、クラス設計書——エンジニアの仕事には「書かなければいけないドキュメント」が山ほどあります。でも、コードを書く時間と同じくらい、あるいはそれ以上の...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:001a7c7d3a35d797ddcb</id>
@@ -1941,6 +1926,14 @@ GitHub: nezmickey/Zenith
 Claude Codeを日常的に使っているのですが、ここ1年ほどでSkills、プラグイン、Agent Teams、Hooksの進化…とアップデートが立て続けに入...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
+    <title>Claude Codeソースコード流出から学ぶハーネスパターン10選 ── 50万行のTypeScriptが明かした設計思想</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/ebbbe74649eb441a34db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T11:27:23+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:23+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:23+09:00&lt;br/&gt;はじめに：3月31日に何が起きたか
+2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f6fa910cb0c7efe2defc</id>
     <title>Claude Codeのコード流出から考える開発者の倫理</title>
     <link rel="alternate" href="https://qiita.com/mosaxiv/items/f6fa910cb0c7efe2defc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1970,14 +1963,6 @@ npmパッケージのリリース時にソースマップファイル（.map）�
     <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuchi_a&quot;&gt;kimuchi_a&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T19:16:12+09:00&lt;br/&gt;Updated: 2026-04-03T00:19:55+09:00&lt;br/&gt;はじめに：新卒、焦らなくてもいいかも。
 過去の投稿を読んでくださった方は「何回言うねん」と思うかもしれませんが、  私はコーディング未経験の新卒としてこの会社に入社しました。
 周りは優秀な人たちばかりで、同じくコーディング未経験でも、「明らかに自分よりできる」人がごろごろ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
-    <title>Claude Codeソースコード流出から学ぶハーネスパターン10選 ── 50万行のTypeScriptが明かした設計思想</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/ebbbe74649eb441a34db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T11:27:23+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:23+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:23+09:00&lt;br/&gt;はじめに：3月31日に何が起きたか
-2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:382bd11e374df6774ec4</id>
@@ -2232,5 +2217,25 @@ Unity で演出を作っていると、ほぼ確実にスキップ機能が必�
 難しく考えなくて大丈夫。一つひとつ、気軽に読んでみてください！
 
 対象読者：Claude Code初心者 ~ 中級者...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:7b8a5e65873a35ea72dd</id>
+    <title>結局 Python は遅いのか</title>
+    <link rel="alternate" href="https://qiita.com/k2-gc/items/7b8a5e65873a35ea72dd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-02-16T22:42:34+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/k2-gc&quot;&gt;k2-gc&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T14:23:13+09:00&lt;br/&gt;Updated: 2026-02-16T22:42:34+09:00&lt;br/&gt;結局 Python は遅いのか
+
+この記事では
+
+Python を用いて幾つかの方法で定積分の近似
+C++ で近似
+比較
+
+を行います．
+
+※追記(2026/02/16)：実行環境追加
+
+はじめに
+「Python は遅い」，「Python で for 使うな！」 と言...</summary>
   </entry>
 </feed>
