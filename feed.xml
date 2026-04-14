@@ -1560,6 +1560,16 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 国内外の...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:44b4b16a441f494a2307</id>
+    <title>プログラミング前後の工程がプロダクト品質を決める</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/44b4b16a441f494a2307?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-14T13:03:58+09:00</updated>
+    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T13:03:58+09:00&lt;br/&gt;Updated: 2026-04-14T13:03:58+09:00&lt;br/&gt;株式会社PRUMのmasaです。
+今日は開発現場で大切なプログラミング前後の工程のお話をします。内容はそれらの工程のほんの一部になりますが、主にエンジニア未経験者、駆け出しエンジニアの方々の知見が少しでも広がればと思います。
+
+1. 【プログラミングの前】「何を作るか」の合...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ce71acf0aa0b80631c35</id>
     <title>エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】</title>
     <link rel="alternate" href="https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1568,14 +1578,12 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 仕様書、API設計書、DB設計書、クラス設計書——エンジニアの仕事には「書かなければいけないドキュメント」が山ほどあります。でも、コードを書く時間と同じくらい、あるいはそれ以上の...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:44b4b16a441f494a2307</id>
-    <title>プログラミング前後の工程がプロダクト品質を決める</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/44b4b16a441f494a2307?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-14T13:03:58+09:00</updated>
-    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T13:03:58+09:00&lt;br/&gt;Updated: 2026-04-14T13:03:58+09:00&lt;br/&gt;株式会社PRUMのmasaです。
-今日は開発現場で大切なプログラミング前後の工程のお話をします。内容はそれらの工程のほんの一部になりますが、主にエンジニア未経験者、駆け出しエンジニアの方々の知見が少しでも広がればと思います。
-
-1. 【プログラミングの前】「何を作るか」の合...</summary>
+    <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
+    <title>Claude Codeソースコード流出から学ぶハーネスパターン10選 ── 50万行のTypeScriptが明かした設計思想</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/ebbbe74649eb441a34db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T11:27:23+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:23+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:23+09:00&lt;br/&gt;はじめに：3月31日に何が起きたか
+2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:78fdef38b201985cb0d9</id>
@@ -1596,14 +1604,6 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 前回の記事で紹介した「Clawdbot（現在:OpenClaw）」を触っていて、ふと思ったことがあります。
 それは、「結局、AIの頭脳を外部（GeminiやClaude、ChatGPTなど）に依存している以上、制限やコストがつきまとう」ということ。
 使い続けると...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
-    <title>Claude Codeソースコード流出から学ぶハーネスパターン10選 ── 50万行のTypeScriptが明かした設計思想</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/ebbbe74649eb441a34db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T11:27:23+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:23+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:23+09:00&lt;br/&gt;はじめに：3月31日に何が起きたか
-2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:22e6a3faea1bdcaefef3</id>
@@ -2109,6 +2109,15 @@ Claude CodeなどのAIエージェントを使い込んでいると、ある壁�
 たとえば、大規模なリファクタリング。アーキテクチャの調査と実装を同時に進めたい。あるいは、コードレビュ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:92da5ce86236a711e786</id>
+    <title>【体験談】「うちは大丈夫」と思っていた個人開発サービスが攻撃された話 ─ 対策と教訓5つ</title>
+    <link rel="alternate" href="https://qiita.com/kawabe0201/items/92da5ce86236a711e786?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T10:40:50+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kawabe0201&quot;&gt;kawabe0201&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T10:40:50+09:00&lt;br/&gt;Updated: 2026-04-13T10:40:50+09:00&lt;br/&gt;個人で運用していたタスク管理ツール（月間アクティブユーザー約300人）が、ある日突然攻撃を受けた。「こんな小さなサービス、誰が狙うんだ」と思っていた。結論から言えば、攻撃者は規模を選ばない。自動スキャンツールで脆弱なサーバーを片っ端から探しているだけだ。
+
+異変の発見 ─ ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3f7faeea52d7eec01b0f</id>
     <title>Bonsai-8B考察 — 1-bit LLMは使い物になるのか</title>
     <link rel="alternate" href="https://qiita.com/y0kud4/items/3f7faeea52d7eec01b0f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2215,17 +2224,5 @@ Unity で演出を作っていると、ほぼ確実にスキップ機能が必�
     <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masakinihirota&quot;&gt;masakinihirota&lt;/a&gt;&lt;br/&gt;Published: 2026-03-13T04:03:42+09:00&lt;br/&gt;Updated: 2026-03-14T15:39:19+09:00&lt;br/&gt;お詫びと訂正
 本記事の初版では、AIクレジットの解釈に誤りがあり、GCPクレジットと同一視する記述を含んでいました。正しくは、Google One ヘルプに記載のある「AIクレジット」の単価体系に基づくもので、GCPの無料トライアルクレジットとは別枠でした。
 誤解を招く内...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2913db0cbd5ed75f6968</id>
-    <title>いまさら聞けない…そんな人のための Claude Code「さしすせそ」</title>
-    <link rel="alternate" href="https://qiita.com/shinnosuke_takami/items/2913db0cbd5ed75f6968?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T10:55:29+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinnosuke_takami&quot;&gt;shinnosuke_takami&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T10:55:28+09:00&lt;br/&gt;Updated: 2026-03-09T10:55:29+09:00&lt;br/&gt;概要
-料理の基本といえば「さしすせそ」（砂糖・塩・酢・醤油・味噌）。
-実は Claude Code にも、同じように覚えておきたい5つのコツがあります。
-難しく考えなくて大丈夫。一つひとつ、気軽に読んでみてください！
-
-対象読者：Claude Code初心者 ~ 中級者...</summary>
   </entry>
 </feed>
