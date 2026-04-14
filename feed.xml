@@ -704,6 +704,16 @@ AWSやGCPは高機能だけどコストが怖い。かといって無料のサ�
 この記事では、個人開発で使えるおすすめのデ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
+    <title>【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/fcab851c5351f79b481d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-12T20:56:45+09:00</updated>
+    <summary type="html">Likes: 98&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T13:53:43+09:00&lt;br/&gt;Updated: 2026-04-12T20:56:45+09:00&lt;br/&gt;はじめに
+
+こんばんは、mirukyです。
+2026年3月31日、npmの Axios パッケージ（週間1億ダウンロード）がサプライチェーン攻撃を受けました。攻撃者はメンテナーへの標的型ソーシャルエンジニアリングでセッションを乗っ取り、悪意ある依存 plain-crypt...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
     <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -817,16 +827,6 @@ https://kenta-matsuda.github.io/Kenta-Matsuda.github.io-aws-study/
     <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-02-28T16:17:53+09:00&lt;br/&gt;Updated: 2026-03-02T05:49:24+09:00&lt;br/&gt;Claude Codeの設定、なんとなくで使っていませんか？
 Hooks、Skills、CLAUDE.md、settings.json、MCP、権限管理…… 2026年のClaude Codeは機能が爆発的に増えた。でも全部を正しく設定しているエンジニアは1%もいない。
 こ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
-    <title>【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/fcab851c5351f79b481d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-12T20:56:45+09:00</updated>
-    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T13:53:43+09:00&lt;br/&gt;Updated: 2026-04-12T20:56:45+09:00&lt;br/&gt;はじめに
-
-こんばんは、mirukyです。
-2026年3月31日、npmの Axios パッケージ（週間1億ダウンロード）がサプライチェーン攻撃を受けました。攻撃者はメンテナーへの標的型ソーシャルエンジニアリングでセッションを乗っ取り、悪意ある依存 plain-crypt...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:895d52879948d5bdb387</id>
@@ -1555,6 +1555,16 @@ C言語はアセンブラに翻訳されます。
 ア...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:417ec32f3b19185a7ca4</id>
+    <title>【35歳未経験でも理解できた】サーバープッシュ技術</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/417ec32f3b19185a7ca4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T10:22:30+09:00</updated>
+    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T10:22:30+09:00&lt;br/&gt;Updated: 2026-04-13T10:22:30+09:00&lt;br/&gt;SSE・WebSocketをスッキリ理解する
+こんにちは！
+35歳未経験からWebエンジニアの世界に飛び込んだ者です。
+突然ですが、LINEなどのチャットアプリで、自分が何も操作していないのに「ポンッ」と新しいメッセージが表示されるのって、不思議に思ったことはありませんか...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3674294dc301f5dcf453</id>
     <title>仕様駆動開発は、ウォーターフォールへの回帰ではない。</title>
     <link rel="alternate" href="https://qiita.com/ju-kosaka/items/3674294dc301f5dcf453?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1583,16 +1593,6 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 前回の記事で紹介した「Clawdbot（現在:OpenClaw）」を触っていて、ふと思ったことがあります。
 それは、「結局、AIの頭脳を外部（GeminiやClaude、ChatGPTなど）に依存している以上、制限やコストがつきまとう」ということ。
 使い続けると...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:417ec32f3b19185a7ca4</id>
-    <title>【35歳未経験でも理解できた】サーバープッシュ技術</title>
-    <link rel="alternate" href="https://qiita.com/wata-sho/items/417ec32f3b19185a7ca4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T10:22:30+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T10:22:30+09:00&lt;br/&gt;Updated: 2026-04-13T10:22:30+09:00&lt;br/&gt;SSE・WebSocketをスッキリ理解する
-こんにちは！
-35歳未経験からWebエンジニアの世界に飛び込んだ者です。
-突然ですが、LINEなどのチャットアプリで、自分が何も操作していないのに「ポンッ」と新しいメッセージが表示されるのって、不思議に思ったことはありませんか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:22e6a3faea1bdcaefef3</id>
@@ -1841,6 +1841,18 @@ PdMや事業責任者へのキャリアチェンジを考えている人
 あるいは、自分がレビューする側で「伝えたいことがうまく伝わらない...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5a3fad5ec1c80a8be715</id>
+    <title>AIで実装は速くなった。でもチーム開発が逆に難しくなった理由</title>
+    <link rel="alternate" href="https://qiita.com/engchina/items/5a3fad5ec1c80a8be715?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T03:33:56+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T11:24:21+09:00&lt;br/&gt;Updated: 2026-04-13T03:33:56+09:00&lt;br/&gt;先に結論
+AIを導入すると、実装スピードは確実に上がります。
+ただ、チーム開発で本当に問題になるのは、コードを書く速さではなくコードを理解し、判断を共有する速さです。
+今回読んだ2本の記事から得た学びを一言でまとめると、次の3つでした。
+
+仕様書は「ずっと保守する正本」で...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3c98999786c7dbd2b26a</id>
     <title>米国で話題のRAGのセキュリティ脅威についてまとめてみた</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/3c98999786c7dbd2b26a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2086,16 +2098,12 @@ Claude CodeなどのAIエージェントを使い込んでいると、ある壁�
 たとえば、大規模なリファクタリング。アーキテクチャの調査と実装を同時に進めたい。あるいは、コードレビュ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5a3fad5ec1c80a8be715</id>
-    <title>AIで実装は速くなった。でもチーム開発が逆に難しくなった理由</title>
-    <link rel="alternate" href="https://qiita.com/engchina/items/5a3fad5ec1c80a8be715?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T03:33:56+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T11:24:21+09:00&lt;br/&gt;Updated: 2026-04-13T03:33:56+09:00&lt;br/&gt;先に結論
-AIを導入すると、実装スピードは確実に上がります。
-ただ、チーム開発で本当に問題になるのは、コードを書く速さではなくコードを理解し、判断を共有する速さです。
-今回読んだ2本の記事から得た学びを一言でまとめると、次の3つでした。
-
-仕様書は「ずっと保守する正本」で...</summary>
+    <id>tag:qiita.com,2026:ce71acf0aa0b80631c35</id>
+    <title>エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】</title>
+    <link rel="alternate" href="https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-12T15:23:30+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-04-12T15:23:30+09:00&lt;br/&gt;Updated: 2026-04-12T15:23:30+09:00&lt;br/&gt;設計書を書くのに毎回何時間もかかって、本来の開発に集中できていない…そんな経験はありませんか？
+仕様書、API設計書、DB設計書、クラス設計書——エンジニアの仕事には「書かなければいけないドキュメント」が山ほどあります。でも、コードを書く時間と同じくらい、あるいはそれ以上の...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3f7faeea52d7eec01b0f</id>
@@ -2236,16 +2244,5 @@ C++ で近似
 
 はじめに
 「Python は遅い」，「Python で for 使うな！」 と言...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a6312c14e6352376ec00</id>
-    <title>Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/a6312c14e6352376ec00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-04T22:04:01+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-04T20:24:53+09:00&lt;br/&gt;Updated: 2026-04-04T22:04:01+09:00&lt;br/&gt;はじめに
-
-こんばんは、mirukyです。
-個人的にAIにデザインを指定するのって、意外と難しいと思っています。
-皆さん、DESIGN.mdをご存知でしょうか。GoogleがStitchプロジェクトの一部として策定した、マークダウンベースのデザインシステム仕様です。「AI...</summary>
   </entry>
 </feed>
