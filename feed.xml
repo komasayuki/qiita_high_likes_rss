@@ -1329,6 +1329,14 @@ Pythonを使い始めてはや十数年。他の言語も覚えないと思い�
 表計算で広く使われるPandasですが、Pandasを最近あまり使わなくなったというSNSの投稿をみて、使用するライブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ce71acf0aa0b80631c35</id>
+    <title>エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】</title>
+    <link rel="alternate" href="https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-12T15:23:30+09:00</updated>
+    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-04-12T15:23:30+09:00&lt;br/&gt;Updated: 2026-04-12T15:23:30+09:00&lt;br/&gt;設計書を書くのに毎回何時間もかかって、本来の開発に集中できていない…そんな経験はありませんか？
+仕様書、API設計書、DB設計書、クラス設計書——エンジニアの仕事には「書かなければいけないドキュメント」が山ほどあります。でも、コードを書く時間と同じくらい、あるいはそれ以上の...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:df077776b293163e0a42</id>
     <title>【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策</title>
     <link rel="alternate" href="https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1371,12 +1379,12 @@ J...</summary>
 （ウソだろ、と思うかもしれません...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:ce71acf0aa0b80631c35</id>
-    <title>エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】</title>
-    <link rel="alternate" href="https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-12T15:23:30+09:00</updated>
-    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-04-12T15:23:30+09:00&lt;br/&gt;Updated: 2026-04-12T15:23:30+09:00&lt;br/&gt;設計書を書くのに毎回何時間もかかって、本来の開発に集中できていない…そんな経験はありませんか？
-仕様書、API設計書、DB設計書、クラス設計書——エンジニアの仕事には「書かなければいけないドキュメント」が山ほどあります。でも、コードを書く時間と同じくらい、あるいはそれ以上の...</summary>
+    <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
+    <title>Claude Codeソースコード流出から学ぶハーネスパターン10選 ── 50万行のTypeScriptが明かした設計思想</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/ebbbe74649eb441a34db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T11:27:23+09:00</updated>
+    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:23+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:23+09:00&lt;br/&gt;はじめに：3月31日に何が起きたか
+2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:17c497375ed2c6c3d054</id>
@@ -1427,14 +1435,6 @@ Claude Codeをインストールして、そのまま使っていないだろう
 本記事は2026年2月13日時点の情報に基づいています。
 
 作者のBoris Cherny氏は、カスタマイズ性がClaude Codeの成長を加速させた要因の一つだと述べた。エンジニアは...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
-    <title>Claude Codeソースコード流出から学ぶハーネスパターン10選 ── 50万行のTypeScriptが明かした設計思想</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/ebbbe74649eb441a34db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T11:27:23+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:23+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:23+09:00&lt;br/&gt;はじめに：3月31日に何が起きたか
-2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:35f8fd0f56e63b25854f</id>
