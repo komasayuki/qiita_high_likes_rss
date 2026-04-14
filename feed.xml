@@ -1215,6 +1215,14 @@ axiosサプライチェーン攻撃に関して、GitHub IssueにPostmortem（�
 2026年3月、海外でまさにこの事態が発生しました。個人開発者のS3バケットがDDoS攻撃を受け、3日間で160TBのデータ転送が発生。結果...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ce71acf0aa0b80631c35</id>
+    <title>エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】</title>
+    <link rel="alternate" href="https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-12T15:23:30+09:00</updated>
+    <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-04-12T15:23:30+09:00&lt;br/&gt;Updated: 2026-04-12T15:23:30+09:00&lt;br/&gt;設計書を書くのに毎回何時間もかかって、本来の開発に集中できていない…そんな経験はありませんか？
+仕様書、API設計書、DB設計書、クラス設計書——エンジニアの仕事には「書かなければいけないドキュメント」が山ほどあります。でも、コードを書く時間と同じくらい、あるいはそれ以上の...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1c443b123080dcd994f1</id>
     <title>【35歳未経験でも理解できた】WWWの基礎</title>
     <link rel="alternate" href="https://qiita.com/wata-sho/items/1c443b123080dcd994f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1329,14 +1337,6 @@ Pythonを使い始めてはや十数年。他の言語も覚えないと思い�
 表計算で広く使われるPandasですが、Pandasを最近あまり使わなくなったというSNSの投稿をみて、使用するライブ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:ce71acf0aa0b80631c35</id>
-    <title>エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】</title>
-    <link rel="alternate" href="https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-12T15:23:30+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-04-12T15:23:30+09:00&lt;br/&gt;Updated: 2026-04-12T15:23:30+09:00&lt;br/&gt;設計書を書くのに毎回何時間もかかって、本来の開発に集中できていない…そんな経験はありませんか？
-仕様書、API設計書、DB設計書、クラス設計書——エンジニアの仕事には「書かなければいけないドキュメント」が山ほどあります。でも、コードを書く時間と同じくらい、あるいはそれ以上の...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:df077776b293163e0a42</id>
     <title>【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策</title>
     <link rel="alternate" href="https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1353,6 +1353,14 @@ Pythonを使い始めてはや十数年。他の言語も覚えないと思い�
 ※JS視点で書いています。お手柔らかに。。。
 
 J...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
+    <title>Claude Codeソースコード流出から学ぶハーネスパターン10選 ── 50万行のTypeScriptが明かした設計思想</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/ebbbe74649eb441a34db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T11:27:23+09:00</updated>
+    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:23+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:23+09:00&lt;br/&gt;はじめに：3月31日に何が起きたか
+2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a9d75de3677bdd22dced</id>
@@ -1379,14 +1387,6 @@ J...</summary>
 （ウソだろ、と思うかもしれません...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
-    <title>Claude Codeソースコード流出から学ぶハーネスパターン10選 ── 50万行のTypeScriptが明かした設計思想</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/ebbbe74649eb441a34db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T11:27:23+09:00</updated>
-    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:23+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:23+09:00&lt;br/&gt;はじめに：3月31日に何が起きたか
-2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:17c497375ed2c6c3d054</id>
     <title>axios乗っ取り事件の全容 — 39分間で何が起きたか、そして今すぐやるべき防御策</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/17c497375ed2c6c3d054?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1397,6 +1397,16 @@ axiosはJavaScriptで最も使われるHTTPクライアントです。
 週間ダウンロード数は1億回を超えます。
 私自身、ほぼすべてのNode.jsプロジェクトで使っています。
 事件を知っ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:44b4b16a441f494a2307</id>
+    <title>プログラミング前後の工程がプロダクト品質を決める</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/44b4b16a441f494a2307?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-14T13:03:58+09:00</updated>
+    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T13:03:58+09:00&lt;br/&gt;Updated: 2026-04-14T13:03:58+09:00&lt;br/&gt;株式会社PRUMのmasaです。
+今日は開発現場で大切なプログラミング前後の工程のお話をします。内容はそれらの工程のほんの一部になりますが、主にエンジニア未経験者、駆け出しエンジニアの方々の知見が少しでも広がればと思います。
+
+1. 【プログラミングの前】「何を作るか」の合...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:155f3b5a0dcde72fcd10</id>
@@ -1468,16 +1478,6 @@ PRUMについて気になった方は、
     <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T15:38:22+09:00&lt;br/&gt;Updated: 2026-03-07T15:38:22+09:00&lt;br/&gt;はじめに ― クラウドサービスが多すぎて混乱していた頃
 データエンジニアとして働き始めた頃、一番困ったのが 「クラウドサービスが多すぎて、何がなんだかわからない」 ということでした。
 EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:44b4b16a441f494a2307</id>
-    <title>プログラミング前後の工程がプロダクト品質を決める</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/44b4b16a441f494a2307?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-14T13:03:58+09:00</updated>
-    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T13:03:58+09:00&lt;br/&gt;Updated: 2026-04-14T13:03:58+09:00&lt;br/&gt;株式会社PRUMのmasaです。
-今日は開発現場で大切なプログラミング前後の工程のお話をします。内容はそれらの工程のほんの一部になりますが、主にエンジニア未経験者、駆け出しエンジニアの方々の知見が少しでも広がればと思います。
-
-1. 【プログラミングの前】「何を作るか」の合...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8b870661f80d63499336</id>
