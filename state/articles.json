@@ -826,7 +826,7 @@
       "updated": "2026-04-14T18:27:56+09:00",
       "author_name": "rana_kualu",
       "likes_count": 13,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "1d6e71aed59920c642a4",
@@ -1681,6 +1681,18 @@
       "last_seen": "2026-03-04T19:24:42.155148877+00:00"
     },
     {
+      "key": "3a04f05a186b29da9a20",
+      "item_id": "3a04f05a186b29da9a20",
+      "title": "C#で理解するSOLID原則まとめ：実務で使える設計の考え方とコード例",
+      "link": "https://qiita.com/hiroki_notes/items/3a04f05a186b29da9a20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "オブジェクト指向の設計原則って、名前だけ聞くとちょっと堅苦しく感じませんか。\nでも実際には 「後から困らないコードを書くための知恵袋」 のようなものです。\nこの記事では、C# のコード例を交えながら SOLID 原則をできるだけわかりやすく紹介します。\n「聞いたことはあるけ...",
+      "published": "2026-04-15T16:56:38+09:00",
+      "updated": "2026-04-15T16:56:38+09:00",
+      "author_name": "hiroki_notes",
+      "likes_count": 14,
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
+    },
+    {
       "key": "3a12c5f1258db8d81a78",
       "item_id": "3a12c5f1258db8d81a78",
       "title": "NotebookLMの神アプデを試さずにいられなかった",
@@ -1906,7 +1918,7 @@
       "updated": "2026-04-14T16:43:00+09:00",
       "author_name": "hiroki_notes",
       "likes_count": 21,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "41194161552d2150c4a5",
@@ -1918,7 +1930,7 @@
       "updated": "2026-04-15T07:11:47+09:00",
       "author_name": "Nao52",
       "likes_count": 16,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "411bfd2be559b82d156d",
@@ -2002,7 +2014,7 @@
       "updated": "2026-04-15T18:47:54+09:00",
       "author_name": "shirok",
       "likes_count": 10,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "43582fefbce18b66835f",
@@ -2014,7 +2026,7 @@
       "updated": "2026-04-14T07:48:17+09:00",
       "author_name": "Kumacchiino",
       "likes_count": 27,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "43a6828c806a9ebcfdd1",
@@ -2074,7 +2086,7 @@
       "updated": "2026-04-13T11:29:26+09:00",
       "author_name": "nogataka",
       "likes_count": 24,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "44b4b16a441f494a2307",
@@ -2086,7 +2098,7 @@
       "updated": "2026-04-14T13:03:58+09:00",
       "author_name": "masa20057",
       "likes_count": 81,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "45b5847e30b2cd61a756",
@@ -2099,6 +2111,18 @@
       "author_name": "hiroki_notes",
       "likes_count": 29,
       "last_seen": "2026-04-10T07:43:13.419330302+00:00"
+    },
+    {
+      "key": "45c3cde50a17791a7a5a",
+      "item_id": "45c3cde50a17791a7a5a",
+      "title": "冷蔵庫の食材リストから自動でレシピ提案するLINE Botを作った（n8n × LLM）",
+      "link": "https://qiita.com/wan-code/items/45c3cde50a17791a7a5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n「冷蔵庫にあるものを把握する＋それを使ったレシピを考える問題」を解決したくて、\nLINEで食材把握からレシピ提案までしてくれるBotを作りました。\nやっていることはシンプルで、\n\nGoogleスプレッドシートに食材を管理\nLINEで「夜ご飯」「おつまみ」など送る...",
+      "published": "2026-04-15T18:52:20+09:00",
+      "updated": "2026-04-15T18:52:20+09:00",
+      "author_name": "wan-code",
+      "likes_count": 12,
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "45e64e43fe623fcbe1dd",
@@ -2169,8 +2193,8 @@
       "published": "2026-04-13T11:28:07+09:00",
       "updated": "2026-04-13T11:28:07+09:00",
       "author_name": "nogataka",
-      "likes_count": 10,
-      "last_seen": "2026-04-14T19:39:02.466010330+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "488bb58725e94eb615ed",
@@ -2278,7 +2302,7 @@
       "updated": "2026-04-14T17:10:24+09:00",
       "author_name": "aito1234",
       "likes_count": 21,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "4b7a87438b4c3ff674f3",
@@ -2458,7 +2482,7 @@
       "updated": "2026-04-13T18:06:10+09:00",
       "author_name": "yuto-vj",
       "likes_count": 29,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "4fd4d07f82ee22cfc7d8",
@@ -2518,7 +2542,7 @@
       "updated": "2026-04-14T18:46:16+09:00",
       "author_name": "wan-code",
       "likes_count": 20,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "50fe3e6f62df0b2323d6",
@@ -2614,7 +2638,7 @@
       "updated": "2026-04-13T10:40:48+09:00",
       "author_name": "kawabe0201",
       "likes_count": 21,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "54e88055dc5fe22c0e1c",
@@ -2974,7 +2998,7 @@
       "updated": "2026-04-14T20:58:15+09:00",
       "author_name": "okadada",
       "likes_count": 17,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "5e25c34da0529dec71de",
@@ -3622,7 +3646,7 @@
       "updated": "2026-04-13T22:02:23+09:00",
       "author_name": "aito1234",
       "likes_count": 29,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "7217a0e97051f5391301",
@@ -4213,6 +4237,18 @@
       "last_seen": "2026-03-01T07:22:13.047532603+00:00"
     },
     {
+      "key": "88a5c930ecdf63bd2248",
+      "item_id": "88a5c930ecdf63bd2248",
+      "title": "JavaのListとMapの種類を整理する",
+      "link": "https://qiita.com/S_kamon/items/88a5c930ecdf63bd2248?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nJavaでコレクションを使うとき、こんな疑問を持ったことはありませんか？\n\nArrayList と LinkedList ってどう違うの？\n\nHashMap と LinkedHashMap と TreeMap、何を使えばいい？\nとりあえず ArrayList ...",
+      "published": "2026-04-15T17:07:50+09:00",
+      "updated": "2026-04-15T17:07:50+09:00",
+      "author_name": "S_kamon",
+      "likes_count": 13,
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
+    },
+    {
       "key": "88ed3c88e72eb7b8e870",
       "item_id": "88ed3c88e72eb7b8e870",
       "title": "draw.ioのMCPサーバーのかっこいいUXを模倣しようとしたらなかなか複雑だった件",
@@ -4390,7 +4426,7 @@
       "updated": "2026-04-14T18:57:09+09:00",
       "author_name": "yuto-vj",
       "likes_count": 20,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "8da88b33ffa8cf88dfa2",
@@ -4402,7 +4438,7 @@
       "updated": "2026-04-15T18:16:53+09:00",
       "author_name": "teppei19980914",
       "likes_count": 50,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "8db8c38e23e2196258b5",
@@ -4522,7 +4558,7 @@
       "updated": "2026-04-13T10:40:50+09:00",
       "author_name": "kawabe0201",
       "likes_count": 57,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "92dbd87adcd43fc0d800",
@@ -4990,7 +5026,7 @@
       "updated": "2026-04-13T22:03:12+09:00",
       "author_name": "rana_kualu",
       "likes_count": 37,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "a39a57b4e697d6c7552c",
@@ -5481,8 +5517,8 @@
       "published": "2026-04-15T12:49:58+09:00",
       "updated": "2026-04-15T12:49:58+09:00",
       "author_name": "hitomin_poke",
-      "likes_count": 50,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "likes_count": 51,
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "b2cec428c1d3c7cced5d",
@@ -6033,8 +6069,8 @@
       "published": "2026-04-13T11:27:45+09:00",
       "updated": "2026-04-13T11:27:45+09:00",
       "author_name": "nogataka",
-      "likes_count": 23,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "likes_count": 24,
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "c5c6a0eb93ae6bc6b791",
@@ -6202,7 +6238,7 @@
       "updated": "2026-04-15T16:20:45+09:00",
       "author_name": "hokutoh",
       "likes_count": 86,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "cda0b336c19537607aff",
@@ -6286,7 +6322,7 @@
       "updated": "2026-04-15T12:19:25+09:00",
       "author_name": "v_avenger",
       "likes_count": 16,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "d12d120ffa743127b05c",
@@ -7150,7 +7186,7 @@
       "updated": "2026-04-13T11:27:23+09:00",
       "author_name": "nogataka",
       "likes_count": 100,
-      "last_seen": "2026-04-15T19:40:20.000631816+00:00"
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "ec165c1c1bb0b4bb8833",
@@ -7319,6 +7355,18 @@
       "author_name": "HERUESTA",
       "likes_count": 13,
       "last_seen": "2026-03-05T07:26:37.977532674+00:00"
+    },
+    {
+      "key": "efe8eb9df612d2211221",
+      "item_id": "efe8eb9df612d2211221",
+      "title": "Claude Codeのサブエージェントを使い倒す ── Anthropic公式「計画・生成・評価」3分離パターンの実践",
+      "link": "https://qiita.com/nogataka/items/efe8eb9df612d2211221?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに：単一エージェントの限界\nClaude Codeを日常的に使っていると、あるタイミングから出力品質が落ちる瞬間に気づきます。長い会話の中でコンテキストウィンドウが埋まっていき、モデルが「考えながら手を動かす」状態に陥るのです。\n具体的には以下のような現象が起きます...",
+      "published": "2026-04-13T11:24:58+09:00",
+      "updated": "2026-04-13T11:24:58+09:00",
+      "author_name": "nogataka",
+      "likes_count": 17,
+      "last_seen": "2026-04-15T20:27:08.045798274+00:00"
     },
     {
       "key": "f0251ff2b52a656da4db",
