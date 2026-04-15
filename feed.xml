@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-04-15T16:20:45+09:00</updated>
+  <updated>2026-04-15T18:16:53+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1029,6 +1029,16 @@ ChatGPT5.4 を使います。MacのCodexアプリを使います(5.4 Codexでは
 このWebサイトでは、物理学で使う計算手法のコードが公開されています。FORTRANです。DMFTと呼ばれる手法の超有...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cd68b09eccb18c1f7f3d</id>
+    <title>AIコーディング時代に必要なプログラミングスキル</title>
+    <link rel="alternate" href="https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-15T16:20:45+09:00</updated>
+    <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hokutoh&quot;&gt;hokutoh&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T23:11:23+09:00&lt;br/&gt;Updated: 2026-04-15T16:20:45+09:00&lt;br/&gt;「もうプログラミングスキルは不要」勢へ
+恐らくそれは「プログラミングスキル」ではないです。
+いや単に「プログラミングスキル」という言葉の定義の問題かもしれない。
+実際多くの人はPythonの文法、JavaScriptのフレームワーク、SQLのクエリ構文——つまり特定言語に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:48ede59ebe33b4b774ac</id>
     <title>Claude Code 知らないと損するコマンド・時短術 20選</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/48ede59ebe33b4b774ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1060,16 +1070,6 @@ Claude Codeを使っていて、こんな経験はありませんか？
     <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T01:27:19+09:00&lt;br/&gt;Updated: 2026-02-26T10:04:26+09:00&lt;br/&gt;はじめに
 MinIO は Amazon S3 互換の API を備えたオブジェクトストレージです。
 docker-compose.yml に数行書くだけで S3 互換のストレージが立ち上がるため、ローカル開発環境の S3 モックとして広く使われてきました。DockerHu...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cd68b09eccb18c1f7f3d</id>
-    <title>AIコーディング時代に必要なプログラミングスキル</title>
-    <link rel="alternate" href="https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-15T16:20:45+09:00</updated>
-    <summary type="html">Likes: 77&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hokutoh&quot;&gt;hokutoh&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T23:11:23+09:00&lt;br/&gt;Updated: 2026-04-15T16:20:45+09:00&lt;br/&gt;「もうプログラミングスキルは不要」勢へ
-恐らくそれは「プログラミングスキル」ではないです。
-いや単に「プログラミングスキル」という言葉の定義の問題かもしれない。
-実際多くの人はPythonの文法、JavaScriptのフレームワーク、SQLのクエリ構文——つまり特定言語に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:07b7926408a3447b6665</id>
@@ -1577,7 +1577,7 @@ C言語はアセンブラに翻訳されます。
     <title>【体験談】「うちは大丈夫」と思っていた個人開発サービスが攻撃された話 ─ 対策と教訓5つ</title>
     <link rel="alternate" href="https://qiita.com/kawabe0201/items/92da5ce86236a711e786?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-13T10:40:50+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kawabe0201&quot;&gt;kawabe0201&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T10:40:50+09:00&lt;br/&gt;Updated: 2026-04-13T10:40:50+09:00&lt;br/&gt;個人で運用していたタスク管理ツール（月間アクティブユーザー約300人）が、ある日突然攻撃を受けた。「こんな小さなサービス、誰が狙うんだ」と思っていた。結論から言えば、攻撃者は規模を選ばない。自動スキャンツールで脆弱なサーバーを片っ端から探しているだけだ。
+    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kawabe0201&quot;&gt;kawabe0201&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T10:40:50+09:00&lt;br/&gt;Updated: 2026-04-13T10:40:50+09:00&lt;br/&gt;個人で運用していたタスク管理ツール（月間アクティブユーザー約300人）が、ある日突然攻撃を受けた。「こんな小さなサービス、誰が狙うんだ」と思っていた。結論から言えば、攻撃者は規模を選ばない。自動スキャンツールで脆弱なサーバーを片っ端から探しているだけだ。
 
 異変の発見 ─ ...</summary>
   </entry>
@@ -2172,6 +2172,17 @@ NVIDIA Nemotron-Nano-9B-v2-Japanese を自分のPCで動かしてみたい方
 llama.cpp や Open WebUI を使ったロー...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8da88b33ffa8cf88dfa2</id>
+    <title>Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説</title>
+    <link rel="alternate" href="https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-15T18:16:53+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T20:57:13+09:00&lt;br/&gt;Updated: 2026-04-15T18:16:53+09:00&lt;br/&gt;この記事は約5分で読めます。
+
+筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
+👉 ポートフォリオ: 筆者ホームページ
+Cla...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:402d4a9c414354220ba3</id>
     <title>【Git】実務でよくあるGitエラーと対処法まとめ</title>
     <link rel="alternate" href="https://qiita.com/yuto-vj/items/402d4a9c414354220ba3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2214,15 +2225,5 @@ pushできない
     <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Gaakuu&quot;&gt;Gaakuu&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T01:42:31+09:00&lt;br/&gt;Updated: 2026-03-24T01:42:31+09:00&lt;br/&gt;はじめに
 みなさんは共通化していますか？プログラムを書いていると、必ず意識するようになることだと思います。
 自分も似たような処理を共通化してひとつにまとめたことがあります。しばらくはうまく回っていました。ただ、似ているけどちょっと挙動が違う処理が必要になるたびに、共通処理...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a2c5012d496312358323</id>
-    <title>【Unity】演出スキップがつらすぎたので、ChainRacePattern という仕組みを作った</title>
-    <link rel="alternate" href="https://qiita.com/morishift/items/a2c5012d496312358323?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-17T19:33:08+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/morishift&quot;&gt;morishift&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T06:56:43+09:00&lt;br/&gt;Updated: 2026-03-17T19:33:08+09:00&lt;br/&gt;はじめに
-Unity で演出を作っていると、ほぼ確実にスキップ機能が必要になります。
-リザルト画面、ガチャ演出、ストーリーパート。やりたいことは「ボタンが押されたら、実行中の演出を飛ばして次へ進む」だけなのに、実装は毎回つらい。
-私自身、この問題にかなり悩みました。その末...</summary>
   </entry>
 </feed>
