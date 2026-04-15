@@ -814,6 +814,14 @@ Hooks、Skills、CLAUDE.md、settings.json、MCP、権限管理…… 2026年の
 こ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
+    <title>Claude Codeソースコード流出から学ぶハーネスパターン10選 ── 50万行のTypeScriptが明かした設計思想</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/ebbbe74649eb441a34db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T11:27:23+09:00</updated>
+    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:23+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:23+09:00&lt;br/&gt;はじめに：3月31日に何が起きたか
+2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:895d52879948d5bdb387</id>
     <title>【35歳未経験でも理解できた】URLとHTTP</title>
     <link rel="alternate" href="https://qiita.com/wata-sho/items/895d52879948d5bdb387?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -824,14 +832,6 @@ Hooks、Skills、CLAUDE.md、settings.json、MCP、権限管理…… 2026年の
 Webの勉強を始めると、必ず目にする「URL」と「HTTP」。
 毎日使っているはずなのに、
 「これってどういう仕組み？」と聞かれると少...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
-    <title>Claude Codeソースコード流出から学ぶハーネスパターン10選 ── 50万行のTypeScriptが明かした設計思想</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/ebbbe74649eb441a34db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T11:27:23+09:00</updated>
-    <summary type="html">Likes: 87&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:23+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:23+09:00&lt;br/&gt;はじめに：3月31日に何が起きたか
-2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6856459c6e8f3decbba3</id>
@@ -1011,6 +1011,14 @@ ChatGPT5.4 を使います。MacのCodexアプリを使います(5.4 Codexでは
 このWebサイトでは、物理学で使う計算手法のコードが公開されています。FORTRANです。DMFTと呼ばれる手法の超有...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ce71acf0aa0b80631c35</id>
+    <title>エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】</title>
+    <link rel="alternate" href="https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-12T15:23:30+09:00</updated>
+    <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-04-12T15:23:30+09:00&lt;br/&gt;Updated: 2026-04-12T15:23:30+09:00&lt;br/&gt;設計書を書くのに毎回何時間もかかって、本来の開発に集中できていない…そんな経験はありませんか？
+仕様書、API設計書、DB設計書、クラス設計書——エンジニアの仕事には「書かなければいけないドキュメント」が山ほどあります。でも、コードを書く時間と同じくらい、あるいはそれ以上の...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:48ede59ebe33b4b774ac</id>
     <title>Claude Code 知らないと損するコマンド・時短術 20選</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/48ede59ebe33b4b774ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1067,12 +1075,14 @@ AIの賢さとツールが洗練されてきました
 Opus4.6やGPT-...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:ce71acf0aa0b80631c35</id>
-    <title>エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】</title>
-    <link rel="alternate" href="https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-12T15:23:30+09:00</updated>
-    <summary type="html">Likes: 76&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-04-12T15:23:30+09:00&lt;br/&gt;Updated: 2026-04-12T15:23:30+09:00&lt;br/&gt;設計書を書くのに毎回何時間もかかって、本来の開発に集中できていない…そんな経験はありませんか？
-仕様書、API設計書、DB設計書、クラス設計書——エンジニアの仕事には「書かなければいけないドキュメント」が山ほどあります。でも、コードを書く時間と同じくらい、あるいはそれ以上の...</summary>
+    <id>tag:qiita.com,2026:44b4b16a441f494a2307</id>
+    <title>プログラミング前後の工程がプロダクト品質を決める</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/44b4b16a441f494a2307?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-14T13:03:58+09:00</updated>
+    <summary type="html">Likes: 76&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T13:03:58+09:00&lt;br/&gt;Updated: 2026-04-14T13:03:58+09:00&lt;br/&gt;株式会社PRUMのmasaです。
+今日は開発現場で大切なプログラミング前後の工程のお話をします。内容はそれらの工程のほんの一部になりますが、主にエンジニア未経験者、駆け出しエンジニアの方々の知見が少しでも広がればと思います。
+
+1. 【プログラミングの前】「何を作るか」の合...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:34d20cd39006cce775d0</id>
@@ -1147,14 +1157,14 @@ HTML/画像を根拠にMark...</summary>
 「ファミレスの注文」に例え...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:44b4b16a441f494a2307</id>
-    <title>プログラミング前後の工程がプロダクト品質を決める</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/44b4b16a441f494a2307?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-14T13:03:58+09:00</updated>
-    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T13:03:58+09:00&lt;br/&gt;Updated: 2026-04-14T13:03:58+09:00&lt;br/&gt;株式会社PRUMのmasaです。
-今日は開発現場で大切なプログラミング前後の工程のお話をします。内容はそれらの工程のほんの一部になりますが、主にエンジニア未経験者、駆け出しエンジニアの方々の知見が少しでも広がればと思います。
-
-1. 【プログラミングの前】「何を作るか」の合...</summary>
+    <id>tag:qiita.com,2026:417ec32f3b19185a7ca4</id>
+    <title>【35歳未経験でも理解できた】サーバープッシュ技術</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/417ec32f3b19185a7ca4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T10:22:30+09:00</updated>
+    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T10:22:30+09:00&lt;br/&gt;Updated: 2026-04-13T10:22:30+09:00&lt;br/&gt;SSE・WebSocketをスッキリ理解する
+こんにちは！
+35歳未経験からWebエンジニアの世界に飛び込んだ者です。
+突然ですが、LINEなどのチャットアプリで、自分が何も操作していないのに「ポンッ」と新しいメッセージが表示されるのって、不思議に思ったことはありませんか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:392934f79e943e8b9228</id>
@@ -1163,16 +1173,6 @@ HTML/画像を根拠にMark...</summary>
     <updated>2026-03-04T12:26:47+09:00</updated>
     <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T17:38:55+09:00&lt;br/&gt;Updated: 2026-03-04T12:26:47+09:00&lt;br/&gt;Claude Codeの公式ベストプラクティスには、成果を安定させるためのパターンが数多く掲載されている。ただ、情報量が多く、どこから手をつければよいか迷う人も多いのではないだろうか。
 本記事では、公式ドキュメントの内容を参考に、特に押さえておきたいポイントを7つの鉄則とし...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:417ec32f3b19185a7ca4</id>
-    <title>【35歳未経験でも理解できた】サーバープッシュ技術</title>
-    <link rel="alternate" href="https://qiita.com/wata-sho/items/417ec32f3b19185a7ca4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T10:22:30+09:00</updated>
-    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T10:22:30+09:00&lt;br/&gt;Updated: 2026-04-13T10:22:30+09:00&lt;br/&gt;SSE・WebSocketをスッキリ理解する
-こんにちは！
-35歳未経験からWebエンジニアの世界に飛び込んだ者です。
-突然ですが、LINEなどのチャットアプリで、自分が何も操作していないのに「ポンッ」と新しいメッセージが表示されるのって、不思議に思ったことはありませんか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:77d59a91ce2f2ab54209</id>
@@ -1480,6 +1480,16 @@ PRUMについて気になった方は、
 EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cd68b09eccb18c1f7f3d</id>
+    <title>AIコーディング時代に必要なプログラミングスキル</title>
+    <link rel="alternate" href="https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T23:34:08+09:00</updated>
+    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hokutoh&quot;&gt;hokutoh&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T23:11:23+09:00&lt;br/&gt;Updated: 2026-04-13T23:34:08+09:00&lt;br/&gt;「もうプログラミングスキルは不要」勢へ
+恐らくそれは「プログラミングスキル」ではないです。
+いや単に「プログラミングスキル」という言葉の定義の問題かもしれない。
+実際多くの人はPythonの文法、JavaScriptのフレームワーク、SQLのクエリ構文——つまり特定言語に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8b870661f80d63499336</id>
     <title>Claude Code 初学者ロードマップ</title>
     <link rel="alternate" href="https://qiita.com/marugame/items/8b870661f80d63499336?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1576,16 +1586,6 @@ C言語はアセンブラに翻訳されます。
 ア...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:cd68b09eccb18c1f7f3d</id>
-    <title>AIコーディング時代に必要なプログラミングスキル</title>
-    <link rel="alternate" href="https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T23:34:08+09:00</updated>
-    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hokutoh&quot;&gt;hokutoh&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T23:11:23+09:00&lt;br/&gt;Updated: 2026-04-13T23:34:08+09:00&lt;br/&gt;「もうプログラミングスキルは不要」勢へ
-恐らくそれは「プログラミングスキル」ではないです。
-いや単に「プログラミングスキル」という言葉の定義の問題かもしれない。
-実際多くの人はPythonの文法、JavaScriptのフレームワーク、SQLのクエリ構文——つまり特定言語に...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:3674294dc301f5dcf453</id>
     <title>仕様駆動開発は、ウォーターフォールへの回帰ではない。</title>
     <link rel="alternate" href="https://qiita.com/ju-kosaka/items/3674294dc301f5dcf453?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1626,6 +1626,15 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきまし...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:92da5ce86236a711e786</id>
+    <title>【体験談】「うちは大丈夫」と思っていた個人開発サービスが攻撃された話 ─ 対策と教訓5つ</title>
+    <link rel="alternate" href="https://qiita.com/kawabe0201/items/92da5ce86236a711e786?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T10:40:50+09:00</updated>
+    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kawabe0201&quot;&gt;kawabe0201&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T10:40:50+09:00&lt;br/&gt;Updated: 2026-04-13T10:40:50+09:00&lt;br/&gt;個人で運用していたタスク管理ツール（月間アクティブユーザー約300人）が、ある日突然攻撃を受けた。「こんな小さなサービス、誰が狙うんだ」と思っていた。結論から言えば、攻撃者は規模を選ばない。自動スキャンツールで脆弱なサーバーを片っ端から探しているだけだ。
+
+異変の発見 ─ ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5a3fad5ec1c80a8be715</id>
     <title>AIで実装は速くなった。でもチーム開発が逆に難しくなった理由</title>
     <link rel="alternate" href="https://qiita.com/engchina/items/5a3fad5ec1c80a8be715?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1636,15 +1645,6 @@ AIを導入すると、実装スピードは確実に上がります。
 今回読んだ2本の記事から得た学びを一言でまとめると、次の3つでした。
 
 仕様書は「ずっと保守する正本」で...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:92da5ce86236a711e786</id>
-    <title>【体験談】「うちは大丈夫」と思っていた個人開発サービスが攻撃された話 ─ 対策と教訓5つ</title>
-    <link rel="alternate" href="https://qiita.com/kawabe0201/items/92da5ce86236a711e786?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T10:40:50+09:00</updated>
-    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kawabe0201&quot;&gt;kawabe0201&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T10:40:50+09:00&lt;br/&gt;Updated: 2026-04-13T10:40:50+09:00&lt;br/&gt;個人で運用していたタスク管理ツール（月間アクティブユーザー約300人）が、ある日突然攻撃を受けた。「こんな小さなサービス、誰が狙うんだ」と思っていた。結論から言えば、攻撃者は規模を選ばない。自動スキャンツールで脆弱なサーバーを片っ端から探しているだけだ。
-
-異変の発見 ─ ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
