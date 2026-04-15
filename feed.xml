@@ -756,6 +756,14 @@ PRUMについて気になった方は、
 ただ、 async/awaitは...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
+    <title>Claude Codeソースコード流出から学ぶハーネスパターン10選 ── 50万行のTypeScriptが明かした設計思想</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/ebbbe74649eb441a34db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T11:27:23+09:00</updated>
+    <summary type="html">Likes: 95&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:23+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:23+09:00&lt;br/&gt;はじめに：3月31日に何が起きたか
+2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1d6e71aed59920c642a4</id>
     <title>【AWS学習の最適解】AWS全冠がお届けする、無料学習サイト「AWS認定合格ナビゲーター」のご紹介</title>
     <link rel="alternate" href="https://qiita.com/kenken38/items/1d6e71aed59920c642a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -767,14 +775,6 @@ https://kenta-matsuda.github.io/Kenta-Matsuda.github.io-aws-study/
 先日、AWS学習サイトのα版を公開しました。
 
 このα版では、AWS認定学習の「航路」を...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
-    <title>Claude Codeソースコード流出から学ぶハーネスパターン10選 ── 50万行のTypeScriptが明かした設計思想</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/ebbbe74649eb441a34db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T11:27:23+09:00</updated>
-    <summary type="html">Likes: 93&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:23+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:23+09:00&lt;br/&gt;はじめに：3月31日に何が起きたか
-2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:81ddcadc785a6498d10f</id>
@@ -1145,6 +1145,16 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
 HTML/画像を根拠にMark...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cd68b09eccb18c1f7f3d</id>
+    <title>AIコーディング時代に必要なプログラミングスキル</title>
+    <link rel="alternate" href="https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-15T16:20:45+09:00</updated>
+    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hokutoh&quot;&gt;hokutoh&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T23:11:23+09:00&lt;br/&gt;Updated: 2026-04-15T16:20:45+09:00&lt;br/&gt;「もうプログラミングスキルは不要」勢へ
+恐らくそれは「プログラミングスキル」ではないです。
+いや単に「プログラミングスキル」という言葉の定義の問題かもしれない。
+実際多くの人はPythonの文法、JavaScriptのフレームワーク、SQLのクエリ構文——つまり特定言語に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d3f222758833cb694672</id>
     <title>【35歳未経験でも理解できた】Web API</title>
     <link rel="alternate" href="https://qiita.com/wata-sho/items/d3f222758833cb694672?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1173,16 +1183,6 @@ HTML/画像を根拠にMark...</summary>
     <updated>2026-03-04T12:26:47+09:00</updated>
     <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T17:38:55+09:00&lt;br/&gt;Updated: 2026-03-04T12:26:47+09:00&lt;br/&gt;Claude Codeの公式ベストプラクティスには、成果を安定させるためのパターンが数多く掲載されている。ただ、情報量が多く、どこから手をつければよいか迷う人も多いのではないだろうか。
 本記事では、公式ドキュメントの内容を参考に、特に押さえておきたいポイントを7つの鉄則とし...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cd68b09eccb18c1f7f3d</id>
-    <title>AIコーディング時代に必要なプログラミングスキル</title>
-    <link rel="alternate" href="https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-15T16:20:45+09:00</updated>
-    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hokutoh&quot;&gt;hokutoh&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T23:11:23+09:00&lt;br/&gt;Updated: 2026-04-15T16:20:45+09:00&lt;br/&gt;「もうプログラミングスキルは不要」勢へ
-恐らくそれは「プログラミングスキル」ではないです。
-いや単に「プログラミングスキル」という言葉の定義の問題かもしれない。
-実際多くの人はPythonの文法、JavaScriptのフレームワーク、SQLのクエリ構文——つまり特定言語に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:77d59a91ce2f2ab54209</id>
@@ -1573,6 +1573,15 @@ C言語はアセンブラに翻訳されます。
 ア...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:92da5ce86236a711e786</id>
+    <title>【体験談】「うちは大丈夫」と思っていた個人開発サービスが攻撃された話 ─ 対策と教訓5つ</title>
+    <link rel="alternate" href="https://qiita.com/kawabe0201/items/92da5ce86236a711e786?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T10:40:50+09:00</updated>
+    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kawabe0201&quot;&gt;kawabe0201&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T10:40:50+09:00&lt;br/&gt;Updated: 2026-04-13T10:40:50+09:00&lt;br/&gt;個人で運用していたタスク管理ツール（月間アクティブユーザー約300人）が、ある日突然攻撃を受けた。「こんな小さなサービス、誰が狙うんだ」と思っていた。結論から言えば、攻撃者は規模を選ばない。自動スキャンツールで脆弱なサーバーを片っ端から探しているだけだ。
+
+異変の発見 ─ ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3674294dc301f5dcf453</id>
     <title>仕様駆動開発は、ウォーターフォールへの回帰ではない。</title>
     <link rel="alternate" href="https://qiita.com/ju-kosaka/items/3674294dc301f5dcf453?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1581,15 +1590,6 @@ C言語はアセンブラに翻訳されます。
 みなさん、仕様駆動開発（SDD：Spec-Driven Development）、意識していますか？
 GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一気に注目を集め始めました。
 国内外の...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:92da5ce86236a711e786</id>
-    <title>【体験談】「うちは大丈夫」と思っていた個人開発サービスが攻撃された話 ─ 対策と教訓5つ</title>
-    <link rel="alternate" href="https://qiita.com/kawabe0201/items/92da5ce86236a711e786?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T10:40:50+09:00</updated>
-    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kawabe0201&quot;&gt;kawabe0201&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T10:40:50+09:00&lt;br/&gt;Updated: 2026-04-13T10:40:50+09:00&lt;br/&gt;個人で運用していたタスク管理ツール（月間アクティブユーザー約300人）が、ある日突然攻撃を受けた。「こんな小さなサービス、誰が狙うんだ」と思っていた。結論から言えば、攻撃者は規模を選ばない。自動スキャンツールで脆弱なサーバーを片っ端から探しているだけだ。
-
-異変の発見 ─ ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:78fdef38b201985cb0d9</id>
@@ -1634,6 +1634,18 @@ AIを導入すると、実装スピードは確実に上がります。
 仕様書は「ずっと保守する正本」で...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b2bb7163d278ee8cae42</id>
+    <title>【時間感覚論 #1】新人エンジニアの「明日中に終わります」って、結局いつやねん！！問題</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/b2bb7163d278ee8cae42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-15T12:49:58+09:00</updated>
+    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-04-15T12:49:58+09:00&lt;br/&gt;Updated: 2026-04-15T12:49:58+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶ コーポレートサイト
+
+【時間感覚論 ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
     <title>LinuxエンジニアのためのWindowsセキュリティ再入門 〜 第1回：はじめに —— なぜ今、LinuxエンジニアがWindowsセキュリティを学ぶのか</title>
     <link rel="alternate" href="https://qiita.com/555hamano/items/e9e1dce9e2dbc574a93f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1646,18 +1658,6 @@ Linux prod-server 5.15.0 #1 SMP x86_64 GNU/Linux
 
 「Windowsのセキュリティ？ 情シスやPC管理者の仕事でしょ？」
 そう思っているLinu...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b2bb7163d278ee8cae42</id>
-    <title>【時間感覚論 #1】新人エンジニアの「明日中に終わります」って、結局いつやねん！！問題</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/b2bb7163d278ee8cae42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-15T12:49:58+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-04-15T12:49:58+09:00&lt;br/&gt;Updated: 2026-04-15T12:49:58+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶ コーポレートサイト
-
-【時間感覚論 ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6d26b6ffc11d163dfd71</id>
