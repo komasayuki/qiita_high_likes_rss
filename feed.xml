@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-04-16T14:15:34+09:00</updated>
+  <updated>2026-04-16T20:46:14+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -211,6 +211,17 @@ Webアプリケーションのアーキテクチャは、時代とともに構�
 本記事では、その変遷をJavaの技術スタックを軸に、2層構造（Model 1）からMVCパターン（Model 2）、レイヤードアーキテクチャ、そしてヘキサゴナルアーキテクチャ・クリーン...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8da88b33ffa8cf88dfa2</id>
+    <title>Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説</title>
+    <link rel="alternate" href="https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-16T20:46:14+09:00</updated>
+    <summary type="html">Likes: 181&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T20:57:13+09:00&lt;br/&gt;Updated: 2026-04-16T20:46:14+09:00&lt;br/&gt;この記事は約5分で読めます。
+
+筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
+👉 ポートフォリオ: 筆者ホームページ
+Cla...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a867e1954b80e78cf146</id>
     <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
     <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -237,17 +248,6 @@ Bunでビルドしたときにデフォルトで生成されるsou...</summary>
     <updated>2026-04-01T12:06:54+09:00</updated>
     <summary type="html">Likes: 175&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T09:18:35+09:00&lt;br/&gt;Updated: 2026-04-01T12:06:54+09:00&lt;br/&gt;CLAUDE.mdは長いほど効くわけではありません。むしろ長いほどClaude Codeは従いにくくなります。
 100行書いたCLAUDE.mdと、35行に削って残りを.claude/rules/に分離したCLAUDE.md。同じ指示を出しても、後者の方がClaudeの出力...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8da88b33ffa8cf88dfa2</id>
-    <title>Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説</title>
-    <link rel="alternate" href="https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-16T14:15:34+09:00</updated>
-    <summary type="html">Likes: 174&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T20:57:13+09:00&lt;br/&gt;Updated: 2026-04-16T14:15:34+09:00&lt;br/&gt;この記事は約5分で読めます。
-
-筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
-👉 ポートフォリオ: 筆者ホームページ
-Cla...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:838bc1b59a84b16820a9</id>
@@ -360,6 +360,16 @@ Claude Code Skills と yfinance を使って、株式スクリーニングから
 エンジニアなら一度はそう思ったことがあるのではないでしょうか。・・・あれ、ないですか？そうですか。まあ、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cd68b09eccb18c1f7f3d</id>
+    <title>AIコーディング時代に必要なプログラミングスキル</title>
+    <link rel="alternate" href="https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-15T16:20:45+09:00</updated>
+    <summary type="html">Likes: 141&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hokutoh&quot;&gt;hokutoh&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T23:11:23+09:00&lt;br/&gt;Updated: 2026-04-15T16:20:45+09:00&lt;br/&gt;「もうプログラミングスキルは不要」勢へ
+恐らくそれは「プログラミングスキル」ではないです。
+いや単に「プログラミングスキル」という言葉の定義の問題かもしれない。
+実際多くの人はPythonの文法、JavaScriptのフレームワーク、SQLのクエリ構文——つまり特定言語に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5b5747f619e6eb745436</id>
     <title>簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/5b5747f619e6eb745436?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -367,16 +377,6 @@ Claude Code Skills と yfinance を使って、株式スクリーニングから
     <summary type="html">Likes: 139&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T15:04:10+09:00&lt;br/&gt;Updated: 2026-03-14T15:11:26+09:00&lt;br/&gt;agency-agentsとは何か
 agency-agentsは、144個のAIエージェント定義をMarkdownファイルで提供するOSSです。Claude Code、Copilot、Cursor、Gemini CLIなど10以上のツールに対応しています。
 「開発者として...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cd68b09eccb18c1f7f3d</id>
-    <title>AIコーディング時代に必要なプログラミングスキル</title>
-    <link rel="alternate" href="https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-15T16:20:45+09:00</updated>
-    <summary type="html">Likes: 138&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hokutoh&quot;&gt;hokutoh&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T23:11:23+09:00&lt;br/&gt;Updated: 2026-04-15T16:20:45+09:00&lt;br/&gt;「もうプログラミングスキルは不要」勢へ
-恐らくそれは「プログラミングスキル」ではないです。
-いや単に「プログラミングスキル」という言葉の定義の問題かもしれない。
-実際多くの人はPythonの文法、JavaScriptのフレームワーク、SQLのクエリ構文——つまり特定言語に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6743216583b66168ec12</id>
@@ -1624,6 +1624,19 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきまし...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7c402f4e085fae433cf5</id>
+    <title>【35歳未経験でも理解できた】SQL 基礎コマンド</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/7c402f4e085fae433cf5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-16T11:33:01+09:00</updated>
+    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T10:18:18+09:00&lt;br/&gt;Updated: 2026-04-16T11:33:01+09:00&lt;br/&gt;こんにちは！
+35歳で異業種からWebエンジニアの世界に飛び込んだ者です。
+今回は、「SQLの勉強を始めるけど、不安...」というあなたへ！
+「SQLの基本4大コマンドを、コンビニに例えてスッキリ解説します！」
+
+この記事はこんな人におすすめ
+・SQLに対してなんとなく苦...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5a3fad5ec1c80a8be715</id>
     <title>AIで実装は速くなった。でもチーム開発が逆に難しくなった理由</title>
     <link rel="alternate" href="https://qiita.com/engchina/items/5a3fad5ec1c80a8be715?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1634,19 +1647,6 @@ AIを導入すると、実装スピードは確実に上がります。
 今回読んだ2本の記事から得た学びを一言でまとめると、次の3つでした。
 
 仕様書は「ずっと保守する正本」で...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7c402f4e085fae433cf5</id>
-    <title>【35歳未経験でも理解できた】SQL 基礎コマンド</title>
-    <link rel="alternate" href="https://qiita.com/wata-sho/items/7c402f4e085fae433cf5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-16T11:33:01+09:00</updated>
-    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T10:18:18+09:00&lt;br/&gt;Updated: 2026-04-16T11:33:01+09:00&lt;br/&gt;こんにちは！
-35歳で異業種からWebエンジニアの世界に飛び込んだ者です。
-今回は、「SQLの勉強を始めるけど、不安...」というあなたへ！
-「SQLの基本4大コマンドを、コンビニに例えてスッキリ解説します！」
-
-この記事はこんな人におすすめ
-・SQLに対してなんとなく苦...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:73bd88b401ecab0cc4c5</id>
