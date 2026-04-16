@@ -262,6 +262,17 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
 子供の頃、ゲームボーイアドバンスの画面の中で見た...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8da88b33ffa8cf88dfa2</id>
+    <title>Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説</title>
+    <link rel="alternate" href="https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-16T14:15:34+09:00</updated>
+    <summary type="html">Likes: 165&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T20:57:13+09:00&lt;br/&gt;Updated: 2026-04-16T14:15:34+09:00&lt;br/&gt;この記事は約5分で読めます。
+
+筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
+👉 ポートフォリオ: 筆者ホームページ
+Cla...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fb529b2ede94661e5287</id>
     <title>Claude Code Securityが発表され、セキュリティ株が暴落。AIが数十年見逃されたバグ500件を発見した</title>
     <link rel="alternate" href="https://qiita.com/emi_ndk/items/fb529b2ede94661e5287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -287,17 +298,6 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
     <updated>2026-03-08T18:15:21+09:00</updated>
     <summary type="html">Likes: 160&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
 2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8da88b33ffa8cf88dfa2</id>
-    <title>Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説</title>
-    <link rel="alternate" href="https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-16T14:15:34+09:00</updated>
-    <summary type="html">Likes: 159&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T20:57:13+09:00&lt;br/&gt;Updated: 2026-04-16T14:15:34+09:00&lt;br/&gt;この記事は約5分で読めます。
-
-筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
-👉 ポートフォリオ: 筆者ホームページ
-Cla...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ecbaedb3d7ffc29c9fb2</id>
@@ -391,7 +391,7 @@ Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使�
     <title>AIコーディング時代に必要なプログラミングスキル</title>
     <link rel="alternate" href="https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-15T16:20:45+09:00</updated>
-    <summary type="html">Likes: 133&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hokutoh&quot;&gt;hokutoh&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T23:11:23+09:00&lt;br/&gt;Updated: 2026-04-15T16:20:45+09:00&lt;br/&gt;「もうプログラミングスキルは不要」勢へ
+    <summary type="html">Likes: 135&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hokutoh&quot;&gt;hokutoh&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T23:11:23+09:00&lt;br/&gt;Updated: 2026-04-15T16:20:45+09:00&lt;br/&gt;「もうプログラミングスキルは不要」勢へ
 恐らくそれは「プログラミングスキル」ではないです。
 いや単に「プログラミングスキル」という言葉の定義の問題かもしれない。
 実際多くの人はPythonの文法、JavaScriptのフレームワーク、SQLのクエリ構文——つまり特定言語に...</summary>
@@ -1122,6 +1122,16 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
 自分も一度、デフォルト設定でバイブコーディングをしてみて「こんなもんか」と失望したも...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a359bfcd179777761e4f</id>
+    <title>【Qiita】いいかげん一日3記事までに制限すべきでは</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/a359bfcd179777761e4f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T22:03:12+09:00</updated>
+    <summary type="html">Likes: 75&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T21:02:47+09:00&lt;br/&gt;Updated: 2026-04-13T22:03:12+09:00&lt;br/&gt;新着一覧がたまに同一人物の投稿で埋まることがあるけど、例外なく全てゴミなのでいい加減対策すべき。
+3というのは適当に挙げただけで、べつに5でも10でも1でもいいのだが、少なくともなんらかの制限は設けるべきだろう。
+
+といっても一週間で50記事など、どうでもいい内容なのは...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1d84037b3b9a499167de</id>
     <title>draw.io MCP + Playwright MCP で画面設計書を自動生成してみた（GitHub Copilot Agent Skills）</title>
     <link rel="alternate" href="https://qiita.com/Ymmy/items/1d84037b3b9a499167de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1145,16 +1155,6 @@ HTML/画像を根拠にMark...</summary>
 「Web API」や「REST」について、自分なりに理解を整理したのでまとめてみます。
 今回は、イメージしやすいように
 「ファミレスの注文」に例え...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a359bfcd179777761e4f</id>
-    <title>【Qiita】いいかげん一日3記事までに制限すべきでは</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/a359bfcd179777761e4f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T22:03:12+09:00</updated>
-    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T21:02:47+09:00&lt;br/&gt;Updated: 2026-04-13T22:03:12+09:00&lt;br/&gt;新着一覧がたまに同一人物の投稿で埋まることがあるけど、例外なく全てゴミなのでいい加減対策すべき。
-3というのは適当に挙げただけで、べつに5でも10でも1でもいいのだが、少なくともなんらかの制限は設けるべきだろう。
-
-といっても一週間で50記事など、どうでもいい内容なのは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:417ec32f3b19185a7ca4</id>
@@ -1667,6 +1667,19 @@ GitHub Copilot ファミリー
 GitHub Copilot CL...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7c402f4e085fae433cf5</id>
+    <title>【35歳未経験でも理解できた】SQL 基礎コマンド</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/7c402f4e085fae433cf5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-16T11:33:01+09:00</updated>
+    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T10:18:18+09:00&lt;br/&gt;Updated: 2026-04-16T11:33:01+09:00&lt;br/&gt;こんにちは！
+35歳で異業種からWebエンジニアの世界に飛び込んだ者です。
+今回は、「SQLの勉強を始めるけど、不安...」というあなたへ！
+「SQLの基本4大コマンドを、コンビニに例えてスッキリ解説します！」
+
+この記事はこんな人におすすめ
+・SQLに対してなんとなく苦...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:001a7c7d3a35d797ddcb</id>
     <title>データアナリスト3年目が語る「教科書に載ってない」現場のリアル</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/001a7c7d3a35d797ddcb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1724,17 +1737,14 @@ OllamaやLM StudioでローカルLLMを動かしている方
 ローカルLLM基盤を狙う主...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:7c402f4e085fae433cf5</id>
-    <title>【35歳未経験でも理解できた】SQL 基礎コマンド</title>
-    <link rel="alternate" href="https://qiita.com/wata-sho/items/7c402f4e085fae433cf5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-16T11:33:01+09:00</updated>
-    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T10:18:18+09:00&lt;br/&gt;Updated: 2026-04-16T11:33:01+09:00&lt;br/&gt;こんにちは！
-35歳で異業種からWebエンジニアの世界に飛び込んだ者です。
-今回は、「SQLの勉強を始めるけど、不安...」というあなたへ！
-「SQLの基本4大コマンドを、コンビニに例えてスッキリ解説します！」
-
-この記事はこんな人におすすめ
-・SQLに対してなんとなく苦...</summary>
+    <id>tag:qiita.com,2026:73bd88b401ecab0cc4c5</id>
+    <title>プログラミング初学者の方が見落としがちなプロダクトを見る視点</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/73bd88b401ecab0cc4c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-16T11:15:55+09:00</updated>
+    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T11:15:55+09:00&lt;br/&gt;Updated: 2026-04-16T11:15:55+09:00&lt;br/&gt;株式会社PRUMのmasaです。
+今回は プログラミング初学者の方が見落としがちなプロダクトを見る視点 についてお伝えします。
+最初は目の前のプログラムに向き合って、純粋なプログラミングの面白さや苦悩を体験することは大切です。
+一方で、現場で求められている、より視座高くプロ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b11ebbcf7e14ff251b76</id>
@@ -1776,16 +1786,6 @@ Morpho社の調査が興味深いデータを出しています。SWE-benchに�
     <updated>2026-02-19T13:30:12+09:00</updated>
     <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T13:10:30+09:00&lt;br/&gt;Updated: 2026-02-19T13:30:12+09:00&lt;br/&gt;2025年12月、Anthropicが「Agent Skills」というオープン標準を公開しました。SKILL.mdというMarkdownファイルにエージェントへの指示を書けば、対応するどのツールでもそのスキルが動く、という仕組みです。
 注目すべきは、その採用速度です。公開...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:73bd88b401ecab0cc4c5</id>
-    <title>プログラミング初学者の方が見落としがちなプロダクトを見る視点</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/73bd88b401ecab0cc4c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-16T11:15:55+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T11:15:55+09:00&lt;br/&gt;Updated: 2026-04-16T11:15:55+09:00&lt;br/&gt;株式会社PRUMのmasaです。
-今回は プログラミング初学者の方が見落としがちなプロダクトを見る視点 についてお伝えします。
-最初は目の前のプログラムに向き合って、純粋なプログラミングの面白さや苦悩を体験することは大切です。
-一方で、現場で求められている、より視座高くプロ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:96cdc8bcd48d8a193556</id>
