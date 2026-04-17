@@ -326,18 +326,6 @@ PRUMについて気になった方は、
 「で、&quot;結局&quot;今どんな...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:47fb89fb6a84d9976d36</id>
-    <title>「Markdownだけで」顧客提案レベルのスライドを作ってみた【Slidev x Claude Opus 4.6】</title>
-    <link rel="alternate" href="https://qiita.com/ntaka329/items/47fb89fb6a84d9976d36?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-13T17:45:32+09:00</updated>
-    <summary type="html">Likes: 158&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ntaka329&quot;&gt;ntaka329&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T17:45:32+09:00&lt;br/&gt;Updated: 2026-02-13T17:45:32+09:00&lt;br/&gt;はじめに
-GMOコネクトの永田です。
-提案書、作るの辛くないですか？😇
-特に官公庁向け提案書は、評価項目ごとにページを作成していくと数十〜数百ページになることも珍しくありません。PowerPoint で作る場合、こんな苦痛が待っています：
-
-コピペ地獄: スライドをコピ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:61100a5b1aa8d752ae24</id>
     <title>Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】</title>
     <link rel="alternate" href="https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2229,5 +2217,14 @@ pushできない
     <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Fujiwo&quot;&gt;Fujiwo&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T17:09:21+09:00&lt;br/&gt;Updated: 2026-04-03T09:25:16+09:00&lt;br/&gt;新人の時期は、覚えることが多すぎます。
 言語、フレームワーク、Git、レビュー、設計、コミュニケーション。最近は AI ツールも学びの前提に入りつつあって、「何から身につければいいのか」がかえって見えにくくなりました。
 だからこそ、最初から全部を覚えようとしないほうがいい...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:08449740998cff7469df</id>
+    <title>同じ処理=共通化ではダメ？共通化の罠</title>
+    <link rel="alternate" href="https://qiita.com/Gaakuu/items/08449740998cff7469df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-24T01:42:31+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Gaakuu&quot;&gt;Gaakuu&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T01:42:31+09:00&lt;br/&gt;Updated: 2026-03-24T01:42:31+09:00&lt;br/&gt;はじめに
+みなさんは共通化していますか？プログラムを書いていると、必ず意識するようになることだと思います。
+自分も似たような処理を共通化してひとつにまとめたことがあります。しばらくはうまく回っていました。ただ、似ているけどちょっと挙動が違う処理が必要になるたびに、共通処理...</summary>
   </entry>
 </feed>
