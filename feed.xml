@@ -86,7 +86,7 @@ AIにUIデザインや要件定義を頼むとき、「機能」ばかり指示�
     <title>Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説</title>
     <link rel="alternate" href="https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-17T08:45:00+09:00</updated>
-    <summary type="html">Likes: 277&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T20:57:13+09:00&lt;br/&gt;Updated: 2026-04-17T08:45:00+09:00&lt;br/&gt;この記事は約5分で読めます。
+    <summary type="html">Likes: 282&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T20:57:13+09:00&lt;br/&gt;Updated: 2026-04-17T08:45:00+09:00&lt;br/&gt;この記事は約5分で読めます。
 
 筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
 👉 ポートフォリオ: 筆者ホームページ
@@ -1178,6 +1178,18 @@ HTML/画像を根拠にMark...</summary>
 最近はQiitaの記事を書く側になろうと思い、またQiitaに...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b2bb7163d278ee8cae42</id>
+    <title>新人エンジニアが言いがちな「明日中に終わります」が危ない理由</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/b2bb7163d278ee8cae42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T00:15:21+09:00</updated>
+    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-04-15T12:49:58+09:00&lt;br/&gt;Updated: 2026-04-17T00:15:21+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶ コーポレートサイト
+
+新人エンジニア...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c787ccd02775613f6f13</id>
     <title>Axiosサプライチェーン攻撃の手口をPostmortemで読んだら、まるでルパン三世だった</title>
     <link rel="alternate" href="https://qiita.com/WdknWdkn/items/c787ccd02775613f6f13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1206,18 +1218,6 @@ axiosサプライチェーン攻撃に関して、GitHub IssueにPostmortem（�
 前回の記事では、n8n を MCP サーバーとして OpenClaw に統合し、ワークフロー自動化の基盤を作りました。記事の最後に「今後の展望」としてこう書きました:
 
 セキュリティアラート自動トリアージ: Sysdig アラート → 情報収集 → 重大度判定 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b2bb7163d278ee8cae42</id>
-    <title>新人エンジニアが言いがちな「明日中に終わります」が危ない理由</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/b2bb7163d278ee8cae42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T00:15:21+09:00</updated>
-    <summary type="html">Likes: 69&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-04-15T12:49:58+09:00&lt;br/&gt;Updated: 2026-04-17T00:15:21+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶ コーポレートサイト
-
-新人エンジニア...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7c402f4e085fae433cf5</id>
@@ -1976,6 +1976,19 @@ npmパッケージのリリース時にソースマップファイル（.map）�
 ローカルLLMとは、ChatGPTのようなクラウドサービスを利用するのではなく、自分のPCや自社サーバーなどのローカル環境（オンプレミス）で大規模言語モデル（L...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1bb8894c149a3af9944d</id>
+    <title>「その仕様、イケてないと思ってない？」-エンジニアがハマりがちな勘違いの話-</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/1bb8894c149a3af9944d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T14:40:27+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:37:40+09:00&lt;br/&gt;Updated: 2026-04-17T14:40:27+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「その仕様、イ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:2e018c98e35752dae179</id>
     <title>新卒、焦らなくていいよ。不出来と思われたくなくて空回りした私より。</title>
     <link rel="alternate" href="https://qiita.com/kimuchi_a/items/2e018c98e35752dae179?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1983,19 +1996,6 @@ npmパッケージのリリース時にソースマップファイル（.map）�
     <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuchi_a&quot;&gt;kimuchi_a&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T19:16:12+09:00&lt;br/&gt;Updated: 2026-04-03T00:19:55+09:00&lt;br/&gt;はじめに：新卒、焦らなくてもいいかも。
 過去の投稿を読んでくださった方は「何回言うねん」と思うかもしれませんが、  私はコーディング未経験の新卒としてこの会社に入社しました。
 周りは優秀な人たちばかりで、同じくコーディング未経験でも、「明らかに自分よりできる」人がごろごろ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1bb8894c149a3af9944d</id>
-    <title>「その仕様、イケてないと思ってない？」-エンジニアがハマりがちな勘違いの話-</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/1bb8894c149a3af9944d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T14:40:27+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:37:40+09:00&lt;br/&gt;Updated: 2026-04-17T14:40:27+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-「その仕様、イ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:382bd11e374df6774ec4</id>
