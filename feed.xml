@@ -953,6 +953,17 @@ AIがコードを書くことが当たり前となった2026年現在、エン�
 といっても一週間で50記事など、どうでもいい内容なのは...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
+    <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T19:29:09+09:00</updated>
+    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T19:29:09+09:00&lt;br/&gt;Updated: 2026-04-17T19:29:09+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+この画像を見てください。
+
+この画像の通り、「FirebaseサービスのAPIキーは非公開ではない」と、Firebaseの公式ドキュメントには書かれています。説明の必要は無いかもしれませんが、FirebaseとはGoogle...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e38b3523685367108b68</id>
     <title>【35歳未経験でも理解できた】SPAへの進化</title>
     <link rel="alternate" href="https://qiita.com/wata-sho/items/e38b3523685367108b68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1030,17 +1041,6 @@ Claude Codeを使っていて、こんな経験はありませんか？
     <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T01:27:19+09:00&lt;br/&gt;Updated: 2026-02-26T10:04:26+09:00&lt;br/&gt;はじめに
 MinIO は Amazon S3 互換の API を備えたオブジェクトストレージです。
 docker-compose.yml に数行書くだけで S3 互換のストレージが立ち上がるため、ローカル開発環境の S3 モックとして広く使われてきました。DockerHu...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
-    <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T19:29:09+09:00</updated>
-    <summary type="html">Likes: 77&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T19:29:09+09:00&lt;br/&gt;Updated: 2026-04-17T19:29:09+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-この画像を見てください。
-
-この画像の通り、「FirebaseサービスのAPIキーは非公開ではない」と、Firebaseの公式ドキュメントには書かれています。説明の必要は無いかもしれませんが、FirebaseとはGoogle...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:07b7926408a3447b6665</id>
@@ -1607,6 +1607,19 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 使い続けると...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1bb8894c149a3af9944d</id>
+    <title>「その仕様、イケてないと思ってない？」-エンジニアがハマりがちな勘違いの話-</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/1bb8894c149a3af9944d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T14:40:27+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:37:40+09:00&lt;br/&gt;Updated: 2026-04-17T14:40:27+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「その仕様、イ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:22e6a3faea1bdcaefef3</id>
     <title>「新人にAI禁止令を出した組織」が、どのくらい開発フローでAIを使っているか</title>
     <link rel="alternate" href="https://qiita.com/WdknWdkn/items/22e6a3faea1bdcaefef3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1639,19 +1652,6 @@ AIを導入すると、実装スピードは確実に上がります。
 今回読んだ2本の記事から得た学びを一言でまとめると、次の3つでした。
 
 仕様書は「ずっと保守する正本」で...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1bb8894c149a3af9944d</id>
-    <title>「その仕様、イケてないと思ってない？」-エンジニアがハマりがちな勘違いの話-</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/1bb8894c149a3af9944d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T14:40:27+09:00</updated>
-    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:37:40+09:00&lt;br/&gt;Updated: 2026-04-17T14:40:27+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-「その仕様、イ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
