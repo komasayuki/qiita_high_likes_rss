@@ -923,6 +923,17 @@ AIがコードを書くことが当たり前となった2026年現在、エン�
 その裏側で何が起きているのかは、まったく意識していませんで...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
+    <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T19:29:09+09:00</updated>
+    <summary type="html">Likes: 83&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T19:29:09+09:00&lt;br/&gt;Updated: 2026-04-17T19:29:09+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+この画像を見てください。
+
+この画像の通り、「FirebaseサービスのAPIキーは非公開ではない」と、Firebaseの公式ドキュメントには書かれています。説明の必要は無いかもしれませんが、FirebaseとはGoogle...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:be5d46e82f7301747e86</id>
     <title>脱・セキュリティ初心者。現場の信頼を勝ち取るための「3つの原則」と「1つの習慣」</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/be5d46e82f7301747e86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -951,17 +962,6 @@ AIがコードを書くことが当たり前となった2026年現在、エン�
 3というのは適当に挙げただけで、べつに5でも10でも1でもいいのだが、少なくともなんらかの制限は設けるべきだろう。
 
 といっても一週間で50記事など、どうでもいい内容なのは...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
-    <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T19:29:09+09:00</updated>
-    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T19:29:09+09:00&lt;br/&gt;Updated: 2026-04-17T19:29:09+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-この画像を見てください。
-
-この画像の通り、「FirebaseサービスのAPIキーは非公開ではない」と、Firebaseの公式ドキュメントには書かれています。説明の必要は無いかもしれませんが、FirebaseとはGoogle...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e38b3523685367108b68</id>
@@ -1587,6 +1587,19 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 国内外の...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1bb8894c149a3af9944d</id>
+    <title>「その仕様、イケてないと思ってない？」-エンジニアがハマりがちな勘違いの話-</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/1bb8894c149a3af9944d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T14:40:27+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:37:40+09:00&lt;br/&gt;Updated: 2026-04-17T14:40:27+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「その仕様、イ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:78fdef38b201985cb0d9</id>
     <title>【GitHub】GitHubは低品質なユーザによるContributeを拒否する仕様を検討・実装中</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/78fdef38b201985cb0d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1605,19 +1618,6 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 前回の記事で紹介した「Clawdbot（現在:OpenClaw）」を触っていて、ふと思ったことがあります。
 それは、「結局、AIの頭脳を外部（GeminiやClaude、ChatGPTなど）に依存している以上、制限やコストがつきまとう」ということ。
 使い続けると...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1bb8894c149a3af9944d</id>
-    <title>「その仕様、イケてないと思ってない？」-エンジニアがハマりがちな勘違いの話-</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/1bb8894c149a3af9944d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T14:40:27+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:37:40+09:00&lt;br/&gt;Updated: 2026-04-17T14:40:27+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-「その仕様、イ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:22e6a3faea1bdcaefef3</id>
@@ -1989,6 +1989,17 @@ npmパッケージのリリース時にソースマップファイル（.map）�
 周りは優秀な人たちばかりで、同じくコーディング未経験でも、「明らかに自分よりできる」人がごろごろ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:893660ef56844d62729e</id>
+    <title>DRY / KISS / YAGNI をC#で理解する：現場で使えるシンプル設計原則まとめ</title>
+    <link rel="alternate" href="https://qiita.com/hiroki_notes/items/893660ef56844d62729e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-16T16:44:21+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki_notes&quot;&gt;hiroki_notes&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T16:44:21+09:00&lt;br/&gt;Updated: 2026-04-16T16:44:21+09:00&lt;br/&gt;「設計って難しいな…」
+そう感じたこと、きっと一度や二度ではないはずです。
+SOLID 原則は有名ですが、実際の現場ではそこまで厳密に意識していないことも多いですよね。
+むしろ、もっとシンプルで、日常的に効く原則のほうが役に立つ場面は多いです。
+そこで今回は DRY、KIS...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5dde0a7259d142d88551</id>
     <title>htmxとAPIで爆速Webアプリ開発 — ReactもNext.jsも要らない時代が来た？</title>
     <link rel="alternate" href="https://qiita.com/okadada/items/5dde0a7259d142d88551?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2042,17 +2053,6 @@ AIに「いい感じに作って」と言って、本当に「いい感じ」の
 今回は&quot;ちゃんと業務で使えるようになるための&quot;というテーマで、npmを取り上げたいと思います。
 私自身、業務でもnpmを多用します。
 ただ、新卒で案件に配属された私には、単に&quot;パッケージをインストールできるもの&quot;という理解より、一歩踏み込んだ理解...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:893660ef56844d62729e</id>
-    <title>DRY / KISS / YAGNI をC#で理解する：現場で使えるシンプル設計原則まとめ</title>
-    <link rel="alternate" href="https://qiita.com/hiroki_notes/items/893660ef56844d62729e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-16T16:44:21+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki_notes&quot;&gt;hiroki_notes&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T16:44:21+09:00&lt;br/&gt;Updated: 2026-04-16T16:44:21+09:00&lt;br/&gt;「設計って難しいな…」
-そう感じたこと、きっと一度や二度ではないはずです。
-SOLID 原則は有名ですが、実際の現場ではそこまで厳密に意識していないことも多いですよね。
-むしろ、もっとシンプルで、日常的に効く原則のほうが役に立つ場面は多いです。
-そこで今回は DRY、KIS...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:43582fefbce18b66835f</id>
