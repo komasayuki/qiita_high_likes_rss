@@ -432,6 +432,17 @@ PlanモードでClaude Codeに「Remot...</summary>
 この記事は製造業界に従事するもしくはこれから従事するデータサイエンティストのために製造業で用いられる統計・機械学...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
+    <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T19:29:09+09:00</updated>
+    <summary type="html">Likes: 124&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T19:29:09+09:00&lt;br/&gt;Updated: 2026-04-17T19:29:09+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+この画像を見てください。
+
+この画像の通り、「FirebaseサービスのAPIキーは非公開ではない」と、Firebaseの公式ドキュメントには書かれています。説明の必要は無いかもしれませんが、FirebaseとはGoogle...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:eb731b9d753ca7cda3c6</id>
     <title>【後編】9割の新人エンジニアがやっている 「失礼しました」の落とし穴</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/eb731b9d753ca7cda3c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -473,17 +484,6 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
     <summary type="html">Likes: 121&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akira_papa_AI&quot;&gt;akira_papa_AI&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T09:01:09+09:00&lt;br/&gt;Updated: 2026-03-21T09:01:09+09:00&lt;br/&gt;はじめに — 同じCursorを使っているのに、なぜ10倍の差がつくのか
 こんな経験、ないでしょうか。
 チームの隣の席の人が、CursorやCopilotで爆速開発している。同じツールを使っているのに、自分のプロジェクトだと全然うまくいかない。AIが的外れなコードを吐く。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
-    <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T19:29:09+09:00</updated>
-    <summary type="html">Likes: 120&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T19:29:09+09:00&lt;br/&gt;Updated: 2026-04-17T19:29:09+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-この画像を見てください。
-
-この画像の通り、「FirebaseサービスのAPIキーは非公開ではない」と、Firebaseの公式ドキュメントには書かれています。説明の必要は無いかもしれませんが、FirebaseとはGoogle...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4d732a43ac5cdf9daadc</id>
@@ -1389,6 +1389,16 @@ J...</summary>
 1. アプリケーション障...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8c22966fbd3c125c53dc</id>
+    <title>Claude Codeで実際に起きたセキュリティ事故7選と防止策</title>
+    <link rel="alternate" href="https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T14:38:44+09:00</updated>
+    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa_ClaudeCodeLab&quot;&gt;masa_ClaudeCodeLab&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:38:44+09:00&lt;br/&gt;Updated: 2026-04-17T14:38:44+09:00&lt;br/&gt;Claude Codeで実際に起きたセキュリティ事故7選と防止策
+「Claude Code は便利だけど、なんとなく怖い」——この感覚は正しいです。強力なツールは強力な事故を起こします。実際に開発現場で起きがちなケースを7つ取り上げ、原因と防止策を解説します。
+
+事例1:...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:17c497375ed2c6c3d054</id>
     <title>axios乗っ取り事件の全容 — 39分間で何が起きたか、そして今すぐやるべき防御策</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/17c497375ed2c6c3d054?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1502,14 +1512,17 @@ Claude CodeなどのAIエージェントをいつでもどこでも動かした�
 いつの間にか自宅インフラエンジニアになり、最高のAIエ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:8c22966fbd3c125c53dc</id>
-    <title>Claude Codeで実際に起きたセキュリティ事故7選と防止策</title>
-    <link rel="alternate" href="https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T14:38:44+09:00</updated>
-    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa_ClaudeCodeLab&quot;&gt;masa_ClaudeCodeLab&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:38:44+09:00&lt;br/&gt;Updated: 2026-04-17T14:38:44+09:00&lt;br/&gt;Claude Codeで実際に起きたセキュリティ事故7選と防止策
-「Claude Code は便利だけど、なんとなく怖い」——この感覚は正しいです。強力なツールは強力な事故を起こします。実際に開発現場で起きがちなケースを7つ取り上げ、原因と防止策を解説します。
+    <id>tag:qiita.com,2026:1bb8894c149a3af9944d</id>
+    <title>「その仕様、イケてないと思ってない？」-エンジニアがハマりがちな勘違いの話-</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/1bb8894c149a3af9944d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T14:40:27+09:00</updated>
+    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:37:40+09:00&lt;br/&gt;Updated: 2026-04-17T14:40:27+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
 
-事例1:...</summary>
+「その仕様、イ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:021eaec14a0970ee1c0b</id>
@@ -1568,19 +1581,6 @@ PRUMについて気になった方は、
 ▶ コーポレートサイト
 
 「また指摘されてしまった...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1bb8894c149a3af9944d</id>
-    <title>「その仕様、イケてないと思ってない？」-エンジニアがハマりがちな勘違いの話-</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/1bb8894c149a3af9944d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T14:40:27+09:00</updated>
-    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:37:40+09:00&lt;br/&gt;Updated: 2026-04-17T14:40:27+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-「その仕様、イ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3674294dc301f5dcf453</id>
