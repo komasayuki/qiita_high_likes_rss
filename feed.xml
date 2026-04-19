@@ -316,6 +316,17 @@ PRUMについて気になった方は、
 「で、&quot;結局&quot;今どんな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
+    <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T19:29:09+09:00</updated>
+    <summary type="html">Likes: 148&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T19:29:09+09:00&lt;br/&gt;Updated: 2026-04-17T19:29:09+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+この画像を見てください。
+
+この画像の通り、「FirebaseサービスのAPIキーは非公開ではない」と、Firebaseの公式ドキュメントには書かれています。説明の必要は無いかもしれませんが、FirebaseとはGoogle...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cd68b09eccb18c1f7f3d</id>
     <title>AIコーディング時代に必要なプログラミングスキル</title>
     <link rel="alternate" href="https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -324,17 +335,6 @@ PRUMについて気になった方は、
 恐らくそれは「プログラミングスキル」ではないです。
 いや単に「プログラミングスキル」という言葉の定義の問題かもしれない。
 実際多くの人はPythonの文法、JavaScriptのフレームワーク、SQLのクエリ構文——つまり特定言語に...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
-    <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T19:29:09+09:00</updated>
-    <summary type="html">Likes: 145&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T19:29:09+09:00&lt;br/&gt;Updated: 2026-04-17T19:29:09+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-この画像を見てください。
-
-この画像の通り、「FirebaseサービスのAPIキーは非公開ではない」と、Firebaseの公式ドキュメントには書かれています。説明の必要は無いかもしれませんが、FirebaseとはGoogle...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:dd3ea7c8834c7bebebf9</id>
@@ -783,6 +783,16 @@ Hooks、Skills、CLAUDE.md、settings.json、MCP、権限管理…… 2026年の
 こ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8c22966fbd3c125c53dc</id>
+    <title>Claude Codeで実際に起きたセキュリティ事故7選と防止策</title>
+    <link rel="alternate" href="https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T14:38:44+09:00</updated>
+    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa_ClaudeCodeLab&quot;&gt;masa_ClaudeCodeLab&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:38:44+09:00&lt;br/&gt;Updated: 2026-04-17T14:38:44+09:00&lt;br/&gt;Claude Codeで実際に起きたセキュリティ事故7選と防止策
+「Claude Code は便利だけど、なんとなく怖い」——この感覚は正しいです。強力なツールは強力な事故を起こします。実際に開発現場で起きがちなケースを7つ取り上げ、原因と防止策を解説します。
+
+事例1:...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:895d52879948d5bdb387</id>
     <title>【35歳未経験でも理解できた】URLとHTTP</title>
     <link rel="alternate" href="https://qiita.com/wata-sho/items/895d52879948d5bdb387?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -867,16 +877,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <summary type="html">Likes: 86&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/igapyon&quot;&gt;igapyon&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T10:49:55+09:00&lt;br/&gt;Updated: 2026-03-23T07:54:49+09:00&lt;br/&gt;Excel ブックは情報の入れ物としては便利ですが、生成 AI にそのまま渡すには扱いづらいことがあります。
 そこで、Excel ブックを生成 AI に食べさせやすい形へローカル変換する Single-file Web App として xlsx2md を作りました。
 xls...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8c22966fbd3c125c53dc</id>
-    <title>Claude Codeで実際に起きたセキュリティ事故7選と防止策</title>
-    <link rel="alternate" href="https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T14:38:44+09:00</updated>
-    <summary type="html">Likes: 85&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa_ClaudeCodeLab&quot;&gt;masa_ClaudeCodeLab&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:38:44+09:00&lt;br/&gt;Updated: 2026-04-17T14:38:44+09:00&lt;br/&gt;Claude Codeで実際に起きたセキュリティ事故7選と防止策
-「Claude Code は便利だけど、なんとなく怖い」——この感覚は正しいです。強力なツールは強力な事故を起こします。実際に開発現場で起きがちなケースを7つ取り上げ、原因と防止策を解説します。
-
-事例1:...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2130c606657942d4e3f7</id>
