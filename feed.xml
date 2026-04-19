@@ -377,6 +377,17 @@ Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使�
 この度、ローカルへのインストール不要でPyxelの実行・リソース編集・アプリ再生ができる、Pyxel VS Code拡張機能をリリース...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
+    <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T19:29:09+09:00</updated>
+    <summary type="html">Likes: 128&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T19:29:09+09:00&lt;br/&gt;Updated: 2026-04-17T19:29:09+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+この画像を見てください。
+
+この画像の通り、「FirebaseサービスのAPIキーは非公開ではない」と、Firebaseの公式ドキュメントには書かれています。説明の必要は無いかもしれませんが、FirebaseとはGoogle...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8082c999a78137c7cc10</id>
     <title>【完全無料・広告なし】AWS認定の学習支援サイトを公開しました。確かな実力を身につけて「資格取ったけど実務に活かせない」を終わらせよう。</title>
     <link rel="alternate" href="https://qiita.com/kenken38/items/8082c999a78137c7cc10?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -430,17 +441,6 @@ PlanモードでClaude Codeに「Remot...</summary>
     <summary type="html">Likes: 126&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nospare_Inc&quot;&gt;Nospare_Inc&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T07:26:41+09:00&lt;br/&gt;Updated: 2026-02-20T07:27:07+09:00&lt;br/&gt;この記事の概要
 執筆：段（Imperial College London・Nospare）、酒井（筑波大学・Nospare）、小林（明治大学・Nospare）
 この記事は製造業界に従事するもしくはこれから従事するデータサイエンティストのために製造業で用いられる統計・機械学...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
-    <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T19:29:09+09:00</updated>
-    <summary type="html">Likes: 125&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T19:29:09+09:00&lt;br/&gt;Updated: 2026-04-17T19:29:09+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-この画像を見てください。
-
-この画像の通り、「FirebaseサービスのAPIキーは非公開ではない」と、Firebaseの公式ドキュメントには書かれています。説明の必要は無いかもしれませんが、FirebaseとはGoogle...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:eb731b9d753ca7cda3c6</id>
@@ -1113,6 +1113,16 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
 自分も一度、デフォルト設定でバイブコーディングをしてみて「こんなもんか」と失望したも...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8c22966fbd3c125c53dc</id>
+    <title>Claude Codeで実際に起きたセキュリティ事故7選と防止策</title>
+    <link rel="alternate" href="https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T14:38:44+09:00</updated>
+    <summary type="html">Likes: 75&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa_ClaudeCodeLab&quot;&gt;masa_ClaudeCodeLab&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:38:44+09:00&lt;br/&gt;Updated: 2026-04-17T14:38:44+09:00&lt;br/&gt;Claude Codeで実際に起きたセキュリティ事故7選と防止策
+「Claude Code は便利だけど、なんとなく怖い」——この感覚は正しいです。強力なツールは強力な事故を起こします。実際に開発現場で起きがちなケースを7つ取り上げ、原因と防止策を解説します。
+
+事例1:...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1d84037b3b9a499167de</id>
     <title>draw.io MCP + Playwright MCP で画面設計書を自動生成してみた（GitHub Copilot Agent Skills）</title>
     <link rel="alternate" href="https://qiita.com/Ymmy/items/1d84037b3b9a499167de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1209,16 +1219,6 @@ axiosサプライチェーン攻撃に関して、GitHub IssueにPostmortem（�
 前回の記事では、n8n を MCP サーバーとして OpenClaw に統合し、ワークフロー自動化の基盤を作りました。記事の最後に「今後の展望」としてこう書きました:
 
 セキュリティアラート自動トリアージ: Sysdig アラート → 情報収集 → 重大度判定 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8c22966fbd3c125c53dc</id>
-    <title>Claude Codeで実際に起きたセキュリティ事故7選と防止策</title>
-    <link rel="alternate" href="https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T14:38:44+09:00</updated>
-    <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa_ClaudeCodeLab&quot;&gt;masa_ClaudeCodeLab&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:38:44+09:00&lt;br/&gt;Updated: 2026-04-17T14:38:44+09:00&lt;br/&gt;Claude Codeで実際に起きたセキュリティ事故7選と防止策
-「Claude Code は便利だけど、なんとなく怖い」——この感覚は正しいです。強力なツールは強力な事故を起こします。実際に開発現場で起きがちなケースを7つ取り上げ、原因と防止策を解説します。
-
-事例1:...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7c402f4e085fae433cf5</id>
