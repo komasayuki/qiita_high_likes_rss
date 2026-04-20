@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-04-18T21:52:58+09:00</updated>
+  <updated>2026-04-20T14:28:12+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -139,6 +139,17 @@ AIが発展して多くの人がReactでアプリを作っているのをみて�
 Reactを書こうとすると...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
+    <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T19:29:09+09:00</updated>
+    <summary type="html">Likes: 202&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T19:29:09+09:00&lt;br/&gt;Updated: 2026-04-17T19:29:09+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+この画像を見てください。
+
+この画像の通り、「FirebaseサービスのAPIキーは非公開ではない」と、Firebaseの公式ドキュメントには書かれています。説明の必要は無いかもしれませんが、FirebaseとはGoogle...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d6a9842f477f0aa0b89e</id>
     <title>[AI時代でも生き残る] シンプルに優秀な人がやっていること７選</title>
     <link rel="alternate" href="https://qiita.com/taka_xin/items/d6a9842f477f0aa0b89e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -172,17 +183,6 @@ Reactを書こうとすると...</summary>
 自己紹介のかわりに
 私は45歳で、プログラミングを学校で習ったことは一度もありません。
 30歳のとき「この繰り返...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
-    <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T19:29:09+09:00</updated>
-    <summary type="html">Likes: 199&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T19:29:09+09:00&lt;br/&gt;Updated: 2026-04-17T19:29:09+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-この画像を見てください。
-
-この画像の通り、「FirebaseサービスのAPIキーは非公開ではない」と、Firebaseの公式ドキュメントには書かれています。説明の必要は無いかもしれませんが、FirebaseとはGoogle...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:17817dc09a78078fa132</id>
@@ -1614,6 +1614,13 @@ Linux prod-server 5.15.0 #1 SMP x86_64 GNU/Linux
 そう思っているLinu...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3688cf515c14f7471ed4</id>
+    <title>クソバズワード「ハーネスエンジニアリング」と向き合う</title>
+    <link rel="alternate" href="https://qiita.com/retore/items/3688cf515c14f7471ed4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-18T21:52:58+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/retore&quot;&gt;retore&lt;/a&gt;&lt;br/&gt;Published: 2026-04-18T18:17:14+09:00&lt;br/&gt;Updated: 2026-04-18T21:52:58+09:00&lt;br/&gt;数週間くらい前に突然どいつもこいつも「ハーネスエンジニアリング」とツイートするようになり，最初はhooksとかskillsのことをハーネスと呼んでいるらしいと認識していたのだが，ある日ClaudeCodeのことをハーネスとして扱う発言をしているツイートを見つけて，「ハーネス...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6d26b6ffc11d163dfd71</id>
     <title>GitHub Copilot CLI の公式ハンズオンやってみた (第0章/7章)</title>
     <link rel="alternate" href="https://qiita.com/chomado/items/6d26b6ffc11d163dfd71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1686,13 +1693,6 @@ OllamaやLM StudioでローカルLLMを動かしている方
 この記事で得られること
 
 ローカルLLM基盤を狙う主...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3688cf515c14f7471ed4</id>
-    <title>クソバズワード「ハーネスエンジニアリング」と向き合う</title>
-    <link rel="alternate" href="https://qiita.com/retore/items/3688cf515c14f7471ed4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-18T21:52:58+09:00</updated>
-    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/retore&quot;&gt;retore&lt;/a&gt;&lt;br/&gt;Published: 2026-04-18T18:17:14+09:00&lt;br/&gt;Updated: 2026-04-18T21:52:58+09:00&lt;br/&gt;数週間くらい前に突然どいつもこいつも「ハーネスエンジニアリング」とツイートするようになり，最初はhooksとかskillsのことをハーネスと呼んでいるらしいと認識していたのだが，ある日ClaudeCodeのことをハーネスとして扱う発言をしているツイートを見つけて，「ハーネス...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b11ebbcf7e14ff251b76</id>
@@ -1826,6 +1826,18 @@ PdMや事業責任者へのキャリアチェンジを考えている人
 
 「事業を動かせるエンジニア」の4つの構成要素
 なぜ「経...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9d91ff5ad51001237a02</id>
+    <title>一人で悩み続けてしまう新人エンジニアへ。その時間、無駄かもしれません。</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/9d91ff5ad51001237a02?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-20T14:28:12+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T14:28:11+09:00&lt;br/&gt;Updated: 2026-04-20T14:28:12+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+一人で悩み続けてし...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3c98999786c7dbd2b26a</id>
@@ -2200,16 +2212,5 @@ Unity で演出を作っていると、ほぼ確実にスキップ機能が必�
 難しく考えなくて大丈夫。一つひとつ、気軽に読んでみてください！
 
 対象読者：Claude Code初心者 ~ 中級者...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a6312c14e6352376ec00</id>
-    <title>Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/a6312c14e6352376ec00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-04T22:04:01+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-04T20:24:53+09:00&lt;br/&gt;Updated: 2026-04-04T22:04:01+09:00&lt;br/&gt;はじめに
-
-こんばんは、mirukyです。
-個人的にAIにデザインを指定するのって、意外と難しいと思っています。
-皆さん、DESIGN.mdをご存知でしょうか。GoogleがStitchプロジェクトの一部として策定した、マークダウンベースのデザインシステム仕様です。「AI...</summary>
   </entry>
 </feed>
