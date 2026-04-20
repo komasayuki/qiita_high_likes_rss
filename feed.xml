@@ -185,6 +185,17 @@ Reactを書こうとすると...</summary>
 コ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
+    <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T19:29:09+09:00</updated>
+    <summary type="html">Likes: 198&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T19:29:09+09:00&lt;br/&gt;Updated: 2026-04-17T19:29:09+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+この画像を見てください。
+
+この画像の通り、「FirebaseサービスのAPIキーは非公開ではない」と、Firebaseの公式ドキュメントには書かれています。説明の必要は無いかもしれませんが、FirebaseとはGoogle...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1ad4e4ccaf47816c63e0</id>
     <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -194,17 +205,6 @@ Claude Codeを使い始めた直後は感動します。自然言語でコード
 
 「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
 「プロジェクトのル...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
-    <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T19:29:09+09:00</updated>
-    <summary type="html">Likes: 191&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T19:29:09+09:00&lt;br/&gt;Updated: 2026-04-17T19:29:09+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-この画像を見てください。
-
-この画像の通り、「FirebaseサービスのAPIキーは非公開ではない」と、Firebaseの公式ドキュメントには書かれています。説明の必要は無いかもしれませんが、FirebaseとはGoogle...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5e64037cc452c5d497fa</id>
@@ -446,6 +446,16 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 プロジェクトの背景を説明し直す。コーディング規約を再度伝える。さっき試して失敗したアプローチをま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8c22966fbd3c125c53dc</id>
+    <title>Claude Codeで実際に起きたセキュリティ事故7選と防止策</title>
+    <link rel="alternate" href="https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T14:38:44+09:00</updated>
+    <summary type="html">Likes: 123&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa_ClaudeCodeLab&quot;&gt;masa_ClaudeCodeLab&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:38:44+09:00&lt;br/&gt;Updated: 2026-04-17T14:38:44+09:00&lt;br/&gt;Claude Codeで実際に起きたセキュリティ事故7選と防止策
+「Claude Code は便利だけど、なんとなく怖い」——この感覚は正しいです。強力なツールは強力な事故を起こします。実際に開発現場で起きがちなケースを7つ取り上げ、原因と防止策を解説します。
+
+事例1:...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c841d47f35e9c04c6bee</id>
     <title>「何からやれば...」を卒業する。実務の解像度を劇的に高める3ステップ</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/c841d47f35e9c04c6bee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -488,16 +498,6 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 リリース前に手作業でチェックする確認項目
 コードレビューのたびに書く定型コメント
 週次MTGのため...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8c22966fbd3c125c53dc</id>
-    <title>Claude Codeで実際に起きたセキュリティ事故7選と防止策</title>
-    <link rel="alternate" href="https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T14:38:44+09:00</updated>
-    <summary type="html">Likes: 117&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa_ClaudeCodeLab&quot;&gt;masa_ClaudeCodeLab&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:38:44+09:00&lt;br/&gt;Updated: 2026-04-17T14:38:44+09:00&lt;br/&gt;Claude Codeで実際に起きたセキュリティ事故7選と防止策
-「Claude Code は便利だけど、なんとなく怖い」——この感覚は正しいです。強力なツールは強力な事故を起こします。実際に開発現場で起きがちなケースを7つ取り上げ、原因と防止策を解説します。
-
-事例1:...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2b28f629ea2daab701cd</id>
@@ -1134,6 +1134,19 @@ VSCodeでGithub Copilotを賢くするには以下を設定しておきましょ
 本記事では、公式ドキュメントの内容を参考に、特に押さえておきたいポイントを7つの鉄則とし...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1bb8894c149a3af9944d</id>
+    <title>「その仕様、イケてないと思ってない？」-エンジニアがハマりがちな勘違いの話-</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/1bb8894c149a3af9944d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T14:40:27+09:00</updated>
+    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:37:40+09:00&lt;br/&gt;Updated: 2026-04-17T14:40:27+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「その仕様、イ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b2bb7163d278ee8cae42</id>
     <title>新人エンジニアが言いがちな「明日中に終わります」が危ない理由</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/b2bb7163d278ee8cae42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1187,19 +1200,6 @@ axiosサプライチェーン攻撃に関して、GitHub IssueにPostmortem（�
 前回の記事では、n8n を MCP サーバーとして OpenClaw に統合し、ワークフロー自動化の基盤を作りました。記事の最後に「今後の展望」としてこう書きました:
 
 セキュリティアラート自動トリアージ: Sysdig アラート → 情報収集 → 重大度判定 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1bb8894c149a3af9944d</id>
-    <title>「その仕様、イケてないと思ってない？」-エンジニアがハマりがちな勘違いの話-</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/1bb8894c149a3af9944d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T14:40:27+09:00</updated>
-    <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:37:40+09:00&lt;br/&gt;Updated: 2026-04-17T14:40:27+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-「その仕様、イ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7c402f4e085fae433cf5</id>
@@ -1703,6 +1703,13 @@ OllamaやLM StudioでローカルLLMを動かしている方
 ローカルLLM基盤を狙う主...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3688cf515c14f7471ed4</id>
+    <title>クソバズワード「ハーネスエンジニアリング」と向き合う</title>
+    <link rel="alternate" href="https://qiita.com/retore/items/3688cf515c14f7471ed4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-18T21:52:58+09:00</updated>
+    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/retore&quot;&gt;retore&lt;/a&gt;&lt;br/&gt;Published: 2026-04-18T18:17:14+09:00&lt;br/&gt;Updated: 2026-04-18T21:52:58+09:00&lt;br/&gt;数週間くらい前に突然どいつもこいつも「ハーネスエンジニアリング」とツイートするようになり，最初はhooksとかskillsのことをハーネスと呼んでいるらしいと認識していたのだが，ある日ClaudeCodeのことをハーネスとして扱う発言をしているツイートを見つけて，「ハーネス...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b11ebbcf7e14ff251b76</id>
     <title>Figmaから Pencil.dev に乗り換えを検討してみた Part.1【検証編】</title>
     <link rel="alternate" href="https://qiita.com/kobayashimakoto/items/b11ebbcf7e14ff251b76?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1818,13 +1825,6 @@ Qiita記事、書いてますか？
 執筆に時間がかかる - 記事を書くのに何時間もかかり、続かない
 
 投稿の手...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3688cf515c14f7471ed4</id>
-    <title>クソバズワード「ハーネスエンジニアリング」と向き合う</title>
-    <link rel="alternate" href="https://qiita.com/retore/items/3688cf515c14f7471ed4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-18T21:52:58+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/retore&quot;&gt;retore&lt;/a&gt;&lt;br/&gt;Published: 2026-04-18T18:17:14+09:00&lt;br/&gt;Updated: 2026-04-18T21:52:58+09:00&lt;br/&gt;数週間くらい前に突然どいつもこいつも「ハーネスエンジニアリング」とツイートするようになり，最初はhooksとかskillsのことをハーネスと呼んでいるらしいと認識していたのだが，ある日ClaudeCodeのことをハーネスとして扱う発言をしているツイートを見つけて，「ハーネス...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0dd4fc68180aa8526678</id>
