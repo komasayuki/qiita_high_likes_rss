@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-04-17T19:29:09+09:00</updated>
+  <updated>2026-04-18T21:52:58+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -223,23 +223,23 @@ Webアプリケーションのアーキテクチャは、時代とともに構�
 Bunでビルドしたときにデフォルトで生成されるsou...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
+    <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T19:29:09+09:00</updated>
+    <summary type="html">Likes: 179&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T19:29:09+09:00&lt;br/&gt;Updated: 2026-04-17T19:29:09+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+この画像を見てください。
+
+この画像の通り、「FirebaseサービスのAPIキーは非公開ではない」と、Firebaseの公式ドキュメントには書かれています。説明の必要は無いかもしれませんが、FirebaseとはGoogle...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d6c83ea50b82e1c2602c</id>
     <title>100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-01T12:06:54+09:00</updated>
     <summary type="html">Likes: 175&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T09:18:35+09:00&lt;br/&gt;Updated: 2026-04-01T12:06:54+09:00&lt;br/&gt;CLAUDE.mdは長いほど効くわけではありません。むしろ長いほどClaude Codeは従いにくくなります。
 100行書いたCLAUDE.mdと、35行に削って残りを.claude/rules/に分離したCLAUDE.md。同じ指示を出しても、後者の方がClaudeの出力...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
-    <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T19:29:09+09:00</updated>
-    <summary type="html">Likes: 174&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T19:29:09+09:00&lt;br/&gt;Updated: 2026-04-17T19:29:09+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-この画像を見てください。
-
-この画像の通り、「FirebaseサービスのAPIキーは非公開ではない」と、Firebaseの公式ドキュメントには書かれています。説明の必要は無いかもしれませんが、FirebaseとはGoogle...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:838bc1b59a84b16820a9</id>
@@ -564,6 +564,16 @@ HOC(高...</summary>
 「短縮URLサービス作りました！ よかったら使ってく...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8c22966fbd3c125c53dc</id>
+    <title>Claude Codeで実際に起きたセキュリティ事故7選と防止策</title>
+    <link rel="alternate" href="https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T14:38:44+09:00</updated>
+    <summary type="html">Likes: 108&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa_ClaudeCodeLab&quot;&gt;masa_ClaudeCodeLab&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:38:44+09:00&lt;br/&gt;Updated: 2026-04-17T14:38:44+09:00&lt;br/&gt;Claude Codeで実際に起きたセキュリティ事故7選と防止策
+「Claude Code は便利だけど、なんとなく怖い」——この感覚は正しいです。強力なツールは強力な事故を起こします。実際に開発現場で起きがちなケースを7つ取り上げ、原因と防止策を解説します。
+
+事例1:...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cace9602e4eaea995cc9</id>
     <title>Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/cace9602e4eaea995cc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -623,16 +633,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <summary type="html">Likes: 104&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takuteh&quot;&gt;takuteh&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T21:25:38+09:00&lt;br/&gt;Updated: 2026-03-20T21:26:26+09:00&lt;br/&gt;はじめに
 せっかく通信キャリアのモバイルコア部門のエンジニアになったので、自宅でもコア設備を再現してみようと思いました。とは言っても私はモバイルコアの基盤開発担当なので、3GPPや設備については概要程度しか知りません。
 一部曖昧な説明があるかもしれませんがご了承ください。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8c22966fbd3c125c53dc</id>
-    <title>Claude Codeで実際に起きたセキュリティ事故7選と防止策</title>
-    <link rel="alternate" href="https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T14:38:44+09:00</updated>
-    <summary type="html">Likes: 103&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa_ClaudeCodeLab&quot;&gt;masa_ClaudeCodeLab&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T14:38:44+09:00&lt;br/&gt;Updated: 2026-04-17T14:38:44+09:00&lt;br/&gt;Claude Codeで実際に起きたセキュリティ事故7選と防止策
-「Claude Code は便利だけど、なんとなく怖い」——この感覚は正しいです。強力なツールは強力な事故を起こします。実際に開発現場で起きがちなケースを7つ取り上げ、原因と防止策を解説します。
-
-事例1:...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ab78bb338500b4c71103</id>
@@ -2104,6 +2104,13 @@ Notion、Obsidianで実践している人は多いと思います。私はこれ
 対象は10年以上前に開発された、いわゆる「レガシー」なシ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3688cf515c14f7471ed4</id>
+    <title>クソバズワード「ハーネスエンジニアリング」と向き合う</title>
+    <link rel="alternate" href="https://qiita.com/retore/items/3688cf515c14f7471ed4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-18T21:52:58+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/retore&quot;&gt;retore&lt;/a&gt;&lt;br/&gt;Published: 2026-04-18T18:17:14+09:00&lt;br/&gt;Updated: 2026-04-18T21:52:58+09:00&lt;br/&gt;数週間くらい前に突然どいつもこいつも「ハーネスエンジニアリング」とツイートするようになり，最初はhooksとかskillsのことをハーネスと呼んでいるらしいと認識していたのだが，ある日ClaudeCodeのことをハーネスとして扱う発言をしているツイートを見つけて，「ハーネス...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3f7faeea52d7eec01b0f</id>
     <title>Bonsai-8B考察 — 1-bit LLMは使い物になるのか</title>
     <link rel="alternate" href="https://qiita.com/y0kud4/items/3f7faeea52d7eec01b0f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2210,17 +2217,5 @@ Unity で演出を作っていると、ほぼ確実にスキップ機能が必�
     <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masakinihirota&quot;&gt;masakinihirota&lt;/a&gt;&lt;br/&gt;Published: 2026-03-13T04:03:42+09:00&lt;br/&gt;Updated: 2026-03-14T15:39:19+09:00&lt;br/&gt;お詫びと訂正
 本記事の初版では、AIクレジットの解釈に誤りがあり、GCPクレジットと同一視する記述を含んでいました。正しくは、Google One ヘルプに記載のある「AIクレジット」の単価体系に基づくもので、GCPの無料トライアルクレジットとは別枠でした。
 誤解を招く内...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2913db0cbd5ed75f6968</id>
-    <title>いまさら聞けない…そんな人のための Claude Code「さしすせそ」</title>
-    <link rel="alternate" href="https://qiita.com/shinnosuke_takami/items/2913db0cbd5ed75f6968?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T10:55:29+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinnosuke_takami&quot;&gt;shinnosuke_takami&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T10:55:28+09:00&lt;br/&gt;Updated: 2026-03-09T10:55:29+09:00&lt;br/&gt;概要
-料理の基本といえば「さしすせそ」（砂糖・塩・酢・醤油・味噌）。
-実は Claude Code にも、同じように覚えておきたい5つのコツがあります。
-難しく考えなくて大丈夫。一つひとつ、気軽に読んでみてください！
-
-対象読者：Claude Code初心者 ~ 中級者...</summary>
   </entry>
 </feed>
