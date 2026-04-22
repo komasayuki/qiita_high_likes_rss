@@ -33,8 +33,8 @@
       "published": "2026-04-21T10:12:04+09:00",
       "updated": "2026-04-21T10:12:05+09:00",
       "author_name": "take-yoda",
-      "likes_count": 10,
-      "last_seen": "2026-04-21T23:21:42.047774027+00:00"
+      "likes_count": 11,
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
     },
     {
       "key": "00f23d206c504db2ac3b",
@@ -526,7 +526,7 @@
       "updated": "2026-04-21T15:53:02+09:00",
       "author_name": "DuyLinhPhan",
       "likes_count": 10,
-      "last_seen": "2026-04-21T23:21:42.047774027+00:00"
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
     },
     {
       "key": "114b2fdc1b50e3676ba8",
@@ -1342,7 +1342,7 @@
       "updated": "2026-04-20T14:48:01+09:00",
       "author_name": "s-yoshina",
       "likes_count": 25,
-      "last_seen": "2026-04-21T23:21:42.047774027+00:00"
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
     },
     {
       "key": "32314a0d9eb8c154dc95",
@@ -1737,8 +1737,8 @@
       "published": "2026-04-20T18:23:27+09:00",
       "updated": "2026-04-20T18:23:27+09:00",
       "author_name": "kamome_susume",
-      "likes_count": 10,
-      "last_seen": "2026-04-21T23:21:42.047774027+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
     },
     {
       "key": "3bbdb77935bd4982b0c1",
@@ -1809,8 +1809,8 @@
       "published": "2026-04-20T16:23:56+09:00",
       "updated": "2026-04-20T16:23:56+09:00",
       "author_name": "hiroki_notes",
-      "likes_count": 20,
-      "last_seen": "2026-04-21T23:21:42.047774027+00:00"
+      "likes_count": 21,
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
     },
     {
       "key": "3df4a9f777982d754ab9",
@@ -3529,6 +3529,18 @@
       "last_seen": "2026-03-03T19:26:09.943390546+00:00"
     },
     {
+      "key": "7138654568f8ef43785b",
+      "item_id": "7138654568f8ef43785b",
+      "title": "n8nでBBCニュースを自動翻訳・要約してDiscordに通知する仕組みを作ってみた",
+      "link": "https://qiita.com/wan-code/items/7138654568f8ef43785b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n海外ニュースを追いたいけど、毎回英語の記事を読むのは少しハードルが高い。\nそこで今回は、BBCのRSSをn8nで定期取得し、新着ニュースだけをAIで日本語要約してDiscordに投稿する仕組みを作ってみました。\nやっていることはシンプルです。\n\nBBC News...",
+      "published": "2026-04-21T18:55:44+09:00",
+      "updated": "2026-04-21T18:55:44+09:00",
+      "author_name": "wan-code",
+      "likes_count": 14,
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
+    },
+    {
       "key": "71ba3d38e563ca7faaa6",
       "item_id": "71ba3d38e563ca7faaa6",
       "title": "プロンプトの書き方でどこまで変わる？実際に検証してみた",
@@ -3874,7 +3886,7 @@
       "updated": "2026-04-20T16:04:10+09:00",
       "author_name": "tuanphan",
       "likes_count": 10,
-      "last_seen": "2026-04-21T23:21:42.047774027+00:00"
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
     },
     {
       "key": "7ee5cc026ef8227843ff",
@@ -4165,6 +4177,18 @@
       "last_seen": "2026-03-06T19:22:37.678777831+00:00"
     },
     {
+      "key": "8935a8d000920c12cf08",
+      "item_id": "8935a8d000920c12cf08",
+      "title": "== と equals() の違いを完全に理解する — なぜStringの比較は equals() を使うのか",
+      "link": "https://qiita.com/S_kamon/items/8935a8d000920c12cf08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nJavaを書き始めたころ、こんな経験をした方は多いのではないでしょうか。\nString a = new String(\"Hello\");\nString b = new String(\"Hello\");\n\nif (a == b) {\n    System.out....",
+      "published": "2026-04-21T17:49:43+09:00",
+      "updated": "2026-04-21T17:49:43+09:00",
+      "author_name": "S_kamon",
+      "likes_count": 15,
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
+    },
+    {
       "key": "893660ef56844d62729e",
       "item_id": "893660ef56844d62729e",
       "title": "DRY / KISS / YAGNI をC#で理解する：現場で使えるシンプル設計原則まとめ",
@@ -4425,8 +4449,8 @@
       "published": "2026-04-20T07:05:49+09:00",
       "updated": "2026-04-20T07:05:49+09:00",
       "author_name": "tamepicomaru",
-      "likes_count": 21,
-      "last_seen": "2026-04-21T23:21:42.047774027+00:00"
+      "likes_count": 26,
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
     },
     {
       "key": "8fdb5a85d5d78a73b6ea",
@@ -4797,8 +4821,8 @@
       "published": "2026-04-20T14:28:11+09:00",
       "updated": "2026-04-20T14:28:12+09:00",
       "author_name": "hitomin_poke",
-      "likes_count": 85,
-      "last_seen": "2026-04-21T23:21:42.047774027+00:00"
+      "likes_count": 86,
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
     },
     {
       "key": "9d9556e9c5f82b791a05",
@@ -5325,8 +5349,8 @@
       "published": "2026-04-21T12:58:05+09:00",
       "updated": "2026-04-21T12:58:05+09:00",
       "author_name": "masa20057",
-      "likes_count": 45,
-      "last_seen": "2026-04-21T23:21:42.047774027+00:00"
+      "likes_count": 55,
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
     },
     {
       "key": "acdedf5f62ce776a83ed",
@@ -5697,8 +5721,8 @@
       "published": "2026-04-20T18:55:56+09:00",
       "updated": "2026-04-20T18:55:56+09:00",
       "author_name": "wan-code",
-      "likes_count": 19,
-      "last_seen": "2026-04-21T23:21:42.047774027+00:00"
+      "likes_count": 22,
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
     },
     {
       "key": "badced4338f3f8739372",
@@ -5757,8 +5781,8 @@
       "published": "2026-04-20T08:23:13+09:00",
       "updated": "2026-04-20T11:32:45+09:00",
       "author_name": "ryu-ki",
-      "likes_count": 18,
-      "last_seen": "2026-04-21T23:21:42.047774027+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
     },
     {
       "key": "be2bf6a687cda95b48b2",
@@ -6441,8 +6465,8 @@
       "published": "2026-04-20T17:23:01+09:00",
       "updated": "2026-04-20T17:23:01+09:00",
       "author_name": "S_kamon",
-      "likes_count": 17,
-      "last_seen": "2026-04-21T23:21:42.047774027+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
     },
     {
       "key": "d631b9c5c85d6daf336d",
@@ -6550,7 +6574,7 @@
       "updated": "2026-04-20T16:03:42+09:00",
       "author_name": "ntaka329",
       "likes_count": 11,
-      "last_seen": "2026-04-21T23:21:42.047774027+00:00"
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
     },
     {
       "key": "d7df93f2c70af788d9b9",
@@ -6669,8 +6693,8 @@
       "published": "2026-04-20T07:39:24+09:00",
       "updated": "2026-04-21T17:40:07+09:00",
       "author_name": "yuji-arakawa",
-      "likes_count": 21,
-      "last_seen": "2026-04-21T23:21:42.047774027+00:00"
+      "likes_count": 22,
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
     },
     {
       "key": "db26d1a9d9916365d60e",
@@ -6861,8 +6885,8 @@
       "published": "2026-04-20T18:19:52+09:00",
       "updated": "2026-04-20T18:19:52+09:00",
       "author_name": "aito1234",
-      "likes_count": 16,
-      "last_seen": "2026-04-21T23:21:42.047774027+00:00"
+      "likes_count": 17,
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
     },
     {
       "key": "e310461c8a2e13bf64b8",
@@ -6961,6 +6985,18 @@
       "last_seen": "2026-04-06T07:42:48.374195402+00:00"
     },
     {
+      "key": "e644e9b620ee1c8d3c1b",
+      "item_id": "e644e9b620ee1c8d3c1b",
+      "title": "【初心者必見】今から追いつくClaude Code 入門・徹底解説",
+      "link": "https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこの記事は、Claude Code を使い始めたいエンジニアのための入門ガイドです。\n「名前は聞いたことがあるけれど、なんとなく乗り遅れた気がして触れていない」という方に向けて書きました。Claude Code は 2025 年 3 月にベータ公開が始まり、今も...",
+      "published": "2026-04-21T15:32:56+09:00",
+      "updated": "2026-04-21T15:32:56+09:00",
+      "author_name": "i-inose",
+      "likes_count": 13,
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
+    },
+    {
       "key": "e6ca001e88b7c1b7500d",
       "item_id": "e6ca001e88b7c1b7500d",
       "title": "AWS認定資格6連敗してたけど12冠制覇できた！",
@@ -7019,6 +7055,18 @@
       "author_name": "kaminuma",
       "likes_count": 11,
       "last_seen": "2026-03-14T19:17:22.837321781+00:00"
+    },
+    {
+      "key": "e83b2285948cc712ca67",
+      "item_id": "e83b2285948cc712ca67",
+      "title": "レイヤードアーキテクチャを図とコードでやさしく理解する（C# / ASP.NET Core）",
+      "link": "https://qiita.com/hiroki_notes/items/e83b2285948cc712ca67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "ソフトウェア設計って、どうしても堅苦しく聞こえがちです。\n「アーキテクチャ」と聞くだけで、急に難しそうに感じることもあります。\nでも実際に触れてみると、\n「もっと早く知っておけばよかった…！」\nと思う概念がいくつもあります。\nそのひとつが レイヤードアーキテクチャ（Laye...",
+      "published": "2026-04-21T16:43:53+09:00",
+      "updated": "2026-04-21T16:43:53+09:00",
+      "author_name": "hiroki_notes",
+      "likes_count": 14,
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
     },
     {
       "key": "e8803a092dd192543fb4",
@@ -7621,6 +7669,18 @@
       "last_seen": "2026-03-12T07:28:47.828972172+00:00"
     },
     {
+      "key": "f67bd754c1f7a5116a7c",
+      "item_id": "f67bd754c1f7a5116a7c",
+      "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
+      "link": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n\nこんばんは、mirukyです。\n昨年、データベーススペシャリスト試験に挑戦しましたが、午後II試験に 3点差 で落ちました、、(泣)\nそんな私ですが、勉強の過程や実務を通じてデータベース（DB）に関してはかなり自信がついたので、まとめたナレッジを共有できれば...",
+      "published": "2026-04-21T17:12:46+09:00",
+      "updated": "2026-04-21T17:12:46+09:00",
+      "author_name": "miruky",
+      "likes_count": 10,
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
+    },
+    {
       "key": "f69920b4a02cf7e2988c",
       "item_id": "f69920b4a02cf7e2988c",
       "title": "Anthropic公式「Skills完全ガイド」を読んだら、自分のSKILL.mdのトークン消費を40%減らせた",
@@ -7785,8 +7845,8 @@
       "published": "2026-04-20T10:16:31+09:00",
       "updated": "2026-04-20T10:16:32+09:00",
       "author_name": "shibuya-ys",
-      "likes_count": 16,
-      "last_seen": "2026-04-21T23:21:42.047774027+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-04-22T00:58:00.458798611+00:00"
     },
     {
       "key": "fbca13aa136ed9f76979",
