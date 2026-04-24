@@ -526,23 +526,23 @@ HOC(高...</summary>
 リポジトリにこのファイルを置くことで、Codex CLI・Cursor・GitHub Copilot など多くのツールが共通の指示を読み取れます。ただし、ツールごとに対応状況や読み込み条件には...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f67bd754c1f7a5116a7c</id>
+    <title>【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/f67bd754c1f7a5116a7c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-21T17:12:46+09:00</updated>
+    <summary type="html">Likes: 112&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T17:12:46+09:00&lt;br/&gt;Updated: 2026-04-21T17:12:46+09:00&lt;br/&gt;はじめに
+
+こんばんは、mirukyです。
+昨年、データベーススペシャリスト試験に挑戦しましたが、午後II試験に 3点差 で落ちました、、(泣)
+そんな私ですが、勉強の過程や実務を通じてデータベース（DB）に関してはかなり自信がついたので、まとめたナレッジを共有できれば...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
     <title>Claude Codeソースコード流出から学ぶハーネスパターン10選 ── 50万行のTypeScriptが明かした設計思想</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/ebbbe74649eb441a34db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-13T11:27:23+09:00</updated>
     <summary type="html">Likes: 111&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:23+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:23+09:00&lt;br/&gt;はじめに：3月31日に何が起きたか
 2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f67bd754c1f7a5116a7c</id>
-    <title>【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/f67bd754c1f7a5116a7c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-21T17:12:46+09:00</updated>
-    <summary type="html">Likes: 110&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T17:12:46+09:00&lt;br/&gt;Updated: 2026-04-21T17:12:46+09:00&lt;br/&gt;はじめに
-
-こんばんは、mirukyです。
-昨年、データベーススペシャリスト試験に挑戦しましたが、午後II試験に 3点差 で落ちました、、(泣)
-そんな私ですが、勉強の過程や実務を通じてデータベース（DB）に関してはかなり自信がついたので、まとめたナレッジを共有できれば...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e8803a092dd192543fb4</id>
@@ -753,6 +753,15 @@ Hooks、Skills、CLAUDE.md、settings.json、MCP、権限管理…… 2026年の
 こ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:acc90d24eb083dba9462</id>
+    <title>【初心者エンジニア向け】開発を前に進めるための行動3選</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/acc90d24eb083dba9462?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-21T12:58:05+09:00</updated>
+    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T12:58:05+09:00&lt;br/&gt;Updated: 2026-04-21T12:58:05+09:00&lt;br/&gt;株式会社PRUMのmasaです。
+今日は、主に開発タスクを前に手が止まってしまう初心者エンジニアの方に向けて、「タスク分解」を軸にした進め方を解説します。
+不確実性の高い開発現場でも、タスクを小さく分けて考え、早めに手を動かし、60点でもアウトプットすることで、不安をコント...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:895d52879948d5bdb387</id>
     <title>【35歳未経験でも理解できた】URLとHTTP</title>
     <link rel="alternate" href="https://qiita.com/wata-sho/items/895d52879948d5bdb387?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -763,15 +772,6 @@ Hooks、Skills、CLAUDE.md、settings.json、MCP、権限管理…… 2026年の
 Webの勉強を始めると、必ず目にする「URL」と「HTTP」。
 毎日使っているはずなのに、
 「これってどういう仕組み？」と聞かれると少...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:acc90d24eb083dba9462</id>
-    <title>【初心者エンジニア向け】開発を前に進めるための行動3選</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/acc90d24eb083dba9462?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-21T12:58:05+09:00</updated>
-    <summary type="html">Likes: 88&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T12:58:05+09:00&lt;br/&gt;Updated: 2026-04-21T12:58:05+09:00&lt;br/&gt;株式会社PRUMのmasaです。
-今日は、主に開発タスクを前に手が止まってしまう初心者エンジニアの方に向けて、「タスク分解」を軸にした進め方を解説します。
-不確実性の高い開発現場でも、タスクを小さく分けて考え、早めに手を動かし、60点でもアウトプットすることで、不安をコント...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3b9b18e7e54f15721837</id>
@@ -930,6 +930,18 @@ AIがコードを書くことが当たり前となった2026年現在、エン�
 といっても一週間で50記事など、どうでもいい内容なのは...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:befed7f99c8d90b649b9</id>
+    <title>【前編】9割の新人エンジニアがやっている 「承知しました」の落とし穴</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/befed7f99c8d90b649b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-22T13:09:40+09:00</updated>
+    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T13:09:40+09:00&lt;br/&gt;Updated: 2026-04-22T13:09:40+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+【前編】9割の新人...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e38b3523685367108b68</id>
     <title>【35歳未経験でも理解できた】SPAへの進化</title>
     <link rel="alternate" href="https://qiita.com/wata-sho/items/e38b3523685367108b68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -957,18 +969,6 @@ AIがコードを書くことが当たり前となった2026年現在、エン�
 はじめに
 こんにちは！
 35歳から未経験でエ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:befed7f99c8d90b649b9</id>
-    <title>【前編】9割の新人エンジニアがやっている 「承知しました」の落とし穴</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/befed7f99c8d90b649b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-22T13:09:40+09:00</updated>
-    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T13:09:40+09:00&lt;br/&gt;Updated: 2026-04-22T13:09:40+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-【前編】9割の新人...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ce71acf0aa0b80631c35</id>
@@ -1531,6 +1531,16 @@ PRUMについて気になった方は、
 「また指摘されてしまった...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5144c0d01539ccd6a881</id>
+    <title>【初心者エンジニア向け】開発業務の視野を広げる運用のはなし</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/5144c0d01539ccd6a881?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-23T12:31:49+09:00</updated>
+    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-23T12:31:49+09:00&lt;br/&gt;Updated: 2026-04-23T12:31:49+09:00&lt;br/&gt;こんにちは。
+株式会社 PRUMのmasaです。
+今日はITサービスの&quot;運用&quot;について、初心者エンジニア、プログラミング初学者向けに記事を書きました。
+この記事を読むことで、リリース後のシステムがどう守られているかを知り、保守しやすいコードを書く視点を得られると思います。興...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3674294dc301f5dcf453</id>
     <title>仕様駆動開発は、ウォーターフォールへの回帰ではない。</title>
     <link rel="alternate" href="https://qiita.com/ju-kosaka/items/3674294dc301f5dcf453?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1539,16 +1549,6 @@ PRUMについて気になった方は、
 みなさん、仕様駆動開発（SDD：Spec-Driven Development）、意識していますか？
 GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一気に注目を集め始めました。
 国内外の...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5144c0d01539ccd6a881</id>
-    <title>【初心者エンジニア向け】開発業務の視野を広げる運用のはなし</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/5144c0d01539ccd6a881?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-23T12:31:49+09:00</updated>
-    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-23T12:31:49+09:00&lt;br/&gt;Updated: 2026-04-23T12:31:49+09:00&lt;br/&gt;こんにちは。
-株式会社 PRUMのmasaです。
-今日はITサービスの&quot;運用&quot;について、初心者エンジニア、プログラミング初学者向けに記事を書きました。
-この記事を読むことで、リリース後のシステムがどう守られているかを知り、保守しやすいコードを書く視点を得られると思います。興...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:78fdef38b201985cb0d9</id>
@@ -1595,6 +1595,15 @@ AIを導入すると、実装スピードは確実に上がります。
 仕様書は「ずっと保守する正本」で...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e644e9b620ee1c8d3c1b</id>
+    <title>【初心者必見】今から追いつくClaude Code 入門・徹底解説</title>
+    <link rel="alternate" href="https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-21T15:32:56+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/i-inose&quot;&gt;i-inose&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T15:32:56+09:00&lt;br/&gt;Updated: 2026-04-21T15:32:56+09:00&lt;br/&gt;はじめに
+この記事は、Claude Code を使い始めたいエンジニアのための入門ガイドです。
+「名前は聞いたことがあるけれど、なんとなく乗り遅れた気がして触れていない」という方に向けて書きました。Claude Code は 2025 年 3 月にベータ公開が始まり、今も...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
     <title>LinuxエンジニアのためのWindowsセキュリティ再入門 〜 第1回：はじめに —— なぜ今、LinuxエンジニアがWindowsセキュリティを学ぶのか</title>
     <link rel="alternate" href="https://qiita.com/555hamano/items/e9e1dce9e2dbc574a93f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1607,15 +1616,6 @@ Linux prod-server 5.15.0 #1 SMP x86_64 GNU/Linux
 
 「Windowsのセキュリティ？ 情シスやPC管理者の仕事でしょ？」
 そう思っているLinu...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e644e9b620ee1c8d3c1b</id>
-    <title>【初心者必見】今から追いつくClaude Code 入門・徹底解説</title>
-    <link rel="alternate" href="https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-21T15:32:56+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/i-inose&quot;&gt;i-inose&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T15:32:56+09:00&lt;br/&gt;Updated: 2026-04-21T15:32:56+09:00&lt;br/&gt;はじめに
-この記事は、Claude Code を使い始めたいエンジニアのための入門ガイドです。
-「名前は聞いたことがあるけれど、なんとなく乗り遅れた気がして触れていない」という方に向けて書きました。Claude Code は 2025 年 3 月にベータ公開が始まり、今も...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6d26b6ffc11d163dfd71</id>
