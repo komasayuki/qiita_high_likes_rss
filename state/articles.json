@@ -778,7 +778,7 @@
       "updated": "2026-04-24T10:29:35+09:00",
       "author_name": "KNR109",
       "likes_count": 17,
-      "last_seen": "2026-04-26T23:23:07.334506107+00:00"
+      "last_seen": "2026-04-27T01:05:42.566313344+00:00"
     },
     {
       "key": "17c497375ed2c6c3d054",
@@ -910,7 +910,7 @@
       "updated": "2026-04-24T12:14:17+09:00",
       "author_name": "sc-muro",
       "likes_count": 13,
-      "last_seen": "2026-04-26T23:23:07.334506107+00:00"
+      "last_seen": "2026-04-27T01:05:42.566313344+00:00"
     },
     {
       "key": "1e8512e187c6abf6b5ce",
@@ -1617,8 +1617,8 @@
       "published": "2026-04-24T14:40:29+09:00",
       "updated": "2026-04-24T14:48:32+09:00",
       "author_name": "mfunaki",
-      "likes_count": 26,
-      "last_seen": "2026-04-26T23:23:07.334506107+00:00"
+      "likes_count": 32,
+      "last_seen": "2026-04-27T01:05:42.566313344+00:00"
     },
     {
       "key": "3825da22d42572aee59c",
@@ -1761,8 +1761,8 @@
       "published": "2026-04-26T00:39:30+09:00",
       "updated": "2026-04-26T00:39:30+09:00",
       "author_name": "moritalous",
-      "likes_count": 39,
-      "last_seen": "2026-04-26T23:23:07.334506107+00:00"
+      "likes_count": 56,
+      "last_seen": "2026-04-27T01:05:42.566313344+00:00"
     },
     {
       "key": "3c5dd7703fe9955af5c3",
@@ -2255,6 +2255,18 @@
       "author_name": "esukei_8876",
       "likes_count": 44,
       "last_seen": "2026-03-11T19:26:37.679684043+00:00"
+    },
+    {
+      "key": "4a1c1f97932e190db333",
+      "item_id": "4a1c1f97932e190db333",
+      "title": "個人的にjQuery メソッドチートシートまとめた",
+      "link": "https://qiita.com/ryo_sh/items/4a1c1f97932e190db333?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n最近、レガシーなプロジェクトで jQuery を触る機会があって、いろいろとわからないことがあったため、個人的なチートシートをまとめることにしました。\n\nバージョン: jQuery 3.x 系を前提にしています\n\n基本構文\n// DOM 読み込み完了後に実行\n...",
+      "published": "2026-04-26T12:14:25+09:00",
+      "updated": "2026-04-26T12:14:25+09:00",
+      "author_name": "ryo_sh",
+      "likes_count": 14,
+      "last_seen": "2026-04-27T01:05:42.566313344+00:00"
     },
     {
       "key": "4a344d4cd78df4c96f08",
@@ -7249,6 +7261,18 @@
       "last_seen": "2026-04-01T07:42:05.895009601+00:00"
     },
     {
+      "key": "ed256553d10578cfec2a",
+      "item_id": "ed256553d10578cfec2a",
+      "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
+      "link": "https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "🚀 TL;DR\n\nAI（LLM）に生のソースコードを読ませるのは、実は効率の悪い「情報の暴力」である。\n\nAST（抽象構文木）から「構造」だけを抽出したマップこそが、AIのIQを極限まで引き出す。\nデータの流入から破綻までをグラフ理論で定義すれば、理論上、脆弱性は100%...",
+      "published": "2026-04-26T19:08:51+09:00",
+      "updated": "2026-04-26T19:08:51+09:00",
+      "author_name": "harupython",
+      "likes_count": 10,
+      "last_seen": "2026-04-27T01:05:42.566313344+00:00"
+    },
+    {
       "key": "ed8662412cc98a0d5868",
       "item_id": "ed8662412cc98a0d5868",
       "title": "AWS Community Builders（Serverless）に選出されました",
@@ -7773,8 +7797,8 @@
       "published": "2026-04-24T09:58:45+09:00",
       "updated": "2026-04-24T09:58:46+09:00",
       "author_name": "prum_hitomi",
-      "likes_count": 92,
-      "last_seen": "2026-04-26T23:23:07.334506107+00:00"
+      "likes_count": 93,
+      "last_seen": "2026-04-27T01:05:42.566313344+00:00"
     },
     {
       "key": "f9eb8b7fb6a14087df35",
