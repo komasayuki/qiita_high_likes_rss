@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-04-26T00:39:30+09:00</updated>
+  <updated>2026-04-27T14:03:48+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -642,16 +642,6 @@ PRUMについて気になった方は、
 大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:1da25e18c1bcb68880a3</id>
-    <title>JavaScriptの async/await はどこから来たのか？ C#、F#、Haskell……源流を辿ったら1958年にたどり着いた件</title>
-    <link rel="alternate" href="https://qiita.com/Maki-Daisuke/items/1da25e18c1bcb68880a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-23T23:31:05+09:00</updated>
-    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Maki-Daisuke&quot;&gt;Maki-Daisuke&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T06:07:14+09:00&lt;br/&gt;Updated: 2026-02-23T23:31:05+09:00&lt;br/&gt;ということを書いた手前、async/awaitの歴史について書いておかないといけない気がした。
-なお補足しておきますと、元ネタの記事はJavaScriptの async/await の歴史についていえば、間違ってないと思います。
-
-ただ、 async/awaitは...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:06420caf41a34a910c53</id>
     <title>Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと</title>
     <link rel="alternate" href="https://qiita.com/ot12/items/06420caf41a34a910c53?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -709,6 +699,17 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <updated>2026-03-16T09:27:47+09:00</updated>
     <summary type="html">Likes: 91&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T07:38:27+09:00&lt;br/&gt;Updated: 2026-03-16T09:27:47+09:00&lt;br/&gt;みなさん PC のオンラインゲームはプレイしたことがありますか？
 最近では環境に依存せずクロスプラットフォーム対応のゲームも多いですが、昔は PC ゲームといえば windows のみ対応で長い長いダウンロードとインストール作業をしてようやく遊べるようになるのが普通でした。...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3c5269610f26e23c5b04</id>
+    <title>Claude CodeのVSCode拡張が使いやすいよ</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/3c5269610f26e23c5b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-26T00:39:30+09:00</updated>
+    <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T00:39:30+09:00&lt;br/&gt;Updated: 2026-04-26T00:39:30+09:00&lt;br/&gt;皆様、Claude Code使ってますか？
+CLIで利用されている方が大多数だと思いますが、VSCodeの拡張も悪くないよ、というお話です。
+いつのころからか、左右にパネルが出るような構成になっています。
+
+右側が通常（？）のチャット欄で左が過去のセッション一覧みたいな感じ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5d2087dd5500d0689d7e</id>
@@ -907,17 +908,6 @@ AIがコードを書くことが当たり前となった2026年現在、エン�
 内定はもらえた。 でも、本当にこの会社に決めていいのかわからない。
 これはかなり自然なことだと思っています。
 未経験からの転職は...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3c5269610f26e23c5b04</id>
-    <title>Claude CodeのVSCode拡張が使いやすいよ</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/3c5269610f26e23c5b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-26T00:39:30+09:00</updated>
-    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T00:39:30+09:00&lt;br/&gt;Updated: 2026-04-26T00:39:30+09:00&lt;br/&gt;皆様、Claude Code使ってますか？
-CLIで利用されている方が大多数だと思いますが、VSCodeの拡張も悪くないよ、というお話です。
-いつのころからか、左右にパネルが出るような構成になっています。
-
-右側が通常（？）のチャット欄で左が過去のセッション一覧みたいな感じ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a359bfcd179777761e4f</id>
@@ -2104,6 +2094,19 @@ Notion、Obsidianで実践している人は多いと思います。私はこれ
 
 賃貸物件を探す際、「駅から近い物件」、あるいは「駅から遠くてもいいので家賃が安い物件」などを調べたいことがよくある。
 既存の賃貸サイトでは、「駅からX分...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b0b2bda52d6fc64f7522</id>
+    <title>【35歳未経験でも理解できた】SQLのJOIN</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/b0b2bda52d6fc64f7522?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-27T14:03:48+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T14:03:48+09:00&lt;br/&gt;Updated: 2026-04-27T14:03:48+09:00&lt;br/&gt;こんにちは！
+35歳、未経験からWebの世界に飛び込んだ者です。
+今回は、SQL最大の難所の一つ「JOIN（結合）」を、
+「カフェのスタンプカード」に例えて、わかりやすく解説します！
+
+JOINとは
+JOINとは： バラバラに保存されたデータを、共通の「合言葉（ID）」でガ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:37dca9fdb5db427dfd7c</id>
