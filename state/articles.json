@@ -49,6 +49,18 @@
       "last_seen": "2026-04-13T07:45:02.995447212+00:00"
     },
     {
+      "key": "017c466d2353e602d8ff",
+      "item_id": "017c466d2353e602d8ff",
+      "title": "SEに必要な説明力",
+      "link": "https://qiita.com/NSS_FS_ENG/items/017c466d2353e602d8ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "あいさつ\nはじめまして、日本総合システムの濱田と申します。\n私はお客様に近い場所で仕事をすることが多いため、必然的に説明やプレゼンをする機会が多いです。\n物事を誰かに伝えるための技術について体系的に勉強したことはありませんが、自分の経験に基づいてどのように考えているかを改...",
+      "published": "2026-04-27T08:00:04+09:00",
+      "updated": "2026-04-27T08:00:04+09:00",
+      "author_name": "NSS_FS_ENG",
+      "likes_count": 10,
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
+    },
+    {
       "key": "021eaec14a0970ee1c0b",
       "item_id": "021eaec14a0970ee1c0b",
       "title": "AI に「デザインの判断力」を与えるスキル `ui-ux-pro-max-skill` を徹底解説してみた — Codex CLI 実践編",
@@ -598,7 +610,7 @@
       "updated": "2026-04-26T13:14:18+09:00",
       "author_name": "nogataka",
       "likes_count": 12,
-      "last_seen": "2026-04-27T23:28:15.713776755+00:00"
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
     },
     {
       "key": "1393cc61075b71e6fd94",
@@ -803,6 +815,18 @@
       "author_name": "ryo_sh",
       "likes_count": 15,
       "last_seen": "2026-04-02T19:28:59.316742108+00:00"
+    },
+    {
+      "key": "197f1762f4c5b283519a",
+      "item_id": "197f1762f4c5b283519a",
+      "title": "docker compose up する時に特定のサービスを起動させないようにする方法３選",
+      "link": "https://qiita.com/murarihyon-k/items/197f1762f4c5b283519a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n例として、ローカル開発環境でdocker-compose.ymlを以下のように定義しているとしましょう。\n\ndocker-compose.yml\nservices:\n  db:\n    ...\n  web:\n    ...\n  app:\n    ...\n  sc...",
+      "published": "2026-04-27T12:34:44+09:00",
+      "updated": "2026-04-27T12:34:45+09:00",
+      "author_name": "murarihyon-k",
+      "likes_count": 10,
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
     },
     {
       "key": "1ad4e4ccaf47816c63e0",
@@ -1773,8 +1797,8 @@
       "published": "2026-04-26T00:39:30+09:00",
       "updated": "2026-04-26T00:39:30+09:00",
       "author_name": "moritalous",
-      "likes_count": 113,
-      "last_seen": "2026-04-27T23:28:15.713776755+00:00"
+      "likes_count": 120,
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
     },
     {
       "key": "3c5dd7703fe9955af5c3",
@@ -2277,8 +2301,8 @@
       "published": "2026-04-26T12:14:25+09:00",
       "updated": "2026-04-26T12:14:25+09:00",
       "author_name": "ryo_sh",
-      "likes_count": 25,
-      "last_seen": "2026-04-27T23:28:15.713776755+00:00"
+      "likes_count": 27,
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
     },
     {
       "key": "4a344d4cd78df4c96f08",
@@ -2518,7 +2542,7 @@
       "updated": "2026-04-27T07:58:23+09:00",
       "author_name": "Takashi_Masumori",
       "likes_count": 13,
-      "last_seen": "2026-04-27T23:28:15.713776755+00:00"
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
     },
     {
       "key": "50d81c7d7c3871b95d9a",
@@ -2625,8 +2649,8 @@
       "published": "2026-04-27T02:01:07+09:00",
       "updated": "2026-04-27T02:01:07+09:00",
       "author_name": "iroha1203",
-      "likes_count": 11,
-      "last_seen": "2026-04-27T23:28:15.713776755+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
     },
     {
       "key": "52dcdb315c54dddede01",
@@ -3273,8 +3297,8 @@
       "published": "2026-04-27T17:48:44+09:00",
       "updated": "2026-04-27T17:48:44+09:00",
       "author_name": "yusuke_ando_vj",
-      "likes_count": 15,
-      "last_seen": "2026-04-27T23:28:15.713776755+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
     },
     {
       "key": "66510f959b1c22f011a7",
@@ -3586,7 +3610,7 @@
       "updated": "2026-04-25T18:05:13+09:00",
       "author_name": "shahin0809",
       "likes_count": 11,
-      "last_seen": "2026-04-27T23:28:15.713776755+00:00"
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
     },
     {
       "key": "6fff369a0f20223a821f",
@@ -3634,7 +3658,7 @@
       "updated": "2026-04-26T16:44:40+09:00",
       "author_name": "masa_py",
       "likes_count": 13,
-      "last_seen": "2026-04-27T23:28:15.713776755+00:00"
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
     },
     {
       "key": "7138654568f8ef43785b",
@@ -3766,7 +3790,7 @@
       "updated": "2026-04-27T20:42:22+09:00",
       "author_name": "ryu-ki",
       "likes_count": 10,
-      "last_seen": "2026-04-27T23:28:15.713776755+00:00"
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
     },
     {
       "key": "747faa3de771373a3e4f",
@@ -3961,6 +3985,18 @@
       "last_seen": "2026-03-24T07:32:48.900685452+00:00"
     },
     {
+      "key": "7ae3b3ea5b2b4a59332d",
+      "item_id": "7ae3b3ea5b2b4a59332d",
+      "title": "n8nで毎朝「天気×ビタミンD日光時間」をDiscord通知するリマインダーを作ってみた",
+      "link": "https://qiita.com/wan-code/items/7ae3b3ea5b2b4a59332d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n毎朝天気予報を見る人は多いですが、\n\n今日はどれくらい日光を浴びるとよいのか\n曇りの日はどれくらい不足しやすいのか\n日焼け止めありだとどれくらい変わるのか\n\nまで考えることはあまりありません。\nそこで今回は n8n で、\n\n天気取得\nビタミンD生成を考慮した日光...",
+      "published": "2026-04-27T18:57:14+09:00",
+      "updated": "2026-04-27T18:57:14+09:00",
+      "author_name": "wan-code",
+      "likes_count": 17,
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
+    },
+    {
       "key": "7c402f4e085fae433cf5",
       "item_id": "7c402f4e085fae433cf5",
       "title": "【35歳未経験でも理解できた】SQL 基礎コマンド",
@@ -3981,8 +4017,8 @@
       "published": "2026-04-25T17:57:28+09:00",
       "updated": "2026-04-25T20:01:36+09:00",
       "author_name": "nasuvitz",
-      "likes_count": 13,
-      "last_seen": "2026-04-27T23:28:15.713776755+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
     },
     {
       "key": "7ca5ce619d77343fd293",
@@ -4786,7 +4822,7 @@
       "updated": "2026-04-26T13:14:08+09:00",
       "author_name": "nogataka",
       "likes_count": 13,
-      "last_seen": "2026-04-27T23:28:15.713776755+00:00"
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
     },
     {
       "key": "9631a596b5590e9ee7b8",
@@ -4870,7 +4906,7 @@
       "updated": "2026-04-27T09:51:42+09:00",
       "author_name": "s-yoshina",
       "likes_count": 14,
-      "last_seen": "2026-04-27T23:28:15.713776755+00:00"
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
     },
     {
       "key": "98472032a3f4535c66b2",
@@ -5613,8 +5649,8 @@
       "published": "2026-04-27T14:03:48+09:00",
       "updated": "2026-04-27T14:03:48+09:00",
       "author_name": "wata-sho",
-      "likes_count": 47,
-      "last_seen": "2026-04-27T23:28:15.713776755+00:00"
+      "likes_count": 51,
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
     },
     {
       "key": "b11ebbcf7e14ff251b76",
@@ -6069,8 +6105,8 @@
       "published": "2026-04-27T18:00:30+09:00",
       "updated": "2026-04-27T18:00:30+09:00",
       "author_name": "miruky",
-      "likes_count": 14,
-      "last_seen": "2026-04-27T23:28:15.713776755+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
     },
     {
       "key": "c38985bbf0ec13bf91b7",
@@ -7377,8 +7413,8 @@
       "published": "2026-04-26T19:08:51+09:00",
       "updated": "2026-04-28T00:27:25+09:00",
       "author_name": "harupython",
-      "likes_count": 25,
-      "last_seen": "2026-04-27T23:28:15.713776755+00:00"
+      "likes_count": 29,
+      "last_seen": "2026-04-28T01:06:33.965044287+00:00"
     },
     {
       "key": "ed8662412cc98a0d5868",
