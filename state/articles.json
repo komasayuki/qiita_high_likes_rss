@@ -58,7 +58,19 @@
       "updated": "2026-04-27T08:00:04+09:00",
       "author_name": "NSS_FS_ENG",
       "likes_count": 15,
-      "last_seen": "2026-04-28T07:10:19.282739809+00:00"
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
+    },
+    {
+      "key": "018678abdb0267983fc3",
+      "item_id": "018678abdb0267983fc3",
+      "title": "【後編】9割の新人エンジニアがやっている 「承知しました」の落とし穴",
+      "link": "https://qiita.com/hitomin_poke/items/018678abdb0267983fc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめまして。株式会社PRUMでエンジニアをしている人見です。\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\n【後編】9割の新人...",
+      "published": "2026-04-28T13:04:19+09:00",
+      "updated": "2026-04-28T13:04:20+09:00",
+      "author_name": "hitomin_poke",
+      "likes_count": 38,
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
     },
     {
       "key": "021eaec14a0970ee1c0b",
@@ -826,7 +838,7 @@
       "updated": "2026-04-27T12:34:45+09:00",
       "author_name": "murarihyon-k",
       "likes_count": 10,
-      "last_seen": "2026-04-28T07:10:19.282739809+00:00"
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
     },
     {
       "key": "1ad4e4ccaf47816c63e0",
@@ -1297,18 +1309,6 @@
       "last_seen": "2026-04-08T19:38:41.589668334+00:00"
     },
     {
-      "key": "2d88e5b9eea5b0153887",
-      "item_id": "2d88e5b9eea5b0153887",
-      "title": "APIのレート制限について",
-      "link": "https://qiita.com/skuro-yzrh/items/2d88e5b9eea5b0153887?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "既に運用中のバッチを改修するにあたり、検証のためローカルで実行したところ、外部サービスのAPIのレート制限に引っかかり、バッチが落ちる現象に遭遇しました。\nバッチ開発当初は大量にAPIを叩く想定は無かったのでレート制限についての考慮がされておらず、また特定の状況下でバッチを...",
-      "published": "2026-02-24T15:52:00+09:00",
-      "updated": "2026-02-24T16:15:29+09:00",
-      "author_name": "skuro-yzrh",
-      "likes_count": 10,
-      "last_seen": "2026-02-27T07:28:31.761995736+00:00"
-    },
-    {
       "key": "2e018c98e35752dae179",
       "item_id": "2e018c98e35752dae179",
       "title": "新卒、焦らなくていいよ。不出来と思われたくなくて空回りした私より。",
@@ -1465,18 +1465,6 @@
       "last_seen": "2026-03-01T07:22:13.047532603+00:00"
     },
     {
-      "key": "32f6df62ec9676626df9",
-      "item_id": "32f6df62ec9676626df9",
-      "title": "Select AI を利用するまでの各ステップの意味を理解する",
-      "link": "https://qiita.com/jun110/items/32f6df62ec9676626df9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Oracle Autonomous AI Database の目玉機能の一つである「Select AI」。\n自然言語でデータベースに問い合わせると、LLM（大規模言語モデル）がその意図を解釈し、適切なSQLクエリを生成・実行してくれる非常に強力な機能です。\nすでにチュートリ...",
-      "published": "2026-02-25T22:21:22+09:00",
-      "updated": "2026-02-25T23:20:08+09:00",
-      "author_name": "jun110",
-      "likes_count": 10,
-      "last_seen": "2026-02-27T07:28:31.761995736+00:00"
-    },
-    {
       "key": "330a378b024562c9e097",
       "item_id": "330a378b024562c9e097",
       "title": "useEffectを何となく使っていた自分が、React公式を読んで正しい使い方を学び直した",
@@ -1583,18 +1571,6 @@
       "author_name": "kikuziro",
       "likes_count": 60,
       "last_seen": "2026-04-09T07:42:48.968025927+00:00"
-    },
-    {
-      "key": "362517e59d8eab1b6054",
-      "item_id": "362517e59d8eab1b6054",
-      "title": "VS Code開発効率を最大化するキーボード操作術 第2弾【Mac編】",
-      "link": "https://qiita.com/Yamashita_Sosuke/items/362517e59d8eab1b6054?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n前回の記事では、行操作やカーソル移動といった「テキスト編集」にフォーカスしたショートカットをご紹介しました✨\n\nしかし、実際の開発業務において、私たちがコードを「書いている」時間は意外と短く、既存のコードを「読んでいる」「探している」時間の方が圧倒的に長いで...",
-      "published": "2026-02-24T14:39:29+09:00",
-      "updated": "2026-02-24T14:39:30+09:00",
-      "author_name": "Yamashita_Sosuke",
-      "likes_count": 19,
-      "last_seen": "2026-02-27T07:28:31.761995736+00:00"
     },
     {
       "key": "36404f9ec9c786cde671",
@@ -1797,8 +1773,8 @@
       "published": "2026-04-26T00:39:30+09:00",
       "updated": "2026-04-26T00:39:30+09:00",
       "author_name": "moritalous",
-      "likes_count": 138,
-      "last_seen": "2026-04-28T07:10:19.282739809+00:00"
+      "likes_count": 141,
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
     },
     {
       "key": "3c5dd7703fe9955af5c3",
@@ -1859,6 +1835,18 @@
       "author_name": "AoraNow_Yoshiyuki_Ito",
       "likes_count": 14,
       "last_seen": "2026-03-15T19:18:18.835985524+00:00"
+    },
+    {
+      "key": "3df8598b3ebaf1eb6888",
+      "item_id": "3df8598b3ebaf1eb6888",
+      "title": "【初学者向け】「どう並べて、どう取り出すか」で変わる - データ構造の基礎",
+      "link": "https://qiita.com/masa20057/items/3df8598b3ebaf1eb6888?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "株式会社PRUMのmasaです。\n今日は「データをどう並べ、どう取り出すか」というルール（データ構造）について、初学者向けにまとめました。\nプログラムは「データの集まり」をどう扱うかで、その動き方が大きく変わります。\nこの記事では、データの扱い方の基本パターンを知ることで、...",
+      "published": "2026-04-28T13:56:32+09:00",
+      "updated": "2026-04-28T13:56:32+09:00",
+      "author_name": "masa20057",
+      "likes_count": 40,
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
     },
     {
       "key": "3ebe56edd76f7cddfd47",
@@ -2302,7 +2290,7 @@
       "updated": "2026-04-26T12:14:25+09:00",
       "author_name": "ryo_sh",
       "likes_count": 31,
-      "last_seen": "2026-04-28T07:10:19.282739809+00:00"
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
     },
     {
       "key": "4a344d4cd78df4c96f08",
@@ -2437,18 +2425,6 @@
       "last_seen": "2026-03-05T19:36:27.544053404+00:00"
     },
     {
-      "key": "4d732a43ac5cdf9daadc",
-      "item_id": "4d732a43ac5cdf9daadc",
-      "title": "技術記事、硬すぎ問題。だからギャルに読ませてみた",
-      "link": "https://qiita.com/kikuziro/items/4d732a43ac5cdf9daadc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "💅 はじめに\n最近私はQiita APIを使って、ギャルがQiita記事を音声解説してくれるWebアプリを作っています。\nそうです。ギャルです。 技術記事 × ギャル\n情報量が多いのか少ないのか分からないカオスな組み合わせですが、テスト中にあまりにも感動してしまったのでと...",
-      "published": "2026-02-24T06:23:54+09:00",
-      "updated": "2026-02-24T06:23:54+09:00",
-      "author_name": "kikuziro",
-      "likes_count": 120,
-      "last_seen": "2026-02-27T07:28:31.761995736+00:00"
-    },
-    {
       "key": "4dcb7c27c053b28543b4",
       "item_id": "4dcb7c27c053b28543b4",
       "title": "AI駆動開発でETH/JPY自動売買ボットを作って不労所得ｶﾞｯﾎﾟｶﾞｯﾎﾟ",
@@ -2542,7 +2518,7 @@
       "updated": "2026-04-27T07:58:23+09:00",
       "author_name": "Takashi_Masumori",
       "likes_count": 15,
-      "last_seen": "2026-04-28T07:10:19.282739809+00:00"
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
     },
     {
       "key": "50d81c7d7c3871b95d9a",
@@ -2650,7 +2626,7 @@
       "updated": "2026-04-27T02:01:07+09:00",
       "author_name": "iroha1203",
       "likes_count": 15,
-      "last_seen": "2026-04-28T07:10:19.282739809+00:00"
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
     },
     {
       "key": "52dcdb315c54dddede01",
@@ -2675,18 +2651,6 @@
       "author_name": "ryo_sh",
       "likes_count": 21,
       "last_seen": "2026-04-08T07:42:04.658874674+00:00"
-    },
-    {
-      "key": "539e775adb35195feecd",
-      "item_id": "539e775adb35195feecd",
-      "title": "反省会が止まらない人へ。アドラー心理学で“心の負荷”を減らす3つの考え",
-      "link": "https://qiita.com/mnomoto/items/539e775adb35195feecd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nこんにちは、GxPの野本（@mnomoto）です！\nアドベントカレンダーのタイミングで、1年目・2年目は、\n受けた研修の話やら、研修の運営に回る話を書いてきました。\n気づけば3年目。任される領域や判断する場面が増える中で、最近よく思うのが、こんなことです。\n「あ...",
-      "published": "2026-02-24T13:56:25+09:00",
-      "updated": "2026-02-24T13:56:26+09:00",
-      "author_name": "mnomoto",
-      "likes_count": 27,
-      "last_seen": "2026-02-27T07:28:31.761995736+00:00"
     },
     {
       "key": "546235a8b9a0e90ef095",
@@ -2761,6 +2725,18 @@
       "last_seen": "2026-04-11T07:31:50.213398059+00:00"
     },
     {
+      "key": "560e2d8c9c3acee0f2ff",
+      "item_id": "560e2d8c9c3acee0f2ff",
+      "title": "書籍『ステップアップPython すぐに使える!実践スキル35』発売します",
+      "link": "https://qiita.com/tetsuro731/items/560e2d8c9c3acee0f2ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n都内でデータサイエンティストをしている@tetsuro731と申します。\nこのたび、講談社から『ステップアップPython すぐに使える!実践スキル35』を出版することになりました。Amazonのリンクはすでにできており、発売は6月25日の予定です。\n\nこ...",
+      "published": "2026-04-27T18:52:18+09:00",
+      "updated": "2026-04-27T18:52:18+09:00",
+      "author_name": "tetsuro731",
+      "likes_count": 10,
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
+    },
+    {
       "key": "565941faee9c67b64e14",
       "item_id": "565941faee9c67b64e14",
       "title": "ランダムフォレスト → XGBoost → LightGBM：進化の流れで理解する機械学習モデル",
@@ -2807,18 +2783,6 @@
       "author_name": "emi_ndk",
       "likes_count": 90,
       "last_seen": "2026-03-03T07:26:48.639035453+00:00"
-    },
-    {
-      "key": "57116c85e990fecd6f6d",
-      "item_id": "57116c85e990fecd6f6d",
-      "title": "【ちゃんと業務で使えるようになるための】npmまとめ",
-      "link": "https://qiita.com/kyuko/items/57116c85e990fecd6f6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "こんにちは！ひさふるです。\n今回は\"ちゃんと業務で使えるようになるための\"というテーマで、npmを取り上げたいと思います。\n私自身、業務でもnpmを多用します。\nただ、新卒で案件に配属された私には、単に\"パッケージをインストールできるもの\"という理解より、一歩踏み込んだ理解...",
-      "published": "2026-02-24T08:35:27+09:00",
-      "updated": "2026-02-26T20:22:18+09:00",
-      "author_name": "kyuko",
-      "likes_count": 38,
-      "last_seen": "2026-02-27T07:28:31.761995736+00:00"
     },
     {
       "key": "5768fdeeaca34f1cb5b8",
@@ -3298,7 +3262,7 @@
       "updated": "2026-04-27T17:48:44+09:00",
       "author_name": "yusuke_ando_vj",
       "likes_count": 19,
-      "last_seen": "2026-04-28T07:10:19.282739809+00:00"
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
     },
     {
       "key": "66510f959b1c22f011a7",
@@ -3358,7 +3322,7 @@
       "updated": "2026-04-26T02:37:04+09:00",
       "author_name": "takuto_25",
       "likes_count": 10,
-      "last_seen": "2026-04-28T07:10:19.282739809+00:00"
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
     },
     {
       "key": "6743216583b66168ec12",
@@ -3802,7 +3766,7 @@
       "updated": "2026-04-27T20:42:22+09:00",
       "author_name": "ryu-ki",
       "likes_count": 10,
-      "last_seen": "2026-04-28T07:10:19.282739809+00:00"
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
     },
     {
       "key": "747faa3de771373a3e4f",
@@ -4006,7 +3970,7 @@
       "updated": "2026-04-27T18:57:14+09:00",
       "author_name": "wan-code",
       "likes_count": 20,
-      "last_seen": "2026-04-28T07:10:19.282739809+00:00"
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
     },
     {
       "key": "7c402f4e085fae433cf5",
@@ -4029,8 +3993,8 @@
       "published": "2026-04-25T17:57:28+09:00",
       "updated": "2026-04-25T20:01:36+09:00",
       "author_name": "nasuvitz",
-      "likes_count": 19,
-      "last_seen": "2026-04-28T07:10:19.282739809+00:00"
+      "likes_count": 20,
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
     },
     {
       "key": "7ca5ce619d77343fd293",
@@ -4429,18 +4393,6 @@
       "last_seen": "2026-04-10T07:43:13.419330302+00:00"
     },
     {
-      "key": "89b58fe5a399cd284098",
-      "item_id": "89b58fe5a399cd284098",
-      "title": "通常の50倍、2日間で約1000人が登録したWEBアプリの話",
-      "link": "https://qiita.com/hisuzuya/items/89b58fe5a399cd284098?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n国家資格試験の学習サービス「KOKUSHIRU」で、2日間で約1000人が新規登録する出来事がありました。\n\n日付\n新規登録数\n備考\n\n2/15\n14\n通常\n\n2/16\n19\n通常\n\n2/17\n22\n通常\n\n2/18\n35\n国試当日\n\n2/19...",
-      "published": "2026-02-24T08:13:36+09:00",
-      "updated": "2026-02-24T08:13:36+09:00",
-      "author_name": "hisuzuya",
-      "likes_count": 21,
-      "last_seen": "2026-02-27T07:28:31.761995736+00:00"
-    },
-    {
       "key": "89b5b1eafa716e6653b2",
       "item_id": "89b5b1eafa716e6653b2",
       "title": "Ansibleでサーバ構築を完全自動化してみたい！パート1",
@@ -4463,6 +4415,18 @@
       "author_name": "ktdatascience",
       "likes_count": 310,
       "last_seen": "2026-03-04T07:25:15.380338640+00:00"
+    },
+    {
+      "key": "8a669c6e0a76d9b1875d",
+      "item_id": "8a669c6e0a76d9b1875d",
+      "title": "新人エンジニアこそ「個人開発」をやろう。完全無料で始めるCloudflareスタック入門",
+      "link": "https://qiita.com/t0hara/items/8a669c6e0a76d9b1875d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "新生活が始まり、限られた時間の中でどう成長していくかは多くの新人エンジニアにとって共通のテーマではないでしょうか。\n数ある学習法の中でも、インプットした知識を「実力」に変えるためのステップとして、今回おすすめするのが個人開発という選択肢です。\n\nはじめに\n新人エンジニアとし...",
+      "published": "2026-04-28T11:38:06+09:00",
+      "updated": "2026-04-28T11:38:07+09:00",
+      "author_name": "t0hara",
+      "likes_count": 18,
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
     },
     {
       "key": "8aa17810306d02490260",
@@ -4930,7 +4894,7 @@
       "updated": "2026-04-27T09:51:42+09:00",
       "author_name": "s-yoshina",
       "likes_count": 17,
-      "last_seen": "2026-04-28T07:10:19.282739809+00:00"
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
     },
     {
       "key": "98472032a3f4535c66b2",
@@ -5123,18 +5087,6 @@
       "author_name": "yuto-vj",
       "likes_count": 26,
       "last_seen": "2026-04-12T07:40:12.183235825+00:00"
-    },
-    {
-      "key": "a116aa00af0884675b25",
-      "item_id": "a116aa00af0884675b25",
-      "title": "Dockerの名前付きボリュームの落とし穴",
-      "link": "https://qiita.com/kuma_3838/items/a116aa00af0884675b25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nDocker Compose で node_modules を名前付きボリュームとして管理している環境で、docker compose build し直したのにパッケージが見つからないという問題に遭遇しました。\nこの記事では、実際に発生した事象をもとに名前付きボ...",
-      "published": "2026-02-24T10:04:48+09:00",
-      "updated": "2026-02-24T10:04:48+09:00",
-      "author_name": "kuma_3838",
-      "likes_count": 28,
-      "last_seen": "2026-02-27T07:28:31.761995736+00:00"
     },
     {
       "key": "a185ecd13bf4be6cf65c",
@@ -5653,6 +5605,18 @@
       "last_seen": "2026-03-10T07:26:24.774363071+00:00"
     },
     {
+      "key": "afdd509365a770598fc4",
+      "item_id": "afdd509365a770598fc4",
+      "title": "API Gateway → Lambda の間で何が行われているかを易しく解説",
+      "link": "https://qiita.com/hosomatu/items/afdd509365a770598fc4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "記事を書いたきっかけ\n人に教えることが増えてきたので、説明用にまとめてみました。\n「間の部分がわからない」という質問をよく受けるのですが、結局API Gatewayのことですね、ってパターンが多いのでこのようなタイトルにしました。\nAPI Gatewayの初級~中級レベル...",
+      "published": "2026-04-28T08:38:36+09:00",
+      "updated": "2026-04-28T08:52:18+09:00",
+      "author_name": "hosomatu",
+      "likes_count": 20,
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
+    },
+    {
       "key": "b05b23fb02ae1a9a7349",
       "item_id": "b05b23fb02ae1a9a7349",
       "title": "Exadata へ Oracle ACFS NAS Maximum Availability Extensions (ACFS NAS MAX)を設定してみてみた",
@@ -5685,8 +5649,8 @@
       "published": "2026-04-27T14:03:48+09:00",
       "updated": "2026-04-27T14:03:48+09:00",
       "author_name": "wata-sho",
-      "likes_count": 60,
-      "last_seen": "2026-04-28T07:10:19.282739809+00:00"
+      "likes_count": 61,
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
     },
     {
       "key": "b11ebbcf7e14ff251b76",
@@ -6141,8 +6105,8 @@
       "published": "2026-04-27T18:00:30+09:00",
       "updated": "2026-04-27T18:00:30+09:00",
       "author_name": "miruky",
-      "likes_count": 30,
-      "last_seen": "2026-04-28T07:10:19.282739809+00:00"
+      "likes_count": 31,
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
     },
     {
       "key": "c38985bbf0ec13bf91b7",
@@ -6431,18 +6395,6 @@
       "author_name": "ayshiina",
       "likes_count": 24,
       "last_seen": "2026-03-27T07:35:34.725688670+00:00"
-    },
-    {
-      "key": "cde332cb834161e5532b",
-      "item_id": "cde332cb834161e5532b",
-      "title": "AI音楽生成 Google「Lyria 3」を徹底検証！画像・歌詞から音楽は作れるのか？",
-      "link": "https://qiita.com/tomokoro/items/cde332cb834161e5532b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "1. はじめに\nAI による音楽生成が急速に進化していますが、Googleの最新音楽生成モデル「Lyria 3」が、Gemini を通じて利用可能となりました。\nこれまでの音楽生成AIは、抽象的な指示から「それらしい楽曲」を出力することには長けていました。しかし、細かい構...",
-      "published": "2026-02-25T11:30:28+09:00",
-      "updated": "2026-02-26T08:55:04+09:00",
-      "author_name": "tomokoro",
-      "likes_count": 11,
-      "last_seen": "2026-02-27T07:28:31.761995736+00:00"
     },
     {
       "key": "ce71acf0aa0b80631c35",
@@ -7449,8 +7401,8 @@
       "published": "2026-04-26T19:08:51+09:00",
       "updated": "2026-04-28T00:27:25+09:00",
       "author_name": "harupython",
-      "likes_count": 36,
-      "last_seen": "2026-04-28T07:10:19.282739809+00:00"
+      "likes_count": 37,
+      "last_seen": "2026-04-28T09:03:40.926997173+00:00"
     },
     {
       "key": "ed8662412cc98a0d5868",
@@ -7657,18 +7609,6 @@
       "last_seen": "2026-03-12T07:28:47.828972172+00:00"
     },
     {
-      "key": "f1da76e039071d7b5ebc",
-      "item_id": "f1da76e039071d7b5ebc",
-      "title": "【AI性能比較】LLM 評価指標をざっくり解説｜Artificial Analysis の歩き方",
-      "link": "https://qiita.com/Ryo-Nakano/items/f1da76e039071d7b5ebc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "🗺️ はじめに\nAI 関連のリリースが多く出される今日この頃ですが、\n「新しいモデルがリリースされたけど、何がどのくらい伸びたの？」\nというのがイマイチわからないな、と思っていました。\nそういうときに自分はいつも\n\nGoogle の AI モードでサクサク概要を掴む\nGe...",
-      "published": "2026-02-24T08:09:29+09:00",
-      "updated": "2026-02-24T08:19:22+09:00",
-      "author_name": "Ryo-Nakano",
-      "likes_count": 24,
-      "last_seen": "2026-02-27T07:28:31.761995736+00:00"
-    },
-    {
       "key": "f1eab565027d84bc9b0b",
       "item_id": "f1eab565027d84bc9b0b",
       "title": "知らないとヤバい😱 コードレビューしてもらえる最強ツール! CodeRabbitの導入法",
@@ -7715,18 +7655,6 @@
       "author_name": "shohei_yamamoto",
       "likes_count": 24,
       "last_seen": "2026-03-11T19:26:37.679684043+00:00"
-    },
-    {
-      "key": "f37297b04d3277d8a1e8",
-      "item_id": "f37297b04d3277d8a1e8",
-      "title": "AWS Certified Solutions Architect – Associate（SAA）も受けてみました",
-      "link": "https://qiita.com/dais_cw/items/f37297b04d3277d8a1e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n少し前に AWS Certified Cloud Practitioner（CLF） を受けてきたのですが、\n\nそのままの流れで AWS Certified Solutions Architect（SAA） も\n試験申込→受験しました。\n結果、なんとか合格で...",
-      "published": "2026-02-24T07:52:33+09:00",
-      "updated": "2026-02-26T16:53:19+09:00",
-      "author_name": "dais_cw",
-      "likes_count": 14,
-      "last_seen": "2026-02-27T07:28:31.761995736+00:00"
     },
     {
       "key": "f376db34bf06a4e8c0d0",

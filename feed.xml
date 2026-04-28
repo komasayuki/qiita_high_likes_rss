@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-04-28T00:27:25+09:00</updated>
+  <updated>2026-04-28T13:56:32+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -299,6 +299,17 @@ PRUMについて気になった方は、
 エンジニアなら一度はそう思ったことがあるのではないでしょうか。・・・あれ、ないですか？そうですか。まあ、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3c5269610f26e23c5b04</id>
+    <title>Claude CodeのVSCode拡張が使いやすいよ</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/3c5269610f26e23c5b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-26T00:39:30+09:00</updated>
+    <summary type="html">Likes: 141&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T00:39:30+09:00&lt;br/&gt;Updated: 2026-04-26T00:39:30+09:00&lt;br/&gt;皆様、Claude Code使ってますか？
+CLIで利用されている方が大多数だと思いますが、VSCodeの拡張も悪くないよ、というお話です。
+いつのころからか、左右にパネルが出るような構成になっています。
+
+右側が通常（？）のチャット欄で左が過去のセッション一覧みたいな感じ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5b5747f619e6eb745436</id>
     <title>簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/5b5747f619e6eb745436?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -306,17 +317,6 @@ PRUMについて気になった方は、
     <summary type="html">Likes: 139&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T15:04:10+09:00&lt;br/&gt;Updated: 2026-03-14T15:11:26+09:00&lt;br/&gt;agency-agentsとは何か
 agency-agentsは、144個のAIエージェント定義をMarkdownファイルで提供するOSSです。Claude Code、Copilot、Cursor、Gemini CLIなど10以上のツールに対応しています。
 「開発者として...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3c5269610f26e23c5b04</id>
-    <title>Claude CodeのVSCode拡張が使いやすいよ</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/3c5269610f26e23c5b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-26T00:39:30+09:00</updated>
-    <summary type="html">Likes: 138&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T00:39:30+09:00&lt;br/&gt;Updated: 2026-04-26T00:39:30+09:00&lt;br/&gt;皆様、Claude Code使ってますか？
-CLIで利用されている方が大多数だと思いますが、VSCodeの拡張も悪くないよ、というお話です。
-いつのころからか、左右にパネルが出るような構成になっています。
-
-右側が通常（？）のチャット欄で左が過去のセッション一覧みたいな感じ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6743216583b66168ec12</id>
@@ -423,16 +423,6 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
     <summary type="html">Likes: 121&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akira_papa_AI&quot;&gt;akira_papa_AI&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T09:01:09+09:00&lt;br/&gt;Updated: 2026-03-21T09:01:09+09:00&lt;br/&gt;はじめに — 同じCursorを使っているのに、なぜ10倍の差がつくのか
 こんな経験、ないでしょうか。
 チームの隣の席の人が、CursorやCopilotで爆速開発している。同じツールを使っているのに、自分のプロジェクトだと全然うまくいかない。AIが的外れなコードを吐く。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4d732a43ac5cdf9daadc</id>
-    <title>技術記事、硬すぎ問題。だからギャルに読ませてみた</title>
-    <link rel="alternate" href="https://qiita.com/kikuziro/items/4d732a43ac5cdf9daadc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-24T06:23:54+09:00</updated>
-    <summary type="html">Likes: 120&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T06:23:54+09:00&lt;br/&gt;Updated: 2026-02-24T06:23:54+09:00&lt;br/&gt;💅 はじめに
-最近私はQiita APIを使って、ギャルがQiita記事を音声解説してくれるWebアプリを作っています。
-そうです。ギャルです。 技術記事 × ギャル
-情報量が多いのか少ないのか分からないカオスな組み合わせですが、テスト中にあまりにも感動してしまったのでと...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:33729fdbbd54cdaac60e</id>
@@ -1352,6 +1342,19 @@ axiosはJavaScriptで最も使われるHTTPクライアントです。
 事件を知っ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b0b2bda52d6fc64f7522</id>
+    <title>【35歳未経験でも理解できた】SQLのJOIN</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/b0b2bda52d6fc64f7522?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-27T14:03:48+09:00</updated>
+    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T14:03:48+09:00&lt;br/&gt;Updated: 2026-04-27T14:03:48+09:00&lt;br/&gt;こんにちは！
+35歳、未経験からWebの世界に飛び込んだ者です。
+今回は、SQL最大の難所の一つ「JOIN（結合）」を、
+「カフェのスタンプカード」に例えて、わかりやすく解説します！
+
+JOINとは
+JOINとは： バラバラに保存されたデータを、共通の「合言葉（ID）」でガ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:155f3b5a0dcde72fcd10</id>
     <title>ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/155f3b5a0dcde72fcd10?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1376,19 +1379,6 @@ PRUMについて気になった方は、
 ▶ コーポレートサイト
 
 【後編】「また指摘され...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b0b2bda52d6fc64f7522</id>
-    <title>【35歳未経験でも理解できた】SQLのJOIN</title>
-    <link rel="alternate" href="https://qiita.com/wata-sho/items/b0b2bda52d6fc64f7522?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-27T14:03:48+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T14:03:48+09:00&lt;br/&gt;Updated: 2026-04-27T14:03:48+09:00&lt;br/&gt;こんにちは！
-35歳、未経験からWebの世界に飛び込んだ者です。
-今回は、SQL最大の難所の一つ「JOIN（結合）」を、
-「カフェのスタンプカード」に例えて、わかりやすく解説します！
-
-JOINとは
-JOINとは： バラバラに保存されたデータを、共通の「合言葉（ID）」でガ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ccc64ce6504c77100cfb</id>
@@ -1860,6 +1850,16 @@ GitHub: nezmickey/Zenith
 Claude Codeを日常的に使っているのですが、ここ1年ほどでSkills、プラグイン、Agent Teams、Hooksの進化…とアップデートが立て続けに入...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3df8598b3ebaf1eb6888</id>
+    <title>【初学者向け】「どう並べて、どう取り出すか」で変わる - データ構造の基礎</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/3df8598b3ebaf1eb6888?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-28T13:56:32+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T13:56:32+09:00&lt;br/&gt;Updated: 2026-04-28T13:56:32+09:00&lt;br/&gt;株式会社PRUMのmasaです。
+今日は「データをどう並べ、どう取り出すか」というルール（データ構造）について、初学者向けにまとめました。
+プログラムは「データの集まり」をどう扱うかで、その動き方が大きく変わります。
+この記事では、データの扱い方の基本パターンを知ることで、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f6fa910cb0c7efe2defc</id>
     <title>Claude Codeのコード流出から考える開発者の倫理</title>
     <link rel="alternate" href="https://qiita.com/mosaxiv/items/f6fa910cb0c7efe2defc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1901,6 +1901,18 @@ delphinu...</summary>
     <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuchi_a&quot;&gt;kimuchi_a&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T19:16:12+09:00&lt;br/&gt;Updated: 2026-04-03T00:19:55+09:00&lt;br/&gt;はじめに：新卒、焦らなくてもいいかも。
 過去の投稿を読んでくださった方は「何回言うねん」と思うかもしれませんが、  私はコーディング未経験の新卒としてこの会社に入社しました。
 周りは優秀な人たちばかりで、同じくコーディング未経験でも、「明らかに自分よりできる」人がごろごろ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:018678abdb0267983fc3</id>
+    <title>【後編】9割の新人エンジニアがやっている 「承知しました」の落とし穴</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/018678abdb0267983fc3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-28T13:04:20+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T13:04:19+09:00&lt;br/&gt;Updated: 2026-04-28T13:04:20+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+【後編】9割の新人...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5dde0a7259d142d88551</id>
@@ -1948,14 +1960,16 @@ AIに「いい感じに作って」と言って、本当に「いい感じ」の
 今回は、実際によく起きる具体的なエピソードをもとに考えてみます...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:57116c85e990fecd6f6d</id>
-    <title>【ちゃんと業務で使えるようになるための】npmまとめ</title>
-    <link rel="alternate" href="https://qiita.com/kyuko/items/57116c85e990fecd6f6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-26T20:22:18+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T08:35:27+09:00&lt;br/&gt;Updated: 2026-02-26T20:22:18+09:00&lt;br/&gt;こんにちは！ひさふるです。
-今回は&quot;ちゃんと業務で使えるようになるための&quot;というテーマで、npmを取り上げたいと思います。
-私自身、業務でもnpmを多用します。
-ただ、新卒で案件に配属された私には、単に&quot;パッケージをインストールできるもの&quot;という理解より、一歩踏み込んだ理解...</summary>
+    <id>tag:qiita.com,2026:ed256553d10578cfec2a</id>
+    <title>コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）</title>
+    <link rel="alternate" href="https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-28T00:27:25+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/harupython&quot;&gt;harupython&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T19:08:51+09:00&lt;br/&gt;Updated: 2026-04-28T00:27:25+09:00&lt;br/&gt;🚀 TL;DR
+
+AI（LLM）に生のソースコードを読ませるのは、実は効率の悪い「情報の暴力」である。
+
+AST（抽象構文木）から「構造」だけを抽出したマップこそが、AIのIQを極限まで引き出す。
+データの流入から破綻までをグラフ理論で定義すれば、理論上、脆弱性は100%...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8f9b238ae28e380e6029</id>
@@ -2052,18 +2066,6 @@ Notion、Obsidianで実践している人は多いと思います。私はこれ
 「やってしまった」という痛恨の経験から
 先日、ある案件で久しぶりに「やってしまった」という痛恨の経験をしました。
 対象は10年以上前に開発された、いわゆる「レガシー」なシ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ed256553d10578cfec2a</id>
-    <title>コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）</title>
-    <link rel="alternate" href="https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-28T00:27:25+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/harupython&quot;&gt;harupython&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T19:08:51+09:00&lt;br/&gt;Updated: 2026-04-28T00:27:25+09:00&lt;br/&gt;🚀 TL;DR
-
-AI（LLM）に生のソースコードを読ませるのは、実は効率の悪い「情報の暴力」である。
-
-AST（抽象構文木）から「構造」だけを抽出したマップこそが、AIのIQを極限まで引き出す。
-データの流入から破綻までをグラフ理論で定義すれば、理論上、脆弱性は100%...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3f7faeea52d7eec01b0f</id>
