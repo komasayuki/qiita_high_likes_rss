@@ -393,6 +393,17 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 プロジェクトの背景を説明し直す。コーディング規約を再度伝える。さっき試して失敗したアプローチをま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3c5269610f26e23c5b04</id>
+    <title>Claude CodeのVSCode拡張が使いやすいよ</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/3c5269610f26e23c5b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-26T00:39:30+09:00</updated>
+    <summary type="html">Likes: 123&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T00:39:30+09:00&lt;br/&gt;Updated: 2026-04-26T00:39:30+09:00&lt;br/&gt;皆様、Claude Code使ってますか？
+CLIで利用されている方が大多数だと思いますが、VSCodeの拡張も悪くないよ、というお話です。
+いつのころからか、左右にパネルが出るような構成になっています。
+
+右側が通常（？）のチャット欄で左が過去のセッション一覧みたいな感じ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c841d47f35e9c04c6bee</id>
     <title>「何からやれば...」を卒業する。実務の解像度を劇的に高める3ステップ</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/c841d47f35e9c04c6bee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -412,17 +423,6 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
     <summary type="html">Likes: 121&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akira_papa_AI&quot;&gt;akira_papa_AI&lt;/a&gt;&lt;br/&gt;Published: 2026-03-21T09:01:09+09:00&lt;br/&gt;Updated: 2026-03-21T09:01:09+09:00&lt;br/&gt;はじめに — 同じCursorを使っているのに、なぜ10倍の差がつくのか
 こんな経験、ないでしょうか。
 チームの隣の席の人が、CursorやCopilotで爆速開発している。同じツールを使っているのに、自分のプロジェクトだと全然うまくいかない。AIが的外れなコードを吐く。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3c5269610f26e23c5b04</id>
-    <title>Claude CodeのVSCode拡張が使いやすいよ</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/3c5269610f26e23c5b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-26T00:39:30+09:00</updated>
-    <summary type="html">Likes: 120&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T00:39:30+09:00&lt;br/&gt;Updated: 2026-04-26T00:39:30+09:00&lt;br/&gt;皆様、Claude Code使ってますか？
-CLIで利用されている方が大多数だと思いますが、VSCodeの拡張も悪くないよ、というお話です。
-いつのころからか、左右にパネルが出るような構成になっています。
-
-右側が通常（？）のチャット欄で左が過去のセッション一覧みたいな感じ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4d732a43ac5cdf9daadc</id>
@@ -1521,6 +1521,19 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 国内外の...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b0b2bda52d6fc64f7522</id>
+    <title>【35歳未経験でも理解できた】SQLのJOIN</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/b0b2bda52d6fc64f7522?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-27T14:03:48+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T14:03:48+09:00&lt;br/&gt;Updated: 2026-04-27T14:03:48+09:00&lt;br/&gt;こんにちは！
+35歳、未経験からWebの世界に飛び込んだ者です。
+今回は、SQL最大の難所の一つ「JOIN（結合）」を、
+「カフェのスタンプカード」に例えて、わかりやすく解説します！
+
+JOINとは
+JOINとは： バラバラに保存されたデータを、共通の「合言葉（ID）」でガ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:78fdef38b201985cb0d9</id>
     <title>【GitHub】GitHubは低品質なユーザによるContributeを拒否する仕様を検討・実装中</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/78fdef38b201985cb0d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1551,19 +1564,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 
 この記事を書いた経緯
 去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきまし...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b0b2bda52d6fc64f7522</id>
-    <title>【35歳未経験でも理解できた】SQLのJOIN</title>
-    <link rel="alternate" href="https://qiita.com/wata-sho/items/b0b2bda52d6fc64f7522?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-27T14:03:48+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T14:03:48+09:00&lt;br/&gt;Updated: 2026-04-27T14:03:48+09:00&lt;br/&gt;こんにちは！
-35歳、未経験からWebの世界に飛び込んだ者です。
-今回は、SQL最大の難所の一つ「JOIN（結合）」を、
-「カフェのスタンプカード」に例えて、わかりやすく解説します！
-
-JOINとは
-JOINとは： バラバラに保存されたデータを、共通の「合言葉（ID）」でガ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5a3fad5ec1c80a8be715</id>
