@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-04-27T14:03:48+09:00</updated>
+  <updated>2026-04-28T00:27:25+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -308,6 +308,17 @@ agency-agentsは、144個のAIエージェント定義をMarkdownファイルで
 「開発者として...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3c5269610f26e23c5b04</id>
+    <title>Claude CodeのVSCode拡張が使いやすいよ</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/3c5269610f26e23c5b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-26T00:39:30+09:00</updated>
+    <summary type="html">Likes: 138&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T00:39:30+09:00&lt;br/&gt;Updated: 2026-04-26T00:39:30+09:00&lt;br/&gt;皆様、Claude Code使ってますか？
+CLIで利用されている方が大多数だと思いますが、VSCodeの拡張も悪くないよ、というお話です。
+いつのころからか、左右にパネルが出るような構成になっています。
+
+右側が通常（？）のチャット欄で左が過去のセッション一覧みたいな感じ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6743216583b66168ec12</id>
     <title>Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた</title>
     <link rel="alternate" href="https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -335,17 +346,6 @@ Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使�
 こんばんは、mirukyです。
 昨年、データベーススペシャリスト試験に挑戦しましたが、午後II試験に 3点差 で落ちました、、(泣)
 そんな私ですが、勉強の過程や実務を通じてデータベース（DB）に関してはかなり自信がついたので、まとめたナレッジを共有できれば...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3c5269610f26e23c5b04</id>
-    <title>Claude CodeのVSCode拡張が使いやすいよ</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/3c5269610f26e23c5b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-26T00:39:30+09:00</updated>
-    <summary type="html">Likes: 134&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T00:39:30+09:00&lt;br/&gt;Updated: 2026-04-26T00:39:30+09:00&lt;br/&gt;皆様、Claude Code使ってますか？
-CLIで利用されている方が大多数だと思いますが、VSCodeの拡張も悪くないよ、というお話です。
-いつのころからか、左右にパネルが出るような構成になっています。
-
-右側が通常（？）のチャット欄で左が過去のセッション一覧みたいな感じ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2777af8e9912d6bbbbb3</id>
@@ -1378,6 +1378,19 @@ PRUMについて気になった方は、
 【後編】「また指摘され...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b0b2bda52d6fc64f7522</id>
+    <title>【35歳未経験でも理解できた】SQLのJOIN</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/b0b2bda52d6fc64f7522?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-27T14:03:48+09:00</updated>
+    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T14:03:48+09:00&lt;br/&gt;Updated: 2026-04-27T14:03:48+09:00&lt;br/&gt;こんにちは！
+35歳、未経験からWebの世界に飛び込んだ者です。
+今回は、SQL最大の難所の一つ「JOIN（結合）」を、
+「カフェのスタンプカード」に例えて、わかりやすく解説します！
+
+JOINとは
+JOINとは： バラバラに保存されたデータを、共通の「合言葉（ID）」でガ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ccc64ce6504c77100cfb</id>
     <title>AI駆動開発の手法は分岐するが、本質は一点に収束する ― 現場で6週間議論して辿り着いた結論</title>
     <link rel="alternate" href="https://qiita.com/ko1-ino/items/ccc64ce6504c77100cfb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1442,19 +1455,6 @@ EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
 ◾︎ClaudeCodeの動画
 https://youtu.be/ca5HjfclrjE?si=qvIC26aAa99SnOux
 使ってみたいと思いつつ、私は客先業務で貸与...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b0b2bda52d6fc64f7522</id>
-    <title>【35歳未経験でも理解できた】SQLのJOIN</title>
-    <link rel="alternate" href="https://qiita.com/wata-sho/items/b0b2bda52d6fc64f7522?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-27T14:03:48+09:00</updated>
-    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T14:03:48+09:00&lt;br/&gt;Updated: 2026-04-27T14:03:48+09:00&lt;br/&gt;こんにちは！
-35歳、未経験からWebの世界に飛び込んだ者です。
-今回は、SQL最大の難所の一つ「JOIN（結合）」を、
-「カフェのスタンプカード」に例えて、わかりやすく解説します！
-
-JOINとは
-JOINとは： バラバラに保存されたデータを、共通の「合言葉（ID）」でガ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:021eaec14a0970ee1c0b</id>
@@ -2054,6 +2054,18 @@ Notion、Obsidianで実践している人は多いと思います。私はこれ
 対象は10年以上前に開発された、いわゆる「レガシー」なシ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ed256553d10578cfec2a</id>
+    <title>コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）</title>
+    <link rel="alternate" href="https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-28T00:27:25+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/harupython&quot;&gt;harupython&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T19:08:51+09:00&lt;br/&gt;Updated: 2026-04-28T00:27:25+09:00&lt;br/&gt;🚀 TL;DR
+
+AI（LLM）に生のソースコードを読ませるのは、実は効率の悪い「情報の暴力」である。
+
+AST（抽象構文木）から「構造」だけを抽出したマップこそが、AIのIQを極限まで引き出す。
+データの流入から破綻までをグラフ理論で定義すれば、理論上、脆弱性は100%...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3f7faeea52d7eec01b0f</id>
     <title>Bonsai-8B考察 — 1-bit LLMは使い物になるのか</title>
     <link rel="alternate" href="https://qiita.com/y0kud4/items/3f7faeea52d7eec01b0f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2206,13 +2218,5 @@ RAGは外部知識をLLMに注入する手法として定着しました。
 2ホップ推論の壁
 社内ドキュメントをRAGで検索するシステムを考えます。
 以下の情報がそ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:77d1e3bd0853b5f853b8</id>
-    <title>AIレビューがあっても人がコードを読む理由</title>
-    <link rel="alternate" href="https://qiita.com/autotaker1984/items/77d1e3bd0853b5f853b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-23T08:17:39+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/autotaker1984&quot;&gt;autotaker1984&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T08:17:39+09:00&lt;br/&gt;Updated: 2026-03-23T08:17:39+09:00&lt;br/&gt;1. AIレビューは強い。それでもコードベースは腐る
-最近のコードレビューAIは、もう lint の延長ではありません。少なくとも私の感覚では、実装上の局所的な correctness に関しては、すでに人間のレビューより鋭い場面があります。race condition ...</summary>
   </entry>
 </feed>
