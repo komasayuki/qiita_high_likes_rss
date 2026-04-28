@@ -279,7 +279,7 @@ PRUMについて気になった方は、
     <title>Claude CodeのVSCode拡張が使いやすいよ</title>
     <link rel="alternate" href="https://qiita.com/moritalous/items/3c5269610f26e23c5b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-26T00:39:30+09:00</updated>
-    <summary type="html">Likes: 148&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T00:39:30+09:00&lt;br/&gt;Updated: 2026-04-26T00:39:30+09:00&lt;br/&gt;皆様、Claude Code使ってますか？
+    <summary type="html">Likes: 149&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T00:39:30+09:00&lt;br/&gt;Updated: 2026-04-26T00:39:30+09:00&lt;br/&gt;皆様、Claude Code使ってますか？
 CLIで利用されている方が大多数だと思いますが、VSCodeの拡張も悪くないよ、というお話です。
 いつのころからか、左右にパネルが出るような構成になっています。
 
@@ -1882,6 +1882,18 @@ GitHub: nezmickey/Zenith
 Claude Codeを日常的に使っているのですが、ここ1年ほどでSkills、プラグイン、Agent Teams、Hooksの進化…とアップデートが立て続けに入...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ed256553d10578cfec2a</id>
+    <title>コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）</title>
+    <link rel="alternate" href="https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-28T00:27:25+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/harupython&quot;&gt;harupython&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T19:08:51+09:00&lt;br/&gt;Updated: 2026-04-28T00:27:25+09:00&lt;br/&gt;🚀 TL;DR
+
+AI（LLM）に生のソースコードを読ませるのは、実は効率の悪い「情報の暴力」である。
+
+AST（抽象構文木）から「構造」だけを抽出したマップこそが、AIのIQを極限まで引き出す。
+データの流入から破綻までをグラフ理論で定義すれば、理論上、脆弱性は100%...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f6fa910cb0c7efe2defc</id>
     <title>Claude Codeのコード流出から考える開発者の倫理</title>
     <link rel="alternate" href="https://qiita.com/mosaxiv/items/f6fa910cb0c7efe2defc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1902,18 +1914,6 @@ npmパッケージのリリース時にソースマップファイル（.map）�
 
 ローカルLLM
 ローカルLLMとは、ChatGPTのようなクラウドサービスを利用するのではなく、自分のPCや自社サーバーなどのローカル環境（オンプレミス）で大規模言語モデル（L...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ed256553d10578cfec2a</id>
-    <title>コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）</title>
-    <link rel="alternate" href="https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-28T00:27:25+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/harupython&quot;&gt;harupython&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T19:08:51+09:00&lt;br/&gt;Updated: 2026-04-28T00:27:25+09:00&lt;br/&gt;🚀 TL;DR
-
-AI（LLM）に生のソースコードを読ませるのは、実は効率の悪い「情報の暴力」である。
-
-AST（抽象構文木）から「構造」だけを抽出したマップこそが、AIのIQを極限まで引き出す。
-データの流入から破綻までをグラフ理論で定義すれば、理論上、脆弱性は100%...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7dab609ef95bf030f217</id>
