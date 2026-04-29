@@ -961,6 +961,16 @@ MinIO は Amazon S3 互換の API を備えたオブジェクトストレージ�
 docker-compose.yml に数行書くだけで S3 互換のストレージが立ち上がるため、ローカル開発環境の S3 モックとして広く使われてきました。DockerHu...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c2df4f23d73a8e05f37f</id>
+    <title>GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/c2df4f23d73a8e05f37f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-27T18:00:30+09:00</updated>
+    <summary type="html">Likes: 77&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T18:00:30+09:00&lt;br/&gt;Updated: 2026-04-27T18:00:30+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+GWは、まとまった学習時間を確保しやすい数少ないタイミングです。普段は業務や家事で後回しになりがちな基礎の穴埋めや、気になっていた分野の入門学習に、本腰を入れやすい期間でもあります。
+この記事では、よくおすすめされる技術書をカテ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:07b7926408a3447b6665</id>
     <title>「エンジニアは難しい」は本当か？― 未経験の自分が勘違いしていた“難しさ”の正体 ―</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/07b7926408a3447b6665?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1005,16 +1015,6 @@ Webの勉強を始めてすぐ、こんなことありませんか？
 「Claude Codeで開発してるけど、1つずつ順番にIssueを片付けるのが遅い…」
 そんな悩みを解決するために、Issue起票から並列開発、PR作成までを一気通貫で自動化するワークフローを構築しました。
 具体的には、Claude CodeのSkillsを組...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c2df4f23d73a8e05f37f</id>
-    <title>GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/c2df4f23d73a8e05f37f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-27T18:00:30+09:00</updated>
-    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T18:00:30+09:00&lt;br/&gt;Updated: 2026-04-27T18:00:30+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-GWは、まとまった学習時間を確保しやすい数少ないタイミングです。普段は業務や家事で後回しになりがちな基礎の穴埋めや、気になっていた分野の入門学習に、本腰を入れやすい期間でもあります。
-この記事では、よくおすすめされる技術書をカテ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d3f222758833cb694672</id>
@@ -1431,6 +1431,16 @@ PRUMについて気になった方は、
 EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:afdd509365a770598fc4</id>
+    <title>API Gateway → Lambda の間で何が行われているかを易しく解説</title>
+    <link rel="alternate" href="https://qiita.com/hosomatu/items/afdd509365a770598fc4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-28T08:52:18+09:00</updated>
+    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hosomatu&quot;&gt;hosomatu&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T08:38:36+09:00&lt;br/&gt;Updated: 2026-04-28T08:52:18+09:00&lt;br/&gt;記事を書いたきっかけ
+人に教えることが増えてきたので、説明用にまとめてみました。
+「間の部分がわからない」という質問をよく受けるのですが、結局API Gatewayのことですね、ってパターンが多いのでこのようなタイトルにしました。
+API Gatewayの初級~中級レベル...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8b870661f80d63499336</id>
     <title>Claude Code 初学者ロードマップ</title>
     <link rel="alternate" href="https://qiita.com/marugame/items/8b870661f80d63499336?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1509,16 +1519,6 @@ PRUMについて気になった方は、
 この記事では、データの扱い方の基本パターンを知ることで、...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:afdd509365a770598fc4</id>
-    <title>API Gateway → Lambda の間で何が行われているかを易しく解説</title>
-    <link rel="alternate" href="https://qiita.com/hosomatu/items/afdd509365a770598fc4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-28T08:52:18+09:00</updated>
-    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hosomatu&quot;&gt;hosomatu&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T08:38:36+09:00&lt;br/&gt;Updated: 2026-04-28T08:52:18+09:00&lt;br/&gt;記事を書いたきっかけ
-人に教えることが増えてきたので、説明用にまとめてみました。
-「間の部分がわからない」という質問をよく受けるのですが、結局API Gatewayのことですね、ってパターンが多いのでこのようなタイトルにしました。
-API Gatewayの初級~中級レベル...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:e644e9b620ee1c8d3c1b</id>
     <title>【初心者必見】今から追いつくClaude Code 入門・徹底解説</title>
     <link rel="alternate" href="https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1538,6 +1538,17 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 国内外の...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8a669c6e0a76d9b1875d</id>
+    <title>新人エンジニアこそ「個人開発」をやろう。完全無料で始めるCloudflareスタック入門</title>
+    <link rel="alternate" href="https://qiita.com/t0hara/items/8a669c6e0a76d9b1875d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-28T11:38:07+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t0hara&quot;&gt;t0hara&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T11:38:06+09:00&lt;br/&gt;Updated: 2026-04-28T11:38:07+09:00&lt;br/&gt;新生活が始まり、限られた時間の中でどう成長していくかは多くの新人エンジニアにとって共通のテーマではないでしょうか。
+数ある学習法の中でも、インプットした知識を「実力」に変えるためのステップとして、今回おすすめするのが個人開発という選択肢です。
+
+はじめに
+新人エンジニアとし...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:78fdef38b201985cb0d9</id>
     <title>【GitHub】GitHubは低品質なユーザによるContributeを拒否する仕様を検討・実装中</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/78fdef38b201985cb0d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1546,17 +1557,6 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 すなわち、プルリクを出すことができるユーザは、ある程度コードを理解しているという前提です。
 開発者Collaboratorと、外部貢献者Contributerは、信頼モデルで結ばれていたのです。
 逆にコードを理解していない人によるプ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8a669c6e0a76d9b1875d</id>
-    <title>新人エンジニアこそ「個人開発」をやろう。完全無料で始めるCloudflareスタック入門</title>
-    <link rel="alternate" href="https://qiita.com/t0hara/items/8a669c6e0a76d9b1875d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-28T11:38:07+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t0hara&quot;&gt;t0hara&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T11:38:06+09:00&lt;br/&gt;Updated: 2026-04-28T11:38:07+09:00&lt;br/&gt;新生活が始まり、限られた時間の中でどう成長していくかは多くの新人エンジニアにとって共通のテーマではないでしょうか。
-数ある学習法の中でも、インプットした知識を「実力」に変えるためのステップとして、今回おすすめするのが個人開発という選択肢です。
-
-はじめに
-新人エンジニアとし...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:24aa3a6728220a112716</id>
@@ -1624,6 +1624,18 @@ GitHub Copilot ファミリー
 GitHub Copilot CL...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ed256553d10578cfec2a</id>
+    <title>コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）</title>
+    <link rel="alternate" href="https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-28T00:27:25+09:00</updated>
+    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/harupython&quot;&gt;harupython&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T19:08:51+09:00&lt;br/&gt;Updated: 2026-04-28T00:27:25+09:00&lt;br/&gt;🚀 TL;DR
+
+AI（LLM）に生のソースコードを読ませるのは、実は効率の悪い「情報の暴力」である。
+
+AST（抽象構文木）から「構造」だけを抽出したマップこそが、AIのIQを極限まで引き出す。
+データの流入から破綻までをグラフ理論で定義すれば、理論上、脆弱性は100%...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:001a7c7d3a35d797ddcb</id>
     <title>データアナリスト3年目が語る「教科書に載ってない」現場のリアル</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/001a7c7d3a35d797ddcb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1679,18 +1691,6 @@ OllamaやLM StudioでローカルLLMを動かしている方
 この記事で得られること
 
 ローカルLLM基盤を狙う主...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ed256553d10578cfec2a</id>
-    <title>コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）</title>
-    <link rel="alternate" href="https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-28T00:27:25+09:00</updated>
-    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/harupython&quot;&gt;harupython&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T19:08:51+09:00&lt;br/&gt;Updated: 2026-04-28T00:27:25+09:00&lt;br/&gt;🚀 TL;DR
-
-AI（LLM）に生のソースコードを読ませるのは、実は効率の悪い「情報の暴力」である。
-
-AST（抽象構文木）から「構造」だけを抽出したマップこそが、AIのIQを極限まで引き出す。
-データの流入から破綻までをグラフ理論で定義すれば、理論上、脆弱性は100%...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b11ebbcf7e14ff251b76</id>
