@@ -962,15 +962,6 @@ Claude Codeを使っていて、こんな経験はありませんか？
 現実とは、筆者が...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b9073cce25766508485a</id>
-    <title>MinIO、知らないうちに終了していた</title>
-    <link rel="alternate" href="https://qiita.com/kuma_3838/items/b9073cce25766508485a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-26T10:04:26+09:00</updated>
-    <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T01:27:19+09:00&lt;br/&gt;Updated: 2026-02-26T10:04:26+09:00&lt;br/&gt;はじめに
-MinIO は Amazon S3 互換の API を備えたオブジェクトストレージです。
-docker-compose.yml に数行書くだけで S3 互換のストレージが立ち上がるため、ローカル開発環境の S3 モックとして広く使われてきました。DockerHu...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:07b7926408a3447b6665</id>
     <title>「エンジニアは難しい」は本当か？― 未経験の自分が勘違いしていた“難しさ”の正体 ―</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/07b7926408a3447b6665?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2208,5 +2199,19 @@ Unity で演出を作っていると、ほぼ確実にスキップ機能が必�
 こんばんは、mirukyです。
 個人的にAIにデザインを指定するのって、意外と難しいと思っています。
 皆さん、DESIGN.mdをご存知でしょうか。GoogleがStitchプロジェクトの一部として策定した、マークダウンベースのデザインシステム仕様です。「AI...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9eedb6b88eb84042e699</id>
+    <title>ナレッジグラフ×LLM実践入門 ── RAGの次のアーキテクチャを理解する</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/9eedb6b88eb84042e699?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-24T10:36:13+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T10:36:13+09:00&lt;br/&gt;Updated: 2026-03-24T10:36:13+09:00&lt;br/&gt;RAGの限界 ── ベクトル検索では解けない問い
+RAGは外部知識をLLMに注入する手法として定着しました。
+しかし、ベクトル検索には構造的な弱点があります。
+具体例で確認します。
+
+2ホップ推論の壁
+社内ドキュメントをRAGで検索するシステムを考えます。
+以下の情報がそ...</summary>
   </entry>
 </feed>
