@@ -328,7 +328,7 @@ Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使�
     <title>GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/c2df4f23d73a8e05f37f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-27T18:00:30+09:00</updated>
-    <summary type="html">Likes: 131&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T18:00:30+09:00&lt;br/&gt;Updated: 2026-04-27T18:00:30+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 133&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T18:00:30+09:00&lt;br/&gt;Updated: 2026-04-27T18:00:30+09:00&lt;br/&gt;はじめに
 こんばんは、mirukyです。
 GWは、まとまった学習時間を確保しやすい数少ないタイミングです。普段は業務や家事で後回しになりがちな基礎の穴埋めや、気になっていた分野の入門学習に、本腰を入れやすい期間でもあります。
 この記事では、よくおすすめされる技術書をカテ...</summary>
@@ -381,7 +381,7 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
     <title>新人エンジニアこそ「個人開発」をやろう。完全無料で始めるCloudflareスタック入門</title>
     <link rel="alternate" href="https://qiita.com/t0hara/items/8a669c6e0a76d9b1875d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-28T11:38:07+09:00</updated>
-    <summary type="html">Likes: 122&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t0hara&quot;&gt;t0hara&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T11:38:06+09:00&lt;br/&gt;Updated: 2026-04-28T11:38:07+09:00&lt;br/&gt;新生活が始まり、限られた時間の中でどう成長していくかは多くの新人エンジニアにとって共通のテーマではないでしょうか。
+    <summary type="html">Likes: 123&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t0hara&quot;&gt;t0hara&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T11:38:06+09:00&lt;br/&gt;Updated: 2026-04-28T11:38:07+09:00&lt;br/&gt;新生活が始まり、限られた時間の中でどう成長していくかは多くの新人エンジニアにとって共通のテーマではないでしょうか。
 数ある学習法の中でも、インプットした知識を「実力」に変えるためのステップとして、今回おすすめするのが個人開発という選択肢です。
 
 はじめに
@@ -1859,6 +1859,18 @@ npmパッケージのリリース時にソースマップファイル（.map）�
 ローカルLLMとは、ChatGPTのようなクラウドサービスを利用するのではなく、自分のPCや自社サーバーなどのローカル環境（オンプレミス）で大規模言語モデル（L...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:091cb4ef066abfb1e06b</id>
+    <title>【書評】Qiita貢献度1位の『技術記事を書く技術』は、エンジニアの机に置いてほしい</title>
+    <link rel="alternate" href="https://qiita.com/ssaita/items/091cb4ef066abfb1e06b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-28T08:39:54+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssaita&quot;&gt;ssaita&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T06:39:48+09:00&lt;br/&gt;Updated: 2026-04-28T08:39:54+09:00&lt;br/&gt;はじめに
+この記事は、Qiitaのコントリビューションランキング総合1位である伊藤淳一さんが執筆された、『技術記事を書く技術』を読んだ感想を記したものです。
+この記事の読者として以下のような方々を想定しています。
+
+この本に興味がある人
+QiitaやZenn、ブログで記...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7dab609ef95bf030f217</id>
     <title>Neovim で最高の Markdown ビューワーを作る - md-render.nvim</title>
     <link rel="alternate" href="https://qiita.com/delphinus/items/7dab609ef95bf030f217?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2008,18 +2020,6 @@ ChatGPTやClaude、Geminiなどのクラウド型AIは非常に便利ですが�
 自分の思考・知識・アイデアを全て外部に書き出し、検索可能にする——いわゆる「第二の脳（Second Brain）」。
 Notion、Obsidianで実践している人は多いと思います。私はこれをGitリポジトリ + Claude Codeで構築しました。
 最初は「...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:091cb4ef066abfb1e06b</id>
-    <title>【書評】Qiita貢献度1位の『技術記事を書く技術』は、エンジニアの机に置いてほしい</title>
-    <link rel="alternate" href="https://qiita.com/ssaita/items/091cb4ef066abfb1e06b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-28T08:39:54+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssaita&quot;&gt;ssaita&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T06:39:48+09:00&lt;br/&gt;Updated: 2026-04-28T08:39:54+09:00&lt;br/&gt;はじめに
-この記事は、Qiitaのコントリビューションランキング総合1位である伊藤淳一さんが執筆された、『技術記事を書く技術』を読んだ感想を記したものです。
-この記事の読者として以下のような方々を想定しています。
-
-この本に興味がある人
-QiitaやZenn、ブログで記...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3f7faeea52d7eec01b0f</id>
