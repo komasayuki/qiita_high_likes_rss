@@ -1432,16 +1432,6 @@ PRUMについて気になった方は、
 EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:8b870661f80d63499336</id>
-    <title>Claude Code 初学者ロードマップ</title>
-    <link rel="alternate" href="https://qiita.com/marugame/items/8b870661f80d63499336?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-02-26T23:05:52+09:00</updated>
-    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/marugame&quot;&gt;marugame&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T23:05:52+09:00&lt;br/&gt;Updated: 2026-02-26T23:05:52+09:00&lt;br/&gt;最近、下記YouTubeの動画や、記事を見てClaudeCodeが再注目されていることを知りました。
-◾︎ClaudeCodeの動画
-https://youtu.be/ca5HjfclrjE?si=qvIC26aAa99SnOux
-使ってみたいと思いつつ、私は客先業務で貸与...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b1a956add6ec342f31b5</id>
     <title>【初学者向け】「なんとなくコード書く」を卒業するためのアルゴリズム入門</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/b1a956add6ec342f31b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1646,16 +1636,6 @@ draw.io はアーキテクチャ図を作成する際によく使われるツー
 この記事は、「PRレビュー、順番待ちやめました — AI時代の&quot;交通整理&quot;を自動化した話」の続編です。
 
 前回の記事では、Claude Code を使った ローカル環境でのコードレビュー 手法を紹介しました。自作の review-pr コマンドを活用し、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:de6c1ba8ebbd4a20d8ee</id>
-    <title>n8nで「魂」をJSON化したら、毎朝8時に10言語でアフィリエイト記事を自動生成する化け物パイプラインが完成した話</title>
-    <link rel="alternate" href="https://qiita.com/YushiYamamoto/items/de6c1ba8ebbd4a20d8ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-01T19:41:40+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YushiYamamoto&quot;&gt;YushiYamamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T22:02:10+09:00&lt;br/&gt;Updated: 2026-03-01T19:41:40+09:00&lt;br/&gt;「魂の欠如」からの逆襲
-前回の記事『n8nで記事自動生成パイプラインを作ったら、1週間で40本→0本になった話』では、多くの反響をいただいた。
-
-AIに完全丸投げした記事には「人間の体験（魂）」がなく、読む価値がゼロであること。そして、手動で人間の泥臭い体験談を追記...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b11ebbcf7e14ff251b76</id>
@@ -2207,5 +2187,22 @@ RAGは外部知識をLLMに注入する手法として定着しました。
     <updated>2026-03-23T08:17:39+09:00</updated>
     <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/autotaker1984&quot;&gt;autotaker1984&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T08:17:39+09:00&lt;br/&gt;Updated: 2026-03-23T08:17:39+09:00&lt;br/&gt;1. AIレビューは強い。それでもコードベースは腐る
 最近のコードレビューAIは、もう lint の延長ではありません。少なくとも私の感覚では、実装上の局所的な correctness に関しては、すでに人間のレビューより鋭い場面があります。race condition ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:6c4e74972eeb0d1a6fb2</id>
+    <title>Claude Code のスキルを「中央集権しない」で配る、chezmoi dotfiles スターターキット</title>
+    <link rel="alternate" href="https://qiita.com/kamo-shika/items/6c4e74972eeb0d1a6fb2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-22T22:32:13+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamo-shika&quot;&gt;kamo-shika&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T22:32:12+09:00&lt;br/&gt;Updated: 2026-04-22T22:32:13+09:00&lt;br/&gt;はじめに
+Claude Code をはじめとする AI コーディングエージェントで、「スキル（Skills）」が運用の中核になってきています。プロンプトやワークフロー、禁則事項を SKILL.md にまとめておくと、エージェントが必要なタイミングで自動的に読み出して振る舞...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d2694937d2ebcd442060</id>
+    <title>生成AIで誰でもオシャレなパワポを作る方法</title>
+    <link rel="alternate" href="https://qiita.com/yamazombie/items/d2694937d2ebcd442060?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-27T06:29:24+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamazombie&quot;&gt;yamazombie&lt;/a&gt;&lt;br/&gt;Published: 2026-03-26T07:31:59+09:00&lt;br/&gt;Updated: 2026-03-27T06:29:24+09:00&lt;br/&gt;はじめに
+こんにちは！ AI エンジニアのヤマゾーです。突然ですが、このたび生成 AI プロジェクトに関わる人に向けた技術書を出版しました。細部まで拘って約 1 年かけて書いたこともあり、周りからも「図解がわかりやすい」「断片的な知識が繋がった」とかなり好評でした。
+なん...</summary>
   </entry>
 </feed>
