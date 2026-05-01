@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-04-30T11:17:33+09:00</updated>
+  <updated>2026-05-01T12:03:24+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1683,6 +1683,19 @@ Morpho社の調査が興味深いデータを出しています。SWE-benchに�
 非エンジニアでもClaude CoworkやClaude Codeを利用して業務を行って...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:864876245891c0cbb127</id>
+    <title>「クラウドだから大丈夫」は危険です ― 新人エンジニアがやりがちな“信頼性の勘違い”</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/864876245891c0cbb127?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-01T12:03:24+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T12:03:23+09:00&lt;br/&gt;Updated: 2026-05-01T12:03:24+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「クラウドだか...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:893660ef56844d62729e</id>
     <title>DRY / KISS / YAGNI をC#で理解する：現場で使えるシンプル設計原則まとめ</title>
     <link rel="alternate" href="https://qiita.com/hiroki_notes/items/893660ef56844d62729e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2195,14 +2208,5 @@ RAGは外部知識をLLMに注入する手法として定着しました。
     <updated>2026-04-22T22:32:13+09:00</updated>
     <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamo-shika&quot;&gt;kamo-shika&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T22:32:12+09:00&lt;br/&gt;Updated: 2026-04-22T22:32:13+09:00&lt;br/&gt;はじめに
 Claude Code をはじめとする AI コーディングエージェントで、「スキル（Skills）」が運用の中核になってきています。プロンプトやワークフロー、禁則事項を SKILL.md にまとめておくと、エージェントが必要なタイミングで自動的に読み出して振る舞...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d2694937d2ebcd442060</id>
-    <title>生成AIで誰でもオシャレなパワポを作る方法</title>
-    <link rel="alternate" href="https://qiita.com/yamazombie/items/d2694937d2ebcd442060?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-27T06:29:24+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamazombie&quot;&gt;yamazombie&lt;/a&gt;&lt;br/&gt;Published: 2026-03-26T07:31:59+09:00&lt;br/&gt;Updated: 2026-03-27T06:29:24+09:00&lt;br/&gt;はじめに
-こんにちは！ AI エンジニアのヤマゾーです。突然ですが、このたび生成 AI プロジェクトに関わる人に向けた技術書を出版しました。細部まで拘って約 1 年かけて書いたこともあり、周りからも「図解がわかりやすい」「断片的な知識が繋がった」とかなり好評でした。
-なん...</summary>
   </entry>
 </feed>
