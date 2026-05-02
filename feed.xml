@@ -1569,6 +1569,17 @@ AIを導入すると、実装スピードは確実に上がります。
 仕様書は「ずっと保守する正本」で...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e568f199e5753d3bb1b2</id>
+    <title>Copy Fail とは？（結構詳しめ）</title>
+    <link rel="alternate" href="https://qiita.com/fiord/items/e568f199e5753d3bb1b2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-01T00:59:47+09:00</updated>
+    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fiord&quot;&gt;fiord&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T00:59:47+09:00&lt;br/&gt;Updated: 2026-05-01T00:59:47+09:00&lt;br/&gt;要約
+Copy Fail(CVE-2026-31431) という脆弱性が報告されました。
+
+Linux にて簡単に特権昇格(root権限でコマンドの実行が出来るようになる）が出来る脆弱性
+2017 年以降にリリースされた全ての Linux ディストリビューションが対象とさ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
     <title>LinuxエンジニアのためのWindowsセキュリティ再入門 〜 第1回：はじめに —— なぜ今、LinuxエンジニアがWindowsセキュリティを学ぶのか</title>
     <link rel="alternate" href="https://qiita.com/555hamano/items/e9e1dce9e2dbc574a93f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1581,17 +1592,6 @@ Linux prod-server 5.15.0 #1 SMP x86_64 GNU/Linux
 
 「Windowsのセキュリティ？ 情シスやPC管理者の仕事でしょ？」
 そう思っているLinu...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e568f199e5753d3bb1b2</id>
-    <title>Copy Fail とは？（結構詳しめ）</title>
-    <link rel="alternate" href="https://qiita.com/fiord/items/e568f199e5753d3bb1b2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-01T00:59:47+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fiord&quot;&gt;fiord&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T00:59:47+09:00&lt;br/&gt;Updated: 2026-05-01T00:59:47+09:00&lt;br/&gt;要約
-Copy Fail(CVE-2026-31431) という脆弱性が報告されました。
-
-Linux にて簡単に特権昇格(root権限でコマンドの実行が出来るようになる）が出来る脆弱性
-2017 年以降にリリースされた全ての Linux ディストリビューションが対象とさ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6d26b6ffc11d163dfd71</id>
@@ -1692,7 +1692,7 @@ Morpho社の調査が興味深いデータを出しています。SWE-benchに�
     <title>なぜ深層学習は表形式データでツリーモデルに勝てないのか</title>
     <link rel="alternate" href="https://qiita.com/KanNishida/items/4b3a0c02e58c3caa4e4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-30T07:10:38+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KanNishida&quot;&gt;KanNishida&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T07:10:38+09:00&lt;br/&gt;Updated: 2026-04-30T07:10:38+09:00&lt;br/&gt;深層学習がすべてを置き換えると思っていませんか？
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KanNishida&quot;&gt;KanNishida&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T07:10:38+09:00&lt;br/&gt;Updated: 2026-04-30T07:10:38+09:00&lt;br/&gt;深層学習がすべてを置き換えると思っていませんか？
 画像も、自然言語も、音声も。
 あらゆる分野で圧倒的な成果を出してきた深層学習。
 だからこそ、ビジネスの予測モデルにおいても、いずれは深層学習が主役になる。
