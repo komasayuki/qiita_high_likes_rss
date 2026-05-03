@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-05-01T12:03:24+09:00</updated>
+  <updated>2026-05-01T20:02:07+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1329,6 +1329,19 @@ Pythonを使い始めてはや十数年。他の言語も覚えないと思い�
 1. アプリケーション障...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:864876245891c0cbb127</id>
+    <title>「クラウドだから大丈夫」は危険です ― 新人エンジニアがやりがちな“信頼性の勘違い”</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/864876245891c0cbb127?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-01T12:03:24+09:00</updated>
+    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T12:03:23+09:00&lt;br/&gt;Updated: 2026-05-01T12:03:24+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「クラウドだか...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:17c497375ed2c6c3d054</id>
     <title>axios乗っ取り事件の全容 — 39分間で何が起きたか、そして今すぐやるべき防御策</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/17c497375ed2c6c3d054?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1339,19 +1352,6 @@ axiosはJavaScriptで最も使われるHTTPクライアントです。
 週間ダウンロード数は1億回を超えます。
 私自身、ほぼすべてのNode.jsプロジェクトで使っています。
 事件を知っ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:864876245891c0cbb127</id>
-    <title>「クラウドだから大丈夫」は危険です ― 新人エンジニアがやりがちな“信頼性の勘違い”</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/864876245891c0cbb127?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-01T12:03:24+09:00</updated>
-    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T12:03:23+09:00&lt;br/&gt;Updated: 2026-05-01T12:03:24+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-「クラウドだか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:155f3b5a0dcde72fcd10</id>
@@ -1440,7 +1440,7 @@ EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
     <title>Copy Fail とは？（結構詳しめ）</title>
     <link rel="alternate" href="https://qiita.com/fiord/items/e568f199e5753d3bb1b2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-05-01T00:59:47+09:00</updated>
-    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fiord&quot;&gt;fiord&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T00:59:47+09:00&lt;br/&gt;Updated: 2026-05-01T00:59:47+09:00&lt;br/&gt;要約
+    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fiord&quot;&gt;fiord&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T00:59:47+09:00&lt;br/&gt;Updated: 2026-05-01T00:59:47+09:00&lt;br/&gt;要約
 Copy Fail(CVE-2026-31431) という脆弱性が報告されました。
 
 Linux にて簡単に特権昇格(root権限でコマンドの実行が出来るようになる）が出来る脆弱性
@@ -1580,6 +1580,19 @@ AIを導入すると、実装スピードは確実に上がります。
 仕様書は「ずっと保守する正本」で...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4b3a0c02e58c3caa4e4b</id>
+    <title>なぜ深層学習は表形式データでツリーモデルに勝てないのか</title>
+    <link rel="alternate" href="https://qiita.com/KanNishida/items/4b3a0c02e58c3caa4e4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-30T07:10:38+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KanNishida&quot;&gt;KanNishida&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T07:10:38+09:00&lt;br/&gt;Updated: 2026-04-30T07:10:38+09:00&lt;br/&gt;深層学習がすべてを置き換えると思っていませんか？
+画像も、自然言語も、音声も。
+あらゆる分野で圧倒的な成果を出してきた深層学習。
+だからこそ、ビジネスの予測モデルにおいても、いずれは深層学習が主役になる。
+そう考えるのは自然なことです。
+しかし現実は、少し違います。
+顧客...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
     <title>LinuxエンジニアのためのWindowsセキュリティ再入門 〜 第1回：はじめに —— なぜ今、LinuxエンジニアがWindowsセキュリティを学ぶのか</title>
     <link rel="alternate" href="https://qiita.com/555hamano/items/e9e1dce9e2dbc574a93f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1592,19 +1605,6 @@ Linux prod-server 5.15.0 #1 SMP x86_64 GNU/Linux
 
 「Windowsのセキュリティ？ 情シスやPC管理者の仕事でしょ？」
 そう思っているLinu...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4b3a0c02e58c3caa4e4b</id>
-    <title>なぜ深層学習は表形式データでツリーモデルに勝てないのか</title>
-    <link rel="alternate" href="https://qiita.com/KanNishida/items/4b3a0c02e58c3caa4e4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-30T07:10:38+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KanNishida&quot;&gt;KanNishida&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T07:10:38+09:00&lt;br/&gt;Updated: 2026-04-30T07:10:38+09:00&lt;br/&gt;深層学習がすべてを置き換えると思っていませんか？
-画像も、自然言語も、音声も。
-あらゆる分野で圧倒的な成果を出してきた深層学習。
-だからこそ、ビジネスの予測モデルにおいても、いずれは深層学習が主役になる。
-そう考えるのは自然なことです。
-しかし現実は、少し違います。
-顧客...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6d26b6ffc11d163dfd71</id>
@@ -1889,6 +1889,18 @@ delphinu...</summary>
     <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuchi_a&quot;&gt;kimuchi_a&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T19:16:12+09:00&lt;br/&gt;Updated: 2026-04-03T00:19:55+09:00&lt;br/&gt;はじめに：新卒、焦らなくてもいいかも。
 過去の投稿を読んでくださった方は「何回言うねん」と思うかもしれませんが、  私はコーディング未経験の新卒としてこの会社に入社しました。
 周りは優秀な人たちばかりで、同じくコーディング未経験でも、「明らかに自分よりできる」人がごろごろ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3c744bb8fd71dc4550af</id>
+    <title>個人開発の運用コストを本当に0円にした技術選定と設計判断のすべて</title>
+    <link rel="alternate" href="https://qiita.com/teppei19980914/items/3c744bb8fd71dc4550af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-01T20:02:07+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T20:02:07+09:00&lt;br/&gt;Updated: 2026-05-01T20:02:07+09:00&lt;br/&gt;筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
+👉 ポートフォリオ: 筆者ホームページ
+
+この記事は約5分で読めます。
+
+「個人...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5dde0a7259d142d88551</id>
@@ -2197,20 +2209,16 @@ RAGは外部知識をLLMに注入する手法として定着しました。
 最近のコードレビューAIは、もう lint の延長ではありません。少なくとも私の感覚では、実装上の局所的な correctness に関しては、すでに人間のレビューより鋭い場面があります。race condition ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:6c4e74972eeb0d1a6fb2</id>
-    <title>Claude Code のスキルを「中央集権しない」で配る、chezmoi dotfiles スターターキット</title>
-    <link rel="alternate" href="https://qiita.com/kamo-shika/items/6c4e74972eeb0d1a6fb2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-22T22:32:13+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamo-shika&quot;&gt;kamo-shika&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T22:32:12+09:00&lt;br/&gt;Updated: 2026-04-22T22:32:13+09:00&lt;br/&gt;はじめに
-Claude Code をはじめとする AI コーディングエージェントで、「スキル（Skills）」が運用の中核になってきています。プロンプトやワークフロー、禁則事項を SKILL.md にまとめておくと、エージェントが必要なタイミングで自動的に読み出して振る舞...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d2694937d2ebcd442060</id>
-    <title>生成AIで誰でもオシャレなパワポを作る方法</title>
-    <link rel="alternate" href="https://qiita.com/yamazombie/items/d2694937d2ebcd442060?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-27T06:29:24+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamazombie&quot;&gt;yamazombie&lt;/a&gt;&lt;br/&gt;Published: 2026-03-26T07:31:59+09:00&lt;br/&gt;Updated: 2026-03-27T06:29:24+09:00&lt;br/&gt;はじめに
-こんにちは！ AI エンジニアのヤマゾーです。突然ですが、このたび生成 AI プロジェクトに関わる人に向けた技術書を出版しました。細部まで拘って約 1 年かけて書いたこともあり、周りからも「図解がわかりやすい」「断片的な知識が繋がった」とかなり好評でした。
-なん...</summary>
+    <id>tag:qiita.com,2026:c9e42de497a9eff2b680</id>
+    <title>SKILL.mdを使っている人は全員&quot;gh skill&quot;も知っておいてください</title>
+    <link rel="alternate" href="https://qiita.com/TooMe/items/c9e42de497a9eff2b680?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-30T11:51:29+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TooMe&quot;&gt;TooMe&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T11:51:29+09:00&lt;br/&gt;Updated: 2026-04-30T11:51:29+09:00&lt;br/&gt;はじめに
+
+本記事は以下の記事等で「Agent Skills (SKILL.md)」について知っている前提で書いています。まだ読んでいない方は先にこちらをどうぞ！
+
+【最新版】GitHub Copilotを使っている人は全員&quot;SKILL.md&quot;も導入してください
+
+...</summary>
   </entry>
 </feed>
