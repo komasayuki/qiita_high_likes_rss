@@ -1069,14 +1069,6 @@ JOINとは： バラバラに保存されたデータを、共通の「合言葉
 突然ですが、LINEなどのチャットアプリで、自分が何も操作していないのに「ポンッ」と新しいメッセージが表示されるのって、不思議に思ったことはありませんか...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:392934f79e943e8b9228</id>
-    <title>Claude Codeベストプラクティス -- 成果を安定させる7つの鉄則</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/392934f79e943e8b9228?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-04T12:26:47+09:00</updated>
-    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T17:38:55+09:00&lt;br/&gt;Updated: 2026-03-04T12:26:47+09:00&lt;br/&gt;Claude Codeの公式ベストプラクティスには、成果を安定させるためのパターンが数多く掲載されている。ただ、情報量が多く、どこから手をつければよいか迷う人も多いのではないだろうか。
-本記事では、公式ドキュメントの内容を参考に、特に押さえておきたいポイントを7つの鉄則とし...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:3df8598b3ebaf1eb6888</id>
     <title>【初学者向け】「どう並べて、どう取り出すか」で変わる - データ構造の基礎</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/3df8598b3ebaf1eb6888?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1661,16 +1653,6 @@ draw.io はアーキテクチャ図を作成する際によく使われるツー
 ただし、アーキテクチャ図を作る作...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:d93e4fbc1c1ddda02a53</id>
-    <title>追加コストゼロでClaude Codeの個人サブスクでGitHub Actions自動化</title>
-    <link rel="alternate" href="https://qiita.com/sapeet-lin/items/d93e4fbc1c1ddda02a53?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-02T10:53:34+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sapeet-lin&quot;&gt;sapeet-lin&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T10:53:34+09:00&lt;br/&gt;Updated: 2026-03-02T10:53:34+09:00&lt;br/&gt;この記事について
-この記事は、「PRレビュー、順番待ちやめました — AI時代の&quot;交通整理&quot;を自動化した話」の続編です。
-
-前回の記事では、Claude Code を使った ローカル環境でのコードレビュー 手法を紹介しました。自作の review-pr コマンドを活用し、...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b11ebbcf7e14ff251b76</id>
     <title>Figmaから Pencil.dev に乗り換えを検討してみた Part.1【検証編】</title>
     <link rel="alternate" href="https://qiita.com/kobayashimakoto/items/b11ebbcf7e14ff251b76?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2228,5 +2210,24 @@ RAGは外部知識をLLMに注入する手法として定着しました。
     <updated>2026-04-22T22:32:13+09:00</updated>
     <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamo-shika&quot;&gt;kamo-shika&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T22:32:12+09:00&lt;br/&gt;Updated: 2026-04-22T22:32:13+09:00&lt;br/&gt;はじめに
 Claude Code をはじめとする AI コーディングエージェントで、「スキル（Skills）」が運用の中核になってきています。プロンプトやワークフロー、禁則事項を SKILL.md にまとめておくと、エージェントが必要なタイミングで自動的に読み出して振る舞...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d2694937d2ebcd442060</id>
+    <title>生成AIで誰でもオシャレなパワポを作る方法</title>
+    <link rel="alternate" href="https://qiita.com/yamazombie/items/d2694937d2ebcd442060?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-27T06:29:24+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamazombie&quot;&gt;yamazombie&lt;/a&gt;&lt;br/&gt;Published: 2026-03-26T07:31:59+09:00&lt;br/&gt;Updated: 2026-03-27T06:29:24+09:00&lt;br/&gt;はじめに
+こんにちは！ AI エンジニアのヤマゾーです。突然ですが、このたび生成 AI プロジェクトに関わる人に向けた技術書を出版しました。細部まで拘って約 1 年かけて書いたこともあり、周りからも「図解がわかりやすい」「断片的な知識が繋がった」とかなり好評でした。
+なん...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ed8662412cc98a0d5868</id>
+    <title>AWS Community Builders（Serverless）に選出されました</title>
+    <link rel="alternate" href="https://qiita.com/tetutetu214/items/ed8662412cc98a0d5868?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-19T23:38:54+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetutetu214&quot;&gt;tetutetu214&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T22:45:32+09:00&lt;br/&gt;Updated: 2026-03-19T23:38:54+09:00&lt;br/&gt;はじめに
+この度 AWS Community Builders 2026 に Serverless カテゴリーで応募し、選出いただきました。
+この記事では、結果的に選出へと繋がった「私がこの1年、どんな思いをもって取り組んできたのか」についてまとめます。
+応募を検討してい...</summary>
   </entry>
 </feed>
