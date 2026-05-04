@@ -1779,6 +1779,26 @@ PdMや事業責任者へのキャリアチェンジを考えている人
     <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aki_number16&quot;&gt;aki_number16&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T12:14:37+09:00&lt;br/&gt;Updated: 2026-03-08T12:14:37+09:00&lt;br/&gt;最近、マイクロサービスやフロントエンド開発の文脈でよく耳にするのが「BFF」です。「フロントエンドのためのバックエンド」という名前は知っていましたが、いざ「API Gatewayと何が違うの？」とか「具体的に何を担当させるべき？」と聞かれると、意外と言語化が難しいものです。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8e6607a09cb8ff86c298</id>
+    <title>【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法</title>
+    <link rel="alternate" href="https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-03T16:32:16+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T16:32:16+09:00&lt;br/&gt;Updated: 2026-05-03T16:32:16+09:00&lt;br/&gt;結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。
+2026年4月28日、AIコーディングツール「Cursor」にCVSS 9.9（ほぼ満点） の致命的な脆弱性が公開されました。
+あなたが悪意のあるリポジトリをgit cloneする...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ede7d1c0be4a14024857</id>
+    <title>AIエージェントを会社で使いたい！→「え、セキュリティどうするの？」　企業導入への技術的アプローチ</title>
+    <link rel="alternate" href="https://qiita.com/sharu389no/items/ede7d1c0be4a14024857?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-03T01:20:31+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sharu389no&quot;&gt;sharu389no&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T01:20:31+09:00&lt;br/&gt;Updated: 2026-05-03T01:20:31+09:00&lt;br/&gt;この記事を読んでほしい人
+
+Claude Code / Cursor / Copilot などの AIエージェントをチームに導入したい 人
+情シスから「セキュリティ面の対応は？」と聞かれて 技術的に答えたい 人
+「導入したいけどセキュリティが心配」で 手が止まっている 人...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c9e42de497a9eff2b680</id>
     <title>SKILL.mdを使っている人は全員&quot;gh skill&quot;も知っておいてください</title>
     <link rel="alternate" href="https://qiita.com/TooMe/items/c9e42de497a9eff2b680?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1877,15 +1897,6 @@ npmパッケージのリリース時にソースマップファイル（.map）�
 ローカルLLMとは、ChatGPTのようなクラウドサービスを利用するのではなく、自分のPCや自社サーバーなどのローカル環境（オンプレミス）で大規模言語モデル（L...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:8e6607a09cb8ff86c298</id>
-    <title>【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-03T16:32:16+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T16:32:16+09:00&lt;br/&gt;Updated: 2026-05-03T16:32:16+09:00&lt;br/&gt;結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。
-2026年4月28日、AIコーディングツール「Cursor」にCVSS 9.9（ほぼ満点） の致命的な脆弱性が公開されました。
-あなたが悪意のあるリポジトリをgit cloneする...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:7dab609ef95bf030f217</id>
     <title>Neovim で最高の Markdown ビューワーを作る - md-render.nvim</title>
     <link rel="alternate" href="https://qiita.com/delphinus/items/7dab609ef95bf030f217?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1940,17 +1951,6 @@ AIに「いい感じに作って」と言って、本当に「いい感じ」の
 ユーザー登録機能を作って
 
 で、返ってくるコードは...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ede7d1c0be4a14024857</id>
-    <title>AIエージェントを会社で使いたい！→「え、セキュリティどうするの？」　企業導入への技術的アプローチ</title>
-    <link rel="alternate" href="https://qiita.com/sharu389no/items/ede7d1c0be4a14024857?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-03T01:20:31+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sharu389no&quot;&gt;sharu389no&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T01:20:31+09:00&lt;br/&gt;Updated: 2026-05-03T01:20:31+09:00&lt;br/&gt;この記事を読んでほしい人
-
-Claude Code / Cursor / Copilot などの AIエージェントをチームに導入したい 人
-情シスから「セキュリティ面の対応は？」と聞かれて 技術的に答えたい 人
-「導入したいけどセキュリティが心配」で 手が止まっている 人...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8f9b238ae28e380e6029</id>
