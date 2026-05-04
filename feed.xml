@@ -326,6 +326,18 @@ Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使�
 そんな私ですが、勉強の過程や実務を通じてデータベース（DB）に関してはかなり自信がついたので、まとめたナレッジを共有できれば...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3c744bb8fd71dc4550af</id>
+    <title>個人開発の運用コストを本当に0円にした技術選定と設計判断のすべて</title>
+    <link rel="alternate" href="https://qiita.com/teppei19980914/items/3c744bb8fd71dc4550af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-01T20:02:07+09:00</updated>
+    <summary type="html">Likes: 127&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T20:02:07+09:00&lt;br/&gt;Updated: 2026-05-01T20:02:07+09:00&lt;br/&gt;筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
+👉 ポートフォリオ: 筆者ホームページ
+
+この記事は約5分で読めます。
+
+「個人...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:62519da65ca2dc391f0b</id>
     <title>リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法</title>
     <link rel="alternate" href="https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -335,18 +347,6 @@ Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使�
 開発を進めていると、こんな経験をしたことがある方も多いのではないでしょうか。
 新機能の追加やバグ修正によって、既存の機能が壊れてしまう。これを防ぐために行うのが リグレッションテスト(回帰テスト) です。
 本記事で...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3c744bb8fd71dc4550af</id>
-    <title>個人開発の運用コストを本当に0円にした技術選定と設計判断のすべて</title>
-    <link rel="alternate" href="https://qiita.com/teppei19980914/items/3c744bb8fd71dc4550af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-01T20:02:07+09:00</updated>
-    <summary type="html">Likes: 125&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T20:02:07+09:00&lt;br/&gt;Updated: 2026-05-01T20:02:07+09:00&lt;br/&gt;筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
-👉 ポートフォリオ: 筆者ホームページ
-
-この記事は約5分で読めます。
-
-「個人...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8c22966fbd3c125c53dc</id>
@@ -1490,6 +1490,25 @@ PRUMについて気になった方は、
 「また指摘されてしまった...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a6aa0300c3a97648c65c</id>
+    <title>Excel業務を壊さずAPI化する設計入門：現場を敵にしないDXの作り方</title>
+    <link rel="alternate" href="https://qiita.com/satoru_higuchi/items/a6aa0300c3a97648c65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-01T19:26:37+09:00</updated>
+    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satoru_higuchi&quot;&gt;satoru_higuchi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T19:26:37+09:00&lt;br/&gt;Updated: 2026-05-01T19:26:37+09:00&lt;br/&gt;想定読者
+
+DX担当
+情シス
+非エンジニア事業企画
+営業企画
+BPO/BPaaS設計担当
+SaaS PdM
+Excel業務を抱える現場責任者
+API連携を検討するSIer・Webエンジニア
+再エネ・太陽光・蓄電池・補助金・電気料金など、複雑な見積・試算業務を扱う事業者
+
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e644e9b620ee1c8d3c1b</id>
     <title>【初心者必見】今から追いつくClaude Code 入門・徹底解説</title>
     <link rel="alternate" href="https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1507,25 +1526,6 @@ PRUMについて気になった方は、
 みなさん、仕様駆動開発（SDD：Spec-Driven Development）、意識していますか？
 GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一気に注目を集め始めました。
 国内外の...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a6aa0300c3a97648c65c</id>
-    <title>Excel業務を壊さずAPI化する設計入門：現場を敵にしないDXの作り方</title>
-    <link rel="alternate" href="https://qiita.com/satoru_higuchi/items/a6aa0300c3a97648c65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-01T19:26:37+09:00</updated>
-    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satoru_higuchi&quot;&gt;satoru_higuchi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T19:26:37+09:00&lt;br/&gt;Updated: 2026-05-01T19:26:37+09:00&lt;br/&gt;想定読者
-
-DX担当
-情シス
-非エンジニア事業企画
-営業企画
-BPO/BPaaS設計担当
-SaaS PdM
-Excel業務を抱える現場責任者
-API連携を検討するSIer・Webエンジニア
-再エネ・太陽光・蓄電池・補助金・電気料金など、複雑な見積・試算業務を扱う事業者
-
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:091cb4ef066abfb1e06b</id>
@@ -1942,6 +1942,17 @@ AIに「いい感じに作って」と言って、本当に「いい感じ」の
 で、返ってくるコードは...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ede7d1c0be4a14024857</id>
+    <title>AIエージェントを会社で使いたい！→「え、セキュリティどうするの？」　企業導入への技術的アプローチ</title>
+    <link rel="alternate" href="https://qiita.com/sharu389no/items/ede7d1c0be4a14024857?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-03T01:20:31+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sharu389no&quot;&gt;sharu389no&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T01:20:31+09:00&lt;br/&gt;Updated: 2026-05-03T01:20:31+09:00&lt;br/&gt;この記事を読んでほしい人
+
+Claude Code / Cursor / Copilot などの AIエージェントをチームに導入したい 人
+情シスから「セキュリティ面の対応は？」と聞かれて 技術的に答えたい 人
+「導入したいけどセキュリティが心配」で 手が止まっている 人...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8f9b238ae28e380e6029</id>
     <title>Claude Codeの利用状況をチームで可視化するダッシュボードをOSSで公開しました</title>
     <link rel="alternate" href="https://qiita.com/tamepicomaru/items/8f9b238ae28e380e6029?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2015,17 +2026,6 @@ ChatGPTやClaude、Geminiなどのクラウド型AIは非常に便利ですが�
 転職活動の進め方
 
 などをまとめておきま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ede7d1c0be4a14024857</id>
-    <title>AIエージェントを会社で使いたい！→「え、セキュリティどうするの？」　企業導入への技術的アプローチ</title>
-    <link rel="alternate" href="https://qiita.com/sharu389no/items/ede7d1c0be4a14024857?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-03T01:20:31+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sharu389no&quot;&gt;sharu389no&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T01:20:31+09:00&lt;br/&gt;Updated: 2026-05-03T01:20:31+09:00&lt;br/&gt;この記事を読んでほしい人
-
-Claude Code / Cursor / Copilot などの AIエージェントをチームに導入したい 人
-情シスから「セキュリティ面の対応は？」と聞かれて 技術的に答えたい 人
-「導入したいけどセキュリティが心配」で 手が止まっている 人...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3f7faeea52d7eec01b0f</id>
