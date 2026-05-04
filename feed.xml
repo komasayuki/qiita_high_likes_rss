@@ -477,6 +477,18 @@ HOC(高...</summary>
 2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3c744bb8fd71dc4550af</id>
+    <title>個人開発の運用コストを本当に0円にした技術選定と設計判断のすべて</title>
+    <link rel="alternate" href="https://qiita.com/teppei19980914/items/3c744bb8fd71dc4550af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-01T20:02:07+09:00</updated>
+    <summary type="html">Likes: 110&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T20:02:07+09:00&lt;br/&gt;Updated: 2026-05-01T20:02:07+09:00&lt;br/&gt;筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
+👉 ポートフォリオ: 筆者ホームページ
+
+この記事は約5分で読めます。
+
+「個人...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e8803a092dd192543fb4</id>
     <title>自作の短縮URLを社内Slackに貼ったら「フィッシングです」とセキュリティチームに通報された</title>
     <link rel="alternate" href="https://qiita.com/kojin_dev_hub/items/e8803a092dd192543fb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -485,18 +497,6 @@ HOC(高...</summary>
 クリック分析、UTMパラメータ自動付与、OGPプレビュー。企業向けのBitlyみたいなやつを、個人で安く使える版として開発した。
 完成した時、嬉しくて社内Slackで共有した。
 「短縮URLサービス作りました！ よかったら使ってく...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3c744bb8fd71dc4550af</id>
-    <title>個人開発の運用コストを本当に0円にした技術選定と設計判断のすべて</title>
-    <link rel="alternate" href="https://qiita.com/teppei19980914/items/3c744bb8fd71dc4550af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-01T20:02:07+09:00</updated>
-    <summary type="html">Likes: 108&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T20:02:07+09:00&lt;br/&gt;Updated: 2026-05-01T20:02:07+09:00&lt;br/&gt;筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
-👉 ポートフォリオ: 筆者ホームページ
-
-この記事は約5分で読めます。
-
-「個人...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
@@ -1602,6 +1602,25 @@ Linux prod-server 5.15.0 #1 SMP x86_64 GNU/Linux
 そう思っているLinu...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a6aa0300c3a97648c65c</id>
+    <title>Excel業務を壊さずAPI化する設計入門：現場を敵にしないDXの作り方</title>
+    <link rel="alternate" href="https://qiita.com/satoru_higuchi/items/a6aa0300c3a97648c65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-01T19:26:37+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satoru_higuchi&quot;&gt;satoru_higuchi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T19:26:37+09:00&lt;br/&gt;Updated: 2026-05-01T19:26:37+09:00&lt;br/&gt;想定読者
+
+DX担当
+情シス
+非エンジニア事業企画
+営業企画
+BPO/BPaaS設計担当
+SaaS PdM
+Excel業務を抱える現場責任者
+API連携を検討するSIer・Webエンジニア
+再エネ・太陽光・蓄電池・補助金・電気料金など、複雑な見積・試算業務を扱う事業者
+
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6d26b6ffc11d163dfd71</id>
     <title>GitHub Copilot CLI の公式ハンズオンやってみた (第0章/7章)</title>
     <link rel="alternate" href="https://qiita.com/chomado/items/6d26b6ffc11d163dfd71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1735,25 +1754,6 @@ AIエージェントの設定ファイル・記憶データ
 会社のナレッジベース
 契約書・請求書
 確定申告の...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a6aa0300c3a97648c65c</id>
-    <title>Excel業務を壊さずAPI化する設計入門：現場を敵にしないDXの作り方</title>
-    <link rel="alternate" href="https://qiita.com/satoru_higuchi/items/a6aa0300c3a97648c65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-01T19:26:37+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satoru_higuchi&quot;&gt;satoru_higuchi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T19:26:37+09:00&lt;br/&gt;Updated: 2026-05-01T19:26:37+09:00&lt;br/&gt;想定読者
-
-DX担当
-情シス
-非エンジニア事業企画
-営業企画
-BPO/BPaaS設計担当
-SaaS PdM
-Excel業務を抱える現場責任者
-API連携を検討するSIer・Webエンジニア
-再エネ・太陽光・蓄電池・補助金・電気料金など、複雑な見積・試算業務を扱う事業者
-
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0dd4fc68180aa8526678</id>
