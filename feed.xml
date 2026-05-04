@@ -330,7 +330,7 @@ Visual Studio Code（VS Code）上でレトロゲームエンジンPyxelを使�
     <title>個人開発の運用コストを本当に0円にした技術選定と設計判断のすべて</title>
     <link rel="alternate" href="https://qiita.com/teppei19980914/items/3c744bb8fd71dc4550af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-05-01T20:02:07+09:00</updated>
-    <summary type="html">Likes: 129&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T20:02:07+09:00&lt;br/&gt;Updated: 2026-05-01T20:02:07+09:00&lt;br/&gt;筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
+    <summary type="html">Likes: 133&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T20:02:07+09:00&lt;br/&gt;Updated: 2026-05-01T20:02:07+09:00&lt;br/&gt;筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
 👉 ポートフォリオ: 筆者ホームページ
 
 この記事は約5分で読めます。
@@ -1432,6 +1432,25 @@ PRUMについて気になった方は、
 EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a6aa0300c3a97648c65c</id>
+    <title>Excel業務を壊さずAPI化する設計入門：現場を敵にしないDXの作り方</title>
+    <link rel="alternate" href="https://qiita.com/satoru_higuchi/items/a6aa0300c3a97648c65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-01T19:26:37+09:00</updated>
+    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satoru_higuchi&quot;&gt;satoru_higuchi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T19:26:37+09:00&lt;br/&gt;Updated: 2026-05-01T19:26:37+09:00&lt;br/&gt;想定読者
+
+DX担当
+情シス
+非エンジニア事業企画
+営業企画
+BPO/BPaaS設計担当
+SaaS PdM
+Excel業務を抱える現場責任者
+API連携を検討するSIer・Webエンジニア
+再エネ・太陽光・蓄電池・補助金・電気料金など、複雑な見積・試算業務を扱う事業者
+
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:021eaec14a0970ee1c0b</id>
     <title>AI に「デザインの判断力」を与えるスキル `ui-ux-pro-max-skill` を徹底解説してみた — Codex CLI 実践編</title>
     <link rel="alternate" href="https://qiita.com/engchina/items/021eaec14a0970ee1c0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1488,25 +1507,6 @@ PRUMについて気になった方は、
 ▶ コーポレートサイト
 
 「また指摘されてしまった...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a6aa0300c3a97648c65c</id>
-    <title>Excel業務を壊さずAPI化する設計入門：現場を敵にしないDXの作り方</title>
-    <link rel="alternate" href="https://qiita.com/satoru_higuchi/items/a6aa0300c3a97648c65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-01T19:26:37+09:00</updated>
-    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satoru_higuchi&quot;&gt;satoru_higuchi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T19:26:37+09:00&lt;br/&gt;Updated: 2026-05-01T19:26:37+09:00&lt;br/&gt;想定読者
-
-DX担当
-情シス
-非エンジニア事業企画
-営業企画
-BPO/BPaaS設計担当
-SaaS PdM
-Excel業務を抱える現場責任者
-API連携を検討するSIer・Webエンジニア
-再エネ・太陽光・蓄電池・補助金・電気料金など、複雑な見積・試算業務を扱う事業者
-
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e644e9b620ee1c8d3c1b</id>
@@ -1628,6 +1628,15 @@ GitHub Copilot ファミリー
 GitHub Copilot CL...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8e6607a09cb8ff86c298</id>
+    <title>【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法</title>
+    <link rel="alternate" href="https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-03T16:32:16+09:00</updated>
+    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T16:32:16+09:00&lt;br/&gt;Updated: 2026-05-03T16:32:16+09:00&lt;br/&gt;結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。
+2026年4月28日、AIコーディングツール「Cursor」にCVSS 9.9（ほぼ満点） の致命的な脆弱性が公開されました。
+あなたが悪意のあるリポジトリをgit cloneする...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ed256553d10578cfec2a</id>
     <title>コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）</title>
     <link rel="alternate" href="https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1744,15 +1753,6 @@ AIエージェントの設定ファイル・記憶データ
 会社のナレッジベース
 契約書・請求書
 確定申告の...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8e6607a09cb8ff86c298</id>
-    <title>【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-03T16:32:16+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T16:32:16+09:00&lt;br/&gt;Updated: 2026-05-03T16:32:16+09:00&lt;br/&gt;結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。
-2026年4月28日、AIコーディングツール「Cursor」にCVSS 9.9（ほぼ満点） の致命的な脆弱性が公開されました。
-あなたが悪意のあるリポジトリをgit cloneする...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0dd4fc68180aa8526678</id>
