@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-05-01T20:02:07+09:00</updated>
+  <updated>2026-05-03T16:32:16+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
-  <entry>
-    <id>tag:qiita.com,2026:114f53def8cb0db60f47</id>
-    <title>Claude Codeですべての日常業務を爆速化しよう！</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/114f53def8cb0db60f47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-04T04:41:24+09:00</updated>
-    <summary type="html">Likes: 781&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T08:03:49+09:00&lt;br/&gt;Updated: 2026-03-04T04:41:24+09:00&lt;br/&gt;この記事はClaudeと一緒に書きました。
-
-Claude Code、まだ「コードを書くツール」だと思ってませんか？
-私は普段AIエージェントを「作る」側の仕事をしていますが、それとは別に日常業務のありとあらゆる雑務をClaude Codeにやらせています。経費精算、...</summary>
-  </entry>
   <entry>
     <id>tag:qiita.com,2026:00f23d206c504db2ac3b</id>
     <title>エンジニア歴20年の私が、素人バイブコーディング勢に物申す</title>
@@ -413,6 +403,18 @@ Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁が
 週次MTGのため...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3c744bb8fd71dc4550af</id>
+    <title>個人開発の運用コストを本当に0円にした技術選定と設計判断のすべて</title>
+    <link rel="alternate" href="https://qiita.com/teppei19980914/items/3c744bb8fd71dc4550af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-01T20:02:07+09:00</updated>
+    <summary type="html">Likes: 118&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T20:02:07+09:00&lt;br/&gt;Updated: 2026-05-01T20:02:07+09:00&lt;br/&gt;筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
+👉 ポートフォリオ: 筆者ホームページ
+
+この記事は約5分で読めます。
+
+「個人...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:2b28f629ea2daab701cd</id>
     <title>Vibe Coding、最初は速い。でも後半で急にしんどくなる</title>
     <link rel="alternate" href="https://qiita.com/engchina/items/2b28f629ea2daab701cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -459,18 +461,6 @@ HOC(高...</summary>
 
 と思っていました。
 しかし、近年の日々進化するAIやお客様が求めていることが変化してい...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3c744bb8fd71dc4550af</id>
-    <title>個人開発の運用コストを本当に0円にした技術選定と設計判断のすべて</title>
-    <link rel="alternate" href="https://qiita.com/teppei19980914/items/3c744bb8fd71dc4550af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-01T20:02:07+09:00</updated>
-    <summary type="html">Likes: 113&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T20:02:07+09:00&lt;br/&gt;Updated: 2026-05-01T20:02:07+09:00&lt;br/&gt;筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
-👉 ポートフォリオ: 筆者ホームページ
-
-この記事は約5分で読めます。
-
-「個人...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ad15bfa383c98ae5cc36</id>
@@ -1541,6 +1531,25 @@ QiitaやZenn、ブログで記...</summary>
 逆にコードを理解していない人によるプ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a6aa0300c3a97648c65c</id>
+    <title>Excel業務を壊さずAPI化する設計入門：現場を敵にしないDXの作り方</title>
+    <link rel="alternate" href="https://qiita.com/satoru_higuchi/items/a6aa0300c3a97648c65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-01T19:26:37+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satoru_higuchi&quot;&gt;satoru_higuchi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T19:26:37+09:00&lt;br/&gt;Updated: 2026-05-01T19:26:37+09:00&lt;br/&gt;想定読者
+
+DX担当
+情シス
+非エンジニア事業企画
+営業企画
+BPO/BPaaS設計担当
+SaaS PdM
+Excel業務を抱える現場責任者
+API連携を検討するSIer・Webエンジニア
+再エネ・太陽光・蓄電池・補助金・電気料金など、複雑な見積・試算業務を扱う事業者
+
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4b3a0c02e58c3caa4e4b</id>
     <title>なぜ深層学習は表形式データでツリーモデルに勝てないのか</title>
     <link rel="alternate" href="https://qiita.com/KanNishida/items/4b3a0c02e58c3caa4e4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1586,25 +1595,6 @@ AIを導入すると、実装スピードは確実に上がります。
 今回読んだ2本の記事から得た学びを一言でまとめると、次の3つでした。
 
 仕様書は「ずっと保守する正本」で...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a6aa0300c3a97648c65c</id>
-    <title>Excel業務を壊さずAPI化する設計入門：現場を敵にしないDXの作り方</title>
-    <link rel="alternate" href="https://qiita.com/satoru_higuchi/items/a6aa0300c3a97648c65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-01T19:26:37+09:00</updated>
-    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satoru_higuchi&quot;&gt;satoru_higuchi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T19:26:37+09:00&lt;br/&gt;Updated: 2026-05-01T19:26:37+09:00&lt;br/&gt;想定読者
-
-DX担当
-情シス
-非エンジニア事業企画
-営業企画
-BPO/BPaaS設計担当
-SaaS PdM
-Excel業務を抱える現場責任者
-API連携を検討するSIer・Webエンジニア
-再エネ・太陽光・蓄電池・補助金・電気料金など、複雑な見積・試算業務を扱う事業者
-
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
@@ -1943,16 +1933,6 @@ AIに「いい感じに作って」と言って、本当に「いい感じ」の
 で、返ってくるコードは...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:05e66bd57148b4909d90</id>
-    <title>新メンバーが入った瞬間、チームのアジャイル度は試される</title>
-    <link rel="alternate" href="https://qiita.com/kimdev/items/05e66bd57148b4909d90?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-02T12:14:02+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimdev&quot;&gt;kimdev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T12:14:02+09:00&lt;br/&gt;Updated: 2026-03-02T12:14:02+09:00&lt;br/&gt;「うちはスクラムでうまく回っています」
-そう言っていたチームが、新メンバー加入をきっかけに一気に不安定になることがあります。
-それは偶然ではありません。新メンバーは“チームの透明性”をあぶり出す存在だからです。
-今回は、実際によく起きる具体的なエピソードをもとに考えてみます...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:8f9b238ae28e380e6029</id>
     <title>Claude Codeの利用状況をチームで可視化するダッシュボードをOSSで公開しました</title>
     <link rel="alternate" href="https://qiita.com/tamepicomaru/items/8f9b238ae28e380e6029?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2026,6 +2006,15 @@ ChatGPTやClaude、Geminiなどのクラウド型AIは非常に便利ですが�
 転職活動の進め方
 
 などをまとめておきま...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:8e6607a09cb8ff86c298</id>
+    <title>【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法</title>
+    <link rel="alternate" href="https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-03T16:32:16+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T16:32:16+09:00&lt;br/&gt;Updated: 2026-05-03T16:32:16+09:00&lt;br/&gt;結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。
+2026年4月28日、AIコーディングツール「Cursor」にCVSS 9.9（ほぼ満点） の致命的な脆弱性が公開されました。
+あなたが悪意のあるリポジトリをgit cloneする...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3f7faeea52d7eec01b0f</id>
@@ -2229,5 +2218,13 @@ Claude Code をはじめとする AI コーディングエージェントで、�
 この度 AWS Community Builders 2026 に Serverless カテゴリーで応募し、選出いただきました。
 この記事では、結果的に選出へと繋がった「私がこの1年、どんな思いをもって取り組んできたのか」についてまとめます。
 応募を検討してい...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:0fe0e777053eb52c6f5f</id>
+    <title>Copilot Studioで実現する「AIチーム」の作り方。マルチエージェント開発入門</title>
+    <link rel="alternate" href="https://qiita.com/TND_mi/items/0fe0e777053eb52c6f5f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-19T16:18:51+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TND_mi&quot;&gt;TND_mi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T16:18:50+09:00&lt;br/&gt;Updated: 2026-03-19T16:18:51+09:00&lt;br/&gt;これまでのAI活用は、翻訳や要約、問い合わせ対応など、ひとつの役割をこなす優秀な個人のような存在でした。しかし最近は、複数のAIが役割分担して動くマルチエージェントが登場し、AIがチームで仕事をするような使い方ができるようになっています。
+Copilot Studioでも、...</summary>
   </entry>
 </feed>
