@@ -362,16 +362,6 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 9割の新人エンジニアがやって...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:ee68fc621f7d1c53ffe1</id>
-    <title>Claude Codeのセッション記憶喪失問題を解決し続けたら、開発が劇的に変わった話</title>
-    <link rel="alternate" href="https://qiita.com/ProgrammingForEver/items/ee68fc621f7d1c53ffe1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T20:14:48+09:00</updated>
-    <summary type="html">Likes: 124&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ProgrammingForEver&quot;&gt;ProgrammingForEver&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T11:17:53+09:00&lt;br/&gt;Updated: 2026-03-05T20:14:48+09:00&lt;br/&gt;はじめに
-Claude Codeを使い始めてしばらく経つと、誰もがぶつかる壁があります。
-「さっきまで完璧に理解してくれていたのに、新しいセッションを開いたら全部忘れている」
-プロジェクトの背景を説明し直す。コーディング規約を再度伝える。さっき試して失敗したアプローチをま...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:c841d47f35e9c04c6bee</id>
     <title>「何からやれば...」を卒業する。実務の解像度を劇的に高める3ステップ</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/c841d47f35e9c04c6bee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1098,6 +1088,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 最近はQiitaの記事を書く側になろうと思い、またQiitaに...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8e6607a09cb8ff86c298</id>
+    <title>【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法</title>
+    <link rel="alternate" href="https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-03T16:32:16+09:00</updated>
+    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T16:32:16+09:00&lt;br/&gt;Updated: 2026-05-03T16:32:16+09:00&lt;br/&gt;結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。
+2026年4月28日、AIコーディングツール「Cursor」にCVSS 9.9（ほぼ満点） の致命的な脆弱性が公開されました。
+あなたが悪意のあるリポジトリをgit cloneする...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3688cf515c14f7471ed4</id>
     <title>クソバズワード「ハーネスエンジニアリング」と向き合う</title>
     <link rel="alternate" href="https://qiita.com/retore/items/3688cf515c14f7471ed4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1123,15 +1122,6 @@ axiosサプライチェーン攻撃に関して、GitHub IssueにPostmortem（�
     <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kentawata&quot;&gt;kentawata&lt;/a&gt;&lt;br/&gt;Published: 2026-04-03T09:12:02+09:00&lt;br/&gt;Updated: 2026-04-03T09:12:02+09:00&lt;br/&gt;4月になった。
 今年も新卒が入ってくる。ぴかぴかのビジネスバッグを持って、ちょっと緊張した顔で席につく。あの顔を見ると、毎年どうしようもない気持ちになる。
 この記事は、たぶんぼくが書くべきじゃない。給湯室で「あいつに頼むと一回で済まないんだよな」と名前を出されていた側の人間...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8e6607a09cb8ff86c298</id>
-    <title>【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-03T16:32:16+09:00</updated>
-    <summary type="html">Likes: 69&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T16:32:16+09:00&lt;br/&gt;Updated: 2026-05-03T16:32:16+09:00&lt;br/&gt;結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。
-2026年4月28日、AIコーディングツール「Cursor」にCVSS 9.9（ほぼ満点） の致命的な脆弱性が公開されました。
-あなたが悪意のあるリポジトリをgit cloneする...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7c402f4e085fae433cf5</id>
@@ -1550,6 +1540,17 @@ QiitaやZenn、ブログで記...</summary>
 逆にコードを理解していない人によるプ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ede7d1c0be4a14024857</id>
+    <title>AIエージェントを会社で使いたい！→「え、セキュリティどうするの？」　企業導入への技術的アプローチ</title>
+    <link rel="alternate" href="https://qiita.com/sharu389no/items/ede7d1c0be4a14024857?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-03T01:20:31+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sharu389no&quot;&gt;sharu389no&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T01:20:31+09:00&lt;br/&gt;Updated: 2026-05-03T01:20:31+09:00&lt;br/&gt;この記事を読んでほしい人
+
+Claude Code / Cursor / Copilot などの AIエージェントをチームに導入したい 人
+情シスから「セキュリティ面の対応は？」と聞かれて 技術的に答えたい 人
+「導入したいけどセキュリティが心配」で 手が止まっている 人...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4b3a0c02e58c3caa4e4b</id>
     <title>なぜ深層学習は表形式データでツリーモデルに勝てないのか</title>
     <link rel="alternate" href="https://qiita.com/KanNishida/items/4b3a0c02e58c3caa4e4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1583,17 +1584,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 
 この記事を書いた経緯
 去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきまし...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ede7d1c0be4a14024857</id>
-    <title>AIエージェントを会社で使いたい！→「え、セキュリティどうするの？」　企業導入への技術的アプローチ</title>
-    <link rel="alternate" href="https://qiita.com/sharu389no/items/ede7d1c0be4a14024857?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-03T01:20:31+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sharu389no&quot;&gt;sharu389no&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T01:20:31+09:00&lt;br/&gt;Updated: 2026-05-03T01:20:31+09:00&lt;br/&gt;この記事を読んでほしい人
-
-Claude Code / Cursor / Copilot などの AIエージェントをチームに導入したい 人
-情シスから「セキュリティ面の対応は？」と聞かれて 技術的に答えたい 人
-「導入したいけどセキュリティが心配」で 手が止まっている 人...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5a3fad5ec1c80a8be715</id>
@@ -1743,20 +1733,6 @@ Raspberry...</summary>
 丁度筆者もそのような絶望的な状況でしたが、GeminiとNoteboo...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:27e2a11e80fe3b835f96</id>
-    <title>AI時代にすべてをGitHubで管理するあなたへ — HTTPS接続、今すぐやめてください</title>
-    <link rel="alternate" href="https://qiita.com/kenimo49/items/27e2a11e80fe3b835f96?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-06T06:31:34+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T12:00:44+09:00&lt;br/&gt;Updated: 2026-03-06T06:31:34+09:00&lt;br/&gt;はじめに
-Claude Code、Cursor、Copilot — AIにコードを書かせる時代になりました。
-そしてその流れで、コード以外もGitHubに置く人が増えています。
-
-AIエージェントの設定ファイル・記憶データ
-会社のナレッジベース
-契約書・請求書
-確定申告の...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:0dd4fc68180aa8526678</id>
     <title>エンジニアが「事業を動かせる人」になるための4要素</title>
     <link rel="alternate" href="https://qiita.com/yamapiiii/items/0dd4fc68180aa8526678?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1833,17 +1809,6 @@ Next.js App Router + PostgreSQL で
     <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitotch&quot;&gt;hitotch&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T02:59:32+09:00&lt;br/&gt;Updated: 2026-03-13T01:26:39+09:00&lt;br/&gt;AntigravityとNotebookLMで大規模PDF仕様書から大規模Wordドキュメントを作成するワークフロー
 大規模な要件定義書や仕様書（数百ページのPDFなど）をAIに読み込ませ、そこからシステム設計書や提案書などの新規ドキュメントを自動生成させたい。
 通常、こ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d7e494d8657fb0fc65fc</id>
-    <title>中学生がAIと作った関数型言語「Zenith」</title>
-    <link rel="alternate" href="https://qiita.com/nezumickey/items/d7e494d8657fb0fc65fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T11:46:48+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nezumickey&quot;&gt;nezumickey&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T10:34:57+09:00&lt;br/&gt;Updated: 2026-03-05T11:46:48+09:00&lt;br/&gt;最近、AIの力を借りながら Zenith というちょっと変わった関数型言語を自作してみたので、その設計の面白さを紹介したいと思います！
-GitHub: nezmickey/Zenith
-
-1. Zenithってどんな言語？
-一言で言うと、「ポーランド記法（前置記法）」 と ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:14f212258dc350857a94</id>
@@ -2221,10 +2186,41 @@ Claude Code をはじめとする AI コーディングエージェントで、�
 Copilot Studioでも、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e95f490b6533227fe73c</id>
+    <title>Claude Codeについて思うこと</title>
+    <link rel="alternate" href="https://qiita.com/sour23/items/e95f490b6533227fe73c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-03T12:33:26+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sour23&quot;&gt;sour23&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T13:02:14+09:00&lt;br/&gt;Updated: 2026-05-03T12:33:26+09:00&lt;br/&gt;このたび、マイナビ出版から 「開発効率をアップする！ Claude Code 実用入門」 という書籍を出します。
+
+［Amazonはこちら］https://www.amazon.co.jp/o/ASIN/4839990204/mynavibooks-22/
+なんでこの本...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:92cf7e55a955be1a4bbd</id>
     <title>Oracle Exadata@AWS を作成してみてみた</title>
     <link rel="alternate" href="https://qiita.com/shirok/items/92cf7e55a955be1a4bbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-04-24T15:04:55+09:00</updated>
     <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T08:32:37+09:00&lt;br/&gt;Updated: 2026-04-24T15:04:55+09:00&lt;br/&gt;OracleとAmazon Web Services, Inc.(AWS) は、AWS データセンター内の Oracle Cloud Infrastructure (OCI) 管理の専用インフラストラクチャ上で、Oracle Exadata Database Service...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4e8be1c0fe4c3995c2fd</id>
+    <title>【全コード公開】まだ商談準備に1時間かけてる人はAI時代に置いてかれるからこのスキルを使って</title>
+    <link rel="alternate" href="https://qiita.com/ClaudeCode_UT/items/4e8be1c0fe4c3995c2fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-23T04:50:30+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ClaudeCode_UT&quot;&gt;ClaudeCode_UT&lt;/a&gt;&lt;br/&gt;Published: 2026-04-23T04:34:30+09:00&lt;br/&gt;Updated: 2026-04-23T04:50:30+09:00&lt;br/&gt;先月の商談10件の準備が合計50分で終わった。別にサボったわけではない。
+むしろ準備の品質は上がって受注の数も増えた。
+まぐれではなくこれには明確な理由がある。
+Claude Codeを本格導入して日常業務にガッツリと取り入れて機能し始めたからだ。
+今回はこのClaude...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:848cbd21f769de6ed15c</id>
+    <title>【便利ツール紹介】Googleも推奨！シェルスクリプトを書くなら必ず導入したい静的解析ツール</title>
+    <link rel="alternate" href="https://qiita.com/tomo-2525/items/848cbd21f769de6ed15c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-22T10:40:43+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomo-2525&quot;&gt;tomo-2525&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T10:40:43+09:00&lt;br/&gt;Updated: 2026-04-22T10:40:43+09:00&lt;br/&gt;株式会社ブレインパッド プロダクトユニットの鈴木です。
+弊社は「データ活用の促進を通じて持続可能な未来をつくる」をミッションに、
+データ分析支援やSaaSプロダクトの提供を通じて、企業の「データ活用の日常化」を推進しております。
+現在、私は企業のマーケティング活動をデータで...</summary>
   </entry>
 </feed>
