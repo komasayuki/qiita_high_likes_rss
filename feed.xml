@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-05-03T16:32:16+09:00</updated>
+  <updated>2026-05-06T04:23:23+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -785,8 +785,8 @@ xls...</summary>
     <id>tag:qiita.com,2026:8e6607a09cb8ff86c298</id>
     <title>【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法</title>
     <link rel="alternate" href="https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-03T16:32:16+09:00</updated>
-    <summary type="html">Likes: 84&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T16:32:16+09:00&lt;br/&gt;Updated: 2026-05-03T16:32:16+09:00&lt;br/&gt;結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。
+    <updated>2026-05-06T04:23:23+09:00</updated>
+    <summary type="html">Likes: 84&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T16:32:16+09:00&lt;br/&gt;Updated: 2026-05-06T04:23:23+09:00&lt;br/&gt;結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。
 2026年4月28日、AIコーディングツール「Cursor」にCVSS 9.9（ほぼ満点） の致命的な脆弱性が公開されました。
 あなたが悪意のあるリポジトリをgit cloneする...</summary>
   </entry>
@@ -1082,19 +1082,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶ コーポレートサイト
 
 新人エンジニア...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:77d59a91ce2f2ab54209</id>
-    <title>最近のQiitaがおかしい（かもしれない）</title>
-    <link rel="alternate" href="https://qiita.com/KaiTomotake/items/77d59a91ce2f2ab54209?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-04T19:59:17+09:00</updated>
-    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KaiTomotake&quot;&gt;KaiTomotake&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T02:17:31+09:00&lt;br/&gt;Updated: 2026-03-04T19:59:17+09:00&lt;br/&gt;この記事は割と思想強めかもしれません。
-苦手だなと思ったらすぐにページを閉じることを推奨します。
-
-自己紹介
-こんにちは。KaiTomotakeと申します。
-昔、よくQiitaのお世話になっていました。
-最近はQiitaの記事を書く側になろうと思い、またQiitaに...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3688cf515c14f7471ed4</id>
@@ -2222,5 +2209,13 @@ Claude Codeを本格導入して日常業務にガッツリと取り入れて機
 弊社は「データ活用の促進を通じて持続可能な未来をつくる」をミッションに、
 データ分析支援やSaaSプロダクトの提供を通じて、企業の「データ活用の日常化」を推進しております。
 現在、私は企業のマーケティング活動をデータで...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:fe445a318846fd6a364d</id>
+    <title>Chrome DevTools MCP の全ツールをまとめて理解する</title>
+    <link rel="alternate" href="https://qiita.com/softbase/items/fe445a318846fd6a364d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-18T15:59:33+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/softbase&quot;&gt;softbase&lt;/a&gt;&lt;br/&gt;Published: 2026-04-18T15:59:33+09:00&lt;br/&gt;Updated: 2026-04-18T15:59:33+09:00&lt;br/&gt;AIエージェントから Chrome DevTools を操作・解析するための chrome-devtools-mcp 完全ガイド
+chrome-devtools-mcp は、AI コーディングエージェントから 生きた Chrome ブラウザを操作し、調査し、解析する ための...</summary>
   </entry>
 </feed>
