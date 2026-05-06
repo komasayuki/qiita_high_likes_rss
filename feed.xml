@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-05-06T04:23:23+09:00</updated>
+  <updated>2026-05-06T15:44:14+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -577,6 +577,15 @@ APIのコスト見積もりを上司やクライアントに提出する必要�
 LLMのトークナイゼーシ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8e6607a09cb8ff86c298</id>
+    <title>【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法</title>
+    <link rel="alternate" href="https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-06T15:44:14+09:00</updated>
+    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T16:32:16+09:00&lt;br/&gt;Updated: 2026-05-06T15:44:14+09:00&lt;br/&gt;結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。
+2026年4月28日、AIコーディングツール「Cursor」にCVSS 9.9（NVD評価） の致命的な脆弱性が公開されました。
+悪意のあるリポジトリを開いて Cursor の A...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:094edffe1d7961bb6395</id>
     <title>【前編】9割の新人エンジニアがやっている 「失礼しました」の落とし穴</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/094edffe1d7961bb6395?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -620,15 +629,6 @@ https://kenta-matsuda.github.io/Kenta-Matsuda.github.io-aws-study/
 先日、AWS学習サイトのα版を公開しました。
 
 このα版では、AWS認定学習の「航路」を...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8e6607a09cb8ff86c298</id>
-    <title>【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-06T04:23:23+09:00</updated>
-    <summary type="html">Likes: 94&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T16:32:16+09:00&lt;br/&gt;Updated: 2026-05-06T04:23:23+09:00&lt;br/&gt;結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。
-2026年4月28日、AIコーディングツール「Cursor」にCVSS 9.9（NVD評価） の致命的な脆弱性が公開されました。
-悪意のあるリポジトリを開いて Cursor の A...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:81ddcadc785a6498d10f</id>
