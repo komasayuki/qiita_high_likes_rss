@@ -1860,6 +1860,16 @@ AIに「いい感じに作って」と言って、本当に「いい感じ」の
 で、返ってくるコードは...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cf13c7c70ae148146fd0</id>
+    <title>先輩のコードが1行も理解できなくて泣きそうだった新人が、「読み方」を教わって世界が変わった話</title>
+    <link rel="alternate" href="https://qiita.com/fe1ix/items/cf13c7c70ae148146fd0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-04T11:52:56+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fe1ix&quot;&gt;fe1ix&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T11:52:56+09:00&lt;br/&gt;Updated: 2026-05-04T11:52:56+09:00&lt;br/&gt;「このコード読んでおいて」の絶望
+入社2ヶ月目。先輩から既存のプロジェクトにアサインされ、こう言われました。
+「まずはこのリポジトリのコードを一通り読んでおいて。来週から機能追加してもらうから」
+GitHubを開き、src/ フォルダの中身を見た瞬間、目の前が真っ暗になり...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8f9b238ae28e380e6029</id>
     <title>Claude Codeの利用状況をチームで可視化するダッシュボードをOSSで公開しました</title>
     <link rel="alternate" href="https://qiita.com/tamepicomaru/items/8f9b238ae28e380e6029?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2111,6 +2121,18 @@ RAGは外部知識をLLMに注入する手法として定着しました。
 最近のコードレビューAIは、もう lint の延長ではありません。少なくとも私の感覚では、実装上の局所的な correctness に関しては、すでに人間のレビューより鋭い場面があります。race condition ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:63745b9198f1989c2a15</id>
+    <title>Claude Codeを120%使いこなす設定3選【ECC・Memory.md・Obsidian連携】</title>
+    <link rel="alternate" href="https://qiita.com/manchan/items/63745b9198f1989c2a15?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-04T01:34:12+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/manchan&quot;&gt;manchan&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T01:25:41+09:00&lt;br/&gt;Updated: 2026-05-04T01:34:12+09:00&lt;br/&gt;はじめに
+Claude Codeを使い始めてしばらく経つと、こんな壁にぶつかりませんか？
+
+「毎回同じ説明をしている」 — セッションが切れるたびにプロジェクトの背景を一から説明する
+
+「コード生成はできるけど専門的なレビューが薄い」 — セキュリティや設計の観点が足り...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6c4e74972eeb0d1a6fb2</id>
     <title>Claude Code のスキルを「中央集権しない」で配る、chezmoi dotfiles スターターキット</title>
     <link rel="alternate" href="https://qiita.com/kamo-shika/items/6c4e74972eeb0d1a6fb2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2144,16 +2166,6 @@ Claude Code をはじめとする AI コーディングエージェントで、�
     <updated>2026-03-19T16:18:51+09:00</updated>
     <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TND_mi&quot;&gt;TND_mi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T16:18:50+09:00&lt;br/&gt;Updated: 2026-03-19T16:18:51+09:00&lt;br/&gt;これまでのAI活用は、翻訳や要約、問い合わせ対応など、ひとつの役割をこなす優秀な個人のような存在でした。しかし最近は、複数のAIが役割分担して動くマルチエージェントが登場し、AIがチームで仕事をするような使い方ができるようになっています。
 Copilot Studioでも、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cf13c7c70ae148146fd0</id>
-    <title>先輩のコードが1行も理解できなくて泣きそうだった新人が、「読み方」を教わって世界が変わった話</title>
-    <link rel="alternate" href="https://qiita.com/fe1ix/items/cf13c7c70ae148146fd0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-04T11:52:56+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fe1ix&quot;&gt;fe1ix&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T11:52:56+09:00&lt;br/&gt;Updated: 2026-05-04T11:52:56+09:00&lt;br/&gt;「このコード読んでおいて」の絶望
-入社2ヶ月目。先輩から既存のプロジェクトにアサインされ、こう言われました。
-「まずはこのリポジトリのコードを一通り読んでおいて。来週から機能追加してもらうから」
-GitHubを開き、src/ フォルダの中身を見た瞬間、目の前が真っ暗になり...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e95f490b6533227fe73c</id>
@@ -2204,13 +2216,5 @@ Claude Codeを本格導入して日常業務にガッツリと取り入れて機
 弊社は「データ活用の促進を通じて持続可能な未来をつくる」をミッションに、
 データ分析支援やSaaSプロダクトの提供を通じて、企業の「データ活用の日常化」を推進しております。
 現在、私は企業のマーケティング活動をデータで...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fe445a318846fd6a364d</id>
-    <title>Chrome DevTools MCP の全ツールをまとめて理解する</title>
-    <link rel="alternate" href="https://qiita.com/softbase/items/fe445a318846fd6a364d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-18T15:59:33+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/softbase&quot;&gt;softbase&lt;/a&gt;&lt;br/&gt;Published: 2026-04-18T15:59:33+09:00&lt;br/&gt;Updated: 2026-04-18T15:59:33+09:00&lt;br/&gt;AIエージェントから Chrome DevTools を操作・解析するための chrome-devtools-mcp 完全ガイド
-chrome-devtools-mcp は、AI コーディングエージェントから 生きた Chrome ブラウザを操作し、調査し、解析する ための...</summary>
   </entry>
 </feed>
