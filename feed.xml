@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-05-06T15:44:14+09:00</updated>
+  <updated>2026-05-07T09:30:06+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1266,6 +1266,16 @@ Claude Code / Cursor / Copilot などの AIエージェントをチームに導�
 2026年3月、開発者コミュニティに激震が走りました。GitHub、npm、VSCode拡張機能など、私たちが日常的に信頼を置く400以上のリポジトリが「GlassW...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cf13c7c70ae148146fd0</id>
+    <title>先輩のコードが1行も理解できなくて泣きそうだった新人が、「読み方」を教わって世界が変わった話</title>
+    <link rel="alternate" href="https://qiita.com/fe1ix/items/cf13c7c70ae148146fd0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-04T11:52:56+09:00</updated>
+    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fe1ix&quot;&gt;fe1ix&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T11:52:56+09:00&lt;br/&gt;Updated: 2026-05-04T11:52:56+09:00&lt;br/&gt;「このコード読んでおいて」の絶望
+入社2ヶ月目。先輩から既存のプロジェクトにアサインされ、こう言われました。
+「まずはこのリポジトリのコードを一通り読んでおいて。来週から機能追加してもらうから」
+GitHubを開き、src/ フォルダの中身を見た瞬間、目の前が真っ暗になり...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e568f199e5753d3bb1b2</id>
     <title>Copy Fail とは？（結構詳しめ）</title>
     <link rel="alternate" href="https://qiita.com/fiord/items/e568f199e5753d3bb1b2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1416,16 +1426,6 @@ PRUMについて気になった方は、
 EC2、Lambda、S3、EBS、EFS、RDS、Aurora、Redshift、Gl...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:cf13c7c70ae148146fd0</id>
-    <title>先輩のコードが1行も理解できなくて泣きそうだった新人が、「読み方」を教わって世界が変わった話</title>
-    <link rel="alternate" href="https://qiita.com/fe1ix/items/cf13c7c70ae148146fd0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-04T11:52:56+09:00</updated>
-    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fe1ix&quot;&gt;fe1ix&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T11:52:56+09:00&lt;br/&gt;Updated: 2026-05-04T11:52:56+09:00&lt;br/&gt;「このコード読んでおいて」の絶望
-入社2ヶ月目。先輩から既存のプロジェクトにアサインされ、こう言われました。
-「まずはこのリポジトリのコードを一通り読んでおいて。来週から機能追加してもらうから」
-GitHubを開き、src/ フォルダの中身を見た瞬間、目の前が真っ暗になり...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:021eaec14a0970ee1c0b</id>
     <title>AI に「デザインの判断力」を与えるスキル `ui-ux-pro-max-skill` を徹底解説してみた — Codex CLI 実践編</title>
     <link rel="alternate" href="https://qiita.com/engchina/items/021eaec14a0970ee1c0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1555,6 +1555,17 @@ AIを導入すると、実装スピードは確実に上がります。
 今回読んだ2本の記事から得た学びを一言でまとめると、次の3つでした。
 
 仕様書は「ずっと保守する正本」で...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:6fbb0c0e55835ea79e4d</id>
+    <title>【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-07T09:30:06+09:00</updated>
+    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T21:08:08+09:00&lt;br/&gt;Updated: 2026-05-07T09:30:06+09:00&lt;br/&gt;はじめに
+
+（アクリルケースにいれているので反射していますが、情報処理安全確保支援士試験（旧セキュリティスペシャリスト試験）に合格しています）
+こんばんは、mirukyです。
+「セキュアプログラミング」という言葉をご存知でしょうか。意味としてはそのままで、セキュア（セキ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e9e1dce9e2dbc574a93f</id>
@@ -1752,17 +1763,6 @@ Next.js App Router + PostgreSQL で
     <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitotch&quot;&gt;hitotch&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T02:59:32+09:00&lt;br/&gt;Updated: 2026-03-13T01:26:39+09:00&lt;br/&gt;AntigravityとNotebookLMで大規模PDF仕様書から大規模Wordドキュメントを作成するワークフロー
 大規模な要件定義書や仕様書（数百ページのPDFなど）をAIに読み込ませ、そこからシステム設計書や提案書などの新規ドキュメントを自動生成させたい。
 通常、こ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6fbb0c0e55835ea79e4d</id>
-    <title>【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-05T21:08:08+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T21:08:08+09:00&lt;br/&gt;Updated: 2026-05-05T21:08:08+09:00&lt;br/&gt;はじめに
-
-（アクリルケースにいれているので反射していますが、情報処理安全確保支援士試験（旧セキュリティスペシャリスト試験）に合格しています）
-こんばんは、mirukyです。
-「セキュアプログラミング」という言葉をご存知でしょうか。意味としてはそのままで、セキュア（セキ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:14f212258dc350857a94</id>
