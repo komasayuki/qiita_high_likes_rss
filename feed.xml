@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-05-07T09:30:06+09:00</updated>
+  <updated>2026-05-07T10:18:39+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -318,17 +318,6 @@ GWは、まとまった学習時間を確保しやすい数少ないタイミン
 そんな私ですが、勉強の過程や実務を通じてデータベース（DB）に関してはかなり自信がついたので、まとめたナレッジを共有できれば...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:62519da65ca2dc391f0b</id>
-    <title>リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法</title>
-    <link rel="alternate" href="https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T17:43:17+09:00</updated>
-    <summary type="html">Likes: 126&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ShotaFukuyama&quot;&gt;ShotaFukuyama&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T11:31:17+09:00&lt;br/&gt;Updated: 2026-03-05T17:43:17+09:00&lt;br/&gt;はじめに
-「前は動いてたのに、なぜか動かなくなった…」
-開発を進めていると、こんな経験をしたことがある方も多いのではないでしょうか。
-新機能の追加やバグ修正によって、既存の機能が壊れてしまう。これを防ぐために行うのが リグレッションテスト(回帰テスト) です。
-本記事で...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:8c22966fbd3c125c53dc</id>
     <title>Claude Codeで実際に起きたセキュリティ事故7選と防止策</title>
     <link rel="alternate" href="https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -542,17 +531,6 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 富士通、理化学研究所 AIP、東京科学大学、東海大学の研究チームが arXiv で公開した論文 「PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:262e0645fbfb024ecd4b</id>
-    <title>できるだけ無料でサービスを運用するための個人開発オススメデプロイ先</title>
-    <link rel="alternate" href="https://qiita.com/Hiru-ge/items/262e0645fbfb024ecd4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T12:22:41+09:00</updated>
-    <summary type="html">Likes: 99&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Hiru-ge&quot;&gt;Hiru-ge&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T15:09:40+09:00&lt;br/&gt;Updated: 2026-03-08T12:22:41+09:00&lt;br/&gt;はじめに
-こんにちは、ひるげです。
-個人開発でWebアプリを作ったとき、「どこにデプロイすればいいんだろう？」と悩んだ経験、ありませんか？
-AWSやGCPは高機能だけどコストが怖い。かといって無料のサービスは制限が気になる...
-この記事では、個人開発で使えるおすすめのデ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
     <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
     <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -588,15 +566,6 @@ PRUMについて気になった方は、
 ▶ コーポレートサイト
 
 9割の新人エンジニアがや...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6a7f12c2a472bef58bf</id>
-    <title>結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん</title>
-    <link rel="alternate" href="https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-05T14:28:59+09:00</updated>
-    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/renly&quot;&gt;renly&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T14:28:10+09:00&lt;br/&gt;Updated: 2026-03-05T14:28:59+09:00&lt;br/&gt;【図解】RPGで攻略するオブジェクト指向の正体
-タイトルにもある通り今回はオブジェクト指向について取り上げようと思います。
-大学時代は情報系の学部だったのですが4回生の研究室ではSmalltalkを使ったオブジェクト指向の講義が毎週行われていました。すごく面白い教授で、プ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:06420caf41a34a910c53</id>
@@ -788,6 +757,17 @@ xls...</summary>
     <summary type="html">Likes: 85&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_iha&quot;&gt;prum_iha&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T14:57:16+09:00&lt;br/&gt;Updated: 2026-03-23T14:57:16+09:00&lt;br/&gt;こんにちは。株式会社PRUMで採用人事をしている井原です。
 日々、未経験の方やキャリアチェンジを考えている方とお話しする中で、 「IT業界って結局どんな世界なんですか？」 という質問をよくいただきます。
 この記事では、そんな方に向けてIT業界の全体像をなるべくやさしく整理し...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:6fbb0c0e55835ea79e4d</id>
+    <title>【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-07T09:30:06+09:00</updated>
+    <summary type="html">Likes: 84&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T21:08:08+09:00&lt;br/&gt;Updated: 2026-05-07T09:30:06+09:00&lt;br/&gt;はじめに
+
+（アクリルケースにいれているので反射していますが、情報処理安全確保支援士試験（旧セキュリティスペシャリスト試験）に合格しています）
+こんばんは、mirukyです。
+「セキュアプログラミング」という言葉をご存知でしょうか。意味としてはそのままで、セキュア（セキ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:44b4b16a441f494a2307</id>
@@ -989,17 +969,6 @@ Webの勉強を始めてすぐ、こんなことありませんか？
 「Claude Codeで開発してるけど、1つずつ順番にIssueを片付けるのが遅い…」
 そんな悩みを解決するために、Issue起票から並列開発、PR作成までを一気通貫で自動化するワークフローを構築しました。
 具体的には、Claude CodeのSkillsを組...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6fbb0c0e55835ea79e4d</id>
-    <title>【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-07T09:30:06+09:00</updated>
-    <summary type="html">Likes: 75&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T21:08:08+09:00&lt;br/&gt;Updated: 2026-05-07T09:30:06+09:00&lt;br/&gt;はじめに
-
-（アクリルケースにいれているので反射していますが、情報処理安全確保支援士試験（旧セキュリティスペシャリスト試験）に合格しています）
-こんばんは、mirukyです。
-「セキュアプログラミング」という言葉をご存知でしょうか。意味としてはそのままで、セキュア（セキ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d3f222758833cb694672</id>
@@ -1582,6 +1551,16 @@ Linux prod-server 5.15.0 #1 SMP x86_64 GNU/Linux
 そう思っているLinu...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f25a66f99edd5439f2ec</id>
+    <title>【初学者向け】システム全体を理解するための5つの視点</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/f25a66f99edd5439f2ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-07T10:18:39+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-05-07T10:14:24+09:00&lt;br/&gt;Updated: 2026-05-07T10:18:39+09:00&lt;br/&gt;株式会社 PRUMのmasaです。
+今日はシステムを支える5つの要素についてプログラミング初心者向けに記事を書きました。この記事を読むことで、点だった知識が線に繋がり、システム全体のイメージを掴めると思います。
+興味があれば読んで頂けると嬉しいです。
+PRUMについて興味が...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6d26b6ffc11d163dfd71</id>
     <title>GitHub Copilot CLI の公式ハンズオンやってみた (第0章/7章)</title>
     <link rel="alternate" href="https://qiita.com/chomado/items/6d26b6ffc11d163dfd71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1763,6 +1742,17 @@ Next.js App Router + PostgreSQL で
     <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitotch&quot;&gt;hitotch&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T02:59:32+09:00&lt;br/&gt;Updated: 2026-03-13T01:26:39+09:00&lt;br/&gt;AntigravityとNotebookLMで大規模PDF仕様書から大規模Wordドキュメントを作成するワークフロー
 大規模な要件定義書や仕様書（数百ページのPDFなど）をAIに読み込ませ、そこからシステム設計書や提案書などの新規ドキュメントを自動生成させたい。
 通常、こ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5361d45554872a39da92</id>
+    <title>【公式】レトロゲームエンジンPyxelが動く仕組み</title>
+    <link rel="alternate" href="https://qiita.com/kitao/items/5361d45554872a39da92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-06T16:44:51+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T16:20:14+09:00&lt;br/&gt;Updated: 2026-05-06T16:44:51+09:00&lt;br/&gt;はじめに
+Pyxel 作者です。皆さん、いつもレトロゲームエンジン Pyxel をご利用いただきありがとうございます。
+
+ゴールデンウィーク、いかがお過ごしでしょうか。せっかくのお休みなので、今日はちょっと Pyxel の裏側っぽい話を書いてみたいと思います。
+（そもそも...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:14f212258dc350857a94</id>
@@ -2161,17 +2151,6 @@ Claude Code をはじめとする AI コーディングエージェントで、�
 Copilot Studioでも、...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5361d45554872a39da92</id>
-    <title>【公式】レトロゲームエンジンPyxelが動く仕組み</title>
-    <link rel="alternate" href="https://qiita.com/kitao/items/5361d45554872a39da92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-06T16:44:51+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T16:20:14+09:00&lt;br/&gt;Updated: 2026-05-06T16:44:51+09:00&lt;br/&gt;はじめに
-Pyxel 作者です。皆さん、いつもレトロゲームエンジン Pyxel をご利用いただきありがとうございます。
-
-ゴールデンウィーク、いかがお過ごしでしょうか。せっかくのお休みなので、今日はちょっと Pyxel の裏側っぽい話を書いてみたいと思います。
-（そもそも...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:e95f490b6533227fe73c</id>
     <title>Claude Codeについて思うこと</title>
     <link rel="alternate" href="https://qiita.com/sour23/items/e95f490b6533227fe73c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2210,5 +2189,23 @@ Pyxel 作者です。皆さん、いつもレトロゲームエンジン Pyxel �
 まぐれではなくこれには明確な理由がある。
 Claude Codeを本格導入して日常業務にガッツリと取り入れて機能し始めたからだ。
 今回はこのClaude...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:848cbd21f769de6ed15c</id>
+    <title>【便利ツール紹介】Googleも推奨！シェルスクリプトを書くなら必ず導入したい静的解析ツール</title>
+    <link rel="alternate" href="https://qiita.com/tomo-2525/items/848cbd21f769de6ed15c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-22T10:40:43+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomo-2525&quot;&gt;tomo-2525&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T10:40:43+09:00&lt;br/&gt;Updated: 2026-04-22T10:40:43+09:00&lt;br/&gt;株式会社ブレインパッド プロダクトユニットの鈴木です。
+弊社は「データ活用の促進を通じて持続可能な未来をつくる」をミッションに、
+データ分析支援やSaaSプロダクトの提供を通じて、企業の「データ活用の日常化」を推進しております。
+現在、私は企業のマーケティング活動をデータで...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:fe445a318846fd6a364d</id>
+    <title>Chrome DevTools MCP の全ツールをまとめて理解する</title>
+    <link rel="alternate" href="https://qiita.com/softbase/items/fe445a318846fd6a364d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-18T15:59:33+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/softbase&quot;&gt;softbase&lt;/a&gt;&lt;br/&gt;Published: 2026-04-18T15:59:33+09:00&lt;br/&gt;Updated: 2026-04-18T15:59:33+09:00&lt;br/&gt;AIエージェントから Chrome DevTools を操作・解析するための chrome-devtools-mcp 完全ガイド
+chrome-devtools-mcp は、AI コーディングエージェントから 生きた Chrome ブラウザを操作し、調査し、解析する ための...</summary>
   </entry>
 </feed>
