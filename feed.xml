@@ -1075,6 +1075,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 新人エンジニア...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5022be3615ecd8b5337c</id>
+    <title>AWS MCPサーバー超進化してGAしたらしい</title>
+    <link rel="alternate" href="https://qiita.com/Syoitu/items/5022be3615ecd8b5337c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-07T19:18:36+09:00</updated>
+    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-05-07T19:18:36+09:00&lt;br/&gt;Updated: 2026-05-07T19:18:36+09:00&lt;br/&gt;前書き
+AWS MCP サーバー、結構前からGA するらしいという噂は流れていたんですが、何回か見送られて、昨日（2026/05/06）でようやく GA したので、さっそく使ってみます
+これまで、 AWS には aws-api-mcp-server や aws-knowl...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3688cf515c14f7471ed4</id>
     <title>クソバズワード「ハーネスエンジニアリング」と向き合う</title>
     <link rel="alternate" href="https://qiita.com/retore/items/3688cf515c14f7471ed4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1123,15 +1132,6 @@ axiosサプライチェーン攻撃に関して、GitHub IssueにPostmortem（�
 こんばんは、mirukyです。
 ある日突然、AWSから $15,000（約200万円）の請求書 が届いたらどうしますか？
 2026年3月、海外でまさにこの事態が発生しました。個人開発者のS3バケットがDDoS攻撃を受け、3日間で160TBのデータ転送が発生。結果...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5022be3615ecd8b5337c</id>
-    <title>AWS MCPサーバー超進化してGAしたらしい</title>
-    <link rel="alternate" href="https://qiita.com/Syoitu/items/5022be3615ecd8b5337c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-07T19:18:36+09:00</updated>
-    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-05-07T19:18:36+09:00&lt;br/&gt;Updated: 2026-05-07T19:18:36+09:00&lt;br/&gt;前書き
-AWS MCP サーバー、結構前からGA するらしいという噂は流れていたんですが、何回か見送られて、昨日（2026/05/06）でようやく GA したので、さっそく使ってみます
-これまで、 AWS には aws-api-mcp-server や aws-knowl...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:73bd88b401ecab0cc4c5</id>
@@ -1301,6 +1301,18 @@ Linux にて簡単に特権昇格(root権限でコマンドの実行が出来る
 1. アプリケーション障...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:30ed3d885da5bb605460</id>
+    <title>「自分にエンジニアなんて無理かも」と思ってる人へ。最初に知ってほしい“仕事の進め方”</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/30ed3d885da5bb605460?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-08T14:11:51+09:00</updated>
+    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T14:11:50+09:00&lt;br/&gt;Updated: 2026-05-08T14:11:51+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
+日々、未経験からIT業界に挑戦する方と関わる中で、よくある不安やつまずきポイントを整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「自分...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:864876245891c0cbb127</id>
     <title>「クラウドだから大丈夫」は危険です ― 新人エンジニアがやりがちな“信頼性の勘違い”</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/864876245891c0cbb127?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1324,18 +1336,6 @@ axiosはJavaScriptで最も使われるHTTPクライアントです。
 週間ダウンロード数は1億回を超えます。
 私自身、ほぼすべてのNode.jsプロジェクトで使っています。
 事件を知っ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:30ed3d885da5bb605460</id>
-    <title>「自分にエンジニアなんて無理かも」と思ってる人へ。最初に知ってほしい“仕事の進め方”</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/30ed3d885da5bb605460?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-08T14:11:51+09:00</updated>
-    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T14:11:50+09:00&lt;br/&gt;Updated: 2026-05-08T14:11:51+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
-日々、未経験からIT業界に挑戦する方と関わる中で、よくある不安やつまずきポイントを整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-「自分...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:155f3b5a0dcde72fcd10</id>
