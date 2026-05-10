@@ -124,15 +124,6 @@ Reactを書こうとすると...</summary>
 今回は、シンプルだけど、実際に仕事...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:66510f959b1c22f011a7</id>
-    <title>Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した</title>
-    <link rel="alternate" href="https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-10T12:55:45+09:00</updated>
-    <summary type="html">Likes: 202&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NF0000&quot;&gt;NF0000&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T17:26:59+09:00&lt;br/&gt;Updated: 2026-03-10T12:55:45+09:00&lt;br/&gt;はじめに
-バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。
-前回の記事では、プロンプトインジェクションによる.env漏洩を検証しました。今回はもっと現実的なシナリオで、GitHub...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:17817dc09a78078fa132</id>
     <title>【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド</title>
     <link rel="alternate" href="https://qiita.com/yamamoto0/items/17817dc09a78078fa132?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -232,14 +223,6 @@ AIにコードを丸投げし、中身が分からないまま過ごす日々が
 こんばんは、mirukyです。
 「セキュアプログラミング」という言葉をご存知でしょうか。意味としてはそのままで、セキュア（セキュリティ的に堅牢）なプログラミングのことです。
 セキュリティ的に堅牢なプログラミングと言っても、SQLインジェクション、XSS（クロス...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fd00eff2cc08684fe77d</id>
-    <title>Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T18:15:21+09:00</updated>
-    <summary type="html">Likes: 160&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:02:25+09:00&lt;br/&gt;Updated: 2026-03-08T18:15:21+09:00&lt;br/&gt;はじめに
-2026年2月末、オンライン学習コミュニティの運営者がClaude Codeを使ってTerraformを操作した結果、本番環境のRDSデータベースとすべてのスナップショットが削除されました。2.5年分のコース運営データ（課題提出テーブルだけで約194万行）が一瞬...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3c5269610f26e23c5b04</id>
@@ -395,21 +378,6 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 「完璧主義...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:299a221088f5905332a4</id>
-    <title>【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】</title>
-    <link rel="alternate" href="https://qiita.com/Sicut_study/items/299a221088f5905332a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T22:00:51+09:00</updated>
-    <summary type="html">Likes: 115&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T18:33:59+09:00&lt;br/&gt;Updated: 2026-03-08T22:00:51+09:00&lt;br/&gt;はじめに
-こんにちは、Watanabe Jin(@Sicut_study)です。
-Reactを書いていると時々思うんです。
-
-私はReactを活かしたコードをかけているのだろうか？
-
-Reactにはデザインパターンとしていくつかの代表的なものが存在します。
-
-HOC(高...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:ac1e447ba9996b5543da</id>
     <title>未経験から3年で感じたこれからのキャリアを築くための行動3選</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/ac1e447ba9996b5543da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -435,7 +403,7 @@ HOC(高...</summary>
     <title>Git初心者の頃わからなかった「pullするな」の意味</title>
     <link rel="alternate" href="https://qiita.com/shimitaro/items/bdd7cedde03974a94406?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-05-10T21:27:46+09:00</updated>
-    <summary type="html">Likes: 111&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shimitaro&quot;&gt;shimitaro&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T13:16:30+09:00&lt;br/&gt;Updated: 2026-05-10T21:27:46+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 112&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shimitaro&quot;&gt;shimitaro&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T13:16:30+09:00&lt;br/&gt;Updated: 2026-05-10T21:27:46+09:00&lt;br/&gt;はじめに
 AIを使ったバイブコーディングが普及してきた影響か、最近「コードは書けるけどGitはよくわからない」という人が増えてきた気がします。
 AIがコードを生成してくれる時代になっても、Gitの操作は自分でやることが多いです。
 そしてGitの概念を理解していないと、ある...</summary>
@@ -1350,21 +1318,6 @@ axiosはJavaScriptで最も使われるHTTPクライアントです。
 2025年後半から、AIコーディングエージェントの能力は飛躍的に向上しました。...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:568cc5e9b6050522611e</id>
-    <title>【後編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/568cc5e9b6050522611e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-09T12:44:16+09:00</updated>
-    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T12:44:16+09:00&lt;br/&gt;Updated: 2026-03-09T12:44:16+09:00&lt;br/&gt;はじめまして。
-株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で
-つまずきやすいポイントを整理して発信しています。
-PRUMについて気になった方は、
-コーポレートサイトもご覧ください。
-▶ コーポレートサイト
-
-【後編】「また指摘され...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:a6aa0300c3a97648c65c</id>
     <title>Excel業務を壊さずAPI化する設計入門：現場を敵にしないDXの作り方</title>
     <link rel="alternate" href="https://qiita.com/satoru_higuchi/items/a6aa0300c3a97648c65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1672,17 +1625,6 @@ Bonsaiという新しいLLMで、1ビットモデルなんですって。
 環境
 
 Raspberry...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4997156bbe8c304231b9</id>
-    <title>試験まで1週間!?「やっべ、全然勉強してない」を救うGemini爆速学習法</title>
-    <link rel="alternate" href="https://qiita.com/esukei_8876/items/4997156bbe8c304231b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-08T21:19:21+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/esukei_8876&quot;&gt;esukei_8876&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T21:19:21+09:00&lt;br/&gt;Updated: 2026-03-08T21:19:21+09:00&lt;br/&gt;こんなことあるよね？
-「仕事が忙しく、気づけば資格試験まであと1週間……」
-「諸事情で、7日以内に合格しなきゃいけない（かなり滅茶苦茶な話）」
-こんなことってよくありますよね？ね？（あってはならない）
-丁度筆者もそのような絶望的な状況でしたが、GeminiとNoteboo...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3c98999786c7dbd2b26a</id>
@@ -2212,5 +2154,52 @@ chrome-devtools-mcp は、AI コーディングエージェントから 生き�
 でも実際には 「後から困らないコードを書くための知恵袋」 のようなものです。
 この記事では、C# のコード例を交えながら SOLID 原則をできるだけわかりやすく紹介します。
 「聞いたことはあるけ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:6fff369a0f20223a821f</id>
+    <title>ODBCドライバーは何をしているのか？ ─ DB接続の「見えない翻訳者」を理解する</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/6fff369a0f20223a821f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-04T12:15:00+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-04-04T12:15:00+09:00&lt;br/&gt;Updated: 2026-04-04T12:15:00+09:00&lt;br/&gt;はじめに
+データベースに接続するとき、「ODBCドライバーをインストールしてください」と言われた経験はないでしょうか。言われるがままにインストールして、接続できたらそれで終わり。ODBCドライバーが裏側で何をしているのか、なぜそれが必要なのかを深く考える機会は意外と少ない...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:1e35dd4f573547626aff</id>
+    <title>UI UX Pro Max：AIコーディングアシスタントにデザインセンスを与えるSkill</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/1e35dd4f573547626aff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-20T18:13:00+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T17:40:27+09:00&lt;br/&gt;Updated: 2026-03-20T18:13:00+09:00&lt;br/&gt;はじめに
+Claude CodeやCursorなどのAIコーディングアシスタントに「ランディングページを作って」と頼むと、機能的には動くものの、デザイン面では物足りない結果になることがあります。配色がちぐはぐだったり、フォントの組み合わせが微妙だったり、業界に合わないスタ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b1c979cda8518f8b6695</id>
+    <title>Antigravityの「青いボタン」をポチポチ押すのはもう終わり！ターミナル自動承認でAntigravityで楽々開発を実現しよう ＋追記 Antigravity０％問題</title>
+    <link rel="alternate" href="https://qiita.com/masakinihirota/items/b1c979cda8518f8b6695?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-13T15:49:52+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masakinihirota&quot;&gt;masakinihirota&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T06:58:30+09:00&lt;br/&gt;Updated: 2026-03-13T15:49:52+09:00&lt;br/&gt;追記 2026年3月12日
+（私はProプラン加入者）
+Antigravityでクォータ（Gemini3.1などのAIを使用できる量）が０％になる問題が出ました。
+これまではAntigravityで制御(5時間制限、1週間制限)していたクォータを、クレジット方式(直接課金)...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e97168314c00ce166286</id>
+    <title>次世代パッケージマネージャーpnpmは何が違うのか？設計思想から読み解く依存管理</title>
+    <link rel="alternate" href="https://qiita.com/t0hara/items/e97168314c00ce166286?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-09T09:37:06+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t0hara&quot;&gt;t0hara&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T09:37:05+09:00&lt;br/&gt;Updated: 2026-03-09T09:37:06+09:00&lt;br/&gt;Node.jsのパッケージ管理は、本当に健全なのか？pnpmを調べていく中で、依存管理の“当たり前”を見直すことになりました。この記事ではpnpmの設計思想に焦点を当てて整理します。
+
+1. はじめに ― パッケージ管理は本当に健全か？
+あるシステムのリプレイス検証の中で、...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b74198e39c2cbad358e3</id>
+    <title>【個人開発：制作期間1ヶ月】自分の美容（髪型・ヘアカラー・ネイルなど）を記録し、予算も管理するアプリを作成しました！【React/TypeScript/Supabase/Firebase】</title>
+    <link rel="alternate" href="https://qiita.com/pmpm_nk/items/b74198e39c2cbad358e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-06T07:05:14+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/pmpm_nk&quot;&gt;pmpm_nk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T17:00:06+09:00&lt;br/&gt;Updated: 2026-05-06T07:05:14+09:00&lt;br/&gt;はじめに
+こんにちは！
+WEBアプリケーションエンジニアとして活動しているPOMです。
+元々はPHPやJavaScriptなどをメインとしていましたが、
+今年3月からはアウトプットコミュニティであるJISOUに参加し、現在はReactやTypeScriptでの開発を行って...</summary>
   </entry>
 </feed>
