@@ -345,6 +345,16 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 チームの隣の席の人が、CursorやCopilotで爆速開発している。同じツールを使っているのに、自分のプロジェクトだと全然うまくいかない。AIが的外れなコードを吐く。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:bdd7cedde03974a94406</id>
+    <title>Git初心者の頃わからなかった「pullするな」の意味</title>
+    <link rel="alternate" href="https://qiita.com/shimitaro/items/bdd7cedde03974a94406?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-10T21:27:46+09:00</updated>
+    <summary type="html">Likes: 120&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shimitaro&quot;&gt;shimitaro&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T13:16:30+09:00&lt;br/&gt;Updated: 2026-05-10T21:27:46+09:00&lt;br/&gt;はじめに
+AIを使ったバイブコーディングが普及してきた影響か、最近「コードは書けるけどGitはよくわからない」という人が増えてきた気がします。
+AIがコードを生成してくれる時代になっても、Gitの操作は自分でやることが多いです。
+そしてGitの概念を理解していないと、ある...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:33729fdbbd54cdaac60e</id>
     <title>エンジニアなら自動化すべき「日常の定型タスク」10選まとめてみた【プロンプト付き】</title>
     <link rel="alternate" href="https://qiita.com/kamome_susume/items/33729fdbbd54cdaac60e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -376,16 +386,6 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
     <summary type="html">Likes: 116&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-03-26T11:28:51+09:00&lt;br/&gt;Updated: 2026-03-26T11:28:52+09:00&lt;br/&gt;「プログラミングを始めたけれど、周りと比べて焦ってしまう」「今のやり方で本当にエンジニアとして成長できているのかな」と不安になることありませんか？実務3年目の僕が、失敗だらけだった1年目を振り返り、未経験からプロへと脱皮するための行動を僕の主観でお伝えします。
 
 「完璧主義...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bdd7cedde03974a94406</id>
-    <title>Git初心者の頃わからなかった「pullするな」の意味</title>
-    <link rel="alternate" href="https://qiita.com/shimitaro/items/bdd7cedde03974a94406?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-10T21:27:46+09:00</updated>
-    <summary type="html">Likes: 114&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shimitaro&quot;&gt;shimitaro&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T13:16:30+09:00&lt;br/&gt;Updated: 2026-05-10T21:27:46+09:00&lt;br/&gt;はじめに
-AIを使ったバイブコーディングが普及してきた影響か、最近「コードは書けるけどGitはよくわからない」という人が増えてきた気がします。
-AIがコードを生成してくれる時代になっても、Gitの操作は自分でやることが多いです。
-そしてGitの概念を理解していないと、ある...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ac1e447ba9996b5543da</id>
@@ -1715,6 +1715,16 @@ npmパッケージのリリース時にソースマップファイル（.map）�
 ローカルLLMとは、ChatGPTのようなクラウドサービスを利用するのではなく、自分のPCや自社サーバーなどのローカル環境（オンプレミス）で大規模言語モデル（L...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:9545ee09b2ffbe25057c</id>
+    <title>「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた</title>
+    <link rel="alternate" href="https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-10T21:44:32+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hosomatu&quot;&gt;hosomatu&lt;/a&gt;&lt;br/&gt;Published: 2026-05-09T21:11:18+09:00&lt;br/&gt;Updated: 2026-05-10T21:44:32+09:00&lt;br/&gt;きっかけ
+研修資料を作成していて、今までの慣例に則ってnginx + アプリケーションサーバーの構成を組んでいるときに
+「ALBもCloudFrontもある環境で、なぜnginxが必要なのか？」
+という何回かは抱いたことがある疑問にちゃんと向き合ってみようと思って深掘りし...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:63745b9198f1989c2a15</id>
     <title>Claude Codeを120%使いこなす設定3選【ECC・Memory.md・Obsidian連携】</title>
     <link rel="alternate" href="https://qiita.com/manchan/items/63745b9198f1989c2a15?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1746,16 +1756,6 @@ delphinu...</summary>
     <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuchi_a&quot;&gt;kimuchi_a&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T19:16:12+09:00&lt;br/&gt;Updated: 2026-04-03T00:19:55+09:00&lt;br/&gt;はじめに：新卒、焦らなくてもいいかも。
 過去の投稿を読んでくださった方は「何回言うねん」と思うかもしれませんが、  私はコーディング未経験の新卒としてこの会社に入社しました。
 周りは優秀な人たちばかりで、同じくコーディング未経験でも、「明らかに自分よりできる」人がごろごろ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9545ee09b2ffbe25057c</id>
-    <title>「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた</title>
-    <link rel="alternate" href="https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-10T21:44:32+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hosomatu&quot;&gt;hosomatu&lt;/a&gt;&lt;br/&gt;Published: 2026-05-09T21:11:18+09:00&lt;br/&gt;Updated: 2026-05-10T21:44:32+09:00&lt;br/&gt;きっかけ
-研修資料を作成していて、今までの慣例に則ってnginx + アプリケーションサーバーの構成を組んでいるときに
-「ALBもCloudFrontもある環境で、なぜnginxが必要なのか？」
-という何回かは抱いたことがある疑問にちゃんと向き合ってみようと思って深掘りし...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5dde0a7259d142d88551</id>
@@ -2192,14 +2192,13 @@ Antigravityでクォータ（Gemini3.1などのAIを使用できる量）が０�
 あるシステムのリプレイス検証の中で、...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b74198e39c2cbad358e3</id>
-    <title>【個人開発：制作期間1ヶ月】自分の美容（髪型・ヘアカラー・ネイルなど）を記録し、予算も管理するアプリを作成しました！【React/TypeScript/Supabase/Firebase】</title>
-    <link rel="alternate" href="https://qiita.com/pmpm_nk/items/b74198e39c2cbad358e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-06T07:05:14+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/pmpm_nk&quot;&gt;pmpm_nk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T17:00:06+09:00&lt;br/&gt;Updated: 2026-05-06T07:05:14+09:00&lt;br/&gt;はじめに
-こんにちは！
-WEBアプリケーションエンジニアとして活動しているPOMです。
-元々はPHPやJavaScriptなどをメインとしていましたが、
-今年3月からはアウトプットコミュニティであるJISOUに参加し、現在はReactやTypeScriptでの開発を行って...</summary>
+    <id>tag:qiita.com,2026:ac378f83a4e7911392d4</id>
+    <title>クオンツトレード入門者のための確率過程――価格予測ではなく、分布・リスク・エッジを見るために</title>
+    <link rel="alternate" href="https://qiita.com/tikeda123/items/ac378f83a4e7911392d4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-09T10:12:54+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tikeda123&quot;&gt;tikeda123&lt;/a&gt;&lt;br/&gt;Published: 2026-05-09T10:12:54+09:00&lt;br/&gt;Updated: 2026-05-09T10:12:54+09:00&lt;br/&gt;はじめに
+クオンツトレードというと、多くの人は「AIや統計モデルで価格を予測すること」をイメージするかもしれません。
+もちろん、予測モデルはクオンツトレードの重要な要素です。
+しかし、クオンツトレーダーにとって最初に重要なのは、未来の価格を正確に当てることではありません。...</summary>
   </entry>
 </feed>
