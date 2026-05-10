@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-05-10T21:27:46+09:00</updated>
+  <updated>2026-05-10T21:44:32+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -514,6 +514,16 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 その“親切...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:bdd7cedde03974a94406</id>
+    <title>Git初心者の頃わからなかった「pullするな」の意味</title>
+    <link rel="alternate" href="https://qiita.com/shimitaro/items/bdd7cedde03974a94406?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-10T21:27:46+09:00</updated>
+    <summary type="html">Likes: 102&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shimitaro&quot;&gt;shimitaro&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T13:16:30+09:00&lt;br/&gt;Updated: 2026-05-10T21:27:46+09:00&lt;br/&gt;はじめに
+AIを使ったバイブコーディングが普及してきた影響か、最近「コードは書けるけどGitはよくわからない」という人が増えてきた気がします。
+AIがコードを生成してくれる時代になっても、Gitの操作は自分でやることが多いです。
+そしてGitの概念を理解していないと、ある...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ab78bb338500b4c71103</id>
     <title>Claude Codeの首位陥落。CodexがシェアNo.1へ。 ～データで見る2026年3月のAI Codingの動向まとめ～</title>
     <link rel="alternate" href="https://qiita.com/kotauchisunsun/items/ab78bb338500b4c71103?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -588,16 +598,6 @@ https://kenta-matsuda.github.io/Kenta-Matsuda.github.io-aws-study/
 先日、AWS学習サイトのα版を公開しました。
 
 このα版では、AWS認定学習の「航路」を...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bdd7cedde03974a94406</id>
-    <title>Git初心者の頃わからなかった「pullするな」の意味</title>
-    <link rel="alternate" href="https://qiita.com/shimitaro/items/bdd7cedde03974a94406?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-10T21:27:46+09:00</updated>
-    <summary type="html">Likes: 94&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shimitaro&quot;&gt;shimitaro&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T13:16:30+09:00&lt;br/&gt;Updated: 2026-05-10T21:27:46+09:00&lt;br/&gt;はじめに
-AIを使ったバイブコーディングが普及してきた影響か、最近「コードは書けるけどGitはよくわからない」という人が増えてきた気がします。
-AIがコードを生成してくれる時代になっても、Gitの操作は自分でやることが多いです。
-そしてGitの概念を理解していないと、ある...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:81ddcadc785a6498d10f</id>
@@ -1953,8 +1953,8 @@ ChatGPTやClaude、Geminiなどのクラウド型AIは非常に便利ですが�
     <id>tag:qiita.com,2026:9545ee09b2ffbe25057c</id>
     <title>「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた</title>
     <link rel="alternate" href="https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-10T11:53:52+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hosomatu&quot;&gt;hosomatu&lt;/a&gt;&lt;br/&gt;Published: 2026-05-09T21:11:18+09:00&lt;br/&gt;Updated: 2026-05-10T11:53:52+09:00&lt;br/&gt;きっかけ
+    <updated>2026-05-10T21:44:32+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hosomatu&quot;&gt;hosomatu&lt;/a&gt;&lt;br/&gt;Published: 2026-05-09T21:11:18+09:00&lt;br/&gt;Updated: 2026-05-10T21:44:32+09:00&lt;br/&gt;きっかけ
 研修資料を作成していて、今までの慣例に則ってnginx + アプリケーションサーバーの構成を組んでいるときに
 「ALBもCloudFrontもある環境で、なぜnginxが必要なのか？」
 という何回かは抱いたことがある疑問にちゃんと向き合ってみようと思って深掘りし...</summary>
