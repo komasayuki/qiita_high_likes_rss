@@ -1471,16 +1471,6 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 QiitaやZenn、ブログで記...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:78fdef38b201985cb0d9</id>
-    <title>【GitHub】GitHubは低品質なユーザによるContributeを拒否する仕様を検討・実装中</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/78fdef38b201985cb0d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-11T18:15:42+09:00</updated>
-    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T19:28:32+09:00&lt;br/&gt;Updated: 2026-03-11T18:15:42+09:00&lt;br/&gt;GitHubの現在の仕様は、性善説です。
-すなわち、プルリクを出すことができるユーザは、ある程度コードを理解しているという前提です。
-開発者Collaboratorと、外部貢献者Contributerは、信頼モデルで結ばれていたのです。
-逆にコードを理解していない人によるプ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:4b3a0c02e58c3caa4e4b</id>
     <title>なぜ深層学習は表形式データでツリーモデルに勝てないのか</title>
     <link rel="alternate" href="https://qiita.com/KanNishida/items/4b3a0c02e58c3caa4e4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1703,15 +1693,6 @@ Raspberry...</summary>
 脆弱なコードと安全なコードを左右に並べて比較できるハンズオン環境を作りました
 Next.js App Router + PostgreSQL で
 4つの代表...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:411bfd2be559b82d156d</id>
-    <title>【2026年最新】100ページ超の要件定義書も楽勝！Antigravity × NotebookLMでドキュメント作成を爆速化</title>
-    <link rel="alternate" href="https://qiita.com/hitotch/items/411bfd2be559b82d156d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-13T01:26:39+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitotch&quot;&gt;hitotch&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T02:59:32+09:00&lt;br/&gt;Updated: 2026-03-13T01:26:39+09:00&lt;br/&gt;AntigravityとNotebookLMで大規模PDF仕様書から大規模Wordドキュメントを作成するワークフロー
-大規模な要件定義書や仕様書（数百ページのPDFなど）をAIに読み込ませ、そこからシステム設計書や提案書などの新規ドキュメントを自動生成させたい。
-通常、こ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:14f212258dc350857a94</id>
@@ -2201,5 +2182,24 @@ Antigravityでクォータ（Gemini3.1などのAIを使用できる量）が０�
 WEBアプリケーションエンジニアとして活動しているPOMです。
 元々はPHPやJavaScriptなどをメインとしていましたが、
 今年3月からはアウトプットコミュニティであるJISOUに参加し、現在はReactやTypeScriptでの開発を行って...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:74103e76c26b55596f7a</id>
+    <title>AIがコードを書く時代に、なぜRの可読性が重要になるのか</title>
+    <link rel="alternate" href="https://qiita.com/KanNishida/items/74103e76c26b55596f7a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-05T12:19:00+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KanNishida&quot;&gt;KanNishida&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T12:19:00+09:00&lt;br/&gt;Updated: 2026-05-05T12:19:00+09:00&lt;br/&gt;AIによって、データ分析のコードを書くハードルは大きく下がりました。
+自然言語でやりたいことを説明すれば、RでもPythonでもSQLでも、かなり実用的なコードが生成されます。
+これは、データ分析の世界にとって大きな変化です。
+これまでデータ分析を学ぶには、Explora...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:54e88055dc5fe22c0e1c</id>
+    <title>Power Automate から Copilot Studio のエージェントを多重実行させる</title>
+    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/54e88055dc5fe22c0e1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-30T08:54:57+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T08:25:50+09:00&lt;br/&gt;Updated: 2026-03-30T08:54:57+09:00&lt;br/&gt;はじめに
+Copilot Studio のエージェントに「Excel の一覧データを渡して、1行ずつ処理させたい」という相談をいただくことが増えてきました。
+たとえば、特許調査の依頼一覧が Excel テーブルに入っていて、それを AI エージェントに順番に処理させたいと...</summary>
   </entry>
 </feed>
