@@ -741,8 +741,8 @@
       "published": "2026-05-10T08:52:36+09:00",
       "updated": "2026-05-10T08:52:36+09:00",
       "author_name": "kenmatsu4",
-      "likes_count": 41,
-      "last_seen": "2026-05-11T09:25:32.805840606+00:00"
+      "likes_count": 42,
+      "last_seen": "2026-05-11T11:15:33.660273129+00:00"
     },
     {
       "key": "1b4a5c771cd8c1638915",
@@ -1174,7 +1174,7 @@
       "updated": "2026-05-09T18:24:57+09:00",
       "author_name": "nozomi2025",
       "likes_count": 24,
-      "last_seen": "2026-05-11T09:25:32.805840606+00:00"
+      "last_seen": "2026-05-11T11:15:33.660273129+00:00"
     },
     {
       "key": "3217b3c389d5ec858fef",
@@ -1186,7 +1186,7 @@
       "updated": "2026-05-10T17:57:56+09:00",
       "author_name": "Takenoko4594",
       "likes_count": 12,
-      "last_seen": "2026-05-11T09:25:32.805840606+00:00"
+      "last_seen": "2026-05-11T11:15:33.660273129+00:00"
     },
     {
       "key": "321a031ece6bc9c3b460",
@@ -3177,8 +3177,8 @@
       "published": "2026-05-11T13:29:23+09:00",
       "updated": "2026-05-11T13:29:24+09:00",
       "author_name": "hitomin_poke",
-      "likes_count": 49,
-      "last_seen": "2026-05-11T09:25:32.805840606+00:00"
+      "likes_count": 55,
+      "last_seen": "2026-05-11T11:15:33.660273129+00:00"
     },
     {
       "key": "6dda0b4e6d018cc6aa14",
@@ -4318,7 +4318,7 @@
       "updated": "2026-05-10T21:44:32+09:00",
       "author_name": "hosomatu",
       "likes_count": 60,
-      "last_seen": "2026-05-11T09:25:32.805840606+00:00"
+      "last_seen": "2026-05-11T11:15:33.660273129+00:00"
     },
     {
       "key": "95b6c49cfdd148898689",
@@ -4474,7 +4474,7 @@
       "updated": "2026-05-09T20:18:42+09:00",
       "author_name": "Rin5",
       "likes_count": 15,
-      "last_seen": "2026-05-11T09:25:32.805840606+00:00"
+      "last_seen": "2026-05-11T11:15:33.660273129+00:00"
     },
     {
       "key": "9a53b6f957f809089881",
@@ -5037,8 +5037,8 @@
       "published": "2026-05-09T10:12:54+09:00",
       "updated": "2026-05-09T10:12:54+09:00",
       "author_name": "tikeda123",
-      "likes_count": 40,
-      "last_seen": "2026-05-11T09:25:32.805840606+00:00"
+      "likes_count": 42,
+      "last_seen": "2026-05-11T11:15:33.660273129+00:00"
     },
     {
       "key": "acaf965dfa90584b273a",
@@ -5769,8 +5769,8 @@
       "published": "2026-05-09T08:39:03+09:00",
       "updated": "2026-05-10T01:02:45+09:00",
       "author_name": "shimitaro",
-      "likes_count": 26,
-      "last_seen": "2026-05-11T09:25:32.805840606+00:00"
+      "likes_count": 27,
+      "last_seen": "2026-05-11T11:15:33.660273129+00:00"
     },
     {
       "key": "c787ccd02775613f6f13",
@@ -6225,8 +6225,8 @@
       "published": "2026-05-10T00:57:21+09:00",
       "updated": "2026-05-10T01:10:11+09:00",
       "author_name": "shimitaro",
-      "likes_count": 14,
-      "last_seen": "2026-05-11T09:25:32.805840606+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-05-11T11:15:33.660273129+00:00"
     },
     {
       "key": "d77db1a51bd2b56bf862",
@@ -6597,8 +6597,8 @@
       "published": "2026-05-11T09:54:16+09:00",
       "updated": "2026-05-11T09:54:17+09:00",
       "author_name": "mattsershaw",
-      "likes_count": 11,
-      "last_seen": "2026-05-11T09:25:32.805840606+00:00"
+      "likes_count": 12,
+      "last_seen": "2026-05-11T11:15:33.660273129+00:00"
     },
     {
       "key": "e644e9b620ee1c8d3c1b",
@@ -7427,6 +7427,18 @@
       "author_name": "redwings_a",
       "likes_count": 13,
       "last_seen": "2026-04-07T19:34:09.486633379+00:00"
+    },
+    {
+      "key": "fd1be5f3be4170a11a44",
+      "item_id": "fd1be5f3be4170a11a44",
+      "title": "Agent Toolkit for AWSが持つ50種類のSkillsをStrands Agentsから実行する",
+      "link": "https://qiita.com/nasuvitz/items/fd1be5f3be4170a11a44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nAmazon Bedrock AgentCore上で実行するRuntimeから、Agent Toolkit for AWSのSkillsを呼び出して実行できるようにしました。数えると、実に50種類にも及びます。\nまずAgent Toolkit for AWSのs...",
+      "published": "2026-05-10T23:00:17+09:00",
+      "updated": "2026-05-11T11:22:11+09:00",
+      "author_name": "nasuvitz",
+      "likes_count": 10,
+      "last_seen": "2026-05-11T11:15:33.660273129+00:00"
     },
     {
       "key": "fd31a46683bba8bf55b7",
