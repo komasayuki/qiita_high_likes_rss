@@ -121,6 +121,18 @@
       "last_seen": "2026-03-19T07:30:13.372315449+00:00"
     },
     {
+      "key": "03ab0f5fff1073d5604d",
+      "item_id": "03ab0f5fff1073d5604d",
+      "title": "[Frontend Performance - Part 15] 配信最適化：CDNとネットワークで表示速度を改善する",
+      "link": "https://qiita.com/tuanphan/items/03ab0f5fff1073d5604d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "📝 注意\n本記事はAIの補助を受けて編集しています。\n内容は大規模Webアプリケーションの実務経験に基づいています。\n\n📚 目次\n\n0. はじめに：なぜ東京のLighthouseは95点でもブラジルのユーザーは遅いのか？\n1. 配信最適化の全体像：プロトコルからCD...",
+      "published": "2026-05-13T11:37:31+09:00",
+      "updated": "2026-05-13T11:37:31+09:00",
+      "author_name": "tuanphan",
+      "likes_count": 12,
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
+    },
+    {
       "key": "03e060850144899fd284",
       "item_id": "03e060850144899fd284",
       "title": "xUnit で始める C# 単体テスト入門",
@@ -383,6 +395,18 @@
       "author_name": "htani0817",
       "likes_count": 66,
       "last_seen": "2026-04-21T19:36:47.240591249+00:00"
+    },
+    {
+      "key": "0d2577bf1d1d127033d9",
+      "item_id": "0d2577bf1d1d127033d9",
+      "title": "Whisperベースの無料音声入力ツール「Whispering」のセットアップ方法（Mac）",
+      "link": "https://qiita.com/akasateru/items/0d2577bf1d1d127033d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている大畑です。\nタイピングが面倒なときに音声でサッとテキスト入力できたら便利ですよね。\nMacにはネイティブの音声入力機能が標準搭載されていますが、Whisperingを使うとこん...",
+      "published": "2026-05-13T10:36:14+09:00",
+      "updated": "2026-05-13T10:36:15+09:00",
+      "author_name": "akasateru",
+      "likes_count": 14,
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
     },
     {
       "key": "0ea828992c96075e9563",
@@ -802,7 +826,7 @@
       "updated": "2026-05-12T16:12:43+09:00",
       "author_name": "nhatcaofedev",
       "likes_count": 13,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
     },
     {
       "key": "1ba7e323398808fa74e2",
@@ -1105,6 +1129,18 @@
       "last_seen": "2026-03-22T19:16:23.677119847+00:00"
     },
     {
+      "key": "296886c435ebc79a667c",
+      "item_id": "296886c435ebc79a667c",
+      "title": "1割の \"信頼される\" エンジニアが実行している 『止めないコミュニケーション』",
+      "link": "https://qiita.com/hitomin_poke/items/296886c435ebc79a667c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめまして。株式会社PRUMでエンジニアをしている人見です。\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶ コーポレートサイト\n\n1割の \"信頼さ...",
+      "published": "2026-05-13T13:42:28+09:00",
+      "updated": "2026-05-13T13:42:28+09:00",
+      "author_name": "hitomin_poke",
+      "likes_count": 42,
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
+    },
+    {
       "key": "2ad0240c56eb7507b261",
       "item_id": "2ad0240c56eb7507b261",
       "title": "日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた",
@@ -1306,7 +1342,7 @@
       "updated": "2026-05-12T11:06:22+09:00",
       "author_name": "_anonymous_dog_",
       "likes_count": 20,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
     },
     {
       "key": "330a378b024562c9e097",
@@ -1393,18 +1429,6 @@
       "last_seen": "2026-04-01T07:42:05.895009601+00:00"
     },
     {
-      "key": "35f156dbe526121e66f5",
-      "item_id": "35f156dbe526121e66f5",
-      "title": "gpt-ossの推論を6倍速に。Thinking OFF設定と、Ollamaで効かない理由",
-      "link": "https://qiita.com/ntaka329/items/35f156dbe526121e66f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nGMOコネクトの永田です。\nローカルLLMの推論をもっと速くしたい！\nLLMを利用するタスクによっては1件あたり数十秒〜かかり、処理件数が多いとかなりの処理時間になります。\ngpt-ossの場合、推論時間の8割はreasoning tokens、つまりモデルが内...",
-      "published": "2026-03-11T13:55:22+09:00",
-      "updated": "2026-03-11T13:55:22+09:00",
-      "author_name": "ntaka329",
-      "likes_count": 14,
-      "last_seen": "2026-03-14T07:23:36.191504629+00:00"
-    },
-    {
       "key": "35f8fd0f56e63b25854f",
       "item_id": "35f8fd0f56e63b25854f",
       "title": "ローカルLLM（Gemma4）× AIVIS Speech で音声チャットの応答を「1秒未満」にした話",
@@ -1475,18 +1499,6 @@
       "author_name": "mfunaki",
       "likes_count": 35,
       "last_seen": "2026-04-27T07:10:43.003386883+00:00"
-    },
-    {
-      "key": "3825da22d42572aee59c",
-      "item_id": "3825da22d42572aee59c",
-      "title": "SES3年・30代でWeb系自社開発企業に転職するまで（応募117社 / 学習922時間）",
-      "link": "https://qiita.com/ngimixin/items/3825da22d42572aee59c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Webエンジニア転職活動の振り返り\n最近、自社開発企業から内定をいただき転職活動を終えました。\nこの記事では自分の転職活動を振り返る意味も込めて\n\n転職活動の期間\n応募社数\n面接回数\n通過率\nやってきた自己学習\n面接で聞かれたこと\n転職活動の進め方\n\nなどをまとめておきま...",
-      "published": "2026-03-11T07:21:50+09:00",
-      "updated": "2026-03-12T09:55:27+09:00",
-      "author_name": "ngimixin",
-      "likes_count": 37,
-      "last_seen": "2026-03-14T07:23:36.191504629+00:00"
     },
     {
       "key": "382bd11e374df6774ec4",
@@ -2149,18 +2161,6 @@
       "last_seen": "2026-03-25T07:32:17.548766324+00:00"
     },
     {
-      "key": "4caaaab2b376c063d97f",
-      "item_id": "4caaaab2b376c063d97f",
-      "title": "Claude CodeをBedrockに切り替える簡易手順",
-      "link": "https://qiita.com/minorun365/items/4caaaab2b376c063d97f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "最近、Claude CodeのAPI障害が多いので、急ぎの際にサッとBedrockに切り替えられるように備忘。\n\n1. AWSにログイン\nAWS IICでSSO設定済みの前提です。\naws sso login --profile ...",
-      "published": "2026-03-12T02:34:33+09:00",
-      "updated": "2026-03-12T02:40:30+09:00",
-      "author_name": "minorun365",
-      "likes_count": 16,
-      "last_seen": "2026-03-14T07:23:36.191504629+00:00"
-    },
-    {
       "key": "4d04c2691c788d1781e1",
       "item_id": "4d04c2691c788d1781e1",
       "title": "おうちで通信キャリアを再現してみた",
@@ -2217,8 +2217,8 @@
       "published": "2026-05-12T20:10:54+09:00",
       "updated": "2026-05-12T20:17:59+09:00",
       "author_name": "Toyo_m",
-      "likes_count": 14,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
     },
     {
       "key": "4e8be1c0fe4c3995c2fd",
@@ -2257,16 +2257,16 @@
       "last_seen": "2026-04-16T07:43:15.373734794+00:00"
     },
     {
-      "key": "4fd4d07f82ee22cfc7d8",
-      "item_id": "4fd4d07f82ee22cfc7d8",
-      "title": "AIが大成功しても企業は儲からない—Noah Smithの「航空会社シナリオ」をエンジニア視点で読む",
-      "link": "https://qiita.com/nogataka/items/4fd4d07f82ee22cfc7d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n経済学者Noah Smithの記事「The AI bust scenario that no one is talking about」が話題になりました。はてなブックマークで179usersを記録し、日本語訳も広く読まれています。\nAIの未来を語るとき、多くの...",
-      "published": "2026-03-11T10:19:18+09:00",
-      "updated": "2026-03-11T10:20:58+09:00",
-      "author_name": "nogataka",
-      "likes_count": 18,
-      "last_seen": "2026-03-14T07:23:36.191504629+00:00"
+      "key": "4ff2efbaa38575edd6a8",
+      "item_id": "4ff2efbaa38575edd6a8",
+      "title": "「あ、これAIが書いたな」と一瞬でバレる技術記事の6つの特徴",
+      "link": "https://qiita.com/gorie-site/items/4ff2efbaa38575edd6a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "最近、QiitaやZennを眺めていると、「あ、これAIが書いたな」と直感的に分かることが増えてきました。\nLLMの進化によって誰でも簡単に技術記事を量産できるようになりましたが、プロンプトをそのまま投げただけの出力には、AI特有の「手癖」 が強く残ります。\n本記事では、A...",
+      "published": "2026-05-11T23:34:03+09:00",
+      "updated": "2026-05-11T23:34:03+09:00",
+      "author_name": "gorie-site",
+      "likes_count": 11,
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
     },
     {
       "key": "5022be3615ecd8b5337c",
@@ -2529,8 +2529,8 @@
       "published": "2026-05-11T12:55:14+09:00",
       "updated": "2026-05-13T11:48:40+09:00",
       "author_name": "TOMOSIA-HieuNT",
-      "likes_count": 79,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
+      "likes_count": 89,
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
     },
     {
       "key": "565941faee9c67b64e14",
@@ -2589,8 +2589,8 @@
       "published": "2026-05-10T23:15:59+09:00",
       "updated": "2026-05-12T23:07:54+09:00",
       "author_name": "nishifeoda",
-      "likes_count": 14,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
+      "likes_count": 15,
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
     },
     {
       "key": "58ebc0da27b2eb7040a7",
@@ -2651,18 +2651,6 @@
       "author_name": "nogataka",
       "likes_count": 139,
       "last_seen": "2026-03-17T07:33:07.650799154+00:00"
-    },
-    {
-      "key": "5b5fd06d488119daa899",
-      "item_id": "5b5fd06d488119daa899",
-      "title": "「テストコードは仕様書になる」クリーンアーキテクチャの各層で「振る舞い」をテストするべき理由",
-      "link": "https://qiita.com/takishun_schoo/items/5b5fd06d488119daa899?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nこんにちは！株式会社Schooで内定者インターンをしている@takishun_schooと申します！\n現在私は、とあるプロジェクトのバックエンド開発に携わっており、プロジェクトではGo言語とクリーンアーキテクチャを採用しています。\n今回は、そのインターン中の機能...",
-      "published": "2026-03-12T14:48:28+09:00",
-      "updated": "2026-03-12T14:48:30+09:00",
-      "author_name": "takishun_schoo",
-      "likes_count": 13,
-      "last_seen": "2026-03-14T07:23:36.191504629+00:00"
     },
     {
       "key": "5b62c8047de13585e881",
@@ -3226,7 +3214,7 @@
       "updated": "2026-05-12T21:47:26+09:00",
       "author_name": "moritalous",
       "likes_count": 13,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
     },
     {
       "key": "6d0eccd780b824cf080e",
@@ -3273,8 +3261,8 @@
       "published": "2026-05-11T13:29:23+09:00",
       "updated": "2026-05-11T13:29:24+09:00",
       "author_name": "hitomin_poke",
-      "likes_count": 141,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
+      "likes_count": 143,
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
     },
     {
       "key": "6dda0b4e6d018cc6aa14",
@@ -3287,18 +3275,6 @@
       "author_name": "ssaita",
       "likes_count": 24,
       "last_seen": "2026-04-10T19:27:17.495757117+00:00"
-    },
-    {
-      "key": "6e5bc00f8426194d0978",
-      "item_id": "6e5bc00f8426194d0978",
-      "title": "【deepwiki-open】いいパソコンはもってないけど、ローカルLLMで社内Wikiをつくりたい",
-      "link": "https://qiita.com/melhts/items/6e5bc00f8426194d0978?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "１.はじめに\nこんにちは。\nみなさん、『 いいパソコン 』持っていますか？\n\nGPUが積まれた高性能マシン。\nメモリたっぷり。\nローカルでLLMをブン回せる環境。\n\n私は持っていません。\n（パソコンってお高いですからね...設定も大変だし。）\nそれでもローカルLLMで社内...",
-      "published": "2026-03-11T10:13:16+09:00",
-      "updated": "2026-03-11T10:13:16+09:00",
-      "author_name": "melhts",
-      "likes_count": 66,
-      "last_seen": "2026-03-14T07:23:36.191504629+00:00"
     },
     {
       "key": "6ecfb5840fa700971a1f",
@@ -3910,7 +3886,7 @@
       "updated": "2026-05-12T04:38:10+09:00",
       "author_name": "KanNishida",
       "likes_count": 21,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
     },
     {
       "key": "83fc90d846f941ee6f4e",
@@ -4341,8 +4317,8 @@
       "published": "2026-05-12T09:53:08+09:00",
       "updated": "2026-05-12T09:53:08+09:00",
       "author_name": "masa20057",
-      "likes_count": 86,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
+      "likes_count": 93,
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
     },
     {
       "key": "92cf7e55a955be1a4bbd",
@@ -4981,18 +4957,6 @@
       "last_seen": "2026-04-18T07:35:32.903620590+00:00"
     },
     {
-      "key": "a8306067788798975fa7",
-      "item_id": "a8306067788798975fa7",
-      "title": "ハーネスエンジニアリングを自分のプロジェクトで実装してみた",
-      "link": "https://qiita.com/nogataka/items/a8306067788798975fa7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nMorpho社の調査が興味深いデータを出しています。SWE-benchにおいて、ハーネス設計の違いでスコアが最大22ポイント変動する一方、モデルの入れ替えではわずか1ポイントしか変わりませんでした。\nつまり「どのモデルを使うか」より「どんな環境でエージェントを走...",
-      "published": "2026-03-11T10:19:26+09:00",
-      "updated": "2026-03-11T12:18:34+09:00",
-      "author_name": "nogataka",
-      "likes_count": 46,
-      "last_seen": "2026-03-14T07:23:36.191504629+00:00"
-    },
-    {
       "key": "a867e1954b80e78cf146",
       "item_id": "a867e1954b80e78cf146",
       "title": "Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ",
@@ -5629,6 +5593,18 @@
       "last_seen": "2026-04-23T07:44:26.013473329+00:00"
     },
     {
+      "key": "bdc316e82f878815da0f",
+      "item_id": "bdc316e82f878815da0f",
+      "title": "リサイズをスムーズに行うFigmaデータの作成方法",
+      "link": "https://qiita.com/hamada_yzrh/items/bdc316e82f878815da0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nFigma上で、第三者が作ったデザインデータをはじめて編集するとき、\n思わぬトラブルが起きることってありますよね。\nその一つが、リサイズ時のオブジェクトの配置・大きさが変わってしまうこと。\nたとえば...\nこのようなデザインに、\n\n下のようなコンテンツを追加して...",
+      "published": "2026-05-13T08:42:38+09:00",
+      "updated": "2026-05-13T08:42:38+09:00",
+      "author_name": "hamada_yzrh",
+      "likes_count": 15,
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
+    },
+    {
       "key": "bdd7cedde03974a94406",
       "item_id": "bdd7cedde03974a94406",
       "title": "Git初心者の頃わからなかった「pullするな」の意味",
@@ -5917,6 +5893,18 @@
       "last_seen": "2026-04-14T19:39:02.466010330+00:00"
     },
     {
+      "key": "c7f5838aef1afea9f631",
+      "item_id": "c7f5838aef1afea9f631",
+      "title": "React開発者注意：TanStack Router攻撃事件まとめ",
+      "link": "https://qiita.com/tuanphan/items/c7f5838aef1afea9f631?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "📝 注意\n本記事はAIの補助を受けて編集しています。\n\nインシデント概要（TanStack 公式ポストモーテムより確認）\n2026年5月11日 19:20～19:26 UTC（日本時間 5月12日 4:20～4:26 頃）、攻撃者は @tanstack/* 名前空間配...",
+      "published": "2026-05-13T10:58:54+09:00",
+      "updated": "2026-05-13T10:58:54+09:00",
+      "author_name": "tuanphan",
+      "likes_count": 13,
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
+    },
+    {
       "key": "c841d47f35e9c04c6bee",
       "item_id": "c841d47f35e9c04c6bee",
       "title": "「何からやれば...」を卒業する。実務の解像度を劇的に高める3ステップ",
@@ -5985,8 +5973,8 @@
       "published": "2026-05-11T17:45:56+09:00",
       "updated": "2026-05-11T17:45:56+09:00",
       "author_name": "ALeX_EXVS",
-      "likes_count": 52,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
+      "likes_count": 53,
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
     },
     {
       "key": "cd53aec76db1dec20862",
@@ -6081,8 +6069,8 @@
       "published": "2026-05-11T17:19:23+09:00",
       "updated": "2026-05-13T08:53:48+09:00",
       "author_name": "miruky",
-      "likes_count": 65,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
+      "likes_count": 73,
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
     },
     {
       "key": "cf13c7c70ae148146fd0",
@@ -6130,7 +6118,7 @@
       "updated": "2026-05-12T12:56:37+09:00",
       "author_name": "nasuvitz",
       "likes_count": 34,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
     },
     {
       "key": "d109bfd9a11bfbf2c100",
@@ -6311,18 +6299,6 @@
       "author_name": "kawabe0201",
       "likes_count": 26,
       "last_seen": "2026-04-04T07:31:38.709708361+00:00"
-    },
-    {
-      "key": "d6a9842f477f0aa0b89e",
-      "item_id": "d6a9842f477f0aa0b89e",
-      "title": "[AI時代でも生き残る] シンプルに優秀な人がやっていること７選",
-      "link": "https://qiita.com/taka_xin/items/d6a9842f477f0aa0b89e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n仕事ができる人の特徴というと、なんとなく\n「頭の回転が速いのかなぁ」\n「地頭がいいんだろうな」\n「とにかく仕事が好きなんだろうなぁ」\nなどを思ったりする人も多いと思います。\nただ、実は案外シンプルなことをやっているみたいです。\n今回は、シンプルだけど、実際に仕事...",
-      "published": "2026-03-11T09:08:52+09:00",
-      "updated": "2026-03-11T09:08:52+09:00",
-      "author_name": "taka_xin",
-      "likes_count": 202,
-      "last_seen": "2026-03-14T07:23:36.191504629+00:00"
     },
     {
       "key": "d6c83ea50b82e1c2602c",
@@ -6517,18 +6493,6 @@
       "last_seen": "2026-04-04T07:31:38.709708361+00:00"
     },
     {
-      "key": "de40a122980628bc61e7",
-      "item_id": "de40a122980628bc61e7",
-      "title": "「カード作りが面倒すぎる」問題をAIで解決したら、資格勉強が続くようになった",
-      "link": "https://qiita.com/CoboMemo/items/de40a122980628bc61e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "「カード作りが面倒すぎる」問題をAIで解決したら、資格勉強が続くようになった\n\nはじめに：エンジニアの「積ん読あるある」\nAWS Solutions Architect、情報処理技術者試験、LPIC、TOEIC……\nエンジニアなら一度は「今年こそ取る」と決意した経験はない...",
-      "published": "2026-03-11T07:06:34+09:00",
-      "updated": "2026-03-11T07:06:34+09:00",
-      "author_name": "CoboMemo",
-      "likes_count": 27,
-      "last_seen": "2026-03-14T07:23:36.191504629+00:00"
-    },
-    {
       "key": "df077776b293163e0a42",
       "item_id": "df077776b293163e0a42",
       "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",
@@ -6539,18 +6503,6 @@
       "author_name": "sarubot",
       "likes_count": 64,
       "last_seen": "2026-03-23T07:38:39.893247745+00:00"
-    },
-    {
-      "key": "dfb3509ade7d4ad67b90",
-      "item_id": "dfb3509ade7d4ad67b90",
-      "title": "【2026年3月最新版】コーディングが楽になったからこそ気をつけるべきセキュリティ",
-      "link": "https://qiita.com/miruky/items/dfb3509ade7d4ad67b90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nこんばんは、mirukyです。\n今回はいつものAWSシリーズとは少し毛色を変えて、AIコーディング時代のセキュリティについて書きます。\n2025年から2026年にかけて、GitHub Copilot、Claude Code、Cursor、Cline、Amazon...",
-      "published": "2026-03-11T23:53:12+09:00",
-      "updated": "2026-03-12T21:52:33+09:00",
-      "author_name": "miruky",
-      "likes_count": 15,
-      "last_seen": "2026-03-14T07:23:36.191504629+00:00"
     },
     {
       "key": "e0907d360fc1d9a8f032",
@@ -6730,7 +6682,7 @@
       "updated": "2026-05-11T09:54:17+09:00",
       "author_name": "mattsershaw",
       "likes_count": 31,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
     },
     {
       "key": "e644e9b620ee1c8d3c1b",
@@ -6767,6 +6719,18 @@
       "author_name": "tkazuaki0820",
       "likes_count": 16,
       "last_seen": "2026-04-05T07:34:01.078592178+00:00"
+    },
+    {
+      "key": "e6f8f5f7867d335814dd",
+      "item_id": "e6f8f5f7867d335814dd",
+      "title": "OCI X12 Standard Acceleron Computeで Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
+      "link": "https://qiita.com/shirok/items/e6f8f5f7867d335814dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "Oracle Cloud Infrastructure（OCI）は、Intel Xeon 6プロセッサーを搭載した X12 Standard Acceleron Compute インスタンスを提供しています。\n\nAI、データ集約型アプリケーション、最新のマイクロサービスによ...",
+      "published": "2026-05-13T09:34:15+09:00",
+      "updated": "2026-05-13T17:55:23+09:00",
+      "author_name": "shirok",
+      "likes_count": 14,
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
     },
     {
       "key": "e777dcadbc850c357419",
@@ -7405,6 +7369,18 @@
       "last_seen": "2026-03-22T07:25:12.680725393+00:00"
     },
     {
+      "key": "f9143a90094601631b6b",
+      "item_id": "f9143a90094601631b6b",
+      "title": "いつも使っている Claude Code の裏側を覗いてみた",
+      "link": "https://qiita.com/sapeet-lin/items/f9143a90094601631b6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "SapeetでSWEをやっている林です。\n毎日 Claude Code を使っていると、「このリポジトリの差分を確認してほしい」と一言打つだけで、いつの間にかコミット内容がまとめられて返ってくる。便利すぎて当たり前になっているのですが、ふと「裏側で何が起きているんだろう？」...",
+      "published": "2026-05-13T11:04:16+09:00",
+      "updated": "2026-05-13T11:04:17+09:00",
+      "author_name": "sapeet-lin",
+      "likes_count": 18,
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
+    },
+    {
       "key": "f94803dd326ef7c3eb25",
       "item_id": "f94803dd326ef7c3eb25",
       "title": "その“親切な設計”、たぶん無駄です  - エンジニアがハマる「やりすぎ問題」-",
@@ -7486,7 +7462,7 @@
       "updated": "2026-05-12T09:54:59+09:00",
       "author_name": "TMiyamoto",
       "likes_count": 12,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
+      "last_seen": "2026-05-13T09:16:55.834207263+00:00"
     },
     {
       "key": "fb94b54ef5f9a7df59fc",
