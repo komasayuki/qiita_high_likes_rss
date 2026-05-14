@@ -159,6 +159,16 @@ Webアプリケーションのアーキテクチャは、時代とともに構�
 本記事では、その変遷をJavaの技術スタックを軸に、2層構造（Model 1）からMVCパターン（Model 2）、レイヤードアーキテクチャ、そしてヘキサゴナルアーキテクチャ・クリーン...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cef8169b4a10cdd790b5</id>
+    <title>【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/cef8169b4a10cdd790b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-13T08:53:48+09:00</updated>
+    <summary type="html">Likes: 180&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T17:19:23+09:00&lt;br/&gt;Updated: 2026-05-13T08:53:48+09:00&lt;br/&gt;前置き
+こんばんは、mirukyです。
+この間のGW中に、高校時代の先輩（テックリード）と飲みに行きました。
+そのとき先輩が経験した炎上プロジェクトの話になり、先輩が「ブルックスの法則ってあるじゃん。まさしくあれになってさ」みたいなことを言っていたのですが、本で見たこと...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a867e1954b80e78cf146</id>
     <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
     <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -185,16 +195,6 @@ Bunでビルドしたときにデフォルトで生成されるsou...</summary>
 AIにコードを丸投げし、中身が分からないまま過ごす日々が不安
 こんなことを思って日々過ごしていませんか？
 そんな方に僕が現場を経験して気づいた、技術の「表面」ではなく「本質」を掴んで成長を加速させるためのヒントを、僕の失敗談を交えつつお伝えします...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cef8169b4a10cdd790b5</id>
-    <title>【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/cef8169b4a10cdd790b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-13T08:53:48+09:00</updated>
-    <summary type="html">Likes: 172&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T17:19:23+09:00&lt;br/&gt;Updated: 2026-05-13T08:53:48+09:00&lt;br/&gt;前置き
-こんばんは、mirukyです。
-この間のGW中に、高校時代の先輩（テックリード）と飲みに行きました。
-そのとき先輩が経験した炎上プロジェクトの話になり、先輩が「ブルックスの法則ってあるじゃん。まさしくあれになってさ」みたいなことを言っていたのですが、本で見たこと...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:48f13332305338720524</id>
@@ -1138,6 +1138,18 @@ axiosサプライチェーン攻撃に関して、GitHub IssueにPostmortem（�
 2026年3月、海外でまさにこの事態が発生しました。個人開発者のS3バケットがDDoS攻撃を受け、3日間で160TBのデータ転送が発生。結果...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:296886c435ebc79a667c</id>
+    <title>1割の &quot;信頼される&quot; エンジニアが実行している 『止めないコミュニケーション』</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/296886c435ebc79a667c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-13T13:42:28+09:00</updated>
+    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T13:42:28+09:00&lt;br/&gt;Updated: 2026-05-13T13:42:28+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶ コーポレートサイト
+
+1割の &quot;信頼さ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:73bd88b401ecab0cc4c5</id>
     <title>プログラミング初学者の方が見落としがちなプロダクトを見る視点</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/73bd88b401ecab0cc4c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1221,18 +1233,6 @@ PRUMについて気になった方は、
 
 本題
 論文調査に1日...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:296886c435ebc79a667c</id>
-    <title>1割の &quot;信頼される&quot; エンジニアが実行している 『止めないコミュニケーション』</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/296886c435ebc79a667c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-13T13:42:28+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T13:42:28+09:00&lt;br/&gt;Updated: 2026-05-13T13:42:28+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶ コーポレートサイト
-
-1割の &quot;信頼さ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ede7d1c0be4a14024857</id>

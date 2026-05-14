@@ -661,18 +661,6 @@
       "last_seen": "2026-03-29T19:21:07.524750236+00:00"
     },
     {
-      "key": "1689535e7ae6e5b2ea25",
-      "item_id": "1689535e7ae6e5b2ea25",
-      "title": "Copilot Studio の自律型エージェントでファイルアップロードトリガーを試してみた",
-      "link": "https://qiita.com/Takashi_Masumori/items/1689535e7ae6e5b2ea25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nCopilot Studio の自律型エージェントには、「ファイルが作成されたとき (プロパティのみ)」というトリガーが用意されています。このトリガーを使えば、SharePoint にファイルがアップロードされたタイミングで自律型エージェントを起動させることがで...",
-      "published": "2026-03-12T11:51:06+09:00",
-      "updated": "2026-03-12T11:51:06+09:00",
-      "author_name": "Takashi_Masumori",
-      "likes_count": 17,
-      "last_seen": "2026-03-15T07:28:09.665524959+00:00"
-    },
-    {
       "key": "16d23d247c9cad158c2c",
       "item_id": "16d23d247c9cad158c2c",
       "title": "競技プログラミング　atcoderで黄色になった話",
@@ -814,7 +802,7 @@
       "updated": "2026-05-12T16:12:43+09:00",
       "author_name": "nhatcaofedev",
       "likes_count": 18,
-      "last_seen": "2026-05-14T07:17:00.140872567+00:00"
+      "last_seen": "2026-05-14T09:09:51.119847391+00:00"
     },
     {
       "key": "1ba7e323398808fa74e2",
@@ -1125,8 +1113,8 @@
       "published": "2026-05-13T13:42:28+09:00",
       "updated": "2026-05-13T13:42:28+09:00",
       "author_name": "hitomin_poke",
-      "likes_count": 64,
-      "last_seen": "2026-05-14T07:17:00.140872567+00:00"
+      "likes_count": 67,
+      "last_seen": "2026-05-14T09:09:51.119847391+00:00"
     },
     {
       "key": "2ad0240c56eb7507b261",
@@ -1499,6 +1487,18 @@
       "author_name": "yoshikim1467",
       "likes_count": 38,
       "last_seen": "2026-04-06T19:32:40.333922591+00:00"
+    },
+    {
+      "key": "38757bc86c30f0326519",
+      "item_id": "38757bc86c30f0326519",
+      "title": "【TypeScript】条件分岐のベストプラクティス ── ネスト・switch・フラグ引数を卒業しよう",
+      "link": "https://qiita.com/Nao52/items/38757bc86c30f0326519?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "■ この記事はこんな人におすすめ\n\nTypeScriptでifのネストやswitchを多用しているが、読みにくいと感じている人\nenumを使っているが、ケース追加時の漏れが怖い人\n「フラグ引数」が何なのか、なぜ避けるべきかを知りたい人\n保守しやすい条件分岐の書き方をマスタ...",
+      "published": "2026-05-14T07:40:10+09:00",
+      "updated": "2026-05-14T07:40:10+09:00",
+      "author_name": "Nao52",
+      "likes_count": 17,
+      "last_seen": "2026-05-14T09:09:51.119847391+00:00"
     },
     {
       "key": "387cda18f797938acb6b",
@@ -2205,8 +2205,8 @@
       "published": "2026-05-12T20:10:54+09:00",
       "updated": "2026-05-12T20:17:59+09:00",
       "author_name": "Toyo_m",
-      "likes_count": 29,
-      "last_seen": "2026-05-14T07:17:00.140872567+00:00"
+      "likes_count": 30,
+      "last_seen": "2026-05-14T09:09:51.119847391+00:00"
     },
     {
       "key": "4e8be1c0fe4c3995c2fd",
@@ -2254,7 +2254,7 @@
       "updated": "2026-05-11T23:34:03+09:00",
       "author_name": "gorie-site",
       "likes_count": 23,
-      "last_seen": "2026-05-14T07:17:00.140872567+00:00"
+      "last_seen": "2026-05-14T09:09:51.119847391+00:00"
     },
     {
       "key": "5022be3615ecd8b5337c",
@@ -3190,7 +3190,7 @@
       "updated": "2026-05-12T21:47:26+09:00",
       "author_name": "moritalous",
       "likes_count": 19,
-      "last_seen": "2026-05-14T07:17:00.140872567+00:00"
+      "last_seen": "2026-05-14T09:09:51.119847391+00:00"
     },
     {
       "key": "6d0eccd780b824cf080e",
@@ -3613,6 +3613,18 @@
       "last_seen": "2026-03-20T19:24:02.878169134+00:00"
     },
     {
+      "key": "786af70f2697dfac4329",
+      "item_id": "786af70f2697dfac4329",
+      "title": "AIにコードを書かせ続けて気づいた、エンジニアの\"分かったつもり\"の怖さ",
+      "link": "https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n「なんでここでこの型を使ってるの？」\n同僚にそう聞かれたとき、自分の口から出たのは「一旦調べさせてください」だった。実装を担当しているのは自分なのに、その場でパッと説明できない。動いている。テストも通っている。でも、なぜそう書いたのかと聞かれると言葉に詰まる。A...",
+      "published": "2026-05-14T08:06:19+09:00",
+      "updated": "2026-05-14T10:00:06+09:00",
+      "author_name": "jinxin4869",
+      "likes_count": 23,
+      "last_seen": "2026-05-14T09:09:51.119847391+00:00"
+    },
+    {
       "key": "792a3dc35ec04ee24da9",
       "item_id": "792a3dc35ec04ee24da9",
       "title": "新人プログラマーは、全部を覚えなくていい。～ 最初に身につけたい3つの土台 ～",
@@ -3861,8 +3873,8 @@
       "published": "2026-05-12T04:38:10+09:00",
       "updated": "2026-05-12T04:38:10+09:00",
       "author_name": "KanNishida",
-      "likes_count": 26,
-      "last_seen": "2026-05-14T07:17:00.140872567+00:00"
+      "likes_count": 27,
+      "last_seen": "2026-05-14T09:09:51.119847391+00:00"
     },
     {
       "key": "83fc90d846f941ee6f4e",
@@ -4294,7 +4306,7 @@
       "updated": "2026-05-12T09:53:08+09:00",
       "author_name": "masa20057",
       "likes_count": 109,
-      "last_seen": "2026-05-14T07:17:00.140872567+00:00"
+      "last_seen": "2026-05-14T09:09:51.119847391+00:00"
     },
     {
       "key": "92cf7e55a955be1a4bbd",
@@ -4535,6 +4547,18 @@
       "author_name": "nogataka",
       "likes_count": 24,
       "last_seen": "2026-03-21T19:15:06.564846585+00:00"
+    },
+    {
+      "key": "996735e9b8ff4b3b1255",
+      "item_id": "996735e9b8ff4b3b1255",
+      "title": "要件定義とは何か？開発メンバー初心者向けガイド",
+      "link": "https://qiita.com/Nao52/items/996735e9b8ff4b3b1255?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "■ この記事はこんな人におすすめ\n\n開発チームに配属されたばかりで「要件定義」という言葉をよく聞く\n要件定義が何なのか、なぜ大切なのかが分からない\n実装を始める前に何をすべきか知りたい\nチーム内で依頼者と話し合うときの流れを理解したい\n\n■ この記事で得られること\n\n「...",
+      "published": "2026-05-13T08:58:27+09:00",
+      "updated": "2026-05-14T07:33:41+09:00",
+      "author_name": "Nao52",
+      "likes_count": 21,
+      "last_seen": "2026-05-14T09:09:51.119847391+00:00"
     },
     {
       "key": "99fbf5587fb9bd2f4a48",
@@ -5673,8 +5697,8 @@
       "published": "2026-05-12T00:18:31+09:00",
       "updated": "2026-05-12T13:37:59+09:00",
       "author_name": "jinxin4869",
-      "likes_count": 17,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
+      "likes_count": 21,
+      "last_seen": "2026-05-14T09:09:51.119847391+00:00"
     },
     {
       "key": "c24b6e3d879176b27dff",
@@ -5877,8 +5901,8 @@
       "published": "2026-05-13T10:58:54+09:00",
       "updated": "2026-05-13T10:58:54+09:00",
       "author_name": "tuanphan",
-      "likes_count": 17,
-      "last_seen": "2026-05-14T07:17:00.140872567+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-05-14T09:09:51.119847391+00:00"
     },
     {
       "key": "c841d47f35e9c04c6bee",
@@ -5950,7 +5974,7 @@
       "updated": "2026-05-11T17:45:56+09:00",
       "author_name": "ALeX_EXVS",
       "likes_count": 59,
-      "last_seen": "2026-05-14T07:17:00.140872567+00:00"
+      "last_seen": "2026-05-14T09:09:51.119847391+00:00"
     },
     {
       "key": "cd53aec76db1dec20862",
@@ -6045,8 +6069,8 @@
       "published": "2026-05-11T17:19:23+09:00",
       "updated": "2026-05-13T08:53:48+09:00",
       "author_name": "miruky",
-      "likes_count": 172,
-      "last_seen": "2026-05-14T07:17:00.140872567+00:00"
+      "likes_count": 180,
+      "last_seen": "2026-05-14T09:09:51.119847391+00:00"
     },
     {
       "key": "cf13c7c70ae148146fd0",
@@ -6373,18 +6397,6 @@
       "last_seen": "2026-05-03T07:46:49.619297371+00:00"
     },
     {
-      "key": "d83a1852cc72d8112094",
-      "item_id": "d83a1852cc72d8112094",
-      "title": "1年目の未経験エンジニアが失敗から得た学び、身につけてよかった習慣",
-      "link": "https://qiita.com/Tsurukawauchi_Jin/items/d83a1852cc72d8112094?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n僕は新卒でプログラミング完全未経験からでエンジニアとして入社し、もうすぐ1年が経ちます。\n1年目を振り返ると、\n\nうまくいかなかったこと\n逆にうまくいったこと\n学んだこと\n\nがいくつもありました。\n本記事では、\n1年目で失敗から学びに昇華できたこと、身につけてよ...",
-      "published": "2026-03-12T09:47:48+09:00",
-      "updated": "2026-03-12T09:47:49+09:00",
-      "author_name": "Tsurukawauchi_Jin",
-      "likes_count": 29,
-      "last_seen": "2026-03-15T07:28:09.665524959+00:00"
-    },
-    {
       "key": "d85df55f384b06161af3",
       "item_id": "d85df55f384b06161af3",
       "title": "AIコーディングの「理解負債」— 技術負債の次に来る落とし穴",
@@ -6706,7 +6718,7 @@
       "updated": "2026-05-14T07:52:15+09:00",
       "author_name": "shirok",
       "likes_count": 21,
-      "last_seen": "2026-05-14T07:17:00.140872567+00:00"
+      "last_seen": "2026-05-14T09:09:51.119847391+00:00"
     },
     {
       "key": "e777dcadbc850c357419",
@@ -7342,7 +7354,7 @@
       "updated": "2026-05-13T11:04:17+09:00",
       "author_name": "sapeet-lin",
       "likes_count": 25,
-      "last_seen": "2026-05-14T07:17:00.140872567+00:00"
+      "last_seen": "2026-05-14T09:09:51.119847391+00:00"
     },
     {
       "key": "f94803dd326ef7c3eb25",
