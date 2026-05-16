@@ -319,7 +319,7 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
     <title>AIにコードを書かせ続けて気づいた、エンジニアの&quot;分かったつもり&quot;の怖さ</title>
     <link rel="alternate" href="https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-05-14T10:00:06+09:00</updated>
-    <summary type="html">Likes: 122&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jinxin4869&quot;&gt;jinxin4869&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T08:06:19+09:00&lt;br/&gt;Updated: 2026-05-14T10:00:06+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 123&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jinxin4869&quot;&gt;jinxin4869&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T08:06:19+09:00&lt;br/&gt;Updated: 2026-05-14T10:00:06+09:00&lt;br/&gt;はじめに
 「なんでここでこの型を使ってるの？」
 同僚にそう聞かれたとき、自分の口から出たのは「一旦調べさせてください」だった。実装を担当しているのは自分なのに、その場でパッと説明できない。動いている。テストも通っている。でも、なぜそう書いたのかと聞かれると言葉に詰まる。A...</summary>
   </entry>
@@ -1397,7 +1397,7 @@ AI駆動開発（AI-DLC）で開発し、インフラはAWS CDKで全部コー�
     <title>AI時代に生き残る「最強の武器」</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/a2238e2ac6d842581b2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-05-16T18:50:05+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-15T14:23:36+09:00&lt;br/&gt;Updated: 2026-05-16T18:50:05+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-15T14:23:36+09:00&lt;br/&gt;Updated: 2026-05-16T18:50:05+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
 現場で感じたことを整理して発信しています。
 PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
@@ -1557,6 +1557,16 @@ GitHub Copilot ファミリー
 GitHub Copilot CL...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ce9917268d8d18aa9b6c</id>
+    <title>Vibe Coding のトークン消費量の40-60%を占めることもある、Markdownファイルの読み込みトークン消費量を最大98%以上圧縮する markdown-query スキル</title>
+    <link rel="alternate" href="https://qiita.com/dahatake/items/ce9917268d8d18aa9b6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-14T11:03:58+09:00</updated>
+    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dahatake&quot;&gt;dahatake&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T11:03:58+09:00&lt;br/&gt;Updated: 2026-05-14T11:03:58+09:00&lt;br/&gt;背景
+私は、ソフトウェアエンジニアリングの 設計書をほぼ Markdown で作成しています。
+業務要件、ユースケース一覧、サービス記述書、API 仕様、ADR、ナレッジベース。気づけば、社内外で扱うドキュメントの大半が Markdown になっていました。
+さらに、最近...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ed256553d10578cfec2a</id>
     <title>コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）</title>
     <link rel="alternate" href="https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1580,16 +1590,6 @@ AST（抽象構文木）から「構造」だけを抽出したマップこそ�
 逆の意見もあると思うので、あくまで一例として参考にしてもらえればと思います。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ce9917268d8d18aa9b6c</id>
-    <title>Vibe Coding のトークン消費量の40-60%を占めることもある、Markdownファイルの読み込みトークン消費量を最大98%以上圧縮する markdown-query スキル</title>
-    <link rel="alternate" href="https://qiita.com/dahatake/items/ce9917268d8d18aa9b6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-14T11:03:58+09:00</updated>
-    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dahatake&quot;&gt;dahatake&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T11:03:58+09:00&lt;br/&gt;Updated: 2026-05-14T11:03:58+09:00&lt;br/&gt;背景
-私は、ソフトウェアエンジニアリングの 設計書をほぼ Markdown で作成しています。
-業務要件、ユースケース一覧、サービス記述書、API 仕様、ADR、ナレッジベース。気づけば、社内外で扱うドキュメントの大半が Markdown になっていました。
-さらに、最近...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b11ebbcf7e14ff251b76</id>
