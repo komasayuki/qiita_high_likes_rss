@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-05-15T14:23:36+09:00</updated>
+  <updated>2026-05-16T18:50:05+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -599,14 +599,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 一人で悩み続けてし...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7597edb999821efd2d8b</id>
-    <title>Claude Code で20年前の商用ゲームをほぼ書き直さずにブラウザ移植するまで</title>
-    <link rel="alternate" href="https://qiita.com/LostMyCode/items/7597edb999821efd2d8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-16T09:27:47+09:00</updated>
-    <summary type="html">Likes: 91&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T07:38:27+09:00&lt;br/&gt;Updated: 2026-03-16T09:27:47+09:00&lt;br/&gt;みなさん PC のオンラインゲームはプレイしたことがありますか？
-最近では環境に依存せずクロスプラットフォーム対応のゲームも多いですが、昔は PC ゲームといえば windows のみ対応で長い長いダウンロードとインストール作業をしてようやく遊べるようになるのが普通でした。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5d2087dd5500d0689d7e</id>
@@ -1445,8 +1437,8 @@ QiitaやZenn、ブログで記...</summary>
     <id>tag:qiita.com,2026:a2238e2ac6d842581b2e</id>
     <title>AI時代に生き残る「最強の武器」</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/a2238e2ac6d842581b2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-15T14:23:36+09:00</updated>
-    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-15T14:23:36+09:00&lt;br/&gt;Updated: 2026-05-15T14:23:36+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+    <updated>2026-05-16T18:50:05+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-15T14:23:36+09:00&lt;br/&gt;Updated: 2026-05-16T18:50:05+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
 現場で感じたことを整理して発信しています。
 PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
@@ -1709,6 +1701,16 @@ npmパッケージのリリース時にソースマップファイル（.map）�
 ローカルLLMとは、ChatGPTのようなクラウドサービスを利用するのではなく、自分のPCや自社サーバーなどのローカル環境（オンプレミス）で大規模言語モデル（L...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ce9917268d8d18aa9b6c</id>
+    <title>Vibe Coding のトークン消費量の40-60%を占めることもある、Markdownファイルの読み込みトークン消費量を最大98%以上圧縮する markdown-query スキル</title>
+    <link rel="alternate" href="https://qiita.com/dahatake/items/ce9917268d8d18aa9b6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-14T11:03:58+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dahatake&quot;&gt;dahatake&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T11:03:58+09:00&lt;br/&gt;Updated: 2026-05-14T11:03:58+09:00&lt;br/&gt;背景
+私は、ソフトウェアエンジニアリングの 設計書をほぼ Markdown で作成しています。
+業務要件、ユースケース一覧、サービス記述書、API 仕様、ADR、ナレッジベース。気づけば、社内外で扱うドキュメントの大半が Markdown になっていました。
+さらに、最近...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:63745b9198f1989c2a15</id>
     <title>Claude Codeを120%使いこなす設定3選【ECC・Memory.md・Obsidian連携】</title>
     <link rel="alternate" href="https://qiita.com/manchan/items/63745b9198f1989c2a15?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1775,16 +1777,6 @@ AIに「いい感じに作って」と言って、本当に「いい感じ」の
 ユーザー登録機能を作って
 
 で、返ってくるコードは...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ce9917268d8d18aa9b6c</id>
-    <title>Vibe Coding のトークン消費量の40-60%を占めることもある、Markdownファイルの読み込みトークン消費量を最大98%以上圧縮する markdown-query スキル</title>
-    <link rel="alternate" href="https://qiita.com/dahatake/items/ce9917268d8d18aa9b6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-14T11:03:58+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dahatake&quot;&gt;dahatake&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T11:03:58+09:00&lt;br/&gt;Updated: 2026-05-14T11:03:58+09:00&lt;br/&gt;背景
-私は、ソフトウェアエンジニアリングの 設計書をほぼ Markdown で作成しています。
-業務要件、ユースケース一覧、サービス記述書、API 仕様、ADR、ナレッジベース。気づけば、社内外で扱うドキュメントの大半が Markdown になっていました。
-さらに、最近...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8f9b238ae28e380e6029</id>
@@ -2180,5 +2172,15 @@ Claude CodeやCursorなどのAIコーディングアシスタントに「ラン�
 WEBアプリケーションエンジニアとして活動しているPOMです。
 元々はPHPやJavaScriptなどをメインとしていましたが、
 今年3月からはアウトプットコミュニティであるJISOUに参加し、現在はReactやTypeScriptでの開発を行って...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:74103e76c26b55596f7a</id>
+    <title>AIがコードを書く時代に、なぜRの可読性が重要になるのか</title>
+    <link rel="alternate" href="https://qiita.com/KanNishida/items/74103e76c26b55596f7a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-05T12:19:00+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KanNishida&quot;&gt;KanNishida&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T12:19:00+09:00&lt;br/&gt;Updated: 2026-05-05T12:19:00+09:00&lt;br/&gt;AIによって、データ分析のコードを書くハードルは大きく下がりました。
+自然言語でやりたいことを説明すれば、RでもPythonでもSQLでも、かなり実用的なコードが生成されます。
+これは、データ分析の世界にとって大きな変化です。
+これまでデータ分析を学ぶには、Explora...</summary>
   </entry>
 </feed>
