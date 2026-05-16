@@ -392,21 +392,21 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 しかし、近年の日々進化するAIやお客様が求めていることが変化してい...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:786af70f2697dfac4329</id>
+    <title>AIにコードを書かせ続けて気づいた、エンジニアの&quot;分かったつもり&quot;の怖さ</title>
+    <link rel="alternate" href="https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-14T10:00:06+09:00</updated>
+    <summary type="html">Likes: 113&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jinxin4869&quot;&gt;jinxin4869&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T08:06:19+09:00&lt;br/&gt;Updated: 2026-05-14T10:00:06+09:00&lt;br/&gt;はじめに
+「なんでここでこの型を使ってるの？」
+同僚にそう聞かれたとき、自分の口から出たのは「一旦調べさせてください」だった。実装を担当しているのは自分なのに、その場でパッと説明できない。動いている。テストも通っている。でも、なぜそう書いたのかと聞かれると言葉に詰まる。A...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ad15bfa383c98ae5cc36</id>
     <title>AGENTS.md完全入門 ── 60,000リポジトリが採用した事実上の共通フォーマット</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/ad15bfa383c98ae5cc36?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-03-24T10:35:47+09:00</updated>
     <summary type="html">Likes: 113&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T10:35:47+09:00&lt;br/&gt;Updated: 2026-03-24T10:35:47+09:00&lt;br/&gt;AGENTS.md は「AIコーディングエージェント向けの README」です。
 リポジトリにこのファイルを置くことで、Codex CLI・Cursor・GitHub Copilot など多くのツールが共通の指示を読み取れます。ただし、ツールごとに対応状況や読み込み条件には...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:786af70f2697dfac4329</id>
-    <title>AIにコードを書かせ続けて気づいた、エンジニアの&quot;分かったつもり&quot;の怖さ</title>
-    <link rel="alternate" href="https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-14T10:00:06+09:00</updated>
-    <summary type="html">Likes: 112&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jinxin4869&quot;&gt;jinxin4869&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T08:06:19+09:00&lt;br/&gt;Updated: 2026-05-14T10:00:06+09:00&lt;br/&gt;はじめに
-「なんでここでこの型を使ってるの？」
-同僚にそう聞かれたとき、自分の口から出たのは「一旦調べさせてください」だった。実装を担当しているのは自分なのに、その場でパッと説明できない。動いている。テストも通っている。でも、なぜそう書いたのかと聞かれると言葉に詰まる。A...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
@@ -1442,6 +1442,19 @@ GitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一�
 QiitaやZenn、ブログで記...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a2238e2ac6d842581b2e</id>
+    <title>AI時代に生き残る「最強の武器」</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/a2238e2ac6d842581b2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-15T14:23:36+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-15T14:23:36+09:00&lt;br/&gt;Updated: 2026-05-15T14:23:36+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+現場で感じたことを整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶ コーポレートサイト
+
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:996735e9b8ff4b3b1255</id>
     <title>要件定義とは何か？開発メンバー初心者向けガイド</title>
     <link rel="alternate" href="https://qiita.com/Nao52/items/996735e9b8ff4b3b1255?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1491,19 +1504,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 
 この記事を書いた経緯
 去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきまし...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a2238e2ac6d842581b2e</id>
-    <title>AI時代に生き残る「最強の武器」</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/a2238e2ac6d842581b2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-15T14:23:36+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-15T14:23:36+09:00&lt;br/&gt;Updated: 2026-05-15T14:23:36+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
-現場で感じたことを整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶ コーポレートサイト
-
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5a3fad5ec1c80a8be715</id>
