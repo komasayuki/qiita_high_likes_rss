@@ -51,17 +51,6 @@ Cla...</summary>
 私もかつてはそうでした。しかし、個人開発で REQUIREMENTS....</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:51db293a7a7d0d277a5d</id>
-    <title>【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/51db293a7a7d0d277a5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-14T22:06:20+09:00</updated>
-    <summary type="html">Likes: 255&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T22:06:20+09:00&lt;br/&gt;Updated: 2026-03-14T22:06:20+09:00&lt;br/&gt;はじめに
-
-こんばんは、mirukyです。
-みなさん、Claude Codeは使っていますか。
-Claude Codeは非常に強力なAIコーディングエージェントですが、ターミナルコマンドの実行やファイルの読み書きができるため、セキュリティ設定を怠ると思わぬリスクを招きます...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:c392f0804987593dc179</id>
     <title>ChatGPTが長いチャットで重くなったときに使っている「引き継ぎプロンプト」</title>
     <link rel="alternate" href="https://qiita.com/SatoRyota_zvc/items/c392f0804987593dc179?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2182,5 +2171,14 @@ WEBアプリケーションエンジニアとして活動しているPOMです�
 自然言語でやりたいことを説明すれば、RでもPythonでもSQLでも、かなり実用的なコードが生成されます。
 これは、データ分析の世界にとって大きな変化です。
 これまでデータ分析を学ぶには、Explora...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:54e88055dc5fe22c0e1c</id>
+    <title>Power Automate から Copilot Studio のエージェントを多重実行させる</title>
+    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/54e88055dc5fe22c0e1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-30T08:54:57+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T08:25:50+09:00&lt;br/&gt;Updated: 2026-03-30T08:54:57+09:00&lt;br/&gt;はじめに
+Copilot Studio のエージェントに「Excel の一覧データを渡して、1行ずつ処理させたい」という相談をいただくことが増えてきました。
+たとえば、特許調査の依頼一覧が Excel テーブルに入っていて、それを AI エージェントに順番に処理させたいと...</summary>
   </entry>
 </feed>
