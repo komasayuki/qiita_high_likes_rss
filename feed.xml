@@ -379,6 +379,15 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 「完璧主義...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:786af70f2697dfac4329</id>
+    <title>AIにコードを書かせ続けて気づいた、エンジニアの&quot;分かったつもり&quot;の怖さ</title>
+    <link rel="alternate" href="https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-14T10:00:06+09:00</updated>
+    <summary type="html">Likes: 114&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jinxin4869&quot;&gt;jinxin4869&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T08:06:19+09:00&lt;br/&gt;Updated: 2026-05-14T10:00:06+09:00&lt;br/&gt;はじめに
+「なんでここでこの型を使ってるの？」
+同僚にそう聞かれたとき、自分の口から出たのは「一旦調べさせてください」だった。実装を担当しているのは自分なのに、その場でパッと説明できない。動いている。テストも通っている。でも、なぜそう書いたのかと聞かれると言葉に詰まる。A...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ac1e447ba9996b5543da</id>
     <title>未経験から3年で感じたこれからのキャリアを築くための行動3選</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/ac1e447ba9996b5543da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -390,15 +399,6 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 
 と思っていました。
 しかし、近年の日々進化するAIやお客様が求めていることが変化してい...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:786af70f2697dfac4329</id>
-    <title>AIにコードを書かせ続けて気づいた、エンジニアの&quot;分かったつもり&quot;の怖さ</title>
-    <link rel="alternate" href="https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-14T10:00:06+09:00</updated>
-    <summary type="html">Likes: 113&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jinxin4869&quot;&gt;jinxin4869&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T08:06:19+09:00&lt;br/&gt;Updated: 2026-05-14T10:00:06+09:00&lt;br/&gt;はじめに
-「なんでここでこの型を使ってるの？」
-同僚にそう聞かれたとき、自分の口から出たのは「一旦調べさせてください」だった。実装を担当しているのは自分なのに、その場でパッと説明できない。動いている。テストも通っている。でも、なぜそう書いたのかと聞かれると言葉に詰まる。A...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ad15bfa383c98ae5cc36</id>
@@ -1632,6 +1632,16 @@ Bonsaiという新しいLLMで、1ビットモデルなんですって。
 Raspberry...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ce9917268d8d18aa9b6c</id>
+    <title>Vibe Coding のトークン消費量の40-60%を占めることもある、Markdownファイルの読み込みトークン消費量を最大98%以上圧縮する markdown-query スキル</title>
+    <link rel="alternate" href="https://qiita.com/dahatake/items/ce9917268d8d18aa9b6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-14T11:03:58+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dahatake&quot;&gt;dahatake&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T11:03:58+09:00&lt;br/&gt;Updated: 2026-05-14T11:03:58+09:00&lt;br/&gt;背景
+私は、ソフトウェアエンジニアリングの 設計書をほぼ Markdown で作成しています。
+業務要件、ユースケース一覧、サービス記述書、API 仕様、ADR、ナレッジベース。気づけば、社内外で扱うドキュメントの大半が Markdown になっていました。
+さらに、最近...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c9e42de497a9eff2b680</id>
     <title>SKILL.mdを使っている人は全員&quot;gh skill&quot;も知っておいてください</title>
     <link rel="alternate" href="https://qiita.com/TooMe/items/c9e42de497a9eff2b680?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1699,16 +1709,6 @@ npmパッケージのリリース時にソースマップファイル（.map）�
 
 ローカルLLM
 ローカルLLMとは、ChatGPTのようなクラウドサービスを利用するのではなく、自分のPCや自社サーバーなどのローカル環境（オンプレミス）で大規模言語モデル（L...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ce9917268d8d18aa9b6c</id>
-    <title>Vibe Coding のトークン消費量の40-60%を占めることもある、Markdownファイルの読み込みトークン消費量を最大98%以上圧縮する markdown-query スキル</title>
-    <link rel="alternate" href="https://qiita.com/dahatake/items/ce9917268d8d18aa9b6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-14T11:03:58+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dahatake&quot;&gt;dahatake&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T11:03:58+09:00&lt;br/&gt;Updated: 2026-05-14T11:03:58+09:00&lt;br/&gt;背景
-私は、ソフトウェアエンジニアリングの 設計書をほぼ Markdown で作成しています。
-業務要件、ユースケース一覧、サービス記述書、API 仕様、ADR、ナレッジベース。気づけば、社内外で扱うドキュメントの大半が Markdown になっていました。
-さらに、最近...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:63745b9198f1989c2a15</id>
