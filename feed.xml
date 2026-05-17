@@ -1076,6 +1076,17 @@ axiosサプライチェーン攻撃に関して、GitHub IssueにPostmortem（�
 この記事は、たぶんぼくが書くべきじゃない。給湯室で「あいつに頼むと一回で済まないんだよな」と名前を出されていた側の人間...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ab5bf50d9f68e7c8de56</id>
+    <title>Claude Code を社内で使うための「AIエージェントセキュリティ」実践編</title>
+    <link rel="alternate" href="https://qiita.com/sharu389no/items/ab5bf50d9f68e7c8de56?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-15T15:14:01+09:00</updated>
+    <summary type="html">Likes: 69&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sharu389no&quot;&gt;sharu389no&lt;/a&gt;&lt;br/&gt;Published: 2026-05-15T14:08:38+09:00&lt;br/&gt;Updated: 2026-05-15T15:14:01+09:00&lt;br/&gt;この記事は誰向けか
+
+社内で Claude Code / Cursor / Codex / ChatGPT などの AI コーディング支援を 本気で業務利用したい エンジニア
+「リスクが…」で却下され続けて、情シスに見せられる具体的な技術対策が欲しい チームリーダー
+情シ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7c402f4e085fae433cf5</id>
     <title>【35歳未経験でも理解できた】SQL 基礎コマンド</title>
     <link rel="alternate" href="https://qiita.com/wata-sho/items/7c402f4e085fae433cf5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1195,17 +1206,6 @@ PRUMについて気になった方は、
 
 本題
 論文調査に1日...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ab5bf50d9f68e7c8de56</id>
-    <title>Claude Code を社内で使うための「AIエージェントセキュリティ」実践編</title>
-    <link rel="alternate" href="https://qiita.com/sharu389no/items/ab5bf50d9f68e7c8de56?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-15T15:14:01+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sharu389no&quot;&gt;sharu389no&lt;/a&gt;&lt;br/&gt;Published: 2026-05-15T14:08:38+09:00&lt;br/&gt;Updated: 2026-05-15T15:14:01+09:00&lt;br/&gt;この記事は誰向けか
-
-社内で Claude Code / Cursor / Codex / ChatGPT などの AI コーディング支援を 本気で業務利用したい エンジニア
-「リスクが…」で却下され続けて、情シスに見せられる具体的な技術対策が欲しい チームリーダー
-情シ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ede7d1c0be4a14024857</id>
@@ -1982,6 +1982,14 @@ RAGは外部知識をLLMに注入する手法として定着しました。
 最近のコードレビューAIは、もう lint の延長ではありません。少なくとも私の感覚では、実装上の局所的な correctness に関しては、すでに人間のレビューより鋭い場面があります。race condition ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:78212f9f851ffe97f3d9</id>
+    <title>パスワードの時代が終わる理由 - パスキーの仕組みを図解でわかりやすく整理する</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/78212f9f851ffe97f3d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-16T09:20:26+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-05-16T09:20:26+09:00&lt;br/&gt;Updated: 2026-05-16T09:20:26+09:00&lt;br/&gt;はじめに
+最近、GoogleやApple、メルカリ、楽天、PlayStationなどで「パスキー」という言葉を見かけることが増えました。「パスワードの代わりになる新しいログイン方法らしい」くらいは知っていても、「結局それって何なの？」「なぜパスワードより安全なの？」と聞か...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f9143a90094601631b6b</id>
     <title>いつも使っている Claude Code の裏側を覗いてみた</title>
     <link rel="alternate" href="https://qiita.com/sapeet-lin/items/f9143a90094601631b6b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2173,15 +2181,5 @@ n8n + Google Maps API + Discord を使って
 を作ってみました。
 
 作っ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bca0ee8f15a13dfd8cfa</id>
-    <title>【Claude Design】見せてもらおうか Claude Designの性能とやらを</title>
-    <link rel="alternate" href="https://qiita.com/ryu-ki/items/bca0ee8f15a13dfd8cfa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-22T17:47:00+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T08:23:13+09:00&lt;br/&gt;Updated: 2026-04-22T17:47:00+09:00&lt;br/&gt;はじめに
-2026/4/17 に Anthropic から Claude Design がリリースされました。
-
-Claude と会話しながらデザインやプロトタイプ、スライド、1枚ものの資料などを作れるサービスだそうです。現在は Claude Opus 4.7 を基盤...</summary>
   </entry>
 </feed>
