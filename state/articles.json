@@ -93,8 +93,8 @@
       "published": "2026-05-16T16:46:13+09:00",
       "updated": "2026-05-17T08:24:41+09:00",
       "author_name": "sadabon444",
-      "likes_count": 25,
-      "last_seen": "2026-05-17T21:27:31.981890448+00:00"
+      "likes_count": 26,
+      "last_seen": "2026-05-17T22:26:56.831027655+00:00"
     },
     {
       "key": "026aeee6b59f78df5e9d",
@@ -382,7 +382,7 @@
       "updated": "2026-05-15T20:04:32+09:00",
       "author_name": "yoshi1220",
       "likes_count": 12,
-      "last_seen": "2026-05-17T21:27:31.981890448+00:00"
+      "last_seen": "2026-05-17T22:26:56.831027655+00:00"
     },
     {
       "key": "0cb5e8f91fa64fb9ba8c",
@@ -1138,7 +1138,7 @@
       "updated": "2026-05-17T11:07:41+09:00",
       "author_name": "yakumo_09",
       "likes_count": 11,
-      "last_seen": "2026-05-17T21:27:31.981890448+00:00"
+      "last_seen": "2026-05-17T22:26:56.831027655+00:00"
     },
     {
       "key": "2c9df846e96a47900e6d",
@@ -1534,7 +1534,7 @@
       "updated": "2026-05-17T09:30:08+09:00",
       "author_name": "uni928",
       "likes_count": 29,
-      "last_seen": "2026-05-17T21:27:31.981890448+00:00"
+      "last_seen": "2026-05-17T22:26:56.831027655+00:00"
     },
     {
       "key": "3a04f05a186b29da9a20",
@@ -3501,8 +3501,8 @@
       "published": "2026-05-16T09:20:26+09:00",
       "updated": "2026-05-16T09:20:26+09:00",
       "author_name": "ktdatascience",
-      "likes_count": 22,
-      "last_seen": "2026-05-17T21:27:31.981890448+00:00"
+      "likes_count": 28,
+      "last_seen": "2026-05-17T22:26:56.831027655+00:00"
     },
     {
       "key": "784cd48a88e4ab166f69",
@@ -4677,8 +4677,8 @@
       "published": "2026-05-15T14:23:36+09:00",
       "updated": "2026-05-17T15:08:17+09:00",
       "author_name": "prum_hitomi",
-      "likes_count": 64,
-      "last_seen": "2026-05-17T21:27:31.981890448+00:00"
+      "likes_count": 67,
+      "last_seen": "2026-05-17T22:26:56.831027655+00:00"
     },
     {
       "key": "a2c5012d496312358323",
@@ -4977,8 +4977,8 @@
       "published": "2026-05-15T14:08:38+09:00",
       "updated": "2026-05-15T15:14:01+09:00",
       "author_name": "sharu389no",
-      "likes_count": 63,
-      "last_seen": "2026-05-17T21:27:31.981890448+00:00"
+      "likes_count": 64,
+      "last_seen": "2026-05-17T22:26:56.831027655+00:00"
     },
     {
       "key": "ab78bb338500b4c71103",
@@ -5110,7 +5110,7 @@
       "updated": "2026-05-17T12:40:01+09:00",
       "author_name": "ennagara128",
       "likes_count": 18,
-      "last_seen": "2026-05-17T21:27:31.981890448+00:00"
+      "last_seen": "2026-05-17T22:26:56.831027655+00:00"
     },
     {
       "key": "afdd509365a770598fc4",
@@ -5279,6 +5279,18 @@
       "author_name": "Katayama_Studio",
       "likes_count": 19,
       "last_seen": "2026-05-11T07:32:00.807889097+00:00"
+    },
+    {
+      "key": "b4ab80e6bc9f12549cad",
+      "item_id": "b4ab80e6bc9f12549cad",
+      "title": "国会図書館のOCRをWebサービス化してみた - NDLOCR-Lite × Docker × FastAPI",
+      "link": "https://qiita.com/ohtsuka-shota/items/b4ab80e6bc9f12549cad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n本記事では、国立国会図書館が公開するNDLOCR-LiteをDocker環境で\nREST API化し、PDFや画像からテキストを抽出するWebサービスを\n構築していきます。\n\n用語\n\nNDLOCR-Liteとは\n\nNDLOCR-Liteは、NDLOCRの軽量版を...",
+      "published": "2026-05-16T22:48:30+09:00",
+      "updated": "2026-05-17T17:31:46+09:00",
+      "author_name": "ohtsuka-shota",
+      "likes_count": 10,
+      "last_seen": "2026-05-17T22:26:56.831027655+00:00"
     },
     {
       "key": "b4e3330337f767a47a83",
@@ -6193,6 +6205,18 @@
       "last_seen": "2026-04-22T07:43:37.028291166+00:00"
     },
     {
+      "key": "d55a39ac35dca575b8ce",
+      "item_id": "d55a39ac35dca575b8ce",
+      "title": "専任情シスがいない20人規模の町工場で、自分たちでランサムウェア対策基盤を組む",
+      "link": "https://qiita.com/masakai/items/d55a39ac35dca575b8ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "中小企業や町工場でセキュリティ対策を進めようとすると、よく出てくる悩みがあります。\n「大企業みたいなSOCやSIEMは無理だけど、ランサムウェアは怖い」\n「NASで共有している図面や受発注データが止まったら、本当に仕事にならない」\n「専任の情シスはいない。でも、できるところ...",
+      "published": "2026-05-17T16:35:10+09:00",
+      "updated": "2026-05-17T16:35:10+09:00",
+      "author_name": "masakai",
+      "likes_count": 10,
+      "last_seen": "2026-05-17T22:26:56.831027655+00:00"
+    },
+    {
       "key": "d631b9c5c85d6daf336d",
       "item_id": "d631b9c5c85d6daf336d",
       "title": "【スマホでローカルLLM検証】Gemma 4をiPhoneで動かしてみた！",
@@ -6286,7 +6310,7 @@
       "updated": "2026-05-15T14:48:38+09:00",
       "author_name": "ari_init",
       "likes_count": 13,
-      "last_seen": "2026-05-17T21:27:31.981890448+00:00"
+      "last_seen": "2026-05-17T22:26:56.831027655+00:00"
     },
     {
       "key": "d7debbc9413b500af19e",
@@ -6333,8 +6357,8 @@
       "published": "2026-05-16T11:37:08+09:00",
       "updated": "2026-05-16T11:37:08+09:00",
       "author_name": "kamome_susume",
-      "likes_count": 11,
-      "last_seen": "2026-05-17T21:27:31.981890448+00:00"
+      "likes_count": 12,
+      "last_seen": "2026-05-17T22:26:56.831027655+00:00"
     },
     {
       "key": "d8971bdf08f8416ad7dd",
@@ -6958,7 +6982,7 @@
       "updated": "2026-05-15T17:33:17+09:00",
       "author_name": "kyonosuke",
       "likes_count": 11,
-      "last_seen": "2026-05-17T21:27:31.981890448+00:00"
+      "last_seen": "2026-05-17T22:26:56.831027655+00:00"
     },
     {
       "key": "ef1af33a71b1e4ead816",
