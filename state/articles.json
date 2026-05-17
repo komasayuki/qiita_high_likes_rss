@@ -94,7 +94,7 @@
       "updated": "2026-05-17T08:24:41+09:00",
       "author_name": "sadabon444",
       "likes_count": 23,
-      "last_seen": "2026-05-17T12:34:39.058099658+00:00"
+      "last_seen": "2026-05-17T13:41:47.230180273+00:00"
     },
     {
       "key": "026aeee6b59f78df5e9d",
@@ -382,7 +382,7 @@
       "updated": "2026-05-15T20:04:32+09:00",
       "author_name": "yoshi1220",
       "likes_count": 11,
-      "last_seen": "2026-05-17T12:34:39.058099658+00:00"
+      "last_seen": "2026-05-17T13:41:47.230180273+00:00"
     },
     {
       "key": "0cb5e8f91fa64fb9ba8c",
@@ -1129,6 +1129,18 @@
       "last_seen": "2026-04-05T19:22:27.930343071+00:00"
     },
     {
+      "key": "2c32154c4de07cf94c65",
+      "item_id": "2c32154c4de07cf94c65",
+      "title": "【AWS】ロールベースによるレスポンスマスキングでセキュアなRAGを実現する",
+      "link": "https://qiita.com/yakumo_09/items/2c32154c4de07cf94c65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nRAGを利用する際、「一般職と管理職で、同じ質問に対して返ってくる情報を変えたい」といった要件要望があるかと思います。これをAWSのマネージドサービスだけでフルサーバーレスで作れないかなと思って試してみました。\n例えば「山田太郎の電話番号を教えて」と聞いたときに...",
+      "published": "2026-05-17T11:07:41+09:00",
+      "updated": "2026-05-17T11:07:41+09:00",
+      "author_name": "yakumo_09",
+      "likes_count": 11,
+      "last_seen": "2026-05-17T13:41:47.230180273+00:00"
+    },
+    {
       "key": "2c9df846e96a47900e6d",
       "item_id": "2c9df846e96a47900e6d",
       "title": "【初心者完全版】0からNext.js開発して2時間で基礎をマスターする最強チュートリアル【図解解説】",
@@ -1521,8 +1533,8 @@
       "published": "2026-05-15T12:58:20+09:00",
       "updated": "2026-05-17T09:30:08+09:00",
       "author_name": "uni928",
-      "likes_count": 25,
-      "last_seen": "2026-05-17T12:34:39.058099658+00:00"
+      "likes_count": 28,
+      "last_seen": "2026-05-17T13:41:47.230180273+00:00"
     },
     {
       "key": "3a04f05a186b29da9a20",
@@ -3501,8 +3513,8 @@
       "published": "2026-05-16T09:20:26+09:00",
       "updated": "2026-05-16T09:20:26+09:00",
       "author_name": "ktdatascience",
-      "likes_count": 14,
-      "last_seen": "2026-05-17T12:34:39.058099658+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-05-17T13:41:47.230180273+00:00"
     },
     {
       "key": "784cd48a88e4ab166f69",
@@ -4678,7 +4690,7 @@
       "updated": "2026-05-17T15:08:17+09:00",
       "author_name": "prum_hitomi",
       "likes_count": 64,
-      "last_seen": "2026-05-17T12:34:39.058099658+00:00"
+      "last_seen": "2026-05-17T13:41:47.230180273+00:00"
     },
     {
       "key": "a2c5012d496312358323",
@@ -4977,8 +4989,8 @@
       "published": "2026-05-15T14:08:38+09:00",
       "updated": "2026-05-15T15:14:01+09:00",
       "author_name": "sharu389no",
-      "likes_count": 51,
-      "last_seen": "2026-05-17T12:34:39.058099658+00:00"
+      "likes_count": 53,
+      "last_seen": "2026-05-17T13:41:47.230180273+00:00"
     },
     {
       "key": "ab78bb338500b4c71103",
@@ -5109,8 +5121,8 @@
       "published": "2026-05-17T12:40:01+09:00",
       "updated": "2026-05-17T12:40:01+09:00",
       "author_name": "ennagara128",
-      "likes_count": 13,
-      "last_seen": "2026-05-17T12:34:39.058099658+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-05-17T13:41:47.230180273+00:00"
     },
     {
       "key": "afdd509365a770598fc4",
@@ -6309,8 +6321,8 @@
       "published": "2026-05-15T14:19:15+09:00",
       "updated": "2026-05-15T14:48:38+09:00",
       "author_name": "ari_init",
-      "likes_count": 12,
-      "last_seen": "2026-05-17T12:34:39.058099658+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-05-17T13:41:47.230180273+00:00"
     },
     {
       "key": "d7debbc9413b500af19e",
@@ -6959,6 +6971,18 @@
       "author_name": "tomokoro",
       "likes_count": 18,
       "last_seen": "2026-04-26T07:42:27.439215798+00:00"
+    },
+    {
+      "key": "eee9eb3840d3f740f325",
+      "item_id": "eee9eb3840d3f740f325",
+      "title": "AWS上にセキュアかつ安価かつ使い捨て可能なリモート開発環境を構築した話 ― SSM × Spot Instance × CDK",
+      "link": "https://qiita.com/kyonosuke/items/eee9eb3840d3f740f325?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n業務では主にkiro-cliを使用していますが、ローカルの WSL 環境がメモリ不足で頻繁に落ちるようになり、開発体験が著しく悪化していました。そのため、脱WSLを目指して「リモートに開発環境を持っていこう」と思い立ち、AWS 上に EC2 ベースのリモート開発...",
+      "published": "2026-05-15T17:33:17+09:00",
+      "updated": "2026-05-15T17:33:17+09:00",
+      "author_name": "kyonosuke",
+      "likes_count": 10,
+      "last_seen": "2026-05-17T13:41:47.230180273+00:00"
     },
     {
       "key": "ef1af33a71b1e4ead816",
