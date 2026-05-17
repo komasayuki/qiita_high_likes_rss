@@ -936,16 +936,6 @@ Webの勉強を始めてすぐ、こんなことありませんか？
 この記事では、そん...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c05c3aed3bf8e46a7ddb</id>
-    <title>Claude Codeで「Issue起票→並列開発→PR作成」を全自動化したら、開発速度が異次元になった</title>
-    <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/c05c3aed3bf8e46a7ddb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-15T17:03:27+09:00</updated>
-    <summary type="html">Likes: 76&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kazuki_ogawa&quot;&gt;kazuki_ogawa&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T17:03:27+09:00&lt;br/&gt;Updated: 2026-03-15T17:03:27+09:00&lt;br/&gt;はじめに
-「Claude Codeで開発してるけど、1つずつ順番にIssueを片付けるのが遅い…」
-そんな悩みを解決するために、Issue起票から並列開発、PR作成までを一気通貫で自動化するワークフローを構築しました。
-具体的には、Claude CodeのSkillsを組...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:fd31a46683bba8bf55b7</id>
     <title>配色に悩む時間をゼロに。自然界モチーフのデザインシステム集「Morphos」を作りました</title>
     <link rel="alternate" href="https://qiita.com/Ameyanagi/items/fd31a46683bba8bf55b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1852,20 +1842,6 @@ Claude Platform on AWSは、Anthropicが提供するネイティブなClaude Pla
 実はこのアプリ、私が大学院生だった3年ほど前から趣味でチマチマと作り続けていたのですが、原因不明のバグにハマ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:bc9aee9c5951e01ad13b</id>
-    <title>【個人開発】最寄り駅から徒歩X分以内の物件を地図上に列挙できるアプリを作ってみた【React,TS,supabase,leaflet】</title>
-    <link rel="alternate" href="https://qiita.com/nu197ma/items/bc9aee9c5951e01ad13b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-15T17:00:12+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nu197ma&quot;&gt;nu197ma&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T17:00:12+09:00&lt;br/&gt;Updated: 2026-03-15T17:00:12+09:00&lt;br/&gt;はじめに
-
-個人開発で、supabaseとReactを使ったアプリケーションを作成している。
-
-解決したかった問題
-
-賃貸物件を探す際、「駅から近い物件」、あるいは「駅から遠くてもいいので家賃が安い物件」などを調べたいことがよくある。
-既存の賃貸サイトでは、「駅からX分...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:c63073fef7fb87d9f472</id>
     <title>PRを出す前にコミット履歴を整えろと先輩に叩き込まれた話 〜git rebase -i 入門〜</title>
     <link rel="alternate" href="https://qiita.com/shimitaro/items/c63073fef7fb87d9f472?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2178,5 +2154,34 @@ WEBアプリケーションエンジニアとして活動しているPOMです�
     <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T08:25:50+09:00&lt;br/&gt;Updated: 2026-03-30T08:54:57+09:00&lt;br/&gt;はじめに
 Copilot Studio のエージェントに「Excel の一覧データを渡して、1行ずつ処理させたい」という相談をいただくことが増えてきました。
 たとえば、特許調査の依頼一覧が Excel テーブルに入っていて、それを AI エージェントに順番に処理させたいと...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:71b3c3188d19e2429ee0</id>
+    <title>n8nで「ランチ自動提案Bot」を作ってみた（Google Maps × Discord）</title>
+    <link rel="alternate" href="https://qiita.com/wan-code/items/71b3c3188d19e2429ee0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-23T18:56:20+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wan-code&quot;&gt;wan-code&lt;/a&gt;&lt;br/&gt;Published: 2026-04-23T18:56:20+09:00&lt;br/&gt;Updated: 2026-04-23T18:56:20+09:00&lt;br/&gt;はじめに
+毎日のランチ、こんな悩みありませんか？
+
+毎回どこ行くか迷う
+同じ店ばかり行ってしまう
+新しい店を開拓したい
+
+そこで今回は
+n8n + Google Maps API + Discord を使って
+ランチを自動で提案してくれるBot
+を作ってみました。
+
+作っ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:bca0ee8f15a13dfd8cfa</id>
+    <title>【Claude Design】見せてもらおうか Claude Designの性能とやらを</title>
+    <link rel="alternate" href="https://qiita.com/ryu-ki/items/bca0ee8f15a13dfd8cfa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-22T17:47:00+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T08:23:13+09:00&lt;br/&gt;Updated: 2026-04-22T17:47:00+09:00&lt;br/&gt;はじめに
+2026/4/17 に Anthropic から Claude Design がリリースされました。
+
+Claude と会話しながらデザインやプロトタイプ、スライド、1枚ものの資料などを作れるサービスだそうです。現在は Claude Opus 4.7 を基盤...</summary>
   </entry>
 </feed>

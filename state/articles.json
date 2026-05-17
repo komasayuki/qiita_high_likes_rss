@@ -94,7 +94,7 @@
       "updated": "2026-05-17T08:24:41+09:00",
       "author_name": "sadabon444",
       "likes_count": 25,
-      "last_seen": "2026-05-17T18:33:07.421347925+00:00"
+      "last_seen": "2026-05-17T19:35:52.879426738+00:00"
     },
     {
       "key": "026aeee6b59f78df5e9d",
@@ -381,8 +381,8 @@
       "published": "2026-05-15T20:04:32+09:00",
       "updated": "2026-05-15T20:04:32+09:00",
       "author_name": "yoshi1220",
-      "likes_count": 11,
-      "last_seen": "2026-05-17T18:33:07.421347925+00:00"
+      "likes_count": 12,
+      "last_seen": "2026-05-17T19:35:52.879426738+00:00"
     },
     {
       "key": "0cb5e8f91fa64fb9ba8c",
@@ -1138,7 +1138,7 @@
       "updated": "2026-05-17T11:07:41+09:00",
       "author_name": "yakumo_09",
       "likes_count": 11,
-      "last_seen": "2026-05-17T18:33:07.421347925+00:00"
+      "last_seen": "2026-05-17T19:35:52.879426738+00:00"
     },
     {
       "key": "2c9df846e96a47900e6d",
@@ -1534,7 +1534,7 @@
       "updated": "2026-05-17T09:30:08+09:00",
       "author_name": "uni928",
       "likes_count": 29,
-      "last_seen": "2026-05-17T18:33:07.421347925+00:00"
+      "last_seen": "2026-05-17T19:35:52.879426738+00:00"
     },
     {
       "key": "3a04f05a186b29da9a20",
@@ -2905,18 +2905,6 @@
       "last_seen": "2026-05-13T07:20:09.176560536+00:00"
     },
     {
-      "key": "667ef87273d3aa78bfae",
-      "item_id": "667ef87273d3aa78bfae",
-      "title": "[小ネタ] 生成されたファイル類(package-lock.json など)がコンフリクトしたら真面目にマージしないで",
-      "link": "https://qiita.com/ssc-ksaitou/items/667ef87273d3aa78bfae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nパッケージロックファイル (例: package.json =&gt; package-lock.json) やOAS (OpenAPI Specification) の生成ソースコード (例: swagger.json =&gt; src/**.ts) などの生成系の巨大...",
-      "published": "2026-03-17T10:49:49+09:00",
-      "updated": "2026-03-17T10:49:49+09:00",
-      "author_name": "ssc-ksaitou",
-      "likes_count": 13,
-      "last_seen": "2026-03-18T19:28:55.190998624+00:00"
-    },
-    {
       "key": "66c01a87e57b148212b0",
       "item_id": "66c01a87e57b148212b0",
       "title": "ローカル環境のS3をlocalstackからRustFSへ",
@@ -3514,7 +3502,7 @@
       "updated": "2026-05-16T09:20:26+09:00",
       "author_name": "ktdatascience",
       "likes_count": 20,
-      "last_seen": "2026-05-17T18:33:07.421347925+00:00"
+      "last_seen": "2026-05-17T19:35:52.879426738+00:00"
     },
     {
       "key": "784cd48a88e4ab166f69",
@@ -4690,7 +4678,7 @@
       "updated": "2026-05-17T15:08:17+09:00",
       "author_name": "prum_hitomi",
       "likes_count": 64,
-      "last_seen": "2026-05-17T18:33:07.421347925+00:00"
+      "last_seen": "2026-05-17T19:35:52.879426738+00:00"
     },
     {
       "key": "a2c5012d496312358323",
@@ -4990,7 +4978,7 @@
       "updated": "2026-05-15T15:14:01+09:00",
       "author_name": "sharu389no",
       "likes_count": 63,
-      "last_seen": "2026-05-17T18:33:07.421347925+00:00"
+      "last_seen": "2026-05-17T19:35:52.879426738+00:00"
     },
     {
       "key": "ab78bb338500b4c71103",
@@ -5122,7 +5110,7 @@
       "updated": "2026-05-17T12:40:01+09:00",
       "author_name": "ennagara128",
       "likes_count": 17,
-      "last_seen": "2026-05-17T18:33:07.421347925+00:00"
+      "last_seen": "2026-05-17T19:35:52.879426738+00:00"
     },
     {
       "key": "afdd509365a770598fc4",
@@ -5497,18 +5485,6 @@
       "last_seen": "2026-03-22T07:25:12.680725393+00:00"
     },
     {
-      "key": "bc9aee9c5951e01ad13b",
-      "item_id": "bc9aee9c5951e01ad13b",
-      "title": "【個人開発】最寄り駅から徒歩X分以内の物件を地図上に列挙できるアプリを作ってみた【React,TS,supabase,leaflet】",
-      "link": "https://qiita.com/nu197ma/items/bc9aee9c5951e01ad13b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n\n個人開発で、supabaseとReactを使ったアプリケーションを作成している。\n\n解決したかった問題\n\n賃貸物件を探す際、「駅から近い物件」、あるいは「駅から遠くてもいいので家賃が安い物件」などを調べたいことがよくある。\n既存の賃貸サイトでは、「駅からX分...",
-      "published": "2026-03-15T17:00:12+09:00",
-      "updated": "2026-03-15T17:00:12+09:00",
-      "author_name": "nu197ma",
-      "likes_count": 36,
-      "last_seen": "2026-03-18T19:28:55.190998624+00:00"
-    },
-    {
       "key": "bca0ee8f15a13dfd8cfa",
       "item_id": "bca0ee8f15a13dfd8cfa",
       "title": "【Claude Design】見せてもらおうか Claude Designの性能とやらを",
@@ -5603,18 +5579,6 @@
       "author_name": "kei1-dev",
       "likes_count": 37,
       "last_seen": "2026-03-23T19:27:50.296098890+00:00"
-    },
-    {
-      "key": "c05c3aed3bf8e46a7ddb",
-      "item_id": "c05c3aed3bf8e46a7ddb",
-      "title": "Claude Codeで「Issue起票→並列開発→PR作成」を全自動化したら、開発速度が異次元になった",
-      "link": "https://qiita.com/kazuki_ogawa/items/c05c3aed3bf8e46a7ddb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n「Claude Codeで開発してるけど、1つずつ順番にIssueを片付けるのが遅い…」\nそんな悩みを解決するために、Issue起票から並列開発、PR作成までを一気通貫で自動化するワークフローを構築しました。\n具体的には、Claude CodeのSkillsを組...",
-      "published": "2026-03-15T17:03:27+09:00",
-      "updated": "2026-03-15T17:03:27+09:00",
-      "author_name": "kazuki_ogawa",
-      "likes_count": 76,
-      "last_seen": "2026-03-18T19:28:55.190998624+00:00"
     },
     {
       "key": "c0c4b83a485351bd3412",
@@ -6322,7 +6286,7 @@
       "updated": "2026-05-15T14:48:38+09:00",
       "author_name": "ari_init",
       "likes_count": 13,
-      "last_seen": "2026-05-17T18:33:07.421347925+00:00"
+      "last_seen": "2026-05-17T19:35:52.879426738+00:00"
     },
     {
       "key": "d7debbc9413b500af19e",
@@ -6370,7 +6334,7 @@
       "updated": "2026-05-16T11:37:08+09:00",
       "author_name": "kamome_susume",
       "likes_count": 11,
-      "last_seen": "2026-05-17T18:33:07.421347925+00:00"
+      "last_seen": "2026-05-17T19:35:52.879426738+00:00"
     },
     {
       "key": "d8971bdf08f8416ad7dd",
@@ -6994,7 +6958,7 @@
       "updated": "2026-05-15T17:33:17+09:00",
       "author_name": "kyonosuke",
       "likes_count": 10,
-      "last_seen": "2026-05-17T18:33:07.421347925+00:00"
+      "last_seen": "2026-05-17T19:35:52.879426738+00:00"
     },
     {
       "key": "ef1af33a71b1e4ead816",
