@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-05-18T09:35:34+09:00</updated>
+  <updated>2026-05-18T14:05:48+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -488,6 +488,14 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 富士通、理化学研究所 AIP、東京科学大学、東海大学の研究チームが arXiv で公開した論文 「PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:78212f9f851ffe97f3d9</id>
+    <title>パスワードの時代が終わる理由 - パスキーの仕組みを図解でわかりやすく整理する</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/78212f9f851ffe97f3d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-16T09:20:26+09:00</updated>
+    <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-05-16T09:20:26+09:00&lt;br/&gt;Updated: 2026-05-16T09:20:26+09:00&lt;br/&gt;はじめに
+最近、GoogleやApple、メルカリ、楽天、PlayStationなどで「パスキー」という言葉を見かけることが増えました。「パスワードの代わりになる新しいログイン方法らしい」くらいは知っていても、「結局それって何なの？」「なぜパスワードより安全なの？」と聞か...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ab5bf50d9f68e7c8de56</id>
     <title>Claude Code を社内で使うための「AIエージェントセキュリティ」実践編</title>
     <link rel="alternate" href="https://qiita.com/sharu389no/items/ab5bf50d9f68e7c8de56?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -846,14 +854,6 @@ AIがコードを書くことが当たり前となった2026年現在、エン�
 はじめに
 こんにちは！
 35歳から未経験でエ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:78212f9f851ffe97f3d9</id>
-    <title>パスワードの時代が終わる理由 - パスキーの仕組みを図解でわかりやすく整理する</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/78212f9f851ffe97f3d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-16T09:20:26+09:00</updated>
-    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-05-16T09:20:26+09:00&lt;br/&gt;Updated: 2026-05-16T09:20:26+09:00&lt;br/&gt;はじめに
-最近、GoogleやApple、メルカリ、楽天、PlayStationなどで「パスキー」という言葉を見かけることが増えました。「パスワードの代わりになる新しいログイン方法らしい」くらいは知っていても、「結局それって何なの？」「なぜパスワードより安全なの？」と聞か...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b1a956add6ec342f31b5</id>
@@ -1477,6 +1477,16 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきまし...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:aeaee3e64e75076503fe</id>
+    <title>Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン</title>
+    <link rel="alternate" href="https://qiita.com/ennagara128/items/aeaee3e64e75076503fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-17T12:40:01+09:00</updated>
+    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ennagara128&quot;&gt;ennagara128&lt;/a&gt;&lt;br/&gt;Published: 2026-05-17T12:40:01+09:00&lt;br/&gt;Updated: 2026-05-17T12:40:01+09:00&lt;br/&gt;はじめに
+Qiita で「Claude Code を社内で使うための『AIエージェントセキュリティ』実践編」がトレンド入りしていました。
+Claude Code を組織で使い始める時、最も多い不安は 「機密情報がうっかり漏れないか」 です。
+実際にうちのチームで1年以上運...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5a3fad5ec1c80a8be715</id>
     <title>AIで実装は速くなった。でもチーム開発が逆に難しくなった理由</title>
     <link rel="alternate" href="https://qiita.com/engchina/items/5a3fad5ec1c80a8be715?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1519,6 +1529,16 @@ Linux prod-server 5.15.0 #1 SMP x86_64 GNU/Linux
 そう思っているLinu...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d55a39ac35dca575b8ce</id>
+    <title>専任情シスがいない20人規模の町工場で、自分たちでランサムウェア対策基盤を組む</title>
+    <link rel="alternate" href="https://qiita.com/masakai/items/d55a39ac35dca575b8ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-17T16:35:10+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masakai&quot;&gt;masakai&lt;/a&gt;&lt;br/&gt;Published: 2026-05-17T16:35:10+09:00&lt;br/&gt;Updated: 2026-05-17T16:35:10+09:00&lt;br/&gt;中小企業や町工場でセキュリティ対策を進めようとすると、よく出てくる悩みがあります。
+「大企業みたいなSOCやSIEMは無理だけど、ランサムウェアは怖い」
+「NASで共有している図面や受発注データが止まったら、本当に仕事にならない」
+「専任の情シスはいない。でも、できるところ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6d26b6ffc11d163dfd71</id>
     <title>GitHub Copilot CLI の公式ハンズオンやってみた (第0章/7章)</title>
     <link rel="alternate" href="https://qiita.com/chomado/items/6d26b6ffc11d163dfd71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1559,6 +1579,19 @@ AST（抽象構文木）から「構造」だけを抽出したマップこそ�
 逆の意見もあると思うので、あくまで一例として参考にしてもらえればと思います。
 
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5d00c7dd1d690ee4f9bf</id>
+    <title>1割の“信頼される”エンジニアが実行している『ズレを防ぐ途中共有』</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/5d00c7dd1d690ee4f9bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-18T14:05:48+09:00</updated>
+    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T14:05:48+09:00&lt;br/&gt;Updated: 2026-05-18T14:05:48+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+現場で感じたことを整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶ コーポレートサイト
+
+1...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b11ebbcf7e14ff251b76</id>
@@ -1609,26 +1642,6 @@ Bonsaiという新しいLLMで、1ビットモデルなんですって。
 環境
 
 Raspberry...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:aeaee3e64e75076503fe</id>
-    <title>Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン</title>
-    <link rel="alternate" href="https://qiita.com/ennagara128/items/aeaee3e64e75076503fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-17T12:40:01+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ennagara128&quot;&gt;ennagara128&lt;/a&gt;&lt;br/&gt;Published: 2026-05-17T12:40:01+09:00&lt;br/&gt;Updated: 2026-05-17T12:40:01+09:00&lt;br/&gt;はじめに
-Qiita で「Claude Code を社内で使うための『AIエージェントセキュリティ』実践編」がトレンド入りしていました。
-Claude Code を組織で使い始める時、最も多い不安は 「機密情報がうっかり漏れないか」 です。
-実際にうちのチームで1年以上運...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d55a39ac35dca575b8ce</id>
-    <title>専任情シスがいない20人規模の町工場で、自分たちでランサムウェア対策基盤を組む</title>
-    <link rel="alternate" href="https://qiita.com/masakai/items/d55a39ac35dca575b8ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-17T16:35:10+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masakai&quot;&gt;masakai&lt;/a&gt;&lt;br/&gt;Published: 2026-05-17T16:35:10+09:00&lt;br/&gt;Updated: 2026-05-17T16:35:10+09:00&lt;br/&gt;中小企業や町工場でセキュリティ対策を進めようとすると、よく出てくる悩みがあります。
-「大企業みたいなSOCやSIEMは無理だけど、ランサムウェアは怖い」
-「NASで共有している図面や受発注データが止まったら、本当に仕事にならない」
-「専任の情シスはいない。でも、できるところ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c9e42de497a9eff2b680</id>
@@ -2035,6 +2048,16 @@ Claude Code をはじめとする AI コーディングエージェントで、�
 Copilot Studioでも、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:026452114ad63efa9aa6</id>
+    <title>果たしてCopilotで営業成績は上がるのか</title>
+    <link rel="alternate" href="https://qiita.com/sadabon444/items/026452114ad63efa9aa6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-17T08:24:41+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-05-16T16:46:13+09:00&lt;br/&gt;Updated: 2026-05-17T08:24:41+09:00&lt;br/&gt;「Copilotを使うことで、営業成績は上がるのか？」
+とあるお客様から、こう聞かれました。
+Microsoftの公式サイトや各種ホワイトペーパーには、「生産性が●●%向上！」「週に●時間を節約！」といった事例が並んでいます。
+ただ、このような事例はどこかキレイすぎて、ピン...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e6205673598cdb1ff14d</id>
     <title>AI時代のMoatとは — 「もし明日、競合が同じプロダクトを出したらどう勝つか？」</title>
     <link rel="alternate" href="https://qiita.com/mattsershaw/items/e6205673598cdb1ff14d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2127,16 +2150,6 @@ chrome-devtools-mcp は、AI コーディングエージェントから 生き�
 Claude CodeやCursorなどのAIコーディングアシスタントに「ランディングページを作って」と頼むと、機能的には動くものの、デザイン面では物足りない結果になることがあります。配色がちぐはぐだったり、フォントの組み合わせが微妙だったり、業界に合わないスタ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:026452114ad63efa9aa6</id>
-    <title>果たしてCopilotで営業成績は上がるのか</title>
-    <link rel="alternate" href="https://qiita.com/sadabon444/items/026452114ad63efa9aa6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-17T08:24:41+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-05-16T16:46:13+09:00&lt;br/&gt;Updated: 2026-05-17T08:24:41+09:00&lt;br/&gt;「Copilotを使うことで、営業成績は上がるのか？」
-とあるお客様から、こう聞かれました。
-Microsoftの公式サイトや各種ホワイトペーパーには、「生産性が●●%向上！」「週に●時間を節約！」といった事例が並んでいます。
-ただ、このような事例はどこかキレイすぎて、ピン...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b74198e39c2cbad358e3</id>
     <title>【個人開発：制作期間1ヶ月】自分の美容（髪型・ヘアカラー・ネイルなど）を記録し、予算も管理するアプリを作成しました！【React/TypeScript/Supabase/Firebase】</title>
     <link rel="alternate" href="https://qiita.com/pmpm_nk/items/b74198e39c2cbad358e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2156,14 +2169,5 @@ WEBアプリケーションエンジニアとして活動しているPOMです�
 自然言語でやりたいことを説明すれば、RでもPythonでもSQLでも、かなり実用的なコードが生成されます。
 これは、データ分析の世界にとって大きな変化です。
 これまでデータ分析を学ぶには、Explora...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:54e88055dc5fe22c0e1c</id>
-    <title>Power Automate から Copilot Studio のエージェントを多重実行させる</title>
-    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/54e88055dc5fe22c0e1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-30T08:54:57+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T08:25:50+09:00&lt;br/&gt;Updated: 2026-03-30T08:54:57+09:00&lt;br/&gt;はじめに
-Copilot Studio のエージェントに「Excel の一覧データを渡して、1行ずつ処理させたい」という相談をいただくことが増えてきました。
-たとえば、特許調査の依頼一覧が Excel テーブルに入っていて、それを AI エージェントに順番に処理させたいと...</summary>
   </entry>
 </feed>
