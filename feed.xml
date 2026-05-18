@@ -874,15 +874,6 @@ AIがコードを書くことが当たり前となった2026年現在、エン�
 仕様書、API設計書、DB設計書、クラス設計書——エンジニアの仕事には「書かなければいけないドキュメント」が山ほどあります。でも、コードを書く時間と同じくらい、あるいはそれ以上の...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:76a4d9dac74e70bceebb</id>
-    <title>生成AIで古（いにしえ）のFORTRANコードに挑戦する</title>
-    <link rel="alternate" href="https://qiita.com/cometscome_phys/items/76a4d9dac74e70bceebb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-17T21:11:49+09:00</updated>
-    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/cometscome_phys&quot;&gt;cometscome_phys&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T19:12:14+09:00&lt;br/&gt;Updated: 2026-03-17T21:11:49+09:00&lt;br/&gt;古（いにしえ）のFORTRANコード
-ChatGPT5.4 を使います。MacのCodexアプリを使います(5.4 Codexではなく5.4でした。)。
-このWebサイトでは、物理学で使う計算手法のコードが公開されています。FORTRANです。DMFTと呼ばれる手法の超有...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:ce9917268d8d18aa9b6c</id>
     <title>Vibe Coding のトークン消費量の40-60%を占めることもある、Markdownファイルの読み込みトークン消費量を最大98%以上圧縮する markdown-query スキル</title>
     <link rel="alternate" href="https://qiita.com/dahatake/items/ce9917268d8d18aa9b6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1244,6 +1235,16 @@ Linux にて簡単に特権昇格(root権限でコマンドの実行が出来る
 1. アプリケーション障...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:aeaee3e64e75076503fe</id>
+    <title>Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン</title>
+    <link rel="alternate" href="https://qiita.com/ennagara128/items/aeaee3e64e75076503fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-18T18:43:30+09:00</updated>
+    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ennagara128&quot;&gt;ennagara128&lt;/a&gt;&lt;br/&gt;Published: 2026-05-17T12:40:01+09:00&lt;br/&gt;Updated: 2026-05-18T18:43:30+09:00&lt;br/&gt;はじめに
+Qiita で「Claude Code を社内で使うための『AIエージェントセキュリティ』実践編」がトレンド入りしていました。
+Claude Code を組織で使い始める時、最も多い不安は 「機密情報がうっかり漏れないか」 です。
+実際にうちのチームで1年以上運...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:864876245891c0cbb127</id>
     <title>「クラウドだから大丈夫」は危険です ― 新人エンジニアがやりがちな“信頼性の勘違い”</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/864876245891c0cbb127?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1278,16 +1279,6 @@ axiosはJavaScriptで最も使われるHTTPクライアントです。
 「AIエージェントにコードを書かせたら、半分書いたところでコンテキストが切れて、次のセッションで最初からやり直しになった。」
 この経験、ありませんか。
 2025年後半から、AIコーディングエージェントの能力は飛躍的に向上しました。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:aeaee3e64e75076503fe</id>
-    <title>Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン</title>
-    <link rel="alternate" href="https://qiita.com/ennagara128/items/aeaee3e64e75076503fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-18T18:43:30+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ennagara128&quot;&gt;ennagara128&lt;/a&gt;&lt;br/&gt;Published: 2026-05-17T12:40:01+09:00&lt;br/&gt;Updated: 2026-05-18T18:43:30+09:00&lt;br/&gt;はじめに
-Qiita で「Claude Code を社内で使うための『AIエージェントセキュリティ』実践編」がトレンド入りしていました。
-Claude Code を組織で使い始める時、最も多い不安は 「機密情報がうっかり漏れないか」 です。
-実際にうちのチームで1年以上運...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cd2c603abf8b48fc23a8</id>
@@ -2169,5 +2160,14 @@ WEBアプリケーションエンジニアとして活動しているPOMです�
 自然言語でやりたいことを説明すれば、RでもPythonでもSQLでも、かなり実用的なコードが生成されます。
 これは、データ分析の世界にとって大きな変化です。
 これまでデータ分析を学ぶには、Explora...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:54e88055dc5fe22c0e1c</id>
+    <title>Power Automate から Copilot Studio のエージェントを多重実行させる</title>
+    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/54e88055dc5fe22c0e1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-30T08:54:57+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T08:25:50+09:00&lt;br/&gt;Updated: 2026-03-30T08:54:57+09:00&lt;br/&gt;はじめに
+Copilot Studio のエージェントに「Excel の一覧データを渡して、1行ずつ処理させたい」という相談をいただくことが増えてきました。
+たとえば、特許調査の依頼一覧が Excel テーブルに入っていて、それを AI エージェントに順番に処理させたいと...</summary>
   </entry>
 </feed>
