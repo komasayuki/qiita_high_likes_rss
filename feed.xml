@@ -125,17 +125,6 @@ AIがコードを生成してくれる時代になっても、Gitの操作は自
 最近、GoogleやApple、メルカリ、楽天、PlayStationなどで「パスキー」という言葉を見かけることが増えました。「パスワードの代わりになる新しいログイン方法らしい」くらいは知っていても、「結局それって何なの？」「なぜパスワードより安全なの？」と聞か...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:1ad4e4ccaf47816c63e0</id>
-    <title>CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-18T22:14:33+09:00</updated>
-    <summary type="html">Likes: 192&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T21:04:26+09:00&lt;br/&gt;Updated: 2026-03-18T22:14:33+09:00&lt;br/&gt;はじめに
-Claude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。
-
-「前にも同じ指示を出したのに、また違うスタイルで書いてくる」
-「プロジェクトのル...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:5e64037cc452c5d497fa</id>
     <title>Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/5e64037cc452c5d497fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -965,6 +954,15 @@ Webの勉強を始めてすぐ、こんなことありませんか？
 この記事では、そん...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2ace83e1d37c13f01190</id>
+    <title>大企業が Microsoft 365 Copilot を選ぶ理由を、自分なりに整理してみる</title>
+    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/2ace83e1d37c13f01190?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-19T10:06:43+09:00</updated>
+    <summary type="html">Likes: 75&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T16:56:19+09:00&lt;br/&gt;Updated: 2026-05-19T10:06:43+09:00&lt;br/&gt;はじめに
+最近 SNS 上で大企業の生成 AI 活用について「Microsoft 365 Copilot しか使えないのは残念」といったニュアンスの発信を見かけることがあります。
+もちろん、色々な考え方があると思いますので、特に否定はしませんが、個人的には「もう少し違う見...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fd31a46683bba8bf55b7</id>
     <title>配色に悩む時間をゼロに。自然界モチーフのデザインシステム集「Morphos」を作りました</title>
     <link rel="alternate" href="https://qiita.com/Ameyanagi/items/fd31a46683bba8bf55b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -974,15 +972,6 @@ Webの勉強を始めてすぐ、こんなことありませんか？
 はじめに
 AIを使ってアプリやUIを作るとき、ChatGPTやClaudeに「いい感じに作って」とお願いすると、どこかで見たような無難な配色が返ってくることがあります。
 PowerPoint...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2ace83e1d37c13f01190</id>
-    <title>大企業が Microsoft 365 Copilot を選ぶ理由を、自分なりに整理してみる</title>
-    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/2ace83e1d37c13f01190?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-19T10:06:43+09:00</updated>
-    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T16:56:19+09:00&lt;br/&gt;Updated: 2026-05-19T10:06:43+09:00&lt;br/&gt;はじめに
-最近 SNS 上で大企業の生成 AI 活用について「Microsoft 365 Copilot しか使えないのは残念」といったニュアンスの発信を見かけることがあります。
-もちろん、色々な考え方があると思いますので、特に否定はしませんが、個人的には「もう少し違う見...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d3f222758833cb694672</id>
@@ -2156,5 +2145,14 @@ WEBアプリケーションエンジニアとして活動しているPOMです�
 自然言語でやりたいことを説明すれば、RでもPythonでもSQLでも、かなり実用的なコードが生成されます。
 これは、データ分析の世界にとって大きな変化です。
 これまでデータ分析を学ぶには、Explora...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:54e88055dc5fe22c0e1c</id>
+    <title>Power Automate から Copilot Studio のエージェントを多重実行させる</title>
+    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/54e88055dc5fe22c0e1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-30T08:54:57+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T08:25:50+09:00&lt;br/&gt;Updated: 2026-03-30T08:54:57+09:00&lt;br/&gt;はじめに
+Copilot Studio のエージェントに「Excel の一覧データを渡して、1行ずつ処理させたい」という相談をいただくことが増えてきました。
+たとえば、特許調査の依頼一覧が Excel テーブルに入っていて、それを AI エージェントに順番に処理させたいと...</summary>
   </entry>
 </feed>
