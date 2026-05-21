@@ -837,8 +837,8 @@
       "published": "2026-05-20T13:17:46+09:00",
       "updated": "2026-05-20T13:18:28+09:00",
       "author_name": "hitomin_poke",
-      "likes_count": 76,
-      "last_seen": "2026-05-21T07:34:42.680889209+00:00"
+      "likes_count": 80,
+      "last_seen": "2026-05-21T09:23:13.879275423+00:00"
     },
     {
       "key": "20fe25fc0cda3137dba2",
@@ -1245,8 +1245,8 @@
       "published": "2026-05-20T13:57:30+09:00",
       "updated": "2026-05-20T13:57:30+09:00",
       "author_name": "yuzinet",
-      "likes_count": 24,
-      "last_seen": "2026-05-21T07:34:42.680889209+00:00"
+      "likes_count": 27,
+      "last_seen": "2026-05-21T09:23:13.879275423+00:00"
     },
     {
       "key": "3271d742da296e6a4622",
@@ -1571,6 +1571,18 @@
       "author_name": "teppei19980914",
       "likes_count": 139,
       "last_seen": "2026-05-04T19:42:38.551928551+00:00"
+    },
+    {
+      "key": "3cb459afc23d225be16a",
+      "item_id": "3cb459afc23d225be16a",
+      "title": "S3上の数GBファイルをstreamingでZIP化する【smart-open】",
+      "link": "https://qiita.com/h_ito_yzrh/items/3cb459afc23d225be16a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "TL;DR\n\nboto3のStreamingBody.read()を使うと、S3オブジェクト全体をメモリへ展開してしまう\nboto3のStreamingBody.iter_chunks()を使うことで、chunk単位で読み込める\n\nsmart_openを使うことで、ZIP...",
+      "published": "2026-05-21T00:35:55+09:00",
+      "updated": "2026-05-21T00:40:24+09:00",
+      "author_name": "h_ito_yzrh",
+      "likes_count": 13,
+      "last_seen": "2026-05-21T09:23:13.879275423+00:00"
     },
     {
       "key": "3d0e5b5f55598feebdff",
@@ -2518,7 +2530,7 @@
       "updated": "2026-05-19T11:59:55+09:00",
       "author_name": "Kitasan_White",
       "likes_count": 20,
-      "last_seen": "2026-05-21T07:34:42.680889209+00:00"
+      "last_seen": "2026-05-21T09:23:13.879275423+00:00"
     },
     {
       "key": "5c631686df251ed0408d",
@@ -3013,6 +3025,18 @@
       "last_seen": "2026-04-24T07:45:45.230039974+00:00"
     },
     {
+      "key": "6d68d128dea56602ab58",
+      "item_id": "6d68d128dea56602ab58",
+      "title": "勉強苦手なQAエンジニアがJSTQB AL-TAに挑んで爆死した話orz",
+      "link": "https://qiita.com/w_k0_0/items/6d68d128dea56602ab58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "どうも、QAエンジニア業務を行っているw_k0_0と申します\n完全未経験からスタートしたQAエンジニアも、気づけば4〜5年目。\nさらなるスキルアップのため、資格取得を目指して日々奮闘中です！\nまずは、私の「保有資格」をご紹介。\n・JSTQB Foundation Level...",
+      "published": "2026-05-21T09:04:05+09:00",
+      "updated": "2026-05-21T09:04:05+09:00",
+      "author_name": "w_k0_0",
+      "likes_count": 17,
+      "last_seen": "2026-05-21T09:23:13.879275423+00:00"
+    },
+    {
       "key": "6dc096a87ac248e93f13",
       "item_id": "6dc096a87ac248e93f13",
       "title": "「今日何してた？」に詰まる新人エンジニアへ。それ、スキルではなく“進め方”の問題です。",
@@ -3433,6 +3457,18 @@
       "last_seen": "2026-04-29T19:42:28.612080141+00:00"
     },
     {
+      "key": "7c0a515119c0bcb45d35",
+      "item_id": "7c0a515119c0bcb45d35",
+      "title": "設計本の学びがコードレビューで活きた話｜フラグ引数・null戻り値・型の網羅性",
+      "link": "https://qiita.com/Nao52/items/7c0a515119c0bcb45d35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "■ この記事はこんな人におすすめ\n\nTypeScript / Next.js を使って実務開発をしている人\nコードレビューで設計的な指摘をしたい・受けたい人\n「良いコード／悪いコードで学ぶ設計入門」を読んで実務に活かしたい人\n\nnull を返す関数や boolean フラ...",
+      "published": "2026-05-21T07:28:08+09:00",
+      "updated": "2026-05-21T07:28:08+09:00",
+      "author_name": "Nao52",
+      "likes_count": 16,
+      "last_seen": "2026-05-21T09:23:13.879275423+00:00"
+    },
+    {
       "key": "7c402f4e085fae433cf5",
       "item_id": "7c402f4e085fae433cf5",
       "title": "【35歳未経験でも理解できた】SQL 基礎コマンド",
@@ -3849,8 +3885,8 @@
       "published": "2026-05-19T10:46:59+09:00",
       "updated": "2026-05-19T10:46:59+09:00",
       "author_name": "take-yoda",
-      "likes_count": 17,
-      "last_seen": "2026-05-21T07:34:42.680889209+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-05-21T09:23:13.879275423+00:00"
     },
     {
       "key": "8b8ed06bb76a80bb34c2",
@@ -3934,7 +3970,7 @@
       "updated": "2026-05-19T10:18:05+09:00",
       "author_name": "masa20057",
       "likes_count": 81,
-      "last_seen": "2026-05-21T07:34:42.680889209+00:00"
+      "last_seen": "2026-05-21T09:23:13.879275423+00:00"
     },
     {
       "key": "8d46a3f1ef3fc329b8fa",
@@ -4030,7 +4066,7 @@
       "updated": "2026-05-19T08:30:08+09:00",
       "author_name": "fe1ix",
       "likes_count": 12,
-      "last_seen": "2026-05-21T07:34:42.680889209+00:00"
+      "last_seen": "2026-05-21T09:23:13.879275423+00:00"
     },
     {
       "key": "8f9b238ae28e380e6029",
@@ -4761,8 +4797,8 @@
       "published": "2026-05-19T15:42:33+09:00",
       "updated": "2026-05-21T11:57:55+09:00",
       "author_name": "shirok",
-      "likes_count": 36,
-      "last_seen": "2026-05-21T07:34:42.680889209+00:00"
+      "likes_count": 38,
+      "last_seen": "2026-05-21T09:23:13.879275423+00:00"
     },
     {
       "key": "a9c6e8cf81d76b596ca7",
@@ -5458,7 +5494,7 @@
       "updated": "2026-05-18T17:00:14+09:00",
       "author_name": "nhatcaofedev",
       "likes_count": 28,
-      "last_seen": "2026-05-21T07:34:42.680889209+00:00"
+      "last_seen": "2026-05-21T09:23:13.879275423+00:00"
     },
     {
       "key": "c0c4b83a485351bd3412",
@@ -5603,6 +5639,18 @@
       "author_name": "TOMOSIA-HieuNT",
       "likes_count": 11,
       "last_seen": "2026-04-21T07:44:10.386261434+00:00"
+    },
+    {
+      "key": "c47bc4176cb03e4f0d5a",
+      "item_id": "c47bc4176cb03e4f0d5a",
+      "title": "【命名規則】名前から「目的」を読み取れるコードを書くために——目的駆動名前設計のすすめ",
+      "link": "https://qiita.com/Nao52/items/c47bc4176cb03e4f0d5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "■ この記事はこんな人におすすめ\n\nクラス名・変数名・メソッド名の命名に迷いがちな人\n「とりあえず User や Item でいいか」と思いがちな人\n命名規則を意識はしているが、チームでの共通認識づくりに課題を感じている人\nドメイン知識を活かした設計に興味がある人\n\n■...",
+      "published": "2026-05-21T06:48:59+09:00",
+      "updated": "2026-05-21T06:48:59+09:00",
+      "author_name": "Nao52",
+      "likes_count": 16,
+      "last_seen": "2026-05-21T09:23:13.879275423+00:00"
     },
     {
       "key": "c4a4928e4d3862e35c7c",
@@ -6754,7 +6802,7 @@
       "updated": "2026-05-20T09:30:04+09:00",
       "author_name": "nobu34",
       "likes_count": 14,
-      "last_seen": "2026-05-21T07:34:42.680889209+00:00"
+      "last_seen": "2026-05-21T09:23:13.879275423+00:00"
     },
     {
       "key": "ede7d1c0be4a14024857",
@@ -7163,6 +7211,18 @@
       "author_name": "prum_hitomi",
       "likes_count": 103,
       "last_seen": "2026-04-27T07:10:43.003386883+00:00"
+    },
+    {
+      "key": "f9523e566a6f82199dea",
+      "item_id": "f9523e566a6f82199dea",
+      "title": "エンジニアが年収600・800・1000万円の壁を突破するための6つの能力とキャリア戦略",
+      "link": "https://qiita.com/Nao52/items/f9523e566a6f82199dea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "■ この記事はこんな人におすすめ\n\n年収アップを目指しているエンジニアの方\n「なんとなく仕事はこなせているが、年収が伸び悩んでいる」と感じている方\nスタートアップや中小企業からキャリアアップを考えている方\n自分のスキルが今どのレベルにあるか客観的に把握したい方\n転職を検討...",
+      "published": "2026-05-21T07:04:04+09:00",
+      "updated": "2026-05-21T07:04:04+09:00",
+      "author_name": "Nao52",
+      "likes_count": 20,
+      "last_seen": "2026-05-21T09:23:13.879275423+00:00"
     },
     {
       "key": "f9eb8b7fb6a14087df35",
