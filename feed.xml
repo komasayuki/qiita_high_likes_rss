@@ -477,25 +477,25 @@ AI Coding.Infoというサイトを2025年7月から運営しています。
 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:2ad0240c56eb7507b261</id>
-    <title>日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/2ad0240c56eb7507b261?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-10T22:15:57+09:00</updated>
-    <summary type="html">Likes: 101&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuji-arakawa&quot;&gt;yuji-arakawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T00:40:23+09:00&lt;br/&gt;Updated: 2026-04-10T22:15:57+09:00&lt;br/&gt;はじめに
-富士通、理化学研究所 AIP、東京科学大学、東海大学の研究チームが arXiv で公開した論文 「PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:5d00c7dd1d690ee4f9bf</id>
     <title>1割の“信頼される”エンジニアが実行している『ズレを防ぐ途中共有』</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/5d00c7dd1d690ee4f9bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-05-18T14:05:48+09:00</updated>
-    <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T14:05:48+09:00&lt;br/&gt;Updated: 2026-05-18T14:05:48+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
+    <summary type="html">Likes: 101&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T14:05:48+09:00&lt;br/&gt;Updated: 2026-05-18T14:05:48+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
 現場で感じたことを整理して発信しています。
 PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
 ▶ コーポレートサイト
 
 1...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:2ad0240c56eb7507b261</id>
+    <title>日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/2ad0240c56eb7507b261?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-10T22:15:57+09:00</updated>
+    <summary type="html">Likes: 101&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuji-arakawa&quot;&gt;yuji-arakawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T00:40:23+09:00&lt;br/&gt;Updated: 2026-04-10T22:15:57+09:00&lt;br/&gt;はじめに
+富士通、理化学研究所 AIP、東京科学大学、東海大学の研究チームが arXiv で公開した論文 「PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ab5bf50d9f68e7c8de56</id>
@@ -507,19 +507,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 社内で Claude Code / Cursor / Codex / ChatGPT などの AI コーディング支援を 本気で業務利用したい エンジニア
 「リスクが…」で却下され続けて、情シスに見せられる具体的な技術対策が欲しい チームリーダー
 情シ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:04ff280edc3178b60104</id>
-    <title>「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話</title>
-    <link rel="alternate" href="https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-19T12:57:17+09:00</updated>
-    <summary type="html">Likes: 98&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/GeneLab_999&quot;&gt;GeneLab_999&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T12:57:17+09:00&lt;br/&gt;Updated: 2026-03-19T12:57:17+09:00&lt;br/&gt;この記事の対象読者
-
-OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人
-「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人
-APIのコスト見積もりを上司やクライアントに提出する必要がある人
-
-LLMのトークナイゼーシ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8e6607a09cb8ff86c298</id>
@@ -544,6 +531,16 @@ PRUMについて気になった方は、
 ▶ コーポレートサイト
 
 9割の新人エンジニアがや...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:1609d7989268aa3e35bf</id>
+    <title>ダークモードは本当に読みやすいのか？コントラスト極性の研究から考える表示モードの設計</title>
+    <link rel="alternate" href="https://qiita.com/tanay/items/1609d7989268aa3e35bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-18T10:41:21+09:00</updated>
+    <summary type="html">Likes: 95&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tanay&quot;&gt;tanay&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T10:41:20+09:00&lt;br/&gt;Updated: 2026-05-18T10:41:21+09:00&lt;br/&gt;みなさん、電子書籍を読む時どの背景色を使っていますか？
+Kindleを使っていて気になったのですが、Kindleの背景色の設定には、白・黒だけでなく「セピア」や「グリーン」も用意されています。
+
+私自身は、Kindleでは黒背景だと目が滑るような気がして、白背景を使うことが...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:06420caf41a34a910c53</id>
@@ -597,16 +594,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 今日はシステムを支える5つの要素についてプログラミング初心者向けに記事を書きました。この記事を読むことで、点だった知識が線に繋がり、システム全体のイメージを掴めると思います。
 興味があれば読んで頂けると嬉しいです。
 PRUMについて興味が...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1609d7989268aa3e35bf</id>
-    <title>ダークモードは本当に読みやすいのか？コントラスト極性の研究から考える表示モードの設計</title>
-    <link rel="alternate" href="https://qiita.com/tanay/items/1609d7989268aa3e35bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-18T10:41:21+09:00</updated>
-    <summary type="html">Likes: 91&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tanay&quot;&gt;tanay&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T10:41:20+09:00&lt;br/&gt;Updated: 2026-05-18T10:41:21+09:00&lt;br/&gt;みなさん、電子書籍を読む時どの背景色を使っていますか？
-Kindleを使っていて気になったのですが、Kindleの背景色の設定には、白・黒だけでなく「セピア」や「グリーン」も用意されています。
-
-私自身は、Kindleでは黒背景だと目が滑るような気がして、白背景を使うことが...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9d91ff5ad51001237a02</id>
@@ -839,6 +826,17 @@ AIがコードを書くことが当たり前となった2026年現在、エン�
 未経験からの転職は...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8d0e2eba108351f930d3</id>
+    <title>【初学者向け】Webサービスを守る多要素認証と暗号化の話</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/8d0e2eba108351f930d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-19T10:18:05+09:00</updated>
+    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T10:18:05+09:00&lt;br/&gt;Updated: 2026-05-19T10:18:05+09:00&lt;br/&gt;株式会社 PRUMのmasaです。
+今日は情報セキュリティで必須と言われる「多要素認証」と「暗号化」がなぜ必要なのか、それぞれの役割の違いを意識しながら一緒に見ていきましょう。
+
+1. 昔と今で変わってきた？近年のセキュリティ動向と「パスワードの限界」
+情報セキュリティと聞...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a359bfcd179777761e4f</id>
     <title>【Qiita】いいかげん一日3記事までに制限すべきでは</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/a359bfcd179777761e4f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -876,17 +874,6 @@ AIがコードを書くことが当たり前となった2026年現在、エン�
 はじめに
 こんにちは！
 35歳から未経験でエ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8d0e2eba108351f930d3</id>
-    <title>【初学者向け】Webサービスを守る多要素認証と暗号化の話</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/8d0e2eba108351f930d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-19T10:18:05+09:00</updated>
-    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T10:18:05+09:00&lt;br/&gt;Updated: 2026-05-19T10:18:05+09:00&lt;br/&gt;株式会社 PRUMのmasaです。
-今日は情報セキュリティで必須と言われる「多要素認証」と「暗号化」がなぜ必要なのか、それぞれの役割の違いを意識しながら一緒に見ていきましょう。
-
-1. 昔と今で変わってきた？近年のセキュリティ動向と「パスワードの限界」
-情報セキュリティと聞...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b1a956add6ec342f31b5</id>
@@ -2025,24 +2012,6 @@ Claude Code をはじめとする AI コーディングエージェントで、�
 なん...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:ed8662412cc98a0d5868</id>
-    <title>AWS Community Builders（Serverless）に選出されました</title>
-    <link rel="alternate" href="https://qiita.com/tetutetu214/items/ed8662412cc98a0d5868?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-19T23:38:54+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetutetu214&quot;&gt;tetutetu214&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T22:45:32+09:00&lt;br/&gt;Updated: 2026-03-19T23:38:54+09:00&lt;br/&gt;はじめに
-この度 AWS Community Builders 2026 に Serverless カテゴリーで応募し、選出いただきました。
-この記事では、結果的に選出へと繋がった「私がこの1年、どんな思いをもって取り組んできたのか」についてまとめます。
-応募を検討してい...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0fe0e777053eb52c6f5f</id>
-    <title>Copilot Studioで実現する「AIチーム」の作り方。マルチエージェント開発入門</title>
-    <link rel="alternate" href="https://qiita.com/TND_mi/items/0fe0e777053eb52c6f5f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-19T16:18:51+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TND_mi&quot;&gt;TND_mi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T16:18:50+09:00&lt;br/&gt;Updated: 2026-03-19T16:18:51+09:00&lt;br/&gt;これまでのAI活用は、翻訳や要約、問い合わせ対応など、ひとつの役割をこなす優秀な個人のような存在でした。しかし最近は、複数のAIが役割分担して動くマルチエージェントが登場し、AIがチームで仕事をするような使い方ができるようになっています。
-Copilot Studioでも、...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:e6205673598cdb1ff14d</id>
     <title>AI時代のMoatとは — 「もし明日、競合が同じプロダクトを出したらどう勝つか？」</title>
     <link rel="alternate" href="https://qiita.com/mattsershaw/items/e6205673598cdb1ff14d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2154,5 +2123,43 @@ WEBアプリケーションエンジニアとして活動しているPOMです�
 自然言語でやりたいことを説明すれば、RでもPythonでもSQLでも、かなり実用的なコードが生成されます。
 これは、データ分析の世界にとって大きな変化です。
 これまでデータ分析を学ぶには、Explora...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:54e88055dc5fe22c0e1c</id>
+    <title>Power Automate から Copilot Studio のエージェントを多重実行させる</title>
+    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/54e88055dc5fe22c0e1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-03-30T08:54:57+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T08:25:50+09:00&lt;br/&gt;Updated: 2026-03-30T08:54:57+09:00&lt;br/&gt;はじめに
+Copilot Studio のエージェントに「Excel の一覧データを渡して、1行ずつ処理させたい」という相談をいただくことが増えてきました。
+たとえば、特許調査の依頼一覧が Excel テーブルに入っていて、それを AI エージェントに順番に処理させたいと...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:71b3c3188d19e2429ee0</id>
+    <title>n8nで「ランチ自動提案Bot」を作ってみた（Google Maps × Discord）</title>
+    <link rel="alternate" href="https://qiita.com/wan-code/items/71b3c3188d19e2429ee0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-23T18:56:20+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wan-code&quot;&gt;wan-code&lt;/a&gt;&lt;br/&gt;Published: 2026-04-23T18:56:20+09:00&lt;br/&gt;Updated: 2026-04-23T18:56:20+09:00&lt;br/&gt;はじめに
+毎日のランチ、こんな悩みありませんか？
+
+毎回どこ行くか迷う
+同じ店ばかり行ってしまう
+新しい店を開拓したい
+
+そこで今回は
+n8n + Google Maps API + Discord を使って
+ランチを自動で提案してくれるBot
+を作ってみました。
+
+作っ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:bca0ee8f15a13dfd8cfa</id>
+    <title>【Claude Design】見せてもらおうか Claude Designの性能とやらを</title>
+    <link rel="alternate" href="https://qiita.com/ryu-ki/items/bca0ee8f15a13dfd8cfa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-22T17:47:00+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T08:23:13+09:00&lt;br/&gt;Updated: 2026-04-22T17:47:00+09:00&lt;br/&gt;はじめに
+2026/4/17 に Anthropic から Claude Design がリリースされました。
+
+Claude と会話しながらデザインやプロトタイプ、スライド、1枚ものの資料などを作れるサービスだそうです。現在は Claude Opus 4.7 を基盤...</summary>
   </entry>
 </feed>
