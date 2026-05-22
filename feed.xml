@@ -436,15 +436,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 “書けるだけ”...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:4d04c2691c788d1781e1</id>
-    <title>おうちで通信キャリアを再現してみた</title>
-    <link rel="alternate" href="https://qiita.com/takuteh/items/4d04c2691c788d1781e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-20T21:26:26+09:00</updated>
-    <summary type="html">Likes: 104&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takuteh&quot;&gt;takuteh&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T21:25:38+09:00&lt;br/&gt;Updated: 2026-03-20T21:26:26+09:00&lt;br/&gt;はじめに
-せっかく通信キャリアのモバイルコア部門のエンジニアになったので、自宅でもコア設備を再現してみようと思いました。とは言っても私はモバイルコアの基盤開発担当なので、3GPPや設備については概要程度しか知りません。
-一部曖昧な説明があるかもしれませんがご了承ください。...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:f94803dd326ef7c3eb25</id>
     <title>その“親切な設計”、たぶん無駄です  - エンジニアがハマる「やりすぎ問題」-</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/f94803dd326ef7c3eb25?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1799,15 +1790,6 @@ AIに「いい感じに作って」と言って、本当に「いい感じ」の
 昨日、同僚がコードをめちゃくちゃにして「最初からやり直すか…」ってなってたので「リワイン...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c045233e1c4fb497c25d</id>
-    <title>Claude Codeでひとりチーム開発を回すための設定とワークフロー</title>
-    <link rel="alternate" href="https://qiita.com/kei1-dev/items/c045233e1c4fb497c25d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-20T23:33:44+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kei1-dev&quot;&gt;kei1-dev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T23:33:44+09:00&lt;br/&gt;Updated: 2026-03-20T23:33:44+09:00&lt;br/&gt;はじめに
-社内でどのようにClaude Codeを使っているのかを紹介する機会があり、その時に利用している設定をメモ程度にまとめたので、Qiitaにも残そうと思いました。
-基本的に複数人で開発するのではなく、ひとりで開発することが多いため、AIに多くを任せたいと思い、設定...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:323bc76cf2d31d9f4d42</id>
     <title>育休中エンジニアがClaude Coworkで「あかちゃんカレンダー🍼」を作った話</title>
     <link rel="alternate" href="https://qiita.com/yuzinet/items/323bc76cf2d31d9f4d42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2120,14 +2102,6 @@ chrome-devtools-mcp は、AI コーディングエージェントから 生き�
 データベースに接続するとき、「ODBCドライバーをインストールしてください」と言われた経験はないでしょうか。言われるがままにインストールして、接続できたらそれで終わり。ODBCドライバーが裏側で何をしているのか、なぜそれが必要なのかを深く考える機会は意外と少ない...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:1e35dd4f573547626aff</id>
-    <title>UI UX Pro Max：AIコーディングアシスタントにデザインセンスを与えるSkill</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/1e35dd4f573547626aff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-20T18:13:00+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T17:40:27+09:00&lt;br/&gt;Updated: 2026-03-20T18:13:00+09:00&lt;br/&gt;はじめに
-Claude CodeやCursorなどのAIコーディングアシスタントに「ランディングページを作って」と頼むと、機能的には動くものの、デザイン面では物足りない結果になることがあります。配色がちぐはぐだったり、フォントの組み合わせが微妙だったり、業界に合わないスタ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b74198e39c2cbad358e3</id>
     <title>【個人開発：制作期間1ヶ月】自分の美容（髪型・ヘアカラー・ネイルなど）を記録し、予算も管理するアプリを作成しました！【React/TypeScript/Supabase/Firebase】</title>
     <link rel="alternate" href="https://qiita.com/pmpm_nk/items/b74198e39c2cbad358e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2175,5 +2149,37 @@ n8n + Google Maps API + Discord を使って
 を作ってみました。
 
 作っ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:bca0ee8f15a13dfd8cfa</id>
+    <title>【Claude Design】見せてもらおうか Claude Designの性能とやらを</title>
+    <link rel="alternate" href="https://qiita.com/ryu-ki/items/bca0ee8f15a13dfd8cfa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-22T17:47:00+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T08:23:13+09:00&lt;br/&gt;Updated: 2026-04-22T17:47:00+09:00&lt;br/&gt;はじめに
+2026/4/17 に Anthropic から Claude Design がリリースされました。
+
+Claude と会話しながらデザインやプロトタイプ、スライド、1枚ものの資料などを作れるサービスだそうです。現在は Claude Opus 4.7 を基盤...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:71ba3d38e563ca7faaa6</id>
+    <title>プロンプトの書き方でどこまで変わる？実際に検証してみた</title>
+    <link rel="alternate" href="https://qiita.com/aito1234/items/71ba3d38e563ca7faaa6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T22:02:23+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aito1234&quot;&gt;aito1234&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T20:58:28+09:00&lt;br/&gt;Updated: 2026-04-13T22:02:23+09:00&lt;br/&gt;はじめに
+前回までで、Claudeの仕組みや設計思想について整理してきました。
+これまでは主に概念や特徴の理解が中心でしたが、
+今回は一歩踏み込んで「実際にどう使うと精度が変わるのか」という点について学びました。
+生成AIは自然言語でもある程度のアウトプットを返してくれま...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:6ac857cdbbd13a363f4d</id>
+    <title>【徳丸本まとめ】Webアプリの脆弱性と対策を一気に整理する</title>
+    <link rel="alternate" href="https://qiita.com/nkngtic/items/6ac857cdbbd13a363f4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-12T12:17:06+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nkngtic&quot;&gt;nkngtic&lt;/a&gt;&lt;br/&gt;Published: 2026-04-12T00:53:24+09:00&lt;br/&gt;Updated: 2026-04-12T12:17:06+09:00&lt;br/&gt;セキュアなWebアプリ開発 ― 押さえておきたい脆弱性と対策まとめ
+
+本記事の出典
+徳丸 浩 著『体系的に学ぶ 安全なWebアプリケーションの作り方 第2版』（SBクリエイティブ）の内容をもとに、要点を整理・再構成したものです。
+より詳しい解説や背景については、ぜひ原著を...</summary>
   </entry>
 </feed>
