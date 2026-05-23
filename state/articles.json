@@ -97,18 +97,6 @@
       "last_seen": "2026-05-19T07:31:06.261867906+00:00"
     },
     {
-      "key": "0385b6d1468e6d564b50",
-      "item_id": "0385b6d1468e6d564b50",
-      "title": "AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド",
-      "link": "https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに — 同じCursorを使っているのに、なぜ10倍の差がつくのか\nこんな経験、ないでしょうか。\nチームの隣の席の人が、CursorやCopilotで爆速開発している。同じツールを使っているのに、自分のプロジェクトだと全然うまくいかない。AIが的外れなコードを吐く。...",
-      "published": "2026-03-21T09:01:09+09:00",
-      "updated": "2026-03-21T09:01:09+09:00",
-      "author_name": "akira_papa_AI",
-      "likes_count": 121,
-      "last_seen": "2026-03-24T07:32:48.900685452+00:00"
-    },
-    {
       "key": "03ab0f5fff1073d5604d",
       "item_id": "03ab0f5fff1073d5604d",
       "title": "[Frontend Performance - Part 15] 配信最適化：CDNとネットワークで表示速度を改善する",
@@ -273,8 +261,8 @@
       "published": "2026-05-22T08:49:35+09:00",
       "updated": "2026-05-22T08:49:36+09:00",
       "author_name": "prum_hitomi",
-      "likes_count": 64,
-      "last_seen": "2026-05-23T07:09:06.669759773+00:00"
+      "likes_count": 66,
+      "last_seen": "2026-05-23T08:52:58.570468143+00:00"
     },
     {
       "key": "0a7546befe9091348d40",
@@ -1765,6 +1753,18 @@
       "last_seen": "2026-03-28T19:19:51.176862662+00:00"
     },
     {
+      "key": "43a93d8ff3f7046b31e3",
+      "item_id": "43a93d8ff3f7046b31e3",
+      "title": "あれほど頼れるAIが、しょっぱいテストケースを作ってくる理由を考えた",
+      "link": "https://qiita.com/yurizono/items/43a93d8ff3f7046b31e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nNewsPicks で QA エンジニアをしています、西薗（@yurizono）です。本稿では、私が取り組んでいるAI4QAの話をします。\n私なんかよりよっぽどしっかりしたコードを書いてくれるLLM君ですが、QAっぽいタスクになった途端、頼りなく見えます。これは...",
+      "published": "2026-05-22T07:03:08+09:00",
+      "updated": "2026-05-22T07:03:09+09:00",
+      "author_name": "yurizono",
+      "likes_count": 10,
+      "last_seen": "2026-05-23T08:52:58.570468143+00:00"
+    },
+    {
       "key": "43d4aafae2c87a12e5ed",
       "item_id": "43d4aafae2c87a12e5ed",
       "title": "React CompilerはどのようにReact.memoを不要にしているのか",
@@ -2350,7 +2350,7 @@
       "updated": "2026-05-20T18:57:08+09:00",
       "author_name": "kotobuki5991",
       "likes_count": 15,
-      "last_seen": "2026-05-23T07:09:06.669759773+00:00"
+      "last_seen": "2026-05-23T08:52:58.570468143+00:00"
     },
     {
       "key": "54e88055dc5fe22c0e1c",
@@ -2591,18 +2591,6 @@
       "author_name": "I635230",
       "likes_count": 15,
       "last_seen": "2026-05-02T07:43:06.050455833+00:00"
-    },
-    {
-      "key": "5e25c34da0529dec71de",
-      "item_id": "5e25c34da0529dec71de",
-      "title": "AIエージェントに「楽をさせる」設計 — 全部AIにやらせる、が最適解とは限らない",
-      "link": "https://qiita.com/katohiro_fi/items/5e25c34da0529dec71de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "最近、AIエージェントのデモや講演を見る機会が増えました。\n「業務プロセスを全てAIエージェントが自律的に実行します！」\n「エージェント同士が対話し、複雑なタスクを自動で完了します！」\nすごい。本当にすごい。ワクワクするし、本当にそういう未来が訪れるのだろうなと感じます。\n...",
-      "published": "2026-03-22T22:13:37+09:00",
-      "updated": "2026-03-22T22:47:03+09:00",
-      "author_name": "katohiro_fi",
-      "likes_count": 14,
-      "last_seen": "2026-03-24T07:32:48.900685452+00:00"
     },
     {
       "key": "5e64037cc452c5d497fa",
@@ -2950,7 +2938,7 @@
       "updated": "2026-05-22T17:39:30+09:00",
       "author_name": "inorin__62",
       "likes_count": 10,
-      "last_seen": "2026-05-23T07:09:06.669759773+00:00"
+      "last_seen": "2026-05-23T08:52:58.570468143+00:00"
     },
     {
       "key": "6ac857cdbbd13a363f4d",
@@ -3130,7 +3118,7 @@
       "updated": "2026-05-23T09:28:45+09:00",
       "author_name": "emi_ndk",
       "likes_count": 21,
-      "last_seen": "2026-05-23T07:09:06.669759773+00:00"
+      "last_seen": "2026-05-23T08:52:58.570468143+00:00"
     },
     {
       "key": "6fbb0c0e55835ea79e4d",
@@ -3409,6 +3397,18 @@
       "last_seen": "2026-03-27T19:25:31.312080398+00:00"
     },
     {
+      "key": "76b9695a600a7491800a",
+      "item_id": "76b9695a600a7491800a",
+      "title": "2025 Japan AWS Jr.Champions としての活動を振り返る",
+      "link": "https://qiita.com/yakumo_09/items/76b9695a600a7491800a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこんにちは、やくもです。\n私は2025年度のJapan AWS Jr. Champions（以下、Jr. Champions）として活動してきました。本記事ではこの一年間の活動を振り返っていきます。\n\n本記事を通して、Jr. Champions というプログ...",
+      "published": "2026-05-23T11:03:39+09:00",
+      "updated": "2026-05-23T11:03:39+09:00",
+      "author_name": "yakumo_09",
+      "likes_count": 12,
+      "last_seen": "2026-05-23T08:52:58.570468143+00:00"
+    },
+    {
       "key": "76eb3df7fbc26059c03c",
       "item_id": "76eb3df7fbc26059c03c",
       "title": "初心者こそ知っておきたい「単一責任の原則」",
@@ -3430,7 +3430,7 @@
       "updated": "2026-05-21T20:17:22+09:00",
       "author_name": "kazuki_ogawa",
       "likes_count": 18,
-      "last_seen": "2026-05-23T07:09:06.669759773+00:00"
+      "last_seen": "2026-05-23T08:52:58.570468143+00:00"
     },
     {
       "key": "77d1e3bd0853b5f853b8",
@@ -3493,18 +3493,6 @@
       "last_seen": "2026-04-13T07:45:02.995447212+00:00"
     },
     {
-      "key": "7aa47c764f4f70394bed",
-      "item_id": "7aa47c764f4f70394bed",
-      "title": "LLM の次に来るものは「心」かもしれない",
-      "link": "https://qiita.com/haystacker/items/7aa47c764f4f70394bed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "この記事の要点\nAI はこれまで主に 「知能（Intelligence）」 を磨いてきました。とくに近年は、LLM（Large Language Model）の登場によって、会話、要約、翻訳、コード生成といった知的作業が一気に実用化されました。\nしかし、最新の AI 研究...",
-      "published": "2026-03-21T13:20:47+09:00",
-      "updated": "2026-03-21T13:20:47+09:00",
-      "author_name": "haystacker",
-      "likes_count": 29,
-      "last_seen": "2026-03-24T07:32:48.900685452+00:00"
-    },
-    {
       "key": "7ab7a78e4f82b58b94aa",
       "item_id": "7ab7a78e4f82b58b94aa",
       "title": "子供のスマホ依存をルーター(Aterm)で解決した話 — MACアドレスフィルタリング＋時間帯制限",
@@ -3538,7 +3526,7 @@
       "updated": "2026-05-21T07:28:08+09:00",
       "author_name": "Nao52",
       "likes_count": 25,
-      "last_seen": "2026-05-23T07:09:06.669759773+00:00"
+      "last_seen": "2026-05-23T08:52:58.570468143+00:00"
     },
     {
       "key": "7c402f4e085fae433cf5",
@@ -3671,18 +3659,6 @@
       "author_name": "w_pechi",
       "likes_count": 17,
       "last_seen": "2026-04-11T07:31:50.213398059+00:00"
-    },
-    {
-      "key": "833fc6ca0e420271367f",
-      "item_id": "833fc6ca0e420271367f",
-      "title": "PHPerKaigi初参加者の感想",
-      "link": "https://qiita.com/GreenGreeen/items/833fc6ca0e420271367f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "PHPerKaigi 2026に初めて参加してきました。\nPHPerKaigiはPHPのコミュニティイベントで、全国から多くのPHP開発者が集まるカンファレンスです。\n\n参加のきっかけ\n所属会社にスポンサーチケットがあったので、今回参加しました。\n\n参加してみて\nPHPe...",
-      "published": "2026-03-22T23:19:13+09:00",
-      "updated": "2026-03-22T23:19:13+09:00",
-      "author_name": "GreenGreeen",
-      "likes_count": 12,
-      "last_seen": "2026-03-24T07:32:48.900685452+00:00"
     },
     {
       "key": "835b1870f8d1d5fe0b14",
@@ -4019,18 +3995,6 @@
       "author_name": "semba_yui",
       "likes_count": 13,
       "last_seen": "2026-03-30T07:43:26.877917074+00:00"
-    },
-    {
-      "key": "8ca7a95b01e94b1bb84c",
-      "item_id": "8ca7a95b01e94b1bb84c",
-      "title": "【新機能】Grafanaのタイムレンジをカスタマイズしてみる",
-      "link": "https://qiita.com/melknzw/items/8ca7a95b01e94b1bb84c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n突然ですが、皆さんはGrafanaダッシュボードでプリセットされているタイムレンジ(クイックタイムレンジ)は、絶妙にかゆいところに手が届かないと思うことはないでしょうか。1か月間(30日間)の次は2か月間で表示したいけれど、実際にはその次の選択肢は3か月間(90...",
-      "published": "2026-03-23T09:09:29+09:00",
-      "updated": "2026-03-23T09:09:29+09:00",
-      "author_name": "melknzw",
-      "likes_count": 11,
-      "last_seen": "2026-03-24T07:32:48.900685452+00:00"
     },
     {
       "key": "8d0e2eba108351f930d3",
@@ -4403,18 +4367,6 @@
       "author_name": "takurot",
       "likes_count": 28,
       "last_seen": "2026-04-06T19:32:40.333922591+00:00"
-    },
-    {
-      "key": "98efbdadd8612c142574",
-      "item_id": "98efbdadd8612c142574",
-      "title": "なぜ「社外秘」がAIの回答に出てくるのか  ――生成AIの情報漏洩メカニズムをエンジニア目線で分解する",
-      "link": "https://qiita.com/mhamadajp/items/98efbdadd8612c142574?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに――「そんなことまで知っているの？」という違和感\n社内でテスト的に生成AIを触っているとき、ふとこんな不安を覚えたことはないでしょうか。\n「このAI、うちのプロジェクト名や会議の内容まで知っているような回答を返してこないか？」\nDXマガジンの記事「なぜ社外に出して...",
-      "published": "2026-03-22T08:09:45+09:00",
-      "updated": "2026-03-22T08:09:45+09:00",
-      "author_name": "mhamadajp",
-      "likes_count": 23,
-      "last_seen": "2026-03-24T07:32:48.900685452+00:00"
     },
     {
       "key": "996735e9b8ff4b3b1255",
@@ -5233,18 +5185,6 @@
       "last_seen": "2026-03-27T19:25:31.312080398+00:00"
     },
     {
-      "key": "b416c443d9f52d04eaae",
-      "item_id": "b416c443d9f52d04eaae",
-      "title": "[Mac Studio vs DGX Spark] 同じモデルで2倍速 — ローカルLLM×Claude Codeの最適化で見えた本当のボトルネック",
-      "link": "https://qiita.com/Humanophilic_development/items/b416c443d9f52d04eaae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n本記事は、ローカルLLMでClaude Codeを動かす検証シリーズの第4弾です。\n\n第1弾: DGX Spark 2台スタッキングでQwen3.5-397B — コンテキスト長8Kの壁で成功率40%\n\n第2弾: Qwen3.5-122Bでリベンジ — 262...",
-      "published": "2026-03-21T18:56:29+09:00",
-      "updated": "2026-03-22T19:12:58+09:00",
-      "author_name": "Humanophilic_development",
-      "likes_count": 13,
-      "last_seen": "2026-03-24T07:32:48.900685452+00:00"
-    },
-    {
       "key": "b46711e39fb8ab50a708",
       "item_id": "b46711e39fb8ab50a708",
       "title": "【2026年最新】Copilot Studio ライセンス完全ガイド ─ 大企業が「損しない」プラン選びの全知識",
@@ -5363,18 +5303,6 @@
       "author_name": "nhatcaofedev",
       "likes_count": 10,
       "last_seen": "2026-05-09T19:34:30.859364234+00:00"
-    },
-    {
-      "key": "b7a4d51ed78fa6e45521",
-      "item_id": "b7a4d51ed78fa6e45521",
-      "title": "RedmineのネイティブOAuth2でAIエージェントに安全にRedmineを操作させる",
-      "link": "https://qiita.com/ssc-ksaitou/items/b7a4d51ed78fa6e45521?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "TL; DR\nRedmine 6.1 のネイティブ OAuth2 + ゲートウェイで client_secret を集約し、CLI ツールがトークンを隠蔽することで、API キー不要・スコープ制限付き・AI コンテキストへのトークン漏洩なしで Redmine を操作させ...",
-      "published": "2026-03-23T10:00:39+09:00",
-      "updated": "2026-03-23T10:00:40+09:00",
-      "author_name": "ssc-ksaitou",
-      "likes_count": 10,
-      "last_seen": "2026-03-24T07:32:48.900685452+00:00"
     },
     {
       "key": "b7f5cac745d374e64360",
@@ -5722,7 +5650,7 @@
       "updated": "2026-05-21T06:48:59+09:00",
       "author_name": "Nao52",
       "likes_count": 25,
-      "last_seen": "2026-05-23T07:09:06.669759773+00:00"
+      "last_seen": "2026-05-23T08:52:58.570468143+00:00"
     },
     {
       "key": "c4a4928e4d3862e35c7c",
@@ -5879,6 +5807,18 @@
       "author_name": "wan-code",
       "likes_count": 20,
       "last_seen": "2026-04-15T07:43:26.945407867+00:00"
+    },
+    {
+      "key": "ccbdbe70817ece37cfdb",
+      "item_id": "ccbdbe70817ece37cfdb",
+      "title": "2025 Japan AWS Jr. Champions としての活動が終了しました",
+      "link": "https://qiita.com/har1101/items/ccbdbe70817ece37cfdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "この記事はハンドメイド…からオーダメイドまで仕掛ける大流行(Hi!)\n\nこんにちは、ふくちと申します。\n2025年6月からスタートした、2025 Japan AWS Jr. Champions としての活動が終了しました。\n\nそこでこの1年間の活動を振り返ってみよ...",
+      "published": "2026-05-23T02:49:36+09:00",
+      "updated": "2026-05-23T02:49:36+09:00",
+      "author_name": "har1101",
+      "likes_count": 20,
+      "last_seen": "2026-05-23T08:52:58.570468143+00:00"
     },
     {
       "key": "ccc64ce6504c77100cfb",
@@ -7269,8 +7209,8 @@
       "published": "2026-05-21T07:04:04+09:00",
       "updated": "2026-05-21T07:04:04+09:00",
       "author_name": "Nao52",
-      "likes_count": 109,
-      "last_seen": "2026-05-23T07:09:06.669759773+00:00"
+      "likes_count": 111,
+      "last_seen": "2026-05-23T08:52:58.570468143+00:00"
     },
     {
       "key": "f9eb8b7fb6a14087df35",
