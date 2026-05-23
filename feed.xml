@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-05-22T08:49:36+09:00</updated>
+  <updated>2026-05-23T02:49:36+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -292,7 +292,7 @@ UIを設計・実装していると、「このインタラクション、なん
     <title>エンジニアが年収600・800・1000万円の壁を突破するための6つの能力とキャリア戦略</title>
     <link rel="alternate" href="https://qiita.com/Nao52/items/f9523e566a6f82199dea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-05-21T07:04:04+09:00</updated>
-    <summary type="html">Likes: 127&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T07:04:04+09:00&lt;br/&gt;Updated: 2026-05-21T07:04:04+09:00&lt;br/&gt;■ この記事はこんな人におすすめ
+    <summary type="html">Likes: 128&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T07:04:04+09:00&lt;br/&gt;Updated: 2026-05-21T07:04:04+09:00&lt;br/&gt;■ この記事はこんな人におすすめ
 
 年収アップを目指しているエンジニアの方
 「なんとなく仕事はこなせているが、年収が伸び悩んでいる」と感じている方
@@ -2123,6 +2123,18 @@ Copilot Studio のエージェントに「Excel の一覧データを渡して�
 たとえば、特許調査の依頼一覧が Excel テーブルに入っていて、それを AI エージェントに順番に処理させたいと...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ccbdbe70817ece37cfdb</id>
+    <title>2025 Japan AWS Jr. Champions としての活動が終了しました</title>
+    <link rel="alternate" href="https://qiita.com/har1101/items/ccbdbe70817ece37cfdb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-23T02:49:36+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/har1101&quot;&gt;har1101&lt;/a&gt;&lt;br/&gt;Published: 2026-05-23T02:49:36+09:00&lt;br/&gt;Updated: 2026-05-23T02:49:36+09:00&lt;br/&gt;この記事はハンドメイド…からオーダメイドまで仕掛ける大流行(Hi!)
+
+こんにちは、ふくちと申します。
+2025年6月からスタートした、2025 Japan AWS Jr. Champions としての活動が終了しました。
+
+そこでこの1年間の活動を振り返ってみよ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:71b3c3188d19e2429ee0</id>
     <title>n8nで「ランチ自動提案Bot」を作ってみた（Google Maps × Discord）</title>
     <link rel="alternate" href="https://qiita.com/wan-code/items/71b3c3188d19e2429ee0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2172,22 +2184,5 @@ Claude と会話しながらデザインやプロトタイプ、スライド、1
 本記事の出典
 徳丸 浩 著『体系的に学ぶ 安全なWebアプリケーションの作り方 第2版』（SBクリエイティブ）の内容をもとに、要点を整理・再構成したものです。
 より詳しい解説や背景については、ぜひ原著を...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:61ab31dc9d43d533de38</id>
-    <title>バックエンドをLambdaにするかECS（Fargate）にするかの判断基準</title>
-    <link rel="alternate" href="https://qiita.com/teshimaaaaa1101/items/61ab31dc9d43d533de38?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-12T12:09:41+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teshimaaaaa1101&quot;&gt;teshimaaaaa1101&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T18:32:18+09:00&lt;br/&gt;Updated: 2026-04-12T12:09:41+09:00&lt;br/&gt;新規システムのアーキテクチャを選定する際、バックエンドをLambdaにするか、ECS（Fargate）にするか、比較検討した内容をまとめました。
-
-⏳ クイック比較まとめ
-
-比較項目
-Lambda
-ECS (Fargate)
-
-アーキテクチャ
-サーバーレス関数
-...</summary>
   </entry>
 </feed>
