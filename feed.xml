@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-05-25T09:23:54+09:00</updated>
+  <updated>2026-05-25T13:19:14+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1464,7 +1464,7 @@ Transformer、特にGPTなどの生成...</summary>
     <title>2025 Japan AWS Jr. Champions としての活動が終了しました</title>
     <link rel="alternate" href="https://qiita.com/har1101/items/ccbdbe70817ece37cfdb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-05-25T09:23:54+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/har1101&quot;&gt;har1101&lt;/a&gt;&lt;br/&gt;Published: 2026-05-23T02:49:36+09:00&lt;br/&gt;Updated: 2026-05-25T09:23:54+09:00&lt;br/&gt;この記事はハンドメイド…からオーダメイドまで仕掛ける大流行(Hi!)
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/har1101&quot;&gt;har1101&lt;/a&gt;&lt;br/&gt;Published: 2026-05-23T02:49:36+09:00&lt;br/&gt;Updated: 2026-05-25T09:23:54+09:00&lt;br/&gt;この記事はハンドメイド…からオーダメイドまで仕掛ける大流行(Hi!)
 
 こんにちは、ふくちと申します。
 2025年6月からスタートした、2025 Japan AWS Jr. Champions としての活動が終了しました。
@@ -1495,6 +1495,17 @@ AST（抽象構文木）から「構造」だけを抽出したマップこそ�
 逆の意見もあると思うので、あくまで一例として参考にしてもらえればと思います。
 
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:0aac69d8a962d2413d9d</id>
+    <title>【悲報】100万台のAIサービスをスキャンしたら「史上最悪のセキュリティ」だった件</title>
+    <link rel="alternate" href="https://qiita.com/emi_ndk/items/0aac69d8a962d2413d9d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-24T16:44:12+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-24T16:44:12+09:00&lt;br/&gt;Updated: 2026-05-24T16:44:12+09:00&lt;br/&gt;あなたのAIサーバー、今この瞬間も丸見えです
+「AIを使えば業務が効率化される」
+そう信じて、急いでOllamaやn8nをデプロイした会社は多いだろう。
+でも、ちょっと待ってほしい。
+セキュリティ企業Intruderが今月発表した調査結果が、業界に衝撃を与えている。200...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ac378f83a4e7911392d4</id>
@@ -1556,17 +1567,6 @@ Raspberry...</summary>
 エンジニア採用において、GitHubはもはや「履歴書の補足資料」ではなく 「実力を証明するポートフォリオそのもの」 です。しかし、多くのエンジニ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:0aac69d8a962d2413d9d</id>
-    <title>【悲報】100万台のAIサービスをスキャンしたら「史上最悪のセキュリティ」だった件</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/0aac69d8a962d2413d9d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-24T16:44:12+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-24T16:44:12+09:00&lt;br/&gt;Updated: 2026-05-24T16:44:12+09:00&lt;br/&gt;あなたのAIサーバー、今この瞬間も丸見えです
-「AIを使えば業務が効率化される」
-そう信じて、急いでOllamaやn8nをデプロイした会社は多いだろう。
-でも、ちょっと待ってほしい。
-セキュリティ企業Intruderが今月発表した調査結果が、業界に衝撃を与えている。200...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:14f212258dc350857a94</id>
     <title>【Claude Code入門】Skills 徹底解説 - 仕組みの解説からハンズオンまで</title>
     <link rel="alternate" href="https://qiita.com/i-inose/items/14f212258dc350857a94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1586,6 +1586,21 @@ https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b
 Anthropic社のAIコーディングツール「Claude Code」のソースコードが流出しました。
 npmパッケージのリリース時にソースマップファイル（.map）を含めてしまった、という人的ミスが原因です。
 約1,900ファイル、51万2,000行ものType...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9eafa7854f27055a7a07</id>
+    <title>ITって結局なんのためにあるの？</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/9eafa7854f27055a7a07?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-25T13:19:14+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-25T13:19:13+09:00&lt;br/&gt;Updated: 2026-05-25T13:19:14+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+仕事で起きやすい“ズレ”について整理して発信しています。
+誰かの助けになれば幸いです。
+
+ITって結局なんのためにあるの？
+
+はじめに
+IT...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a9734df1336e46e83315</id>
@@ -2172,14 +2187,5 @@ GUIで操作する現場もありますが、CUIで操作することもあり�
 2025年2月にAndrej Karpathyが提唱してから約1年。
 Collins英語辞典の2025年Word of the Yearにも選ばれ、開発者コミュニティを超えて広がっています。
 私自身...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c0b02dcff62e795a2b3b</id>
-    <title>Appleのような極上のスクロール体験を！GSAP ScrollSmootherの導入から実践まで</title>
-    <link rel="alternate" href="https://qiita.com/nhatcaofedev/items/c0b02dcff62e795a2b3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-18T17:00:14+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nhatcaofedev&quot;&gt;nhatcaofedev&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T17:00:14+09:00&lt;br/&gt;Updated: 2026-05-18T17:00:14+09:00&lt;br/&gt;Appleのような極上のスクロール体験を！GSAP ScrollSmootherの導入から実践まで
-Appleのウェブサイトを訪れて、スクロールしたときに「なんでこんなに滑らかなんだろう？」と感動したことはありませんか？
-あの魔法のような感覚の正体は、慣性スクロール（Mo...</summary>
   </entry>
 </feed>
