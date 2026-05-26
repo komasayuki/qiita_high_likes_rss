@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-05-25T13:19:14+09:00</updated>
+  <updated>2026-05-26T11:42:24+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -314,18 +314,6 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 9割の新人エンジニアがやって...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c841d47f35e9c04c6bee</id>
-    <title>「何からやれば...」を卒業する。実務の解像度を劇的に高める3ステップ</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/c841d47f35e9c04c6bee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-24T11:49:31+09:00</updated>
-    <summary type="html">Likes: 121&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T11:49:31+09:00&lt;br/&gt;Updated: 2026-03-24T11:49:31+09:00&lt;br/&gt;今、自分がやっている作業が全体の中でどんな意味があるのか見えない
-当時の僕も、まさにそんな視界不良の中にいました。
-黒い画面に並ぶ膨大なコード
-複雑に絡み合った仕様書
-次々と飛び交う専門用語
-それらを前にして、「どこから手をつければいいのかわからない」と立ち尽くす毎日でした...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:92459106b36b33bda66b</id>
     <title>エンジニアの成長を加速させる3つの考え方</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/92459106b36b33bda66b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -367,14 +355,6 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 
 と思っていました。
 しかし、近年の日々進化するAIやお客様が求めていることが変化してい...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ad15bfa383c98ae5cc36</id>
-    <title>AGENTS.md完全入門 ── 60,000リポジトリが採用した事実上の共通フォーマット</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/ad15bfa383c98ae5cc36?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-24T10:35:47+09:00</updated>
-    <summary type="html">Likes: 113&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T10:35:47+09:00&lt;br/&gt;Updated: 2026-03-24T10:35:47+09:00&lt;br/&gt;AGENTS.md は「AIコーディングエージェント向けの README」です。
-リポジトリにこのファイルを置くことで、Codex CLI・Cursor・GitHub Copilot など多くのツールが共通の指示を読み取れます。ただし、ツールごとに対応状況や読み込み条件には...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
@@ -707,6 +687,17 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 今回は私が学んだ折れないマインドを作るコツをお...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0aac69d8a962d2413d9d</id>
+    <title>【悲報】100万台のAIサービスをスキャンしたら「史上最悪のセキュリティ」だった件</title>
+    <link rel="alternate" href="https://qiita.com/emi_ndk/items/0aac69d8a962d2413d9d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-24T16:44:12+09:00</updated>
+    <summary type="html">Likes: 85&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-24T16:44:12+09:00&lt;br/&gt;Updated: 2026-05-24T16:44:12+09:00&lt;br/&gt;あなたのAIサーバー、今この瞬間も丸見えです
+「AIを使えば業務が効率化される」
+そう信じて、急いでOllamaやn8nをデプロイした会社は多いだろう。
+でも、ちょっと待ってほしい。
+セキュリティ企業Intruderが今月発表した調査結果が、業界に衝撃を与えている。200...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5022be3615ecd8b5337c</id>
     <title>AWS MCPサーバー超進化してGAしたらしい</title>
     <link rel="alternate" href="https://qiita.com/Syoitu/items/5022be3615ecd8b5337c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -792,17 +783,6 @@ AIがコードを書くことが当たり前となった2026年現在、エン�
 内定はもらえた。 でも、本当にこの会社に決めていいのかわからない。
 これはかなり自然なことだと思っています。
 未経験からの転職は...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0aac69d8a962d2413d9d</id>
-    <title>【悲報】100万台のAIサービスをスキャンしたら「史上最悪のセキュリティ」だった件</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/0aac69d8a962d2413d9d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-24T16:44:12+09:00</updated>
-    <summary type="html">Likes: 82&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-24T16:44:12+09:00&lt;br/&gt;Updated: 2026-05-24T16:44:12+09:00&lt;br/&gt;あなたのAIサーバー、今この瞬間も丸見えです
-「AIを使えば業務が効率化される」
-そう信じて、急いでOllamaやn8nをデプロイした会社は多いだろう。
-でも、ちょっと待ってほしい。
-セキュリティ企業Intruderが今月発表した調査結果が、業界に衝撃を与えている。200...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a359bfcd179777761e4f</id>
@@ -892,6 +872,21 @@ Pyxel 作者です。皆さん、いつもレトロゲームエンジン Pyxel �
 （そもそも...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:9eafa7854f27055a7a07</id>
+    <title>ITって結局なんのためにあるの？</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/9eafa7854f27055a7a07?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-25T13:19:14+09:00</updated>
+    <summary type="html">Likes: 77&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-25T13:19:13+09:00&lt;br/&gt;Updated: 2026-05-25T13:19:14+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+仕事で起きやすい“ズレ”について整理して発信しています。
+誰かの助けになれば幸いです。
+
+ITって結局なんのためにあるの？
+
+はじめに
+IT...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:afdd509365a770598fc4</id>
     <title>API Gateway → Lambda の間で何が行われているかを易しく解説</title>
     <link rel="alternate" href="https://qiita.com/hosomatu/items/afdd509365a770598fc4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -937,21 +932,6 @@ Webの勉強を始めてすぐ、こんなことありませんか？
 はじめに
 AIを使ってアプリやUIを作るとき、ChatGPTやClaudeに「いい感じに作って」とお願いすると、どこかで見たような無難な配色が返ってくることがあります。
 PowerPoint...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9eafa7854f27055a7a07</id>
-    <title>ITって結局なんのためにあるの？</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/9eafa7854f27055a7a07?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-25T13:19:14+09:00</updated>
-    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-25T13:19:13+09:00&lt;br/&gt;Updated: 2026-05-25T13:19:14+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
-仕事で起きやすい“ズレ”について整理して発信しています。
-誰かの助けになれば幸いです。
-
-ITって結局なんのためにあるの？
-
-はじめに
-IT...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d3f222758833cb694672</id>
@@ -1344,16 +1324,6 @@ GitHub スター数：
     <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/zakuro&quot;&gt;zakuro&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T10:27:51+09:00&lt;br/&gt;Updated: 2026-03-31T10:27:52+09:00&lt;br/&gt;株式会社ブレインパッド プロダクト事業部でプロダクトアーキテクトをしている zakuro です。普段は Rtoaster GenAI をはじめとするプロダクトの技術開発業務をする一方で、レコメンドやマーケティング技術に対するR&amp;amp;Dや社会実装なども行っています。そのような仕事...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:4dcb7c27c053b28543b4</id>
-    <title>AI駆動開発でETH/JPY自動売買ボットを作って不労所得ｶﾞｯﾎﾟｶﾞｯﾎﾟ</title>
-    <link rel="alternate" href="https://qiita.com/bakuchiku/items/4dcb7c27c053b28543b4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-25T10:08:37+09:00</updated>
-    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/bakuchiku&quot;&gt;bakuchiku&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T11:28:29+09:00&lt;br/&gt;Updated: 2026-03-25T10:08:37+09:00&lt;br/&gt;はじめに
-お久しぶりです〜
-今回はちょっと毛色の違う記事です。楽天WalletのETH/JPY CFDをGeminiが自動でトレードするボットを作ったので、その話をしたいと思います。
-AI駆動開発（AI-DLC）で開発し、インフラはAWS CDKで全部コード管理してます。...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:e644e9b620ee1c8d3c1b</id>
     <title>【初心者必見】今から追いつくClaude Code 入門・徹底解説</title>
     <link rel="alternate" href="https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1510,6 +1480,32 @@ AST（抽象構文木）から「構造」だけを抽出したマップこそ�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:34010e35cd35c797d258</id>
+    <title>【35歳未経験でも理解できた】Ruby on Rails 前編</title>
+    <link rel="alternate" href="https://qiita.com/wata-sho/items/34010e35cd35c797d258?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-26T10:21:11+09:00</updated>
+    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T10:21:11+09:00&lt;br/&gt;Updated: 2026-05-26T10:21:11+09:00&lt;br/&gt;こんにちは。
+35歳未経験からWebエンジニアを目指し、日々ステートレスな自分の脳みそと毎日戦っている者です。
+
+この記事では、Railsの基礎からユーザー登録機能までを分かりやすく解説します！
+
+結論（先にシンプルに）
+Railsの仕組みを一言でいうと、「超優秀なレ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:fa1f6b0db92e497796ac</id>
+    <title>会社が変わっても消えないスキルとスタートアップという選択肢</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/fa1f6b0db92e497796ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-26T11:42:24+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T11:42:24+09:00&lt;br/&gt;Updated: 2026-05-26T11:42:24+09:00&lt;br/&gt;こんにちは。
+株式会社 PRUMのmasaです。
+今日は「エンジニアスキルがなぜ会社を超えて通用するのか」と、キャリアを加速させるスタートアップ企業という選択肢について、一緒に考えていきましょう。
+
+エンジニアのスキルは「どこへ行っても通用する武器」になる
+
+会社が変わって...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ac378f83a4e7911392d4</id>
     <title>クオンツトレード入門者のための確率過程――価格予測ではなく、分布・リスク・エッジを見るために</title>
     <link rel="alternate" href="https://qiita.com/tikeda123/items/ac378f83a4e7911392d4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1557,16 +1553,6 @@ Raspberry...</summary>
 【最新版】GitHub Copilotを使っている人は全員&quot;SKILL.md&quot;も導入してください
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:726d9210cc8666866f86</id>
-    <title>ポートフォリオ用の綺麗なGitHubリポジトリの作り方 ―すぐに使えるテンプレート付き</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/726d9210cc8666866f86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-24T09:40:53+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T09:40:53+09:00&lt;br/&gt;Updated: 2026-03-24T09:40:53+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-今回は、転職・就職活動で差がつくGitHubリポジトリの作り方を体系的にまとめます。
-エンジニア採用において、GitHubはもはや「履歴書の補足資料」ではなく 「実力を証明するポートフォリオそのもの」 です。しかし、多くのエンジニ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:14f212258dc350857a94</id>
@@ -1713,14 +1699,6 @@ AIに「いい感じに作って」と言って、本当に「いい感じ」の
 「このコード、何してるんだっけ」と、自分が書いたコードに首を傾げた経験はありませんか。
 コードは書く時間より、読まれる時間のほうがはるかに長いと言われています。
 この記事では、未来の自分とチームメンバーのために、動くけど読みにくいコードを読みやすいコードに変える...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f6b1680ede88de76d372</id>
-    <title>プロが毎日使ってるClaude Codeの隠しコマンド＆ショートカットキー</title>
-    <link rel="alternate" href="https://qiita.com/Yuuto127/items/f6b1680ede88de76d372?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-24T17:54:24+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Yuuto127&quot;&gt;Yuuto127&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T17:36:54+09:00&lt;br/&gt;Updated: 2026-03-24T17:54:24+09:00&lt;br/&gt;うちのチームではClaude Codeユーザーがかなり増えてきたんですが、使い方の差がすごい。マルチエージェントで並列に回してる人がいる一方で、ターミナルでの改行すら知らない人もいる。
-昨日、同僚がコードをめちゃくちゃにして「最初からやり直すか…」ってなってたので「リワイン...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:323bc76cf2d31d9f4d42</id>
@@ -1886,20 +1864,6 @@ CSSやJavaScrip...</summary>
 皆さん、DESIGN.mdをご存知でしょうか。GoogleがStitchプロジェクトの一部として策定した、マークダウンベースのデザインシステム仕様です。「AI...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:9eedb6b88eb84042e699</id>
-    <title>ナレッジグラフ×LLM実践入門 ── RAGの次のアーキテクチャを理解する</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/9eedb6b88eb84042e699?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-24T10:36:13+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T10:36:13+09:00&lt;br/&gt;Updated: 2026-03-24T10:36:13+09:00&lt;br/&gt;RAGの限界 ── ベクトル検索では解けない問い
-RAGは外部知識をLLMに注入する手法として定着しました。
-しかし、ベクトル検索には構造的な弱点があります。
-具体例で確認します。
-
-2ホップ推論の壁
-社内ドキュメントをRAGで検索するシステムを考えます。
-以下の情報がそ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:f9143a90094601631b6b</id>
     <title>いつも使っている Claude Code の裏側を覗いてみた</title>
     <link rel="alternate" href="https://qiita.com/sapeet-lin/items/f9143a90094601631b6b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2048,6 +2012,18 @@ Copilot Studio のエージェントに「Excel の一覧データを渡して�
 たとえば、特許調査の依頼一覧が Excel テーブルに入っていて、それを AI エージェントに順番に処理させたいと...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e7939e9f2a8b3e8177f8</id>
+    <title>[初心者]Linuxと仲良くなれるコマンド3選</title>
+    <link rel="alternate" href="https://qiita.com/sakui2i/items/e7939e9f2a8b3e8177f8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-25T09:40:05+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sakui2i&quot;&gt;sakui2i&lt;/a&gt;&lt;br/&gt;Published: 2026-05-25T09:38:37+09:00&lt;br/&gt;Updated: 2026-05-25T09:40:05+09:00&lt;br/&gt;はじめに
+こんにちは文系卒の全くITの技術に触れたことのないピカピカ新卒1年目です！
+知識がなかったこともあり、研修についていくので精一杯だった私でも楽しいと感じたLinuxの新卒研修の重要コマンドについて、記事を書こうと思います。
+
+ディレクトリとコマンド
+Linuxで...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:71b3c3188d19e2429ee0</id>
     <title>n8nで「ランチ自動提案Bot」を作ってみた（Google Maps × Discord）</title>
     <link rel="alternate" href="https://qiita.com/wan-code/items/71b3c3188d19e2429ee0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2186,5 +2162,43 @@ TypeScriptでifのネストやswitchを多用しているが、読みにくい�
 enumを使っているが、ケース追加時の漏れが怖い人
 「フラグ引数」が何なのか、なぜ避けるべきかを知りたい人
 保守しやすい条件分岐の書き方をマスタ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:da4d5eec968b92ebc26d</id>
+    <title>記憶を持たないLLMの記憶 ― コンテキスト/メモリー/ハーネスエンジニアリング入門の前に</title>
+    <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/da4d5eec968b92ebc26d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-21T17:40:07+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuji-arakawa&quot;&gt;yuji-arakawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T07:39:24+09:00&lt;br/&gt;Updated: 2026-04-21T17:40:07+09:00&lt;br/&gt;はじめに
+
+記憶を持たないはずのAIが、私を覚えている
+LLM自体は記憶を持ちません。直前の会話で何を話したかを本当は「覚えていない」はずなのです。それなのに、ChatGPTのようなチャットアプリや最近のエージェントと会話すると、まるで相手が自分を覚えていてくれて、記憶...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4face78fad72275d820f</id>
+    <title>【Linuxコマンド】実務でよく使うLinuxコマンドまとめ</title>
+    <link rel="alternate" href="https://qiita.com/yuto-vj/items/4face78fad72275d820f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T18:06:10+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuto-vj&quot;&gt;yuto-vj&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T18:06:10+09:00&lt;br/&gt;Updated: 2026-04-13T18:06:10+09:00&lt;br/&gt;開発現場では、アプリケーションの開発だけでなく、サーバーやログ確認のために Linuxコマンド を使う場面が多くあります。
+GUIで操作できる環境もありますが、CUI（コマンドライン）で操作できると、
+
+ログ確認
+ファイル操作
+プロセス確認
+サーバー調査
+権限設定
+
+など...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c4ea49e23564ba9e9a97</id>
+    <title>C# / .NETで始める依存性注入（DI）</title>
+    <link rel="alternate" href="https://qiita.com/hiroki_notes/items/c4ea49e23564ba9e9a97?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-08T16:31:24+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki_notes&quot;&gt;hiroki_notes&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T16:31:24+09:00&lt;br/&gt;Updated: 2026-04-08T16:31:24+09:00&lt;br/&gt;C# や .NET を触っていると、DI（依存性注入）という言葉をどこかで必ず耳にします。
+ただ、実際のところはどうでしょう。
+
+コンストラクタでインターフェースを受け取っているけど、理由はよく分からない
+DI コンテナって便利らしいけど、何が嬉しいのかピンとこない
+ASP...</summary>
   </entry>
 </feed>
