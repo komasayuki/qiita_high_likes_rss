@@ -336,6 +336,18 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a36051a97d3b0670bedd</id>
+    <title>【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する</title>
+    <link rel="alternate" href="https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-28T16:20:24+09:00</updated>
+    <summary type="html">Likes: 110&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T18:51:29+09:00&lt;br/&gt;Updated: 2026-05-28T16:20:24+09:00&lt;br/&gt;先日の記事「100万台のAIサービスをスキャンしたら史上最悪のセキュリティだった」が大きな反響をいただいた。
+この記事では：
+
+CVE-2026-7482「Bleeding Llama」の技術的詳細
+AI生成ゼロデイの完全分析
+OWASP LLM Top 10 2026の全...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e8803a092dd192543fb4</id>
     <title>自作の短縮URLを社内Slackに貼ったら「フィッシングです」とセキュリティチームに通報された</title>
     <link rel="alternate" href="https://qiita.com/kojin_dev_hub/items/e8803a092dd192543fb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -344,18 +356,6 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 クリック分析、UTMパラメータ自動付与、OGPプレビュー。企業向けのBitlyみたいなやつを、個人で安く使える版として開発した。
 完成した時、嬉しくて社内Slackで共有した。
 「短縮URLサービス作りました！ よかったら使ってく...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a36051a97d3b0670bedd</id>
-    <title>【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-28T16:20:24+09:00</updated>
-    <summary type="html">Likes: 109&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T18:51:29+09:00&lt;br/&gt;Updated: 2026-05-28T16:20:24+09:00&lt;br/&gt;先日の記事「100万台のAIサービスをスキャンしたら史上最悪のセキュリティだった」が大きな反響をいただいた。
-この記事では：
-
-CVE-2026-7482「Bleeding Llama」の技術的詳細
-AI生成ゼロデイの完全分析
-OWASP LLM Top 10 2026の全...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
