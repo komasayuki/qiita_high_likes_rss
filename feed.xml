@@ -1066,16 +1066,6 @@ axiosサプライチェーン攻撃に関して、GitHub IssueにPostmortem（�
 ・SQLに対してなんとなく苦...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b996e374c91923141178</id>
-    <title>DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/b996e374c91923141178?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-27T00:01:05+09:00</updated>
-    <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T00:01:05+09:00&lt;br/&gt;Updated: 2026-03-27T00:01:05+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-ある日突然、AWSから $15,000（約200万円）の請求書 が届いたらどうしますか？
-2026年3月、海外でまさにこの事態が発生しました。個人開発者のS3バケットがDDoS攻撃を受け、3日間で160TBのデータ転送が発生。結果...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:73bd88b401ecab0cc4c5</id>
     <title>プログラミング初学者の方が見落としがちなプロダクトを見る視点</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/73bd88b401ecab0cc4c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2241,6 +2231,17 @@ ECS (Fargate)
 
 アーキテクチャ
 サーバーレス関数
+...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ee594fcff8a5b4e9ea2a</id>
+    <title>Java経験者がLaravel(PHP)の文法を整理【超基本】</title>
+    <link rel="alternate" href="https://qiita.com/w_pechi/items/ee594fcff8a5b4e9ea2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-08T19:20:42+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/w_pechi&quot;&gt;w_pechi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T19:20:42+09:00&lt;br/&gt;Updated: 2026-04-08T19:20:42+09:00&lt;br/&gt;執筆のきっかけ
+これまでのエンジニア歴でほぼJavaしか経験してきませんでしたが、
+ついにPHP (Laravel) という別言語を使用している業務に入ることになりました。
+実際の業務が開始される前に、少しでもソースコードを理解しようとサンプルコードを探っていましたが、
 ...</summary>
   </entry>
 </feed>
