@@ -254,7 +254,7 @@ GWは、まとまった学習時間を確保しやすい数少ないタイミン
     <title>【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する</title>
     <link rel="alternate" href="https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-05-28T16:20:24+09:00</updated>
-    <summary type="html">Likes: 131&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T18:51:29+09:00&lt;br/&gt;Updated: 2026-05-28T16:20:24+09:00&lt;br/&gt;先日の記事「100万台のAIサービスをスキャンしたら史上最悪のセキュリティだった」が大きな反響をいただいた。
+    <summary type="html">Likes: 134&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T18:51:29+09:00&lt;br/&gt;Updated: 2026-05-28T16:20:24+09:00&lt;br/&gt;先日の記事「100万台のAIサービスをスキャンしたら史上最悪のセキュリティだった」が大きな反響をいただいた。
 この記事では：
 
 CVE-2026-7482「Bleeding Llama」の技術的詳細
@@ -1101,6 +1101,16 @@ Claude Code / Cursor / Copilot などの AIエージェントをチームに導�
 「導入したいけどセキュリティが心配」で 手が止まっている 人...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:dc26f7468dcd39fbe62f</id>
+    <title>16万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術</title>
+    <link rel="alternate" href="https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-29T13:25:50+09:00</updated>
+    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/4q_sano&quot;&gt;4q_sano&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T22:39:19+09:00&lt;br/&gt;Updated: 2026-05-29T13:25:50+09:00&lt;br/&gt;Claude Code を使っていて、最近かなり重要だと感じているのが CLAUDE.md の運用です。
+Claude Code は非常に強力ですが、既存コードベースで長時間動かすと、次のような問題が起きやすくなります。
+勝手にリファクタする
+関係ないファイルまで変更する...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e568f199e5753d3bb1b2</id>
     <title>Copy Fail とは？（結構詳しめ）</title>
     <link rel="alternate" href="https://qiita.com/fiord/items/e568f199e5753d3bb1b2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1161,16 +1171,6 @@ axiosはJavaScriptで最も使われるHTTPクライアントです。
 週間ダウンロード数は1億回を超えます。
 私自身、ほぼすべてのNode.jsプロジェクトで使っています。
 事件を知っ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:dc26f7468dcd39fbe62f</id>
-    <title>16万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術</title>
-    <link rel="alternate" href="https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-29T13:25:50+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/4q_sano&quot;&gt;4q_sano&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T22:39:19+09:00&lt;br/&gt;Updated: 2026-05-29T13:25:50+09:00&lt;br/&gt;Claude Code を使っていて、最近かなり重要だと感じているのが CLAUDE.md の運用です。
-Claude Code は非常に強力ですが、既存コードベースで長時間動かすと、次のような問題が起きやすくなります。
-勝手にリファクタする
-関係ないファイルまで変更する...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cd2c603abf8b48fc23a8</id>
@@ -1458,6 +1458,18 @@ AST（抽象構文木）から「構造」だけを抽出したマップこそ�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:48b1eca9c48f05839692</id>
+    <title>1割の“信頼される”エンジニアが実行している『問題の出し方』</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/48b1eca9c48f05839692?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-29T14:26:44+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T14:26:44+09:00&lt;br/&gt;Updated: 2026-05-29T14:26:44+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+仕事で起きやすい“ズレ”について整理して発信しています。
+誰かの助けになれば幸いです。
+
+1割の信頼されるエンジニアが実行している“問題の出し方...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a3e11fa3d865748a5610</id>
     <title>ビジネスマナーは“形”だけじゃない——新卒研修で学んだことと考えたこと</title>
     <link rel="alternate" href="https://qiita.com/yukidaruma110/items/a3e11fa3d865748a5610?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1542,18 +1554,6 @@ Bonsaiという新しいLLMで、1ビットモデルなんですって。
 環境
 
 Raspberry...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:48b1eca9c48f05839692</id>
-    <title>1割の“信頼される”エンジニアが実行している『問題の出し方』</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/48b1eca9c48f05839692?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-29T14:26:44+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T14:26:44+09:00&lt;br/&gt;Updated: 2026-05-29T14:26:44+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
-仕事で起きやすい“ズレ”について整理して発信しています。
-誰かの助けになれば幸いです。
-
-1割の信頼されるエンジニアが実行している“問題の出し方...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f02c34ae6dc994cd3084</id>
@@ -1645,6 +1645,17 @@ npmパッケージのリリース時にソースマップファイル（.map）�
 約1,900ファイル、51万2,000行ものType...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:47a13155032f716a43bd</id>
+    <title>【Claude Code / Codex × GAS】コピペ脱出！Google Workspace自動化レシピ7選</title>
+    <link rel="alternate" href="https://qiita.com/TMiyamoto/items/47a13155032f716a43bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-27T13:39:16+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TMiyamoto&quot;&gt;TMiyamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T13:39:16+09:00&lt;br/&gt;Updated: 2026-05-27T13:39:16+09:00&lt;br/&gt;「毎週の会議前に、議事録テンプレートを手で作っている」
+「請求書や見積書を、スプレッドシートから手作業で PDF 化している」
+「フォーム申請が来るたびに、承認者へメールを手で送っている」
+…こういう作業、まだ手でやってませんか？
+僕はやってました。むしろ「効率化のための...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a9734df1336e46e83315</id>
     <title>Oracle Interconnect for AWS のプレビュー版をためしてみてみた</title>
     <link rel="alternate" href="https://qiita.com/shirok/items/a9734df1336e46e83315?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1696,17 +1707,6 @@ delphinu...</summary>
     <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kimuchi_a&quot;&gt;kimuchi_a&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T19:16:12+09:00&lt;br/&gt;Updated: 2026-04-03T00:19:55+09:00&lt;br/&gt;はじめに：新卒、焦らなくてもいいかも。
 過去の投稿を読んでくださった方は「何回言うねん」と思うかもしれませんが、  私はコーディング未経験の新卒としてこの会社に入社しました。
 周りは優秀な人たちばかりで、同じくコーディング未経験でも、「明らかに自分よりできる」人がごろごろ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:47a13155032f716a43bd</id>
-    <title>【Claude Code / Codex × GAS】コピペ脱出！Google Workspace自動化レシピ7選</title>
-    <link rel="alternate" href="https://qiita.com/TMiyamoto/items/47a13155032f716a43bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-27T13:39:16+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TMiyamoto&quot;&gt;TMiyamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T13:39:16+09:00&lt;br/&gt;Updated: 2026-05-27T13:39:16+09:00&lt;br/&gt;「毎週の会議前に、議事録テンプレートを手で作っている」
-「請求書や見積書を、スプレッドシートから手作業で PDF 化している」
-「フォーム申請が来るたびに、承認者へメールを手で送っている」
-…こういう作業、まだ手でやってませんか？
-僕はやってました。むしろ「効率化のための...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:026452114ad63efa9aa6</id>
