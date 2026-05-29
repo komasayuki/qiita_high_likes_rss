@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-05-29T13:25:50+09:00</updated>
+  <updated>2026-05-29T14:26:44+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -40,19 +40,6 @@ Cla...</summary>
 はじめに
 皆さんは Markdown（マークダウン） を「見出しと箇条書きが書ける記法」程度に思っていませんか？
 私もかつてはそうでした。しかし、個人開発で REQUIREMENTS....</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c392f0804987593dc179</id>
-    <title>ChatGPTが長いチャットで重くなったときに使っている「引き継ぎプロンプト」</title>
-    <link rel="alternate" href="https://qiita.com/SatoRyota_zvc/items/c392f0804987593dc179?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-27T16:24:29+09:00</updated>
-    <summary type="html">Likes: 235&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/SatoRyota_zvc&quot;&gt;SatoRyota_zvc&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T16:24:29+09:00&lt;br/&gt;Updated: 2026-03-27T16:24:29+09:00&lt;br/&gt;こんにちは。
-今回は、ChatGPTを使っているときに自分がよく感じていた
-「同じチャットをずっと使っていると、だんだん重くなる…」
-という悩みと、そのときに便利だった
-新しいチャットへスムーズに移るための引き継ぎプロンプト
-について紹介。
-ChatGPTを使って開発の相談...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
@@ -263,6 +250,18 @@ GWは、まとまった学習時間を確保しやすい数少ないタイミン
 そんな私ですが、勉強の過程や実務を通じてデータベース（DB）に関してはかなり自信がついたので、まとめたナレッジを共有できれば...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a36051a97d3b0670bedd</id>
+    <title>【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する</title>
+    <link rel="alternate" href="https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-28T16:20:24+09:00</updated>
+    <summary type="html">Likes: 131&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T18:51:29+09:00&lt;br/&gt;Updated: 2026-05-28T16:20:24+09:00&lt;br/&gt;先日の記事「100万台のAIサービスをスキャンしたら史上最悪のセキュリティだった」が大きな反響をいただいた。
+この記事では：
+
+CVE-2026-7482「Bleeding Llama」の技術的詳細
+AI生成ゼロデイの完全分析
+OWASP LLM Top 10 2026の全...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5644ff9243ebcdaf08a3</id>
     <title>よく使うUIデザインパターンを全部まとめてみた（ユースケース別に分類・グループ化）</title>
     <link rel="alternate" href="https://qiita.com/TOMOSIA-HieuNT/items/5644ff9243ebcdaf08a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -270,18 +269,6 @@ GWは、まとまった学習時間を確保しやすい数少ないタイミン
     <summary type="html">Likes: 130&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TOMOSIA-HieuNT&quot;&gt;TOMOSIA-HieuNT&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T12:55:14+09:00&lt;br/&gt;Updated: 2026-05-13T11:48:40+09:00&lt;br/&gt;はじめに
 UIを設計・実装していると、「このインタラクション、なんて名前だっけ？」「似たようなパターンが多くてどれを使えばいいか迷う」という場面によく出くわします。
 そこで今回は、UIデザインパターンと説得的デザインパターンを、ユースケースごとに分類・ツリー形式でまとめ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a36051a97d3b0670bedd</id>
-    <title>【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-28T16:20:24+09:00</updated>
-    <summary type="html">Likes: 128&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T18:51:29+09:00&lt;br/&gt;Updated: 2026-05-28T16:20:24+09:00&lt;br/&gt;先日の記事「100万台のAIサービスをスキャンしたら史上最悪のセキュリティだった」が大きな反響をいただいた。
-この記事では：
-
-CVE-2026-7482「Bleeding Llama」の技術的詳細
-AI生成ゼロデイの完全分析
-OWASP LLM Top 10 2026の全...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8c22966fbd3c125c53dc</id>
@@ -306,6 +293,18 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 9割の新人エンジニアがやって...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a8c2c14a72a417619c1d</id>
+    <title>1割の“信頼される”エンジニアがやっている「何の話かを省略しない説明」</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/a8c2c14a72a417619c1d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-27T14:52:27+09:00</updated>
+    <summary type="html">Likes: 119&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T14:52:26+09:00&lt;br/&gt;Updated: 2026-05-27T14:52:27+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+仕事で起きやすい“ズレ”について整理して発信しています。
+誰かの助けになれば幸いです。
+
+1割の“信頼される”エンジニアがやっている「主語を消...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:92459106b36b33bda66b</id>
     <title>エンジニアの成長を加速させる3つの考え方</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/92459106b36b33bda66b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -325,18 +324,6 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 画面も処理もすぐ形になるし、初速は本当に速いです。
 ただ、機能が増えてくると、しんどさの種類が変わってきます。
 大変なのは「コードを書くこと」より、その後の設計、整...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a8c2c14a72a417619c1d</id>
-    <title>1割の“信頼される”エンジニアがやっている「何の話かを省略しない説明」</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/a8c2c14a72a417619c1d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-27T14:52:27+09:00</updated>
-    <summary type="html">Likes: 115&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T14:52:26+09:00&lt;br/&gt;Updated: 2026-05-27T14:52:27+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
-仕事で起きやすい“ズレ”について整理して発信しています。
-誰かの助けになれば幸いです。
-
-1割の“信頼される”エンジニアがやっている「主語を消...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ac1e447ba9996b5543da</id>
@@ -877,19 +864,6 @@ Pyxel 作者です。皆さん、いつもレトロゲームエンジン Pyxel �
 API Gatewayの初級~中級レベル...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:07b7926408a3447b6665</id>
-    <title>「エンジニアは難しい」は本当か？― 未経験の自分が勘違いしていた“難しさ”の正体 ―</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/07b7926408a3447b6665?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-27T12:18:34+09:00</updated>
-    <summary type="html">Likes: 77&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T12:18:33+09:00&lt;br/&gt;Updated: 2026-03-27T12:18:34+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている ひとみ です。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-エンジニア...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:34d20cd39006cce775d0</id>
     <title>【35歳未経験でも理解できた】従来型のアプリケーション</title>
     <link rel="alternate" href="https://qiita.com/wata-sho/items/34d20cd39006cce775d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1116,19 +1090,6 @@ VSCodeを開いて、Draw.ioでprompt.dioのファイルを作ります。
 Editのメニューから「Edit Data」を開いて、「SystemPromp...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:8577b96433491173bf4e</id>
-    <title>研究効率を爆上げするAIツールまとめ（論文調査〜執筆まで）</title>
-    <link rel="alternate" href="https://qiita.com/Milab_honda/items/8577b96433491173bf4e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-29T13:27:36+09:00</updated>
-    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Milab_honda&quot;&gt;Milab_honda&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T15:55:11+09:00&lt;br/&gt;Updated: 2026-03-29T13:27:36+09:00&lt;br/&gt;はじめに
-私は機械知能研究室に所属し，CV分野の研究をしている．
-本研究室では，画像認識および機械学習を基盤とした人工知能技術を中心に，視覚情報から有用な情報を自動的に獲得するための研究に取り組んでいる．
-興味があれば 研究室HP を参照されたい．
-
-本題
-論文調査に1日...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:ede7d1c0be4a14024857</id>
     <title>AIエージェントを会社で使いたい！→「え、セキュリティどうするの？」　企業導入への技術的アプローチ</title>
     <link rel="alternate" href="https://qiita.com/sharu389no/items/ede7d1c0be4a14024857?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1200,6 +1161,16 @@ axiosはJavaScriptで最も使われるHTTPクライアントです。
 週間ダウンロード数は1億回を超えます。
 私自身、ほぼすべてのNode.jsプロジェクトで使っています。
 事件を知っ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:dc26f7468dcd39fbe62f</id>
+    <title>16万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術</title>
+    <link rel="alternate" href="https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-29T13:25:50+09:00</updated>
+    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/4q_sano&quot;&gt;4q_sano&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T22:39:19+09:00&lt;br/&gt;Updated: 2026-05-29T13:25:50+09:00&lt;br/&gt;Claude Code を使っていて、最近かなり重要だと感じているのが CLAUDE.md の運用です。
+Claude Code は非常に強力ですが、既存コードベースで長時間動かすと、次のような問題が起きやすくなります。
+勝手にリファクタする
+関係ないファイルまで変更する...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cd2c603abf8b48fc23a8</id>
@@ -1450,16 +1421,6 @@ Transformer、特にGPTなどの生成...</summary>
     <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/katohiro_fi&quot;&gt;katohiro_fi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-07T11:36:12+09:00&lt;br/&gt;Updated: 2026-05-07T11:36:12+09:00&lt;br/&gt;Microsoftの中の人が公開した「Copilot Studio Code」を、Power Platform コードファースト構築リポジトリと組み合わせると、Copilot Studio が、Copilot Studio エージェントを含む Power Platform...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:dc26f7468dcd39fbe62f</id>
-    <title>16万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術</title>
-    <link rel="alternate" href="https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-29T13:25:50+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/4q_sano&quot;&gt;4q_sano&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T22:39:19+09:00&lt;br/&gt;Updated: 2026-05-29T13:25:50+09:00&lt;br/&gt;Claude Code を使っていて、最近かなり重要だと感じているのが CLAUDE.md の運用です。
-Claude Code は非常に強力ですが、既存コードベースで長時間動かすと、次のような問題が起きやすくなります。
-勝手にリファクタする
-関係ないファイルまで変更する...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:ccbdbe70817ece37cfdb</id>
     <title>2025 Japan AWS Jr. Champions としての活動が終了しました</title>
     <link rel="alternate" href="https://qiita.com/har1101/items/ccbdbe70817ece37cfdb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1581,6 +1542,18 @@ Bonsaiという新しいLLMで、1ビットモデルなんですって。
 環境
 
 Raspberry...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:48b1eca9c48f05839692</id>
+    <title>1割の“信頼される”エンジニアが実行している『問題の出し方』</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/48b1eca9c48f05839692?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-29T14:26:44+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T14:26:44+09:00&lt;br/&gt;Updated: 2026-05-29T14:26:44+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+仕事で起きやすい“ズレ”について整理して発信しています。
+誰かの助けになれば幸いです。
+
+1割の信頼されるエンジニアが実行している“問題の出し方...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f02c34ae6dc994cd3084</id>
@@ -1767,18 +1740,6 @@ Microsoftの公式サイトや各種ホワイトペーパーには、「生産�
 良いプロダクトが開発できたから！！
 
 まずはこちらを見てください！！こちらは私が開発した「このボタンどこ？」をAIが解決...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5f66b2b289994e4a0256</id>
-    <title>AIに「いい感じに作って」と言うのをやめたら、開発が回り出した — Spec-Driven Development 実践ガイド</title>
-    <link rel="alternate" href="https://qiita.com/akira_papa_AI/items/5f66b2b289994e4a0256?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-03-27T07:52:14+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akira_papa_AI&quot;&gt;akira_papa_AI&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T07:52:14+09:00&lt;br/&gt;Updated: 2026-03-27T07:52:14+09:00&lt;br/&gt;はじめに — AIに雑に頼むと「速く間違う」だけ
-AIに「いい感じに作って」と言って、本当に「いい感じ」のものが返ってきたこと、ありますか...?
-ちょっと考えてみましょう。こんなプロンプトを書いたことはないでしょうか。
-ユーザー登録機能を作って
-
-で、返ってくるコードは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:80347bcd89a8a51c0298</id>
@@ -2245,5 +2206,35 @@ ECS (Fargate)
 アーキテクチャ
 サーバーレス関数
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ee594fcff8a5b4e9ea2a</id>
+    <title>Java経験者がLaravel(PHP)の文法を整理【超基本】</title>
+    <link rel="alternate" href="https://qiita.com/w_pechi/items/ee594fcff8a5b4e9ea2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-08T19:20:42+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/w_pechi&quot;&gt;w_pechi&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T19:20:42+09:00&lt;br/&gt;Updated: 2026-04-08T19:20:42+09:00&lt;br/&gt;執筆のきっかけ
+これまでのエンジニア歴でほぼJavaしか経験してきませんでしたが、
+ついにPHP (Laravel) という別言語を使用している業務に入ることになりました。
+実際の業務が開始される前に、少しでもソースコードを理解しようとサンプルコードを探っていましたが、
+...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e79011def2d0437f30e2</id>
+    <title>前編：Claude Codeで便利だと感じた点（概要・考え方）</title>
+    <link rel="alternate" href="https://qiita.com/aito1234/items/e79011def2d0437f30e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-08T12:37:47+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aito1234&quot;&gt;aito1234&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T12:30:04+09:00&lt;br/&gt;Updated: 2026-04-08T12:37:47+09:00&lt;br/&gt;はじめに
+これまでの私のAI活用は、私生活での子育てや、趣味のスポーツなどの悩み相談、文章の添削が中心でした。
+実務でも生成AIの利用は許可されていましたが、主にコード検索やエラーログの分析など、
+いわば「少し便利な検索ツール」としての使い方に留まっていました。
+しかし今...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:6821e5d530938d269e58</id>
+    <title>国産LLM「LLM-jp-4」が日本語MT-BenchでGPT-4oを上回った ── 技術的背景と実用性を検証する</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/6821e5d530938d269e58?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-08T09:50:20+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T09:50:20+09:00&lt;br/&gt;Updated: 2026-04-08T09:50:20+09:00&lt;br/&gt;2026年4月3日、国立情報学研究所（NII）が国産LLM「LLM-jp-4」を公開しました。日本語MT-Benchで GPT-4o のスコアを上回ったという発表は、国内外で大きな注目を集めています。
+この記事では、LLM-jp-4 の技術的な中身を掘り下げながら、「なぜ日...</summary>
   </entry>
 </feed>
