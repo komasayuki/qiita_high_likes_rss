@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-05-29T14:26:44+09:00</updated>
+  <updated>2026-05-30T05:29:50+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -2000,6 +2000,17 @@ Access to fetch a...</summary>
 Claude Code をはじめとする AI コーディングエージェントで、「スキル（Skills）」が運用の中核になってきています。プロンプトやワークフロー、禁則事項を SKILL.md にまとめておくと、エージェントが必要なタイミングで自動的に読み出して振る舞...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:03b9b817bf2015321159</id>
+    <title>プログラミング完全未経験から始める！競技プログラミング入門ガイド</title>
+    <link rel="alternate" href="https://qiita.com/Un_titled/items/03b9b817bf2015321159?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-30T05:29:50+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Un_titled&quot;&gt;Un_titled&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T14:50:59+09:00&lt;br/&gt;Updated: 2026-05-30T05:29:50+09:00&lt;br/&gt;Hello, world!
+こんにちは。Un_titledです。
+その辺のなんでもない高校生で、競技プログラミングを趣味と主張しています。
+たまたま見つけて面白そう！と思ったというだけの軽すぎる動機で、完全の未経験から競プロを始めました。
+ただ、プログラミング自体が初めま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e6205673598cdb1ff14d</id>
     <title>AI時代のMoatとは — 「もし明日、競合が同じプロダクトを出したらどう勝つか？」</title>
     <link rel="alternate" href="https://qiita.com/mattsershaw/items/e6205673598cdb1ff14d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2220,16 +2231,5 @@ ECS (Fargate)
 GUIで操作する現場もありますが、CUIで操作することもあります。
 時と場合によってはCUI（コマンド）で操作する方が細かな操作が可能だったりするので覚えておくと便利です。
 なので今回は、実務でよく使うGitコマンドを用途別...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e619153909786c432314</id>
-    <title>バイブコーディングの光と影 — 工数87%削減の裏にあるバグ密度1.7倍問題</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/e619153909786c432314?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-03T12:29:36+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-03T12:29:36+09:00&lt;br/&gt;Updated: 2026-04-03T12:29:36+09:00&lt;br/&gt;はじめに
-「バイブコーディング」という言葉を聞かない日がなくなりました。
-2025年2月にAndrej Karpathyが提唱してから約1年。
-Collins英語辞典の2025年Word of the Yearにも選ばれ、開発者コミュニティを超えて広がっています。
-私自身...</summary>
   </entry>
 </feed>
