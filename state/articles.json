@@ -129,8 +129,8 @@
       "published": "2026-05-29T14:50:59+09:00",
       "updated": "2026-05-30T05:29:50+09:00",
       "author_name": "Un_titled",
-      "likes_count": 22,
-      "last_seen": "2026-05-30T07:16:29.957692454+00:00"
+      "likes_count": 24,
+      "last_seen": "2026-05-30T08:59:41.339906193+00:00"
     },
     {
       "key": "03e060850144899fd284",
@@ -766,7 +766,7 @@
       "updated": "2026-05-29T16:25:00+09:00",
       "author_name": "yosuke-suzuki",
       "likes_count": 15,
-      "last_seen": "2026-05-30T07:16:29.957692454+00:00"
+      "last_seen": "2026-05-30T08:59:41.339906193+00:00"
     },
     {
       "key": "1ffbc05f07355231f420",
@@ -1153,6 +1153,18 @@
       "last_seen": "2026-05-23T07:09:06.669759773+00:00"
     },
     {
+      "key": "32646ec31ef9fa1c4e0b",
+      "item_id": "32646ec31ef9fa1c4e0b",
+      "title": "Vercel公式「React Best Practices」Skillsでコードはどう変わるのか試してみた",
+      "link": "https://qiita.com/ma-ryu/items/32646ec31ef9fa1c4e0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nAIを使ったフロントエンド開発が当たり前になる中で、「とりあえず動くコード」は誰でも一瞬で生成できるようになりました。しかし、無駄な再レンダリングの防止やアクセシビリティの担保など、実運用に耐えうる「品質の高いコード」をAIに一発で書かせるのは、意外と難しいと感...",
+      "published": "2026-05-27T19:55:34+09:00",
+      "updated": "2026-05-27T19:55:34+09:00",
+      "author_name": "ma-ryu",
+      "likes_count": 13,
+      "last_seen": "2026-05-30T08:59:41.339906193+00:00"
+    },
+    {
       "key": "3271d742da296e6a4622",
       "item_id": "3271d742da296e6a4622",
       "title": "React で ref をどう扱うかを整理する",
@@ -1270,7 +1282,7 @@
       "updated": "2026-05-28T11:15:23+09:00",
       "author_name": "Takashi_Masumori",
       "likes_count": 19,
-      "last_seen": "2026-05-30T07:16:29.957692454+00:00"
+      "last_seen": "2026-05-30T08:59:41.339906193+00:00"
     },
     {
       "key": "357add591df55fee1585",
@@ -1449,8 +1461,8 @@
       "published": "2026-05-29T13:11:12+09:00",
       "updated": "2026-05-29T13:15:21+09:00",
       "author_name": "TOMOSIA-HieuNT",
-      "likes_count": 13,
-      "last_seen": "2026-05-30T07:16:29.957692454+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-05-30T08:59:41.339906193+00:00"
     },
     {
       "key": "3a979c3041ea36c05f41",
@@ -1681,18 +1693,6 @@
       "last_seen": "2026-05-25T07:54:07.995997363+00:00"
     },
     {
-      "key": "43d4aafae2c87a12e5ed",
-      "item_id": "43d4aafae2c87a12e5ed",
-      "title": "React CompilerはどのようにReact.memoを不要にしているのか",
-      "link": "https://qiita.com/uhyo/items/43d4aafae2c87a12e5ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "結論\nJSX式 (  ) のほうをメモ化すればReact.memoは必要ないです。\n\n背景\n皆さんこんにちは。ReactにおいてはReact Compilerの利用が推奨されており、これを使うことで手動でのメモ化が不要になるとされています。つ...",
-      "published": "2026-03-28T10:20:16+09:00",
-      "updated": "2026-03-29T21:55:32+09:00",
-      "author_name": "uhyo",
-      "likes_count": 26,
-      "last_seen": "2026-03-31T07:41:24.777289860+00:00"
-    },
-    {
       "key": "4464273923cb00271303",
       "item_id": "4464273923cb00271303",
       "title": "ホワイトカラーの80%がAI導入に反抗している ── 技術者が知っておくべき「AI抵抗」の構造と乗り越え方",
@@ -1869,8 +1869,8 @@
       "published": "2026-05-29T14:26:44+09:00",
       "updated": "2026-05-29T14:26:44+09:00",
       "author_name": "hitomin_poke",
-      "likes_count": 62,
-      "last_seen": "2026-05-30T07:16:29.957692454+00:00"
+      "likes_count": 63,
+      "last_seen": "2026-05-30T08:59:41.339906193+00:00"
     },
     {
       "key": "493ddeeb8658ada703fa",
@@ -2785,6 +2785,18 @@
       "last_seen": "2026-04-08T19:38:41.589668334+00:00"
     },
     {
+      "key": "69141c0ccae8d9c3737f",
+      "item_id": "69141c0ccae8d9c3737f",
+      "title": "【色変記事】青色コーダーになりました！！！",
+      "link": "https://qiita.com/tau0529/items/69141c0ccae8d9c3737f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nはじめましての人ははじめましてそうでない方はこんにちは、たう(0529)です\n26年5月に行われたARC--219にて、入青することが出来ました！！\n今まで変色記事を書いていなかったのでその分も合わせてまとめたいと思います\n\n(現レートが1700↑なのは気にしな...",
+      "published": "2026-05-29T19:51:31+09:00",
+      "updated": "2026-05-29T23:57:46+09:00",
+      "author_name": "tau0529",
+      "likes_count": 11,
+      "last_seen": "2026-05-30T08:59:41.339906193+00:00"
+    },
+    {
       "key": "6921934b6618cd24e1df",
       "item_id": "6921934b6618cd24e1df",
       "title": "Power Apps のデータグリッドコントロールが凄く便利！",
@@ -3541,18 +3553,6 @@
       "last_seen": "2026-05-14T19:43:13.364717739+00:00"
     },
     {
-      "key": "83fc90d846f941ee6f4e",
-      "item_id": "83fc90d846f941ee6f4e",
-      "title": "ADBとPythonでお手軽AIエージェントアプリ構築 (SELECT AI for Python＋Streamlit)",
-      "link": "https://qiita.com/ssfujita/items/83fc90d846f941ee6f4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "OCIのADBにはSELECT AI AgentというAIエージェントを手軽に作成できる機能があります。\n一方Oracle DBの機能としてよくあるのが、実装にPL/SQLを使う必要があり、そこが利用にあたりネックとなり得るポイントでした。\nというのもAIアプリはPytho...",
-      "published": "2026-03-30T08:48:08+09:00",
-      "updated": "2026-03-30T12:04:11+09:00",
-      "author_name": "ssfujita",
-      "likes_count": 10,
-      "last_seen": "2026-03-31T07:41:24.777289860+00:00"
-    },
-    {
       "key": "847105d460df6531da7d",
       "item_id": "847105d460df6531da7d",
       "title": "【保存版】読書→即アウトプット→記事化までを完全自動化する方法（AI活用）",
@@ -3634,7 +3634,7 @@
       "updated": "2026-05-29T10:33:44+09:00",
       "author_name": "shinnosuke_takami",
       "likes_count": 17,
-      "last_seen": "2026-05-30T07:16:29.957692454+00:00"
+      "last_seen": "2026-05-30T08:59:41.339906193+00:00"
     },
     {
       "key": "864876245891c0cbb127",
@@ -4282,7 +4282,7 @@
       "updated": "2026-05-28T21:26:35+09:00",
       "author_name": "moritalous",
       "likes_count": 12,
-      "last_seen": "2026-05-30T07:16:29.957692454+00:00"
+      "last_seen": "2026-05-30T08:59:41.339906193+00:00"
     },
     {
       "key": "9ce527df39e7dd6e75fe",
@@ -4485,8 +4485,8 @@
       "published": "2026-05-29T04:38:36+09:00",
       "updated": "2026-05-30T01:44:22+09:00",
       "author_name": "kaichan_dot",
-      "likes_count": 25,
-      "last_seen": "2026-05-30T07:16:29.957692454+00:00"
+      "likes_count": 26,
+      "last_seen": "2026-05-30T08:59:41.339906193+00:00"
     },
     {
       "key": "a606c4c3fde199689afc",
@@ -4835,18 +4835,6 @@
       "author_name": "yuto-vj",
       "likes_count": 19,
       "last_seen": "2026-04-04T19:20:30.549468783+00:00"
-    },
-    {
-      "key": "ae0f16a088f71639e50f",
-      "item_id": "ae0f16a088f71639e50f",
-      "title": "Draw.ioをプロンプトとして実行すると便利かもしれない",
-      "link": "https://qiita.com/ShotaOki/items/ae0f16a088f71639e50f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "この記事はなに？\nDraw.ioで書いたファイルをプロンプトとして実行します。\n\nまずは簡単な処理をしてみる\nVSCodeを開いて、Draw.ioでprompt.dioのファイルを作ります。\n\nEditのメニューから「Edit Data」を開いて、「SystemPromp...",
-      "published": "2026-03-28T12:55:07+09:00",
-      "updated": "2026-03-28T13:08:35+09:00",
-      "author_name": "ShotaOki",
-      "likes_count": 66,
-      "last_seen": "2026-03-31T07:41:24.777289860+00:00"
     },
     {
       "key": "aea0406e711b7fe166c2",
@@ -6838,7 +6826,7 @@
       "updated": "2026-05-28T13:04:51+09:00",
       "author_name": "Yamashita_Sosuke",
       "likes_count": 26,
-      "last_seen": "2026-05-30T07:16:29.957692454+00:00"
+      "last_seen": "2026-05-30T08:59:41.339906193+00:00"
     },
     {
       "key": "f45b754d9f475f2e15ea",
