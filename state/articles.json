@@ -93,8 +93,8 @@
       "published": "2026-05-30T06:01:32+09:00",
       "updated": "2026-05-30T06:18:07+09:00",
       "author_name": "comty",
-      "likes_count": 14,
-      "last_seen": "2026-06-01T05:50:33.299308210+00:00"
+      "likes_count": 15,
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "02fd327e01146f79c45c",
@@ -129,8 +129,8 @@
       "published": "2026-05-29T14:50:59+09:00",
       "updated": "2026-05-30T05:29:50+09:00",
       "author_name": "Un_titled",
-      "likes_count": 63,
-      "last_seen": "2026-06-01T05:50:33.299308210+00:00"
+      "likes_count": 64,
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "03e060850144899fd284",
@@ -478,7 +478,7 @@
       "updated": "2026-05-30T11:14:11+09:00",
       "author_name": "k_adachi_01",
       "likes_count": 14,
-      "last_seen": "2026-06-01T05:50:33.299308210+00:00"
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "139148b11e416e23722b",
@@ -1273,18 +1273,6 @@
       "last_seen": "2026-04-10T07:43:13.419330302+00:00"
     },
     {
-      "key": "3501b63f345f79246e4c",
-      "item_id": "3501b63f345f79246e4c",
-      "title": "Claude Codeのカスタムスキルを \"育てる\" 自動監査スキル \"/audit-skills\" を作成した",
-      "link": "https://qiita.com/k_izutani/items/3501b63f345f79246e4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nClaude Codeのカスタムスキルは作るのが楽しいです。\nでも、「他のスキルを参考にしたら、もっと改善できるのでは？」と、気になってきます。\nまた、スキルが5個、10個と増えていくと、同じようなスキルも増えて、冗長性や矛盾が生まれやすくなります。\nですが、全...",
-      "published": "2026-03-30T08:23:03+09:00",
-      "updated": "2026-04-01T19:04:24+09:00",
-      "author_name": "k_izutani",
-      "likes_count": 10,
-      "last_seen": "2026-04-02T07:39:24.278617003+00:00"
-    },
-    {
       "key": "353fee8310b0cd36c8f0",
       "item_id": "353fee8310b0cd36c8f0",
       "title": "Copilot Studio 自律型エージェントのクレジット消費を改めて整理してみる - 365 Copilot ライセンスだけでは判断できないケース",
@@ -1689,8 +1677,8 @@
       "published": "2026-05-30T15:45:08+09:00",
       "updated": "2026-06-01T11:50:22+09:00",
       "author_name": "s-furuya-nri",
-      "likes_count": 105,
-      "last_seen": "2026-06-01T05:50:33.299308210+00:00"
+      "likes_count": 118,
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "43a93d8ff3f7046b31e3",
@@ -1893,8 +1881,8 @@
       "published": "2026-05-29T14:26:44+09:00",
       "updated": "2026-05-29T14:26:44+09:00",
       "author_name": "hitomin_poke",
-      "likes_count": 70,
-      "last_seen": "2026-06-01T05:50:33.299308210+00:00"
+      "likes_count": 71,
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "493ddeeb8658ada703fa",
@@ -1979,30 +1967,6 @@
       "author_name": "aito1234",
       "likes_count": 22,
       "last_seen": "2026-04-16T19:37:05.711435624+00:00"
-    },
-    {
-      "key": "4b7a87438b4c3ff674f3",
-      "item_id": "4b7a87438b4c3ff674f3",
-      "title": "Windows TerminalでDBに接続する時に色変えたい",
-      "link": "https://qiita.com/ynaru-yzrh/items/4b7a87438b4c3ff674f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n\nWindows11にWindows Terminalが標準で入るようになったのでGUIクライアントを別途入れたりせずにこれを使ってDBに接続したい\nDBに接続する際のコマンドが長いの別名を付けたい\nついでに接続する環境によって自動で背景色とか変えたい\nDB接続...",
-      "published": "2026-04-01T01:32:28+09:00",
-      "updated": "2026-04-01T01:32:28+09:00",
-      "author_name": "ynaru-yzrh",
-      "likes_count": 12,
-      "last_seen": "2026-04-02T07:39:24.278617003+00:00"
-    },
-    {
-      "key": "4bb54995083b56d81a70",
-      "item_id": "4bb54995083b56d81a70",
-      "title": "Oracle Exadata AI Database@Azure:  Active Data Guard で DR 構成をしてみてみた",
-      "link": "https://qiita.com/shirok/items/4bb54995083b56d81a70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Oracle AI Database@Azure で Exadata を 2 系統用意できたら、次にやりたくなるのはやはり Active Data Guard です。  ただ、実際に運用を考えると、Standby を作るだけでは足りません。Switchover / Fai...",
-      "published": "2026-03-31T06:49:34+09:00",
-      "updated": "2026-03-31T23:46:26+09:00",
-      "author_name": "shirok",
-      "likes_count": 17,
-      "last_seen": "2026-04-02T07:39:24.278617003+00:00"
     },
     {
       "key": "4c40e95e432883b51f5c",
@@ -2242,7 +2206,7 @@
       "updated": "2026-05-30T23:32:48+09:00",
       "author_name": "kimuchi_a",
       "likes_count": 10,
-      "last_seen": "2026-06-01T05:50:33.299308210+00:00"
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "537094e2ad68f9275710",
@@ -2279,18 +2243,6 @@
       "author_name": "kotobuki5991",
       "likes_count": 20,
       "last_seen": "2026-05-23T19:36:35.688322497+00:00"
-    },
-    {
-      "key": "54e88055dc5fe22c0e1c",
-      "item_id": "54e88055dc5fe22c0e1c",
-      "title": "Power Automate から Copilot Studio のエージェントを多重実行させる",
-      "link": "https://qiita.com/Takashi_Masumori/items/54e88055dc5fe22c0e1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nCopilot Studio のエージェントに「Excel の一覧データを渡して、1行ずつ処理させたい」という相談をいただくことが増えてきました。\nたとえば、特許調査の依頼一覧が Excel テーブルに入っていて、それを AI エージェントに順番に処理させたいと...",
-      "published": "2026-03-30T08:25:50+09:00",
-      "updated": "2026-03-30T08:54:57+09:00",
-      "author_name": "Takashi_Masumori",
-      "likes_count": 31,
-      "last_seen": "2026-04-02T07:39:24.278617003+00:00"
     },
     {
       "key": "55647422c8ba22bbdab5",
@@ -2818,7 +2770,7 @@
       "updated": "2026-05-29T23:57:46+09:00",
       "author_name": "tau0529",
       "likes_count": 17,
-      "last_seen": "2026-06-01T05:50:33.299308210+00:00"
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "6921934b6618cd24e1df",
@@ -2985,8 +2937,8 @@
       "published": "2026-05-30T15:17:48+09:00",
       "updated": "2026-06-01T12:21:29+09:00",
       "author_name": "archeleeds",
-      "likes_count": 31,
-      "last_seen": "2026-06-01T05:50:33.299308210+00:00"
+      "likes_count": 38,
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "6ecfb5840fa700971a1f",
@@ -3225,8 +3177,8 @@
       "published": "2026-05-29T09:33:43+09:00",
       "updated": "2026-05-29T09:33:43+09:00",
       "author_name": "ari_init",
-      "likes_count": 12,
-      "last_seen": "2026-06-01T05:50:33.299308210+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "74e0361cf92bc5335723",
@@ -3517,18 +3469,6 @@
       "last_seen": "2026-05-05T19:42:06.582596235+00:00"
     },
     {
-      "key": "81ddcadc785a6498d10f",
-      "item_id": "81ddcadc785a6498d10f",
-      "title": "【35歳未経験でも理解できた】破綻しないCSS設計の基本",
-      "link": "https://qiita.com/wata-sho/items/81ddcadc785a6498d10f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "こんにちは！\n気づけば35歳、未経験からWeb開発の世界に飛び込んだ者です。\nヘッダーの余白を少し直しただけなのに、なぜか遠く離れたフッターが崩壊する。直せば直すほど他の場所が壊れていく。「これ、CSSじゃなくてジェンガかな？」と何度も心が折れかけました。\nしかし、ある本を...",
-      "published": "2026-03-31T12:23:56+09:00",
-      "updated": "2026-03-31T12:23:57+09:00",
-      "author_name": "wata-sho",
-      "likes_count": 93,
-      "last_seen": "2026-04-02T07:39:24.278617003+00:00"
-    },
-    {
       "key": "830a2e991e82ce2d6bf1",
       "item_id": "830a2e991e82ce2d6bf1",
       "title": "Java（Spring）とPHP（Laravel）のDBアクセスの違い　【初心者向け】",
@@ -3621,8 +3561,8 @@
       "published": "2026-05-29T10:33:43+09:00",
       "updated": "2026-05-29T10:33:44+09:00",
       "author_name": "shinnosuke_takami",
-      "likes_count": 65,
-      "last_seen": "2026-06-01T05:50:33.299308210+00:00"
+      "likes_count": 66,
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "864876245891c0cbb127",
@@ -4557,8 +4497,8 @@
       "published": "2026-05-31T04:35:58+09:00",
       "updated": "2026-06-01T09:51:10+09:00",
       "author_name": "carol0226",
-      "likes_count": 13,
-      "last_seen": "2026-06-01T05:50:33.299308210+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "a7c81557c1ccefe55215",
@@ -4581,8 +4521,8 @@
       "published": "2026-05-31T00:01:35+09:00",
       "updated": "2026-06-01T10:48:14+09:00",
       "author_name": "Yamada040",
-      "likes_count": 10,
-      "last_seen": "2026-06-01T05:50:33.299308210+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "a8247fa7f74bd60b65d7",
@@ -4714,7 +4654,7 @@
       "updated": "2026-05-30T07:15:03+09:00",
       "author_name": "KNR109",
       "likes_count": 12,
-      "last_seen": "2026-06-01T05:50:33.299308210+00:00"
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "ab0d3e9d61fb0297111a",
@@ -4786,19 +4726,7 @@
       "updated": "2026-05-31T23:19:33+09:00",
       "author_name": "hoshi7_n",
       "likes_count": 13,
-      "last_seen": "2026-06-01T05:50:33.299308210+00:00"
-    },
-    {
-      "key": "ac1e447ba9996b5543da",
-      "item_id": "ac1e447ba9996b5543da",
-      "title": "未経験から3年で感じたこれからのキャリアを築くための行動3選",
-      "link": "https://qiita.com/masa20057/items/ac1e447ba9996b5543da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "エンジニアとして働き始めて数年、「技術の流行を追うだけで精一杯」と焦っていませんか？\n私が未経験の頃や駆け出しの頃は\n\nとりあえず案件数が多いJavaをマスターすればこの先大丈夫でしょ\n\nと思っていました。\nしかし、近年の日々進化するAIやお客様が求めていることが変化してい...",
-      "published": "2026-03-30T13:25:43+09:00",
-      "updated": "2026-03-30T13:25:43+09:00",
-      "author_name": "masa20057",
-      "likes_count": 114,
-      "last_seen": "2026-04-02T07:39:24.278617003+00:00"
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "ac378f83a4e7911392d4",
@@ -4955,6 +4883,18 @@
       "author_name": "wata-sho",
       "likes_count": 73,
       "last_seen": "2026-04-30T07:54:28.007326088+00:00"
+    },
+    {
+      "key": "b0b808728718be72be9c",
+      "item_id": "b0b808728718be72be9c",
+      "title": "Laravel Best Practicesを実務で活用して感じたこと",
+      "link": "https://qiita.com/AkiraTakasaki/items/b0b808728718be72be9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "こんにちは、ソーイ株式会社の髙﨑です。\nLaravelでの開発に慣れてくると、\n\nControllerが肥大化する\n命名が統一されない\n同じ処理を何度も書いてしまう\n\nといった問題にぶつかることが増えてきました。\n今回は、GitHubで公開されている「Laravel Bes...",
+      "published": "2026-05-29T11:13:33+09:00",
+      "updated": "2026-05-29T11:13:34+09:00",
+      "author_name": "AkiraTakasaki",
+      "likes_count": 10,
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "b1a956add6ec342f31b5",
@@ -5541,8 +5481,8 @@
       "published": "2026-05-30T13:17:32+09:00",
       "updated": "2026-05-31T18:18:46+09:00",
       "author_name": "usayamadausako",
-      "likes_count": 18,
-      "last_seen": "2026-06-01T05:50:33.299308210+00:00"
+      "likes_count": 22,
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "c953c044c505605daa3f",
@@ -5639,18 +5579,6 @@
       "author_name": "hokutoh",
       "likes_count": 147,
       "last_seen": "2026-04-16T19:37:05.711435624+00:00"
-    },
-    {
-      "key": "cda0b336c19537607aff",
-      "item_id": "cda0b336c19537607aff",
-      "title": "ベンダー管理のやり方：事業側PMが持つべき3つの軸とフェーズ別ポイント",
-      "link": "https://qiita.com/atsushi_0000/items/cda0b336c19537607aff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "ベンダーに開発を委託しているプロジェクトで、こんな状態になっていませんか？\n\n「定例で進捗報告を聞いて、問題なさそうならOK」\n「課題が出たら、ベンダーに対応をお願いする」\n「成果物は納品されてから確認する」\n\n一見、管理しているように見えます。でも実態は、報告を聞いている...",
-      "published": "2026-03-30T14:12:00+09:00",
-      "updated": "2026-03-30T14:12:00+09:00",
-      "author_name": "atsushi_0000",
-      "likes_count": 10,
-      "last_seen": "2026-04-02T07:39:24.278617003+00:00"
     },
     {
       "key": "ce29a2be9f293d5ccace",
@@ -6273,8 +6201,8 @@
       "published": "2026-05-29T19:58:10+09:00",
       "updated": "2026-05-29T19:58:11+09:00",
       "author_name": "jnchito",
-      "likes_count": 15,
-      "last_seen": "2026-06-01T05:50:33.299308210+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "e4e6e741f93c4ecd8af9",
@@ -6717,8 +6645,8 @@
       "published": "2026-05-29T21:11:50+09:00",
       "updated": "2026-05-29T21:11:50+09:00",
       "author_name": "tyPhoon",
-      "likes_count": 25,
-      "last_seen": "2026-06-01T05:50:33.299308210+00:00"
+      "likes_count": 29,
+      "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
       "key": "f1eab565027d84bc9b0b",
