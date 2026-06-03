@@ -100,16 +100,6 @@ AIがコードを生成してくれる時代になっても、Gitの操作は自
 この記事では 2026 年 4 月時点の全機能をカテゴリ別に整...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a867e1954b80e78cf146</id>
-    <title>Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ</title>
-    <link rel="alternate" href="https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T00:02:13+09:00</updated>
-    <summary type="html">Likes: 180&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/LostMyCode&quot;&gt;LostMyCode&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T07:50:49+09:00&lt;br/&gt;Updated: 2026-04-02T00:02:13+09:00&lt;br/&gt;3月31日、AnthropicのAIコーディングツール「Claude Code」の全ソースコードが突如としてネット上に流出しました。
-原因はなんと、npmパッケージに含まれた .map（sourcemap）ファイル 。
-
-Bunでビルドしたときにデフォルトで生成されるsou...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:4385ac59ebefb923cf0d</id>
     <title>これを読めば分かるClaude Code 完全攻略ガイド</title>
     <link rel="alternate" href="https://qiita.com/s-furuya-nri/items/4385ac59ebefb923cf0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -316,6 +306,19 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 大変なのは「コードを書くこと」より、その後の設計、整...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:eaa2afeffa262687b892</id>
+    <title>「コードを書く人」から「課題を解決するエンジニア」になるためには</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/eaa2afeffa262687b892?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-02T11:28:48+09:00</updated>
+    <summary type="html">Likes: 111&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-06-02T11:28:48+09:00&lt;br/&gt;Updated: 2026-06-02T11:28:48+09:00&lt;br/&gt;株式会社PRUMのmasaです。
+エンジニアに転職したあと「技術を覚えたら終わり」じゃないことに気づいたのは現場に出てからでした。
+今回は今のエンジニアに求められること、成長を早める思考習慣を一緒に見ていきましょう。
+
+「コードが書ければ良い」時代は終わりつつある
+
+求めら...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
     <title>Claude Codeソースコード流出から学ぶハーネスパターン10選 ── 50万行のTypeScriptが明かした設計思想</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/ebbbe74649eb441a34db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -342,19 +345,6 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 
 こんばんは、mirukyです。
 2026年3月31日、npmの Axios パッケージ（週間1億ダウンロード）がサプライチェーン攻撃を受けました。攻撃者はメンテナーへの標的型ソーシャルエンジニアリングでセッションを乗っ取り、悪意ある依存 plain-crypt...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:eaa2afeffa262687b892</id>
-    <title>「コードを書く人」から「課題を解決するエンジニア」になるためには</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/eaa2afeffa262687b892?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-02T11:28:48+09:00</updated>
-    <summary type="html">Likes: 105&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-06-02T11:28:48+09:00&lt;br/&gt;Updated: 2026-06-02T11:28:48+09:00&lt;br/&gt;株式会社PRUMのmasaです。
-エンジニアに転職したあと「技術を覚えたら終わり」じゃないことに気づいたのは現場に出てからでした。
-今回は今のエンジニアに求められること、成長を早める思考習慣を一緒に見ていきましょう。
-
-「コードが書ければ良い」時代は終わりつつある
-
-求めら...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1ffbc05f07355231f420</id>
@@ -403,6 +393,18 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 AI Coding.Infoというサイトを2025年7月から運営しています。
 
 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:f6f07d88478dd571f970</id>
+    <title>エンジニアの「コミュ力」って、たぶんそういう意味じゃない</title>
+    <link rel="alternate" href="https://qiita.com/ALeX_EXVS/items/f6f07d88478dd571f970?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-01T14:55:06+09:00</updated>
+    <summary type="html">Likes: 101&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ALeX_EXVS&quot;&gt;ALeX_EXVS&lt;/a&gt;&lt;br/&gt;Published: 2026-06-01T14:55:06+09:00&lt;br/&gt;Updated: 2026-06-01T14:55:06+09:00&lt;br/&gt;エンジニアに必要な「コミュ力」の正体
+
+「エンジニアに必要なのはコミュ力」
+よく聞く言葉ですが、かなり雑だと思うし、違和感を感じませんか？
+ここでいうコミュ力は、雑談がうまいとか、明るく話せるとか、飲み会で盛り上げられるとか、そういう話ではありません。
+エンジニアに必要な...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5d00c7dd1d690ee4f9bf</id>
@@ -455,21 +457,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T16:32:16+09:00&lt;br/&gt;Updated: 2026-05-06T15:44:14+09:00&lt;br/&gt;結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。
 2026年4月28日、AIコーディングツール「Cursor」にCVSS 9.9（NVD評価） の致命的な脆弱性が公開されました。
 悪意のあるリポジトリを開いて Cursor の A...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:094edffe1d7961bb6395</id>
-    <title>【前編】9割の新人エンジニアがやっている 「失礼しました」の落とし穴</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/094edffe1d7961bb6395?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-01T13:18:18+09:00</updated>
-    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T13:18:17+09:00&lt;br/&gt;Updated: 2026-04-01T13:18:18+09:00&lt;br/&gt;はじめまして。
-株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で
-つまずきやすいポイントを整理して発信しています。
-PRUMについて気になった方は、
-コーポレートサイトもご覧ください。
-▶ コーポレートサイト
-
-9割の新人エンジニアがや...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1609d7989268aa3e35bf</id>
@@ -585,18 +572,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <updated>2026-04-20T18:23:27+09:00</updated>
     <summary type="html">Likes: 88&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T18:23:27+09:00&lt;br/&gt;Updated: 2026-04-20T18:23:27+09:00&lt;br/&gt;「Claude Codeを使い始めたけど、毎回同じような指示をプロンプトに書いている気がする…」と感じていませんか？
 Claude Codeは素のままでも強力ですが、Skillsを使うことで繰り返しの作業を自動化し、開発のルーティンをまるごとコマンド一発に変えることができま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f6f07d88478dd571f970</id>
-    <title>エンジニアの「コミュ力」って、たぶんそういう意味じゃない</title>
-    <link rel="alternate" href="https://qiita.com/ALeX_EXVS/items/f6f07d88478dd571f970?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-01T14:55:06+09:00</updated>
-    <summary type="html">Likes: 87&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ALeX_EXVS&quot;&gt;ALeX_EXVS&lt;/a&gt;&lt;br/&gt;Published: 2026-06-01T14:55:06+09:00&lt;br/&gt;Updated: 2026-06-01T14:55:06+09:00&lt;br/&gt;エンジニアに必要な「コミュ力」の正体
-
-「エンジニアに必要なのはコミュ力」
-よく聞く言葉ですが、かなり雑だと思うし、違和感を感じませんか？
-ここでいうコミュ力は、雑談がうまいとか、明るく話せるとか、飲み会で盛り上げられるとか、そういう話ではありません。
-エンジニアに必要な...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9eafa7854f27055a7a07</id>
@@ -738,6 +713,18 @@ AIがコードを書くことが当たり前となった2026年現在、エン�
 エンジニア未経験の方々が、最初の一歩で躓かないための「守りの本質」を、社内の情報セキュリティを守る活動もしている私の経験を交えて共有します...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8703b051c3b8519996d7</id>
+    <title>「CPU？メモリ？SSD？」PCが重い時、何を疑えばいいのか整理してみる</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/8703b051c3b8519996d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-01T13:00:20+09:00</updated>
+    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-01T12:59:53+09:00&lt;br/&gt;Updated: 2026-06-01T13:00:20+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+仕事で起きやすい“ズレ”について整理して発信しています。
+誰かの助けになれば幸いです。
+
+「CPU？メモリ？SSD？」PCが重い時、何を疑えば...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a359bfcd179777761e4f</id>
     <title>【Qiita】いいかげん一日3記事までに制限すべきでは</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/a359bfcd179777761e4f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -758,23 +745,6 @@ AIがコードを書くことが当たり前となった2026年現在、エン�
 こんにちは！
 35歳、未経験からWebエンジニアの道を歩み始めた者です。
 さて、みなさんは普段スマホでSNSを見ているとき、「いいね」を押しても画面が真っ白にならずにサクサク動くのを当たり前に感じて...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ff44f2069e3331ab9c0f</id>
-    <title>【35歳未経験でも理解できた】「現代の技術の学び方」</title>
-    <link rel="alternate" href="https://qiita.com/wata-sho/items/ff44f2069e3331ab9c0f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-01T10:26:15+09:00</updated>
-    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T10:26:15+09:00&lt;br/&gt;Updated: 2026-04-01T10:26:15+09:00&lt;br/&gt;この記事はこんな方におすすめです
-
-次から次へと出てくる学習に、正直心が折れそうな方
-
-点で覚えた知識がバラバラで、どう繋がっているかモヤモヤしている方
-
-エンジニアを目指して、効率の良い学習法を探している方
-
-はじめに
-こんにちは！
-35歳から未経験でエ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6ec24ba4942973a1ce0b</id>
@@ -802,18 +772,6 @@ AIがコードを書くことが当たり前となった2026年現在、エン�
     <updated>2026-04-12T15:23:30+09:00</updated>
     <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamome_susume&quot;&gt;kamome_susume&lt;/a&gt;&lt;br/&gt;Published: 2026-04-12T15:23:30+09:00&lt;br/&gt;Updated: 2026-04-12T15:23:30+09:00&lt;br/&gt;設計書を書くのに毎回何時間もかかって、本来の開発に集中できていない…そんな経験はありませんか？
 仕様書、API設計書、DB設計書、クラス設計書——エンジニアの仕事には「書かなければいけないドキュメント」が山ほどあります。でも、コードを書く時間と同じくらい、あるいはそれ以上の...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8703b051c3b8519996d7</id>
-    <title>「CPU？メモリ？SSD？」PCが重い時、何を疑えばいいのか整理してみる</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/8703b051c3b8519996d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-01T13:00:20+09:00</updated>
-    <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-01T12:59:53+09:00&lt;br/&gt;Updated: 2026-06-01T13:00:20+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
-仕事で起きやすい“ズレ”について整理して発信しています。
-誰かの助けになれば幸いです。
-
-「CPU？メモリ？SSD？」PCが重い時、何を疑えば...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2ace83e1d37c13f01190</id>
@@ -1617,16 +1575,6 @@ https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:f6fa910cb0c7efe2defc</id>
-    <title>Claude Codeのコード流出から考える開発者の倫理</title>
-    <link rel="alternate" href="https://qiita.com/mosaxiv/items/f6fa910cb0c7efe2defc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T15:26:39+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mosaxiv&quot;&gt;mosaxiv&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T19:35:29+09:00&lt;br/&gt;Updated: 2026-04-02T15:26:39+09:00&lt;br/&gt;はじめに
-Anthropic社のAIコーディングツール「Claude Code」のソースコードが流出しました。
-npmパッケージのリリース時にソースマップファイル（.map）を含めてしまった、という人的ミスが原因です。
-約1,900ファイル、51万2,000行ものType...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:c8b5cca97554f6f64782</id>
     <title>Claude Code x Obsidianで、LLM Wiki構築 | セッションを切り替えても会話を続けられる方法</title>
     <link rel="alternate" href="https://qiita.com/usayamadausako/items/c8b5cca97554f6f64782?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2240,5 +2188,52 @@ GUIで操作する現場もありますが、CUIで操作することもあり�
 2025年2月にAndrej Karpathyが提唱してから約1年。
 Collins英語辞典の2025年Word of the Yearにも選ばれ、開発者コミュニティを超えて広がっています。
 私自身...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c0b02dcff62e795a2b3b</id>
+    <title>Appleのような極上のスクロール体験を！GSAP ScrollSmootherの導入から実践まで</title>
+    <link rel="alternate" href="https://qiita.com/nhatcaofedev/items/c0b02dcff62e795a2b3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-18T17:00:14+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nhatcaofedev&quot;&gt;nhatcaofedev&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T17:00:14+09:00&lt;br/&gt;Updated: 2026-05-18T17:00:14+09:00&lt;br/&gt;Appleのような極上のスクロール体験を！GSAP ScrollSmootherの導入から実践まで
+Appleのウェブサイトを訪れて、スクロールしたときに「なんでこんなに滑らかなんだろう？」と感動したことはありませんか？
+あの魔法のような感覚の正体は、慣性スクロール（Mo...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:38757bc86c30f0326519</id>
+    <title>【TypeScript】条件分岐のベストプラクティス ── ネスト・switch・フラグ引数を卒業しよう</title>
+    <link rel="alternate" href="https://qiita.com/Nao52/items/38757bc86c30f0326519?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-14T07:40:10+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T07:40:10+09:00&lt;br/&gt;Updated: 2026-05-14T07:40:10+09:00&lt;br/&gt;■ この記事はこんな人におすすめ
+
+TypeScriptでifのネストやswitchを多用しているが、読みにくいと感じている人
+enumを使っているが、ケース追加時の漏れが怖い人
+「フラグ引数」が何なのか、なぜ避けるべきかを知りたい人
+保守しやすい条件分岐の書き方をマスタ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:da4d5eec968b92ebc26d</id>
+    <title>記憶を持たないLLMの記憶 ― コンテキスト/メモリー/ハーネスエンジニアリング入門の前に</title>
+    <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/da4d5eec968b92ebc26d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-21T17:40:07+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuji-arakawa&quot;&gt;yuji-arakawa&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T07:39:24+09:00&lt;br/&gt;Updated: 2026-04-21T17:40:07+09:00&lt;br/&gt;はじめに
+
+記憶を持たないはずのAIが、私を覚えている
+LLM自体は記憶を持ちません。直前の会話で何を話したかを本当は「覚えていない」はずなのです。それなのに、ChatGPTのようなチャットアプリや最近のエージェントと会話すると、まるで相手が自分を覚えていてくれて、記憶...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4face78fad72275d820f</id>
+    <title>【Linuxコマンド】実務でよく使うLinuxコマンドまとめ</title>
+    <link rel="alternate" href="https://qiita.com/yuto-vj/items/4face78fad72275d820f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T18:06:10+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuto-vj&quot;&gt;yuto-vj&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T18:06:10+09:00&lt;br/&gt;Updated: 2026-04-13T18:06:10+09:00&lt;br/&gt;開発現場では、アプリケーションの開発だけでなく、サーバーやログ確認のために Linuxコマンド を使う場面が多くあります。
+GUIで操作できる環境もありますが、CUI（コマンドライン）で操作できると、
+
+ログ確認
+ファイル操作
+プロセス確認
+サーバー調査
+権限設定
+
+など...</summary>
   </entry>
 </feed>
