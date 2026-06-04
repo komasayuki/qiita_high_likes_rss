@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-06-05T07:11:17+09:00</updated>
+  <updated>2026-06-05T08:03:57+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -150,7 +150,7 @@ AIがコードを生成してくれる時代になっても、Gitの操作は自
     <title>「コードを書く人」から「課題を解決するエンジニア」になるためには</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/eaa2afeffa262687b892?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-02T11:28:48+09:00</updated>
-    <summary type="html">Likes: 155&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-06-02T11:28:48+09:00&lt;br/&gt;Updated: 2026-06-02T11:28:48+09:00&lt;br/&gt;株式会社PRUMのmasaです。
+    <summary type="html">Likes: 156&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-06-02T11:28:48+09:00&lt;br/&gt;Updated: 2026-06-02T11:28:48+09:00&lt;br/&gt;株式会社PRUMのmasaです。
 エンジニアに転職したあと「技術を覚えたら終わり」じゃないことに気づいたのは現場に出てからでした。
 今回は今のエンジニアに求められること、成長を早める思考習慣を一緒に見ていきましょう。
 
@@ -1681,6 +1681,14 @@ cdコマンド...</summary>
 今回は、新人プログラマ応援 - みんなで新人を育てよう！というテーマで、これまで自分が複数の現場を経験する中で、どこでも共通して役に立ったスキルを3つに絞って...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:61b10d10c63db47a64e7</id>
+    <title>AIエージェントのトークン代を節約するNetflixのエンジニアが作ったツール「Headroom」について調べてみた</title>
+    <link rel="alternate" href="https://qiita.com/shinkai_/items/61b10d10c63db47a64e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-05T08:03:57+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinkai_&quot;&gt;shinkai_&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T09:19:10+09:00&lt;br/&gt;Updated: 2026-06-05T08:03:57+09:00&lt;br/&gt;Claude CodeなどのAIエージェントを日常的に使っていると、あっという間に制限に引っ掛かることがありませんか？
+Netflixのシニアエンジニアがオープンソースとしてリリースした「Headroom」というトークン削減ツールが、数日で 6k stars・400 for...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0675640c728125a628c4</id>
     <title>Linuxのテキストエディタ　viとnano</title>
     <link rel="alternate" href="https://qiita.com/steiji/items/0675640c728125a628c4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1889,14 +1897,6 @@ Access to fetch a...</summary>
 Claude Code をはじめとする AI コーディングエージェントで、「スキル（Skills）」が運用の中核になってきています。プロンプトやワークフロー、禁則事項を SKILL.md にまとめておくと、エージェントが必要なタイミングで自動的に読み出して振る舞...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:61b10d10c63db47a64e7</id>
-    <title>AIエージェントのトークン代を節約するNetflixのエンジニアが作ったツール「Headroom」について調べてみた</title>
-    <link rel="alternate" href="https://qiita.com/shinkai_/items/61b10d10c63db47a64e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-05T07:11:17+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinkai_&quot;&gt;shinkai_&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T09:19:10+09:00&lt;br/&gt;Updated: 2026-06-05T07:11:17+09:00&lt;br/&gt;Claude CodeなどのAIエージェントを日常的に使っていると、あっという間に制限に引っ掛かることがありませんか？
-Netflixのシニアエンジニアがオープンソースとしてリリースした「Headroom」というトークン削減ツールが、数日で 6k stars・400 for...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:e6205673598cdb1ff14d</id>
     <title>AI時代のMoatとは — 「もし明日、競合が同じプロダクトを出したらどう勝つか？」</title>
     <link rel="alternate" href="https://qiita.com/mattsershaw/items/e6205673598cdb1ff14d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2000,6 +2000,14 @@ WEBアプリケーションエンジニアとして活動しているPOMです�
 自然言語でやりたいことを説明すれば、RでもPythonでもSQLでも、かなり実用的なコードが生成されます。
 これは、データ分析の世界にとって大きな変化です。
 これまでデータ分析を学ぶには、Explora...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c61eb886faa1cee69054</id>
+    <title>日本酒記録アプリをAWSを使って作ってみた</title>
+    <link rel="alternate" href="https://qiita.com/yo_arai/items/c61eb886faa1cee69054?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-03T00:17:43+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yo_arai&quot;&gt;yo_arai&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T00:17:43+09:00&lt;br/&gt;Updated: 2026-06-03T00:17:43+09:00&lt;br/&gt;はじめに
+日本酒を飲むたびに「この銘柄・スペック、前も飲んだっけ？」「あのとき飲んだやつ何だったっけ？」と思うことが増えてきました。メモアプリに記録するのは面倒、SNSに投稿するのはちょっと違う、専用アプリはUIが好みでない。。。ということで、自分用に「酒ファイル」という...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a5234436a61194e24df7</id>
@@ -2130,14 +2138,6 @@ GUIで操作する現場もありますが、CUIで操作することもあり�
 2025年2月にAndrej Karpathyが提唱してから約1年。
 Collins英語辞典の2025年Word of the Yearにも選ばれ、開発者コミュニティを超えて広がっています。
 私自身...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c61eb886faa1cee69054</id>
-    <title>日本酒記録アプリをAWSを使って作ってみた</title>
-    <link rel="alternate" href="https://qiita.com/yo_arai/items/c61eb886faa1cee69054?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-03T00:17:43+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yo_arai&quot;&gt;yo_arai&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T00:17:43+09:00&lt;br/&gt;Updated: 2026-06-03T00:17:43+09:00&lt;br/&gt;はじめに
-日本酒を飲むたびに「この銘柄・スペック、前も飲んだっけ？」「あのとき飲んだやつ何だったっけ？」と思うことが増えてきました。メモアプリに記録するのは面倒、SNSに投稿するのはちょっと違う、専用アプリはUIが好みでない。。。ということで、自分用に「酒ファイル」という...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b9d9dd83f33b4c837d63</id>
