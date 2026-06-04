@@ -312,17 +312,6 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 興味があ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:2b28f629ea2daab701cd</id>
-    <title>Vibe Coding、最初は速い。でも後半で急にしんどくなる</title>
-    <link rel="alternate" href="https://qiita.com/engchina/items/2b28f629ea2daab701cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-05T08:25:53+09:00</updated>
-    <summary type="html">Likes: 117&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T23:57:33+09:00&lt;br/&gt;Updated: 2026-04-05T08:25:53+09:00&lt;br/&gt;実際にやってみて分かったこと
-最近 Vibe Coding を続けていて、最初はかなり便利だと感じました。
-画面も処理もすぐ形になるし、初速は本当に速いです。
-ただ、機能が増えてくると、しんどさの種類が変わってきます。
-大変なのは「コードを書くこと」より、その後の設計、整...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
     <title>Claude Codeソースコード流出から学ぶハーネスパターン10選 ── 50万行のTypeScriptが明かした設計思想</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/ebbbe74649eb441a34db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1692,16 +1681,6 @@ cdコマンド...</summary>
 今回は、新人プログラマ応援 - みんなで新人を育てよう！というテーマで、これまで自分が複数の現場を経験する中で、どこでも共通して役に立ったスキルを3つに絞って...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:06c50c5a2eed33b96a8a</id>
-    <title>「動くコード」と「読めるコード」の違いをBefore/Afterで見る</title>
-    <link rel="alternate" href="https://qiita.com/S_kamon/items/06c50c5a2eed33b96a8a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T18:18:29+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/S_kamon&quot;&gt;S_kamon&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T18:18:29+09:00&lt;br/&gt;Updated: 2026-04-02T18:18:29+09:00&lt;br/&gt;はじめに
-「このコード、何してるんだっけ」と、自分が書いたコードに首を傾げた経験はありませんか。
-コードは書く時間より、読まれる時間のほうがはるかに長いと言われています。
-この記事では、未来の自分とチームメンバーのために、動くけど読みにくいコードを読みやすいコードに変える...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:0675640c728125a628c4</id>
     <title>Linuxのテキストエディタ　viとnano</title>
     <link rel="alternate" href="https://qiita.com/steiji/items/0675640c728125a628c4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1829,15 +1808,6 @@ pushできない
 「結局、ランダムフォレスト、XGBoost、LightGBM、どれを使えばいいんだろうか？」
 とりあえずXGBoostを使う。
 あるいは「速いらしい」という理由でLightG...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:792a3dc35ec04ee24da9</id>
-    <title>新人プログラマーは、全部を覚えなくていい。～ 最初に身につけたい3つの土台 ～</title>
-    <link rel="alternate" href="https://qiita.com/Fujiwo/items/792a3dc35ec04ee24da9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-03T09:25:16+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Fujiwo&quot;&gt;Fujiwo&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T17:09:21+09:00&lt;br/&gt;Updated: 2026-04-03T09:25:16+09:00&lt;br/&gt;新人の時期は、覚えることが多すぎます。
-言語、フレームワーク、Git、レビュー、設計、コミュニケーション。最近は AI ツールも学びの前提に入りつつあって、「何から身につければいいのか」がかえって見えにくくなりました。
-だからこそ、最初から全部を覚えようとしないほうがいい...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:39e8e3bbc327526ac20f</id>
@@ -2224,5 +2194,37 @@ GUIで操作できる環境もありますが、CUI（コマンドライン）�
 権限設定
 
 など...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c4ea49e23564ba9e9a97</id>
+    <title>C# / .NETで始める依存性注入（DI）</title>
+    <link rel="alternate" href="https://qiita.com/hiroki_notes/items/c4ea49e23564ba9e9a97?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-08T16:31:24+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki_notes&quot;&gt;hiroki_notes&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T16:31:24+09:00&lt;br/&gt;Updated: 2026-04-08T16:31:24+09:00&lt;br/&gt;C# や .NET を触っていると、DI（依存性注入）という言葉をどこかで必ず耳にします。
+ただ、実際のところはどうでしょう。
+
+コンストラクタでインターフェースを受け取っているけど、理由はよく分からない
+DI コンテナって便利らしいけど、何が嬉しいのかピンとこない
+ASP...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:45b5847e30b2cd61a756</id>
+    <title>C# で MVVM を学ぶならまずこれ！CommunityToolkit.Mvvm で理解する基本の流れ</title>
+    <link rel="alternate" href="https://qiita.com/hiroki_notes/items/45b5847e30b2cd61a756?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-07T20:24:14+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki_notes&quot;&gt;hiroki_notes&lt;/a&gt;&lt;br/&gt;Published: 2026-04-07T20:24:14+09:00&lt;br/&gt;Updated: 2026-04-07T20:24:14+09:00&lt;br/&gt;「MVVMって聞いたことあるけど、結局どう使えばいいの？」
+「ViewModel と Model の違いがよく分からない…」
+そんなふうに感じたことはありませんか。
+この記事では、C# × MVVM をこれから学びたい人に向けて、できるだけシンプルに、そして“実際に手を動か...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:62c9ec8a9fd0f06311ec</id>
+    <title>Raspberry Pi 4 で地デジ録画サーバーを構築する（Mirakurun + EPGStation + HWエンコード）</title>
+    <link rel="alternate" href="https://qiita.com/YMatsubara/items/62c9ec8a9fd0f06311ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-04T23:48:59+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YMatsubara&quot;&gt;YMatsubara&lt;/a&gt;&lt;br/&gt;Published: 2026-04-04T23:48:59+09:00&lt;br/&gt;Updated: 2026-04-04T23:48:59+09:00&lt;br/&gt;この記事は Claude Code（Anthropic） を活用して執筆しています。システム構築自体もClaude Codeと対話しながら設定ファイルの作成・デバッグ・スクリプト開発を行いました。
+
+はじめに
+子供にテレビを占領されてしまい、自分の見たい番組が見られ...</summary>
   </entry>
 </feed>
