@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-06-03T13:15:28+09:00</updated>
+  <updated>2026-06-04T12:48:26+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -40,6 +40,18 @@ Cla...</summary>
 はじめに
 皆さんは Markdown（マークダウン） を「見出しと箇条書きが書ける記法」程度に思っていませんか？
 私もかつてはそうでした。しかし、個人開発で REQUIREMENTS....</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:f6f07d88478dd571f970</id>
+    <title>エンジニアの「コミュ力」って、たぶんそういう意味じゃない</title>
+    <link rel="alternate" href="https://qiita.com/ALeX_EXVS/items/f6f07d88478dd571f970?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-01T14:55:06+09:00</updated>
+    <summary type="html">Likes: 224&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ALeX_EXVS&quot;&gt;ALeX_EXVS&lt;/a&gt;&lt;br/&gt;Published: 2026-06-01T14:55:06+09:00&lt;br/&gt;Updated: 2026-06-01T14:55:06+09:00&lt;br/&gt;エンジニアに必要な「コミュ力」の正体
+
+「エンジニアに必要なのはコミュ力」
+よく聞く言葉ですが、かなり雑だと思うし、違和感を感じませんか？
+ここでいうコミュ力は、雑談がうまいとか、明るく話せるとか、飲み会で盛り上げられるとか、そういう話ではありません。
+エンジニアに必要な...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fde2d0747358cd7870d7</id>
@@ -90,26 +102,6 @@ AIがコードを生成してくれる時代になっても、Gitの操作は自
     <updated>2026-05-16T09:20:26+09:00</updated>
     <summary type="html">Likes: 195&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-05-16T09:20:26+09:00&lt;br/&gt;Updated: 2026-05-16T09:20:26+09:00&lt;br/&gt;はじめに
 最近、GoogleやApple、メルカリ、楽天、PlayStationなどで「パスキー」という言葉を見かけることが増えました。「パスワードの代わりになる新しいログイン方法らしい」くらいは知っていても、「結局それって何なの？」「なぜパスワードより安全なの？」と聞か...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5e64037cc452c5d497fa</id>
-    <title>Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/5e64037cc452c5d497fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T12:30:47+09:00</updated>
-    <summary type="html">Likes: 189&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T12:17:55+09:00&lt;br/&gt;Updated: 2026-04-02T12:30:47+09:00&lt;br/&gt;Claude Code は Anthropic 公式の CLI エージェントです。ターミナルから直接 Claude を呼び出し、コード生成・編集・デバッグ・Git 操作・プロジェクト管理まで一気通貫で行えます。
-この記事では 2026 年 4 月時点の全機能をカテゴリ別に整...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f6f07d88478dd571f970</id>
-    <title>エンジニアの「コミュ力」って、たぶんそういう意味じゃない</title>
-    <link rel="alternate" href="https://qiita.com/ALeX_EXVS/items/f6f07d88478dd571f970?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-01T14:55:06+09:00</updated>
-    <summary type="html">Likes: 187&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ALeX_EXVS&quot;&gt;ALeX_EXVS&lt;/a&gt;&lt;br/&gt;Published: 2026-06-01T14:55:06+09:00&lt;br/&gt;Updated: 2026-06-01T14:55:06+09:00&lt;br/&gt;エンジニアに必要な「コミュ力」の正体
-
-「エンジニアに必要なのはコミュ力」
-よく聞く言葉ですが、かなり雑だと思うし、違和感を感じませんか？
-ここでいうコミュ力は、雑談がうまいとか、明るく話せるとか、飲み会で盛り上げられるとか、そういう話ではありません。
-エンジニアに必要な...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4385ac59ebefb923cf0d</id>
@@ -200,6 +192,19 @@ CLIで利用されている方が大多数だと思いますが、VSCodeの拡�
 転職を検討...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:eaa2afeffa262687b892</id>
+    <title>「コードを書く人」から「課題を解決するエンジニア」になるためには</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/eaa2afeffa262687b892?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-02T11:28:48+09:00</updated>
+    <summary type="html">Likes: 142&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-06-02T11:28:48+09:00&lt;br/&gt;Updated: 2026-06-02T11:28:48+09:00&lt;br/&gt;株式会社PRUMのmasaです。
+エンジニアに転職したあと「技術を覚えたら終わり」じゃないことに気づいたのは現場に出てからでした。
+今回は今のエンジニアに求められること、成長を早める思考習慣を一緒に見ていきましょう。
+
+「コードが書ければ良い」時代は終わりつつある
+
+求めら...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:786af70f2697dfac4329</id>
     <title>AIにコードを書かせ続けて気づいた、エンジニアの&quot;分かったつもり&quot;の怖さ</title>
     <link rel="alternate" href="https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -241,19 +246,6 @@ OWASP LLM Top 10 2026の全...</summary>
 こんばんは、mirukyです。
 GWは、まとまった学習時間を確保しやすい数少ないタイミングです。普段は業務や家事で後回しになりがちな基礎の穴埋めや、気になっていた分野の入門学習に、本腰を入れやすい期間でもあります。
 この記事では、よくおすすめされる技術書をカテ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:eaa2afeffa262687b892</id>
-    <title>「コードを書く人」から「課題を解決するエンジニア」になるためには</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/eaa2afeffa262687b892?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-02T11:28:48+09:00</updated>
-    <summary type="html">Likes: 136&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-06-02T11:28:48+09:00&lt;br/&gt;Updated: 2026-06-02T11:28:48+09:00&lt;br/&gt;株式会社PRUMのmasaです。
-エンジニアに転職したあと「技術を覚えたら終わり」じゃないことに気づいたのは現場に出てからでした。
-今回は今のエンジニアに求められること、成長を早める思考習慣を一緒に見ていきましょう。
-
-「コードが書ければ良い」時代は終わりつつある
-
-求めら...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f67bd754c1f7a5116a7c</id>
@@ -637,18 +629,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 “作業者...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3a979c3041ea36c05f41</id>
-    <title>現場で折れないマインドを作る3つのコツ</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/3a979c3041ea36c05f41?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T13:19:43+09:00</updated>
-    <summary type="html">Likes: 86&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T13:19:42+09:00&lt;br/&gt;Updated: 2026-04-02T13:19:43+09:00&lt;br/&gt;エラーが出るたびに凹む
-レビュー結果が怖い...
-そんな風に悩んでいませんか？
-私も最初は毎日「才能がない」と嘆いていました。
-でも、現場で長く活躍するために必要なのは、知識量と同じくらい 折れないマインド も大切になります。
-今回は私が学んだ折れないマインドを作るコツをお...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:5022be3615ecd8b5337c</id>
     <title>AWS MCPサーバー超進化してGAしたらしい</title>
     <link rel="alternate" href="https://qiita.com/Syoitu/items/5022be3615ecd8b5337c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -698,22 +678,6 @@ AWS MCP サーバー、結構前からGA するらしいという噂は流れて
     <summary type="html">Likes: 84&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-04-07T11:50:11+09:00&lt;br/&gt;Updated: 2026-04-07T11:50:12+09:00&lt;br/&gt;未経験からエンジニア転職を目指して、個人開発に励む方々へ。
 そのポートフォリオ、もしかしたら面接官やユーザーに刺さらないプロダクトになっているかもしれません。
 AIがコードを書くことが当たり前となった2026年現在、エンジニアに求められるのは「何を作るか」以上に 作ったプロ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a185ecd13bf4be6cf65c</id>
-    <title>【35歳未経験でも理解できた】Webシステムの全体像</title>
-    <link rel="alternate" href="https://qiita.com/wata-sho/items/a185ecd13bf4be6cf65c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-02T10:31:49+09:00</updated>
-    <summary type="html">Likes: 84&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T10:31:49+09:00&lt;br/&gt;Updated: 2026-04-02T10:31:49+09:00&lt;br/&gt;はじめに
-こんにちは！
-35歳から未経験でエンジニアの世界に飛び込んだ者です。
-
-プログラミングの勉強を始めた当初、正直かなり曖昧な理解でした。
-
-「ネットに繋がってるから動く」
-「ボタンを押したら結果が出る」
-
-その裏側で何が起きているのかは、まったく意識していませんで...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:be5d46e82f7301747e86</id>
@@ -1049,18 +1013,6 @@ Claude が生成した .md がプロジェクトルート直下に散乱する
 Mac と Windows を行き来するたびにパス問題でつまず...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:1c443b123080dcd994f1</id>
-    <title>【35歳未経験でも理解できた】WWWの基礎</title>
-    <link rel="alternate" href="https://qiita.com/wata-sho/items/1c443b123080dcd994f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-03T10:21:16+09:00</updated>
-    <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wata-sho&quot;&gt;wata-sho&lt;/a&gt;&lt;br/&gt;Published: 2026-04-03T10:21:16+09:00&lt;br/&gt;Updated: 2026-04-03T10:21:16+09:00&lt;br/&gt;『WWWの基礎〜Webの裏側、完全理解（した気分）〜』
-
-この記事はこんな方におすすめです！
-「Web」と「インターネット」の違いをふんわりとしか分かっていない方
-　URI、HTTP、HTMLなど、アルファベットの連続で脳がフリーズしがちな方
-　Web開発の勉強を始めた...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:03b9b817bf2015321159</id>
     <title>プログラミング完全未経験から始める！競技プログラミング入門ガイド</title>
     <link rel="alternate" href="https://qiita.com/Un_titled/items/03b9b817bf2015321159?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1105,6 +1057,18 @@ Linux にて簡単に特権昇格(root権限でコマンドの実行が出来る
 事の顛末
 
 1. アプリケーション障...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:334b0b9c3ee457dfa8c7</id>
+    <title>9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #1</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/334b0b9c3ee457dfa8c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-04T12:48:26+09:00</updated>
+    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T13:15:28+09:00&lt;br/&gt;Updated: 2026-06-04T12:48:26+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+仕事で起きやすい“ズレ”について整理して発信しています。
+誰かの助けになれば幸いです。
+
+誰かのためにアプリを作ろう #1 -なぜアプリを作るの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fa1f6b0db92e497796ac</id>
@@ -1205,18 +1169,6 @@ AI駆動開発の世界では、今さまざまな手法やキーワードが次
 皆さん 「AIと声で会話したい」 って思ったこと、ありませんか？
 テキストのチャットは便利なんですが、やっぱり声で返ってくると没入感が全然違いますよね。
 人間同士の会話って、相手の言葉が終わってからだいたい200〜500msくらいで返事が始まりますよね。さす...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:334b0b9c3ee457dfa8c7</id>
-    <title>【環境構築不要】誰かのためにアプリを作ってみよう #1</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/334b0b9c3ee457dfa8c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-03T13:15:28+09:00</updated>
-    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T13:15:28+09:00&lt;br/&gt;Updated: 2026-06-03T13:15:28+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
-仕事で起きやすい“ズレ”について整理して発信しています。
-誰かの助けになれば幸いです。
-
-誰かのためにアプリを作ろう #1 -なぜアプリを作るの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:34010e35cd35c797d258</id>
@@ -2072,6 +2024,15 @@ WEBアプリケーションエンジニアとして活動しているPOMです�
 これまでデータ分析を学ぶには、Explora...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b9d9dd83f33b4c837d63</id>
+    <title>ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/b9d9dd83f33b4c837d63?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-01T17:16:46+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-01T17:16:46+09:00&lt;br/&gt;Updated: 2026-06-01T17:16:46+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+ネットで買い物をするとき、クレジットカードを直接入力することもあれば、Apple Pay、Google Pay、PayPal、Amazon Pay、PayPay、楽天ペイ、d払い、au PAY、メルペイなど、様々な決済サービスを...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a5234436a61194e24df7</id>
     <title>出たてほやほやのClaude Opus 4.8を整理してみた</title>
     <link rel="alternate" href="https://qiita.com/kaichan_dot/items/a5234436a61194e24df7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2231,5 +2192,43 @@ enumを使っているが、ケース追加時の漏れが怖い人
 
 記憶を持たないはずのAIが、私を覚えている
 LLM自体は記憶を持ちません。直前の会話で何を話したかを本当は「覚えていない」はずなのです。それなのに、ChatGPTのようなチャットアプリや最近のエージェントと会話すると、まるで相手が自分を覚えていてくれて、記憶...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4face78fad72275d820f</id>
+    <title>【Linuxコマンド】実務でよく使うLinuxコマンドまとめ</title>
+    <link rel="alternate" href="https://qiita.com/yuto-vj/items/4face78fad72275d820f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-13T18:06:10+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuto-vj&quot;&gt;yuto-vj&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T18:06:10+09:00&lt;br/&gt;Updated: 2026-04-13T18:06:10+09:00&lt;br/&gt;開発現場では、アプリケーションの開発だけでなく、サーバーやログ確認のために Linuxコマンド を使う場面が多くあります。
+GUIで操作できる環境もありますが、CUI（コマンドライン）で操作できると、
+
+ログ確認
+ファイル操作
+プロセス確認
+サーバー調査
+権限設定
+
+など...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c4ea49e23564ba9e9a97</id>
+    <title>C# / .NETで始める依存性注入（DI）</title>
+    <link rel="alternate" href="https://qiita.com/hiroki_notes/items/c4ea49e23564ba9e9a97?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-08T16:31:24+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki_notes&quot;&gt;hiroki_notes&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T16:31:24+09:00&lt;br/&gt;Updated: 2026-04-08T16:31:24+09:00&lt;br/&gt;C# や .NET を触っていると、DI（依存性注入）という言葉をどこかで必ず耳にします。
+ただ、実際のところはどうでしょう。
+
+コンストラクタでインターフェースを受け取っているけど、理由はよく分からない
+DI コンテナって便利らしいけど、何が嬉しいのかピンとこない
+ASP...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:45b5847e30b2cd61a756</id>
+    <title>C# で MVVM を学ぶならまずこれ！CommunityToolkit.Mvvm で理解する基本の流れ</title>
+    <link rel="alternate" href="https://qiita.com/hiroki_notes/items/45b5847e30b2cd61a756?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-07T20:24:14+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki_notes&quot;&gt;hiroki_notes&lt;/a&gt;&lt;br/&gt;Published: 2026-04-07T20:24:14+09:00&lt;br/&gt;Updated: 2026-04-07T20:24:14+09:00&lt;br/&gt;「MVVMって聞いたことあるけど、結局どう使えばいいの？」
+「ViewModel と Model の違いがよく分からない…」
+そんなふうに感じたことはありませんか。
+この記事では、C# × MVVM をこれから学びたい人に向けて、できるだけシンプルに、そして“実際に手を動か...</summary>
   </entry>
 </feed>
