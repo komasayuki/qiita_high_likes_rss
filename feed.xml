@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-06-05T22:40:20+09:00</updated>
+  <updated>2026-06-06T14:25:48+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -769,6 +769,14 @@ Webの勉強を始めてすぐ、こんなことありませんか？
 この記事では、そん...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:626dfa7857f2d554784e</id>
+    <title>GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/shinkai_/items/626dfa7857f2d554784e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-05T22:40:20+09:00</updated>
+    <summary type="html">Likes: 75&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinkai_&quot;&gt;shinkai_&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T07:06:07+09:00&lt;br/&gt;Updated: 2026-06-05T22:40:20+09:00&lt;br/&gt;2026年6月1日から GitHub Copilot の課金体系が変わりました。
+X（Twitter）では日本でも海外でも辛辣な意見ばかり出ています。Claude Sonnetのクレジット消費量が旧制度の9倍、Claude Opusにいたっては27倍という数字が一部ユーザー...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fd31a46683bba8bf55b7</id>
     <title>配色に悩む時間をゼロに。自然界モチーフのデザインシステム集「Morphos」を作りました</title>
     <link rel="alternate" href="https://qiita.com/Ameyanagi/items/fd31a46683bba8bf55b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -790,14 +798,6 @@ PowerPoint...</summary>
 「Web API」や「REST」について、自分なりに理解を整理したのでまとめてみます。
 今回は、イメージしやすいように
 「ファミレスの注文」に例え...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:626dfa7857f2d554784e</id>
-    <title>GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/shinkai_/items/626dfa7857f2d554784e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-05T22:40:20+09:00</updated>
-    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinkai_&quot;&gt;shinkai_&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T07:06:07+09:00&lt;br/&gt;Updated: 2026-06-05T22:40:20+09:00&lt;br/&gt;2026年6月1日から GitHub Copilot の課金体系が変わりました。
-X（Twitter）では日本でも海外でも辛辣な意見ばかり出ています。Claude Sonnetのクレジット消費量が旧制度の9倍、Claude Opusにいたっては27倍という数字が一部ユーザー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:61b10d10c63db47a64e7</id>
@@ -1063,7 +1063,7 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <title>AI時代、“ITを知らない”が普通に危険になってきた話</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/01defe8188de2123b25c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-05T13:37:41+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T13:33:19+09:00&lt;br/&gt;Updated: 2026-06-05T13:37:41+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T13:33:19+09:00&lt;br/&gt;Updated: 2026-06-05T13:37:41+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
 仕事で起きやすい“ズレ”について整理して発信しています。
 誰かの助けになれば幸いです。
@@ -2207,6 +2207,14 @@ Google Driveに画像をア...</summary>
 私はその場で固まった。S さんといえば、社内で誰もが知る伝説のエンジニアだ。30年前に...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:45e2c49630fd002cf493</id>
+    <title>Codex + Oracle DB SkillsでOracle Databaseの実行計画レビューをしてみてみた</title>
+    <link rel="alternate" href="https://qiita.com/shirok/items/45e2c49630fd002cf493?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-06T14:25:48+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T06:56:27+09:00&lt;br/&gt;Updated: 2026-06-06T14:25:48+09:00&lt;br/&gt;Oracle DB Skills は、Oracle Database向けの AIエージェント用ナレッジ集 / Skill集 です。
+Codex や Claude Code のようなAIコーディングエージェントに「Oracle DBではこう考える・こう書く・こう確認する」と...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bac7a492b1b7d5ffe510</id>
     <title>Qiita記事の毎月投稿を三年間継続できたので振り返ります！</title>
     <link rel="alternate" href="https://qiita.com/ishi720/items/bac7a492b1b7d5ffe510?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2218,16 +2226,5 @@ Google Driveに画像をア...</summary>
 本格的に記事を投稿し始めてから、気づけば3年が経ちました。
 
 投稿本数:...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f2978f2a79812aff570c</id>
-    <title>いつの間にかPowerPointのCopilotが劇的に良くなっていた件</title>
-    <link rel="alternate" href="https://qiita.com/sadabon444/items/f2978f2a79812aff570c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-02T23:06:14+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T14:07:34+09:00&lt;br/&gt;Updated: 2026-05-02T23:06:14+09:00&lt;br/&gt;「PowerPointのCopilotって、微妙かも…」
-そう思われた方は少なくないと思います（何を隠そう、私もそうです）。
-一生懸命プロンプトを書いたのに、意図とズレたスライドがドンと生成される。
-デザインもなんかビミョー。あの徒労感や失望たるや。
-ただ、実はこのビミョー...</summary>
   </entry>
 </feed>
