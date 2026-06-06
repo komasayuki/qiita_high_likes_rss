@@ -45,8 +45,8 @@
       "published": "2026-06-04T08:31:36+09:00",
       "updated": "2026-06-04T09:36:22+09:00",
       "author_name": "sgrs38",
-      "likes_count": 14,
-      "last_seen": "2026-06-06T07:18:54.920287053+00:00"
+      "likes_count": 15,
+      "last_seen": "2026-06-06T09:04:50.987693018+00:00"
     },
     {
       "key": "017c466d2353e602d8ff",
@@ -81,8 +81,8 @@
       "published": "2026-06-05T13:33:19+09:00",
       "updated": "2026-06-05T13:37:41+09:00",
       "author_name": "prum_hitomi",
-      "likes_count": 58,
-      "last_seen": "2026-06-06T07:18:54.920287053+00:00"
+      "likes_count": 59,
+      "last_seen": "2026-06-06T09:04:50.987693018+00:00"
     },
     {
       "key": "021eaec14a0970ee1c0b",
@@ -299,18 +299,6 @@
       "author_name": "emi_ndk",
       "likes_count": 99,
       "last_seen": "2026-05-27T07:44:03.319414314+00:00"
-    },
-    {
-      "key": "0b1ec01a6a41de94efa5",
-      "item_id": "0b1ec01a6a41de94efa5",
-      "title": "【セキュリティ】JWTの署名を信頼していたら `alg: none` で管理者権限を奪取された話",
-      "link": "https://qiita.com/fe1ix/items/0b1ec01a6a41de94efa5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "導入：改ざん不可能なはずのトークン\n「JWTって署名が付いてるから改ざんされませんよね？」\n認証基盤の設計レビューで、私はそう発言しました。チームの誰もが同意し、JWTベースの認証システムは予定通りリリースされました。\n数週間後、脆弱性診断レポートの一番上に赤字の【Cri...",
-      "published": "2026-04-05T11:55:39+09:00",
-      "updated": "2026-04-05T11:55:39+09:00",
-      "author_name": "fe1ix",
-      "likes_count": 17,
-      "last_seen": "2026-04-07T07:41:35.115631138+00:00"
     },
     {
       "key": "0bef2cec758e25926e5d",
@@ -1549,6 +1537,18 @@
       "last_seen": "2026-04-17T07:43:24.446082568+00:00"
     },
     {
+      "key": "411d47f0d03b2fc7d20b",
+      "item_id": "411d47f0d03b2fc7d20b",
+      "title": "AIエージェントに絶対に任せてはいけないことと、私がプロジェクトで使っているAGENTS.mdのルール",
+      "link": "https://qiita.com/TOMOSIA-HieuNT/items/411d47f0d03b2fc7d20b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "※ この記事の日本語には、少し不自然な部分があるかもしれません。AIの言語サポートを利用しながら作成しています。\n\n目次\n\nはじめに\n権限マトリックス：いつエージェントに任せ、いつ人間がレビューするか\nリスクレベル別の実例\nAIエージェントに絶対に任せてはいけない6つのこ...",
+      "published": "2026-06-05T17:33:15+09:00",
+      "updated": "2026-06-05T17:37:58+09:00",
+      "author_name": "TOMOSIA-HieuNT",
+      "likes_count": 10,
+      "last_seen": "2026-06-06T09:04:50.987693018+00:00"
+    },
+    {
       "key": "41300417840aa107472e",
       "item_id": "41300417840aa107472e",
       "title": "【2026年4月更新】Claude Codeの役に立つフロントデザインのskills10選",
@@ -1702,7 +1702,7 @@
       "updated": "2026-06-06T14:25:48+09:00",
       "author_name": "shirok",
       "likes_count": 25,
-      "last_seen": "2026-06-06T07:18:54.920287053+00:00"
+      "last_seen": "2026-06-06T09:04:50.987693018+00:00"
     },
     {
       "key": "4617d2b529ffbeb31e36",
@@ -2493,8 +2493,8 @@
       "published": "2026-06-05T07:06:07+09:00",
       "updated": "2026-06-05T22:40:20+09:00",
       "author_name": "shinkai_",
-      "likes_count": 55,
-      "last_seen": "2026-06-06T07:18:54.920287053+00:00"
+      "likes_count": 61,
+      "last_seen": "2026-06-06T09:04:50.987693018+00:00"
     },
     {
       "key": "62c9ec8a9fd0f06311ec",
@@ -2893,28 +2893,16 @@
       "last_seen": "2026-05-11T07:32:00.807889097+00:00"
     },
     {
-      "key": "6fff369a0f20223a821f",
-      "item_id": "6fff369a0f20223a821f",
-      "title": "ODBCドライバーは何をしているのか？ ─ DB接続の「見えない翻訳者」を理解する",
-      "link": "https://qiita.com/ktdatascience/items/6fff369a0f20223a821f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nデータベースに接続するとき、「ODBCドライバーをインストールしてください」と言われた経験はないでしょうか。言われるがままにインストールして、接続できたらそれで終わり。ODBCドライバーが裏側で何をしているのか、なぜそれが必要なのかを深く考える機会は意外と少ない...",
-      "published": "2026-04-04T12:15:00+09:00",
-      "updated": "2026-04-04T12:15:00+09:00",
-      "author_name": "ktdatascience",
-      "likes_count": 32,
-      "last_seen": "2026-04-07T07:41:35.115631138+00:00"
-    },
-    {
       "key": "70030a76b2b634f1166a",
       "item_id": "70030a76b2b634f1166a",
       "title": "Microsoft 365 Copilot の ROI、どう考える？",
       "link": "https://qiita.com/Takashi_Masumori/items/70030a76b2b634f1166a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n最近、お客様から「Microsoft 365 Copilot を導入したが、ROI が出ているか報告してほしい」と求められて、どのようにデータを集計すればいいか悩んでいるという相談を聞くことがあります。\nもちろん、企業として投資判断のために定量的な根拠を求めるこ...",
+      "summary": "はじめに\nお客様から「Microsoft 365 Copilot を導入したが、ROI が出ているか報告してほしい」と求められて、どのようにデータを集計すればいいか悩んでいるという相談をいただくことがあります。\nもちろん、企業として投資判断のために定量的な根拠を求めること...",
       "published": "2026-06-05T08:43:57+09:00",
       "updated": "2026-06-05T22:47:32+09:00",
       "author_name": "Takashi_Masumori",
-      "likes_count": 17,
-      "last_seen": "2026-06-06T07:18:54.920287053+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-06-06T09:04:50.987693018+00:00"
     },
     {
       "key": "70ddd373616e55ad929f",
@@ -3709,18 +3697,6 @@
       "last_seen": "2026-04-17T19:34:07.061520968+00:00"
     },
     {
-      "key": "8db8c38e23e2196258b5",
-      "item_id": "8db8c38e23e2196258b5",
-      "title": "「コードを書くより、知識を編む」元Tesla AI責任者が公開した、AIにWikiを自律生成させる異次元の活用術",
-      "link": "https://qiita.com/KIITA-DAISUKI/items/8db8c38e23e2196258b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "元TeslaのAI責任者であり、OpenAIの創設メンバーの一人でもあるアンジェレイ・カーパシー（Andrej Karpathy）氏。AI界の巨星である彼が、最近「コードを書くこと以上にトークンを費やしている」と語る、驚きのLLM活用術を公開しました。\n今回は、彼が提唱する...",
-      "published": "2026-04-04T10:26:00+09:00",
-      "updated": "2026-04-04T10:26:00+09:00",
-      "author_name": "KIITA-DAISUKI",
-      "likes_count": 11,
-      "last_seen": "2026-04-07T07:41:35.115631138+00:00"
-    },
-    {
       "key": "8e6607a09cb8ff86c298",
       "item_id": "8e6607a09cb8ff86c298",
       "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
@@ -4333,18 +4309,6 @@
       "last_seen": "2026-05-04T19:42:38.551928551+00:00"
     },
     {
-      "key": "a6c39eebdd3c62d9e35f",
-      "item_id": "a6c39eebdd3c62d9e35f",
-      "title": "【備忘録】Microsoft 365 Copilot Coworkとは何か ― Work IQを基盤としたエージェント実行機能として整理する",
-      "link": "https://qiita.com/Tadataka_Takahashi/items/a6c39eebdd3c62d9e35f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n\nMicrosoft 365 CopilotやCopilot Coworkについて、AI Tourなどでさまざまな概念（Work IQ / Foundry IQ / Fabric IQ など）が提示されていますが、個人的に整理が難しかったため、構造ベースでまとめ...",
-      "published": "2026-04-04T06:26:06+09:00",
-      "updated": "2026-04-04T06:26:06+09:00",
-      "author_name": "Tadataka_Takahashi",
-      "likes_count": 19,
-      "last_seen": "2026-04-07T07:41:35.115631138+00:00"
-    },
-    {
       "key": "a78a888ce0c4d2364232",
       "item_id": "a78a888ce0c4d2364232",
       "title": "AI が Windows を自律操作するって本当？ Project Opal (Frontier) を試して分かった「実用的な使いどころ」",
@@ -4885,18 +4849,6 @@
       "last_seen": "2026-05-09T19:34:30.859364234+00:00"
     },
     {
-      "key": "b7f5cac745d374e64360",
-      "item_id": "b7f5cac745d374e64360",
-      "title": "AWS AIFに1,000点満点で合格した勉強方法",
-      "link": "https://qiita.com/yuki01_a/items/b7f5cac745d374e64360?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n\nみなさん、こんにちは～\n\nこの度、AWS Certified AI Practitioner（以下AIF）に1,000点満点で合格できました！\n\nこの記事では、AIFの勉強方法、学習時に意識したことを書いていきます。\n\n自己紹介\n\n社会人歴：1年目\n職種：SE...",
-      "published": "2026-04-06T09:31:50+09:00",
-      "updated": "2026-04-06T09:31:51+09:00",
-      "author_name": "yuki01_a",
-      "likes_count": 10,
-      "last_seen": "2026-04-07T07:41:35.115631138+00:00"
-    },
-    {
       "key": "b987f390dd2130bc4bae",
       "item_id": "b987f390dd2130bc4bae",
       "title": "【ついに我が家も】Cloudflareでゼロトラスト環境構築01【Zero Trust】",
@@ -5086,7 +5038,7 @@
       "updated": "2026-06-03T17:25:34+09:00",
       "author_name": "ntaka329",
       "likes_count": 13,
-      "last_seen": "2026-06-06T07:18:54.920287053+00:00"
+      "last_seen": "2026-06-06T09:04:50.987693018+00:00"
     },
     {
       "key": "c0b02dcff62e795a2b3b",
@@ -5819,18 +5771,6 @@
       "author_name": "Rikusato",
       "likes_count": 36,
       "last_seen": "2026-05-28T07:39:44.939409781+00:00"
-    },
-    {
-      "key": "d97ded3a9321aaeeb042",
-      "item_id": "d97ded3a9321aaeeb042",
-      "title": "新登場の OCI Enterprise AI Agents で MCPを使ったエージェントを作ろう！",
-      "link": "https://qiita.com/yuji-arakawa/items/d97ded3a9321aaeeb042?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nOCI Enterprise AI は、Oracle Cloud Infrastructure（OCI）上で LLMや埋め込みモデルへのAPIアクセス、AI エージェントの構築、デプロイ、ガバナンスをワンストップで提供するマネージドサービスです。Cohere、...",
-      "published": "2026-04-05T00:58:23+09:00",
-      "updated": "2026-04-06T14:03:04+09:00",
-      "author_name": "yuji-arakawa",
-      "likes_count": 14,
-      "last_seen": "2026-04-07T07:41:35.115631138+00:00"
     },
     {
       "key": "da0252c10a4128b1f4a0",
