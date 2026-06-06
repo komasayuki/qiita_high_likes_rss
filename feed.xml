@@ -1713,15 +1713,6 @@ AWSは2026年5月11日、Claude Platform on AWSの一般提供開始を発表し
 Claude Platform on AWSは、Anthropicが提供するネイティブなClaude Platf...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3f7faeea52d7eec01b0f</id>
-    <title>Bonsai-8B考察 — 1-bit LLMは使い物になるのか</title>
-    <link rel="alternate" href="https://qiita.com/y0kud4/items/3f7faeea52d7eec01b0f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-05T00:47:00+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/y0kud4&quot;&gt;y0kud4&lt;/a&gt;&lt;br/&gt;Published: 2026-04-05T00:47:00+09:00&lt;br/&gt;Updated: 2026-04-05T00:47:00+09:00&lt;br/&gt;Bonsai-8B考察 — 1-bit LLMは使い物になるのか
-
-自分用メモとして書きました。PrismML（Caltech発）がリリースした真の1-bit LLM「Bonsai-8B」。モデルサイズわずか1.15GB。海外LLMコミュニティの議論を調べ、技術的な仕組み...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:c63073fef7fb87d9f472</id>
     <title>PRを出す前にコミット履歴を整えろと先輩に叩き込まれた話 〜git rebase -i 入門〜</title>
     <link rel="alternate" href="https://qiita.com/shimitaro/items/c63073fef7fb87d9f472?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1819,17 +1810,6 @@ CSSやJavaScrip...</summary>
     <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibuya-ys&quot;&gt;shibuya-ys&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T10:16:31+09:00&lt;br/&gt;Updated: 2026-04-20T10:16:32+09:00&lt;br/&gt;はじめに
 図を描くことは、物事の理解を深めたり、思考を整理して誰かに説明したりする上で非常に便利です。しかし、「メモ書きなどで作図ツールを使うのはめんどくさい」と感じた経験がある方も多いのではないでしょうか
 そんな方におすすめなのが、Obsidianのコミュニティプラグイ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a6312c14e6352376ec00</id>
-    <title>Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/a6312c14e6352376ec00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-04T22:04:01+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-04T20:24:53+09:00&lt;br/&gt;Updated: 2026-04-04T22:04:01+09:00&lt;br/&gt;はじめに
-
-こんばんは、mirukyです。
-個人的にAIにデザインを指定するのって、意外と難しいと思っています。
-皆さん、DESIGN.mdをご存知でしょうか。GoogleがStitchプロジェクトの一部として策定した、マークダウンベースのデザインシステム仕様です。「AI...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f9143a90094601631b6b</id>
@@ -2151,16 +2131,6 @@ ASP...</summary>
 この記事では、C# × MVVM をこれから学びたい人に向けて、できるだけシンプルに、そして“実際に手を動か...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:62c9ec8a9fd0f06311ec</id>
-    <title>Raspberry Pi 4 で地デジ録画サーバーを構築する（Mirakurun + EPGStation + HWエンコード）</title>
-    <link rel="alternate" href="https://qiita.com/YMatsubara/items/62c9ec8a9fd0f06311ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-04T23:48:59+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YMatsubara&quot;&gt;YMatsubara&lt;/a&gt;&lt;br/&gt;Published: 2026-04-04T23:48:59+09:00&lt;br/&gt;Updated: 2026-04-04T23:48:59+09:00&lt;br/&gt;この記事は Claude Code（Anthropic） を活用して執筆しています。システム構築自体もClaude Codeと対話しながら設定ファイルの作成・デバッグ・スクリプト開発を行いました。
-
-はじめに
-子供にテレビを占領されてしまい、自分の見たい番組が見られ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:f4531c7266702b1419f8</id>
     <title>【図解】IT初心者でもわかる！クリーンアーキテクチャの基本</title>
     <link rel="alternate" href="https://qiita.com/Yamashita_Sosuke/items/f4531c7266702b1419f8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2226,5 +2196,40 @@ Codex や Claude Code のようなAIコーディングエージェントに「Or
 本格的に記事を投稿し始めてから、気づけば3年が経ちました。
 
 投稿本数:...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:f2978f2a79812aff570c</id>
+    <title>いつの間にかPowerPointのCopilotが劇的に良くなっていた件</title>
+    <link rel="alternate" href="https://qiita.com/sadabon444/items/f2978f2a79812aff570c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-02T23:06:14+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T14:07:34+09:00&lt;br/&gt;Updated: 2026-05-02T23:06:14+09:00&lt;br/&gt;「PowerPointのCopilotって、微妙かも…」
+そう思われた方は少なくないと思います（何を隠そう、私もそうです）。
+一生懸命プロンプトを書いたのに、意図とズレたスライドがドンと生成される。
+デザインもなんかビミョー。あの徒労感や失望たるや。
+ただ、実はこのビミョー...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:03e060850144899fd284</id>
+    <title>xUnit で始める C# 単体テスト入門</title>
+    <link rel="alternate" href="https://qiita.com/hiroki_notes/items/03e060850144899fd284?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-22T16:51:33+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiroki_notes&quot;&gt;hiroki_notes&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T16:51:33+09:00&lt;br/&gt;Updated: 2026-04-22T16:51:33+09:00&lt;br/&gt;C# で開発をしていると、単体テストを書く機会は必ず訪れます。
+ただ、いざ書こうとすると「どこから手をつければいいんだろう」と迷うことも多いですよね。
+この記事では、xUnit を使った単体テストの基本を中心に、
+実務でつまずきやすいポイントや、外部依存を扱う際の考え方も交...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3fdc666366cf99fd1116</id>
+    <title>ClaudeでSEOチェッカーとQiita自動いいねツールを作ってみた</title>
+    <link rel="alternate" href="https://qiita.com/aito1234/items/3fdc666366cf99fd1116?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-17T13:59:37+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aito1234&quot;&gt;aito1234&lt;/a&gt;&lt;br/&gt;Published: 2026-04-15T21:03:08+09:00&lt;br/&gt;Updated: 2026-04-17T13:59:37+09:00&lt;br/&gt;はじめに
+最近、Claudeについて学ぶ機会があり、
+前回は、「作ったものをどう届けるか」という視点の重要性について整理しました。
+
+前回：AI時代に実装だけでは足りないと気づいた話
+
+今回はそこから一歩進めて、「実際に作るとどうなるのか？」を検証してみました。
+従来の...</summary>
   </entry>
 </feed>

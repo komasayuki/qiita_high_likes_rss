@@ -46,7 +46,7 @@
       "updated": "2026-06-04T09:36:22+09:00",
       "author_name": "sgrs38",
       "likes_count": 15,
-      "last_seen": "2026-06-06T18:39:26.254469576+00:00"
+      "last_seen": "2026-06-06T19:41:15.656128858+00:00"
     },
     {
       "key": "017c466d2353e602d8ff",
@@ -82,7 +82,7 @@
       "updated": "2026-06-05T13:37:41+09:00",
       "author_name": "prum_hitomi",
       "likes_count": 61,
-      "last_seen": "2026-06-06T18:39:26.254469576+00:00"
+      "last_seen": "2026-06-06T19:41:15.656128858+00:00"
     },
     {
       "key": "021eaec14a0970ee1c0b",
@@ -431,18 +431,6 @@
       "author_name": "aito1234",
       "likes_count": 25,
       "last_seen": "2026-04-20T19:34:45.566150128+00:00"
-    },
-    {
-      "key": "1373aa0dba37a5a3683c",
-      "item_id": "1373aa0dba37a5a3683c",
-      "title": "総務省が出したAIセキュリティのガイドラインを読んで軽くまとめた",
-      "link": "https://qiita.com/naokami/items/1373aa0dba37a5a3683c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "令和8年3月、総務省が「AIのセキュリティ確保のための技術的対策に係るガイドライン」を公開した。LLMを組み込んだシステムが普及してきた中で、脅威が顕在化してきたので整理しましたという内容。対象読者はAI開発者とAI提供者。\n\n脅威は主に2種類\nガイドラインが主に扱う...",
-      "published": "2026-04-05T06:04:42+09:00",
-      "updated": "2026-04-05T06:04:42+09:00",
-      "author_name": "naokami",
-      "likes_count": 18,
-      "last_seen": "2026-04-07T19:34:09.486633379+00:00"
     },
     {
       "key": "138f5b385f6ae1fc2e31",
@@ -1477,18 +1465,6 @@
       "last_seen": "2026-05-17T07:12:22.200429454+00:00"
     },
     {
-      "key": "3f7faeea52d7eec01b0f",
-      "item_id": "3f7faeea52d7eec01b0f",
-      "title": "Bonsai-8B考察 — 1-bit LLMは使い物になるのか",
-      "link": "https://qiita.com/y0kud4/items/3f7faeea52d7eec01b0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Bonsai-8B考察 — 1-bit LLMは使い物になるのか\n\n自分用メモとして書きました。PrismML（Caltech発）がリリースした真の1-bit LLM「Bonsai-8B」。モデルサイズわずか1.15GB。海外LLMコミュニティの議論を調べ、技術的な仕組み...",
-      "published": "2026-04-05T00:47:00+09:00",
-      "updated": "2026-04-05T00:47:00+09:00",
-      "author_name": "y0kud4",
-      "likes_count": 36,
-      "last_seen": "2026-04-07T19:34:09.486633379+00:00"
-    },
-    {
       "key": "3fdc666366cf99fd1116",
       "item_id": "3fdc666366cf99fd1116",
       "title": "ClaudeでSEOチェッカーとQiita自動いいねツールを作ってみた",
@@ -1546,7 +1522,7 @@
       "updated": "2026-06-05T17:37:58+09:00",
       "author_name": "TOMOSIA-HieuNT",
       "likes_count": 14,
-      "last_seen": "2026-06-06T18:39:26.254469576+00:00"
+      "last_seen": "2026-06-06T19:41:15.656128858+00:00"
     },
     {
       "key": "41300417840aa107472e",
@@ -1702,7 +1678,7 @@
       "updated": "2026-06-06T14:25:48+09:00",
       "author_name": "shirok",
       "likes_count": 27,
-      "last_seen": "2026-06-06T18:39:26.254469576+00:00"
+      "last_seen": "2026-06-06T19:41:15.656128858+00:00"
     },
     {
       "key": "4617d2b529ffbeb31e36",
@@ -2374,7 +2350,7 @@
       "updated": "2026-06-04T03:30:56+09:00",
       "author_name": "MarkInada",
       "likes_count": 12,
-      "last_seen": "2026-06-06T18:39:26.254469576+00:00"
+      "last_seen": "2026-06-06T19:41:15.656128858+00:00"
     },
     {
       "key": "5dde0a7259d142d88551",
@@ -2506,19 +2482,7 @@
       "updated": "2026-06-05T22:40:20+09:00",
       "author_name": "shinkai_",
       "likes_count": 78,
-      "last_seen": "2026-06-06T18:39:26.254469576+00:00"
-    },
-    {
-      "key": "62c9ec8a9fd0f06311ec",
-      "item_id": "62c9ec8a9fd0f06311ec",
-      "title": "Raspberry Pi 4 で地デジ録画サーバーを構築する（Mirakurun + EPGStation + HWエンコード）",
-      "link": "https://qiita.com/YMatsubara/items/62c9ec8a9fd0f06311ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "この記事は Claude Code（Anthropic） を活用して執筆しています。システム構築自体もClaude Codeと対話しながら設定ファイルの作成・デバッグ・スクリプト開発を行いました。\n\nはじめに\n子供にテレビを占領されてしまい、自分の見たい番組が見られ...",
-      "published": "2026-04-04T23:48:59+09:00",
-      "updated": "2026-04-04T23:48:59+09:00",
-      "author_name": "YMatsubara",
-      "likes_count": 29,
-      "last_seen": "2026-04-07T19:34:09.486633379+00:00"
+      "last_seen": "2026-06-06T19:41:15.656128858+00:00"
     },
     {
       "key": "6303ef4ef36779011972",
@@ -2914,7 +2878,7 @@
       "updated": "2026-06-05T22:47:32+09:00",
       "author_name": "Takashi_Masumori",
       "likes_count": 21,
-      "last_seen": "2026-06-06T18:39:26.254469576+00:00"
+      "last_seen": "2026-06-06T19:41:15.656128858+00:00"
     },
     {
       "key": "70ddd373616e55ad929f",
@@ -2999,18 +2963,6 @@
       "author_name": "y_abe_bc",
       "likes_count": 10,
       "last_seen": "2026-05-23T07:09:06.669759773+00:00"
-    },
-    {
-      "key": "73b1a59a513a5eee98c8",
-      "item_id": "73b1a59a513a5eee98c8",
-      "title": "【個人開発】泳げば泳ぐほどモテる。水泳×マッチングアプリ「スイモテ」を作りました【React × Supabase × Firebase】",
-      "link": "https://qiita.com/jota9613/items/73b1a59a513a5eee98c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "⚠️ 本サービスは開発中のポートフォリオ作品であり、一般ユーザー向けには公開しておりません。\nマッチングアプリとして実運用する際には、出会い系サイト規制法に基づく届出・年齢確認等の法的対応が必要です。\n\nはじめに\n「マッチングアプリ疲れ」という言葉を最近よく聞きます。\n...",
-      "published": "2026-04-05T16:56:02+09:00",
-      "updated": "2026-04-05T17:58:44+09:00",
-      "author_name": "jota9613",
-      "likes_count": 27,
-      "last_seen": "2026-04-07T19:34:09.486633379+00:00"
     },
     {
       "key": "73b6116174279541f601",
@@ -4273,30 +4225,6 @@
       "last_seen": "2026-05-31T19:38:59.490943412+00:00"
     },
     {
-      "key": "a606c4c3fde199689afc",
-      "item_id": "a606c4c3fde199689afc",
-      "title": "画像AI大全　1-1　AIの全体像",
-      "link": "https://qiita.com/c60evaporator/items/a606c4c3fde199689afc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n長く続くAIブームでは\n\nディープラーニング\n基盤モデル\n生成AI\nフィジカルAI\n\nなど、その進化と共に数々のバズワードが生まれました。\nこれらのバズワードは誇張されてアピールされることもありますが、本質的にはAIのパラダイムシフトを象徴する重要な意味を持ちま...",
-      "published": "2026-04-05T06:14:26+09:00",
-      "updated": "2026-04-05T13:48:34+09:00",
-      "author_name": "c60evaporator",
-      "likes_count": 14,
-      "last_seen": "2026-04-07T19:34:09.486633379+00:00"
-    },
-    {
-      "key": "a6312c14e6352376ec00",
-      "item_id": "a6312c14e6352376ec00",
-      "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
-      "link": "https://qiita.com/miruky/items/a6312c14e6352376ec00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n\nこんばんは、mirukyです。\n個人的にAIにデザインを指定するのって、意外と難しいと思っています。\n皆さん、DESIGN.mdをご存知でしょうか。GoogleがStitchプロジェクトの一部として策定した、マークダウンベースのデザインシステム仕様です。「AI...",
-      "published": "2026-04-04T20:24:53+09:00",
-      "updated": "2026-04-04T22:04:01+09:00",
-      "author_name": "miruky",
-      "likes_count": 34,
-      "last_seen": "2026-04-07T19:34:09.486633379+00:00"
-    },
-    {
       "key": "a63e0a8ba2f1eeca8357",
       "item_id": "a63e0a8ba2f1eeca8357",
       "title": "KotlinのNull安全をJavaのOptionalと比較して理解する",
@@ -5050,7 +4978,7 @@
       "updated": "2026-06-03T17:25:34+09:00",
       "author_name": "ntaka329",
       "likes_count": 14,
-      "last_seen": "2026-06-06T18:39:26.254469576+00:00"
+      "last_seen": "2026-06-06T19:41:15.656128858+00:00"
     },
     {
       "key": "c0b02dcff62e795a2b3b",
@@ -6815,18 +6743,6 @@
       "author_name": "miruky",
       "likes_count": 107,
       "last_seen": "2026-04-14T07:43:53.596396199+00:00"
-    },
-    {
-      "key": "fce80534fb495f532c2a",
-      "item_id": "fce80534fb495f532c2a",
-      "title": "【Git初心者向け】新人の頃に欲しかったGitコマンドまとめ（コピペOK・用途別）",
-      "link": "https://qiita.com/redwings_a/items/fce80534fb495f532c2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "慣れるまで大変なGit操作\nGitのコマンド、毎回検索していませんか？\n慣れるまで大変ですよね……調べるせいで時間も取られます。\n\n「git stash どう戻すんだっけ？」\n「コミットにした変更内容、どう直すんだっけ？」\n「rebase中にコンフリクト出たけど、どうすれ...",
-      "published": "2026-04-06T07:47:25+09:00",
-      "updated": "2026-04-07T13:57:41+09:00",
-      "author_name": "redwings_a",
-      "likes_count": 13,
-      "last_seen": "2026-04-07T19:34:09.486633379+00:00"
     },
     {
       "key": "fd1be5f3be4170a11a44",
