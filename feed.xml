@@ -448,6 +448,14 @@ Kindleを使っていて気になったのですが、Kindleの背景色の設�
 同時に公式ブログ「Best Practices for Using Claude Opus 4.7 with Claude Code」が公開され、Claude Code作者のBor...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:626dfa7857f2d554784e</id>
+    <title>GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/shinkai_/items/626dfa7857f2d554784e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-07T14:32:57+09:00</updated>
+    <summary type="html">Likes: 93&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinkai_&quot;&gt;shinkai_&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T07:06:07+09:00&lt;br/&gt;Updated: 2026-06-07T14:32:57+09:00&lt;br/&gt;2026年6月1日から GitHub Copilot の課金体系が変わりました。
+X（Twitter）では日本でも海外でも辛辣な意見ばかり出ています。Claude Sonnetのクレジット消費量が旧制度の9倍、Claude Opusにいたっては27倍という数字が一部ユーザー...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:30ed3d885da5bb605460</id>
     <title>「自分にエンジニアなんて無理かも」と思ってる人へ。最初に知ってほしい“仕事の進め方”</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/30ed3d885da5bb605460?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -602,14 +610,6 @@ GitHubを開き、src/ フォルダの中身を見た瞬間、目の前が真っ
     <summary type="html">Likes: 85&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-05-07T19:18:36+09:00&lt;br/&gt;Updated: 2026-05-07T19:18:36+09:00&lt;br/&gt;前書き
 AWS MCP サーバー、結構前からGA するらしいという噂は流れていたんですが、何回か見送られて、昨日（2026/05/06）でようやく GA したので、さっそく使ってみます
 これまで、 AWS には aws-api-mcp-server や aws-knowl...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:626dfa7857f2d554784e</id>
-    <title>GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/shinkai_/items/626dfa7857f2d554784e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-07T14:32:57+09:00</updated>
-    <summary type="html">Likes: 84&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinkai_&quot;&gt;shinkai_&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T07:06:07+09:00&lt;br/&gt;Updated: 2026-06-07T14:32:57+09:00&lt;br/&gt;2026年6月1日から GitHub Copilot の課金体系が変わりました。
-X（Twitter）では日本でも海外でも辛辣な意見ばかり出ています。Claude Sonnetのクレジット消費量が旧制度の9倍、Claude Opusにいたっては27倍という数字が一部ユーザー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:09dd4f6328fe3b35aae3</id>
@@ -1146,21 +1146,6 @@ AI駆動開発の世界では、今さまざまな手法やキーワードが次
 Railsの仕組みを一言でいうと、「超優秀なレ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:021eaec14a0970ee1c0b</id>
-    <title>AI に「デザインの判断力」を与えるスキル `ui-ux-pro-max-skill` を徹底解説してみた — Codex CLI 実践編</title>
-    <link rel="alternate" href="https://qiita.com/engchina/items/021eaec14a0970ee1c0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-06T11:08:54+09:00</updated>
-    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-04-05T15:20:50+09:00&lt;br/&gt;Updated: 2026-04-06T11:08:54+09:00&lt;br/&gt;まず、このプロジェクトのスター数を見てほしい
-GitHub スター数：
-
-フォーク数：
-
-そのスターの伸び方がこちらです（クリックするとリアルタイムグラフが開きます）：
-
-リリースからほぼ垂直に伸びているのが分かります。
-なぜこれほど注目されているのか——今回の記事で、そ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:e644e9b620ee1c8d3c1b</id>
     <title>【初心者必見】今から追いつくClaude Code 入門・徹底解説</title>
     <link rel="alternate" href="https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1402,21 +1387,6 @@ AST（抽象構文木）から「構造」だけを抽出したマップこそ�
 SOLID 原則は有名ですが、実際の現場ではそこまで厳密に意識していないことも多いですよね。
 むしろ、もっとシンプルで、日常的に効く原則のほうが役に立つ場面は多いです。
 そこで今回は DRY、KIS...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:96cdc8bcd48d8a193556</id>
-    <title>Raspberry Pi 4でBonsaiを動かしたよ</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/96cdc8bcd48d8a193556?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-05T13:52:23+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-04-05T13:52:23+09:00&lt;br/&gt;Updated: 2026-04-05T13:52:23+09:00&lt;br/&gt;こちらを見まして、二番煎じ記事でございます。
-
-Bonsaiという新しいLLMで、1ビットモデルなんですって。
-
-細かいことはよくわかりませんが、 Raspberry PiでLLMが動く というところに興味がありまして、やってみました。
-
-環境
-
-Raspberry...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f02c34ae6dc994cd3084</id>
@@ -2231,5 +2201,23 @@ Codex や Claude Code のようなAIコーディングエージェントに「Or
 
 今回はそこから一歩進めて、「実際に作るとどうなるのか？」を検証してみました。
 従来の...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d7003fc8f8941f886caf</id>
+    <title>AIエージェントの仕組みと振る舞いを整理してみた</title>
+    <link rel="alternate" href="https://qiita.com/aito1234/items/d7003fc8f8941f886caf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-09T18:36:33+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aito1234&quot;&gt;aito1234&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T18:36:33+09:00&lt;br/&gt;Updated: 2026-04-09T18:36:33+09:00&lt;br/&gt;はじめに
+最近、Claude Codeに関する情報に触れる機会があり、その中で「AIエージェント」という概念について学びました。
+これまで単なるチャットツールという認識が強かったのですが、より自律的にタスクを実行する仕組みであることを知り、AIエージェントでできることや実...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:70030a76b2b634f1166a</id>
+    <title>Microsoft 365 Copilot の ROI、どう考える？</title>
+    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/70030a76b2b634f1166a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-05T22:47:32+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T08:43:57+09:00&lt;br/&gt;Updated: 2026-06-05T22:47:32+09:00&lt;br/&gt;はじめに
+お客様から「Microsoft 365 Copilot を導入したが、ROI が出ているか報告してほしい」と求められて、どのようにデータを集計すればいいか悩んでいるという相談をいただくことがあります。
+もちろん、企業として投資判断のために定量的な根拠を求めること...</summary>
   </entry>
 </feed>
