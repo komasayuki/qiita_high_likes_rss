@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-06-07T14:32:57+09:00</updated>
+  <updated>2026-06-08T08:18:48+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -319,6 +319,14 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 「短縮URLサービス作りました！ よかったら使ってく...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:626dfa7857f2d554784e</id>
+    <title>GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/shinkai_/items/626dfa7857f2d554784e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-08T08:18:48+09:00</updated>
+    <summary type="html">Likes: 108&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinkai_&quot;&gt;shinkai_&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T07:06:07+09:00&lt;br/&gt;Updated: 2026-06-08T08:18:48+09:00&lt;br/&gt;2026年6月1日から GitHub Copilot の課金体系が変わりました。
+X（Twitter）では日本でも海外でも辛辣な意見ばかり出ています。Claude Sonnetのクレジット消費量が旧制度の9倍、Claude Opusにいたっては27倍という数字が一部ユーザー...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
     <title>【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/fcab851c5351f79b481d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -327,14 +335,6 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 
 こんばんは、mirukyです。
 2026年3月31日、npmの Axios パッケージ（週間1億ダウンロード）がサプライチェーン攻撃を受けました。攻撃者はメンテナーへの標的型ソーシャルエンジニアリングでセッションを乗っ取り、悪意ある依存 plain-crypt...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:626dfa7857f2d554784e</id>
-    <title>GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/shinkai_/items/626dfa7857f2d554784e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-07T14:32:57+09:00</updated>
-    <summary type="html">Likes: 106&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinkai_&quot;&gt;shinkai_&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T07:06:07+09:00&lt;br/&gt;Updated: 2026-06-07T14:32:57+09:00&lt;br/&gt;2026年6月1日から GitHub Copilot の課金体系が変わりました。
-X（Twitter）では日本でも海外でも辛辣な意見ばかり出ています。Claude Sonnetのクレジット消費量が旧制度の9倍、Claude Opusにいたっては27倍という数字が一部ユーザー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1ffbc05f07355231f420</id>
@@ -899,6 +899,19 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 新人エンジニア...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4b35eb4e157becfac073</id>
+    <title>【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/4b35eb4e157becfac073?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-06T19:05:05+09:00</updated>
+    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-06-06T19:04:20+09:00&lt;br/&gt;Updated: 2026-06-06T19:05:05+09:00&lt;br/&gt;はじめに
+
+（30秒で読む結論）
+
+Mermaidで構造だけ書く → それを「インフォグラフィック化」専用のGemに投げる → 白背景・日本語ゴシック体のビジネス向け図解が返ってくる
+肝は いきなり長文を投げないこと。構造をMermaidで先に固定してから清書させる
+日...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3688cf515c14f7471ed4</id>
     <title>クソバズワード「ハーネスエンジニアリング」と向き合う</title>
     <link rel="alternate" href="https://qiita.com/retore/items/3688cf515c14f7471ed4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1120,19 +1133,6 @@ AI駆動開発の世界では、今さまざまな手法やキーワードが次
 
 結論（先にシンプルに）
 Railsの仕組みを一言でいうと、「超優秀なレ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4b35eb4e157becfac073</id>
-    <title>【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/4b35eb4e157becfac073?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-06T19:05:05+09:00</updated>
-    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-06-06T19:04:20+09:00&lt;br/&gt;Updated: 2026-06-06T19:05:05+09:00&lt;br/&gt;はじめに
-
-（30秒で読む結論）
-
-Mermaidで構造だけ書く → それを「インフォグラフィック化」専用のGemに投げる → 白背景・日本語ゴシック体のビジネス向け図解が返ってくる
-肝は いきなり長文を投げないこと。構造をMermaidで先に固定してから清書させる
-日...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e644e9b620ee1c8d3c1b</id>
@@ -2080,6 +2080,15 @@ ASP...</summary>
 この記事では、C# × MVVM をこれから学びたい人に向けて、できるだけシンプルに、そして“実際に手を動か...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:70030a76b2b634f1166a</id>
+    <title>Microsoft 365 Copilot の ROI、どう考える？</title>
+    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/70030a76b2b634f1166a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-05T22:47:32+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T08:43:57+09:00&lt;br/&gt;Updated: 2026-06-05T22:47:32+09:00&lt;br/&gt;はじめに
+お客様から「Microsoft 365 Copilot を導入したが、ROI が出ているか報告してほしい」と求められて、どのようにデータを集計すればいいか悩んでいるという相談をいただくことがあります。
+もちろん、企業として投資判断のために定量的な根拠を求めること...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f4531c7266702b1419f8</id>
     <title>【図解】IT初心者でもわかる！クリーンアーキテクチャの基本</title>
     <link rel="alternate" href="https://qiita.com/Yamashita_Sosuke/items/f4531c7266702b1419f8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2132,15 +2141,6 @@ Google Driveに画像をア...</summary>
     <updated>2026-06-06T14:25:48+09:00</updated>
     <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T06:56:27+09:00&lt;br/&gt;Updated: 2026-06-06T14:25:48+09:00&lt;br/&gt;Oracle DB Skills は、Oracle Database向けの AIエージェント用ナレッジ集 / Skill集 です。
 Codex や Claude Code のようなAIコーディングエージェントに「Oracle DBではこう考える・こう書く・こう確認する」と...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:70030a76b2b634f1166a</id>
-    <title>Microsoft 365 Copilot の ROI、どう考える？</title>
-    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/70030a76b2b634f1166a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-05T22:47:32+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T08:43:57+09:00&lt;br/&gt;Updated: 2026-06-05T22:47:32+09:00&lt;br/&gt;はじめに
-お客様から「Microsoft 365 Copilot を導入したが、ROI が出ているか報告してほしい」と求められて、どのようにデータを集計すればいいか悩んでいるという相談をいただくことがあります。
-もちろん、企業として投資判断のために定量的な根拠を求めること...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bac7a492b1b7d5ffe510</id>
