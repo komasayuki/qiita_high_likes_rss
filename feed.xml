@@ -227,6 +227,19 @@ AI生成ゼロデイの完全分析
 OWASP LLM Top 10 2026の全...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4b35eb4e157becfac073</id>
+    <title>【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/4b35eb4e157becfac073?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-06T19:05:05+09:00</updated>
+    <summary type="html">Likes: 137&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-06-06T19:04:20+09:00&lt;br/&gt;Updated: 2026-06-06T19:05:05+09:00&lt;br/&gt;はじめに
+
+（30秒で読む結論）
+
+Mermaidで構造だけ書く → それを「インフォグラフィック化」専用のGemに投げる → 白背景・日本語ゴシック体のビジネス向け図解が返ってくる
+肝は いきなり長文を投げないこと。構造をMermaidで先に固定してから清書させる
+日...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c2df4f23d73a8e05f37f</id>
     <title>GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/c2df4f23d73a8e05f37f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -248,6 +261,14 @@ GWは、まとまった学習時間を確保しやすい数少ないタイミン
 そんな私ですが、勉強の過程や実務を通じてデータベース（DB）に関してはかなり自信がついたので、まとめたナレッジを共有できれば...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:626dfa7857f2d554784e</id>
+    <title>GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/shinkai_/items/626dfa7857f2d554784e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-08T08:18:48+09:00</updated>
+    <summary type="html">Likes: 133&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinkai_&quot;&gt;shinkai_&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T07:06:07+09:00&lt;br/&gt;Updated: 2026-06-08T08:18:48+09:00&lt;br/&gt;2026年6月1日から GitHub Copilot の課金体系が変わりました。
+X（Twitter）では日本でも海外でも辛辣な意見ばかり出ています。Claude Sonnetのクレジット消費量が旧制度の9倍、Claude Opusにいたっては27倍という数字が一部ユーザー...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5644ff9243ebcdaf08a3</id>
     <title>よく使うUIデザインパターンを全部まとめてみた（ユースケース別に分類・グループ化）</title>
     <link rel="alternate" href="https://qiita.com/TOMOSIA-HieuNT/items/5644ff9243ebcdaf08a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -255,14 +276,6 @@ GWは、まとまった学習時間を確保しやすい数少ないタイミン
     <summary type="html">Likes: 130&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TOMOSIA-HieuNT&quot;&gt;TOMOSIA-HieuNT&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T12:55:14+09:00&lt;br/&gt;Updated: 2026-05-13T11:48:40+09:00&lt;br/&gt;はじめに
 UIを設計・実装していると、「このインタラクション、なんて名前だっけ？」「似たようなパターンが多くてどれを使えばいいか迷う」という場面によく出くわします。
 そこで今回は、UIデザインパターンと説得的デザインパターンを、ユースケースごとに分類・ツリー形式でまとめ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:626dfa7857f2d554784e</id>
-    <title>GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/shinkai_/items/626dfa7857f2d554784e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-08T08:18:48+09:00</updated>
-    <summary type="html">Likes: 129&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinkai_&quot;&gt;shinkai_&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T07:06:07+09:00&lt;br/&gt;Updated: 2026-06-08T08:18:48+09:00&lt;br/&gt;2026年6月1日から GitHub Copilot の課金体系が変わりました。
-X（Twitter）では日本でも海外でも辛辣な意見ばかり出ています。Claude Sonnetのクレジット消費量が旧制度の9倍、Claude Opusにいたっては27倍という数字が一部ユーザー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a8c2c14a72a417619c1d</id>
@@ -297,19 +310,6 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
 ▶ コーポレートサイト
 
 9割の新人エンジニアがやって...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4b35eb4e157becfac073</id>
-    <title>【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/4b35eb4e157becfac073?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-06T19:05:05+09:00</updated>
-    <summary type="html">Likes: 119&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-06-06T19:04:20+09:00&lt;br/&gt;Updated: 2026-06-06T19:05:05+09:00&lt;br/&gt;はじめに
-
-（30秒で読む結論）
-
-Mermaidで構造だけ書く → それを「インフォグラフィック化」専用のGemに投げる → 白背景・日本語ゴシック体のビジネス向け図解が返ってくる
-肝は いきなり長文を投げないこと。構造をMermaidで先に固定してから清書させる
-日...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:92459106b36b33bda66b</id>
@@ -912,23 +912,23 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 新人エンジニア...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3688cf515c14f7471ed4</id>
-    <title>クソバズワード「ハーネスエンジニアリング」と向き合う</title>
-    <link rel="alternate" href="https://qiita.com/retore/items/3688cf515c14f7471ed4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-18T21:52:58+09:00</updated>
-    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/retore&quot;&gt;retore&lt;/a&gt;&lt;br/&gt;Published: 2026-04-18T18:17:14+09:00&lt;br/&gt;Updated: 2026-04-18T21:52:58+09:00&lt;br/&gt;数週間くらい前に突然どいつもこいつも「ハーネスエンジニアリング」とツイートするようになり，最初はhooksとかskillsのことをハーネスと呼んでいるらしいと認識していたのだが，ある日ClaudeCodeのことをハーネスとして扱う発言をしているツイートを見つけて，「ハーネス...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:01defe8188de2123b25c</id>
     <title>AI時代、“ITを知らない”が普通に危険になってきた話</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/01defe8188de2123b25c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-05T13:37:41+09:00</updated>
-    <summary type="html">Likes: 69&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T13:33:19+09:00&lt;br/&gt;Updated: 2026-06-05T13:37:41+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T13:33:19+09:00&lt;br/&gt;Updated: 2026-06-05T13:37:41+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
 仕事で起きやすい“ズレ”について整理して発信しています。
 誰かの助けになれば幸いです。
 
 AI時代、“ITを知らない”が普通に危険になってきた...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3688cf515c14f7471ed4</id>
+    <title>クソバズワード「ハーネスエンジニアリング」と向き合う</title>
+    <link rel="alternate" href="https://qiita.com/retore/items/3688cf515c14f7471ed4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-18T21:52:58+09:00</updated>
+    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/retore&quot;&gt;retore&lt;/a&gt;&lt;br/&gt;Published: 2026-04-18T18:17:14+09:00&lt;br/&gt;Updated: 2026-04-18T21:52:58+09:00&lt;br/&gt;数週間くらい前に突然どいつもこいつも「ハーネスエンジニアリング」とツイートするようになり，最初はhooksとかskillsのことをハーネスと呼んでいるらしいと認識していたのだが，ある日ClaudeCodeのことをハーネスとして扱う発言をしているツイートを見つけて，「ハーネス...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7c402f4e085fae433cf5</id>
@@ -1892,6 +1892,18 @@ WEBアプリケーションエンジニアとして活動しているPOMです�
 もちろん、企業として投資判断のために定量的な根拠を求めること...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cabe6aea0be459f7d97b</id>
+    <title>海外ベンダーが作成したテスト方針やテストケースに対する品質改善業務に従事して得た学び</title>
+    <link rel="alternate" href="https://qiita.com/fj_qaengineer/items/cabe6aea0be459f7d97b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-05T18:56:29+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fj_qaengineer&quot;&gt;fj_qaengineer&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T18:56:29+09:00&lt;br/&gt;Updated: 2026-06-05T18:56:29+09:00&lt;br/&gt;はじめに
+こんにちは。
+QAエンジニアのふじです。
+QAエンジニアとして実務に携わって約2年が経ちました。
+私が過去に所属したプロジェクトではオフショア開発を取り入れており、
+海外ベンダーが作成したテスト方針やテストケースのレビュー、および品質改善業務を担当する機会があり...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a5234436a61194e24df7</id>
     <title>出たてほやほやのClaude Opus 4.8を整理してみた</title>
     <link rel="alternate" href="https://qiita.com/kaichan_dot/items/a5234436a61194e24df7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2198,18 +2210,6 @@ Codex や Claude Code のようなAIコーディングエージェントに「Or
     <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aito1234&quot;&gt;aito1234&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T18:36:33+09:00&lt;br/&gt;Updated: 2026-04-09T18:36:33+09:00&lt;br/&gt;はじめに
 最近、Claude Codeに関する情報に触れる機会があり、その中で「AIエージェント」という概念について学びました。
 これまで単なるチャットツールという認識が強かったのですが、より自律的にタスクを実行する仕組みであることを知り、AIエージェントでできることや実...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cabe6aea0be459f7d97b</id>
-    <title>海外ベンダーが作成したテスト方針やテストケースに対する品質改善業務に従事して得た学び</title>
-    <link rel="alternate" href="https://qiita.com/fj_qaengineer/items/cabe6aea0be459f7d97b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-05T18:56:29+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fj_qaengineer&quot;&gt;fj_qaengineer&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T18:56:29+09:00&lt;br/&gt;Updated: 2026-06-05T18:56:29+09:00&lt;br/&gt;はじめに
-こんにちは。
-QAエンジニアのふじです。
-QAエンジニアとして実務に携わって約2年が経ちました。
-私が過去に所属したプロジェクトではオフショア開発を取り入れており、
-海外ベンダーが作成したテスト方針やテストケースのレビュー、および品質改善業務を担当する機会があり...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:411d47f0d03b2fc7d20b</id>
