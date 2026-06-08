@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-06-08T08:18:48+09:00</updated>
+  <updated>2026-06-08T12:58:40+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -171,6 +171,19 @@ CLIで利用されている方が大多数だと思いますが、VSCodeの拡�
 右側が通常（？）のチャット欄で左が過去のセッション一覧みたいな感じ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4b35eb4e157becfac073</id>
+    <title>【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/4b35eb4e157becfac073?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-06T19:05:05+09:00</updated>
+    <summary type="html">Likes: 148&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-06-06T19:04:20+09:00&lt;br/&gt;Updated: 2026-06-06T19:05:05+09:00&lt;br/&gt;はじめに
+
+（30秒で読む結論）
+
+Mermaidで構造だけ書く → それを「インフォグラフィック化」専用のGemに投げる → 白背景・日本語ゴシック体のビジネス向け図解が返ってくる
+肝は いきなり長文を投げないこと。構造をMermaidで先に固定してから清書させる
+日...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cd68b09eccb18c1f7f3d</id>
     <title>AIコーディング時代に必要なプログラミングスキル</title>
     <link rel="alternate" href="https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -192,19 +205,6 @@ CLIで利用されている方が大多数だと思いますが、VSCodeの拡�
 スタートアップや中小企業からキャリアアップを考えている方
 自分のスキルが今どのレベルにあるか客観的に把握したい方
 転職を検討...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4b35eb4e157becfac073</id>
-    <title>【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/4b35eb4e157becfac073?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-06T19:05:05+09:00</updated>
-    <summary type="html">Likes: 144&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-06-06T19:04:20+09:00&lt;br/&gt;Updated: 2026-06-06T19:05:05+09:00&lt;br/&gt;はじめに
-
-（30秒で読む結論）
-
-Mermaidで構造だけ書く → それを「インフォグラフィック化」専用のGemに投げる → 白背景・日本語ゴシック体のビジネス向け図解が返ってくる
-肝は いきなり長文を投げないこと。構造をMermaidで先に固定してから清書させる
-日...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:786af70f2697dfac4329</id>
@@ -1436,6 +1436,18 @@ Linuxを学び、黒い画面（CUI）と向き合った新卒研修で学んだ
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ffcc67d985d4ab47631e</id>
+    <title>9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #2</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/ffcc67d985d4ab47631e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-08T12:58:40+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T12:58:39+09:00&lt;br/&gt;Updated: 2026-06-08T12:58:40+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+仕事で起きやすい“ズレ”について整理して発信しています。
+誰かの助けになれば幸いです。
+
+9割のエンジニア未経験者がつまずく『最初の壁』 それで...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:47a13155032f716a43bd</id>
     <title>【Claude Code / Codex × GAS】コピペ脱出！Google Workspace自動化レシピ7選</title>
     <link rel="alternate" href="https://qiita.com/TMiyamoto/items/47a13155032f716a43bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2146,6 +2158,18 @@ Google Driveに画像をア...</summary>
 私はその場で固まった。S さんといえば、社内で誰もが知る伝説のエンジニアだ。30年前に...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:803300d3453daaaf48ce</id>
+    <title>ping、tracerouteコマンドを使用した、SSHできない時の切り分け方</title>
+    <link rel="alternate" href="https://qiita.com/M_waowaowao/items/803300d3453daaaf48ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-08T01:19:38+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/M_waowaowao&quot;&gt;M_waowaowao&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T01:19:38+09:00&lt;br/&gt;Updated: 2026-06-08T01:19:38+09:00&lt;br/&gt;はじめに
+インフラ構築をしていると、よくあるトラブルのひとつに「SSHできない」があります。
+たとえば、新しく作成したLinuxサーバにSSHしようとしたとします。
+ssh user@192.168.1.100
+
+しかし、しばらく待っても接続できず、次のようなエラーが返っ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:45e2c49630fd002cf493</id>
     <title>Codex + Oracle DB SkillsでOracle Databaseの実行計画レビューをしてみてみた</title>
     <link rel="alternate" href="https://qiita.com/shirok/items/45e2c49630fd002cf493?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2200,28 +2224,5 @@ AIエージェントに絶対に任せてはいけない6つのこ...</summary>
 ただ、いざ書こうとすると「どこから手をつければいいんだろう」と迷うことも多いですよね。
 この記事では、xUnit を使った単体テストの基本を中心に、
 実務でつまずきやすいポイントや、外部依存を扱う際の考え方も交...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3fdc666366cf99fd1116</id>
-    <title>ClaudeでSEOチェッカーとQiita自動いいねツールを作ってみた</title>
-    <link rel="alternate" href="https://qiita.com/aito1234/items/3fdc666366cf99fd1116?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T13:59:37+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aito1234&quot;&gt;aito1234&lt;/a&gt;&lt;br/&gt;Published: 2026-04-15T21:03:08+09:00&lt;br/&gt;Updated: 2026-04-17T13:59:37+09:00&lt;br/&gt;はじめに
-最近、Claudeについて学ぶ機会があり、
-前回は、「作ったものをどう届けるか」という視点の重要性について整理しました。
-
-前回：AI時代に実装だけでは足りないと気づいた話
-
-今回はそこから一歩進めて、「実際に作るとどうなるのか？」を検証してみました。
-従来の...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d7003fc8f8941f886caf</id>
-    <title>AIエージェントの仕組みと振る舞いを整理してみた</title>
-    <link rel="alternate" href="https://qiita.com/aito1234/items/d7003fc8f8941f886caf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-09T18:36:33+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aito1234&quot;&gt;aito1234&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T18:36:33+09:00&lt;br/&gt;Updated: 2026-04-09T18:36:33+09:00&lt;br/&gt;はじめに
-最近、Claude Codeに関する情報に触れる機会があり、その中で「AIエージェント」という概念について学びました。
-これまで単なるチャットツールという認識が強かったのですが、より自律的にタスクを実行する仕組みであることを知り、AIエージェントでできることや実...</summary>
   </entry>
 </feed>
