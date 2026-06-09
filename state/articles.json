@@ -729,8 +729,8 @@
       "published": "2026-06-08T10:43:34+09:00",
       "updated": "2026-06-08T23:19:08+09:00",
       "author_name": "Yametaro",
-      "likes_count": 11,
-      "last_seen": "2026-06-08T23:36:19.326627108+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-06-09T01:13:51.705187452+00:00"
     },
     {
       "key": "227c9bd2cf58d99a6033",
@@ -1126,7 +1126,7 @@
       "updated": "2026-06-08T08:17:29+09:00",
       "author_name": "tacosdb",
       "likes_count": 10,
-      "last_seen": "2026-06-08T23:36:19.326627108+00:00"
+      "last_seen": "2026-06-09T01:13:51.705187452+00:00"
     },
     {
       "key": "334b0b9c3ee457dfa8c7",
@@ -1833,8 +1833,8 @@
       "published": "2026-06-06T19:04:20+09:00",
       "updated": "2026-06-06T19:05:05+09:00",
       "author_name": "ktdatascience",
-      "likes_count": 184,
-      "last_seen": "2026-06-08T23:36:19.326627108+00:00"
+      "likes_count": 188,
+      "last_seen": "2026-06-09T01:13:51.705187452+00:00"
     },
     {
       "key": "4b3a0c02e58c3caa4e4b",
@@ -2337,8 +2337,8 @@
       "published": "2026-06-08T11:01:29+09:00",
       "updated": "2026-06-08T11:01:30+09:00",
       "author_name": "can-can",
-      "likes_count": 27,
-      "last_seen": "2026-06-08T23:36:19.326627108+00:00"
+      "likes_count": 28,
+      "last_seen": "2026-06-09T01:13:51.705187452+00:00"
     },
     {
       "key": "5e17576aa2219d4dbca8",
@@ -3177,8 +3177,8 @@
       "published": "2026-06-08T01:19:38+09:00",
       "updated": "2026-06-08T01:19:38+09:00",
       "author_name": "M_waowaowao",
-      "likes_count": 36,
-      "last_seen": "2026-06-08T23:36:19.326627108+00:00"
+      "likes_count": 38,
+      "last_seen": "2026-06-09T01:13:51.705187452+00:00"
     },
     {
       "key": "80347bcd89a8a51c0298",
@@ -3465,8 +3465,8 @@
       "published": "2026-06-08T10:02:05+09:00",
       "updated": "2026-06-08T10:02:06+09:00",
       "author_name": "ayshiina",
-      "likes_count": 22,
-      "last_seen": "2026-06-08T23:36:19.326627108+00:00"
+      "likes_count": 25,
+      "last_seen": "2026-06-09T01:13:51.705187452+00:00"
     },
     {
       "key": "89b5b1eafa716e6653b2",
@@ -3502,7 +3502,7 @@
       "updated": "2026-06-07T17:47:08+09:00",
       "author_name": "tarpan_75",
       "likes_count": 15,
-      "last_seen": "2026-06-08T23:36:19.326627108+00:00"
+      "last_seen": "2026-06-09T01:13:51.705187452+00:00"
     },
     {
       "key": "8a669c6e0a76d9b1875d",
@@ -3673,6 +3673,18 @@
       "last_seen": "2026-05-22T07:31:15.223319831+00:00"
     },
     {
+      "key": "8f88307b7cb13b748e57",
+      "item_id": "8f88307b7cb13b748e57",
+      "title": "AIエージェントのトークン代を節約する CLAUDE.md と copilot-instructions.md 実践ガイド  AIエージェントでは毎ターン何が起きているのか",
+      "link": "https://qiita.com/shinkai_/items/8f88307b7cb13b748e57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "CLAUDE.md や copilot-instructions.md は、AIエージェントに「このプロジェクトのルールを最初から教える」ためのファイルです。\n一度書いたら終わり、という扱いをしている人が多いと思いますが、実はこれが 毎ターン・毎リクエストにしれっとコンテキ...",
+      "published": "2026-06-08T08:17:13+09:00",
+      "updated": "2026-06-08T08:17:13+09:00",
+      "author_name": "shinkai_",
+      "likes_count": 10,
+      "last_seen": "2026-06-09T01:13:51.705187452+00:00"
+    },
+    {
       "key": "8f9b238ae28e380e6029",
       "item_id": "8f9b238ae28e380e6029",
       "title": "Claude Codeの利用状況をチームで可視化するダッシュボードをOSSで公開しました",
@@ -3729,8 +3741,8 @@
       "published": "2026-06-06T19:36:16+09:00",
       "updated": "2026-06-06T19:48:59+09:00",
       "author_name": "ktdatascience",
-      "likes_count": 12,
-      "last_seen": "2026-06-08T23:36:19.326627108+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-06-09T01:13:51.705187452+00:00"
     },
     {
       "key": "92cf7e55a955be1a4bbd",
@@ -4909,6 +4921,18 @@
       "last_seen": "2026-05-14T19:43:13.364717739+00:00"
     },
     {
+      "key": "c153d50810f2945897d8",
+      "item_id": "c153d50810f2945897d8",
+      "title": "「そのpromptちょうだい」と言われるけど、たぶん同じ設計書は出てこない ── engineer to delegate to で本当に効いていたもの",
+      "link": "https://qiita.com/ntaka329/items/c153d50810f2945897d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nGMOコネクトの永田です。\n「engineer to delegate to」というシリーズで、Claude に大きめの仕事をまるごと委ねた話を何本か書いてきました（Java のメジャーアップを1日で、消えたドキュメントの環境再現を、など）。反応はうれしいのです...",
+      "published": "2026-06-08T11:36:29+09:00",
+      "updated": "2026-06-08T11:36:29+09:00",
+      "author_name": "ntaka329",
+      "likes_count": 11,
+      "last_seen": "2026-06-09T01:13:51.705187452+00:00"
+    },
+    {
       "key": "c27ebe7c794b4c597957",
       "item_id": "c27ebe7c794b4c597957",
       "title": "Copilot Studio の新しいワークフローを試してみた",
@@ -4978,7 +5002,7 @@
       "updated": "2026-06-07T19:31:37+09:00",
       "author_name": "Bibirina_hiyoko",
       "likes_count": 17,
-      "last_seen": "2026-06-08T23:36:19.326627108+00:00"
+      "last_seen": "2026-06-09T01:13:51.705187452+00:00"
     },
     {
       "key": "c4553f452d8457f86060",
@@ -5662,7 +5686,7 @@
       "updated": "2026-06-08T08:56:35+09:00",
       "author_name": "k_yamaki",
       "likes_count": 10,
-      "last_seen": "2026-06-08T23:36:19.326627108+00:00"
+      "last_seen": "2026-06-09T01:13:51.705187452+00:00"
     },
     {
       "key": "dc115e441ad1552e35ce",
@@ -6681,8 +6705,8 @@
       "published": "2026-06-08T12:58:39+09:00",
       "updated": "2026-06-08T12:58:40+09:00",
       "author_name": "hitomin_poke",
-      "likes_count": 50,
-      "last_seen": "2026-06-08T23:36:19.326627108+00:00"
+      "likes_count": 54,
+      "last_seen": "2026-06-09T01:13:51.705187452+00:00"
     }
   ]
 }
