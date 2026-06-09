@@ -229,18 +229,6 @@
       "last_seen": "2026-04-21T19:36:47.240591249+00:00"
     },
     {
-      "key": "0752494aae131cc07359",
-      "item_id": "0752494aae131cc07359",
-      "title": "【Git】実務でよく使うGitコマンドまとめ",
-      "link": "https://qiita.com/yuto-vj/items/0752494aae131cc07359?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "開発現場では、Gitの操作はほぼ毎日行います。\nGUIで操作する現場もありますが、CUIで操作することもあります。\n時と場合によってはCUI（コマンド）で操作する方が細かな操作が可能だったりするので覚えておくと便利です。\nなので今回は、実務でよく使うGitコマンドを用途別...",
-      "published": "2026-04-07T18:35:04+09:00",
-      "updated": "2026-04-07T18:35:04+09:00",
-      "author_name": "yuto-vj",
-      "likes_count": 30,
-      "last_seen": "2026-04-10T07:43:13.419330302+00:00"
-    },
-    {
       "key": "091cb4ef066abfb1e06b",
       "item_id": "091cb4ef066abfb1e06b",
       "title": "【書評】Qiita貢献度1位の『技術記事を書く技術』は、エンジニアの机に置いてほしい",
@@ -251,18 +239,6 @@
       "author_name": "ssaita",
       "likes_count": 54,
       "last_seen": "2026-05-01T07:09:21.582351537+00:00"
-    },
-    {
-      "key": "09dcce1e1c0f12bbfb6a",
-      "item_id": "09dcce1e1c0f12bbfb6a",
-      "title": "JUnitでMockを使用した単体テストの書き方",
-      "link": "https://qiita.com/S_kamon/items/09dcce1e1c0f12bbfb6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nSpring Bootでアプリを開発していると、「サービス層のロジックをテストしたいけど、DBへの接続はどうする？」という疑問に当たることがあります。\nこの記事では、そういった依存関係をモック化しながら、JUnit5 + Mockito を使ったサービス層の単体...",
-      "published": "2026-04-08T17:51:00+09:00",
-      "updated": "2026-04-08T17:51:00+09:00",
-      "author_name": "S_kamon",
-      "likes_count": 26,
-      "last_seen": "2026-04-10T07:43:13.419330302+00:00"
     },
     {
       "key": "09dd4f6328fe3b35aae3",
@@ -311,6 +287,18 @@
       "author_name": "yoshi1220",
       "likes_count": 21,
       "last_seen": "2026-05-18T19:42:58.539394404+00:00"
+    },
+    {
+      "key": "0ca5bd39c4dba6a8c6eb",
+      "item_id": "0ca5bd39c4dba6a8c6eb",
+      "title": "[Bedrock AgentCore Gateway × Keycloak]MCP 2025-11-25 認可仕様に準拠したKeycloakでCIMDと認可コードフローを利用したMCP認可を試してみた",
+      "link": "https://qiita.com/mitsu3333/items/0ca5bd39c4dba6a8c6eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこんにちは、最近実家の近くにラ・ムーができた株式会社 日立製作所の三本康貴です。\n近年、AI Agent、Model Context Protocol(MCP)の普及に伴い、MCP Serverの開発、公開も増える一方で、既存のMCP Serverを統合したり、...",
+      "published": "2026-06-09T16:11:42+09:00",
+      "updated": "2026-06-09T16:11:42+09:00",
+      "author_name": "mitsu3333",
+      "likes_count": 10,
+      "last_seen": "2026-06-09T09:23:13.864355287+00:00"
     },
     {
       "key": "0cb5e8f91fa64fb9ba8c",
@@ -729,8 +717,8 @@
       "published": "2026-06-08T10:43:34+09:00",
       "updated": "2026-06-08T23:19:08+09:00",
       "author_name": "Yametaro",
-      "likes_count": 19,
-      "last_seen": "2026-06-09T07:31:37.451677895+00:00"
+      "likes_count": 20,
+      "last_seen": "2026-06-09T09:23:13.864355287+00:00"
     },
     {
       "key": "227c9bd2cf58d99a6033",
@@ -1045,18 +1033,6 @@
       "last_seen": "2026-04-13T19:37:08.637455486+00:00"
     },
     {
-      "key": "3237a14437fbaad63f46",
-      "item_id": "3237a14437fbaad63f46",
-      "title": "エンジニア未経験でも一目置かれるポートフォリオ。ビジネス視点で顧客に価値を届ける。",
-      "link": "https://qiita.com/masa20057/items/3237a14437fbaad63f46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "未経験からエンジニア転職を目指して、個人開発に励む方々へ。\nそのポートフォリオ、もしかしたら面接官やユーザーに刺さらないプロダクトになっているかもしれません。\nAIがコードを書くことが当たり前となった2026年現在、エンジニアに求められるのは「何を作るか」以上に 作ったプロ...",
-      "published": "2026-04-07T11:50:11+09:00",
-      "updated": "2026-04-07T11:50:12+09:00",
-      "author_name": "masa20057",
-      "likes_count": 84,
-      "last_seen": "2026-04-10T07:43:13.419330302+00:00"
-    },
-    {
       "key": "323bc76cf2d31d9f4d42",
       "item_id": "323bc76cf2d31d9f4d42",
       "title": "育休中エンジニアがClaude Coworkで「あかちゃんカレンダー🍼」を作った話",
@@ -1079,18 +1055,6 @@
       "author_name": "ma-ryu",
       "likes_count": 13,
       "last_seen": "2026-05-30T19:39:27.145909601+00:00"
-    },
-    {
-      "key": "3271d742da296e6a4622",
-      "item_id": "3271d742da296e6a4622",
-      "title": "React で ref をどう扱うかを整理する",
-      "link": "https://qiita.com/ryo_sh/items/3271d742da296e6a4622?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "React を学び始めると、state はよく使う一方で、ref は少し分かりづらく感じることがあります。\nこの記事では、ref とは何か、state とどう違うのか、どのような場面で使うのかを整理します。\n\nref とは\nref は、レンダリングに直接関係しない値を保持し...",
-      "published": "2026-04-08T18:45:48+09:00",
-      "updated": "2026-04-08T18:45:48+09:00",
-      "author_name": "ryo_sh",
-      "likes_count": 25,
-      "last_seen": "2026-04-10T07:43:13.419330302+00:00"
     },
     {
       "key": "32992653448e346b7cc5",
@@ -1126,7 +1090,7 @@
       "updated": "2026-06-08T08:17:29+09:00",
       "author_name": "tacosdb",
       "likes_count": 12,
-      "last_seen": "2026-06-09T07:31:37.451677895+00:00"
+      "last_seen": "2026-06-09T09:23:13.864355287+00:00"
     },
     {
       "key": "334b0b9c3ee457dfa8c7",
@@ -1165,18 +1129,6 @@
       "last_seen": "2026-05-23T07:09:06.669759773+00:00"
     },
     {
-      "key": "34d20cd39006cce775d0",
-      "item_id": "34d20cd39006cce775d0",
-      "title": "【35歳未経験でも理解できた】従来型のアプリケーション",
-      "link": "https://qiita.com/wata-sho/items/34d20cd39006cce775d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "従来型Webアプリの裏側をスッキリ整理してみた\nはじめまして！\n35歳未経験でエンジニアを目指し日々奮闘している者です。\nWebの勉強を始めてすぐ、こんなことありませんか？\n「画面は動くけど、裏で何が起きてるのか説明できない…」\n僕もそんな状況でした。\nこの記事では、そん...",
-      "published": "2026-04-08T10:26:57+09:00",
-      "updated": "2026-04-08T10:26:57+09:00",
-      "author_name": "wata-sho",
-      "likes_count": 76,
-      "last_seen": "2026-04-10T07:43:13.419330302+00:00"
-    },
-    {
       "key": "353fee8310b0cd36c8f0",
       "item_id": "353fee8310b0cd36c8f0",
       "title": "Copilot Studio 自律型エージェントのクレジット消費を改めて整理してみる - 365 Copilot ライセンスだけでは判断できないケース",
@@ -1211,18 +1163,6 @@
       "author_name": "teppei19980914",
       "likes_count": 262,
       "last_seen": "2026-04-13T19:37:08.637455486+00:00"
-    },
-    {
-      "key": "3674294dc301f5dcf453",
-      "item_id": "3674294dc301f5dcf453",
-      "title": "仕様駆動開発は、ウォーターフォールへの回帰ではない。",
-      "link": "https://qiita.com/ju-kosaka/items/3674294dc301f5dcf453?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "仕様駆動開発は、ウォーターフォールへの回帰ではない。\nみなさん、仕様駆動開発（SDD：Spec-Driven Development）、意識していますか？\nGitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一気に注目を集め始めました。\n国内外の...",
-      "published": "2026-04-07T09:41:36+09:00",
-      "updated": "2026-04-07T12:51:30+09:00",
-      "author_name": "ju-kosaka",
-      "likes_count": 55,
-      "last_seen": "2026-04-10T07:43:13.419330302+00:00"
     },
     {
       "key": "3688cf515c14f7471ed4",
@@ -1295,6 +1235,18 @@
       "author_name": "nhatcaofedev",
       "likes_count": 10,
       "last_seen": "2026-05-07T07:16:31.978873880+00:00"
+    },
+    {
+      "key": "39ad448983e2ba8406da",
+      "item_id": "39ad448983e2ba8406da",
+      "title": "未経験からエンジニアになるために必要な3つの知識",
+      "link": "https://qiita.com/masa20057/items/39ad448983e2ba8406da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "株式会社PRUMのmasaです。\nエンジニア未経験で転職する際、「何をすれば？」と考える方が多いと思います。今日は未経験からエンジニアになるために必要な3つの知識について話していきます。\n\n1.自走力\n現場ではどんな力が求められるのか。最も求められるといっても過言ではないの...",
+      "published": "2026-06-09T10:28:31+09:00",
+      "updated": "2026-06-09T10:28:31+09:00",
+      "author_name": "masa20057",
+      "likes_count": 44,
+      "last_seen": "2026-06-09T09:23:13.864355287+00:00"
     },
     {
       "key": "39c3e7f0634e25e0e3a1",
@@ -1621,18 +1573,6 @@
       "last_seen": "2026-05-30T19:39:27.145909601+00:00"
     },
     {
-      "key": "45b5847e30b2cd61a756",
-      "item_id": "45b5847e30b2cd61a756",
-      "title": "C# で MVVM を学ぶならまずこれ！CommunityToolkit.Mvvm で理解する基本の流れ",
-      "link": "https://qiita.com/hiroki_notes/items/45b5847e30b2cd61a756?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "「MVVMって聞いたことあるけど、結局どう使えばいいの？」\n「ViewModel と Model の違いがよく分からない…」\nそんなふうに感じたことはありませんか。\nこの記事では、C# × MVVM をこれから学びたい人に向けて、できるだけシンプルに、そして“実際に手を動か...",
-      "published": "2026-04-07T20:24:14+09:00",
-      "updated": "2026-04-07T20:24:14+09:00",
-      "author_name": "hiroki_notes",
-      "likes_count": 29,
-      "last_seen": "2026-04-10T07:43:13.419330302+00:00"
-    },
-    {
       "key": "45c3cde50a17791a7a5a",
       "item_id": "45c3cde50a17791a7a5a",
       "title": "冷蔵庫の食材リストから自動でレシピ提案するLINE Botを作った（n8n × LLM）",
@@ -1833,8 +1773,8 @@
       "published": "2026-06-06T19:04:20+09:00",
       "updated": "2026-06-06T19:05:05+09:00",
       "author_name": "ktdatascience",
-      "likes_count": 207,
-      "last_seen": "2026-06-09T07:31:37.451677895+00:00"
+      "likes_count": 215,
+      "last_seen": "2026-06-09T09:23:13.864355287+00:00"
     },
     {
       "key": "4b3a0c02e58c3caa4e4b",
@@ -2185,18 +2125,6 @@
       "last_seen": "2026-05-14T07:17:00.140872567+00:00"
     },
     {
-      "key": "5768fdeeaca34f1cb5b8",
-      "item_id": "5768fdeeaca34f1cb5b8",
-      "title": "Spring Bootのステレオタイプアノテーションを整理する",
-      "link": "https://qiita.com/S_kamon/items/5768fdeeaca34f1cb5b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nSpring Bootでは、クラスを Bean としてDIコンテナに登録することで、インスタンスの生成や依存関係の管理をフレームワークに任せることができます。\nBean とはSpringが管理するオブジェクトのことで、DIコンテナがそのライフサイクルを管理します...",
-      "published": "2026-04-08T11:18:52+09:00",
-      "updated": "2026-04-08T11:18:52+09:00",
-      "author_name": "S_kamon",
-      "likes_count": 23,
-      "last_seen": "2026-04-10T07:43:13.419330302+00:00"
-    },
-    {
       "key": "57a054312191c30e807b",
       "item_id": "57a054312191c30e807b",
       "title": "React Hook Form 入門 Part 1 — 仕組みを理解してから使う",
@@ -2338,7 +2266,7 @@
       "updated": "2026-06-08T11:01:30+09:00",
       "author_name": "can-can",
       "likes_count": 28,
-      "last_seen": "2026-06-09T07:31:37.451677895+00:00"
+      "last_seen": "2026-06-09T09:23:13.864355287+00:00"
     },
     {
       "key": "5e17576aa2219d4dbca8",
@@ -2399,18 +2327,6 @@
       "author_name": "shinkai_",
       "likes_count": 73,
       "last_seen": "2026-06-06T07:18:54.920287053+00:00"
-    },
-    {
-      "key": "61d8ae75d65f8ef873d9",
-      "item_id": "61d8ae75d65f8ef873d9",
-      "title": "(新機能)S3 Filesリリース",
-      "link": "https://qiita.com/yama3133/items/61d8ae75d65f8ef873d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nS3  Filesがリリースされました。\nこれは、S3 バケットをファイルシステムとしてアクセス可能にするというものです。\n\nどのような構成か\n構成図の一例は以下のとおりです。\n\n© 2026, Amazon Web Services, Inc. or its ...",
-      "published": "2026-04-08T09:23:28+09:00",
-      "updated": "2026-04-08T09:23:28+09:00",
-      "author_name": "yama3133",
-      "likes_count": 21,
-      "last_seen": "2026-04-10T07:43:13.419330302+00:00"
     },
     {
       "key": "626d51ce3efd3d641885",
@@ -2507,18 +2423,6 @@
       "author_name": "tuanphan",
       "likes_count": 12,
       "last_seen": "2026-05-13T07:20:09.176560536+00:00"
-    },
-    {
-      "key": "66c01a87e57b148212b0",
-      "item_id": "66c01a87e57b148212b0",
-      "title": "ローカル環境のS3をlocalstackからRustFSへ",
-      "link": "https://qiita.com/michi-yzrh/items/66c01a87e57b148212b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "結論\nタイトル通りlocalstackからRustFSへ変更しました\n\n目的\nlocalstackの無料版でも認証トークン必須となったのでローカル環境のS3を変更する\n\n何に変更するか\n最初にMinIOが浮かんだのですがここ最近、利用することがなかったので調査\nこのタイミ...",
-      "published": "2026-04-09T09:42:54+09:00",
-      "updated": "2026-04-09T09:42:54+09:00",
-      "author_name": "michi-yzrh",
-      "likes_count": 10,
-      "last_seen": "2026-04-10T07:43:13.419330302+00:00"
     },
     {
       "key": "66cdaf5ae3409d140d43",
@@ -2857,6 +2761,18 @@
       "last_seen": "2026-04-16T07:43:15.373734794+00:00"
     },
     {
+      "key": "72a7fd6854e99506cdff",
+      "item_id": "72a7fd6854e99506cdff",
+      "title": "なぜCatBoostはカテゴリ変数に強いのか？LightGBM・XGBoostとの違いから理解する",
+      "link": "https://qiita.com/KanNishida/items/72a7fd6854e99506cdff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "CatBoostとは？LightGBMやXGBoostとの違いをわかりやすく解説\n\nビジネスの現場で扱うデータの多くは、きれいに数値だけで構成されているわけではありません。\n例えば、顧客データであれば「顧客セグメント」「地域」「業種」「契約プラン」、マーケティングデータで...",
+      "published": "2026-06-09T07:11:37+09:00",
+      "updated": "2026-06-09T07:11:37+09:00",
+      "author_name": "KanNishida",
+      "likes_count": 15,
+      "last_seen": "2026-06-09T09:23:13.864355287+00:00"
+    },
+    {
       "key": "72c046eb11eb0eedec22",
       "item_id": "72c046eb11eb0eedec22",
       "title": "DI教えようとしたら難しすぎたので整理した",
@@ -2939,18 +2855,6 @@
       "author_name": "ari_init",
       "likes_count": 13,
       "last_seen": "2026-06-01T08:10:46.546150654+00:00"
-    },
-    {
-      "key": "74e0361cf92bc5335723",
-      "item_id": "74e0361cf92bc5335723",
-      "title": "GitHub Copilot CLI の公式ハンズオンざっくり和訳 (第3章/7章) 開発ワークフロー編",
-      "link": "https://qiita.com/chomado/items/74e0361cf92bc5335723?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "公式チュートリアル「GitHub Copilot CLI for Beginners」ハンズオンリポジトリを進めていきます！\n\nこのチュートリアルは (2026 年 3 月現在) 7 章までありますが、\n今回は、第 3 章（開発ワークフローへの組み込み方）をざっくり和訳...",
-      "published": "2026-04-08T16:57:09+09:00",
-      "updated": "2026-04-09T16:38:22+09:00",
-      "author_name": "chomado",
-      "likes_count": 13,
-      "last_seen": "2026-04-10T07:43:13.419330302+00:00"
     },
     {
       "key": "75b8ff55095604bd48b5",
@@ -3178,7 +3082,7 @@
       "updated": "2026-06-08T01:19:38+09:00",
       "author_name": "M_waowaowao",
       "likes_count": 41,
-      "last_seen": "2026-06-09T07:31:37.451677895+00:00"
+      "last_seen": "2026-06-09T09:23:13.864355287+00:00"
     },
     {
       "key": "80347bcd89a8a51c0298",
@@ -3445,18 +3349,6 @@
       "last_seen": "2026-04-19T07:41:24.933403242+00:00"
     },
     {
-      "key": "895d52879948d5bdb387",
-      "item_id": "895d52879948d5bdb387",
-      "title": "【35歳未経験でも理解できた】URLとHTTP",
-      "link": "https://qiita.com/wata-sho/items/895d52879948d5bdb387?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "〜URLとHTTPを「宅配便」に例えたら全部つながった〜\nこんにちは！\n35歳、未経験からWebエンジニアを目指して日々奮闘中の者です。\nWebの勉強を始めると、必ず目にする「URL」と「HTTP」。\n毎日使っているはずなのに、\n「これってどういう仕組み？」と聞かれると少...",
-      "published": "2026-04-07T10:25:05+09:00",
-      "updated": "2026-04-07T10:25:05+09:00",
-      "author_name": "wata-sho",
-      "likes_count": 89,
-      "last_seen": "2026-04-10T07:43:13.419330302+00:00"
-    },
-    {
       "key": "8965ba4f5840807031cb",
       "item_id": "8965ba4f5840807031cb",
       "title": "Claude Codeと一緒に、MagicPodのWebAPI × TypeScript自動テストを作った話",
@@ -3466,7 +3358,7 @@
       "updated": "2026-06-08T10:02:06+09:00",
       "author_name": "ayshiina",
       "likes_count": 25,
-      "last_seen": "2026-06-09T07:31:37.451677895+00:00"
+      "last_seen": "2026-06-09T09:23:13.864355287+00:00"
     },
     {
       "key": "89b5b1eafa716e6653b2",
@@ -3681,8 +3573,8 @@
       "published": "2026-06-08T08:17:13+09:00",
       "updated": "2026-06-08T08:17:13+09:00",
       "author_name": "shinkai_",
-      "likes_count": 11,
-      "last_seen": "2026-06-09T07:31:37.451677895+00:00"
+      "likes_count": 12,
+      "last_seen": "2026-06-09T09:23:13.864355287+00:00"
     },
     {
       "key": "8f9b238ae28e380e6029",
@@ -4345,18 +4237,6 @@
       "last_seen": "2026-05-22T07:31:15.223319831+00:00"
     },
     {
-      "key": "a9c6e8cf81d76b596ca7",
-      "item_id": "a9c6e8cf81d76b596ca7",
-      "title": "後編：Claude Codeで便利だと感じた点（使い方）",
-      "link": "https://qiita.com/aito1234/items/a9c6e8cf81d76b596ca7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n前編では、Claude Codeの特徴や考え方について整理しました。\n前編：Claude Codeで便利だと感じた点（概要・考え方）\n本記事では、それらの内容を踏まえ、実際にどのように活用していくのか、\n具体的な使い方やプロンプトの工夫について整理していきます。...",
-      "published": "2026-04-08T17:20:23+09:00",
-      "updated": "2026-04-08T17:20:23+09:00",
-      "author_name": "aito1234",
-      "likes_count": 24,
-      "last_seen": "2026-04-10T07:43:13.419330302+00:00"
-    },
-    {
       "key": "a9d75de3677bdd22dced",
       "item_id": "a9d75de3677bdd22dced",
       "title": "障害調査中にviewコマンドで巨大ログを開いてアプリを全停止させたお話",
@@ -4929,8 +4809,8 @@
       "published": "2026-06-08T11:36:29+09:00",
       "updated": "2026-06-08T11:36:29+09:00",
       "author_name": "ntaka329",
-      "likes_count": 15,
-      "last_seen": "2026-06-09T07:31:37.451677895+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-06-09T09:23:13.864355287+00:00"
     },
     {
       "key": "c27ebe7c794b4c597957",
@@ -5002,7 +4882,7 @@
       "updated": "2026-06-07T19:31:37+09:00",
       "author_name": "Bibirina_hiyoko",
       "likes_count": 18,
-      "last_seen": "2026-06-09T07:31:37.451677895+00:00"
+      "last_seen": "2026-06-09T09:23:13.864355287+00:00"
     },
     {
       "key": "c4553f452d8457f86060",
@@ -5027,18 +4907,6 @@
       "author_name": "Nao52",
       "likes_count": 25,
       "last_seen": "2026-05-23T19:36:35.688322497+00:00"
-    },
-    {
-      "key": "c4ea49e23564ba9e9a97",
-      "item_id": "c4ea49e23564ba9e9a97",
-      "title": "C# / .NETで始める依存性注入（DI）",
-      "link": "https://qiita.com/hiroki_notes/items/c4ea49e23564ba9e9a97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "C# や .NET を触っていると、DI（依存性注入）という言葉をどこかで必ず耳にします。\nただ、実際のところはどうでしょう。\n\nコンストラクタでインターフェースを受け取っているけど、理由はよく分からない\nDI コンテナって便利らしいけど、何が嬉しいのかピンとこない\nASP...",
-      "published": "2026-04-08T16:31:24+09:00",
-      "updated": "2026-04-08T16:31:24+09:00",
-      "author_name": "hiroki_notes",
-      "likes_count": 29,
-      "last_seen": "2026-04-10T07:43:13.419330302+00:00"
     },
     {
       "key": "c59defafd0dfb88c4a90",
@@ -5685,8 +5553,8 @@
       "published": "2026-06-08T08:56:35+09:00",
       "updated": "2026-06-08T08:56:35+09:00",
       "author_name": "k_yamaki",
-      "likes_count": 12,
-      "last_seen": "2026-06-09T07:31:37.451677895+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-06-09T09:23:13.864355287+00:00"
     },
     {
       "key": "dc115e441ad1552e35ce",
@@ -5939,18 +5807,6 @@
       "author_name": "tikeda123",
       "likes_count": 24,
       "last_seen": "2026-05-06T07:11:26.968688314+00:00"
-    },
-    {
-      "key": "e79011def2d0437f30e2",
-      "item_id": "e79011def2d0437f30e2",
-      "title": "前編：Claude Codeで便利だと感じた点（概要・考え方）",
-      "link": "https://qiita.com/aito1234/items/e79011def2d0437f30e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nこれまでの私のAI活用は、私生活での子育てや、趣味のスポーツなどの悩み相談、文章の添削が中心でした。\n実務でも生成AIの利用は許可されていましたが、主にコード検索やエラーログの分析など、\nいわば「少し便利な検索ツール」としての使い方に留まっていました。\nしかし今...",
-      "published": "2026-04-08T12:30:04+09:00",
-      "updated": "2026-04-08T12:37:47+09:00",
-      "author_name": "aito1234",
-      "likes_count": 30,
-      "last_seen": "2026-04-10T07:43:13.419330302+00:00"
     },
     {
       "key": "e7939e9f2a8b3e8177f8",
@@ -6705,8 +6561,8 @@
       "published": "2026-06-08T12:58:39+09:00",
       "updated": "2026-06-08T12:58:40+09:00",
       "author_name": "hitomin_poke",
-      "likes_count": 66,
-      "last_seen": "2026-06-09T07:31:37.451677895+00:00"
+      "likes_count": 71,
+      "last_seen": "2026-06-09T09:23:13.864355287+00:00"
     }
   ]
 }
