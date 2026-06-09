@@ -46,7 +46,7 @@ Cla...</summary>
     <title>【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/4b35eb4e157becfac073?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-06T19:05:05+09:00</updated>
-    <summary type="html">Likes: 229&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-06-06T19:04:20+09:00&lt;br/&gt;Updated: 2026-06-06T19:05:05+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 230&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-06-06T19:04:20+09:00&lt;br/&gt;Updated: 2026-06-06T19:05:05+09:00&lt;br/&gt;はじめに
 
 （30秒で読む結論）
 
@@ -328,16 +328,6 @@ PRUMについて気になった方は、コーポレートサイトもご覧く�
     <updated>2026-04-13T11:27:23+09:00</updated>
     <summary type="html">Likes: 111&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:23+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:23+09:00&lt;br/&gt;はじめに：3月31日に何が起きたか
 2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e8803a092dd192543fb4</id>
-    <title>自作の短縮URLを社内Slackに貼ったら「フィッシングです」とセキュリティチームに通報された</title>
-    <link rel="alternate" href="https://qiita.com/kojin_dev_hub/items/e8803a092dd192543fb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-07T22:28:02+09:00</updated>
-    <summary type="html">Likes: 110&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kojin_dev_hub&quot;&gt;kojin_dev_hub&lt;/a&gt;&lt;br/&gt;Published: 2026-04-07T22:28:02+09:00&lt;br/&gt;Updated: 2026-04-07T22:28:02+09:00&lt;br/&gt;個人開発で短縮URLサービスを作っている。
-クリック分析、UTMパラメータ自動付与、OGPプレビュー。企業向けのBitlyみたいなやつを、個人で安く使える版として開発した。
-完成した時、嬉しくて社内Slackで共有した。
-「短縮URLサービス作りました！ よかったら使ってく...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
@@ -2229,5 +2219,20 @@ NullPointerException（NPE）は、Javaの生みの親であるトニー・...</
     <updated>2026-04-13T11:27:45+09:00</updated>
     <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:45+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:45+09:00&lt;br/&gt;Claude CodeにおけるSkillsとは何か
 Claude Codeを使い込んでいくと、毎回同じ指示を繰り返している自分に気づきます。「記事を書くときはまずWeb検索して、構成案を出して、承認を得てから執筆して、output/articles/に保存して」。こうした...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9fea43402728d5e4d9de</id>
+    <title>【Git】実務で使うGitブランチ運用ルールまとめ</title>
+    <link rel="alternate" href="https://qiita.com/yuto-vj/items/9fea43402728d5e4d9de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-09T18:55:58+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuto-vj&quot;&gt;yuto-vj&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T18:55:58+09:00&lt;br/&gt;Updated: 2026-04-09T18:55:58+09:00&lt;br/&gt;チーム開発では、Gitのコマンドを覚えるだけでなく、ブランチをどのように運用するかが非常に重要です。
+運用ルールが曖昧だと、
+
+どこで作業すればいいか分からない
+誤って本番ブランチへpushしてしまう
+コンフリクトが増える
+レビューしづらい
+
+といった問題が発生しやすくな...</summary>
   </entry>
 </feed>
