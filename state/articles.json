@@ -221,12 +221,12 @@
       "item_id": "06f3bca71ae6378a844e",
       "title": "Oracle AI Database@AWS で Autonomous AI Database Serverless  を作成してみてみた",
       "link": "https://qiita.com/shirok/items/06f3bca71ae6378a844e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Oracle AI Database@AWS は、弾力的なスケーラビリティ、高いパフォーマンス、および統合されたAI機能を提供するフルマネージドデータベースサービスであるOracle Autonomous AI Database Serverlessをサポートするようになり...",
+      "summary": "2026年6月10日に Oracle AI Database@AWSで Autonomous AI Database Serverless がサポートされたため、さっそく AWS Console から作成して SQL 接続まで確認してみました。これにより、Exadata 専...",
       "published": "2026-06-11T14:57:22+09:00",
-      "updated": "2026-06-12T09:23:08+09:00",
+      "updated": "2026-06-12T19:41:08+09:00",
       "author_name": "shirok",
       "likes_count": 20,
-      "last_seen": "2026-06-12T07:55:22.558278225+00:00"
+      "last_seen": "2026-06-12T11:26:37.883402726+00:00"
     },
     {
       "key": "0751732005097816296c",
@@ -298,7 +298,7 @@
       "updated": "2026-06-10T18:30:58+09:00",
       "author_name": "degudegu2510",
       "likes_count": 14,
-      "last_seen": "2026-06-12T07:55:22.558278225+00:00"
+      "last_seen": "2026-06-12T11:26:37.883402726+00:00"
     },
     {
       "key": "0ca5bd39c4dba6a8c6eb",
@@ -346,7 +346,7 @@
       "updated": "2026-06-10T20:49:29+09:00",
       "author_name": "rairaii",
       "likes_count": 13,
-      "last_seen": "2026-06-12T07:55:22.558278225+00:00"
+      "last_seen": "2026-06-12T11:26:37.883402726+00:00"
     },
     {
       "key": "0f16b486293255497aa2",
@@ -921,8 +921,8 @@
       "published": "2026-06-09T17:51:01+09:00",
       "updated": "2026-06-09T17:51:01+09:00",
       "author_name": "miruky",
-      "likes_count": 108,
-      "last_seen": "2026-06-12T07:55:22.558278225+00:00"
+      "likes_count": 117,
+      "last_seen": "2026-06-12T11:26:37.883402726+00:00"
     },
     {
       "key": "2dc91c5217ae52ef16c1",
@@ -993,8 +993,8 @@
       "published": "2026-06-11T01:01:48+09:00",
       "updated": "2026-06-11T02:02:12+09:00",
       "author_name": "yo_arai",
-      "likes_count": 28,
-      "last_seen": "2026-06-12T07:55:22.558278225+00:00"
+      "likes_count": 29,
+      "last_seen": "2026-06-12T11:26:37.883402726+00:00"
     },
     {
       "key": "30ed3d885da5bb605460",
@@ -1414,7 +1414,7 @@
       "updated": "2026-06-10T16:27:56+09:00",
       "author_name": "500InternalServerError",
       "likes_count": 14,
-      "last_seen": "2026-06-12T07:55:22.558278225+00:00"
+      "last_seen": "2026-06-12T11:26:37.883402726+00:00"
     },
     {
       "key": "3fdc666366cf99fd1116",
@@ -2049,8 +2049,8 @@
       "published": "2026-06-10T10:35:30+09:00",
       "updated": "2026-06-10T10:35:30+09:00",
       "author_name": "BrainDirection",
-      "likes_count": 35,
-      "last_seen": "2026-06-12T07:55:22.558278225+00:00"
+      "likes_count": 39,
+      "last_seen": "2026-06-12T11:26:37.883402726+00:00"
     },
     {
       "key": "52d2186f0d510f820e6f",
@@ -2253,8 +2253,8 @@
       "published": "2026-06-10T09:01:43+09:00",
       "updated": "2026-06-10T09:01:43+09:00",
       "author_name": "tatsuya582",
-      "likes_count": 28,
-      "last_seen": "2026-06-12T07:55:22.558278225+00:00"
+      "likes_count": 29,
+      "last_seen": "2026-06-12T11:26:37.883402726+00:00"
     },
     {
       "key": "5d00c7dd1d690ee4f9bf",
@@ -2937,8 +2937,8 @@
       "published": "2026-06-11T15:28:12+09:00",
       "updated": "2026-06-11T15:28:12+09:00",
       "author_name": "prum_hitomi",
-      "likes_count": 67,
-      "last_seen": "2026-06-12T07:55:22.558278225+00:00"
+      "likes_count": 74,
+      "last_seen": "2026-06-12T11:26:37.883402726+00:00"
     },
     {
       "key": "78212f9f851ffe97f3d9",
@@ -4042,7 +4042,7 @@
       "updated": "2026-06-10T16:57:28+09:00",
       "author_name": "500InternalServerError",
       "likes_count": 12,
-      "last_seen": "2026-06-12T07:55:22.558278225+00:00"
+      "last_seen": "2026-06-12T11:26:37.883402726+00:00"
     },
     {
       "key": "a3e11fa3d865748a5610",
@@ -4318,7 +4318,7 @@
       "updated": "2026-06-10T10:15:44+09:00",
       "author_name": "Sakaaaaai",
       "likes_count": 10,
-      "last_seen": "2026-06-12T07:55:22.558278225+00:00"
+      "last_seen": "2026-06-12T11:26:37.883402726+00:00"
     },
     {
       "key": "ae09dff0b314031d4674",
@@ -5674,7 +5674,7 @@
       "updated": "2026-06-11T08:03:10+09:00",
       "author_name": "Takashi_Masumori",
       "likes_count": 10,
-      "last_seen": "2026-06-12T07:55:22.558278225+00:00"
+      "last_seen": "2026-06-12T11:26:37.883402726+00:00"
     },
     {
       "key": "e6205673598cdb1ff14d",

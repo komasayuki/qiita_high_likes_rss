@@ -287,6 +287,14 @@ UIを設計・実装していると、「このインタラクション、なん
 事例1:...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2d4fcb9ed4bee7ee25fe</id>
+    <title>週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-09T17:51:01+09:00</updated>
+    <summary type="html">Likes: 117&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-09T17:51:01+09:00&lt;br/&gt;Updated: 2026-06-09T17:51:01+09:00&lt;br/&gt;前置き
+Qiita上には素晴らしい先人の方の記事として、「不思議の国のSE用語」というものがあります。網羅度を重視する方は、@t_nakayama0714さんのこの記事をお読みください。当記事では、もっとラフに、社会人歴数年（IT業界）の目線でよく聞くものをピックしよう...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:92459106b36b33bda66b</id>
     <title>エンジニアの成長を加速させる3つの考え方</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/92459106b36b33bda66b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -303,14 +311,6 @@ UIを設計・実装していると、「このインタラクション、なん
     <updated>2026-04-13T11:27:23+09:00</updated>
     <summary type="html">Likes: 111&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:23+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:23+09:00&lt;br/&gt;はじめに：3月31日に何が起きたか
 2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2d4fcb9ed4bee7ee25fe</id>
-    <title>週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-09T17:51:01+09:00</updated>
-    <summary type="html">Likes: 108&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-09T17:51:01+09:00&lt;br/&gt;Updated: 2026-06-09T17:51:01+09:00&lt;br/&gt;前置き
-Qiita上には素晴らしい先人の方の記事として、「不思議の国のSE用語」というものがあります。網羅度を重視する方は、@t_nakayama0714さんのこの記事をお読みください。当記事では、もっとラフに、社会人歴数年（IT業界）の目線でよく聞くものをピックしよう...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
@@ -710,6 +710,20 @@ AIを使ってアプリやUIを作るとき、ChatGPTやClaudeに「いい感じ
 PowerPoint...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:77e2a48e4189bd5ddc3b</id>
+    <title>信頼されるエンジニアが実践する「聴く技術」4選</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/77e2a48e4189bd5ddc3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-11T15:28:12+09:00</updated>
+    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:28:12+09:00&lt;br/&gt;Updated: 2026-06-11T15:28:12+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。
+誰かの助けになれば幸いです。
+
+信頼されるエンジニアが実践する「聴く技術」4選
+
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:61b10d10c63db47a64e7</id>
     <title>AIエージェントのトークン代を節約するNetflixのエンジニアが作ったツール「Headroom」について調べてみた</title>
     <link rel="alternate" href="https://qiita.com/shinkai_/items/61b10d10c63db47a64e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -863,20 +877,6 @@ AI時代、“ITを知らない”が普通に危険になってきた...</summa
 
 この記事はこんな人におすすめ
 ・SQLに対してなんとなく苦...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:77e2a48e4189bd5ddc3b</id>
-    <title>信頼されるエンジニアが実践する「聴く技術」4選</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/77e2a48e4189bd5ddc3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-11T15:28:12+09:00</updated>
-    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:28:12+09:00&lt;br/&gt;Updated: 2026-06-11T15:28:12+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
-仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。
-誰かの助けになれば幸いです。
-
-信頼されるエンジニアが実践する「聴く技術」4選
-
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:dc26f7468dcd39fbe62f</id>
@@ -1391,6 +1391,15 @@ https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5215ea3cd1ec635a1636</id>
+    <title>VPNなしで社外から社内へ：Cloudflare Zero Trust（無料枠）ZTNA構築手順</title>
+    <link rel="alternate" href="https://qiita.com/BrainDirection/items/5215ea3cd1ec635a1636?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-10T10:35:30+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/BrainDirection&quot;&gt;BrainDirection&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T10:35:30+09:00&lt;br/&gt;Updated: 2026-06-10T10:35:30+09:00&lt;br/&gt;はじめに
+「社外から社内システムに入る手段がVPNしかない」「VPN装置の脆弱性対応に追われている」——中小規模の情シスでよくある悩みです。
+本記事では、Cloudflare Zero Trust を使って、VPNを使わずに社外から社内リソース（社内Web・RDPなど）へ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c8b5cca97554f6f64782</id>
     <title>Claude Code x Obsidianで、LLM Wiki構築 | セッションを切り替えても会話を続けられる方法</title>
     <link rel="alternate" href="https://qiita.com/usayamadausako/items/c8b5cca97554f6f64782?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1607,15 +1616,6 @@ cdコマンド...</summary>
 AWSは2026年5月11日、Claude Platform on AWSの一般提供開始を発表しました。東京リージョンでも利用可能になっています。
 
 Claude Platform on AWSは、Anthropicが提供するネイティブなClaude Platf...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5215ea3cd1ec635a1636</id>
-    <title>VPNなしで社外から社内へ：Cloudflare Zero Trust（無料枠）ZTNA構築手順</title>
-    <link rel="alternate" href="https://qiita.com/BrainDirection/items/5215ea3cd1ec635a1636?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-10T10:35:30+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/BrainDirection&quot;&gt;BrainDirection&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T10:35:30+09:00&lt;br/&gt;Updated: 2026-06-10T10:35:30+09:00&lt;br/&gt;はじめに
-「社外から社内システムに入る手段がVPNしかない」「VPN装置の脆弱性対応に追われている」——中小規模の情シスでよくある悩みです。
-本記事では、Cloudflare Zero Trust を使って、VPNを使わずに社外から社内リソース（社内Web・RDPなど）へ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c63073fef7fb87d9f472</id>
@@ -1904,6 +1904,25 @@ Claude と会話しながらデザインやプロトタイプ、スライド、1
 生成AIは自然言語でもある程度のアウトプットを返してくれま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:30ae4581b8a9b3206b15</id>
+    <title>Claude Fable 5を１日使ってみて</title>
+    <link rel="alternate" href="https://qiita.com/yo_arai/items/30ae4581b8a9b3206b15?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-11T02:02:12+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yo_arai&quot;&gt;yo_arai&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T01:01:48+09:00&lt;br/&gt;Updated: 2026-06-11T02:02:12+09:00&lt;br/&gt;はじめに
+本日Anthropic一般公開したモデル「Fable 5」を、リリース翌日から丸一日、Claude Code でのコーディング・開発作業を中心に触ってみました。本記事はその所感を述べたものです。
+
+モデル概要
+まあ読んでいる時点で知らないことはないと思いますが前...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5ca0c12a8495530f7d09</id>
+    <title>Claude Code と Codex のレート残量を確認するためにブラウザを開くのをやめた話</title>
+    <link rel="alternate" href="https://qiita.com/tatsuya582/items/5ca0c12a8495530f7d09?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-10T09:01:43+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T09:01:43+09:00&lt;br/&gt;Updated: 2026-06-10T09:01:43+09:00&lt;br/&gt;はじめに
+Claude Code と Codex を Pro / Plus プランで併用していると、レートリミット（5時間枠・週枠）にそれなりの頻度で当たります。当たると作業が止まるので、私は枠に当たらないように Codex と Claude を切り替えたり、モデルを切り...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b9d9dd83f33b4c837d63</id>
     <title>ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/b9d9dd83f33b4c837d63?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1958,25 +1977,6 @@ GUIで操作できる環境もありますが、CUI（コマンドライン）�
 権限設定
 
 など...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:30ae4581b8a9b3206b15</id>
-    <title>Claude Fable 5を１日使ってみて</title>
-    <link rel="alternate" href="https://qiita.com/yo_arai/items/30ae4581b8a9b3206b15?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-11T02:02:12+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yo_arai&quot;&gt;yo_arai&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T01:01:48+09:00&lt;br/&gt;Updated: 2026-06-11T02:02:12+09:00&lt;br/&gt;はじめに
-本日Anthropic一般公開したモデル「Fable 5」を、リリース翌日から丸一日、Claude Code でのコーディング・開発作業を中心に触ってみました。本記事はその所感を述べたものです。
-
-モデル概要
-まあ読んでいる時点で知らないことはないと思いますが前...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5ca0c12a8495530f7d09</id>
-    <title>Claude Code と Codex のレート残量を確認するためにブラウザを開くのをやめた話</title>
-    <link rel="alternate" href="https://qiita.com/tatsuya582/items/5ca0c12a8495530f7d09?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-10T09:01:43+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T09:01:43+09:00&lt;br/&gt;Updated: 2026-06-10T09:01:43+09:00&lt;br/&gt;はじめに
-Claude Code と Codex を Pro / Plus プランで併用していると、レートリミット（5時間枠・週枠）にそれなりの頻度で当たります。当たると作業が止まるので、私は枠に当たらないように Codex と Claude を切り替えたり、モデルを切り...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9c7277d66e9d0ba8be15</id>
