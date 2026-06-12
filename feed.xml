@@ -291,7 +291,7 @@ UIを設計・実装していると、「このインタラクション、なん
     <title>週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-09T17:51:01+09:00</updated>
-    <summary type="html">Likes: 118&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-09T17:51:01+09:00&lt;br/&gt;Updated: 2026-06-09T17:51:01+09:00&lt;br/&gt;前置き
+    <summary type="html">Likes: 121&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-09T17:51:01+09:00&lt;br/&gt;Updated: 2026-06-09T17:51:01+09:00&lt;br/&gt;前置き
 Qiita上には素晴らしい先人の方の記事として、「不思議の国のSE用語」というものがあります。網羅度を重視する方は、@t_nakayama0714さんのこの記事をお読みください。当記事では、もっとラフに、社会人歴数年（IT業界）の目線でよく聞くものをピックしよう...</summary>
   </entry>
   <entry>
@@ -1360,6 +1360,15 @@ Linuxを学び、黒い画面（CUI）と向き合った新卒研修で学んだ
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5215ea3cd1ec635a1636</id>
+    <title>VPNなしで社外から社内へ：Cloudflare Zero Trust（無料枠）ZTNA構築手順</title>
+    <link rel="alternate" href="https://qiita.com/BrainDirection/items/5215ea3cd1ec635a1636?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-10T10:35:30+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/BrainDirection&quot;&gt;BrainDirection&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T10:35:30+09:00&lt;br/&gt;Updated: 2026-06-10T10:35:30+09:00&lt;br/&gt;はじめに
+「社外から社内システムに入る手段がVPNしかない」「VPN装置の脆弱性対応に追われている」——中小規模の情シスでよくある悩みです。
+本記事では、Cloudflare Zero Trust を使って、VPNを使わずに社外から社内リソース（社内Web・RDPなど）へ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:15ddf5601ff29ef8d376</id>
     <title>会社で Microsoft 365 Copilot しか使えない人のための「エージェントビルダー」入門 ── 宣言型エージェントを最新版で作る</title>
     <link rel="alternate" href="https://qiita.com/sukimaengineer/items/15ddf5601ff29ef8d376?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1389,15 +1398,6 @@ Linuxを学び、黒い画面（CUI）と向き合った新卒研修で学んだ
 この記事は前回の Claude Code 入門記事を読んでいる前提で書いています。「Skill ってそもそも何？」という方は先にこちらをご覧ください。
 https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5215ea3cd1ec635a1636</id>
-    <title>VPNなしで社外から社内へ：Cloudflare Zero Trust（無料枠）ZTNA構築手順</title>
-    <link rel="alternate" href="https://qiita.com/BrainDirection/items/5215ea3cd1ec635a1636?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-10T10:35:30+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/BrainDirection&quot;&gt;BrainDirection&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T10:35:30+09:00&lt;br/&gt;Updated: 2026-06-10T10:35:30+09:00&lt;br/&gt;はじめに
-「社外から社内システムに入る手段がVPNしかない」「VPN装置の脆弱性対応に追われている」——中小規模の情シスでよくある悩みです。
-本記事では、Cloudflare Zero Trust を使って、VPNを使わずに社外から社内リソース（社内Web・RDPなど）へ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c8b5cca97554f6f64782</id>
@@ -1835,6 +1835,17 @@ WEBアプリケーションエンジニアとして活動しているPOMです�
 これまでデータ分析を学ぶには、Explora...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:30ae4581b8a9b3206b15</id>
+    <title>Claude Fable 5を１日使ってみて</title>
+    <link rel="alternate" href="https://qiita.com/yo_arai/items/30ae4581b8a9b3206b15?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-11T02:02:12+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yo_arai&quot;&gt;yo_arai&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T01:01:48+09:00&lt;br/&gt;Updated: 2026-06-11T02:02:12+09:00&lt;br/&gt;はじめに
+本日Anthropic一般公開したモデル「Fable 5」を、リリース翌日から丸一日、Claude Code でのコーディング・開発作業を中心に触ってみました。本記事はその所感を述べたものです。
+
+モデル概要
+まあ読んでいる時点で知らないことはないと思いますが前...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a072528364883ae7bb96</id>
     <title>[ハンズオン手順書] Claude + Microsoft Foundry で AI エージェントを構築する #CodeWithClaude</title>
     <link rel="alternate" href="https://qiita.com/chomado/items/a072528364883ae7bb96?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1910,17 +1921,6 @@ Claude と会話しながらデザインやプロトタイプ、スライド、1
 これまでは主に概念や特徴の理解が中心でしたが、
 今回は一歩踏み込んで「実際にどう使うと精度が変わるのか」という点について学びました。
 生成AIは自然言語でもある程度のアウトプットを返してくれま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:30ae4581b8a9b3206b15</id>
-    <title>Claude Fable 5を１日使ってみて</title>
-    <link rel="alternate" href="https://qiita.com/yo_arai/items/30ae4581b8a9b3206b15?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-11T02:02:12+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yo_arai&quot;&gt;yo_arai&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T01:01:48+09:00&lt;br/&gt;Updated: 2026-06-11T02:02:12+09:00&lt;br/&gt;はじめに
-本日Anthropic一般公開したモデル「Fable 5」を、リリース翌日から丸一日、Claude Code でのコーディング・開発作業を中心に触ってみました。本記事はその所感を述べたものです。
-
-モデル概要
-まあ読んでいる時点で知らないことはないと思いますが前...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b9d9dd83f33b4c837d63</id>
