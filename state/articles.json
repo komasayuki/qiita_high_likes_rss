@@ -226,7 +226,7 @@
       "updated": "2026-06-12T19:41:08+09:00",
       "author_name": "shirok",
       "likes_count": 20,
-      "last_seen": "2026-06-12T18:53:41.627685286+00:00"
+      "last_seen": "2026-06-12T19:46:49.956969185+00:00"
     },
     {
       "key": "0751732005097816296c",
@@ -298,7 +298,7 @@
       "updated": "2026-06-10T18:30:58+09:00",
       "author_name": "degudegu2510",
       "likes_count": 15,
-      "last_seen": "2026-06-12T18:53:41.627685286+00:00"
+      "last_seen": "2026-06-12T19:46:49.956969185+00:00"
     },
     {
       "key": "0ca5bd39c4dba6a8c6eb",
@@ -346,7 +346,7 @@
       "updated": "2026-06-10T20:49:29+09:00",
       "author_name": "rairaii",
       "likes_count": 13,
-      "last_seen": "2026-06-12T18:53:41.627685286+00:00"
+      "last_seen": "2026-06-12T19:46:49.956969185+00:00"
     },
     {
       "key": "0f16b486293255497aa2",
@@ -757,18 +757,6 @@
       "last_seen": "2026-05-28T07:39:44.939409781+00:00"
     },
     {
-      "key": "231a8cdee9dc01d45ed9",
-      "item_id": "231a8cdee9dc01d45ed9",
-      "title": "Javaの例外処理を正しく理解する — 検査例外・非検査例外・throwsの使いどころ",
-      "link": "https://qiita.com/S_kamon/items/231a8cdee9dc01d45ed9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nJavaを学び始めると、例外処理は早い段階でつまずきやすいテーマのひとつです。\n「とりあえず try-catch で囲めばいい」「throws Exception と書けばコンパイルが通る」という理解のまま進んでしまうと、バグの原因に気づきにくいコードになってし...",
-      "published": "2026-04-10T17:49:25+09:00",
-      "updated": "2026-04-10T17:49:25+09:00",
-      "author_name": "S_kamon",
-      "likes_count": 21,
-      "last_seen": "2026-04-13T19:37:08.637455486+00:00"
-    },
-    {
       "key": "2359c10d6c37be7f4fb3",
       "item_id": "2359c10d6c37be7f4fb3",
       "title": "AIエージェントを支える次世代データ基盤 - 物理グラフDBを独自開発するための変更管理と安定運用戦略",
@@ -922,7 +910,7 @@
       "updated": "2026-06-09T17:51:01+09:00",
       "author_name": "miruky",
       "likes_count": 121,
-      "last_seen": "2026-06-12T18:53:41.627685286+00:00"
+      "last_seen": "2026-06-12T19:46:49.956969185+00:00"
     },
     {
       "key": "2dc91c5217ae52ef16c1",
@@ -994,7 +982,7 @@
       "updated": "2026-06-11T02:02:12+09:00",
       "author_name": "yo_arai",
       "likes_count": 30,
-      "last_seen": "2026-06-12T18:53:41.627685286+00:00"
+      "last_seen": "2026-06-12T19:46:49.956969185+00:00"
     },
     {
       "key": "30ed3d885da5bb605460",
@@ -1043,18 +1031,6 @@
       "author_name": "s-yoshina",
       "likes_count": 25,
       "last_seen": "2026-04-22T07:43:37.028291166+00:00"
-    },
-    {
-      "key": "32314a0d9eb8c154dc95",
-      "item_id": "32314a0d9eb8c154dc95",
-      "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
-      "link": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nこんばんは、mirukyです。\n「MCPはもう死んだ」「Skillsが新しい標準だ」、、などなど。\nニーチェ？\nここ数週間、特に英語圏のX（旧Twitter）やHacker Newsでこの手の議論が絶えません。2026年4月2日に投稿された下記の記事は、特に話...",
-      "published": "2026-04-11T00:49:30+09:00",
-      "updated": "2026-04-11T00:49:30+09:00",
-      "author_name": "miruky",
-      "likes_count": 19,
-      "last_seen": "2026-04-13T19:37:08.637455486+00:00"
     },
     {
       "key": "323bc76cf2d31d9f4d42",
@@ -1175,18 +1151,6 @@
       "author_name": "ManabuYamamoto",
       "likes_count": 11,
       "last_seen": "2026-06-05T19:44:05.588799893+00:00"
-    },
-    {
-      "key": "36404f9ec9c786cde671",
-      "item_id": "36404f9ec9c786cde671",
-      "title": "マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術",
-      "link": "https://qiita.com/teppei19980914/items/36404f9ec9c786cde671?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術\n\nはじめに\n皆さんは Markdown（マークダウン） を「見出しと箇条書きが書ける記法」程度に思っていませんか？\n私もかつてはそうでした。しかし、個人開発で REQUIREMENTS....",
-      "published": "2026-04-10T18:34:01+09:00",
-      "updated": "2026-04-10T18:34:01+09:00",
-      "author_name": "teppei19980914",
-      "likes_count": 262,
-      "last_seen": "2026-04-13T19:37:08.637455486+00:00"
     },
     {
       "key": "3688cf515c14f7471ed4",
@@ -1414,7 +1378,7 @@
       "updated": "2026-06-10T16:27:56+09:00",
       "author_name": "500InternalServerError",
       "likes_count": 14,
-      "last_seen": "2026-06-12T18:53:41.627685286+00:00"
+      "last_seen": "2026-06-12T19:46:49.956969185+00:00"
     },
     {
       "key": "3fdc666366cf99fd1116",
@@ -2050,7 +2014,7 @@
       "updated": "2026-06-10T10:35:30+09:00",
       "author_name": "BrainDirection",
       "likes_count": 40,
-      "last_seen": "2026-06-12T18:53:41.627685286+00:00"
+      "last_seen": "2026-06-12T19:46:49.956969185+00:00"
     },
     {
       "key": "52d2186f0d510f820e6f",
@@ -2254,7 +2218,7 @@
       "updated": "2026-06-10T09:01:43+09:00",
       "author_name": "tatsuya582",
       "likes_count": 30,
-      "last_seen": "2026-06-12T18:53:41.627685286+00:00"
+      "last_seen": "2026-06-12T19:46:49.956969185+00:00"
     },
     {
       "key": "5d00c7dd1d690ee4f9bf",
@@ -2470,7 +2434,7 @@
       "updated": "2026-06-11T17:09:12+09:00",
       "author_name": "K_TAKETO",
       "likes_count": 10,
-      "last_seen": "2026-06-12T18:53:41.627685286+00:00"
+      "last_seen": "2026-06-12T19:46:49.956969185+00:00"
     },
     {
       "key": "67763951482a58dcdfb5",
@@ -2950,7 +2914,7 @@
       "updated": "2026-06-11T15:28:12+09:00",
       "author_name": "prum_hitomi",
       "likes_count": 77,
-      "last_seen": "2026-06-12T18:53:41.627685286+00:00"
+      "last_seen": "2026-06-12T19:46:49.956969185+00:00"
     },
     {
       "key": "78212f9f851ffe97f3d9",
@@ -3469,18 +3433,6 @@
       "last_seen": "2026-04-24T19:28:10.742427076+00:00"
     },
     {
-      "key": "8c5953b7c9d11979b320",
-      "item_id": "8c5953b7c9d11979b320",
-      "title": "TypeScript における any と unknown の使い分け",
-      "link": "https://qiita.com/ryo_sh/items/8c5953b7c9d11979b320?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "TypeScript で「型がはっきり分からない値」を扱うとき、any と unknown が候補に挙がります。\nどちらも何でも代入できる型ですが、代入した後に何ができるかがまったく違います。\nこの記事では両者の違いと、使い分けを整理します。\n\nany — 型チェックを無効...",
-      "published": "2026-04-10T18:39:43+09:00",
-      "updated": "2026-04-10T18:39:43+09:00",
-      "author_name": "ryo_sh",
-      "likes_count": 20,
-      "last_seen": "2026-04-13T19:37:08.637455486+00:00"
-    },
-    {
       "key": "8d0e2eba108351f930d3",
       "item_id": "8d0e2eba108351f930d3",
       "title": "【初学者向け】Webサービスを守る多要素認証と暗号化の話",
@@ -3707,18 +3659,6 @@
       "author_name": "nhatcaofedev",
       "likes_count": 10,
       "last_seen": "2026-05-12T07:15:04.313284062+00:00"
-    },
-    {
-      "key": "9631a596b5590e9ee7b8",
-      "item_id": "9631a596b5590e9ee7b8",
-      "title": "【Git】実務で使うPull Request運用ルールまとめ",
-      "link": "https://qiita.com/yuto-vj/items/9631a596b5590e9ee7b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "チーム開発では、コードを書くだけでなく Pull Request（PR）の運用ルール も非常に重要です。\nルールが曖昧なまま運用すると、\n\n何を変更したPRなのか分かりづらい\nレビューに時間がかかる\n見落としが増える\nマージ事故が起きやすい\n\nといった問題につながります。...",
-      "published": "2026-04-10T18:45:08+09:00",
-      "updated": "2026-04-10T18:45:08+09:00",
-      "author_name": "yuto-vj",
-      "likes_count": 21,
-      "last_seen": "2026-04-13T19:37:08.637455486+00:00"
     },
     {
       "key": "9650afd183ce0ea09e70",
@@ -4054,7 +3994,7 @@
       "updated": "2026-06-10T16:57:28+09:00",
       "author_name": "500InternalServerError",
       "likes_count": 12,
-      "last_seen": "2026-06-12T18:53:41.627685286+00:00"
+      "last_seen": "2026-06-12T19:46:49.956969185+00:00"
     },
     {
       "key": "a3e11fa3d865748a5610",
@@ -4330,7 +4270,7 @@
       "updated": "2026-06-10T10:15:44+09:00",
       "author_name": "Sakaaaaai",
       "likes_count": 11,
-      "last_seen": "2026-06-12T18:53:41.627685286+00:00"
+      "last_seen": "2026-06-12T19:46:49.956969185+00:00"
     },
     {
       "key": "ae09dff0b314031d4674",
@@ -4871,18 +4811,6 @@
       "author_name": "crowdy",
       "likes_count": 21,
       "last_seen": "2026-05-02T07:43:06.050455833+00:00"
-    },
-    {
-      "key": "c3ef3c71aad13fc78daf",
-      "item_id": "c3ef3c71aad13fc78daf",
-      "title": "Claudeの概要と設計思想から学んだこと",
-      "link": "https://qiita.com/aito1234/items/c3ef3c71aad13fc78daf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n前回はAIエージェントについて特徴やできることを整理しました。\nAIエージェントの仕組みと振る舞いを整理してみた\n今回はその理解を前提に、「Claude」について学びました。Claudeの概念だけでなく「なぜこの機能が生まれたのか」という背景まで理解できたことで...",
-      "published": "2026-04-10T18:28:31+09:00",
-      "updated": "2026-04-10T18:45:00+09:00",
-      "author_name": "aito1234",
-      "likes_count": 22,
-      "last_seen": "2026-04-13T19:37:08.637455486+00:00"
     },
     {
       "key": "c45179bcc35feda0041f",
@@ -5686,7 +5614,7 @@
       "updated": "2026-06-11T08:03:10+09:00",
       "author_name": "Takashi_Masumori",
       "likes_count": 10,
-      "last_seen": "2026-06-12T18:53:41.627685286+00:00"
+      "last_seen": "2026-06-12T19:46:49.956969185+00:00"
     },
     {
       "key": "e6205673598cdb1ff14d",
@@ -6371,18 +6299,6 @@
       "author_name": "shibuya-ys",
       "likes_count": 34,
       "last_seen": "2026-04-23T07:44:26.013473329+00:00"
-    },
-    {
-      "key": "fbca13aa136ed9f76979",
-      "item_id": "fbca13aa136ed9f76979",
-      "title": "【n8n】毎朝7時にQiita人気記事TOP5をLINEに自動通知する仕組みを作ってみた",
-      "link": "https://qiita.com/wan-code/items/fbca13aa136ed9f76979?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n隙間時間にQiitaの記事を効率よくチェックしたいと思い、\n人気記事を自動で取得して通知する仕組みを作成しました。\n今回は、n8nを使ってQiitaの人気記事をLINEに自動通知する方法を紹介します。\n完成イメージ\n毎朝こんな感じでLINEに届きます\n昨日のQi...",
-      "published": "2026-04-10T18:55:51+09:00",
-      "updated": "2026-04-10T18:55:51+09:00",
-      "author_name": "wan-code",
-      "likes_count": 23,
-      "last_seen": "2026-04-13T19:37:08.637455486+00:00"
     },
     {
       "key": "fc215131805b7523c20b",
