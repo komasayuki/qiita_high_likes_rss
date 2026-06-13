@@ -302,16 +302,6 @@ Qiita上には素晴らしい先人の方の記事として、「不思議の国
 2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:fcab851c5351f79b481d</id>
-    <title>【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/fcab851c5351f79b481d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-12T20:56:45+09:00</updated>
-    <summary type="html">Likes: 107&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T13:53:43+09:00&lt;br/&gt;Updated: 2026-04-12T20:56:45+09:00&lt;br/&gt;はじめに
-
-こんばんは、mirukyです。
-2026年3月31日、npmの Axios パッケージ（週間1億ダウンロード）がサプライチェーン攻撃を受けました。攻撃者はメンテナーへの標的型ソーシャルエンジニアリングでセッションを乗っ取り、悪意ある依存 plain-crypt...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:1ffbc05f07355231f420</id>
     <title>1割の“信頼される”エンジニアが実行している『締め切り感覚論』</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/1ffbc05f07355231f420?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -437,7 +427,7 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <title>信頼されるエンジニアが実践する「聴く技術」4選</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/77e2a48e4189bd5ddc3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-11T15:28:12+09:00</updated>
-    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:28:12+09:00&lt;br/&gt;Updated: 2026-06-11T15:28:12+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+    <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:28:12+09:00&lt;br/&gt;Updated: 2026-06-11T15:28:12+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
 仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。
 誰かの助けになれば幸いです。
@@ -1115,18 +1105,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶ コーポレートサイト
 
 会議が時間通り...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5a3fad5ec1c80a8be715</id>
-    <title>AIで実装は速くなった。でもチーム開発が逆に難しくなった理由</title>
-    <link rel="alternate" href="https://qiita.com/engchina/items/5a3fad5ec1c80a8be715?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T03:33:56+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T11:24:21+09:00&lt;br/&gt;Updated: 2026-04-13T03:33:56+09:00&lt;br/&gt;先に結論
-AIを導入すると、実装スピードは確実に上がります。
-ただ、チーム開発で本当に問題になるのは、コードを書く速さではなくコードを理解し、判断を共有する速さです。
-今回読んだ2本の記事から得た学びを一言でまとめると、次の3つでした。
-
-仕様書は「ずっと保守する正本」で...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c61eb886faa1cee69054</id>
@@ -2219,5 +2197,33 @@ null を返す関数や boolean フラ...</summary>
 ドメイン知識を活かした設計に興味がある人
 
 ■...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4ff2efbaa38575edd6a8</id>
+    <title>「あ、これAIが書いたな」と一瞬でバレる技術記事の6つの特徴</title>
+    <link rel="alternate" href="https://qiita.com/gorie-site/items/4ff2efbaa38575edd6a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-11T23:34:03+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/gorie-site&quot;&gt;gorie-site&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T23:34:03+09:00&lt;br/&gt;Updated: 2026-05-11T23:34:03+09:00&lt;br/&gt;最近、QiitaやZennを眺めていると、「あ、これAIが書いたな」と直感的に分かることが増えてきました。
+LLMの進化によって誰でも簡単に技術記事を量産できるようになりましたが、プロンプトをそのまま投げただけの出力には、AI特有の「手癖」 が強く残ります。
+本記事では、A...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e4b45796c414e4b0054d</id>
+    <title>【n8n】YouTube新着動画を自動でDiscord通知する仕組みを作ってみた（重複通知防止付き）</title>
+    <link rel="alternate" href="https://qiita.com/wan-code/items/e4b45796c414e4b0054d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-30T18:56:25+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wan-code&quot;&gt;wan-code&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T18:56:25+09:00&lt;br/&gt;Updated: 2026-04-30T18:56:25+09:00&lt;br/&gt;YouTubeに新しい動画を投稿したら、Discordに自動通知される仕組みを n8n で作ってみました。
+通知済み動画は二重通知しない ようにしています。
+
+作ったフロー
+1時間ごとに実行
+↓
+YouTube RSS取得
+↓
+動画情報整形
+↓
+通知済み確認
+↓
+未通知だけ...</summary>
   </entry>
 </feed>
