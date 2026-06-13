@@ -519,6 +519,20 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 Claude Codeは素のままでも強力ですが、Skillsを使うことで繰り返しの作業を自動化し、開発のルーティンをまるごとコマンド一発に変えることができま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:77e2a48e4189bd5ddc3b</id>
+    <title>信頼されるエンジニアが実践する「聴く技術」4選</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/77e2a48e4189bd5ddc3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-11T15:28:12+09:00</updated>
+    <summary type="html">Likes: 87&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:28:12+09:00&lt;br/&gt;Updated: 2026-06-11T15:28:12+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。
+誰かの助けになれば幸いです。
+
+信頼されるエンジニアが実践する「聴く技術」4選
+
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9eafa7854f27055a7a07</id>
     <title>ITって結局なんのためにあるの？</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/9eafa7854f27055a7a07?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -584,20 +598,6 @@ AWS MCP サーバー、結構前からGA するらしいという噂は流れて
 今日は開発現場で大切なプログラミング前後の工程のお話をします。内容はそれらの工程のほんの一部になりますが、主にエンジニア未経験者、駆け出しエンジニアの方々の知見が少しでも広がればと思います。
 
 1. 【プログラミングの前】「何を作るか」の合...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:77e2a48e4189bd5ddc3b</id>
-    <title>信頼されるエンジニアが実践する「聴く技術」4選</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/77e2a48e4189bd5ddc3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-11T15:28:12+09:00</updated>
-    <summary type="html">Likes: 83&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:28:12+09:00&lt;br/&gt;Updated: 2026-06-11T15:28:12+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
-仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。
-誰かの助けになれば幸いです。
-
-信頼されるエンジニアが実践する「聴く技術」4選
-
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:334b0b9c3ee457dfa8c7</id>
@@ -1198,6 +1198,15 @@ AST（抽象構文木）から「構造」だけを抽出したマップこそ�
 データの流入から破綻までをグラフ理論で定義すれば、理論上、脆弱性は100%...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5215ea3cd1ec635a1636</id>
+    <title>VPNなしで社外から社内へ：Cloudflare Zero Trust（無料枠）ZTNA構築手順</title>
+    <link rel="alternate" href="https://qiita.com/BrainDirection/items/5215ea3cd1ec635a1636?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-10T10:35:30+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/BrainDirection&quot;&gt;BrainDirection&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T10:35:30+09:00&lt;br/&gt;Updated: 2026-06-10T10:35:30+09:00&lt;br/&gt;はじめに
+「社外から社内システムに入る手段がVPNしかない」「VPN装置の脆弱性対応に追われている」——中小規模の情シスでよくある悩みです。
+本記事では、Cloudflare Zero Trust を使って、VPNを使わずに社外から社内リソース（社内Web・RDPなど）へ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a3e11fa3d865748a5610</id>
     <title>ビジネスマナーは“形”だけじゃない——新卒研修で学んだことと考えたこと</title>
     <link rel="alternate" href="https://qiita.com/yukidaruma110/items/a3e11fa3d865748a5610?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1279,15 +1288,6 @@ ssh user@192.168.1.100
 SOLID 原則は有名ですが、実際の現場ではそこまで厳密に意識していないことも多いですよね。
 むしろ、もっとシンプルで、日常的に効く原則のほうが役に立つ場面は多いです。
 そこで今回は DRY、KIS...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5215ea3cd1ec635a1636</id>
-    <title>VPNなしで社外から社内へ：Cloudflare Zero Trust（無料枠）ZTNA構築手順</title>
-    <link rel="alternate" href="https://qiita.com/BrainDirection/items/5215ea3cd1ec635a1636?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-10T10:35:30+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/BrainDirection&quot;&gt;BrainDirection&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T10:35:30+09:00&lt;br/&gt;Updated: 2026-06-10T10:35:30+09:00&lt;br/&gt;はじめに
-「社外から社内システムに入る手段がVPNしかない」「VPN装置の脆弱性対応に追われている」——中小規模の情シスでよくある悩みです。
-本記事では、Cloudflare Zero Trust を使って、VPNを使わずに社外から社内リソース（社内Web・RDPなど）へ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f02c34ae6dc994cd3084</id>
