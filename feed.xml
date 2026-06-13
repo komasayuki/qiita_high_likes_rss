@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-06-11T15:28:12+09:00</updated>
+  <updated>2026-06-11T17:09:12+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -366,7 +366,7 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <title>信頼されるエンジニアが実践する「聴く技術」4選</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/77e2a48e4189bd5ddc3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-11T15:28:12+09:00</updated>
-    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:28:12+09:00&lt;br/&gt;Updated: 2026-06-11T15:28:12+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+    <summary type="html">Likes: 97&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:28:12+09:00&lt;br/&gt;Updated: 2026-06-11T15:28:12+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
 仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。
 誰かの助けになれば幸いです。
@@ -2138,6 +2138,17 @@ NullPointerException（NPE）は、Javaの生みの親であるトニー・...</
 Claude Codeを使い込んでいくと、毎回同じ指示を繰り返している自分に気づきます。「記事を書くときはまずWeb検索して、構成案を出して、承認を得てから執筆して、output/articles/に保存して」。こうした...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:66d70ce4ed54139998a9</id>
+    <title>【保存版】Linux作業を爆速化する便利コマンド5選</title>
+    <link rel="alternate" href="https://qiita.com/K_TAKETO/items/66d70ce4ed54139998a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-11T17:09:12+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/K_TAKETO&quot;&gt;K_TAKETO&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T17:09:12+09:00&lt;br/&gt;Updated: 2026-06-11T17:09:12+09:00&lt;br/&gt;この記事では「知ってる人は知ってる、でも意外と使われていない」実用コマンドを厳選して紹介します。
+コピペしてすぐ使える形でまとめたので、ぜひターミナルを開きながら読んでみてください。
+
+はじめに
+Linuxを日常的に使っていると、「もっと速くできないか？」と感じる場...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:72a7fd6854e99506cdff</id>
     <title>なぜCatBoostはカテゴリ変数に強いのか？LightGBM・XGBoostとの違いから理解する</title>
     <link rel="alternate" href="https://qiita.com/KanNishida/items/72a7fd6854e99506cdff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2206,24 +2217,5 @@ null を返す関数や boolean フラ...</summary>
     <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/gorie-site&quot;&gt;gorie-site&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T23:34:03+09:00&lt;br/&gt;Updated: 2026-05-11T23:34:03+09:00&lt;br/&gt;最近、QiitaやZennを眺めていると、「あ、これAIが書いたな」と直感的に分かることが増えてきました。
 LLMの進化によって誰でも簡単に技術記事を量産できるようになりましたが、プロンプトをそのまま投げただけの出力には、AI特有の「手癖」 が強く残ります。
 本記事では、A...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e4b45796c414e4b0054d</id>
-    <title>【n8n】YouTube新着動画を自動でDiscord通知する仕組みを作ってみた（重複通知防止付き）</title>
-    <link rel="alternate" href="https://qiita.com/wan-code/items/e4b45796c414e4b0054d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-30T18:56:25+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wan-code&quot;&gt;wan-code&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T18:56:25+09:00&lt;br/&gt;Updated: 2026-04-30T18:56:25+09:00&lt;br/&gt;YouTubeに新しい動画を投稿したら、Discordに自動通知される仕組みを n8n で作ってみました。
-通知済み動画は二重通知しない ようにしています。
-
-作ったフロー
-1時間ごとに実行
-↓
-YouTube RSS取得
-↓
-動画情報整形
-↓
-通知済み確認
-↓
-未通知だけ...</summary>
   </entry>
 </feed>
