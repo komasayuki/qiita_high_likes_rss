@@ -2087,6 +2087,18 @@ AIエージェントに絶対に任せてはいけない6つのこ...</summary>
 従来の...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:831717856fd24981799d</id>
+    <title>3年間、AI要件定義に取り組んできた全記録</title>
+    <link rel="alternate" href="https://qiita.com/kumai_yu/items/831717856fd24981799d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-14T09:44:34+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kumai_yu&quot;&gt;kumai_yu&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T09:44:34+09:00&lt;br/&gt;Updated: 2026-06-14T09:44:34+09:00&lt;br/&gt;AI駆動開発で要件定義はどう変わったか。
+こんにちは。主にXにてAI駆動開発について発信している熊井悠です！
+現在はAIスタートアップ企業のCEO兼CTOをしています！
+
+僕は前職であるSIer、ITコンサルティング企業で上流工程に関わる機会が多くありました。
+そのた...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:be9684ba52ae88f76dda</id>
     <title>経験浅いエンジニアが AI に React 書かせてると、進化に取り残される説</title>
     <link rel="alternate" href="https://qiita.com/Yamada040/items/be9684ba52ae88f76dda?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2212,24 +2224,5 @@ null を返す関数や boolean フラ...</summary>
     <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/gorie-site&quot;&gt;gorie-site&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T23:34:03+09:00&lt;br/&gt;Updated: 2026-05-11T23:34:03+09:00&lt;br/&gt;最近、QiitaやZennを眺めていると、「あ、これAIが書いたな」と直感的に分かることが増えてきました。
 LLMの進化によって誰でも簡単に技術記事を量産できるようになりましたが、プロンプトをそのまま投げただけの出力には、AI特有の「手癖」 が強く残ります。
 本記事では、A...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e4b45796c414e4b0054d</id>
-    <title>【n8n】YouTube新着動画を自動でDiscord通知する仕組みを作ってみた（重複通知防止付き）</title>
-    <link rel="alternate" href="https://qiita.com/wan-code/items/e4b45796c414e4b0054d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-30T18:56:25+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wan-code&quot;&gt;wan-code&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T18:56:25+09:00&lt;br/&gt;Updated: 2026-04-30T18:56:25+09:00&lt;br/&gt;YouTubeに新しい動画を投稿したら、Discordに自動通知される仕組みを n8n で作ってみました。
-通知済み動画は二重通知しない ようにしています。
-
-作ったフロー
-1時間ごとに実行
-↓
-YouTube RSS取得
-↓
-動画情報整形
-↓
-通知済み確認
-↓
-未通知だけ...</summary>
   </entry>
 </feed>
