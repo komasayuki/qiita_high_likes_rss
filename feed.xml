@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-06-11T17:09:12+09:00</updated>
+  <updated>2026-06-14T10:50:17+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -344,7 +344,7 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <title>信頼されるエンジニアが実践する「聴く技術」4選</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/77e2a48e4189bd5ddc3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-11T15:28:12+09:00</updated>
-    <summary type="html">Likes: 99&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:28:12+09:00&lt;br/&gt;Updated: 2026-06-11T15:28:12+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+    <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:28:12+09:00&lt;br/&gt;Updated: 2026-06-11T15:28:12+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
 仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。
 誰かの助けになれば幸いです。
@@ -1057,6 +1057,19 @@ Railsの仕組みを一言でいうと、「超優秀なレ...</summary>
 QiitaやZenn、ブログで記...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3c8949b62ce1dfe7a024</id>
+    <title>Claude Codeに人生を管理させて3ヶ月、一番効いたのは自動化じゃなかった</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/3c8949b62ce1dfe7a024?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-14T10:50:17+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T10:25:29+09:00&lt;br/&gt;Updated: 2026-06-14T10:50:17+09:00&lt;br/&gt;はじめに
+
+*この記事のまとめ
+
+Claude Code × GitHubで「自分の取扱説明書」を作り、AIに丸ごと渡す運用を3ヶ月続けた
+スキルやMCPで自動化もした。でも一番効いたのは、自動化ではなく「自分を言語化する強制力」だった
+メモアプリ1つで始められる。エン...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:43a93d8ff3f7046b31e3</id>
     <title>あれほど頼れるAIが、しょっぱいテストケースを作ってくる理由を考えた</title>
     <link rel="alternate" href="https://qiita.com/yurizono/items/43a93d8ff3f7046b31e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1692,19 +1705,6 @@ Access to fetch a...</summary>
     <updated>2026-04-22T22:32:13+09:00</updated>
     <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamo-shika&quot;&gt;kamo-shika&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T22:32:12+09:00&lt;br/&gt;Updated: 2026-04-22T22:32:13+09:00&lt;br/&gt;はじめに
 Claude Code をはじめとする AI コーディングエージェントで、「スキル（Skills）」が運用の中核になってきています。プロンプトやワークフロー、禁則事項を SKILL.md にまとめておくと、エージェントが必要なタイミングで自動的に読み出して振る舞...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3c8949b62ce1dfe7a024</id>
-    <title>Claude Codeに人生を管理させて3ヶ月、一番効いたのは自動化じゃなかった</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/3c8949b62ce1dfe7a024?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-11T10:25:29+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T10:25:29+09:00&lt;br/&gt;Updated: 2026-06-11T10:25:29+09:00&lt;br/&gt;はじめに
-
-*この記事のまとめ
-
-Claude Code × GitHubで「自分の取扱説明書」を作り、AIに丸ごと渡す運用を3ヶ月続けた
-スキルやMCPで自動化もした。でも一番効いたのは、自動化ではなく「自分を言語化する強制力」だった
-メモアプリ1つで始められる。エン...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e6205673598cdb1ff14d</id>
