@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-06-14T10:50:17+09:00</updated>
+  <updated>2026-06-15T13:25:25+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -292,14 +292,6 @@ Qiita上には素晴らしい先人の方の記事として、「不思議の国
 今日はエンジニアの成長を加速させる3つの考え方という内容について、これまでの現場経験を元にプログラミング初学者、エンジニア初心者向けに記事を書きました。
 この記事を読むことで現場で自分が成長するための気づきを得られると思います。
 興味があ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ebbbe74649eb441a34db</id>
-    <title>Claude Codeソースコード流出から学ぶハーネスパターン10選 ── 50万行のTypeScriptが明かした設計思想</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/ebbbe74649eb441a34db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T11:27:23+09:00</updated>
-    <summary type="html">Likes: 111&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:23+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:23+09:00&lt;br/&gt;はじめに：3月31日に何が起きたか
-2026年3月31日の未明、Anthropicが公開したClaude Code v2.1.88のnpmパッケージに、本来除外されるべき59.8MBのソースマップファイル（.map）が同梱されていました。このファイルから約512,000行...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1ffbc05f07355231f420</id>
@@ -999,15 +991,6 @@ AI駆動開発の世界では、今さまざまな手法やキーワードが次
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:92da5ce86236a711e786</id>
-    <title>【体験談】「うちは大丈夫」と思っていた個人開発サービスが攻撃された話 ─ 対策と教訓5つ</title>
-    <link rel="alternate" href="https://qiita.com/kawabe0201/items/92da5ce86236a711e786?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T10:40:50+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kawabe0201&quot;&gt;kawabe0201&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T10:40:50+09:00&lt;br/&gt;Updated: 2026-04-13T10:40:50+09:00&lt;br/&gt;個人で運用していたタスク管理ツール（月間アクティブユーザー約300人）が、ある日突然攻撃を受けた。「こんな小さなサービス、誰が狙うんだ」と思っていた。結論から言えば、攻撃者は規模を選ばない。自動スキャンツールで脆弱なサーバーを片っ端から探しているだけだ。
-
-異変の発見 ─ ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:34010e35cd35c797d258</id>
     <title>【35歳未経験でも理解できた】Ruby on Rails 前編</title>
     <link rel="alternate" href="https://qiita.com/wata-sho/items/34010e35cd35c797d258?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1147,6 +1130,18 @@ Transformer、特にGPTなどの生成...</summary>
     <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/katohiro_fi&quot;&gt;katohiro_fi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-07T11:36:12+09:00&lt;br/&gt;Updated: 2026-05-07T11:36:12+09:00&lt;br/&gt;Microsoftの中の人が公開した「Copilot Studio Code」を、Power Platform コードファースト構築リポジトリと組み合わせると、Copilot Studio が、Copilot Studio エージェントを含む Power Platform...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:831717856fd24981799d</id>
+    <title>3年間、AI要件定義に取り組んできた全記録</title>
+    <link rel="alternate" href="https://qiita.com/kumai_yu/items/831717856fd24981799d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-14T09:44:34+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kumai_yu&quot;&gt;kumai_yu&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T09:44:34+09:00&lt;br/&gt;Updated: 2026-06-14T09:44:34+09:00&lt;br/&gt;AI駆動開発で要件定義はどう変わったか。
+こんにちは。主にXにてAI駆動開発について発信している熊井悠です！
+現在はAIスタートアップ企業のCEO兼CTOをしています！
+
+僕は前職であるSIer、ITコンサルティング企業で上流工程に関わる機会が多くありました。
+そのた...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ccbdbe70817ece37cfdb</id>
     <title>2025 Japan AWS Jr. Champions としての活動が終了しました</title>
     <link rel="alternate" href="https://qiita.com/har1101/items/ccbdbe70817ece37cfdb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1157,18 +1152,6 @@ Transformer、特にGPTなどの生成...</summary>
 2025年6月からスタートした、2025 Japan AWS Jr. Champions としての活動が終了しました。
 
 そこでこの1年間の活動を振り返ってみよ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:831717856fd24981799d</id>
-    <title>3年間、AI要件定義に取り組んできた全記録</title>
-    <link rel="alternate" href="https://qiita.com/kumai_yu/items/831717856fd24981799d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-14T09:44:34+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kumai_yu&quot;&gt;kumai_yu&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T09:44:34+09:00&lt;br/&gt;Updated: 2026-06-14T09:44:34+09:00&lt;br/&gt;AI駆動開発で要件定義はどう変わったか。
-こんにちは。主にXにてAI駆動開発について発信している熊井悠です！
-現在はAIスタートアップ企業のCEO兼CTOをしています！
-
-僕は前職であるSIer、ITコンサルティング企業で上流工程に関わる機会が多くありました。
-そのた...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ed256553d10578cfec2a</id>
@@ -1539,6 +1522,18 @@ cdコマンド...</summary>
 今回は、新人プログラマ応援 - みんなで新人を育てよう！というテーマで、これまで自分が複数の現場を経験する中で、どこでも共通して役に立ったスキルを3つに絞って...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:621a19d6a1a6500eaca6</id>
+    <title>9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #3</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/621a19d6a1a6500eaca6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-15T13:25:25+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T13:25:24+09:00&lt;br/&gt;Updated: 2026-06-15T13:25:25+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+仕事で起きやすい“ズレ”について整理して発信しています。
+誰かの助けになれば幸いです。
+
+9割のエンジニア未経験者がつまずく『最初の壁』 それで...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0675640c728125a628c4</id>
     <title>Linuxのテキストエディタ　viとnano</title>
     <link rel="alternate" href="https://qiita.com/steiji/items/0675640c728125a628c4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1897,17 +1892,6 @@ n8n + Google Maps API + Discord を使って
 Claude と会話しながらデザインやプロトタイプ、スライド、1枚ものの資料などを作れるサービスだそうです。現在は Claude Opus 4.7 を基盤...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:71ba3d38e563ca7faaa6</id>
-    <title>プロンプトの書き方でどこまで変わる？実際に検証してみた</title>
-    <link rel="alternate" href="https://qiita.com/aito1234/items/71ba3d38e563ca7faaa6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T22:02:23+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aito1234&quot;&gt;aito1234&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T20:58:28+09:00&lt;br/&gt;Updated: 2026-04-13T22:02:23+09:00&lt;br/&gt;はじめに
-前回までで、Claudeの仕組みや設計思想について整理してきました。
-これまでは主に概念や特徴の理解が中心でしたが、
-今回は一歩踏み込んで「実際にどう使うと精度が変わるのか」という点について学びました。
-生成AIは自然言語でもある程度のアウトプットを返してくれま...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b9d9dd83f33b4c837d63</id>
     <title>ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/b9d9dd83f33b4c837d63?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1946,22 +1930,6 @@ enumを使っているが、ケース追加時の漏れが怖い人
 
 記憶を持たないはずのAIが、私を覚えている
 LLM自体は記憶を持ちません。直前の会話で何を話したかを本当は「覚えていない」はずなのです。それなのに、ChatGPTのようなチャットアプリや最近のエージェントと会話すると、まるで相手が自分を覚えていてくれて、記憶...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4face78fad72275d820f</id>
-    <title>【Linuxコマンド】実務でよく使うLinuxコマンドまとめ</title>
-    <link rel="alternate" href="https://qiita.com/yuto-vj/items/4face78fad72275d820f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T18:06:10+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuto-vj&quot;&gt;yuto-vj&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T18:06:10+09:00&lt;br/&gt;Updated: 2026-04-13T18:06:10+09:00&lt;br/&gt;開発現場では、アプリケーションの開発だけでなく、サーバーやログ確認のために Linuxコマンド を使う場面が多くあります。
-GUIで操作できる環境もありますが、CUI（コマンドライン）で操作できると、
-
-ログ確認
-ファイル操作
-プロセス確認
-サーバー調査
-権限設定
-
-など...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9c7277d66e9d0ba8be15</id>
@@ -2017,6 +1985,16 @@ Google Driveに画像をア...</summary>
     <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kawabe0201&quot;&gt;kawabe0201&lt;/a&gt;&lt;br/&gt;Published: 2026-04-15T13:20:42+09:00&lt;br/&gt;Updated: 2026-04-15T13:20:42+09:00&lt;br/&gt;社内で一番古株の S さんに、ある日突然声をかけられた。S さんは今年60歳。来年の春で定年退職が決まっている。
 「ちょっといいか。Claude Code っていうの、教えてくれないか」
 私はその場で固まった。S さんといえば、社内で誰もが知る伝説のエンジニアだ。30年前に...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c3d6277ff99afb214b19</id>
+    <title>【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/c3d6277ff99afb214b19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-13T23:05:19+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-13T23:05:19+09:00&lt;br/&gt;Updated: 2026-06-13T23:05:19+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。
+生成AIを業務で使おうとすると、かなり高い確率でRAGという言葉に出会います。RAGはRetrieval-Augmented Generationの略で、日本語では検索拡張生成と呼ばれることが多いです。
+ただ、RAGという言葉だ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:76e416a5ae28f18ad976</id>
@@ -2109,16 +2087,6 @@ AIエージェントに絶対に任せてはいけない6つのこ...</summary>
 従来の...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c3d6277ff99afb214b19</id>
-    <title>【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/c3d6277ff99afb214b19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-13T23:05:19+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-13T23:05:19+09:00&lt;br/&gt;Updated: 2026-06-13T23:05:19+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-生成AIを業務で使おうとすると、かなり高い確率でRAGという言葉に出会います。RAGはRetrieval-Augmented Generationの略で、日本語では検索拡張生成と呼ばれることが多いです。
-ただ、RAGという言葉だ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:be9684ba52ae88f76dda</id>
     <title>経験浅いエンジニアが AI に React 書かせてると、進化に取り残される説</title>
     <link rel="alternate" href="https://qiita.com/Yamada040/items/be9684ba52ae88f76dda?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2168,14 +2136,6 @@ NullPointerException（NPE）は、Javaの生みの親であるトニー・...</
 機能一覧...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c59defafd0dfb88c4a90</id>
-    <title>SKILL.mdでClaude Codeのワークフローを自動化する実践ガイド ── superpowers 15万Starの設計思想</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/c59defafd0dfb88c4a90?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-13T11:27:45+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T11:27:45+09:00&lt;br/&gt;Updated: 2026-04-13T11:27:45+09:00&lt;br/&gt;Claude CodeにおけるSkillsとは何か
-Claude Codeを使い込んでいくと、毎回同じ指示を繰り返している自分に気づきます。「記事を書くときはまずWeb検索して、構成案を出して、承認を得てから執筆して、output/articles/に保存して」。こうした...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:72a7fd6854e99506cdff</id>
     <title>なぜCatBoostはカテゴリ変数に強いのか？LightGBM・XGBoostとの違いから理解する</title>
     <link rel="alternate" href="https://qiita.com/KanNishida/items/72a7fd6854e99506cdff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2221,5 +2181,57 @@ TypeScript / Next.js を使って実務開発をしている人
 「良いコード／悪いコードで学ぶ設計入門」を読んで実務に活かしたい人
 
 null を返す関数や boolean フラ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c47bc4176cb03e4f0d5a</id>
+    <title>【命名規則】名前から「目的」を読み取れるコードを書くために——目的駆動名前設計のすすめ</title>
+    <link rel="alternate" href="https://qiita.com/Nao52/items/c47bc4176cb03e4f0d5a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-21T06:48:59+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T06:48:59+09:00&lt;br/&gt;Updated: 2026-05-21T06:48:59+09:00&lt;br/&gt;■ この記事はこんな人におすすめ
+
+クラス名・変数名・メソッド名の命名に迷いがちな人
+「とりあえず User や Item でいいか」と思いがちな人
+命名規則を意識はしているが、チームでの共通認識づくりに課題を感じている人
+ドメイン知識を活かした設計に興味がある人
+
+■...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4ff2efbaa38575edd6a8</id>
+    <title>「あ、これAIが書いたな」と一瞬でバレる技術記事の6つの特徴</title>
+    <link rel="alternate" href="https://qiita.com/gorie-site/items/4ff2efbaa38575edd6a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-11T23:34:03+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/gorie-site&quot;&gt;gorie-site&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T23:34:03+09:00&lt;br/&gt;Updated: 2026-05-11T23:34:03+09:00&lt;br/&gt;最近、QiitaやZennを眺めていると、「あ、これAIが書いたな」と直感的に分かることが増えてきました。
+LLMの進化によって誰でも簡単に技術記事を量産できるようになりましたが、プロンプトをそのまま投げただけの出力には、AI特有の「手癖」 が強く残ります。
+本記事では、A...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e4b45796c414e4b0054d</id>
+    <title>【n8n】YouTube新着動画を自動でDiscord通知する仕組みを作ってみた（重複通知防止付き）</title>
+    <link rel="alternate" href="https://qiita.com/wan-code/items/e4b45796c414e4b0054d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-30T18:56:25+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wan-code&quot;&gt;wan-code&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T18:56:25+09:00&lt;br/&gt;Updated: 2026-04-30T18:56:25+09:00&lt;br/&gt;YouTubeに新しい動画を投稿したら、Discordに自動通知される仕組みを n8n で作ってみました。
+通知済み動画は二重通知しない ようにしています。
+
+作ったフロー
+1時間ごとに実行
+↓
+YouTube RSS取得
+↓
+動画情報整形
+↓
+通知済み確認
+↓
+未通知だけ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:321a031ece6bc9c3b460</id>
+    <title>Claude Code × MagicPod MCPでテストケースメンテナンスレビューを自動化してみた</title>
+    <link rel="alternate" href="https://qiita.com/s-yoshina/items/321a031ece6bc9c3b460?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-04-20T14:48:01+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/s-yoshina&quot;&gt;s-yoshina&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T08:42:15+09:00&lt;br/&gt;Updated: 2026-04-20T14:48:01+09:00&lt;br/&gt;はじめに
+こんにちは、QAエンジニアのヨシナです。
+弊社では Claude Code を部全体で積極的に活用しており、QAチームでもテストプロセスへの取り入れを進めています。その取り組みの一環として、現在はMagicPod 作業への活用を検討しています。
+前回の記事では、...</summary>
   </entry>
 </feed>
