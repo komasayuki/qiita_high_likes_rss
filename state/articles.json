@@ -562,7 +562,7 @@
       "updated": "2026-06-15T19:44:57+09:00",
       "author_name": "k_adachi_01",
       "likes_count": 11,
-      "last_seen": "2026-06-15T11:18:07.878608309+00:00"
+      "last_seen": "2026-06-15T14:23:47.754726815+00:00"
     },
     {
       "key": "193360dcb3e18c8c96ac",
@@ -970,7 +970,7 @@
       "updated": "2026-06-13T10:33:04+09:00",
       "author_name": "tech-nami",
       "likes_count": 10,
-      "last_seen": "2026-06-15T11:18:07.878608309+00:00"
+      "last_seen": "2026-06-15T14:23:47.754726815+00:00"
     },
     {
       "key": "2d4fcb9ed4bee7ee25fe",
@@ -1031,6 +1031,18 @@
       "author_name": "moritalous",
       "likes_count": 11,
       "last_seen": "2026-05-26T07:30:19.873497222+00:00"
+    },
+    {
+      "key": "2ff51f2df46cc1285ba3",
+      "item_id": "2ff51f2df46cc1285ba3",
+      "title": "メタハーネスとは何か ― Databricks発のOSS『Omnigent』が解決しようとしていること",
+      "link": "https://qiita.com/taka_yayoi/items/2ff51f2df46cc1285ba3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "複数のAIエージェントを「束ねる」という発想\nClaude Code、Codex、Pi、Gemini。コーディングや調査に使えるAIエージェントが一気に増えました。便利になった一方で、こんな状態に心当たりはないでしょうか。\nエージェントを4つも5つも同時に開いて、片方の出...",
+      "published": "2026-06-14T08:10:40+09:00",
+      "updated": "2026-06-14T08:10:40+09:00",
+      "author_name": "taka_yayoi",
+      "likes_count": 10,
+      "last_seen": "2026-06-15T14:23:47.754726815+00:00"
     },
     {
       "key": "305540d2ab13e61806c9",
@@ -1246,7 +1258,7 @@
       "updated": "2026-06-14T21:22:44+09:00",
       "author_name": "KanNishida",
       "likes_count": 18,
-      "last_seen": "2026-06-15T11:18:07.878608309+00:00"
+      "last_seen": "2026-06-15T14:23:47.754726815+00:00"
     },
     {
       "key": "37dca9fdb5db427dfd7c",
@@ -1763,6 +1775,18 @@
       "author_name": "wan-code",
       "likes_count": 20,
       "last_seen": "2026-04-18T07:35:32.903620590+00:00"
+    },
+    {
+      "key": "49f9601481aec596f545",
+      "item_id": "49f9601481aec596f545",
+      "title": "CVSS 9.8ってどれくらい危ない？脆弱性情報を読むためのものさし",
+      "link": "https://qiita.com/mo__mo/items/49f9601481aec596f545?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nセキュリティ情報を見ていると、こんな表記を見かけることがあります。\n\nCVSS 9.8\nCVSS v3.1 Base Score\nCritical\nHigh\n認証なしでリモートから悪用可能\n\nなんとなく「数字が高いほど危なそう」という雰囲気はあります。\nでも、い...",
+      "published": "2026-06-15T10:56:34+09:00",
+      "updated": "2026-06-15T10:56:34+09:00",
+      "author_name": "mo__mo",
+      "likes_count": 11,
+      "last_seen": "2026-06-15T14:23:47.754726815+00:00"
     },
     {
       "key": "4a1c1f97932e190db333",
@@ -2326,7 +2350,7 @@
       "updated": "2026-06-15T13:25:25+09:00",
       "author_name": "hitomin_poke",
       "likes_count": 43,
-      "last_seen": "2026-06-15T11:18:07.878608309+00:00"
+      "last_seen": "2026-06-15T14:23:47.754726815+00:00"
     },
     {
       "key": "626d51ce3efd3d641885",
@@ -3153,8 +3177,8 @@
       "published": "2026-06-14T09:44:34+09:00",
       "updated": "2026-06-14T09:44:34+09:00",
       "author_name": "kumai_yu",
-      "likes_count": 58,
-      "last_seen": "2026-06-15T11:18:07.878608309+00:00"
+      "likes_count": 72,
+      "last_seen": "2026-06-15T14:23:47.754726815+00:00"
     },
     {
       "key": "835b1870f8d1d5fe0b14",
@@ -3817,6 +3841,18 @@
       "last_seen": "2026-05-30T19:39:27.145909601+00:00"
     },
     {
+      "key": "9c7ac3a086ebccc4a32b",
+      "item_id": "9c7ac3a086ebccc4a32b",
+      "title": "【個人開発】本を読んだままにしない実践支援アプリを作った【React / TypeScript / Firebase / Supabase】",
+      "link": "https://qiita.com/o68606007/items/9c7ac3a086ebccc4a32b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n新規アプリを製作しました。\nソースコードは以下にあります。\n\nGitHubリポジトリ\n\nデモサイト\n\n作成の背景\n以前から読書をすると、\n\n本を読んで満足する\n学んだ内容を忘れる\n行動に移せない\n継続できない\n\nという課題がありました。\n既存の読書記録ア...",
+      "published": "2026-06-14T17:02:08+09:00",
+      "updated": "2026-06-14T17:02:09+09:00",
+      "author_name": "o68606007",
+      "likes_count": 11,
+      "last_seen": "2026-06-15T14:23:47.754726815+00:00"
+    },
+    {
       "key": "9ce527df39e7dd6e75fe",
       "item_id": "9ce527df39e7dd6e75fe",
       "title": "WAFは安心を買う装置ではない",
@@ -3862,7 +3898,7 @@
       "updated": "2026-06-14T22:40:04+09:00",
       "author_name": "tomoki-miso",
       "likes_count": 15,
-      "last_seen": "2026-06-15T11:18:07.878608309+00:00"
+      "last_seen": "2026-06-15T14:23:47.754726815+00:00"
     },
     {
       "key": "9fc58bb56967ebb997f5",
@@ -4065,8 +4101,8 @@
       "published": "2026-06-12T17:59:04+09:00",
       "updated": "2026-06-14T22:40:49+09:00",
       "author_name": "tomoki-miso",
-      "likes_count": 27,
-      "last_seen": "2026-06-15T11:18:07.878608309+00:00"
+      "likes_count": 28,
+      "last_seen": "2026-06-15T14:23:47.754726815+00:00"
     },
     {
       "key": "a78a888ce0c4d2364232",
@@ -4198,7 +4234,7 @@
       "updated": "2026-06-13T12:14:30+09:00",
       "author_name": "ktdatascience",
       "likes_count": 10,
-      "last_seen": "2026-06-15T11:18:07.878608309+00:00"
+      "last_seen": "2026-06-15T14:23:47.754726815+00:00"
     },
     {
       "key": "ab0d3e9d61fb0297111a",
@@ -4509,8 +4545,8 @@
       "published": "2026-06-14T04:34:21+09:00",
       "updated": "2026-06-14T18:40:46+09:00",
       "author_name": "Yamada040",
-      "likes_count": 12,
-      "last_seen": "2026-06-15T11:18:07.878608309+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-06-15T14:23:47.754726815+00:00"
     },
     {
       "key": "b61f080466c760e5ecc2",
@@ -4533,8 +4569,8 @@
       "published": "2026-06-14T22:14:52+09:00",
       "updated": "2026-06-15T07:11:44+09:00",
       "author_name": "hiyoshiz",
-      "likes_count": 10,
-      "last_seen": "2026-06-15T11:18:07.878608309+00:00"
+      "likes_count": 11,
+      "last_seen": "2026-06-15T14:23:47.754726815+00:00"
     },
     {
       "key": "b656c867f9e5f57cc1cd",
@@ -4833,8 +4869,8 @@
       "published": "2026-06-13T23:05:19+09:00",
       "updated": "2026-06-13T23:05:19+09:00",
       "author_name": "miruky",
-      "likes_count": 29,
-      "last_seen": "2026-06-15T11:18:07.878608309+00:00"
+      "likes_count": 31,
+      "last_seen": "2026-06-15T14:23:47.754726815+00:00"
     },
     {
       "key": "c3e06c47b350ef230352",
@@ -5793,8 +5829,8 @@
       "published": "2026-06-14T08:18:14+09:00",
       "updated": "2026-06-15T12:18:01+09:00",
       "author_name": "kamo-shika",
-      "likes_count": 12,
-      "last_seen": "2026-06-15T11:18:07.878608309+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-06-15T14:23:47.754726815+00:00"
     },
     {
       "key": "ede7d1c0be4a14024857",
@@ -5842,7 +5878,7 @@
       "updated": "2026-06-13T04:52:17+09:00",
       "author_name": "grhg",
       "likes_count": 24,
-      "last_seen": "2026-06-15T11:18:07.878608309+00:00"
+      "last_seen": "2026-06-15T14:23:47.754726815+00:00"
     },
     {
       "key": "eee9eb3840d3f740f325",
