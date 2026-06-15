@@ -562,7 +562,7 @@
       "updated": "2026-06-15T19:44:57+09:00",
       "author_name": "k_adachi_01",
       "likes_count": 11,
-      "last_seen": "2026-06-15T18:42:10.279693966+00:00"
+      "last_seen": "2026-06-15T20:18:14.535228899+00:00"
     },
     {
       "key": "193360dcb3e18c8c96ac",
@@ -597,8 +597,8 @@
       "published": "2026-06-13T13:25:07+09:00",
       "updated": "2026-06-13T13:27:40+09:00",
       "author_name": "issey_dotlog",
-      "likes_count": 11,
-      "last_seen": "2026-06-14T19:41:53.114869229+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-06-15T20:18:14.535228899+00:00"
     },
     {
       "key": "19ecb7f37ac7ef9c3c80",
@@ -695,18 +695,6 @@
       "author_name": "Yamashita_Sosuke",
       "likes_count": 10,
       "last_seen": "2026-05-13T07:20:09.176560536+00:00"
-    },
-    {
-      "key": "1d019f33fd59fcbf1494",
-      "item_id": "1d019f33fd59fcbf1494",
-      "title": "【AI】Claude Codeが劣化すると開発者の言葉遣いが悪くなる",
-      "link": "https://qiita.com/rana_kualu/items/1d019f33fd59fcbf1494?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "先日からClaude Codeでいくつも問題が噴出しています。\n最も大きなところではソースコード流出という大事故が発生し、コピーリポジトリが雨後の筍のように生えてきています。\nAnthropicは削除申請で乗り切ろうとしているようですが、この行動は当然全力で笑いものにされて...",
-      "published": "2026-04-13T20:50:36+09:00",
-      "updated": "2026-04-14T18:27:56+09:00",
-      "author_name": "rana_kualu",
-      "likes_count": 23,
-      "last_seen": "2026-04-16T19:37:05.711435624+00:00"
     },
     {
       "key": "1e5b8f23ec912a5a9b73",
@@ -1381,6 +1369,18 @@
       "last_seen": "2026-05-31T07:33:33.980049169+00:00"
     },
     {
+      "key": "3a7352dea05f380c38fa",
+      "item_id": "3a7352dea05f380c38fa",
+      "title": "拝啓 AI様 「人類」を主語にして話すのはやめてください。敬具 人類",
+      "link": "https://qiita.com/tomoki-miso/items/3a7352dea05f380c38fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nAI(特にChatGPT）と話していて、「人類」という主語を使ってくることがありませんか？\n私は最近よくあります。\nただ英文の翻訳させているだけなのに、文脈上変なところで、\n\n人類、また「安全」の名で全ボタンを同時に押す芸当を発明したらしいです。\n\nとか言ってく...",
+      "published": "2026-06-13T17:31:04+09:00",
+      "updated": "2026-06-13T19:35:50+09:00",
+      "author_name": "tomoki-miso",
+      "likes_count": 10,
+      "last_seen": "2026-06-15T20:18:14.535228899+00:00"
+    },
+    {
       "key": "3b9b18e7e54f15721837",
       "item_id": "3b9b18e7e54f15721837",
       "title": "Claude Codeで開発を自動化するSkills 5選",
@@ -1525,18 +1525,6 @@
       "last_seen": "2026-04-18T19:25:54.331353829+00:00"
     },
     {
-      "key": "40a7234503ab8fdddc1f",
-      "item_id": "40a7234503ab8fdddc1f",
-      "title": "はじめての Markdown 記法まとめ",
-      "link": "https://qiita.com/hiroki_notes/items/40a7234503ab8fdddc1f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Markdown は、技術記事だけでなく、メモ、議事録、README、ちょっとしたドキュメントなど、幅広い場面で使われています。\n「記号が多くて難しそう…」と感じるかもしれませんが、実はよく使う記法はそこまで多くありません。\nこの記事では、Markdown の基本記法を“記...",
-      "published": "2026-04-14T16:43:00+09:00",
-      "updated": "2026-04-14T16:43:00+09:00",
-      "author_name": "hiroki_notes",
-      "likes_count": 23,
-      "last_seen": "2026-04-16T19:37:05.711435624+00:00"
-    },
-    {
       "key": "41194161552d2150c4a5",
       "item_id": "41194161552d2150c4a5",
       "title": "【初心者〜中級者向け】関心の分離・カプセル化・インターフェイス設計をコードで理解する",
@@ -1607,18 +1595,6 @@
       "author_name": "yurizono",
       "likes_count": 52,
       "last_seen": "2026-05-25T07:54:07.995997363+00:00"
-    },
-    {
-      "key": "44b4b16a441f494a2307",
-      "item_id": "44b4b16a441f494a2307",
-      "title": "プログラミング前後の工程がプロダクト品質を決める",
-      "link": "https://qiita.com/masa20057/items/44b4b16a441f494a2307?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "株式会社PRUMのmasaです。\n今日は開発現場で大切なプログラミング前後の工程のお話をします。内容はそれらの工程のほんの一部になりますが、主にエンジニア未経験者、駆け出しエンジニアの方々の知見が少しでも広がればと思います。\n\n1. 【プログラミングの前】「何を作るか」の合...",
-      "published": "2026-04-14T13:03:58+09:00",
-      "updated": "2026-04-14T13:03:58+09:00",
-      "author_name": "masa20057",
-      "likes_count": 84,
-      "last_seen": "2026-04-16T19:37:05.711435624+00:00"
     },
     {
       "key": "44c6871f8af8c60f5e65",
@@ -1798,7 +1774,7 @@
       "updated": "2026-06-15T10:56:34+09:00",
       "author_name": "mo__mo",
       "likes_count": 11,
-      "last_seen": "2026-06-15T18:42:10.279693966+00:00"
+      "last_seen": "2026-06-15T20:18:14.535228899+00:00"
     },
     {
       "key": "4a1c1f97932e190db333",
@@ -1883,18 +1859,6 @@
       "author_name": "tkazuaki0820",
       "likes_count": 21,
       "last_seen": "2026-04-30T07:54:28.007326088+00:00"
-    },
-    {
-      "key": "4b685e45dfdb4779392f",
-      "item_id": "4b685e45dfdb4779392f",
-      "title": "AI時代に実装だけでは足りないと気づいた話",
-      "link": "https://qiita.com/aito1234/items/4b685e45dfdb4779392f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n社内でAIを活用した開発について考える機会があり、これまでの記事では、AIエージェントの考え方や、Claude Codeの概念・設計について整理してきました。\n\n前回：プロンプトの書き方でどこまで変わる？実際に検証してみた\n\n生成AIを活用することで、ある程度...",
-      "published": "2026-04-14T17:10:24+09:00",
-      "updated": "2026-04-14T17:10:24+09:00",
-      "author_name": "aito1234",
-      "likes_count": 22,
-      "last_seen": "2026-04-16T19:37:05.711435624+00:00"
     },
     {
       "key": "4c40e95e432883b51f5c",
@@ -2039,18 +2003,6 @@
       "author_name": "Kudo_panda",
       "likes_count": 10,
       "last_seen": "2026-06-15T06:02:10.035249076+00:00"
-    },
-    {
-      "key": "50e2cd28c7260237e6ba",
-      "item_id": "50e2cd28c7260237e6ba",
-      "title": "n8nとは？ノーコードで業務自動化できる最強ツールを解説",
-      "link": "https://qiita.com/wan-code/items/50e2cd28c7260237e6ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n日々の作業、こんなことありませんか？\n\n毎日同じデータを取得して整理している\nAPIを叩いて結果を整形している\n通知を手動で送っている\n\n正直、全部自動化できます。\nしかも、ほぼコード不要です\n今回は、そんな自動化を簡単に実現できるツール\nn8nについて解説しま...",
-      "published": "2026-04-14T18:46:16+09:00",
-      "updated": "2026-04-14T18:46:16+09:00",
-      "author_name": "wan-code",
-      "likes_count": 20,
-      "last_seen": "2026-04-16T19:37:05.711435624+00:00"
     },
     {
       "key": "5144c0d01539ccd6a881",
@@ -2362,7 +2314,7 @@
       "updated": "2026-06-15T13:25:25+09:00",
       "author_name": "hitomin_poke",
       "likes_count": 44,
-      "last_seen": "2026-06-15T18:42:10.279693966+00:00"
+      "last_seen": "2026-06-15T20:18:14.535228899+00:00"
     },
     {
       "key": "626d51ce3efd3d641885",
@@ -3178,7 +3130,7 @@
       "updated": "2026-06-15T12:42:31+09:00",
       "author_name": "tomoki-miso",
       "likes_count": 11,
-      "last_seen": "2026-06-15T18:42:10.279693966+00:00"
+      "last_seen": "2026-06-15T20:18:14.535228899+00:00"
     },
     {
       "key": "81d93feece154fb4b89a",
@@ -3201,8 +3153,8 @@
       "published": "2026-06-14T09:44:34+09:00",
       "updated": "2026-06-14T09:44:34+09:00",
       "author_name": "kumai_yu",
-      "likes_count": 79,
-      "last_seen": "2026-06-15T18:42:10.279693966+00:00"
+      "likes_count": 80,
+      "last_seen": "2026-06-15T20:18:14.535228899+00:00"
     },
     {
       "key": "835b1870f8d1d5fe0b14",
@@ -3515,18 +3467,6 @@
       "author_name": "masa20057",
       "likes_count": 84,
       "last_seen": "2026-05-22T07:31:15.223319831+00:00"
-    },
-    {
-      "key": "8d46a3f1ef3fc329b8fa",
-      "item_id": "8d46a3f1ef3fc329b8fa",
-      "title": "【Docker】実務でよく使うDockerコマンドまとめ + よくあるエラーと対処法",
-      "link": "https://qiita.com/yuto-vj/items/8d46a3f1ef3fc329b8fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "開発現場では、ローカル環境の構築やアプリケーションの実行環境として Docker を使うケースが非常に増えています。\nDockerを使えるようになると、\n\n環境構築の標準化\nローカル開発の効率化\nコンテナ内ログ調査\nアプリケーション再起動\n障害調査\n\nなどがスムーズに行え...",
-      "published": "2026-04-14T18:57:09+09:00",
-      "updated": "2026-04-14T18:57:09+09:00",
-      "author_name": "yuto-vj",
-      "likes_count": 22,
-      "last_seen": "2026-04-16T19:37:05.711435624+00:00"
     },
     {
       "key": "8da88b33ffa8cf88dfa2",
@@ -3885,8 +3825,8 @@
       "published": "2026-06-14T17:02:08+09:00",
       "updated": "2026-06-14T17:02:09+09:00",
       "author_name": "o68606007",
-      "likes_count": 12,
-      "last_seen": "2026-06-15T18:42:10.279693966+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-06-15T20:18:14.535228899+00:00"
     },
     {
       "key": "9ce527df39e7dd6e75fe",
@@ -3934,7 +3874,7 @@
       "updated": "2026-06-14T22:40:04+09:00",
       "author_name": "tomoki-miso",
       "likes_count": 15,
-      "last_seen": "2026-06-15T18:42:10.279693966+00:00"
+      "last_seen": "2026-06-15T20:18:14.535228899+00:00"
     },
     {
       "key": "9fc58bb56967ebb997f5",
@@ -4031,18 +3971,6 @@
       "author_name": "kanegon1222",
       "likes_count": 10,
       "last_seen": "2026-06-06T07:18:54.920287053+00:00"
-    },
-    {
-      "key": "a359bfcd179777761e4f",
-      "item_id": "a359bfcd179777761e4f",
-      "title": "【Qiita】いいかげん一日3記事までに制限すべきでは",
-      "link": "https://qiita.com/rana_kualu/items/a359bfcd179777761e4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "新着一覧がたまに同一人物の投稿で埋まることがあるけど、例外なく全てゴミなのでいい加減対策すべき。\n3というのは適当に挙げただけで、べつに5でも10でも1でもいいのだが、少なくともなんらかの制限は設けるべきだろう。\n\nといっても一週間で50記事など、どうでもいい内容なのは...",
-      "published": "2026-04-13T21:02:47+09:00",
-      "updated": "2026-04-13T22:03:12+09:00",
-      "author_name": "rana_kualu",
-      "likes_count": 81,
-      "last_seen": "2026-04-16T19:37:05.711435624+00:00"
     },
     {
       "key": "a36051a97d3b0670bedd",
@@ -4270,7 +4198,7 @@
       "updated": "2026-06-13T12:14:30+09:00",
       "author_name": "ktdatascience",
       "likes_count": 10,
-      "last_seen": "2026-06-15T18:42:10.279693966+00:00"
+      "last_seen": "2026-06-15T20:18:14.535228899+00:00"
     },
     {
       "key": "ab0d3e9d61fb0297111a",
@@ -4582,7 +4510,7 @@
       "updated": "2026-06-14T18:40:46+09:00",
       "author_name": "Yamada040",
       "likes_count": 13,
-      "last_seen": "2026-06-15T18:42:10.279693966+00:00"
+      "last_seen": "2026-06-15T20:18:14.535228899+00:00"
     },
     {
       "key": "b61f080466c760e5ecc2",
@@ -4606,7 +4534,7 @@
       "updated": "2026-06-15T07:11:44+09:00",
       "author_name": "hiyoshiz",
       "likes_count": 13,
-      "last_seen": "2026-06-15T18:42:10.279693966+00:00"
+      "last_seen": "2026-06-15T20:18:14.535228899+00:00"
     },
     {
       "key": "b656c867f9e5f57cc1cd",
@@ -4905,8 +4833,8 @@
       "published": "2026-06-13T23:05:19+09:00",
       "updated": "2026-06-13T23:05:19+09:00",
       "author_name": "miruky",
-      "likes_count": 31,
-      "last_seen": "2026-06-15T18:42:10.279693966+00:00"
+      "likes_count": 32,
+      "last_seen": "2026-06-15T20:18:14.535228899+00:00"
     },
     {
       "key": "c3e06c47b350ef230352",
@@ -5123,18 +5051,6 @@
       "author_name": "moritalous",
       "likes_count": 21,
       "last_seen": "2026-05-08T19:41:31.541589775+00:00"
-    },
-    {
-      "key": "cd68b09eccb18c1f7f3d",
-      "item_id": "cd68b09eccb18c1f7f3d",
-      "title": "AIコーディング時代に必要なプログラミングスキル",
-      "link": "https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "「もうプログラミングスキルは不要」勢へ\n恐らくそれは「プログラミングスキル」ではないです。\nいや単に「プログラミングスキル」という言葉の定義の問題かもしれない。\n実際多くの人はPythonの文法、JavaScriptのフレームワーク、SQLのクエリ構文——つまり特定言語に...",
-      "published": "2026-04-13T23:11:23+09:00",
-      "updated": "2026-04-15T16:20:45+09:00",
-      "author_name": "hokutoh",
-      "likes_count": 147,
-      "last_seen": "2026-04-16T19:37:05.711435624+00:00"
     },
     {
       "key": "cdc8efad6994645a37d7",
@@ -5494,7 +5410,7 @@
       "updated": "2026-06-14T20:31:45+09:00",
       "author_name": "Takenoko4594",
       "likes_count": 11,
-      "last_seen": "2026-06-15T18:42:10.279693966+00:00"
+      "last_seen": "2026-06-15T20:18:14.535228899+00:00"
     },
     {
       "key": "dc10f90a5aad61aad0e8",
@@ -5878,7 +5794,7 @@
       "updated": "2026-06-15T12:18:01+09:00",
       "author_name": "kamo-shika",
       "likes_count": 14,
-      "last_seen": "2026-06-15T18:42:10.279693966+00:00"
+      "last_seen": "2026-06-15T20:18:14.535228899+00:00"
     },
     {
       "key": "ede7d1c0be4a14024857",
