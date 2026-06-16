@@ -2141,6 +2141,18 @@ NullPointerException（NPE）は、Javaの生みの親であるトニー・...</
 ここではその発展形として、Markdown で管理した設計書を HTML として公開し、GitHub 上でのレビューや A...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d18bf49f0c7a168baa19</id>
+    <title>「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話</title>
+    <link rel="alternate" href="https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-14T17:08:05+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Shiro_Shihi&quot;&gt;Shiro_Shihi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T17:08:05+09:00&lt;br/&gt;Updated: 2026-06-14T17:08:05+09:00&lt;br/&gt;この記事は Qiita Tech Festa 2026「この記事誰得？ 私しか得しないニッチな技術で記事投稿！」 の参加記事です。
+
+はじめに
+みなさん、文字列の全角・半角判定、どうやってますか？
+大半の人はこう答えるでしょう。
+「正規表現で /[^\x20-\x7E]/ ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:72a7fd6854e99506cdff</id>
     <title>なぜCatBoostはカテゴリ変数に強いのか？LightGBM・XGBoostとの違いから理解する</title>
     <link rel="alternate" href="https://qiita.com/KanNishida/items/72a7fd6854e99506cdff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2228,15 +2240,5 @@ YouTube RSS取得
 通知済み確認
 ↓
 未通知だけ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:321a031ece6bc9c3b460</id>
-    <title>Claude Code × MagicPod MCPでテストケースメンテナンスレビューを自動化してみた</title>
-    <link rel="alternate" href="https://qiita.com/s-yoshina/items/321a031ece6bc9c3b460?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-20T14:48:01+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/s-yoshina&quot;&gt;s-yoshina&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T08:42:15+09:00&lt;br/&gt;Updated: 2026-04-20T14:48:01+09:00&lt;br/&gt;はじめに
-こんにちは、QAエンジニアのヨシナです。
-弊社では Claude Code を部全体で積極的に活用しており、QAチームでもテストプロセスへの取り入れを進めています。その取り組みの一環として、現在はMagicPod 作業への活用を検討しています。
-前回の記事では、...</summary>
   </entry>
 </feed>
