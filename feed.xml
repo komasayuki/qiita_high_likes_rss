@@ -237,7 +237,7 @@ UIを設計・実装していると、「このインタラクション、なん
     <title>3年間、AI要件定義に取り組んできた全記録</title>
     <link rel="alternate" href="https://qiita.com/kumai_yu/items/831717856fd24981799d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-14T09:44:34+09:00</updated>
-    <summary type="html">Likes: 125&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kumai_yu&quot;&gt;kumai_yu&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T09:44:34+09:00&lt;br/&gt;Updated: 2026-06-14T09:44:34+09:00&lt;br/&gt;AI駆動開発で要件定義はどう変わったか。
+    <summary type="html">Likes: 126&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kumai_yu&quot;&gt;kumai_yu&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T09:44:34+09:00&lt;br/&gt;Updated: 2026-06-14T09:44:34+09:00&lt;br/&gt;AI駆動開発で要件定義はどう変わったか。
 こんにちは。主にXにてAI駆動開発について発信している熊井悠です！
 現在はAIスタートアップ企業のCEO兼CTOをしています！
 
@@ -1917,6 +1917,18 @@ enumを使っているが、ケース追加時の漏れが怖い人
 LLM自体は記憶を持ちません。直前の会話で何を話したかを本当は「覚えていない」はずなのです。それなのに、ChatGPTのようなチャットアプリや最近のエージェントと会話すると、まるで相手が自分を覚えていてくれて、記憶...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d18bf49f0c7a168baa19</id>
+    <title>「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話</title>
+    <link rel="alternate" href="https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-14T17:08:05+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Shiro_Shihi&quot;&gt;Shiro_Shihi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T17:08:05+09:00&lt;br/&gt;Updated: 2026-06-14T17:08:05+09:00&lt;br/&gt;この記事は Qiita Tech Festa 2026「この記事誰得？ 私しか得しないニッチな技術で記事投稿！」 の参加記事です。
+
+はじめに
+みなさん、文字列の全角・半角判定、どうやってますか？
+大半の人はこう答えるでしょう。
+「正規表現で /[^\x20-\x7E]/ ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9c7277d66e9d0ba8be15</id>
     <title>ターミナル好きに贈るファイラー「tfx」— macOS と Windows</title>
     <link rel="alternate" href="https://qiita.com/spumoni/items/9c7277d66e9d0ba8be15?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2062,6 +2074,23 @@ AIエージェントに絶対に任せてはいけない6つのこ...</summary>
 従来の...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:49f9601481aec596f545</id>
+    <title>CVSS 9.8ってどれくらい危ない？脆弱性情報を読むためのものさし</title>
+    <link rel="alternate" href="https://qiita.com/mo__mo/items/49f9601481aec596f545?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-15T10:56:34+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mo__mo&quot;&gt;mo__mo&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T10:56:34+09:00&lt;br/&gt;Updated: 2026-06-15T10:56:34+09:00&lt;br/&gt;はじめに
+セキュリティ情報を見ていると、こんな表記を見かけることがあります。
+
+CVSS 9.8
+CVSS v3.1 Base Score
+Critical
+High
+認証なしでリモートから悪用可能
+
+なんとなく「数字が高いほど危なそう」という雰囲気はあります。
+でも、い...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:be9684ba52ae88f76dda</id>
     <title>経験浅いエンジニアが AI に React 書かせてると、進化に取り残される説</title>
     <link rel="alternate" href="https://qiita.com/Yamada040/items/be9684ba52ae88f76dda?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2118,18 +2147,6 @@ NullPointerException（NPE）は、Javaの生みの親であるトニー・...</
     <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/grhg&quot;&gt;grhg&lt;/a&gt;&lt;br/&gt;Published: 2026-06-13T04:48:08+09:00&lt;br/&gt;Updated: 2026-06-16T00:51:12+09:00&lt;br/&gt;はじめに
 以前、設計書はMarkdownで管理してPDFに自動変換しよう！ という記事で、設計書を Markdown で管理していく話を書きました。
 ここではその発展形として、Markdown で管理した設計書を HTML として公開し、GitHub 上でのレビューや A...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d18bf49f0c7a168baa19</id>
-    <title>「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話</title>
-    <link rel="alternate" href="https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-14T17:08:05+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Shiro_Shihi&quot;&gt;Shiro_Shihi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T17:08:05+09:00&lt;br/&gt;Updated: 2026-06-14T17:08:05+09:00&lt;br/&gt;この記事は Qiita Tech Festa 2026「この記事誰得？ 私しか得しないニッチな技術で記事投稿！」 の参加記事です。
-
-はじめに
-みなさん、文字列の全角・半角判定、どうやってますか？
-大半の人はこう答えるでしょう。
-「正規表現で /[^\x20-\x7E]/ ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:72a7fd6854e99506cdff</id>
@@ -2229,16 +2246,5 @@ YouTube RSS取得
 こんにちは、QAエンジニアのヨシナです。
 弊社では Claude Code を部全体で積極的に活用しており、QAチームでもテストプロセスへの取り入れを進めています。その取り組みの一環として、現在はMagicPod 作業への活用を検討しています。
 前回の記事では、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:11c70a0b2a2362a5c913</id>
-    <title>Claude Code モデル別に追加耐性テストをしてみた</title>
-    <link rel="alternate" href="https://qiita.com/aito1234/items/11c70a0b2a2362a5c913?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T22:38:32+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aito1234&quot;&gt;aito1234&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T22:37:24+09:00&lt;br/&gt;Updated: 2026-04-17T22:38:32+09:00&lt;br/&gt;1.はじめに
-Claude Codeを使っていると、モデルによって出力の精度が違うことは体感的に分かります。
-ただ、実際に開発を何度か行ってきて、本当に効いてくるのはそこではなく、
-「機能を追加するたびに、既存の何かが壊れるかどうか」
-だと感じました。小さな変更を重ねるう...</summary>
   </entry>
 </feed>
