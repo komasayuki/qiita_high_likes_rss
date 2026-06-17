@@ -386,6 +386,18 @@ Kindleを使っていて気になったのですが、Kindleの背景色の設�
 同時に公式ブログ「Best Practices for Using Claude Opus 4.7 with Claude Code」が公開され、Claude Code作者のBor...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d18bf49f0c7a168baa19</id>
+    <title>「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話</title>
+    <link rel="alternate" href="https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-17T15:33:55+09:00</updated>
+    <summary type="html">Likes: 94&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Shiro_Shihi&quot;&gt;Shiro_Shihi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T17:08:05+09:00&lt;br/&gt;Updated: 2026-06-17T15:33:55+09:00&lt;br/&gt;この記事は Qiita Tech Festa 2026「この記事誰得？ 私しか得しないニッチな技術で記事投稿！」 の参加記事です。
+
+はじめに
+みなさん、文字列の全角・半角判定、どうやってますか？
+大半の人はこう答えるでしょう。
+「正規表現で /[^\x20-\x7E]/ ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:30ed3d885da5bb605460</id>
     <title>「自分にエンジニアなんて無理かも」と思ってる人へ。最初に知ってほしい“仕事の進め方”</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/30ed3d885da5bb605460?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -519,18 +531,6 @@ ITって結局なんのためにあるの？
 
 はじめに
 IT...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d18bf49f0c7a168baa19</id>
-    <title>「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話</title>
-    <link rel="alternate" href="https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-17T15:33:55+09:00</updated>
-    <summary type="html">Likes: 86&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Shiro_Shihi&quot;&gt;Shiro_Shihi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T17:08:05+09:00&lt;br/&gt;Updated: 2026-06-17T15:33:55+09:00&lt;br/&gt;この記事は Qiita Tech Festa 2026「この記事誰得？ 私しか得しないニッチな技術で記事投稿！」 の参加記事です。
-
-はじめに
-みなさん、文字列の全角・半角判定、どうやってますか？
-大半の人はこう答えるでしょう。
-「正規表現で /[^\x20-\x7E]/ ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cf13c7c70ae148146fd0</id>
@@ -847,6 +847,17 @@ Claude が生成した .md がプロジェクトルート直下に散乱する
 Mac と Windows を行き来するたびにパス問題でつまず...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:78b5387e7dacf4aba403</id>
+    <title>未経験からエンジニアを目指すなら知っておきたい、職種の広がり方と成長を続けるコツ</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/78b5387e7dacf4aba403?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-16T10:12:15+09:00</updated>
+    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T10:12:15+09:00&lt;br/&gt;Updated: 2026-06-16T10:12:15+09:00&lt;br/&gt;こんにちは。株式会社 PRUMのmasaです。
+今日は「エンジニアの職種・成長習慣」について、エンジニア未経験から現場に飛び込む前に知っておくと良いことを一緒に見ていきましょう。
+
+エンジニアの職種は一つじゃない
+エンジニアといっても、職種は一つではありません。バックエンド...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:03b9b817bf2015321159</id>
     <title>プログラミング完全未経験から始める！競技プログラミング入門ガイド</title>
     <link rel="alternate" href="https://qiita.com/Un_titled/items/03b9b817bf2015321159?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -867,17 +878,6 @@ Mac と Windows を行き来するたびにパス問題でつまず...</summary>
 Claude Code / Cursor / Copilot などの AIエージェントをチームに導入したい 人
 情シスから「セキュリティ面の対応は？」と聞かれて 技術的に答えたい 人
 「導入したいけどセキュリティが心配」で 手が止まっている 人...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:78b5387e7dacf4aba403</id>
-    <title>未経験からエンジニアを目指すなら知っておきたい、職種の広がり方と成長を続けるコツ</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/78b5387e7dacf4aba403?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-16T10:12:15+09:00</updated>
-    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T10:12:15+09:00&lt;br/&gt;Updated: 2026-06-16T10:12:15+09:00&lt;br/&gt;こんにちは。株式会社 PRUMのmasaです。
-今日は「エンジニアの職種・成長習慣」について、エンジニア未経験から現場に飛び込む前に知っておくと良いことを一緒に見ていきましょう。
-
-エンジニアの職種は一つじゃない
-エンジニアといっても、職種は一つではありません。バックエンド...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e568f199e5753d3bb1b2</id>
@@ -960,6 +960,18 @@ AI駆動開発の世界では、今さまざまな手法やキーワードが次
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:621a19d6a1a6500eaca6</id>
+    <title>9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #3</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/621a19d6a1a6500eaca6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-17T08:55:38+09:00</updated>
+    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T13:25:24+09:00&lt;br/&gt;Updated: 2026-06-17T08:55:38+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+仕事で起きやすい“ズレ”について整理して発信しています。
+誰かの助けになれば幸いです。
+
+9割のエンジニア未経験者がつまずく『最初の壁』 それで...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:34010e35cd35c797d258</id>
     <title>【35歳未経験でも理解できた】Ruby on Rails 前編</title>
     <link rel="alternate" href="https://qiita.com/wata-sho/items/34010e35cd35c797d258?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -971,18 +983,6 @@ AI駆動開発の世界では、今さまざまな手法やキーワードが次
 
 結論（先にシンプルに）
 Railsの仕組みを一言でいうと、「超優秀なレ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:621a19d6a1a6500eaca6</id>
-    <title>9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #3</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/621a19d6a1a6500eaca6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-17T08:55:38+09:00</updated>
-    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T13:25:24+09:00&lt;br/&gt;Updated: 2026-06-17T08:55:38+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
-仕事で起きやすい“ズレ”について整理して発信しています。
-誰かの助けになれば幸いです。
-
-9割のエンジニア未経験者がつまずく『最初の壁』 それで...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e644e9b620ee1c8d3c1b</id>
@@ -1260,6 +1260,14 @@ SOLID 原則は有名ですが、実際の現場ではそこまで厳密に意�
 そこで今回は DRY、KIS...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:dff3c8a2a0ee563ca16f</id>
+    <title>VRAM 12GBでQwen 35Bを動かす — エキスパートをGPUに載せないほど速くなった話</title>
+    <link rel="alternate" href="https://qiita.com/kenimo49/items/dff3c8a2a0ee563ca16f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-15T10:27:15+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T10:27:14+09:00&lt;br/&gt;Updated: 2026-06-15T10:27:15+09:00&lt;br/&gt;3か月前、私は同じRTX 4070でこんな検証記事を書きました。結論は「35BのMoEモデルは、待てるなら動く」。測ったのは10.6 tok/s。動くには動くが、チャットで使うには指が止まる速度です。
+先週、同じGPU・同じモデルで測り直したら34.6 tok/sが出ました...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f02c34ae6dc994cd3084</id>
     <title>【新入社員研修】Linuxの基本操作</title>
     <link rel="alternate" href="https://qiita.com/cookiepunch/items/f02c34ae6dc994cd3084?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1328,14 +1336,6 @@ Linuxを学び、黒い画面（CUI）と向き合った新卒研修で学んだ
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:dff3c8a2a0ee563ca16f</id>
-    <title>VRAM 12GBでQwen 35Bを動かす — エキスパートをGPUに載せないほど速くなった話</title>
-    <link rel="alternate" href="https://qiita.com/kenimo49/items/dff3c8a2a0ee563ca16f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-15T10:27:15+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T10:27:14+09:00&lt;br/&gt;Updated: 2026-06-15T10:27:15+09:00&lt;br/&gt;3か月前、私は同じRTX 4070でこんな検証記事を書きました。結論は「35BのMoEモデルは、待てるなら動く」。測ったのは10.6 tok/s。動くには動くが、チャットで使うには指が止まる速度です。
-先週、同じGPU・同じモデルで測り直したら34.6 tok/sが出ました...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:15ddf5601ff29ef8d376</id>
     <title>会社で Microsoft 365 Copilot しか使えない人のための「エージェントビルダー」入門 ── 宣言型エージェントを最新版で作る</title>
     <link rel="alternate" href="https://qiita.com/sukimaengineer/items/15ddf5601ff29ef8d376?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1365,6 +1365,18 @@ Linuxを学び、黒い画面（CUI）と向き合った新卒研修で学んだ
 この記事は前回の Claude Code 入門記事を読んでいる前提で書いています。「Skill ってそもそも何？」という方は先にこちらをご覧ください。
 https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:aedc1409d1f19c4d14f6</id>
+    <title>技術力だけでは選ばれない。未経験エンジニアが現場で差をつける「対話の技術」5選</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/aedc1409d1f19c4d14f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-17T13:41:31+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T13:39:48+09:00&lt;br/&gt;Updated: 2026-06-17T13:41:31+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。
+誰かの助けになれば幸いです。
+
+伝わらないのは話し方の問題じゃなかった。相手を「見る...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c8b5cca97554f6f64782</id>
@@ -1417,18 +1429,6 @@ Claude Codeを使い始めてしばらく経つと、こんな壁にぶつかり
 最初に作ったものを紹介します。
 
 delphinu...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:aedc1409d1f19c4d14f6</id>
-    <title>技術力だけでは選ばれない。未経験エンジニアが現場で差をつける「対話の技術」5選</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/aedc1409d1f19c4d14f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-17T13:41:31+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T13:39:48+09:00&lt;br/&gt;Updated: 2026-06-17T13:41:31+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
-仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。
-誰かの助けになれば幸いです。
-
-伝わらないのは話し方の問題じゃなかった。相手を「見る...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:026452114ad63efa9aa6</id>
@@ -1988,6 +1988,16 @@ macOS 版(Swift / SwiftUI)と Windows 版(C# / WPF)の 2 つがあり、同じ�
 Google Driveに画像をア...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b892d9ff73495ca4b68d</id>
+    <title>ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/b892d9ff73495ca4b68d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-16T23:46:52+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T23:46:52+09:00&lt;br/&gt;Updated: 2026-06-16T23:46:52+09:00&lt;br/&gt;はじめに
+
+こんばんは、mirukyです。
+私は元文系の人間なので、プログラミングを学び始めたころ「ReactとかNext.jsってプログラミング言語なの？何？」とよく思っていました。なにせ、非常によく使われているのをいいことに、もはやプログラミング言語かのごとき堂々たる...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:76e416a5ae28f18ad976</id>
     <title>【AWS】AI-DLCを実際にチームでやってみてわかったことをまとめてみました</title>
     <link rel="alternate" href="https://qiita.com/yakumo_09/items/76e416a5ae28f18ad976?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2078,6 +2088,30 @@ AIエージェントに絶対に任せてはいけない6つのこ...</summary>
 従来の...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:9c7ac3a086ebccc4a32b</id>
+    <title>【個人開発】本を読んだままにしない実践支援アプリを作った【React / TypeScript / Firebase / Supabase】</title>
+    <link rel="alternate" href="https://qiita.com/o68606007/items/9c7ac3a086ebccc4a32b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-14T17:02:09+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/o68606007&quot;&gt;o68606007&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T17:02:08+09:00&lt;br/&gt;Updated: 2026-06-14T17:02:09+09:00&lt;br/&gt;はじめに
+新規アプリを製作しました。
+ソースコードは以下にあります。
+
+GitHubリポジトリ
+
+デモサイト
+
+作成の背景
+以前から読書をすると、
+
+本を読んで満足する
+学んだ内容を忘れる
+行動に移せない
+継続できない
+
+という課題がありました。
+既存の読書記録ア...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:be9684ba52ae88f76dda</id>
     <title>経験浅いエンジニアが AI に React 書かせてると、進化に取り残される説</title>
     <link rel="alternate" href="https://qiita.com/Yamada040/items/be9684ba52ae88f76dda?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2134,30 +2168,6 @@ NullPointerException（NPE）は、Javaの生みの親であるトニー・...</
     <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/grhg&quot;&gt;grhg&lt;/a&gt;&lt;br/&gt;Published: 2026-06-13T04:48:08+09:00&lt;br/&gt;Updated: 2026-06-16T00:51:12+09:00&lt;br/&gt;はじめに
 以前、設計書はMarkdownで管理してPDFに自動変換しよう！ という記事で、設計書を Markdown で管理していく話を書きました。
 ここではその発展形として、Markdown で管理した設計書を HTML として公開し、GitHub 上でのレビューや A...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9c7ac3a086ebccc4a32b</id>
-    <title>【個人開発】本を読んだままにしない実践支援アプリを作った【React / TypeScript / Firebase / Supabase】</title>
-    <link rel="alternate" href="https://qiita.com/o68606007/items/9c7ac3a086ebccc4a32b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-14T17:02:09+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/o68606007&quot;&gt;o68606007&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T17:02:08+09:00&lt;br/&gt;Updated: 2026-06-14T17:02:09+09:00&lt;br/&gt;はじめに
-新規アプリを製作しました。
-ソースコードは以下にあります。
-
-GitHubリポジトリ
-
-デモサイト
-
-作成の背景
-以前から読書をすると、
-
-本を読んで満足する
-学んだ内容を忘れる
-行動に移せない
-継続できない
-
-という課題がありました。
-既存の読書記録ア...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:72a7fd6854e99506cdff</id>
@@ -2247,15 +2257,5 @@ YouTube RSS取得
 通知済み確認
 ↓
 未通知だけ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:321a031ece6bc9c3b460</id>
-    <title>Claude Code × MagicPod MCPでテストケースメンテナンスレビューを自動化してみた</title>
-    <link rel="alternate" href="https://qiita.com/s-yoshina/items/321a031ece6bc9c3b460?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-20T14:48:01+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/s-yoshina&quot;&gt;s-yoshina&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T08:42:15+09:00&lt;br/&gt;Updated: 2026-04-20T14:48:01+09:00&lt;br/&gt;はじめに
-こんにちは、QAエンジニアのヨシナです。
-弊社では Claude Code を部全体で積極的に活用しており、QAチームでもテストプロセスへの取り入れを進めています。その取り組みの一環として、現在はMagicPod 作業への活用を検討しています。
-前回の記事では、...</summary>
   </entry>
 </feed>
