@@ -297,6 +297,18 @@ Qiita上には素晴らしい先人の方の記事として、「不思議の国
 1割の“信頼される”エンジニアが実行している『締め切り...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d18bf49f0c7a168baa19</id>
+    <title>「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話</title>
+    <link rel="alternate" href="https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-17T15:33:55+09:00</updated>
+    <summary type="html">Likes: 104&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Shiro_Shihi&quot;&gt;Shiro_Shihi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T17:08:05+09:00&lt;br/&gt;Updated: 2026-06-17T15:33:55+09:00&lt;br/&gt;この記事は Qiita Tech Festa 2026「この記事誰得？ 私しか得しないニッチな技術で記事投稿！」 の参加記事です。
+
+はじめに
+みなさん、文字列の全角・半角判定、どうやってますか？
+大半の人はこう答えるでしょう。
+「正規表現で /[^\x20-\x7E]/ ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:77e2a48e4189bd5ddc3b</id>
     <title>信頼されるエンジニアが実践する「聴く技術」4選</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/77e2a48e4189bd5ddc3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -309,18 +321,6 @@ Qiita上には素晴らしい先人の方の記事として、「不思議の国
 信頼されるエンジニアが実践する「聴く技術」4選
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d18bf49f0c7a168baa19</id>
-    <title>「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話</title>
-    <link rel="alternate" href="https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-17T15:33:55+09:00</updated>
-    <summary type="html">Likes: 103&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Shiro_Shihi&quot;&gt;Shiro_Shihi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T17:08:05+09:00&lt;br/&gt;Updated: 2026-06-17T15:33:55+09:00&lt;br/&gt;この記事は Qiita Tech Festa 2026「この記事誰得？ 私しか得しないニッチな技術で記事投稿！」 の参加記事です。
-
-はじめに
-みなさん、文字列の全角・半角判定、どうやってますか？
-大半の人はこう答えるでしょう。
-「正規表現で /[^\x20-\x7E]/ ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f94803dd326ef7c3eb25</id>
@@ -1180,6 +1180,14 @@ Linuxを日常的に使っていると、「もっと速くできないか？」
 伝わらないのは話し方の問題じゃなかった。相手を「見る...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:dff3c8a2a0ee563ca16f</id>
+    <title>VRAM 12GBでQwen 35Bを動かす — エキスパートをGPUに載せないほど速くなった話</title>
+    <link rel="alternate" href="https://qiita.com/kenimo49/items/dff3c8a2a0ee563ca16f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-15T10:27:15+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T10:27:14+09:00&lt;br/&gt;Updated: 2026-06-15T10:27:15+09:00&lt;br/&gt;3か月前、私は同じRTX 4070でこんな検証記事を書きました。結論は「35BのMoEモデルは、待てるなら動く」。測ったのは10.6 tok/s。動くには動くが、チャットで使うには指が止まる速度です。
+先週、同じGPU・同じモデルで測り直したら34.6 tok/sが出ました...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5215ea3cd1ec635a1636</id>
     <title>VPNなしで社外から社内へ：Cloudflare Zero Trust（無料枠）ZTNA構築手順</title>
     <link rel="alternate" href="https://qiita.com/BrainDirection/items/5215ea3cd1ec635a1636?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1218,14 +1226,6 @@ Linuxを日常的に使っていると、「もっと速くできないか？」
 クオンツトレードというと、多くの人は「AIや統計モデルで価格を予測すること」をイメージするかもしれません。
 もちろん、予測モデルはクオンツトレードの重要な要素です。
 しかし、クオンツトレーダーにとって最初に重要なのは、未来の価格を正確に当てることではありません。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:dff3c8a2a0ee563ca16f</id>
-    <title>VRAM 12GBでQwen 35Bを動かす — エキスパートをGPUに載せないほど速くなった話</title>
-    <link rel="alternate" href="https://qiita.com/kenimo49/items/dff3c8a2a0ee563ca16f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-15T10:27:15+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T10:27:14+09:00&lt;br/&gt;Updated: 2026-06-15T10:27:15+09:00&lt;br/&gt;3か月前、私は同じRTX 4070でこんな検証記事を書きました。結論は「35BのMoEモデルは、待てるなら動く」。測ったのは10.6 tok/s。動くには動くが、チャットで使うには指が止まる速度です。
-先週、同じGPU・同じモデルで測り直したら34.6 tok/sが出ました...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:803300d3453daaaf48ce</id>
@@ -1668,6 +1668,16 @@ CSSやJavaScrip...</summary>
 そんな方におすすめなのが、Obsidianのコミュニティプラグイ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b892d9ff73495ca4b68d</id>
+    <title>ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/b892d9ff73495ca4b68d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-16T23:46:52+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T23:46:52+09:00&lt;br/&gt;Updated: 2026-06-16T23:46:52+09:00&lt;br/&gt;はじめに
+
+こんばんは、mirukyです。
+私は元文系の人間なので、プログラミングを学び始めたころ「ReactとかNext.jsってプログラミング言語なの？何？」とよく思っていました。なにせ、非常によく使われているのをいいことに、もはやプログラミング言語かのごとき堂々たる...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:30ae4581b8a9b3206b15</id>
     <title>Claude Fable 5を１日使ってみて</title>
     <link rel="alternate" href="https://qiita.com/yo_arai/items/30ae4581b8a9b3206b15?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1768,16 +1778,6 @@ Claude Codeを本格導入して日常業務にガッツリと取り入れて機
     <updated>2026-04-18T15:59:33+09:00</updated>
     <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/softbase&quot;&gt;softbase&lt;/a&gt;&lt;br/&gt;Published: 2026-04-18T15:59:33+09:00&lt;br/&gt;Updated: 2026-04-18T15:59:33+09:00&lt;br/&gt;AIエージェントから Chrome DevTools を操作・解析するための chrome-devtools-mcp 完全ガイド
 chrome-devtools-mcp は、AI コーディングエージェントから 生きた Chrome ブラウザを操作し、調査し、解析する ための...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b892d9ff73495ca4b68d</id>
-    <title>ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/b892d9ff73495ca4b68d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-16T23:46:52+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T23:46:52+09:00&lt;br/&gt;Updated: 2026-06-16T23:46:52+09:00&lt;br/&gt;はじめに
-
-こんばんは、mirukyです。
-私は元文系の人間なので、プログラミングを学び始めたころ「ReactとかNext.jsってプログラミング言語なの？何？」とよく思っていました。なにせ、非常によく使われているのをいいことに、もはやプログラミング言語かのごとき堂々たる...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:81433a4eaae7d2030751</id>
