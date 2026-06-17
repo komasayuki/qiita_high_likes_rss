@@ -337,6 +337,18 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 1...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d18bf49f0c7a168baa19</id>
+    <title>「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話</title>
+    <link rel="alternate" href="https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-17T15:33:55+09:00</updated>
+    <summary type="html">Likes: 99&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Shiro_Shihi&quot;&gt;Shiro_Shihi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T17:08:05+09:00&lt;br/&gt;Updated: 2026-06-17T15:33:55+09:00&lt;br/&gt;この記事は Qiita Tech Festa 2026「この記事誰得？ 私しか得しないニッチな技術で記事投稿！」 の参加記事です。
+
+はじめに
+みなさん、文字列の全角・半角判定、どうやってますか？
+大半の人はこう答えるでしょう。
+「正規表現で /[^\x20-\x7E]/ ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0aac69d8a962d2413d9d</id>
     <title>【悲報】100万台のAIサービスをスキャンしたら「史上最悪のセキュリティ」だった件</title>
     <link rel="alternate" href="https://qiita.com/emi_ndk/items/0aac69d8a962d2413d9d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -384,18 +396,6 @@ Kindleを使っていて気になったのですが、Kindleの背景色の設�
     <updated>2026-04-25T10:44:00+09:00</updated>
     <summary type="html">Likes: 95&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ot12&quot;&gt;ot12&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T09:28:50+09:00&lt;br/&gt;Updated: 2026-04-25T10:44:00+09:00&lt;br/&gt;2026年4月16日、AnthropicがClaude Opus 4.7をリリースしました。
 同時に公式ブログ「Best Practices for Using Claude Opus 4.7 with Claude Code」が公開され、Claude Code作者のBor...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d18bf49f0c7a168baa19</id>
-    <title>「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話</title>
-    <link rel="alternate" href="https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-17T15:33:55+09:00</updated>
-    <summary type="html">Likes: 94&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Shiro_Shihi&quot;&gt;Shiro_Shihi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T17:08:05+09:00&lt;br/&gt;Updated: 2026-06-17T15:33:55+09:00&lt;br/&gt;この記事は Qiita Tech Festa 2026「この記事誰得？ 私しか得しないニッチな技術で記事投稿！」 の参加記事です。
-
-はじめに
-みなさん、文字列の全角・半角判定、どうやってますか？
-大半の人はこう答えるでしょう。
-「正規表現で /[^\x20-\x7E]/ ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:30ed3d885da5bb605460</id>
@@ -851,7 +851,7 @@ Mac と Windows を行き来するたびにパス問題でつまず...</summary>
     <title>未経験からエンジニアを目指すなら知っておきたい、職種の広がり方と成長を続けるコツ</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/78b5387e7dacf4aba403?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-16T10:12:15+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T10:12:15+09:00&lt;br/&gt;Updated: 2026-06-16T10:12:15+09:00&lt;br/&gt;こんにちは。株式会社 PRUMのmasaです。
+    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T10:12:15+09:00&lt;br/&gt;Updated: 2026-06-16T10:12:15+09:00&lt;br/&gt;こんにちは。株式会社 PRUMのmasaです。
 今日は「エンジニアの職種・成長習慣」について、エンジニア未経験から現場に飛び込む前に知っておくと良いことを一緒に見ていきましょう。
 
 エンジニアの職種は一つじゃない
@@ -1156,6 +1156,18 @@ AST（抽象構文木）から「構造」だけを抽出したマップこそ�
 Linuxを日常的に使っていると、「もっと速くできないか？」と感じる場...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b63c2e7ff52b5554a8a5</id>
+    <title>文系エンジニアがClaude Codeで学習アプリを自作して3か月でCISSP合格した話</title>
+    <link rel="alternate" href="https://qiita.com/hiyoshiz/items/b63c2e7ff52b5554a8a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-15T07:11:44+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiyoshiz&quot;&gt;hiyoshiz&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T22:14:52+09:00&lt;br/&gt;Updated: 2026-06-15T07:11:44+09:00&lt;br/&gt;文系エンジニアがClaude Codeで学習アプリを自作して3か月でCISSP合格した話
+
+TL;DR
+
+大学は英文科、セキュリティエンジニアとしての実務経験ほぼゼロの文系エンジニアが、3か月・1日平均30分でCISSPに合格した。
+勝因は「毎日続けられたこと」。それを可...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5215ea3cd1ec635a1636</id>
     <title>VPNなしで社外から社内へ：Cloudflare Zero Trust（無料枠）ZTNA構築手順</title>
     <link rel="alternate" href="https://qiita.com/BrainDirection/items/5215ea3cd1ec635a1636?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1194,18 +1206,6 @@ Linuxを日常的に使っていると、「もっと速くできないか？」
 クオンツトレードというと、多くの人は「AIや統計モデルで価格を予測すること」をイメージするかもしれません。
 もちろん、予測モデルはクオンツトレードの重要な要素です。
 しかし、クオンツトレーダーにとって最初に重要なのは、未来の価格を正確に当てることではありません。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b63c2e7ff52b5554a8a5</id>
-    <title>文系エンジニアがClaude Codeで学習アプリを自作して3か月でCISSP合格した話</title>
-    <link rel="alternate" href="https://qiita.com/hiyoshiz/items/b63c2e7ff52b5554a8a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-15T07:11:44+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiyoshiz&quot;&gt;hiyoshiz&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T22:14:52+09:00&lt;br/&gt;Updated: 2026-06-15T07:11:44+09:00&lt;br/&gt;文系エンジニアがClaude Codeで学習アプリを自作して3か月でCISSP合格した話
-
-TL;DR
-
-大学は英文科、セキュリティエンジニアとしての実務経験ほぼゼロの文系エンジニアが、3か月・1日平均30分でCISSPに合格した。
-勝因は「毎日続けられたこと」。それを可...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:803300d3453daaaf48ce</id>
@@ -1260,11 +1260,23 @@ SOLID 原則は有名ですが、実際の現場ではそこまで厳密に意�
 そこで今回は DRY、KIS...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:aedc1409d1f19c4d14f6</id>
+    <title>技術力だけでは選ばれない。未経験エンジニアが現場で差をつける「対話の技術」5選</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/aedc1409d1f19c4d14f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-17T13:41:31+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T13:39:48+09:00&lt;br/&gt;Updated: 2026-06-17T13:41:31+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。
+誰かの助けになれば幸いです。
+
+伝わらないのは話し方の問題じゃなかった。相手を「見る...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:dff3c8a2a0ee563ca16f</id>
     <title>VRAM 12GBでQwen 35Bを動かす — エキスパートをGPUに載せないほど速くなった話</title>
     <link rel="alternate" href="https://qiita.com/kenimo49/items/dff3c8a2a0ee563ca16f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-15T10:27:15+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T10:27:14+09:00&lt;br/&gt;Updated: 2026-06-15T10:27:15+09:00&lt;br/&gt;3か月前、私は同じRTX 4070でこんな検証記事を書きました。結論は「35BのMoEモデルは、待てるなら動く」。測ったのは10.6 tok/s。動くには動くが、チャットで使うには指が止まる速度です。
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T10:27:14+09:00&lt;br/&gt;Updated: 2026-06-15T10:27:15+09:00&lt;br/&gt;3か月前、私は同じRTX 4070でこんな検証記事を書きました。結論は「35BのMoEモデルは、待てるなら動く」。測ったのは10.6 tok/s。動くには動くが、チャットで使うには指が止まる速度です。
 先週、同じGPU・同じモデルで測り直したら34.6 tok/sが出ました...</summary>
   </entry>
   <entry>
@@ -1367,18 +1379,6 @@ https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:aedc1409d1f19c4d14f6</id>
-    <title>技術力だけでは選ばれない。未経験エンジニアが現場で差をつける「対話の技術」5選</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/aedc1409d1f19c4d14f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-17T13:41:31+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T13:39:48+09:00&lt;br/&gt;Updated: 2026-06-17T13:41:31+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
-仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。
-誰かの助けになれば幸いです。
-
-伝わらないのは話し方の問題じゃなかった。相手を「見る...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:c8b5cca97554f6f64782</id>
     <title>Claude Code x Obsidianで、LLM Wiki構築 | セッションを切り替えても会話を続けられる方法</title>
     <link rel="alternate" href="https://qiita.com/usayamadausako/items/c8b5cca97554f6f64782?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1439,6 +1439,23 @@ delphinu...</summary>
 とあるお客様から、こう聞かれました。
 Microsoftの公式サイトや各種ホワイトペーパーには、「生産性が●●%向上！」「週に●時間を節約！」といった事例が並んでいます。
 ただ、このような事例はどこかキレイすぎて、ピン...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:49f9601481aec596f545</id>
+    <title>CVSS 9.8ってどれくらい危ない？脆弱性情報を読むためのものさし</title>
+    <link rel="alternate" href="https://qiita.com/mo__mo/items/49f9601481aec596f545?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-15T10:56:34+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mo__mo&quot;&gt;mo__mo&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T10:56:34+09:00&lt;br/&gt;Updated: 2026-06-15T10:56:34+09:00&lt;br/&gt;はじめに
+セキュリティ情報を見ていると、こんな表記を見かけることがあります。
+
+CVSS 9.8
+CVSS v3.1 Base Score
+Critical
+High
+認証なしでリモートから悪用可能
+
+なんとなく「数字が高いほど危なそう」という雰囲気はあります。
+でも、い...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:226e7c06bc9d5877e64e</id>
@@ -1512,23 +1529,6 @@ cdコマンド...</summary>
     <updated>2026-04-20T07:05:49+09:00</updated>
     <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tamepicomaru&quot;&gt;tamepicomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T07:05:49+09:00&lt;br/&gt;Updated: 2026-04-20T07:05:49+09:00&lt;br/&gt;株式会社AgenticSec のソフトウェアエンジニアの爲西です。
 日々の開発で Claude Code を使うほど、トークンやコストは数字で追いやすい一方、スキル・MCP・サブエージェントがチームにどれだけ根付いているかは、個々のセッションを覗かないと把握しづらい——とい...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:49f9601481aec596f545</id>
-    <title>CVSS 9.8ってどれくらい危ない？脆弱性情報を読むためのものさし</title>
-    <link rel="alternate" href="https://qiita.com/mo__mo/items/49f9601481aec596f545?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-15T10:56:34+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mo__mo&quot;&gt;mo__mo&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T10:56:34+09:00&lt;br/&gt;Updated: 2026-06-15T10:56:34+09:00&lt;br/&gt;はじめに
-セキュリティ情報を見ていると、こんな表記を見かけることがあります。
-
-CVSS 9.8
-CVSS v3.1 Base Score
-Critical
-High
-認証なしでリモートから悪用可能
-
-なんとなく「数字が高いほど危なそう」という雰囲気はあります。
-でも、い...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0675640c728125a628c4</id>
@@ -1770,6 +1770,17 @@ Claude Codeを本格導入して日常業務にガッツリと取り入れて機
 chrome-devtools-mcp は、AI コーディングエージェントから 生きた Chrome ブラウザを操作し、調査し、解析する ための...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:81433a4eaae7d2030751</id>
+    <title>コーディングエージェント時代に、あえて自分でコードを書く</title>
+    <link rel="alternate" href="https://qiita.com/tomoki-miso/items/81433a4eaae7d2030751?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-15T12:42:31+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomoki-miso&quot;&gt;tomoki-miso&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T12:37:25+09:00&lt;br/&gt;Updated: 2026-06-15T12:42:31+09:00&lt;br/&gt;コーディングエージェントというパラダイムシフト
+Claude Code が爆誕してから1年以上経った。
+その誕生により、明らかにプログラミングという作業の方法は激変した。
+自分は、GPT 3.5 Turbo が出たころに、本格的にプログラミングをはじめた。
+それ以前に少し...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5e13dace1a97cd6bd7a4</id>
     <title>AIにも「口コミ」がつく時代。〜信頼の証跡をWeb3に残すインフラを図解で整理する（ERC8004）〜</title>
     <link rel="alternate" href="https://qiita.com/can-can/items/5e13dace1a97cd6bd7a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1879,6 +1890,16 @@ n8n + Google Maps API + Discord を使って
 Claude と会話しながらデザインやプロトタイプ、スライド、1枚ものの資料などを作れるサービスだそうです。現在は Claude Opus 4.7 を基盤...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b892d9ff73495ca4b68d</id>
+    <title>ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/b892d9ff73495ca4b68d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-16T23:46:52+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T23:46:52+09:00&lt;br/&gt;Updated: 2026-06-16T23:46:52+09:00&lt;br/&gt;はじめに
+
+こんばんは、mirukyです。
+私は元文系の人間なので、プログラミングを学び始めたころ「ReactとかNext.jsってプログラミング言語なの？何？」とよく思っていました。なにせ、非常によく使われているのをいいことに、もはやプログラミング言語かのごとき堂々たる...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a754fff1885f6cf0a146</id>
     <title>【まとめ】「良い命名」できていますか？ ― ITの名前の由来をAからZまでアルファベット順に集めてみたから、インスピレーションしてください。</title>
     <link rel="alternate" href="https://qiita.com/tomoki-miso/items/a754fff1885f6cf0a146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1931,15 +1952,28 @@ enumを使っているが、ケース追加時の漏れが怖い人
 LLM自体は記憶を持ちません。直前の会話で何を話したかを本当は「覚えていない」はずなのです。それなのに、ChatGPTのようなチャットアプリや最近のエージェントと会話すると、まるで相手が自分を覚えていてくれて、記憶...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:81433a4eaae7d2030751</id>
-    <title>コーディングエージェント時代に、あえて自分でコードを書く</title>
-    <link rel="alternate" href="https://qiita.com/tomoki-miso/items/81433a4eaae7d2030751?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-15T12:42:31+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomoki-miso&quot;&gt;tomoki-miso&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T12:37:25+09:00&lt;br/&gt;Updated: 2026-06-15T12:42:31+09:00&lt;br/&gt;コーディングエージェントというパラダイムシフト
-Claude Code が爆誕してから1年以上経った。
-その誕生により、明らかにプログラミングという作業の方法は激変した。
-自分は、GPT 3.5 Turbo が出たころに、本格的にプログラミングをはじめた。
-それ以前に少し...</summary>
+    <id>tag:qiita.com,2026:9c7ac3a086ebccc4a32b</id>
+    <title>【個人開発】本を読んだままにしない実践支援アプリを作った【React / TypeScript / Firebase / Supabase】</title>
+    <link rel="alternate" href="https://qiita.com/o68606007/items/9c7ac3a086ebccc4a32b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-14T17:02:09+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/o68606007&quot;&gt;o68606007&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T17:02:08+09:00&lt;br/&gt;Updated: 2026-06-14T17:02:09+09:00&lt;br/&gt;はじめに
+新規アプリを製作しました。
+ソースコードは以下にあります。
+
+GitHubリポジトリ
+
+デモサイト
+
+作成の背景
+以前から読書をすると、
+
+本を読んで満足する
+学んだ内容を忘れる
+行動に移せない
+継続できない
+
+という課題がありました。
+既存の読書記録ア...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9c7277d66e9d0ba8be15</id>
@@ -1986,16 +2020,6 @@ macOS 版(Swift / SwiftUI)と Windows 版(C# / WPF)の 2 つがあり、同じ�
 そんなときに便利なのが n8n × Google Drive の自動化です。
 この記事では、
 Google Driveに画像をア...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b892d9ff73495ca4b68d</id>
-    <title>ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/b892d9ff73495ca4b68d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-16T23:46:52+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T23:46:52+09:00&lt;br/&gt;Updated: 2026-06-16T23:46:52+09:00&lt;br/&gt;はじめに
-
-こんばんは、mirukyです。
-私は元文系の人間なので、プログラミングを学び始めたころ「ReactとかNext.jsってプログラミング言語なの？何？」とよく思っていました。なにせ、非常によく使われているのをいいことに、もはやプログラミング言語かのごとき堂々たる...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:76e416a5ae28f18ad976</id>
@@ -2088,28 +2112,14 @@ AIエージェントに絶対に任せてはいけない6つのこ...</summary>
 従来の...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:9c7ac3a086ebccc4a32b</id>
-    <title>【個人開発】本を読んだままにしない実践支援アプリを作った【React / TypeScript / Firebase / Supabase】</title>
-    <link rel="alternate" href="https://qiita.com/o68606007/items/9c7ac3a086ebccc4a32b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-14T17:02:09+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/o68606007&quot;&gt;o68606007&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T17:02:08+09:00&lt;br/&gt;Updated: 2026-06-14T17:02:09+09:00&lt;br/&gt;はじめに
-新規アプリを製作しました。
-ソースコードは以下にあります。
-
-GitHubリポジトリ
-
-デモサイト
-
-作成の背景
-以前から読書をすると、
-
-本を読んで満足する
-学んだ内容を忘れる
-行動に移せない
-継続できない
-
-という課題がありました。
-既存の読書記録ア...</summary>
+    <id>tag:qiita.com,2026:d1c08a55a373897d38d5</id>
+    <title>【PHP】PHP最大の問題点はこれだ！！</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/d1c08a55a373897d38d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-16T21:42:52+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T19:31:17+09:00&lt;br/&gt;Updated: 2026-06-16T21:42:52+09:00&lt;br/&gt;いいものなら普及するなどというナイーヴな考え方は捨てろ。
+さて終わった終わったと100億回言われ続けているPHPですが、2026年の今でも世界の2/3がPHPでできています。
+また言語自体も着実なバージョンアップを重ね、大きく成長しています。
+文法もパフォーマンスもPHP5...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:be9684ba52ae88f76dda</id>
@@ -2238,24 +2248,5 @@ null を返す関数や boolean フラ...</summary>
     <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/gorie-site&quot;&gt;gorie-site&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T23:34:03+09:00&lt;br/&gt;Updated: 2026-05-11T23:34:03+09:00&lt;br/&gt;最近、QiitaやZennを眺めていると、「あ、これAIが書いたな」と直感的に分かることが増えてきました。
 LLMの進化によって誰でも簡単に技術記事を量産できるようになりましたが、プロンプトをそのまま投げただけの出力には、AI特有の「手癖」 が強く残ります。
 本記事では、A...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e4b45796c414e4b0054d</id>
-    <title>【n8n】YouTube新着動画を自動でDiscord通知する仕組みを作ってみた（重複通知防止付き）</title>
-    <link rel="alternate" href="https://qiita.com/wan-code/items/e4b45796c414e4b0054d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-30T18:56:25+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wan-code&quot;&gt;wan-code&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T18:56:25+09:00&lt;br/&gt;Updated: 2026-04-30T18:56:25+09:00&lt;br/&gt;YouTubeに新しい動画を投稿したら、Discordに自動通知される仕組みを n8n で作ってみました。
-通知済み動画は二重通知しない ようにしています。
-
-作ったフロー
-1時間ごとに実行
-↓
-YouTube RSS取得
-↓
-動画情報整形
-↓
-通知済み確認
-↓
-未通知だけ...</summary>
   </entry>
 </feed>
