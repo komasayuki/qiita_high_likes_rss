@@ -521,6 +521,18 @@ ITって結局なんのためにあるの？
 IT...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d18bf49f0c7a168baa19</id>
+    <title>「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話</title>
+    <link rel="alternate" href="https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-17T15:33:55+09:00</updated>
+    <summary type="html">Likes: 86&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Shiro_Shihi&quot;&gt;Shiro_Shihi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T17:08:05+09:00&lt;br/&gt;Updated: 2026-06-17T15:33:55+09:00&lt;br/&gt;この記事は Qiita Tech Festa 2026「この記事誰得？ 私しか得しないニッチな技術で記事投稿！」 の参加記事です。
+
+はじめに
+みなさん、文字列の全角・半角判定、どうやってますか？
+大半の人はこう答えるでしょう。
+「正規表現で /[^\x20-\x7E]/ ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cf13c7c70ae148146fd0</id>
     <title>先輩のコードが1行も理解できなくて泣きそうだった新人が、「読み方」を教わって世界が変わった話</title>
     <link rel="alternate" href="https://qiita.com/fe1ix/items/cf13c7c70ae148146fd0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -791,18 +803,6 @@ Claude Code × GitHubで「自分の取扱説明書」を作り、AIに丸ごと
 メモアプリ1つで始められる。エン...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:d18bf49f0c7a168baa19</id>
-    <title>「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話</title>
-    <link rel="alternate" href="https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-17T15:33:55+09:00</updated>
-    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Shiro_Shihi&quot;&gt;Shiro_Shihi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T17:08:05+09:00&lt;br/&gt;Updated: 2026-06-17T15:33:55+09:00&lt;br/&gt;この記事は Qiita Tech Festa 2026「この記事誰得？ 私しか得しないニッチな技術で記事投稿！」 の参加記事です。
-
-はじめに
-みなさん、文字列の全角・半角判定、どうやってますか？
-大半の人はこう答えるでしょう。
-「正規表現で /[^\x20-\x7E]/ ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:dc26f7468dcd39fbe62f</id>
     <title>16万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術</title>
     <link rel="alternate" href="https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -869,6 +869,17 @@ Claude Code / Cursor / Copilot などの AIエージェントをチームに導�
 「導入したいけどセキュリティが心配」で 手が止まっている 人...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:78b5387e7dacf4aba403</id>
+    <title>未経験からエンジニアを目指すなら知っておきたい、職種の広がり方と成長を続けるコツ</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/78b5387e7dacf4aba403?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-16T10:12:15+09:00</updated>
+    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T10:12:15+09:00&lt;br/&gt;Updated: 2026-06-16T10:12:15+09:00&lt;br/&gt;こんにちは。株式会社 PRUMのmasaです。
+今日は「エンジニアの職種・成長習慣」について、エンジニア未経験から現場に飛び込む前に知っておくと良いことを一緒に見ていきましょう。
+
+エンジニアの職種は一つじゃない
+エンジニアといっても、職種は一つではありません。バックエンド...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e568f199e5753d3bb1b2</id>
     <title>Copy Fail とは？（結構詳しめ）</title>
     <link rel="alternate" href="https://qiita.com/fiord/items/e568f199e5753d3bb1b2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -904,17 +915,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 「クラウドだか...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:78b5387e7dacf4aba403</id>
-    <title>未経験からエンジニアを目指すなら知っておきたい、職種の広がり方と成長を続けるコツ</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/78b5387e7dacf4aba403?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-16T10:12:15+09:00</updated>
-    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T10:12:15+09:00&lt;br/&gt;Updated: 2026-06-16T10:12:15+09:00&lt;br/&gt;こんにちは。株式会社 PRUMのmasaです。
-今日は「エンジニアの職種・成長習慣」について、エンジニア未経験から現場に飛び込む前に知っておくと良いことを一緒に見ていきましょう。
-
-エンジニアの職種は一つじゃない
-エンジニアといっても、職種は一つではありません。バックエンド...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cd2c603abf8b48fc23a8</id>
@@ -1196,6 +1196,18 @@ Linuxを日常的に使っていると、「もっと速くできないか？」
 しかし、クオンツトレーダーにとって最初に重要なのは、未来の価格を正確に当てることではありません。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b63c2e7ff52b5554a8a5</id>
+    <title>文系エンジニアがClaude Codeで学習アプリを自作して3か月でCISSP合格した話</title>
+    <link rel="alternate" href="https://qiita.com/hiyoshiz/items/b63c2e7ff52b5554a8a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-15T07:11:44+09:00</updated>
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiyoshiz&quot;&gt;hiyoshiz&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T22:14:52+09:00&lt;br/&gt;Updated: 2026-06-15T07:11:44+09:00&lt;br/&gt;文系エンジニアがClaude Codeで学習アプリを自作して3か月でCISSP合格した話
+
+TL;DR
+
+大学は英文科、セキュリティエンジニアとしての実務経験ほぼゼロの文系エンジニアが、3か月・1日平均30分でCISSPに合格した。
+勝因は「毎日続けられたこと」。それを可...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:803300d3453daaaf48ce</id>
     <title>ping、tracerouteコマンドを使用した、SSHできない時の切り分け方</title>
     <link rel="alternate" href="https://qiita.com/M_waowaowao/items/803300d3453daaaf48ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1246,18 +1258,6 @@ ssh user@192.168.1.100
 SOLID 原則は有名ですが、実際の現場ではそこまで厳密に意識していないことも多いですよね。
 むしろ、もっとシンプルで、日常的に効く原則のほうが役に立つ場面は多いです。
 そこで今回は DRY、KIS...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b63c2e7ff52b5554a8a5</id>
-    <title>文系エンジニアがClaude Codeで学習アプリを自作して3か月でCISSP合格した話</title>
-    <link rel="alternate" href="https://qiita.com/hiyoshiz/items/b63c2e7ff52b5554a8a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-15T07:11:44+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiyoshiz&quot;&gt;hiyoshiz&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T22:14:52+09:00&lt;br/&gt;Updated: 2026-06-15T07:11:44+09:00&lt;br/&gt;文系エンジニアがClaude Codeで学習アプリを自作して3か月でCISSP合格した話
-
-TL;DR
-
-大学は英文科、セキュリティエンジニアとしての実務経験ほぼゼロの文系エンジニアが、3か月・1日平均30分でCISSPに合格した。
-勝因は「毎日続けられたこと」。それを可...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f02c34ae6dc994cd3084</id>
@@ -1326,6 +1326,14 @@ Linuxを学び、黒い画面（CUI）と向き合った新卒研修で学んだ
 【最新版】GitHub Copilotを使っている人は全員&quot;SKILL.md&quot;も導入してください
 
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:dff3c8a2a0ee563ca16f</id>
+    <title>VRAM 12GBでQwen 35Bを動かす — エキスパートをGPUに載せないほど速くなった話</title>
+    <link rel="alternate" href="https://qiita.com/kenimo49/items/dff3c8a2a0ee563ca16f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-15T10:27:15+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T10:27:14+09:00&lt;br/&gt;Updated: 2026-06-15T10:27:15+09:00&lt;br/&gt;3か月前、私は同じRTX 4070でこんな検証記事を書きました。結論は「35BのMoEモデルは、待てるなら動く」。測ったのは10.6 tok/s。動くには動くが、チャットで使うには指が止まる速度です。
+先週、同じGPU・同じモデルで測り直したら34.6 tok/sが出ました...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:15ddf5601ff29ef8d376</id>
@@ -1411,12 +1419,16 @@ Claude Codeを使い始めてしばらく経つと、こんな壁にぶつかり
 delphinu...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:dff3c8a2a0ee563ca16f</id>
-    <title>VRAM 12GBでQwen 35Bを動かす — エキスパートをGPUに載せないほど速くなった話</title>
-    <link rel="alternate" href="https://qiita.com/kenimo49/items/dff3c8a2a0ee563ca16f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-15T10:27:15+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T10:27:14+09:00&lt;br/&gt;Updated: 2026-06-15T10:27:15+09:00&lt;br/&gt;3か月前、私は同じRTX 4070でこんな検証記事を書きました。結論は「35BのMoEモデルは、待てるなら動く」。測ったのは10.6 tok/s。動くには動くが、チャットで使うには指が止まる速度です。
-先週、同じGPU・同じモデルで測り直したら34.6 tok/sが出ました...</summary>
+    <id>tag:qiita.com,2026:aedc1409d1f19c4d14f6</id>
+    <title>技術力だけでは選ばれない。未経験エンジニアが現場で差をつける「対話の技術」5選</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/aedc1409d1f19c4d14f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-17T13:41:31+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T13:39:48+09:00&lt;br/&gt;Updated: 2026-06-17T13:41:31+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。
+誰かの助けになれば幸いです。
+
+伝わらないのは話し方の問題じゃなかった。相手を「見る...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:026452114ad63efa9aa6</id>
@@ -2245,16 +2257,5 @@ YouTube RSS取得
 こんにちは、QAエンジニアのヨシナです。
 弊社では Claude Code を部全体で積極的に活用しており、QAチームでもテストプロセスへの取り入れを進めています。その取り組みの一環として、現在はMagicPod 作業への活用を検討しています。
 前回の記事では、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:11c70a0b2a2362a5c913</id>
-    <title>Claude Code モデル別に追加耐性テストをしてみた</title>
-    <link rel="alternate" href="https://qiita.com/aito1234/items/11c70a0b2a2362a5c913?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-17T22:38:32+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/aito1234&quot;&gt;aito1234&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T22:37:24+09:00&lt;br/&gt;Updated: 2026-04-17T22:38:32+09:00&lt;br/&gt;1.はじめに
-Claude Codeを使っていると、モデルによって出力の精度が違うことは体感的に分かります。
-ただ、実際に開発を何度か行ってきて、本当に効いてくるのはそこではなく、
-「機能を追加するたびに、既存の何かが壊れるかどうか」
-だと感じました。小さな変更を重ねるう...</summary>
   </entry>
 </feed>
