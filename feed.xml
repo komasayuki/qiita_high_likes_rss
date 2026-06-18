@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-06-18T13:14:43+09:00</updated>
+  <updated>2026-06-18T13:47:17+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -441,6 +441,16 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 不確実性の高い開発現場でも、タスクを小さく分けて考え、早めに手を動かし、60点でもアウトプットすることで、不安をコント...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b892d9ff73495ca4b68d</id>
+    <title>ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/b892d9ff73495ca4b68d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-16T23:46:52+09:00</updated>
+    <summary type="html">Likes: 88&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T23:46:52+09:00&lt;br/&gt;Updated: 2026-06-16T23:46:52+09:00&lt;br/&gt;はじめに
+
+こんばんは、mirukyです。
+私は元文系の人間なので、プログラミングを学び始めたころ「ReactとかNext.jsってプログラミング言語なの？何？」とよく思っていました。なにせ、非常によく使われているのをいいことに、もはやプログラミング言語かのごとき堂々たる...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:39ad448983e2ba8406da</id>
     <title>未経験からエンジニアになるために必要な3つの知識</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/39ad448983e2ba8406da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -575,14 +585,16 @@ AWS MCP サーバー、結構前からGA するらしいという噂は流れて
 情報セキュリティと聞...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b892d9ff73495ca4b68d</id>
-    <title>ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/b892d9ff73495ca4b68d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-16T23:46:52+09:00</updated>
-    <summary type="html">Likes: 83&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T23:46:52+09:00&lt;br/&gt;Updated: 2026-06-16T23:46:52+09:00&lt;br/&gt;はじめに
+    <id>tag:qiita.com,2026:aedc1409d1f19c4d14f6</id>
+    <title>技術力だけでは選ばれない。未経験エンジニアが現場で差をつける「対話の技術」5選</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/aedc1409d1f19c4d14f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-17T13:41:31+09:00</updated>
+    <summary type="html">Likes: 82&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T13:39:48+09:00&lt;br/&gt;Updated: 2026-06-17T13:41:31+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。
+誰かの助けになれば幸いです。
 
-こんばんは、mirukyです。
-私は元文系の人間なので、プログラミングを学び始めたころ「ReactとかNext.jsってプログラミング言語なの？何？」とよく思っていました。なにせ、非常によく使われているのをいいことに、もはやプログラミング言語かのごとき堂々たる...</summary>
+伝わらないのは話し方の問題じゃなかった。相手を「見る...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:334b0b9c3ee457dfa8c7</id>
@@ -614,18 +626,6 @@ AWS MCP サーバー、結構前からGA するらしいという噂は流れて
 今日は「アルゴリズムの基本概念」という内容について、プログラミング初学者向けに記事を書きました。
 この記事を読むことで、難しく感じがちなアルゴリズムを身近なものとして理解し、論理的にコードを組み立てるきっかけを得られると思います。
 興味が...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:aedc1409d1f19c4d14f6</id>
-    <title>技術力だけでは選ばれない。未経験エンジニアが現場で差をつける「対話の技術」5選</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/aedc1409d1f19c4d14f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-17T13:41:31+09:00</updated>
-    <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T13:39:48+09:00&lt;br/&gt;Updated: 2026-06-17T13:41:31+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
-仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。
-誰かの助けになれば幸いです。
-
-伝わらないのは話し方の問題じゃなかった。相手を「見る...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2ace83e1d37c13f01190</id>
@@ -1435,6 +1435,18 @@ Microsoftの公式サイトや各種ホワイトペーパーには、「生産�
 ただ、このような事例はどこかキレイすぎて、ピン...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c69fab7dfb1d48ba8b31</id>
+    <title>「そのコード、勝手に使って大丈夫？」IT初心者が最初に知るべき“著作権”の話</title>
+    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/c69fab7dfb1d48ba8b31?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-18T13:47:17+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T13:47:16+09:00&lt;br/&gt;Updated: 2026-06-18T13:47:17+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
+仕事で起きやすい“ズレ”について整理して発信しています。
+誰かの助けになれば幸いです。
+
+「そのコード、勝手に使って大丈夫？」IT初心者が最初...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:54ded70a5a68a5ca15d5</id>
     <title>Claude Codeでつくる「並列ループエージェント」実践！ハンズオンガイド</title>
     <link rel="alternate" href="https://qiita.com/kumai_yu/items/54ded70a5a68a5ca15d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1519,6 +1531,16 @@ cdコマンド...</summary>
 日々の開発で Claude Code を使うほど、トークンやコストは数字で追いやすい一方、スキル・MCP・サブエージェントがチームにどれだけ根付いているかは、個々のセッションを覗かないと把握しづらい——とい...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d1c08a55a373897d38d5</id>
+    <title>【PHP】PHP最大の問題点はこれだ！！</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/d1c08a55a373897d38d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-16T21:42:52+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T19:31:17+09:00&lt;br/&gt;Updated: 2026-06-16T21:42:52+09:00&lt;br/&gt;いいものなら普及するなどというナイーヴな考え方は捨てろ。
+さて終わった終わったと100億回言われ続けているPHPですが、2026年の今でも世界の2/3がPHPでできています。
+また言語自体も着実なバージョンアップを重ね、大きく成長しています。
+文法もパフォーマンスもPHP5...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0675640c728125a628c4</id>
     <title>Linuxのテキストエディタ　viとnano</title>
     <link rel="alternate" href="https://qiita.com/steiji/items/0675640c728125a628c4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1581,16 +1603,6 @@ cdコマンド...</summary>
 AWSは2026年5月11日、Claude Platform on AWSの一般提供開始を発表しました。東京リージョンでも利用可能になっています。
 
 Claude Platform on AWSは、Anthropicが提供するネイティブなClaude Platf...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d1c08a55a373897d38d5</id>
-    <title>【PHP】PHP最大の問題点はこれだ！！</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/d1c08a55a373897d38d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-16T21:42:52+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T19:31:17+09:00&lt;br/&gt;Updated: 2026-06-16T21:42:52+09:00&lt;br/&gt;いいものなら普及するなどというナイーヴな考え方は捨てろ。
-さて終わった終わったと100億回言われ続けているPHPですが、2026年の今でも世界の2/3がPHPでできています。
-また言語自体も着実なバージョンアップを重ね、大きく成長しています。
-文法もパフォーマンスもPHP5...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c63073fef7fb87d9f472</id>
@@ -1888,6 +1900,20 @@ n8n + Google Maps API + Discord を使って
 Claude と会話しながらデザインやプロトタイプ、スライド、1枚ものの資料などを作れるサービスだそうです。現在は Claude Opus 4.7 を基盤...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:52dc298122587969b39c</id>
+    <title>ダッシュボードを作ったのに誰も見てくれないので、オントロジーについて考えてみた</title>
+    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/52dc298122587969b39c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-18T10:24:07+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T10:24:07+09:00&lt;br/&gt;Updated: 2026-06-18T10:24:07+09:00&lt;br/&gt;はじめに
+ダッシュボードを作った。
+毎日見てもらうために、メールやSlackで日次配信もするようにした。
+...だけど、誰も見てくれていない。
+バラバラだったデータをまとめて、せっかくダッシュボードで見やすくしたのに。
+この数ヶ月はなんだったんだ。
+
+似たような経験をした...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a754fff1885f6cf0a146</id>
     <title>【まとめ】「良い命名」できていますか？ ― ITの名前の由来をAからZまでアルファベット順に集めてみたから、インスピレーションしてください。</title>
     <link rel="alternate" href="https://qiita.com/tomoki-miso/items/a754fff1885f6cf0a146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2108,6 +2134,34 @@ AIエージェントに絶対に任せてはいけない6つのこ...</summary>
 実務でつまずきやすいポイントや、外部依存を扱う際の考え方も交...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1713372648eb543e6980</id>
+    <title>AI駆動開発のセキュリティ、結局どこまでやればいい？</title>
+    <link rel="alternate" href="https://qiita.com/udowanllc/items/1713372648eb543e6980?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-16T00:15:15+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/udowanllc&quot;&gt;udowanllc&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T00:15:15+09:00&lt;br/&gt;Updated: 2026-06-16T00:15:15+09:00&lt;br/&gt;目次
+
+はじめに
+前提：AI駆動開発ならではのリスクを知っておく
+レベル1：一般的なセキュリティレベル
+レベル2：厳格に情報を管理したい場合
+レベル3：最厳格（規制業種）
+3レベル早見表
+監査・ISMSへの対応
+知的財産・ライセンスのリスク
+その他に気にすべき観点
+導入企...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:192403c9ff6a433fe0b6</id>
+    <title>【完全ローカル】AIに記憶を持たせる5ステップ — Ollama×RAGでつくる長期記憶チャットボット</title>
+    <link rel="alternate" href="https://qiita.com/hatsukaze/items/192403c9ff6a433fe0b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-15T18:21:46+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hatsukaze&quot;&gt;hatsukaze&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T18:21:46+09:00&lt;br/&gt;Updated: 2026-06-15T18:21:46+09:00&lt;br/&gt;はじめに
+こんにちは。開発部の雨です。
+今回は、ローカル環境で動く「長期記憶付きチャットボット」をゼロから実装する方法を紹介します。
+最初はシンプルに「全会話履歴をそのままLLMに渡す」素朴な実装からスタートし、その問題点を実際に確認しながら、RAG（Retrieval-...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:be9684ba52ae88f76dda</id>
     <title>経験浅いエンジニアが AI に React 書かせてると、進化に取り残される説</title>
     <link rel="alternate" href="https://qiita.com/Yamada040/items/be9684ba52ae88f76dda?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2170,6 +2224,18 @@ NullPointerException（NPE）は、Javaの生みの親であるトニー・...</
 エディタやターミナルにはこだわるのに、ブ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b75ebc3e17afa9780381</id>
+    <title>育休中にTOEIC900超えた話とその勉強法【スコア推移あり】</title>
+    <link rel="alternate" href="https://qiita.com/satomiii/items/b75ebc3e17afa9780381?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-16T09:32:57+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satomiii&quot;&gt;satomiii&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T09:32:57+09:00&lt;br/&gt;Updated: 2026-06-16T09:32:57+09:00&lt;br/&gt;TOEIC900を目指そうと思ったきっかけ
+
+もともと英語が好きだったから
+前職が外資系で海外のスタッフと会話することもあったが、自分の英語のできなさを痛感したから
+自分の性格上、900とらないと満足しないと思ったから（これが大きい）
+育休中、何か数字で見える結果が欲しか...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:eee10528b403baf89631</id>
     <title>AI Readyな設計書を目指して。人もAIも読みやすい設計書管理</title>
     <link rel="alternate" href="https://qiita.com/grhg/items/eee10528b403baf89631?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2177,24 +2243,6 @@ NullPointerException（NPE）は、Javaの生みの親であるトニー・...</
     <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/grhg&quot;&gt;grhg&lt;/a&gt;&lt;br/&gt;Published: 2026-06-13T04:48:08+09:00&lt;br/&gt;Updated: 2026-06-16T00:51:12+09:00&lt;br/&gt;はじめに
 以前、設計書はMarkdownで管理してPDFに自動変換しよう！ という記事で、設計書を Markdown で管理していく話を書きました。
 ここではその発展形として、Markdown で管理した設計書を HTML として公開し、GitHub 上でのレビューや A...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1713372648eb543e6980</id>
-    <title>AI駆動開発のセキュリティ、結局どこまでやればいい？</title>
-    <link rel="alternate" href="https://qiita.com/udowanllc/items/1713372648eb543e6980?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-16T00:15:15+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/udowanllc&quot;&gt;udowanllc&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T00:15:15+09:00&lt;br/&gt;Updated: 2026-06-16T00:15:15+09:00&lt;br/&gt;目次
-
-はじめに
-前提：AI駆動開発ならではのリスクを知っておく
-レベル1：一般的なセキュリティレベル
-レベル2：厳格に情報を管理したい場合
-レベル3：最厳格（規制業種）
-3レベル早見表
-監査・ISMSへの対応
-知的財産・ライセンスのリスク
-その他に気にすべき観点
-導入企...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:72a7fd6854e99506cdff</id>
@@ -2205,56 +2253,5 @@ NullPointerException（NPE）は、Javaの生みの親であるトニー・...</
 
 ビジネスの現場で扱うデータの多くは、きれいに数値だけで構成されているわけではありません。
 例えば、顧客データであれば「顧客セグメント」「地域」「業種」「契約プラン」、マーケティングデータで...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:19f39c1f113830e3d902</id>
-    <title>AI時代、「作れる」より「何を作るか」が面白くなってきた</title>
-    <link rel="alternate" href="https://qiita.com/muu3/items/19f39c1f113830e3d902?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-05T23:30:36+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/muu3&quot;&gt;muu3&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T23:30:36+09:00&lt;br/&gt;Updated: 2026-06-05T23:30:36+09:00&lt;br/&gt;はじめに
-私は現在、大型開発案件でエンジニア兼スクラムマスター（SM）として働いています。
-先日、チームの開発者と話していたときにこんな声が上がりました。
-
-PBI管理が面倒すぎるｗ辞めたいｗ
-AI駆動開発ならアジャイルよりウォーターフォールの方が相性良くない？
-Slac...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fae636ab3a9b75ebf930</id>
-    <title>文系東大生が、GPT型モデルをフルスクラッチで開発する話 Part.1 【株式会社ハイレゾ協力】</title>
-    <link rel="alternate" href="https://qiita.com/UT_AI_CLUB/items/fae636ab3a9b75ebf930?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-27T13:06:02+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/UT_AI_CLUB&quot;&gt;UT_AI_CLUB&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T12:51:14+09:00&lt;br/&gt;Updated: 2026-05-27T13:06:02+09:00&lt;br/&gt;【機材協力について】
-本記事（および本連載プロジェクト）は、株式会社ハイレゾ様よりGPUのクラウドサービス「GPUSOROBAN」の計算資源（NVIDIA A100 80GB）を無償でご提供いただき、開発・検証を行っています。
-
-0.はじめに
-こんにちは！東京大学文科3類2...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7c0a515119c0bcb45d35</id>
-    <title>設計本の学びがコードレビューで活きた話｜フラグ引数・null戻り値・型の網羅性</title>
-    <link rel="alternate" href="https://qiita.com/Nao52/items/7c0a515119c0bcb45d35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-21T07:28:08+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T07:28:08+09:00&lt;br/&gt;Updated: 2026-05-21T07:28:08+09:00&lt;br/&gt;■ この記事はこんな人におすすめ
-
-TypeScript / Next.js を使って実務開発をしている人
-コードレビューで設計的な指摘をしたい・受けたい人
-「良いコード／悪いコードで学ぶ設計入門」を読んで実務に活かしたい人
-
-null を返す関数や boolean フラ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c47bc4176cb03e4f0d5a</id>
-    <title>【命名規則】名前から「目的」を読み取れるコードを書くために——目的駆動名前設計のすすめ</title>
-    <link rel="alternate" href="https://qiita.com/Nao52/items/c47bc4176cb03e4f0d5a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-21T06:48:59+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T06:48:59+09:00&lt;br/&gt;Updated: 2026-05-21T06:48:59+09:00&lt;br/&gt;■ この記事はこんな人におすすめ
-
-クラス名・変数名・メソッド名の命名に迷いがちな人
-「とりあえず User や Item でいいか」と思いがちな人
-命名規則を意識はしているが、チームでの共通認識づくりに課題を感じている人
-ドメイン知識を活かした設計に興味がある人
-
-■...</summary>
   </entry>
 </feed>
