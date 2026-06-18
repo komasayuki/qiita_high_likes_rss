@@ -1605,6 +1605,16 @@ AWSは2026年5月11日、Claude Platform on AWSの一般提供開始を発表し
 Claude Platform on AWSは、Anthropicが提供するネイティブなClaude Platf...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:192403c9ff6a433fe0b6</id>
+    <title>【完全ローカル】AIに記憶を持たせる5ステップ — Ollama×RAGでつくる長期記憶チャットボット</title>
+    <link rel="alternate" href="https://qiita.com/hatsukaze/items/192403c9ff6a433fe0b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-15T18:21:46+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hatsukaze&quot;&gt;hatsukaze&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T18:21:46+09:00&lt;br/&gt;Updated: 2026-06-15T18:21:46+09:00&lt;br/&gt;はじめに
+こんにちは。開発部の雨です。
+今回は、ローカル環境で動く「長期記憶付きチャットボット」をゼロから実装する方法を紹介します。
+最初はシンプルに「全会話履歴をそのままLLMに渡す」素朴な実装からスタートし、その問題点を実際に確認しながら、RAG（Retrieval-...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c63073fef7fb87d9f472</id>
     <title>PRを出す前にコミット履歴を整えろと先輩に叩き込まれた話 〜git rebase -i 入門〜</title>
     <link rel="alternate" href="https://qiita.com/shimitaro/items/c63073fef7fb87d9f472?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1633,6 +1643,20 @@ Windows 11上のWSL2にUbuntuなどのLinuxをインストールして開発環�
 その際、ブラウザの運用方針は人によって分かれるかと思います。
 
 WSL2上のLinux側にブラウザをインストールして完結さ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:52dc298122587969b39c</id>
+    <title>ダッシュボードを作ったのに誰も見てくれないので、オントロジーについて考えてみた</title>
+    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/52dc298122587969b39c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-18T10:24:07+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T10:24:07+09:00&lt;br/&gt;Updated: 2026-06-18T10:24:07+09:00&lt;br/&gt;はじめに
+ダッシュボードを作った。
+毎日見てもらうために、メールやSlackで日次配信もするようにした。
+...だけど、誰も見てくれていない。
+バラバラだったデータをまとめて、せっかくダッシュボードで見やすくしたのに。
+この数ヶ月はなんだったんだ。
+
+似たような経験をした...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:39e8e3bbc327526ac20f</id>
@@ -1678,20 +1702,6 @@ CSSやJavaScrip...</summary>
 そんな方におすすめなのが、Obsidianのコミュニティプラグイ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:52dc298122587969b39c</id>
-    <title>ダッシュボードを作ったのに誰も見てくれないので、オントロジーについて考えてみた</title>
-    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/52dc298122587969b39c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-18T10:24:07+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T10:24:07+09:00&lt;br/&gt;Updated: 2026-06-18T10:24:07+09:00&lt;br/&gt;はじめに
-ダッシュボードを作った。
-毎日見てもらうために、メールやSlackで日次配信もするようにした。
-...だけど、誰も見てくれていない。
-バラバラだったデータをまとめて、せっかくダッシュボードで見やすくしたのに。
-この数ヶ月はなんだったんだ。
-
-似たような経験をした...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:9fc54ce86fe6ac2e453c</id>
     <title>【まとめ】名前がカッコいい、アンチパターン6選！どこがアカンの？を爆速解説</title>
     <link rel="alternate" href="https://qiita.com/tomoki-miso/items/9fc54ce86fe6ac2e453c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1702,16 +1712,6 @@ CSSやJavaScrip...</summary>
 「やらかし」の名前のクセに。
 アンチパターンとは、広く行われているのに望ましくない結果を招く実践を、原因・兆候・悪影響・対処法までセットで整理した形式のこと。
 この記事では、名前がカッ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:192403c9ff6a433fe0b6</id>
-    <title>【完全ローカル】AIに記憶を持たせる5ステップ — Ollama×RAGでつくる長期記憶チャットボット</title>
-    <link rel="alternate" href="https://qiita.com/hatsukaze/items/192403c9ff6a433fe0b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-15T18:21:46+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hatsukaze&quot;&gt;hatsukaze&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T18:21:46+09:00&lt;br/&gt;Updated: 2026-06-15T18:21:46+09:00&lt;br/&gt;はじめに
-こんにちは。開発部の雨です。
-今回は、ローカル環境で動く「長期記憶付きチャットボット」をゼロから実装する方法を紹介します。
-最初はシンプルに「全会話履歴をそのままLLMに渡す」素朴な実装からスタートし、その問題点を実際に確認しながら、RAG（Retrieval-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:30ae4581b8a9b3206b15</id>
