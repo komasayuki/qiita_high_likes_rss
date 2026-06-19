@@ -75,7 +75,7 @@ AIがコードを生成してくれる時代になっても、Gitの操作は自
     <title>ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/b892d9ff73495ca4b68d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-16T23:46:52+09:00</updated>
-    <summary type="html">Likes: 181&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T23:46:52+09:00&lt;br/&gt;Updated: 2026-06-16T23:46:52+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 183&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T23:46:52+09:00&lt;br/&gt;Updated: 2026-06-16T23:46:52+09:00&lt;br/&gt;はじめに
 
 こんばんは、mirukyです。
 私は元文系の人間なので、プログラミングを学び始めたころ「ReactとかNext.jsってプログラミング言語なの？何？」とよく思っていました。なにせ、非常によく使われているのをいいことに、もはやプログラミング言語かのごとき堂々たる...</summary>
@@ -353,7 +353,7 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <title>技術力だけでは選ばれない。未経験エンジニアが現場で差をつける「対話の技術」5選</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/aedc1409d1f19c4d14f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-17T13:41:31+09:00</updated>
-    <summary type="html">Likes: 99&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T13:39:48+09:00&lt;br/&gt;Updated: 2026-06-17T13:41:31+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
+    <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T13:39:48+09:00&lt;br/&gt;Updated: 2026-06-17T13:41:31+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
 仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。
 誰かの助けになれば幸いです。
@@ -682,6 +682,20 @@ AIを使ってアプリやUIを作るとき、ChatGPTやClaudeに「いい感じ
 PowerPoint...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:52dc298122587969b39c</id>
+    <title>ダッシュボードを作ったのに誰も見てくれないので、オントロジーについて考えてみた</title>
+    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/52dc298122587969b39c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-18T10:24:07+09:00</updated>
+    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T10:24:07+09:00&lt;br/&gt;Updated: 2026-06-18T10:24:07+09:00&lt;br/&gt;はじめに
+ダッシュボードを作った。
+毎日見てもらうために、メールやSlackで日次配信もするようにした。
+...だけど、誰も見てくれていない。
+バラバラだったデータをまとめて、せっかくダッシュボードで見やすくしたのに。
+この数ヶ月はなんだったんだ。
+
+似たような経験をした...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:78b5387e7dacf4aba403</id>
     <title>未経験からエンジニアを目指すなら知っておきたい、職種の広がり方と成長を続けるコツ</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/78b5387e7dacf4aba403?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -757,20 +771,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 研修資料を作成していて、今までの慣例に則ってnginx + アプリケーションサーバーの構成を組んでいるときに
 「ALBもCloudFrontもある環境で、なぜnginxが必要なのか？」
 という何回かは抱いたことがある疑問にちゃんと向き合ってみようと思って深掘りし...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:52dc298122587969b39c</id>
-    <title>ダッシュボードを作ったのに誰も見てくれないので、オントロジーについて考えてみた</title>
-    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/52dc298122587969b39c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-18T10:24:07+09:00</updated>
-    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T10:24:07+09:00&lt;br/&gt;Updated: 2026-06-18T10:24:07+09:00&lt;br/&gt;はじめに
-ダッシュボードを作った。
-毎日見てもらうために、メールやSlackで日次配信もするようにした。
-...だけど、誰も見てくれていない。
-バラバラだったデータをまとめて、せっかくダッシュボードで見やすくしたのに。
-この数ヶ月はなんだったんだ。
-
-似たような経験をした...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:48b1eca9c48f05839692</id>
@@ -2056,6 +2056,16 @@ macOS 版(Swift / SwiftUI)と Windows 版(C# / WPF)の 2 つがあり、同じ�
 Google Driveに画像をア...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:473ff0aacea13ad2fdd3</id>
+    <title>Copilot Coworkが一般公開したと思ったら従量課金でこわーくなっちゃった話</title>
+    <link rel="alternate" href="https://qiita.com/Oyu3m/items/473ff0aacea13ad2fdd3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-19T01:26:37+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Oyu3m&quot;&gt;Oyu3m&lt;/a&gt;&lt;br/&gt;Published: 2026-06-19T01:26:37+09:00&lt;br/&gt;Updated: 2026-06-19T01:26:37+09:00&lt;br/&gt;前提
+この記事は2026/6/18時点での公開情報や動作を私なりにまとめたものとなります。
+正確な情報はご自身でご確認もしくは Microsoft へお問い合わせください。
+また、本機能は従量課金となり、会社の環境で実行するとコストがかかりますので、用法・用量を守ってお使...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1193da3bfee4f891137d</id>
     <title>キオクシアって一体何なんだ！時価総額日本一になった&quot;メモリ&quot;の会社は何が凄いのか？</title>
     <link rel="alternate" href="https://qiita.com/issey_dotlog/items/1193da3bfee4f891137d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2223,16 +2233,6 @@ NullPointerException（NPE）は、Javaの生みの親であるトニー・...</
 
 作ったもの
 機能一覧...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:473ff0aacea13ad2fdd3</id>
-    <title>Copilot Coworkが一般公開したと思ったら従量課金でこわーくなっちゃった話</title>
-    <link rel="alternate" href="https://qiita.com/Oyu3m/items/473ff0aacea13ad2fdd3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-19T01:26:37+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Oyu3m&quot;&gt;Oyu3m&lt;/a&gt;&lt;br/&gt;Published: 2026-06-19T01:26:37+09:00&lt;br/&gt;Updated: 2026-06-19T01:26:37+09:00&lt;br/&gt;前提
-この記事は2026/6/18時点での公開情報や動作を私なりにまとめたものとなります。
-正確な情報はご自身でご確認もしくは Microsoft へお問い合わせください。
-また、本機能は従量課金となり、会社の環境で実行するとコストがかかりますので、用法・用量を守ってお使...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b75ebc3e17afa9780381</id>
