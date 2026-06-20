@@ -1208,6 +1208,18 @@ Linuxを日常的に使っていると、「もっと速くできないか？」
 しかし、クオンツトレーダーにとって最初に重要なのは、未来の価格を正確に当てることではありません。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f451a4ecb49a9476f09b</id>
+    <title>ベテランさんが教えてくれない「クリーンアーキテクチャー」を小学生でもわかるように解説</title>
+    <link rel="alternate" href="https://qiita.com/Hashimoto-Noriaki/items/f451a4ecb49a9476f09b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-18T17:33:37+09:00</updated>
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Hashimoto-Noriaki&quot;&gt;Hashimoto-Noriaki&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T17:28:23+09:00&lt;br/&gt;Updated: 2026-06-18T17:33:37+09:00&lt;br/&gt;概要
+クリーンアーキテクチャーってよく聞くけど、なんやねんって思う人いますよね💦
+ベテランさんとかもなかなか教えてくれたりしないです。
+なのでその内容を小学生にもわかるレベルで、解説していきます。
+今回はRailsで実装してますが、
+皆さんが使っている言語に置き換えて学ん...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:803300d3453daaaf48ce</id>
     <title>ping、tracerouteコマンドを使用した、SSHできない時の切り分け方</title>
     <link rel="alternate" href="https://qiita.com/M_waowaowao/items/803300d3453daaaf48ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1258,18 +1270,6 @@ ssh user@192.168.1.100
 AIスタートアップでCEO兼CTOをしています。
 
 僕の会社では、約10人月の受託開発が2週間で、自社プロダクトは「開発〜リリース」が5日で終わるようになりました。支えているのは、Claude Co...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f451a4ecb49a9476f09b</id>
-    <title>ベテランさんが教えてくれない「クリーンアーキテクチャー」を小学生でもわかるように解説</title>
-    <link rel="alternate" href="https://qiita.com/Hashimoto-Noriaki/items/f451a4ecb49a9476f09b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-18T17:33:37+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Hashimoto-Noriaki&quot;&gt;Hashimoto-Noriaki&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T17:28:23+09:00&lt;br/&gt;Updated: 2026-06-18T17:33:37+09:00&lt;br/&gt;概要
-クリーンアーキテクチャーってよく聞くけど、なんやねんって思う人いますよね💦
-ベテランさんとかもなかなか教えてくれたりしないです。
-なのでその内容を小学生にもわかるレベルで、解説していきます。
-今回はRailsで実装してますが、
-皆さんが使っている言語に置き換えて学ん...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f02c34ae6dc994cd3084</id>
@@ -1876,6 +1876,15 @@ WEBアプリケーションエンジニアとして活動しているPOMです�
 これまでデータ分析を学ぶには、Explora...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:68d1a29728e5ee339779</id>
+    <title>【AI駆動開発】AIに「図を描いて」と頼むと“それっぽいけど使えない図”が出てくる問題を、draw.io生成スキルで倒した</title>
+    <link rel="alternate" href="https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-18T02:16:47+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/enomoso_pm&quot;&gt;enomoso_pm&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T02:16:47+09:00&lt;br/&gt;Updated: 2026-06-18T02:16:47+09:00&lt;br/&gt;はじめに
+受託開発やSESの現場にいると、とにかく「図」を作る場面が多いんですよね。
+業務フロー図、システム構成図、ER図、シーケンス図、画面遷移図、体制図、CI/CDパイプライン……。設計書のページをめくるたびに図、図、図。しかもこれ、お客様に出す資料だったりするので、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a072528364883ae7bb96</id>
     <title>[ハンズオン手順書] Claude + Microsoft Foundry で AI エージェントを構築する #CodeWithClaude</title>
     <link rel="alternate" href="https://qiita.com/chomado/items/a072528364883ae7bb96?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1940,15 +1949,6 @@ n8n + Google Maps API + Discord を使って
 2026/4/17 に Anthropic から Claude Design がリリースされました。
 
 Claude と会話しながらデザインやプロトタイプ、スライド、1枚ものの資料などを作れるサービスだそうです。現在は Claude Opus 4.7 を基盤...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:68d1a29728e5ee339779</id>
-    <title>【AI駆動開発】AIに「図を描いて」と頼むと“それっぽいけど使えない図”が出てくる問題を、draw.io生成スキルで倒した</title>
-    <link rel="alternate" href="https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-18T02:16:47+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/enomoso_pm&quot;&gt;enomoso_pm&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T02:16:47+09:00&lt;br/&gt;Updated: 2026-06-18T02:16:47+09:00&lt;br/&gt;はじめに
-受託開発やSESの現場にいると、とにかく「図」を作る場面が多いんですよね。
-業務フロー図、システム構成図、ER図、シーケンス図、画面遷移図、体制図、CI/CDパイプライン……。設計書のページをめくるたびに図、図、図。しかもこれ、お客様に出す資料だったりするので、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a754fff1885f6cf0a146</id>
