@@ -244,6 +244,20 @@ UIを設計・実装していると、「このインタラクション、なん
 そこで今回は、UIデザインパターンと説得的デザインパターンを、ユースケースごとに分類・ツリー形式でまとめ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:52dc298122587969b39c</id>
+    <title>ダッシュボードを作ったのに誰も見てくれないので、オントロジーについて考えてみた</title>
+    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/52dc298122587969b39c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-18T10:24:07+09:00</updated>
+    <summary type="html">Likes: 125&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T10:24:07+09:00&lt;br/&gt;Updated: 2026-06-18T10:24:07+09:00&lt;br/&gt;はじめに
+ダッシュボードを作った。
+毎日見てもらうために、メールやSlackで日次配信もするようにした。
+...だけど、誰も見てくれていない。
+バラバラだったデータをまとめて、せっかくダッシュボードで見やすくしたのに。
+この数ヶ月はなんだったんだ。
+
+似たような経験をした...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a8c2c14a72a417619c1d</id>
     <title>1割の“信頼される”エンジニアがやっている「何の話かを省略しない説明」</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/a8c2c14a72a417619c1d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -254,20 +268,6 @@ UIを設計・実装していると、「このインタラクション、なん
 誰かの助けになれば幸いです。
 
 1割の“信頼される”エンジニアがやっている「主語を消...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:52dc298122587969b39c</id>
-    <title>ダッシュボードを作ったのに誰も見てくれないので、オントロジーについて考えてみた</title>
-    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/52dc298122587969b39c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-18T10:24:07+09:00</updated>
-    <summary type="html">Likes: 123&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T10:24:07+09:00&lt;br/&gt;Updated: 2026-06-18T10:24:07+09:00&lt;br/&gt;はじめに
-ダッシュボードを作った。
-毎日見てもらうために、メールやSlackで日次配信もするようにした。
-...だけど、誰も見てくれていない。
-バラバラだったデータをまとめて、せっかくダッシュボードで見やすくしたのに。
-この数ヶ月はなんだったんだ。
-
-似たような経験をした...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2d4fcb9ed4bee7ee25fe</id>
@@ -784,6 +784,18 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 この記事では、データの扱い方の基本パターンを知ることで、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f451a4ecb49a9476f09b</id>
+    <title>ベテランさんが教えてくれない「クリーンアーキテクチャー」を小学生でもわかるように解説</title>
+    <link rel="alternate" href="https://qiita.com/Hashimoto-Noriaki/items/f451a4ecb49a9476f09b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-21T00:49:23+09:00</updated>
+    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Hashimoto-Noriaki&quot;&gt;Hashimoto-Noriaki&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T17:28:23+09:00&lt;br/&gt;Updated: 2026-06-21T00:49:23+09:00&lt;br/&gt;概要
+クリーンアーキテクチャーってよく聞くけど、なんやねんって思う人いますよね💦
+ベテランさんとかもなかなか教えてくれたりしないです。
+なのでその内容を小学生にもわかるレベルで、解説していきます。
+今回はRailsで実装してますが、
+皆さんが使っている言語に置き換えて学ん...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:01defe8188de2123b25c</id>
     <title>AI時代、“ITを知らない”が普通に危険になってきた話</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/01defe8188de2123b25c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -862,18 +874,6 @@ Copy Fail(CVE-2026-31431) という脆弱性が報告されました。
 
 Linux にて簡単に特権昇格(root権限でコマンドの実行が出来るようになる）が出来る脆弱性
 2017 年以降にリリースされた全ての Linux ディストリビューションが対象とさ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f451a4ecb49a9476f09b</id>
-    <title>ベテランさんが教えてくれない「クリーンアーキテクチャー」を小学生でもわかるように解説</title>
-    <link rel="alternate" href="https://qiita.com/Hashimoto-Noriaki/items/f451a4ecb49a9476f09b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-21T00:49:23+09:00</updated>
-    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Hashimoto-Noriaki&quot;&gt;Hashimoto-Noriaki&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T17:28:23+09:00&lt;br/&gt;Updated: 2026-06-21T00:49:23+09:00&lt;br/&gt;概要
-クリーンアーキテクチャーってよく聞くけど、なんやねんって思う人いますよね💦
-ベテランさんとかもなかなか教えてくれたりしないです。
-なのでその内容を小学生にもわかるレベルで、解説していきます。
-今回はRailsで実装してますが、
-皆さんが使っている言語に置き換えて学ん...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fa1f6b0db92e497796ac</id>
@@ -1253,6 +1253,21 @@ AIスタートアップでCEO兼CTOをしています。
 僕の会社では、約10人月の受託開発が2週間で、自社プロダクトは「開発〜リリース」が5日で終わるようになりました。支えているのは、Claude Co...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:690bf3299706d40d4532</id>
+    <title>【| ! ~ ` ^ * \】← これ、なんと読む？ 地味に困る、記号の読み方。24個一挙に確認してみないか？【まとめ】</title>
+    <link rel="alternate" href="https://qiita.com/tomoki-miso/items/690bf3299706d40d4532?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-18T20:33:36+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomoki-miso&quot;&gt;tomoki-miso&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T20:33:36+09:00&lt;br/&gt;Updated: 2026-06-18T20:33:36+09:00&lt;br/&gt;はじめに
+ペアプロ中、「 &quot; 」で string にしてほしい、と思う。
+口頭で伝えようとして、口を開く。
+咄嗟に記号の名前が出てこない........
+「ちょんちょんで囲って！」
+と言う。
+伝わる。
+でも、なぜか少しだけ情けない気持ちになる。
+記号には、たいてい複数の読...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f02c34ae6dc994cd3084</id>
     <title>【新入社員研修】Linuxの基本操作</title>
     <link rel="alternate" href="https://qiita.com/cookiepunch/items/f02c34ae6dc994cd3084?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1433,21 +1448,6 @@ delphinu...</summary>
 この記事は2026/6/18時点での公開情報や動作を私なりにまとめたものとなります。
 正確な情報はご自身でご確認もしくは Microsoft へお問い合わせください。
 また、本機能は従量課金となり、会社の環境で実行するとコストがかかりますので、用法・用量を守ってお使...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:690bf3299706d40d4532</id>
-    <title>【| ! ~ ` ^ * \】← これ、なんと読む？ 地味に困る、記号の読み方。24個一挙に確認してみないか？【まとめ】</title>
-    <link rel="alternate" href="https://qiita.com/tomoki-miso/items/690bf3299706d40d4532?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-18T20:33:36+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomoki-miso&quot;&gt;tomoki-miso&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T20:33:36+09:00&lt;br/&gt;Updated: 2026-06-18T20:33:36+09:00&lt;br/&gt;はじめに
-ペアプロ中、「 &quot; 」で string にしてほしい、と思う。
-口頭で伝えようとして、口を開く。
-咄嗟に記号の名前が出てこない........
-「ちょんちょんで囲って！」
-と言う。
-伝わる。
-でも、なぜか少しだけ情けない気持ちになる。
-記号には、たいてい複数の読...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:49f9601481aec596f545</id>
