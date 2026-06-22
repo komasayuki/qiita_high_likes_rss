@@ -1041,8 +1041,8 @@
       "published": "2026-06-20T13:17:29+09:00",
       "updated": "2026-06-20T20:27:41+09:00",
       "author_name": "engchina",
-      "likes_count": 19,
-      "last_seen": "2026-06-22T06:04:13.642411927+00:00"
+      "likes_count": 20,
+      "last_seen": "2026-06-22T08:25:46.965316659+00:00"
     },
     {
       "key": "30ae4581b8a9b3206b15",
@@ -1510,7 +1510,7 @@
       "updated": "2026-06-20T15:59:56+09:00",
       "author_name": "GeekMasahiro",
       "likes_count": 10,
-      "last_seen": "2026-06-22T06:04:13.642411927+00:00"
+      "last_seen": "2026-06-22T08:25:46.965316659+00:00"
     },
     {
       "key": "40346d3f0d285b9523e7",
@@ -1535,6 +1535,18 @@
       "author_name": "TOMOSIA-HieuNT",
       "likes_count": 27,
       "last_seen": "2026-06-08T19:51:46.163281572+00:00"
+    },
+    {
+      "key": "42635251d8e2641cb50c",
+      "item_id": "42635251d8e2641cb50c",
+      "title": "AI駆動開発のセキュリティツール、結局なにを入れればいい？",
+      "link": "https://qiita.com/udowanllc/items/42635251d8e2641cb50c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n前回の記事では、AI駆動開発のセキュリティを3つのレベルに分けて「どこまでやればいいか」を整理しました。ありがたいことに多くの反応をいただき、特に多かったのが 「考え方はわかった。で、具体的に何を入れればいいの？」 という声です。\n本記事はその実践編です。前回の...",
+      "published": "2026-06-22T00:03:45+09:00",
+      "updated": "2026-06-22T00:03:45+09:00",
+      "author_name": "udowanllc",
+      "likes_count": 11,
+      "last_seen": "2026-06-22T08:25:46.965316659+00:00"
     },
     {
       "key": "4385ac59ebefb923cf0d",
@@ -2677,18 +2689,6 @@
       "last_seen": "2026-05-03T07:46:49.619297371+00:00"
     },
     {
-      "key": "7138654568f8ef43785b",
-      "item_id": "7138654568f8ef43785b",
-      "title": "n8nでBBCニュースを自動翻訳・要約してDiscordに通知する仕組みを作ってみた",
-      "link": "https://qiita.com/wan-code/items/7138654568f8ef43785b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n海外ニュースを追いたいけど、毎回英語の記事を読むのは少しハードルが高い。\nそこで今回は、BBCのRSSをn8nで定期取得し、新着ニュースだけをAIで日本語要約してDiscordに投稿する仕組みを作ってみました。\nやっていることはシンプルです。\n\nBBC News...",
-      "published": "2026-04-21T18:55:44+09:00",
-      "updated": "2026-04-21T18:55:44+09:00",
-      "author_name": "wan-code",
-      "likes_count": 21,
-      "last_seen": "2026-04-23T07:44:26.013473329+00:00"
-    },
-    {
       "key": "71b3c3188d19e2429ee0",
       "item_id": "71b3c3188d19e2429ee0",
       "title": "n8nで「ランチ自動提案Bot」を作ってみた（Google Maps × Discord）",
@@ -2721,8 +2721,8 @@
       "published": "2026-06-20T14:34:06+09:00",
       "updated": "2026-06-20T14:34:46+09:00",
       "author_name": "ktdatascience",
-      "likes_count": 38,
-      "last_seen": "2026-06-22T06:04:13.642411927+00:00"
+      "likes_count": 39,
+      "last_seen": "2026-06-22T08:25:46.965316659+00:00"
     },
     {
       "key": "73778c9202ab4f8a7474",
@@ -3433,18 +3433,6 @@
       "last_seen": "2026-06-11T07:59:45.682937170+00:00"
     },
     {
-      "key": "8f9b238ae28e380e6029",
-      "item_id": "8f9b238ae28e380e6029",
-      "title": "Claude Codeの利用状況をチームで可視化するダッシュボードをOSSで公開しました",
-      "link": "https://qiita.com/tamepicomaru/items/8f9b238ae28e380e6029?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "株式会社AgenticSec のソフトウェアエンジニアの爲西です。\n日々の開発で Claude Code を使うほど、トークンやコストは数字で追いやすい一方、スキル・MCP・サブエージェントがチームにどれだけ根付いているかは、個々のセッションを覗かないと把握しづらい——とい...",
-      "published": "2026-04-20T07:05:49+09:00",
-      "updated": "2026-04-20T07:05:49+09:00",
-      "author_name": "tamepicomaru",
-      "likes_count": 37,
-      "last_seen": "2026-04-23T07:44:26.013473329+00:00"
-    },
-    {
       "key": "8ff4b27c4d9097380c18",
       "item_id": "8ff4b27c4d9097380c18",
       "title": "Docling vs MarkItDown: GenAI向けのドキュメント処理における最適なツールはどっち？",
@@ -3465,8 +3453,8 @@
       "published": "2026-06-21T20:35:48+09:00",
       "updated": "2026-06-21T20:55:41+09:00",
       "author_name": "minorun365",
-      "likes_count": 58,
-      "last_seen": "2026-06-22T06:04:13.642411927+00:00"
+      "likes_count": 61,
+      "last_seen": "2026-06-22T08:25:46.965316659+00:00"
     },
     {
       "key": "92459106b36b33bda66b",
@@ -3585,8 +3573,8 @@
       "published": "2026-06-20T15:32:57+09:00",
       "updated": "2026-06-21T16:50:14+09:00",
       "author_name": "Syoitu",
-      "likes_count": 94,
-      "last_seen": "2026-06-22T06:04:13.642411927+00:00"
+      "likes_count": 102,
+      "last_seen": "2026-06-22T08:25:46.965316659+00:00"
     },
     {
       "key": "9804ff498426ee385967",
@@ -3647,6 +3635,18 @@
       "author_name": "katohiro_fi",
       "likes_count": 49,
       "last_seen": "2026-05-10T07:09:01.688491435+00:00"
+    },
+    {
+      "key": "9ae8a5135726d9cb2be7",
+      "item_id": "9ae8a5135726d9cb2be7",
+      "title": "機械学習モデルのパラメーター・チューニング入門：過学習を防ぎ、予測精度を上げる考え方",
+      "link": "https://qiita.com/KanNishida/items/9ae8a5135726d9cb2be7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "機械学習モデルのパラメーター・チューニングの基礎\n機械学習モデルを使って予測モデルを作るとき、同じデータを使っていても、モデルの設定によって予測精度が大きく変わることがあります。\nたとえば、ランダムフォレスト、XGBoost、LightGBM、CatBoostといったモデ...",
+      "published": "2026-06-22T08:31:13+09:00",
+      "updated": "2026-06-22T08:31:13+09:00",
+      "author_name": "KanNishida",
+      "likes_count": 11,
+      "last_seen": "2026-06-22T08:25:46.965316659+00:00"
     },
     {
       "key": "9b0e71089d1a166e5623",
@@ -3743,18 +3743,6 @@
       "author_name": "mochi_cron",
       "likes_count": 16,
       "last_seen": "2026-05-01T07:09:21.582351537+00:00"
-    },
-    {
-      "key": "9d91ff5ad51001237a02",
-      "item_id": "9d91ff5ad51001237a02",
-      "title": "一人で悩み続けてしまう新人エンジニアへ。その時間、無駄かもしれません。",
-      "link": "https://qiita.com/hitomin_poke/items/9d91ff5ad51001237a02?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめまして。株式会社PRUMでエンジニアをしている人見です。\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\n一人で悩み続けてし...",
-      "published": "2026-04-20T14:28:11+09:00",
-      "updated": "2026-04-20T14:28:12+09:00",
-      "author_name": "hitomin_poke",
-      "likes_count": 91,
-      "last_seen": "2026-04-23T07:44:26.013473329+00:00"
     },
     {
       "key": "9eafa7854f27055a7a07",
@@ -4369,18 +4357,6 @@
       "last_seen": "2026-06-05T07:46:46.181696929+00:00"
     },
     {
-      "key": "b2d629e18108e7434b44",
-      "item_id": "b2d629e18108e7434b44",
-      "title": "Vercelセキュリティインシデントに巻き込まれた話と対応記録",
-      "link": "https://qiita.com/Tomo27/items/b2d629e18108e7434b44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "何が起きたか\n2026年4月19日、Vercelが公式にセキュリティインシデントを発表した。\n内容は「Vercel社内の特定システムへの不正アクセス」。\nただし原因はVercel自体ではなく、サードパーティ製AIツールのGoogle Workspace OAuthアプリが...",
-      "published": "2026-04-20T15:10:46+09:00",
-      "updated": "2026-04-20T15:10:46+09:00",
-      "author_name": "Tomo27",
-      "likes_count": 11,
-      "last_seen": "2026-04-23T07:44:26.013473329+00:00"
-    },
-    {
       "key": "b46711e39fb8ab50a708",
       "item_id": "b46711e39fb8ab50a708",
       "title": "【2026年最新】Copilot Studio ライセンス完全ガイド ─ 大企業が「損しない」プラン選びの全知識",
@@ -4573,18 +4549,6 @@
       "last_seen": "2026-06-04T19:49:20.534411765+00:00"
     },
     {
-      "key": "baae3ea02fb98f642ba8",
-      "item_id": "baae3ea02fb98f642ba8",
-      "title": "n8nで植物の水やりリマインドBOTを作ってみた（Discord連携）",
-      "link": "https://qiita.com/wan-code/items/baae3ea02fb98f642ba8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n植物って気づいたら水やり忘れませんか？\n\n忙しいとつい忘れる\n種類ごとに頻度が違う\nいつ水やったか分からなくなる\n\nそこで今回は、n8n + Discord + Data Tableを使って\n「水やり管理を自動化するBOT」を作りました。\n\n作ったもの\n機能一覧...",
-      "published": "2026-04-20T18:55:56+09:00",
-      "updated": "2026-04-20T18:55:56+09:00",
-      "author_name": "wan-code",
-      "likes_count": 26,
-      "last_seen": "2026-04-23T07:44:26.013473329+00:00"
-    },
-    {
       "key": "bac7a492b1b7d5ffe510",
       "item_id": "bac7a492b1b7d5ffe510",
       "title": "Qiita記事の毎月投稿を三年間継続できたので振り返ります！",
@@ -4619,18 +4583,6 @@
       "author_name": "yamadagenki",
       "likes_count": 23,
       "last_seen": "2026-06-06T07:18:54.920287053+00:00"
-    },
-    {
-      "key": "bca0ee8f15a13dfd8cfa",
-      "item_id": "bca0ee8f15a13dfd8cfa",
-      "title": "【Claude Design】見せてもらおうか Claude Designの性能とやらを",
-      "link": "https://qiita.com/ryu-ki/items/bca0ee8f15a13dfd8cfa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n2026/4/17 に Anthropic から Claude Design がリリースされました。\n\nClaude と会話しながらデザインやプロトタイプ、スライド、1枚ものの資料などを作れるサービスだそうです。現在は Claude Opus 4.7 を基盤...",
-      "published": "2026-04-20T08:23:13+09:00",
-      "updated": "2026-04-22T17:47:00+09:00",
-      "author_name": "ryu-ki",
-      "likes_count": 30,
-      "last_seen": "2026-04-23T07:44:26.013473329+00:00"
     },
     {
       "key": "bdbd01449cf019365dca",
@@ -4895,6 +4847,18 @@
       "author_name": "prum_hitomi",
       "likes_count": 60,
       "last_seen": "2026-06-21T07:54:59.351480814+00:00"
+    },
+    {
+      "key": "c6f24bc95a3c2a46de4d",
+      "item_id": "c6f24bc95a3c2a46de4d",
+      "title": "Railsアプリのメモリが「無駄に」減る話 〜リーク・断片化〜",
+      "link": "https://qiita.com/akachiryo/items/c6f24bc95a3c2a46de4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "お疲れ様です！\n前回はメモリ管理の基本を書きましたが、今回はその続きで メモリリーク と 断片化（フラグメンテーション） についてまとめてみました \n前回ふれた「OOM（メモリ枯渇でプロセスが落ちる）」の 原因編 にあたる話です。\n興味ある方は読んでいただけると嬉しいです ...",
+      "published": "2026-06-22T10:53:38+09:00",
+      "updated": "2026-06-22T10:53:38+09:00",
+      "author_name": "akachiryo",
+      "likes_count": 26,
+      "last_seen": "2026-06-22T08:25:46.965316659+00:00"
     },
     {
       "key": "c727938756b287868ffa",
@@ -5341,18 +5305,6 @@
       "last_seen": "2026-05-28T07:39:44.939409781+00:00"
     },
     {
-      "key": "da4d5eec968b92ebc26d",
-      "item_id": "da4d5eec968b92ebc26d",
-      "title": "記憶を持たないLLMの記憶 ― コンテキスト/メモリー/ハーネスエンジニアリング入門の前に",
-      "link": "https://qiita.com/yuji-arakawa/items/da4d5eec968b92ebc26d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n\n記憶を持たないはずのAIが、私を覚えている\nLLM自体は記憶を持ちません。直前の会話で何を話したかを本当は「覚えていない」はずなのです。それなのに、ChatGPTのようなチャットアプリや最近のエージェントと会話すると、まるで相手が自分を覚えていてくれて、記憶...",
-      "published": "2026-04-20T07:39:24+09:00",
-      "updated": "2026-04-21T17:40:07+09:00",
-      "author_name": "yuji-arakawa",
-      "likes_count": 29,
-      "last_seen": "2026-04-23T07:44:26.013473329+00:00"
-    },
-    {
       "key": "dab402ae7633805de4e6",
       "item_id": "dab402ae7633805de4e6",
       "title": "【個人開発】旅行経験を蓄積して自分専用の持ち物リストを作るアプリを作成しました！【React/TypeScript/Supabase/Chakra UI/Firebase】",
@@ -5434,7 +5386,7 @@
       "updated": "2026-06-21T19:52:21+09:00",
       "author_name": "bon_eng",
       "likes_count": 11,
-      "last_seen": "2026-06-22T06:04:13.642411927+00:00"
+      "last_seen": "2026-06-22T08:25:46.965316659+00:00"
     },
     {
       "key": "e1d27a1b8d2f3d13f779",
@@ -6203,18 +6155,6 @@
       "author_name": "TMiyamoto",
       "likes_count": 15,
       "last_seen": "2026-05-14T07:17:00.140872567+00:00"
-    },
-    {
-      "key": "fb94b54ef5f9a7df59fc",
-      "item_id": "fb94b54ef5f9a7df59fc",
-      "title": "【Obsidian】作図が簡単にできるプラグイン「Excalidraw」の紹介",
-      "link": "https://qiita.com/shibuya-ys/items/fb94b54ef5f9a7df59fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n図を描くことは、物事の理解を深めたり、思考を整理して誰かに説明したりする上で非常に便利です。しかし、「メモ書きなどで作図ツールを使うのはめんどくさい」と感じた経験がある方も多いのではないでしょうか\nそんな方におすすめなのが、Obsidianのコミュニティプラグイ...",
-      "published": "2026-04-20T10:16:31+09:00",
-      "updated": "2026-04-20T10:16:32+09:00",
-      "author_name": "shibuya-ys",
-      "likes_count": 34,
-      "last_seen": "2026-04-23T07:44:26.013473329+00:00"
     },
     {
       "key": "fc215131805b7523c20b",
