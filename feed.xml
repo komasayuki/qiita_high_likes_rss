@@ -1337,6 +1337,16 @@ Linuxを学び、黒い画面（CUI）と向き合った新卒研修で学んだ
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c6f24bc95a3c2a46de4d</id>
+    <title>Railsアプリのメモリが「無駄に」減る話 〜リーク・断片化〜</title>
+    <link rel="alternate" href="https://qiita.com/akachiryo/items/c6f24bc95a3c2a46de4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-22T10:53:38+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T10:53:38+09:00&lt;br/&gt;Updated: 2026-06-22T10:53:38+09:00&lt;br/&gt;お疲れ様です！
+前回はメモリ管理の基本を書きましたが、今回はその続きで メモリリーク と 断片化（フラグメンテーション） についてまとめてみました 
+前回ふれた「OOM（メモリ枯渇でプロセスが落ちる）」の 原因編 にあたる話です。
+興味ある方は読んでいただけると嬉しいです ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:473ff0aacea13ad2fdd3</id>
     <title>Copilot Coworkが一般公開したと思ったら従量課金でこわーくなっちゃった話</title>
     <link rel="alternate" href="https://qiita.com/Oyu3m/items/473ff0aacea13ad2fdd3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1388,16 +1398,6 @@ Linuxを学び、黒い画面（CUI）と向き合った新卒研修で学んだ
 この記事は前回の Claude Code 入門記事を読んでいる前提で書いています。「Skill ってそもそも何？」という方は先にこちらをご覧ください。
 https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c6f24bc95a3c2a46de4d</id>
-    <title>Railsアプリのメモリが「無駄に」減る話 〜リーク・断片化〜</title>
-    <link rel="alternate" href="https://qiita.com/akachiryo/items/c6f24bc95a3c2a46de4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-22T10:53:38+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T10:53:38+09:00&lt;br/&gt;Updated: 2026-06-22T10:53:38+09:00&lt;br/&gt;お疲れ様です！
-前回はメモリ管理の基本を書きましたが、今回はその続きで メモリリーク と 断片化（フラグメンテーション） についてまとめてみました 
-前回ふれた「OOM（メモリ枯渇でプロセスが落ちる）」の 原因編 にあたる話です。
-興味ある方は読んでいただけると嬉しいです ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c8b5cca97554f6f64782</id>
