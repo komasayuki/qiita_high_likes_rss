@@ -13,18 +13,6 @@
       "last_seen": "2026-05-12T19:43:50.896196094+00:00"
     },
     {
-      "key": "00f05b0b517ee3a7c427",
-      "item_id": "00f05b0b517ee3a7c427",
-      "title": "Claude Code実行中にターミナルを閉じても大丈夫にする方法（tmux）",
-      "link": "https://qiita.com/take-yoda/items/00f05b0b517ee3a7c427?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。\n今回は「Claude Codeを使うならtmuxを組み合わせると便利」という話を、Ghosttyでの実演つきでお伝えします。\n\nはじめに\nClaude Codeに長時間かかるタ...",
-      "published": "2026-04-21T10:12:04+09:00",
-      "updated": "2026-04-21T10:12:05+09:00",
-      "author_name": "take-yoda",
-      "likes_count": 22,
-      "last_seen": "2026-04-24T07:45:45.230039974+00:00"
-    },
-    {
       "key": "017679fdfe445a8cddb2",
       "item_id": "017679fdfe445a8cddb2",
       "title": "請負は『工数』を売っていない ― AI時代の『歪んだ物差し』論",
@@ -287,6 +275,18 @@
       "author_name": "degudegu2510",
       "likes_count": 17,
       "last_seen": "2026-06-13T19:41:58.117502793+00:00"
+    },
+    {
+      "key": "0c1da2b7431aa73a798a",
+      "item_id": "0c1da2b7431aa73a798a",
+      "title": "新人エンジニアが最初に専門分野を決めた話",
+      "link": "https://qiita.com/masa20057/items/0c1da2b7431aa73a798a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nはじめまして。株式会社PRUMのmasaです。\n今日は、未経験から現場に入った私が最初の数ヶ月で陥った「最初から全部学ぼうとして、結局中途半端になった」状態の話をします。主にエンジニア未経験の方で広く浅く手をつけて、学習量の多さに途方に暮れている方の参考になれば...",
+      "published": "2026-06-23T09:25:21+09:00",
+      "updated": "2026-06-23T09:25:21+09:00",
+      "author_name": "masa20057",
+      "likes_count": 42,
+      "last_seen": "2026-06-23T09:23:10.898768551+00:00"
     },
     {
       "key": "0ca5bd39c4dba6a8c6eb",
@@ -1189,6 +1189,18 @@
       "last_seen": "2026-05-28T07:39:44.939409781+00:00"
     },
     {
+      "key": "345691e0d2260d5f34a5",
+      "item_id": "345691e0d2260d5f34a5",
+      "title": "並列で思考を分けたら、AIレビューの精度もコンテキスト効率も同時に上がった話",
+      "link": "https://qiita.com/fwatanab/items/345691e0d2260d5f34a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nAIにコードレビューをやらせるとき「1つのエージェントに全部チェックさせる」のをやめて、複数の専門エージェントに並列で分業させる 構成に変えたら、精度が体感で大きく上がりました。\nただ、本当の収穫は精度向上そのものより、「並列で思考を分ける」こと自体が、コンテキ...",
+      "published": "2026-06-23T10:38:25+09:00",
+      "updated": "2026-06-23T10:40:42+09:00",
+      "author_name": "fwatanab",
+      "likes_count": 18,
+      "last_seen": "2026-06-23T09:23:10.898768551+00:00"
+    },
+    {
       "key": "347352e9d3a5a2aa3515",
       "item_id": "347352e9d3a5a2aa3515",
       "title": "Claude Codeでコードレビューの自動化を試した話",
@@ -1245,8 +1257,8 @@
       "published": "2026-06-20T17:06:27+09:00",
       "updated": "2026-06-20T20:05:36+09:00",
       "author_name": "wetty_serial",
-      "likes_count": 17,
-      "last_seen": "2026-06-23T07:31:20.558732339+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-06-23T09:23:10.898768551+00:00"
     },
     {
       "key": "3779701ad40b74b491c5",
@@ -1546,7 +1558,7 @@
       "updated": "2026-06-22T00:03:45+09:00",
       "author_name": "udowanllc",
       "likes_count": 29,
-      "last_seen": "2026-06-23T07:31:20.558732339+00:00"
+      "last_seen": "2026-06-23T09:23:10.898768551+00:00"
     },
     {
       "key": "4385ac59ebefb923cf0d",
@@ -2113,18 +2125,6 @@
       "last_seen": "2026-05-13T19:44:09.002550110+00:00"
     },
     {
-      "key": "59cc72e55e037d77225f",
-      "item_id": "59cc72e55e037d77225f",
-      "title": "Claude Codeのノウハウをサンプルコードで学ぶ ── 入門編（初心者向け）",
-      "link": "https://qiita.com/nogataka/items/59cc72e55e037d77225f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nこの記事は、新人プログラマのみなさんに向けた「Claude Codeのノウハウをサンプルコードで学ぶ」シリーズの入門編です。シリーズは全4本で、ゆるやかにステップアップしていく構成になっています。\n\n入門編（本記事） — Claude Codeの全体像・使い方...",
-      "published": "2026-04-21T13:53:54+09:00",
-      "updated": "2026-04-21T14:41:53+09:00",
-      "author_name": "nogataka",
-      "likes_count": 20,
-      "last_seen": "2026-04-24T07:45:45.230039974+00:00"
-    },
-    {
       "key": "5a8343dba7aa604f0a5b",
       "item_id": "5a8343dba7aa604f0a5b",
       "title": "[Frontend Performance - Part 11] State設計最適化：無駄な再レンダリングを防ぐアーキテクチャ",
@@ -2519,18 +2519,6 @@
       "author_name": "moritalous",
       "likes_count": 19,
       "last_seen": "2026-05-14T19:43:13.364717739+00:00"
-    },
-    {
-      "key": "6d0eccd780b824cf080e",
-      "item_id": "6d0eccd780b824cf080e",
-      "title": "Claude Codeのノウハウをサンプルコードで学ぶ ── ハーネス設計8パターン編",
-      "link": "https://qiita.com/nogataka/items/6d0eccd780b824cf080e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n本記事は「Claude Codeのノウハウをサンプルコードで学ぶ」シリーズの**3本目（サンプルコード編の前半）**です。シリーズ全体は以下の4本構成になっています。\n\n入門編 — Claude Codeの全体像とAIエージェントの仕組みを体感する\n\n中級編 ...",
-      "published": "2026-04-21T14:33:45+09:00",
-      "updated": "2026-04-21T14:42:39+09:00",
-      "author_name": "nogataka",
-      "likes_count": 17,
-      "last_seen": "2026-04-24T07:45:45.230039974+00:00"
     },
     {
       "key": "6d560e5b87dd54136fe3",
@@ -3117,8 +3105,8 @@
       "published": "2026-06-22T18:36:07+09:00",
       "updated": "2026-06-22T18:36:07+09:00",
       "author_name": "tomoki-miso",
-      "likes_count": 10,
-      "last_seen": "2026-06-23T07:31:20.558732339+00:00"
+      "likes_count": 11,
+      "last_seen": "2026-06-23T09:23:10.898768551+00:00"
     },
     {
       "key": "831717856fd24981799d",
@@ -3190,7 +3178,7 @@
       "updated": "2026-06-20T20:20:26+09:00",
       "author_name": "suzukengo",
       "likes_count": 17,
-      "last_seen": "2026-06-23T07:31:20.558732339+00:00"
+      "last_seen": "2026-06-23T09:23:10.898768551+00:00"
     },
     {
       "key": "8580d1f2c79681ecce77",
@@ -3301,18 +3289,6 @@
       "last_seen": "2026-05-02T07:43:06.050455833+00:00"
     },
     {
-      "key": "8935a8d000920c12cf08",
-      "item_id": "8935a8d000920c12cf08",
-      "title": "== と equals() の違いを完全に理解する — なぜStringの比較は equals() を使うのか",
-      "link": "https://qiita.com/S_kamon/items/8935a8d000920c12cf08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nJavaを書き始めたころ、こんな経験をした方は多いのではないでしょうか。\nString a = new String(\"Hello\");\nString b = new String(\"Hello\");\n\nif (a == b) {\n    System.out....",
-      "published": "2026-04-21T17:49:43+09:00",
-      "updated": "2026-04-21T17:49:43+09:00",
-      "author_name": "S_kamon",
-      "likes_count": 23,
-      "last_seen": "2026-04-24T07:45:45.230039974+00:00"
-    },
-    {
       "key": "8965ba4f5840807031cb",
       "item_id": "8965ba4f5840807031cb",
       "title": "Claude Codeと一緒に、MagicPodのWebAPI × TypeScript自動テストを作った話",
@@ -3389,12 +3365,12 @@
       "item_id": "8b8c3116f07fcefe2047",
       "title": "未経験エンジニアなら、キーボードよりノートを汚せ",
       "link": "https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n小生、未経験から開発職について早一年。今やどんなソースもガリレオのように解読し、もう八面六臂の大活躍で上司もにんまり。なんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないのである...",
+      "summary": "はじめに\n小生、未経験から開発職について早一年。\n今やどんなソースもガリレオのように解読し、もう八面六臂の大活躍で上司もにんまり。\nなんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないので...",
       "published": "2026-06-22T16:07:11+09:00",
       "updated": "2026-06-22T21:53:47+09:00",
       "author_name": "maketahara_ise",
       "likes_count": 20,
-      "last_seen": "2026-06-23T07:31:20.558732339+00:00"
+      "last_seen": "2026-06-23T09:23:10.898768551+00:00"
     },
     {
       "key": "8b8ed06bb76a80bb34c2",
@@ -3501,8 +3477,20 @@
       "published": "2026-06-21T20:35:48+09:00",
       "updated": "2026-06-21T20:55:41+09:00",
       "author_name": "minorun365",
-      "likes_count": 96,
-      "last_seen": "2026-06-23T07:31:20.558732339+00:00"
+      "likes_count": 99,
+      "last_seen": "2026-06-23T09:23:10.898768551+00:00"
+    },
+    {
+      "key": "90db7bf21b6546fce911",
+      "item_id": "90db7bf21b6546fce911",
+      "title": "Railsで学ぶ計算量（Big-O）入門 〜「なんとなく速い／遅い」を言葉にする〜",
+      "link": "https://qiita.com/akachiryo/items/90db7bf21b6546fce911?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "計算量（Big-O）入門 〜「なんとなく速い／遅い」を言葉にする〜\nお疲れ様です！\n前回はメモリ管理の話を書きましたが、今回はその続きで 計算量（Big-O記法） についてまとめてみました \n「このコード、データが増えたら大丈夫？」をパッと判断するための話です。\n興味ある...",
+      "published": "2026-06-23T15:08:19+09:00",
+      "updated": "2026-06-23T15:08:19+09:00",
+      "author_name": "akachiryo",
+      "likes_count": 24,
+      "last_seen": "2026-06-23T09:23:10.898768551+00:00"
     },
     {
       "key": "92459106b36b33bda66b",
@@ -3527,18 +3515,6 @@
       "author_name": "ktdatascience",
       "likes_count": 13,
       "last_seen": "2026-06-09T07:31:37.451677895+00:00"
-    },
-    {
-      "key": "92cf7e55a955be1a4bbd",
-      "item_id": "92cf7e55a955be1a4bbd",
-      "title": "Oracle Exadata@AWS を作成してみてみた",
-      "link": "https://qiita.com/shirok/items/92cf7e55a955be1a4bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "OracleとAmazon Web Services, Inc.(AWS) は、AWS データセンター内の Oracle Cloud Infrastructure (OCI) 管理の専用インフラストラクチャ上で、Oracle Exadata Database Service...",
-      "published": "2026-04-22T08:32:37+09:00",
-      "updated": "2026-04-24T15:04:55+09:00",
-      "author_name": "shirok",
-      "likes_count": 32,
-      "last_seen": "2026-04-24T07:45:45.230039974+00:00"
     },
     {
       "key": "9545ee09b2ffbe25057c",
@@ -3682,7 +3658,7 @@
       "updated": "2026-06-22T08:51:42+09:00",
       "author_name": "Takashi_Masumori",
       "likes_count": 13,
-      "last_seen": "2026-06-23T07:31:20.558732339+00:00"
+      "last_seen": "2026-06-23T09:23:10.898768551+00:00"
     },
     {
       "key": "9acccd181ca2f1a75f3c",
@@ -3705,8 +3681,8 @@
       "published": "2026-06-22T08:31:13+09:00",
       "updated": "2026-06-22T08:31:13+09:00",
       "author_name": "KanNishida",
-      "likes_count": 18,
-      "last_seen": "2026-06-23T07:31:20.558732339+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-06-23T09:23:10.898768551+00:00"
     },
     {
       "key": "9b0e71089d1a166e5623",
@@ -4235,18 +4211,6 @@
       "author_name": "tikeda123",
       "likes_count": 45,
       "last_seen": "2026-05-12T07:15:04.313284062+00:00"
-    },
-    {
-      "key": "acc90d24eb083dba9462",
-      "item_id": "acc90d24eb083dba9462",
-      "title": "【初心者エンジニア向け】開発を前に進めるための行動3選",
-      "link": "https://qiita.com/masa20057/items/acc90d24eb083dba9462?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "株式会社PRUMのmasaです。\n今日は、主に開発タスクを前に手が止まってしまう初心者エンジニアの方に向けて、「タスク分解」を軸にした進め方を解説します。\n不確実性の高い開発現場でも、タスクを小さく分けて考え、早めに手を動かし、60点でもアウトプットすることで、不安をコント...",
-      "published": "2026-04-21T12:58:05+09:00",
-      "updated": "2026-04-21T12:58:05+09:00",
-      "author_name": "masa20057",
-      "likes_count": 89,
-      "last_seen": "2026-04-24T07:45:45.230039974+00:00"
     },
     {
       "key": "ad7bb74b3ab60aad4e23",
@@ -4918,7 +4882,7 @@
       "updated": "2026-06-22T10:53:38+09:00",
       "author_name": "akachiryo",
       "likes_count": 39,
-      "last_seen": "2026-06-23T07:31:20.558732339+00:00"
+      "last_seen": "2026-06-23T09:23:10.898768551+00:00"
     },
     {
       "key": "c727938756b287868ffa",
@@ -5401,18 +5365,6 @@
       "last_seen": "2026-06-11T07:59:45.682937170+00:00"
     },
     {
-      "key": "dc115e441ad1552e35ce",
-      "item_id": "dc115e441ad1552e35ce",
-      "title": "Claude Codeのノウハウをサンプルコードで学ぶ ── 中級編（エージェント設計の考え方）",
-      "link": "https://qiita.com/nogataka/items/dc115e441ad1552e35ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n本記事は「Claude Codeのノウハウをサンプルコードで学ぶ」シリーズの中級編です。シリーズ全体は以下の4本構成になっています。\n\n入門編 — Claude Codeの全体像とAIエージェントの仕組みを体感する\n\n中級編（本記事） — エージェント設計の考...",
-      "published": "2026-04-21T13:55:54+09:00",
-      "updated": "2026-04-21T14:42:15+09:00",
-      "author_name": "nogataka",
-      "likes_count": 19,
-      "last_seen": "2026-04-24T07:45:45.230039974+00:00"
-    },
-    {
       "key": "dc26f7468dcd39fbe62f",
       "item_id": "dc26f7468dcd39fbe62f",
       "title": "16万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術",
@@ -5433,8 +5385,8 @@
       "published": "2026-06-21T23:17:02+09:00",
       "updated": "2026-06-21T23:17:03+09:00",
       "author_name": "yusuke_ando_vj",
-      "likes_count": 30,
-      "last_seen": "2026-06-23T07:31:20.558732339+00:00"
+      "likes_count": 31,
+      "last_seen": "2026-06-23T09:23:10.898768551+00:00"
     },
     {
       "key": "dff3c8a2a0ee563ca16f",
@@ -5581,18 +5533,6 @@
       "last_seen": "2026-05-14T07:17:00.140872567+00:00"
     },
     {
-      "key": "e644e9b620ee1c8d3c1b",
-      "item_id": "e644e9b620ee1c8d3c1b",
-      "title": "【初心者必見】今から追いつくClaude Code 入門・徹底解説",
-      "link": "https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nこの記事は、Claude Code を使い始めたいエンジニアのための入門ガイドです。\n「名前は聞いたことがあるけれど、なんとなく乗り遅れた気がして触れていない」という方に向けて書きました。Claude Code は 2025 年 3 月にベータ公開が始まり、今も...",
-      "published": "2026-04-21T15:32:56+09:00",
-      "updated": "2026-04-21T15:32:56+09:00",
-      "author_name": "i-inose",
-      "likes_count": 55,
-      "last_seen": "2026-04-24T07:45:45.230039974+00:00"
-    },
-    {
       "key": "e682bcd92be5a17ed71d",
       "item_id": "e682bcd92be5a17ed71d",
       "title": "【Alacritty】ターミナルエミュレータ、みなさんは何度ご引っ越しされましたか？",
@@ -5687,18 +5627,6 @@
       "author_name": "wan-code",
       "likes_count": 22,
       "last_seen": "2026-04-27T19:41:56.403454378+00:00"
-    },
-    {
-      "key": "e83b2285948cc712ca67",
-      "item_id": "e83b2285948cc712ca67",
-      "title": "レイヤードアーキテクチャを図とコードでやさしく理解する（C# / ASP.NET Core）",
-      "link": "https://qiita.com/hiroki_notes/items/e83b2285948cc712ca67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "ソフトウェア設計って、どうしても堅苦しく聞こえがちです。\n「アーキテクチャ」と聞くだけで、急に難しそうに感じることもあります。\nでも実際に触れてみると、\n「もっと早く知っておけばよかった…！」\nと思う概念がいくつもあります。\nそのひとつが レイヤードアーキテクチャ（Laye...",
-      "published": "2026-04-21T16:43:53+09:00",
-      "updated": "2026-04-21T16:43:53+09:00",
-      "author_name": "hiroki_notes",
-      "likes_count": 23,
-      "last_seen": "2026-04-24T07:45:45.230039974+00:00"
     },
     {
       "key": "e95f490b6533227fe73c",
@@ -6035,18 +5963,6 @@
       "author_name": "yomch703",
       "likes_count": 41,
       "last_seen": "2026-05-28T07:39:44.939409781+00:00"
-    },
-    {
-      "key": "f5e23af90951e53a78ca",
-      "item_id": "f5e23af90951e53a78ca",
-      "title": "[Frontend Performance - Part 4] 描画パフォーマンス最適化：ブラウザの仕事を減らす設計とは？",
-      "link": "https://qiita.com/tuanphan/items/f5e23af90951e53a78ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "📝 注意\n本記事はAIの補助を受けて編集しています。\n内容は大規模Webアプリケーションの実務経験に基づいています。\n\n📚 目次\n\n0. はじめに\n1. ブラウザの仕事を減らすとは？\n2. レイアウト計算を減らす（Reflow 削減）\n3. ペイントコストを下げる...",
-      "published": "2026-04-22T15:29:31+09:00",
-      "updated": "2026-04-23T10:46:59+09:00",
-      "author_name": "tuanphan",
-      "likes_count": 13,
-      "last_seen": "2026-04-24T07:45:45.230039974+00:00"
     },
     {
       "key": "f67bd754c1f7a5116a7c",
