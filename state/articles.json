@@ -121,18 +121,6 @@
       "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
-      "key": "03e060850144899fd284",
-      "item_id": "03e060850144899fd284",
-      "title": "xUnit で始める C# 単体テスト入門",
-      "link": "https://qiita.com/hiroki_notes/items/03e060850144899fd284?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "C# で開発をしていると、単体テストを書く機会は必ず訪れます。\nただ、いざ書こうとすると「どこから手をつければいいんだろう」と迷うことも多いですよね。\nこの記事では、xUnit を使った単体テストの基本を中心に、\n実務でつまずきやすいポイントや、外部依存を扱う際の考え方も交...",
-      "published": "2026-04-22T16:51:33+09:00",
-      "updated": "2026-04-22T16:51:33+09:00",
-      "author_name": "hiroki_notes",
-      "likes_count": 27,
-      "last_seen": "2026-04-25T07:41:09.470745033+00:00"
-    },
-    {
       "key": "04b86ec7601e055c6fe8",
       "item_id": "04b86ec7601e055c6fe8",
       "title": "Claude Code Action と Copilot レビューで GitHub Actions の失敗を自己修復するパイプラインを作った話",
@@ -155,18 +143,6 @@
       "author_name": "Takashi_Masumori",
       "likes_count": 12,
       "last_seen": "2026-05-12T19:43:50.896196094+00:00"
-    },
-    {
-      "key": "06420caf41a34a910c53",
-      "item_id": "06420caf41a34a910c53",
-      "title": "Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと",
-      "link": "https://qiita.com/ot12/items/06420caf41a34a910c53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "2026年4月16日、AnthropicがClaude Opus 4.7をリリースしました。\n同時に公式ブログ「Best Practices for Using Claude Opus 4.7 with Claude Code」が公開され、Claude Code作者のBor...",
-      "published": "2026-04-22T09:28:50+09:00",
-      "updated": "2026-04-25T10:44:00+09:00",
-      "author_name": "ot12",
-      "likes_count": 95,
-      "last_seen": "2026-04-25T07:41:09.470745033+00:00"
     },
     {
       "key": "0675640c728125a628c4",
@@ -285,8 +261,8 @@
       "published": "2026-06-23T09:25:21+09:00",
       "updated": "2026-06-23T09:25:21+09:00",
       "author_name": "masa20057",
-      "likes_count": 62,
-      "last_seen": "2026-06-24T07:27:22.722587657+00:00"
+      "likes_count": 64,
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
     },
     {
       "key": "0ca5bd39c4dba6a8c6eb",
@@ -477,8 +453,8 @@
       "published": "2026-06-23T09:35:23+09:00",
       "updated": "2026-06-23T09:35:23+09:00",
       "author_name": "yasuto_88",
-      "likes_count": 14,
-      "last_seen": "2026-06-24T07:27:22.722587657+00:00"
+      "likes_count": 15,
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
     },
     {
       "key": "1609d7989268aa3e35bf",
@@ -909,8 +885,8 @@
       "published": "2026-06-22T12:37:27+09:00",
       "updated": "2026-06-23T12:54:39+09:00",
       "author_name": "nogataka",
-      "likes_count": 11,
-      "last_seen": "2026-06-24T07:27:22.722587657+00:00"
+      "likes_count": 12,
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
     },
     {
       "key": "2ace83e1d37c13f01190",
@@ -1429,6 +1405,18 @@
       "last_seen": "2026-06-16T18:38:21.808409248+00:00"
     },
     {
+      "key": "3b9ccefff059ff1ab40d",
+      "item_id": "3b9ccefff059ff1ab40d",
+      "title": "oracle-ai-ready-data Skill で Oracle Database のスキーマを AI Ready Data 評価してみてみた",
+      "link": "https://qiita.com/shirok/items/3b9ccefff059ff1ab40d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "今回は HR スキーマを例に、Oracle Database のスキーマが AI Ready Data としてどの程度整っているかを評価してみます。\n\nOracle Database では、Select AI、RAG、AI Vector Search、AI Agent など...",
+      "published": "2026-06-24T07:23:50+09:00",
+      "updated": "2026-06-24T18:13:06+09:00",
+      "author_name": "shirok",
+      "likes_count": 16,
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
+    },
+    {
       "key": "3c5269610f26e23c5b04",
       "item_id": "3c5269610f26e23c5b04",
       "title": "Claude CodeのVSCode拡張が使いやすいよ",
@@ -1581,8 +1569,8 @@
       "published": "2026-06-22T00:03:45+09:00",
       "updated": "2026-06-22T00:03:45+09:00",
       "author_name": "udowanllc",
-      "likes_count": 38,
-      "last_seen": "2026-06-24T07:27:22.722587657+00:00"
+      "likes_count": 39,
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
     },
     {
       "key": "4385ac59ebefb923cf0d",
@@ -1883,18 +1871,6 @@
       "author_name": "ysmb-wtsg",
       "likes_count": 17,
       "last_seen": "2026-06-04T07:54:12.798609220+00:00"
-    },
-    {
-      "key": "4e8be1c0fe4c3995c2fd",
-      "item_id": "4e8be1c0fe4c3995c2fd",
-      "title": "【全コード公開】まだ商談準備に1時間かけてる人はAI時代に置いてかれるからこのスキルを使って",
-      "link": "https://qiita.com/ClaudeCode_UT/items/4e8be1c0fe4c3995c2fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "先月の商談10件の準備が合計50分で終わった。別にサボったわけではない。\nむしろ準備の品質は上がって受注の数も増えた。\nまぐれではなくこれには明確な理由がある。\nClaude Codeを本格導入して日常業務にガッツリと取り入れて機能し始めたからだ。\n今回はこのClaude...",
-      "published": "2026-04-23T04:34:30+09:00",
-      "updated": "2026-04-23T04:50:30+09:00",
-      "author_name": "ClaudeCode_UT",
-      "likes_count": 32,
-      "last_seen": "2026-04-25T07:41:09.470745033+00:00"
     },
     {
       "key": "4ff2efbaa38575edd6a8",
@@ -3013,18 +2989,6 @@
       "last_seen": "2026-04-28T19:42:47.034764791+00:00"
     },
     {
-      "key": "7dab609ef95bf030f217",
-      "item_id": "7dab609ef95bf030f217",
-      "title": "Neovim で最高の Markdown ビューワーを作る - md-render.nvim",
-      "link": "https://qiita.com/delphinus/items/7dab609ef95bf030f217?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "この記事は Vim 駅伝の 2026/4/22 の記事です。前回は ultimatileさんによる「ブラウザで日本語入力中にIMEが勝手に切り替わると思ったらNeovimのLSPが原因だった」でした。\n\n作ったもの\n最初に作ったものを紹介します。\n\ndelphinu...",
-      "published": "2026-04-22T08:06:52+09:00",
-      "updated": "2026-04-22T08:06:52+09:00",
-      "author_name": "delphinus",
-      "likes_count": 39,
-      "last_seen": "2026-04-25T07:41:09.470745033+00:00"
-    },
-    {
       "key": "7deae192de183eb6f8bc",
       "item_id": "7deae192de183eb6f8bc",
       "title": "今からNext.jsを始めるなら僕ならこうする話",
@@ -3133,6 +3097,18 @@
       "last_seen": "2026-06-18T07:59:57.822084129+00:00"
     },
     {
+      "key": "8168cd532e692ebcd4b0",
+      "item_id": "8168cd532e692ebcd4b0",
+      "title": "バズってる「STORMプロンプト」、実は一番大事な部分が抜けてます【Stanford論文ベース】",
+      "link": "https://qiita.com/jqit_suwa/items/8168cd532e692ebcd4b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "最近Xで「Claudeが博士レベルで調べてくれる」「5分で数日分のリサーチが終わる」みたいな感じでバズってる Stanford STORM Method。便利そうだしやってみたくなりますよね。\nただ、流れてくる紹介を見てると、ちょっと気になることがあって。STORMの一番お...",
+      "published": "2026-06-24T09:04:53+09:00",
+      "updated": "2026-06-24T09:04:53+09:00",
+      "author_name": "jqit_suwa",
+      "likes_count": 16,
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
+    },
+    {
       "key": "81d93feece154fb4b89a",
       "item_id": "81d93feece154fb4b89a",
       "title": "【まとめ】AI生成コードのセキュリティレビューで見るべきポイント",
@@ -3154,7 +3130,7 @@
       "updated": "2026-06-22T18:36:07+09:00",
       "author_name": "tomoki-miso",
       "likes_count": 24,
-      "last_seen": "2026-06-24T07:27:22.722587657+00:00"
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
     },
     {
       "key": "831717856fd24981799d",
@@ -3203,18 +3179,6 @@
       "author_name": "archeleeds",
       "likes_count": 11,
       "last_seen": "2026-04-28T07:10:19.282739809+00:00"
-    },
-    {
-      "key": "848cbd21f769de6ed15c",
-      "item_id": "848cbd21f769de6ed15c",
-      "title": "【便利ツール紹介】Googleも推奨！シェルスクリプトを書くなら必ず導入したい静的解析ツール",
-      "link": "https://qiita.com/tomo-2525/items/848cbd21f769de6ed15c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "株式会社ブレインパッド プロダクトユニットの鈴木です。\n弊社は「データ活用の促進を通じて持続可能な未来をつくる」をミッションに、\nデータ分析支援やSaaSプロダクトの提供を通じて、企業の「データ活用の日常化」を推進しております。\n現在、私は企業のマーケティング活動をデータで...",
-      "published": "2026-04-22T10:40:43+09:00",
-      "updated": "2026-04-22T10:40:43+09:00",
-      "author_name": "tomo-2525",
-      "likes_count": 32,
-      "last_seen": "2026-04-25T07:41:09.470745033+00:00"
     },
     {
       "key": "85585050238a189ada6e",
@@ -3418,7 +3382,7 @@
       "updated": "2026-06-22T21:53:47+09:00",
       "author_name": "maketahara_ise",
       "likes_count": 25,
-      "last_seen": "2026-06-24T07:27:22.722587657+00:00"
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
     },
     {
       "key": "8b8ed06bb76a80bb34c2",
@@ -3513,8 +3477,8 @@
       "published": "2026-06-21T20:35:48+09:00",
       "updated": "2026-06-21T20:55:41+09:00",
       "author_name": "minorun365",
-      "likes_count": 115,
-      "last_seen": "2026-06-24T07:27:22.722587657+00:00"
+      "likes_count": 116,
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
     },
     {
       "key": "90db7bf21b6546fce911",
@@ -3525,8 +3489,8 @@
       "published": "2026-06-23T15:08:19+09:00",
       "updated": "2026-06-23T15:08:19+09:00",
       "author_name": "akachiryo",
-      "likes_count": 44,
-      "last_seen": "2026-06-24T07:27:22.722587657+00:00"
+      "likes_count": 48,
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
     },
     {
       "key": "92459106b36b33bda66b",
@@ -3718,7 +3682,7 @@
       "updated": "2026-06-22T08:31:13+09:00",
       "author_name": "KanNishida",
       "likes_count": 23,
-      "last_seen": "2026-06-24T07:27:22.722587657+00:00"
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
     },
     {
       "key": "9b0e71089d1a166e5623",
@@ -4429,6 +4393,18 @@
       "last_seen": "2026-06-05T07:46:46.181696929+00:00"
     },
     {
+      "key": "b2d530aa21b6c998370b",
+      "item_id": "b2d530aa21b6c998370b",
+      "title": "Copilot Coworkでブラウザ操作できるようになったのはもっと話題になっていい",
+      "link": "https://qiita.com/Oyu3m/items/b2d530aa21b6c998370b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "前提\nこの記事は2026/6/23時点での公開情報や動作を私なりにまとめたものとなります。\n正確な情報はご自身でご確認もしくは Microsoft へお問い合わせください。\nまた、本機能は従量課金となり、会社の環境で実行するとコストがかかりますので、用法・用量を守ってお使...",
+      "published": "2026-06-23T22:52:03+09:00",
+      "updated": "2026-06-23T22:52:03+09:00",
+      "author_name": "Oyu3m",
+      "likes_count": 13,
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
+    },
+    {
       "key": "b46711e39fb8ab50a708",
       "item_id": "b46711e39fb8ab50a708",
       "title": "【2026年最新】Copilot Studio ライセンス完全ガイド ─ 大企業が「損しない」プラン選びの全知識",
@@ -4498,7 +4474,7 @@
       "updated": "2026-06-24T13:24:35+09:00",
       "author_name": "gen99",
       "likes_count": 10,
-      "last_seen": "2026-06-24T07:27:22.722587657+00:00"
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
     },
     {
       "key": "b61f080466c760e5ecc2",
@@ -4593,8 +4569,8 @@
       "published": "2026-06-23T15:37:17+09:00",
       "updated": "2026-06-23T15:56:16+09:00",
       "author_name": "nogataka",
-      "likes_count": 13,
-      "last_seen": "2026-06-24T07:27:22.722587657+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
     },
     {
       "key": "b7931e4bb7f51e1dccb6",
@@ -4653,8 +4629,8 @@
       "published": "2026-06-23T14:01:00+09:00",
       "updated": "2026-06-23T14:01:00+09:00",
       "author_name": "nogataka",
-      "likes_count": 14,
-      "last_seen": "2026-06-24T07:27:22.722587657+00:00"
+      "likes_count": 15,
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
     },
     {
       "key": "bac7a492b1b7d5ffe510",
@@ -4739,18 +4715,6 @@
       "author_name": "Yamada040",
       "likes_count": 26,
       "last_seen": "2026-06-11T07:59:45.682937170+00:00"
-    },
-    {
-      "key": "befed7f99c8d90b649b9",
-      "item_id": "befed7f99c8d90b649b9",
-      "title": "【前編】9割の新人エンジニアがやっている 「承知しました」の落とし穴",
-      "link": "https://qiita.com/hitomin_poke/items/befed7f99c8d90b649b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめまして。株式会社PRUMでエンジニアをしている人見です。\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\n【前編】9割の新人...",
-      "published": "2026-04-22T13:09:40+09:00",
-      "updated": "2026-04-22T13:09:40+09:00",
-      "author_name": "hitomin_poke",
-      "likes_count": 88,
-      "last_seen": "2026-04-25T07:41:09.470745033+00:00"
     },
     {
       "key": "bf692f00526de0795160",
@@ -4965,8 +4929,8 @@
       "published": "2026-06-22T10:53:38+09:00",
       "updated": "2026-06-22T10:53:38+09:00",
       "author_name": "akachiryo",
-      "likes_count": 45,
-      "last_seen": "2026-06-24T07:27:22.722587657+00:00"
+      "likes_count": 47,
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
     },
     {
       "key": "c727938756b287868ffa",
@@ -5113,18 +5077,6 @@
       "last_seen": "2026-05-06T07:11:26.968688314+00:00"
     },
     {
-      "key": "ce891e246da988d07f40",
-      "item_id": "ce891e246da988d07f40",
-      "title": "[Frontend Performance - Part 7] Long Task を分解する：なぜ50msがUXを壊すのか？",
-      "link": "https://qiita.com/tuanphan/items/ce891e246da988d07f40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "📝 注意\n本記事はAIの補助を受けて編集しています。\n内容は大規模Webアプリケーションの実務経験に基づいています。\n\n📚 目次\n\n問題：「処理が速いのにUXが悪い」の正体\nなぜ50msがUXの境界線なのか？\nLong Taskの本質：時間ではなく「占有」の問題\n...",
-      "published": "2026-04-24T12:18:16+09:00",
-      "updated": "2026-04-24T12:18:16+09:00",
-      "author_name": "tuanphan",
-      "likes_count": 11,
-      "last_seen": "2026-04-25T07:41:09.470745033+00:00"
-    },
-    {
       "key": "ce9917268d8d18aa9b6c",
       "item_id": "ce9917268d8d18aa9b6c",
       "title": "Vibe Coding のトークン消費量の40-60%を占めることもある、Markdownファイルの読み込みトークン消費量を最大98%以上圧縮する markdown-query スキル",
@@ -5194,7 +5146,19 @@
       "updated": "2026-06-22T12:12:13+09:00",
       "author_name": "hirashima-gmoconnect",
       "likes_count": 22,
-      "last_seen": "2026-06-24T07:27:22.722587657+00:00"
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
+    },
+    {
+      "key": "d06e7479122150ee0ad9",
+      "item_id": "d06e7479122150ee0ad9",
+      "title": "「言った・言わない」を防ぐ。要件定義で使うべき質問の技術",
+      "link": "https://qiita.com/prum_hitomi/items/d06e7479122150ee0ad9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめまして。株式会社PRUMでエンジニアをしているひとみです。\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや、\n仕事で起きやすい\"ズレ\"について整理して発信しています。\n誰かの助けになれば幸いです。\n\n「言った・言わない」を防ぐ。要件定義で使うべき質問の...",
+      "published": "2026-06-24T13:13:08+09:00",
+      "updated": "2026-06-24T13:19:01+09:00",
+      "author_name": "prum_hitomi",
+      "likes_count": 42,
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
     },
     {
       "key": "d0ad5d691790ff0eca71",
@@ -5481,8 +5445,8 @@
       "published": "2026-06-21T23:17:02+09:00",
       "updated": "2026-06-21T23:17:03+09:00",
       "author_name": "yusuke_ando_vj",
-      "likes_count": 54,
-      "last_seen": "2026-06-24T07:27:22.722587657+00:00"
+      "likes_count": 63,
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
     },
     {
       "key": "dff3c8a2a0ee563ca16f",
@@ -6025,18 +5989,6 @@
       "last_seen": "2026-05-31T07:33:33.980049169+00:00"
     },
     {
-      "key": "f45b754d9f475f2e15ea",
-      "item_id": "f45b754d9f475f2e15ea",
-      "title": "【2026年上半期】エンジニアが知っておくべき重大セキュリティインシデント8選",
-      "link": "https://qiita.com/kawabe0201/items/f45b754d9f475f2e15ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "2026年に入ってからのセキュリティ状況は昨年にも増して深刻です。エンジニア2年目の自分が実際に追いかけていた案件・報道・公開レポートをもとに、2026年1〜4月の重大インシデント8件をまとめました。他山の石として参考にしてください。\n\n1. 北米大手物流会社へのランサムウ...",
-      "published": "2026-04-22T16:01:44+09:00",
-      "updated": "2026-04-22T16:01:44+09:00",
-      "author_name": "kawabe0201",
-      "likes_count": 19,
-      "last_seen": "2026-04-25T07:41:09.470745033+00:00"
-    },
-    {
       "key": "f460b08fae3aaa5186d2",
       "item_id": "f460b08fae3aaa5186d2",
       "title": "API入門",
@@ -6241,18 +6193,6 @@
       "last_seen": "2026-05-14T07:17:00.140872567+00:00"
     },
     {
-      "key": "fc215131805b7523c20b",
-      "item_id": "fc215131805b7523c20b",
-      "title": "prisma migrate resolveを使ってRails+Prismaのマイグレーションを共存させる",
-      "link": "https://qiita.com/tatsuya582/items/fc215131805b7523c20b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n本来であれば、1つのDBに対してORMは1つに統一するべきです。\nしかし詳細は割愛しますが、RailsとHono（PrismaをORMとして使用するWebフレームワーク）が同じDBを触らざるを得ない状況になってしまいました。同じ境遇のエンジニアの方に向けて、その...",
-      "published": "2026-04-24T13:06:51+09:00",
-      "updated": "2026-04-24T13:06:51+09:00",
-      "author_name": "tatsuya582",
-      "likes_count": 19,
-      "last_seen": "2026-04-25T07:41:09.470745033+00:00"
-    },
-    {
       "key": "fd1be5f3be4170a11a44",
       "item_id": "fd1be5f3be4170a11a44",
       "title": "Agent Toolkit for AWSが持つ50種類のSkillsをStrands Agentsから実行する",
@@ -6286,7 +6226,7 @@
       "updated": "2026-06-23T11:18:36+09:00",
       "author_name": "oguri-gmoconnect",
       "likes_count": 12,
-      "last_seen": "2026-06-24T07:27:22.722587657+00:00"
+      "last_seen": "2026-06-24T09:20:47.520724850+00:00"
     },
     {
       "key": "ff98d92ca5eafee31226",
