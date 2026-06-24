@@ -1748,14 +1748,6 @@ CSSやJavaScrip...</summary>
 Access to fetch a...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:6c4e74972eeb0d1a6fb2</id>
-    <title>Claude Code のスキルを「中央集権しない」で配る、chezmoi dotfiles スターターキット</title>
-    <link rel="alternate" href="https://qiita.com/kamo-shika/items/6c4e74972eeb0d1a6fb2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-22T22:32:13+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamo-shika&quot;&gt;kamo-shika&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T22:32:12+09:00&lt;br/&gt;Updated: 2026-04-22T22:32:13+09:00&lt;br/&gt;はじめに
-Claude Code をはじめとする AI コーディングエージェントで、「スキル（Skills）」が運用の中核になってきています。プロンプトやワークフロー、禁則事項を SKILL.md にまとめておくと、エージェントが必要なタイミングで自動的に読み出して振る舞...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:81433a4eaae7d2030751</id>
     <title>コーディングエージェント時代に、あえて自分でコードを書く</title>
     <link rel="alternate" href="https://qiita.com/tomoki-miso/items/81433a4eaae7d2030751?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2029,22 +2021,6 @@ macOS 版(Swift / SwiftUI)と Windows 版(C# / WPF)の 2 つがあり、同じ�
 そんな時代に、データサイエンスや統計学を学ぶ必要はあ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a47924c1d3d5eb58cd2e</id>
-    <title>【n8n】Google Driveに画像を置くだけで自動リサイズ（1280×720）するワークフロー</title>
-    <link rel="alternate" href="https://qiita.com/wan-code/items/a47924c1d3d5eb58cd2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-22T18:57:07+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wan-code&quot;&gt;wan-code&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T18:57:07+09:00&lt;br/&gt;Updated: 2026-04-22T18:57:07+09:00&lt;br/&gt;はじめに
-画像のリサイズって地味に面倒じゃないですか？
-
-サムネ用に1280×720にしたい
-毎回手作業でリサイズしてる
-まとめて処理したい
-
-そんなときに便利なのが n8n × Google Drive の自動化です。
-この記事では、
-Google Driveに画像をア...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:1193da3bfee4f891137d</id>
     <title>キオクシアって一体何なんだ！時価総額日本一になった&quot;メモリ&quot;の会社は何が凄いのか？</title>
     <link rel="alternate" href="https://qiita.com/issey_dotlog/items/1193da3bfee4f891137d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2175,17 +2151,6 @@ NotebookLMの登場により、AIを使った新しい学習方法が少しず�
 NotebookLMでは、PDF・Webページ・ドキュメントなどのリソースをもとに、AIと対...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a63e0a8ba2f1eeca8357</id>
-    <title>KotlinのNull安全をJavaのOptionalと比較して理解する</title>
-    <link rel="alternate" href="https://qiita.com/S_kamon/items/a63e0a8ba2f1eeca8357?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-22T17:46:52+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/S_kamon&quot;&gt;S_kamon&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T17:46:52+09:00&lt;br/&gt;Updated: 2026-04-22T17:46:52+09:00&lt;br/&gt;はじめに
-Javaエンジニアなら一度は経験したことがあるはずです。
-Exception in thread &quot;main&quot; java.lang.NullPointerException
-
-NullPointerException（NPE）は、Javaの生みの親であるトニー・...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:8b8c3116f07fcefe2047</id>
     <title>未経験エンジニアなら、キーボードよりノートを汚せ</title>
     <link rel="alternate" href="https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2262,5 +2227,41 @@ Slac...</summary>
 
 0.はじめに
 こんにちは！東京大学文科3類2...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:7c0a515119c0bcb45d35</id>
+    <title>設計本の学びがコードレビューで活きた話｜フラグ引数・null戻り値・型の網羅性</title>
+    <link rel="alternate" href="https://qiita.com/Nao52/items/7c0a515119c0bcb45d35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-21T07:28:08+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T07:28:08+09:00&lt;br/&gt;Updated: 2026-05-21T07:28:08+09:00&lt;br/&gt;■ この記事はこんな人におすすめ
+
+TypeScript / Next.js を使って実務開発をしている人
+コードレビューで設計的な指摘をしたい・受けたい人
+「良いコード／悪いコードで学ぶ設計入門」を読んで実務に活かしたい人
+
+null を返す関数や boolean フラ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c47bc4176cb03e4f0d5a</id>
+    <title>【命名規則】名前から「目的」を読み取れるコードを書くために——目的駆動名前設計のすすめ</title>
+    <link rel="alternate" href="https://qiita.com/Nao52/items/c47bc4176cb03e4f0d5a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-21T06:48:59+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T06:48:59+09:00&lt;br/&gt;Updated: 2026-05-21T06:48:59+09:00&lt;br/&gt;■ この記事はこんな人におすすめ
+
+クラス名・変数名・メソッド名の命名に迷いがちな人
+「とりあえず User や Item でいいか」と思いがちな人
+命名規則を意識はしているが、チームでの共通認識づくりに課題を感じている人
+ドメイン知識を活かした設計に興味がある人
+
+■...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4ff2efbaa38575edd6a8</id>
+    <title>「あ、これAIが書いたな」と一瞬でバレる技術記事の6つの特徴</title>
+    <link rel="alternate" href="https://qiita.com/gorie-site/items/4ff2efbaa38575edd6a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-11T23:34:03+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/gorie-site&quot;&gt;gorie-site&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T23:34:03+09:00&lt;br/&gt;Updated: 2026-05-11T23:34:03+09:00&lt;br/&gt;最近、QiitaやZennを眺めていると、「あ、これAIが書いたな」と直感的に分かることが増えてきました。
+LLMの進化によって誰でも簡単に技術記事を量産できるようになりましたが、プロンプトをそのまま投げただけの出力には、AI特有の「手癖」 が強く残ります。
+本記事では、A...</summary>
   </entry>
 </feed>
