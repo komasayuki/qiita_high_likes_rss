@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-06-25T09:00:18+09:00</updated>
+  <updated>2026-06-25T17:14:04+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1483,6 +1483,16 @@ Microsoftの公式サイトや各種ホワイトペーパーには、「生産�
 ただ、このような事例はどこかキレイすぎて、ピン...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b2d530aa21b6c998370b</id>
+    <title>Copilot Coworkでブラウザ操作できるようになったのはもっと話題になっていい</title>
+    <link rel="alternate" href="https://qiita.com/Oyu3m/items/b2d530aa21b6c998370b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-23T22:52:03+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Oyu3m&quot;&gt;Oyu3m&lt;/a&gt;&lt;br/&gt;Published: 2026-06-23T22:52:03+09:00&lt;br/&gt;Updated: 2026-06-23T22:52:03+09:00&lt;br/&gt;前提
+この記事は2026/6/23時点での公開情報や動作を私なりにまとめたものとなります。
+正確な情報はご自身でご確認もしくは Microsoft へお問い合わせください。
+また、本機能は従量課金となり、会社の環境で実行するとコストがかかりますので、用法・用量を守ってお使...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:226e7c06bc9d5877e64e</id>
     <title>落語で学ぶ『AI時代のDDD』ドメインプリミティブ編</title>
     <link rel="alternate" href="https://qiita.com/Yametaro/items/226e7c06bc9d5877e64e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1546,16 +1556,6 @@ cdコマンド...</summary>
 この記事は、Pythonにちょっと慣れてきてぶつかりそうな壁のひとつであるリストについてを簡単にまとめたものになります。こういう感じなんだなぁとなれば幸いです。
 なお、変数やprint、inputなどについてはなんとなく理解している体で説明します。
 サンプ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b2d530aa21b6c998370b</id>
-    <title>Copilot Coworkでブラウザ操作できるようになったのはもっと話題になっていい</title>
-    <link rel="alternate" href="https://qiita.com/Oyu3m/items/b2d530aa21b6c998370b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-23T22:52:03+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Oyu3m&quot;&gt;Oyu3m&lt;/a&gt;&lt;br/&gt;Published: 2026-06-23T22:52:03+09:00&lt;br/&gt;Updated: 2026-06-23T22:52:03+09:00&lt;br/&gt;前提
-この記事は2026/6/23時点での公開情報や動作を私なりにまとめたものとなります。
-正確な情報はご自身でご確認もしくは Microsoft へお問い合わせください。
-また、本機能は従量課金となり、会社の環境で実行するとコストがかかりますので、用法・用量を守ってお使...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d1c08a55a373897d38d5</id>
@@ -2141,6 +2141,15 @@ NotebookLMの登場により、AIを使った新しい学習方法が少しず�
 NotebookLMでは、PDF・Webページ・ドキュメントなどのリソースをもとに、AIと対...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3b9ccefff059ff1ab40d</id>
+    <title>oracle-ai-ready-data Skill で Oracle Database のスキーマを AI Ready Data 評価してみてみた</title>
+    <link rel="alternate" href="https://qiita.com/shirok/items/3b9ccefff059ff1ab40d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-25T17:14:04+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T07:23:50+09:00&lt;br/&gt;Updated: 2026-06-25T17:14:04+09:00&lt;br/&gt;今回は HR スキーマを例に、Oracle Database のスキーマが AI Ready Data としてどの程度整っているかを評価してみます。
+
+Oracle Database では、Select AI、RAG、AI Vector Search、AI Agent など...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8b8c3116f07fcefe2047</id>
     <title>未経験エンジニアなら、キーボードよりノートを汚せ</title>
     <link rel="alternate" href="https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2240,24 +2249,5 @@ null を返す関数や boolean フラ...</summary>
     <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/gorie-site&quot;&gt;gorie-site&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T23:34:03+09:00&lt;br/&gt;Updated: 2026-05-11T23:34:03+09:00&lt;br/&gt;最近、QiitaやZennを眺めていると、「あ、これAIが書いたな」と直感的に分かることが増えてきました。
 LLMの進化によって誰でも簡単に技術記事を量産できるようになりましたが、プロンプトをそのまま投げただけの出力には、AI特有の「手癖」 が強く残ります。
 本記事では、A...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e4b45796c414e4b0054d</id>
-    <title>【n8n】YouTube新着動画を自動でDiscord通知する仕組みを作ってみた（重複通知防止付き）</title>
-    <link rel="alternate" href="https://qiita.com/wan-code/items/e4b45796c414e4b0054d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-30T18:56:25+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wan-code&quot;&gt;wan-code&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T18:56:25+09:00&lt;br/&gt;Updated: 2026-04-30T18:56:25+09:00&lt;br/&gt;YouTubeに新しい動画を投稿したら、Discordに自動通知される仕組みを n8n で作ってみました。
-通知済み動画は二重通知しない ようにしています。
-
-作ったフロー
-1時間ごとに実行
-↓
-YouTube RSS取得
-↓
-動画情報整形
-↓
-通知済み確認
-↓
-未通知だけ...</summary>
   </entry>
 </feed>
