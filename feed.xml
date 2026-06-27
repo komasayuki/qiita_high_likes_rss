@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-06-26T19:08:48+09:00</updated>
+  <updated>2026-06-26T19:12:04+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -11,7 +11,7 @@
     <title>正直に言う。お前のClaude Codeの使い方は間違っている</title>
     <link rel="alternate" href="https://qiita.com/tehito/items/356e5f1dba112a075be1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-25T22:43:35+09:00</updated>
-    <summary type="html">Likes: 245&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tehito&quot;&gt;tehito&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T22:43:05+09:00&lt;br/&gt;Updated: 2026-06-25T22:43:35+09:00&lt;br/&gt;「Claude Code、思ったより速くならないな」と感じているなら、原因はモデルでもプランでもない。お前の使い方だ。
+    <summary type="html">Likes: 247&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tehito&quot;&gt;tehito&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T22:43:05+09:00&lt;br/&gt;Updated: 2026-06-25T22:43:35+09:00&lt;br/&gt;「Claude Code、思ったより速くならないな」と感じているなら、原因はモデルでもプランでもない。お前の使い方だ。
 きつい言い方をして悪い。だが3ヶ月、毎日Claude Codeと殴り合いながらExpo + Supabase + Swiftネイティブの通話アプリを個人開...</summary>
   </entry>
   <entry>
@@ -1010,7 +1010,7 @@ QiitaやZenn、ブログで記...</summary>
     <title>読み方を間違えがちなエンジニア用語集 ~ 会議で恥ずかしい思いをしないために ~</title>
     <link rel="alternate" href="https://qiita.com/n-isd/items/46eeee2dbc282cb16e2f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-26T16:50:45+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/n-isd&quot;&gt;n-isd&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T17:39:18+09:00&lt;br/&gt;Updated: 2026-06-26T16:50:45+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/n-isd&quot;&gt;n-isd&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T17:39:18+09:00&lt;br/&gt;Updated: 2026-06-26T16:50:45+09:00&lt;br/&gt;はじめに
 私はほぼ独学でエンジニアになった野良エンジニアです。
 初心者時代、エンジニア用語の読み方がわからず苦労しました。
 わからないものが出てきても、後回しにして、結局正しい読み方がわからないままに。
@@ -2143,6 +2143,17 @@ NotebookLMの登場により、AIを使った新しい学習方法が少しず�
 NotebookLMでは、PDF・Webページ・ドキュメントなどのリソースをもとに、AIと対...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5c96232d188ecfb2544b</id>
+    <title>【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA</title>
+    <link rel="alternate" href="https://qiita.com/yuyanz/items/5c96232d188ecfb2544b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-26T19:12:04+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuyanz&quot;&gt;yuyanz&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T19:18:54+09:00&lt;br/&gt;Updated: 2026-06-26T19:12:04+09:00&lt;br/&gt;この記事はGitHub Copilotと一緒に書きました。
+
+1. はじめに
+「業務を自動化したいけど、自由にツールを使えない」「コーディングエージェントや Playwright が職場ルールで使えない」という場面、ありませんか？
+私の周りでも、セキュリティと運用ル...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bab35c7b58a664d3b8f1</id>
     <title>Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2229,19 +2240,5 @@ TypeScript / Next.js を使って実務開発をしている人
 「良いコード／悪いコードで学ぶ設計入門」を読んで実務に活かしたい人
 
 null を返す関数や boolean フラ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c47bc4176cb03e4f0d5a</id>
-    <title>【命名規則】名前から「目的」を読み取れるコードを書くために——目的駆動名前設計のすすめ</title>
-    <link rel="alternate" href="https://qiita.com/Nao52/items/c47bc4176cb03e4f0d5a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-21T06:48:59+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T06:48:59+09:00&lt;br/&gt;Updated: 2026-05-21T06:48:59+09:00&lt;br/&gt;■ この記事はこんな人におすすめ
-
-クラス名・変数名・メソッド名の命名に迷いがちな人
-「とりあえず User や Item でいいか」と思いがちな人
-命名規則を意識はしているが、チームでの共通認識づくりに課題を感じている人
-ドメイン知識を活かした設計に興味がある人
-
-■...</summary>
   </entry>
 </feed>
