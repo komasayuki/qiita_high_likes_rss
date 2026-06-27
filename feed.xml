@@ -11,7 +11,7 @@
     <title>正直に言う。お前のClaude Codeの使い方は間違っている</title>
     <link rel="alternate" href="https://qiita.com/tehito/items/356e5f1dba112a075be1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-25T22:43:35+09:00</updated>
-    <summary type="html">Likes: 241&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tehito&quot;&gt;tehito&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T22:43:05+09:00&lt;br/&gt;Updated: 2026-06-25T22:43:35+09:00&lt;br/&gt;「Claude Code、思ったより速くならないな」と感じているなら、原因はモデルでもプランでもない。お前の使い方だ。
+    <summary type="html">Likes: 243&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tehito&quot;&gt;tehito&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T22:43:05+09:00&lt;br/&gt;Updated: 2026-06-25T22:43:35+09:00&lt;br/&gt;「Claude Code、思ったより速くならないな」と感じているなら、原因はモデルでもプランでもない。お前の使い方だ。
 きつい言い方をして悪い。だが3ヶ月、毎日Claude Codeと殴り合いながらExpo + Supabase + Swiftネイティブの通話アプリを個人開...</summary>
   </entry>
   <entry>
@@ -177,17 +177,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶ コーポレートサイト
 
 「今日何してた...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3c5269610f26e23c5b04</id>
-    <title>Claude CodeのVSCode拡張が使いやすいよ</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/3c5269610f26e23c5b04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-26T00:39:30+09:00</updated>
-    <summary type="html">Likes: 149&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T00:39:30+09:00&lt;br/&gt;Updated: 2026-04-26T00:39:30+09:00&lt;br/&gt;皆様、Claude Code使ってますか？
-CLIで利用されている方が大多数だと思いますが、VSCodeの拡張も悪くないよ、というお話です。
-いつのころからか、左右にパネルが出るような構成になっています。
-
-右側が通常（？）のチャット欄で左が過去のセッション一覧みたいな感じ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f9523e566a6f82199dea</id>
@@ -2240,5 +2229,19 @@ TypeScript / Next.js を使って実務開発をしている人
 「良いコード／悪いコードで学ぶ設計入門」を読んで実務に活かしたい人
 
 null を返す関数や boolean フラ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c47bc4176cb03e4f0d5a</id>
+    <title>【命名規則】名前から「目的」を読み取れるコードを書くために——目的駆動名前設計のすすめ</title>
+    <link rel="alternate" href="https://qiita.com/Nao52/items/c47bc4176cb03e4f0d5a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-21T06:48:59+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T06:48:59+09:00&lt;br/&gt;Updated: 2026-05-21T06:48:59+09:00&lt;br/&gt;■ この記事はこんな人におすすめ
+
+クラス名・変数名・メソッド名の命名に迷いがちな人
+「とりあえず User や Item でいいか」と思いがちな人
+命名規則を意識はしているが、チームでの共通認識づくりに課題を感じている人
+ドメイン知識を活かした設計に興味がある人
+
+■...</summary>
   </entry>
 </feed>
