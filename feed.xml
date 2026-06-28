@@ -1142,18 +1142,6 @@ TL;DR
 興味ある方は読んでいただけると嬉しいです ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:ed256553d10578cfec2a</id>
-    <title>コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）</title>
-    <link rel="alternate" href="https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-04-28T00:27:25+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/harupython&quot;&gt;harupython&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T19:08:51+09:00&lt;br/&gt;Updated: 2026-04-28T00:27:25+09:00&lt;br/&gt;🚀 TL;DR
-
-AI（LLM）に生のソースコードを読ませるのは、実は効率の悪い「情報の暴力」である。
-
-AST（抽象構文木）から「構造」だけを抽出したマップこそが、AIのIQを極限まで引き出す。
-データの流入から破綻までをグラフ理論で定義すれば、理論上、脆弱性は100%...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b2d530aa21b6c998370b</id>
     <title>Copilot Coworkでブラウザ操作できるようになったのはもっと話題になっていい</title>
     <link rel="alternate" href="https://qiita.com/Oyu3m/items/b2d530aa21b6c998370b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1648,6 +1636,15 @@ AWSは2026年5月11日、Claude Platform on AWSの一般提供開始を発表し
 Claude Platform on AWSは、Anthropicが提供するネイティブなClaude Platf...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2af4f788bd0d1963eec7</id>
+    <title>AWS Summit 2026  「Builder Community」&amp;「AWS HERO」 セッション資料まとめ</title>
+    <link rel="alternate" href="https://qiita.com/tetutetu214/items/2af4f788bd0d1963eec7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-28T09:46:07+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetutetu214&quot;&gt;tetutetu214&lt;/a&gt;&lt;br/&gt;Published: 2026-06-27T09:34:36+09:00&lt;br/&gt;Updated: 2026-06-28T09:46:07+09:00&lt;br/&gt;概要
+こちらの記事では、AWS Summit Japan 2026(2026/6/26~27 で開催) での、Builder Community エリアのステージで開催されていました、セッション資料へのリンクをまとめまたものとなります。
+※資料リンクが不足しているところは...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3060140b10a9a35021f4</id>
     <title>RAGを本当に使うために、処理段階ごとに優秀手法を整理してみた</title>
     <link rel="alternate" href="https://qiita.com/engchina/items/3060140b10a9a35021f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1684,15 +1681,6 @@ Dify、RAGFlow、LlamaIndex、LangChain、GraphRAG、LightRAG、Docling、Marker
     <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nozomi2025&quot;&gt;nozomi2025&lt;/a&gt;&lt;br/&gt;Published: 2026-05-09T18:24:57+09:00&lt;br/&gt;Updated: 2026-05-09T18:24:57+09:00&lt;br/&gt;はじめに
 「Pythonでツールを作ったけれど、出力が地味すぎて使いにくい…」 「デバッグ中の巨大な辞書データ、どれがキーでどれが値か見にくい！」
 そんな悩みを一瞬で解決するのが Rich というライブラリです。 今回は、Richを使ってCLI（コマンドラインツール）のU...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2af4f788bd0d1963eec7</id>
-    <title>AWS Summit 2026  「Builder Community」&amp;「AWS HERO」 セッション資料まとめ</title>
-    <link rel="alternate" href="https://qiita.com/tetutetu214/items/2af4f788bd0d1963eec7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-28T09:46:07+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetutetu214&quot;&gt;tetutetu214&lt;/a&gt;&lt;br/&gt;Published: 2026-06-27T09:34:36+09:00&lt;br/&gt;Updated: 2026-06-28T09:46:07+09:00&lt;br/&gt;概要
-こちらの記事では、AWS Summit Japan 2026(2026/6/26~27 で開催) での、Builder Community エリアのステージで開催されていました、セッション資料へのリンクをまとめまたものとなります。
-※資料リンクが不足しているところは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:39e8e3bbc327526ac20f</id>
@@ -2232,5 +2220,18 @@ Slac...</summary>
 
 0.はじめに
 こんにちは！東京大学文科3類2...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:7c0a515119c0bcb45d35</id>
+    <title>設計本の学びがコードレビューで活きた話｜フラグ引数・null戻り値・型の網羅性</title>
+    <link rel="alternate" href="https://qiita.com/Nao52/items/7c0a515119c0bcb45d35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-05-21T07:28:08+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T07:28:08+09:00&lt;br/&gt;Updated: 2026-05-21T07:28:08+09:00&lt;br/&gt;■ この記事はこんな人におすすめ
+
+TypeScript / Next.js を使って実務開発をしている人
+コードレビューで設計的な指摘をしたい・受けたい人
+「良いコード／悪いコードで学ぶ設計入門」を読んで実務に活かしたい人
+
+null を返す関数や boolean フラ...</summary>
   </entry>
 </feed>

@@ -25,18 +25,6 @@
       "last_seen": "2026-06-06T19:41:15.656128858+00:00"
     },
     {
-      "key": "017c466d2353e602d8ff",
-      "item_id": "017c466d2353e602d8ff",
-      "title": "SEに必要な説明力",
-      "link": "https://qiita.com/NSS_FS_ENG/items/017c466d2353e602d8ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "あいさつ\nはじめまして、日本総合システムの濱田と申します。\n私はお客様に近い場所で仕事をすることが多いため、必然的に説明やプレゼンをする機会が多いです。\n物事を誰かに伝えるための技術について体系的に勉強したことはありませんが、自分の経験に基づいてどのように考えているかを改...",
-      "published": "2026-04-27T08:00:04+09:00",
-      "updated": "2026-04-27T08:00:04+09:00",
-      "author_name": "NSS_FS_ENG",
-      "likes_count": 18,
-      "last_seen": "2026-04-29T19:42:28.612080141+00:00"
-    },
-    {
       "key": "018678abdb0267983fc3",
       "item_id": "018678abdb0267983fc3",
       "title": "【後編】9割の新人エンジニアがやっている 「承知しました」の落とし穴",
@@ -802,7 +790,7 @@
       "updated": "2026-06-26T17:12:56+09:00",
       "author_name": "nogataka",
       "likes_count": 10,
-      "last_seen": "2026-06-28T19:41:06.824140859+00:00"
+      "last_seen": "2026-06-28T20:36:34.012561547+00:00"
     },
     {
       "key": "28b7d4cdd46d2717d48f",
@@ -873,8 +861,8 @@
       "published": "2026-06-27T09:34:36+09:00",
       "updated": "2026-06-28T09:46:07+09:00",
       "author_name": "tetutetu214",
-      "likes_count": 34,
-      "last_seen": "2026-06-28T19:41:06.824140859+00:00"
+      "likes_count": 35,
+      "last_seen": "2026-06-28T20:36:34.012561547+00:00"
     },
     {
       "key": "2bea01d8d642b47bf1fa",
@@ -1813,18 +1801,6 @@
       "last_seen": "2026-05-02T07:43:06.050455833+00:00"
     },
     {
-      "key": "4d572a384c62016c51f2",
-      "item_id": "4d572a384c62016c51f2",
-      "title": "【完結編】コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（自作ツールがAIに論破された日）",
-      "link": "https://qiita.com/harupython/items/4d572a384c62016c51f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "🚀 TL;DR（忙しい人向けまとめ）\n\n  前回の「理論編」の続編。AST（抽象構文木）で抽出した「コードの構造マップ」だけをプロンプトとしてAIに渡す手法の実証編です。\n  自作の静的解析ツールをこの手法でAI（Gemini 3.1 Pro）に診断させた結果、コードの...",
-      "published": "2026-04-28T00:23:06+09:00",
-      "updated": "2026-04-28T00:31:42+09:00",
-      "author_name": "harupython",
-      "likes_count": 10,
-      "last_seen": "2026-04-29T19:42:28.612080141+00:00"
-    },
-    {
       "key": "4db6c2515098b3ef06d9",
       "item_id": "4db6c2515098b3ef06d9",
       "title": "HTTPS公開直後にBotが来る理由 ─ CT Log監視Botの研究を読む",
@@ -2195,6 +2171,18 @@
       "author_name": "keishin_nishiura",
       "likes_count": 11,
       "last_seen": "2026-06-20T19:41:53.849449378+00:00"
+    },
+    {
+      "key": "61985c6743b89aa6924b",
+      "item_id": "61985c6743b89aa6924b",
+      "title": "Jenkinsの失敗ログをn8nで回収してClaudeに原因調査させ、Slackへ自動通知する",
+      "link": "https://qiita.com/jqit-yukiono/items/61985c6743b89aa6924b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "CIが落ちたとき、コンソールログを開いて原因を目で追う作業は地味に消耗します。\n本記事では Jenkins の失敗を検知 → n8n がログを回収 → Claude が原因を要約 →\nSlack に通知 までを全自動化した仕組みを、実コードを交えて解説します。\nポイントは ...",
+      "published": "2026-06-29T03:02:59+09:00",
+      "updated": "2026-06-29T03:03:00+09:00",
+      "author_name": "jqit-yukiono",
+      "likes_count": 14,
+      "last_seen": "2026-06-28T20:36:34.012561547+00:00"
     },
     {
       "key": "61b10d10c63db47a64e7",
@@ -2770,7 +2758,7 @@
       "updated": "2026-06-26T21:31:27+09:00",
       "author_name": "magicant",
       "likes_count": 42,
-      "last_seen": "2026-06-28T19:41:06.824140859+00:00"
+      "last_seen": "2026-06-28T20:36:34.012561547+00:00"
     },
     {
       "key": "774a2210675ffe78cf6d",
@@ -2879,18 +2867,6 @@
       "author_name": "Minotaurasu",
       "likes_count": 13,
       "last_seen": "2026-06-27T19:40:50.281113325+00:00"
-    },
-    {
-      "key": "7ae3b3ea5b2b4a59332d",
-      "item_id": "7ae3b3ea5b2b4a59332d",
-      "title": "n8nで毎朝「天気×ビタミンD日光時間」をDiscord通知するリマインダーを作ってみた",
-      "link": "https://qiita.com/wan-code/items/7ae3b3ea5b2b4a59332d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n毎朝天気予報を見る人は多いですが、\n\n今日はどれくらい日光を浴びるとよいのか\n曇りの日はどれくらい不足しやすいのか\n日焼け止めありだとどれくらい変わるのか\n\nまで考えることはあまりありません。\nそこで今回は n8n で、\n\n天気取得\nビタミンD生成を考慮した日光...",
-      "published": "2026-04-27T18:57:14+09:00",
-      "updated": "2026-04-27T18:57:14+09:00",
-      "author_name": "wan-code",
-      "likes_count": 23,
-      "last_seen": "2026-04-29T19:42:28.612080141+00:00"
     },
     {
       "key": "7c0a515119c0bcb45d35",
@@ -3358,7 +3334,7 @@
       "updated": "2026-06-26T10:50:21+09:00",
       "author_name": "nogataka",
       "likes_count": 22,
-      "last_seen": "2026-06-28T19:41:06.824140859+00:00"
+      "last_seen": "2026-06-28T20:36:34.012561547+00:00"
     },
     {
       "key": "8ff4b27c4d9097380c18",
@@ -3778,7 +3754,7 @@
       "updated": "2026-06-26T12:29:05+09:00",
       "author_name": "ksonoda",
       "likes_count": 11,
-      "last_seen": "2026-06-28T19:41:06.824140859+00:00"
+      "last_seen": "2026-06-28T20:36:34.012561547+00:00"
     },
     {
       "key": "a1b622ff1faf4ca34231",
@@ -4462,7 +4438,7 @@
       "updated": "2026-06-26T18:57:33+09:00",
       "author_name": "wataru86",
       "likes_count": 11,
-      "last_seen": "2026-06-28T19:41:06.824140859+00:00"
+      "last_seen": "2026-06-28T20:36:34.012561547+00:00"
     },
     {
       "key": "b892d9ff73495ca4b68d",
@@ -5603,18 +5579,6 @@
       "author_name": "NXD139",
       "likes_count": 33,
       "last_seen": "2026-05-07T07:16:31.978873880+00:00"
-    },
-    {
-      "key": "ed256553d10578cfec2a",
-      "item_id": "ed256553d10578cfec2a",
-      "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
-      "link": "https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "🚀 TL;DR\n\nAI（LLM）に生のソースコードを読ませるのは、実は効率の悪い「情報の暴力」である。\n\nAST（抽象構文木）から「構造」だけを抽出したマップこそが、AIのIQを極限まで引き出す。\nデータの流入から破綻までをグラフ理論で定義すれば、理論上、脆弱性は100%...",
-      "published": "2026-04-26T19:08:51+09:00",
-      "updated": "2026-04-28T00:27:25+09:00",
-      "author_name": "harupython",
-      "likes_count": 47,
-      "last_seen": "2026-04-29T19:42:28.612080141+00:00"
     },
     {
       "key": "ed289f266f81c5de4061",
