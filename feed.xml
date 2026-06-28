@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-06-26T19:12:04+09:00</updated>
+  <updated>2026-06-26T21:31:27+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -11,7 +11,7 @@
     <title>正直に言う。お前のClaude Codeの使い方は間違っている</title>
     <link rel="alternate" href="https://qiita.com/tehito/items/356e5f1dba112a075be1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-25T22:43:35+09:00</updated>
-    <summary type="html">Likes: 287&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tehito&quot;&gt;tehito&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T22:43:05+09:00&lt;br/&gt;Updated: 2026-06-25T22:43:35+09:00&lt;br/&gt;「Claude Code、思ったより速くならないな」と感じているなら、原因はモデルでもプランでもない。お前の使い方だ。
+    <summary type="html">Likes: 311&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tehito&quot;&gt;tehito&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T22:43:05+09:00&lt;br/&gt;Updated: 2026-06-25T22:43:35+09:00&lt;br/&gt;「Claude Code、思ったより速くならないな」と感じているなら、原因はモデルでもプランでもない。お前の使い方だ。
 きつい言い方をして悪い。だが3ヶ月、毎日Claude Codeと殴り合いながらExpo + Supabase + Swiftネイティブの通話アプリを個人開...</summary>
   </entry>
   <entry>
@@ -310,7 +310,7 @@ Qiita上には素晴らしい先人の方の記事として、「不思議の国
     <title>勉強が続かないのは、あなたの意志が弱いからじゃない。</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/7a69883e9e70fc5ad853?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-25T09:00:18+09:00</updated>
-    <summary type="html">Likes: 106&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T09:00:18+09:00&lt;br/&gt;Updated: 2026-06-25T09:00:18+09:00&lt;br/&gt;はじめまして。エンジニアをしている人見です。
+    <summary type="html">Likes: 107&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T09:00:18+09:00&lt;br/&gt;Updated: 2026-06-25T09:00:18+09:00&lt;br/&gt;はじめまして。エンジニアをしている人見です。
 「勉強しなきゃ。」
 そう思って参考書を買ったり、学習サイトを開いたりしたものの、気づけば続かなくなっていた。そんな経験はありませんか？
 私自身、エンジニアを目指し始めた頃は何度も同じことを繰り返していました。「今日は2時間勉強し...</summary>
@@ -887,6 +887,17 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 「クラウドだか...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:46eeee2dbc282cb16e2f</id>
+    <title>読み方を間違えがちなエンジニア用語集 ~ 会議で恥ずかしい思いをしないために ~</title>
+    <link rel="alternate" href="https://qiita.com/n-isd/items/46eeee2dbc282cb16e2f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-26T16:50:45+09:00</updated>
+    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/n-isd&quot;&gt;n-isd&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T17:39:18+09:00&lt;br/&gt;Updated: 2026-06-26T16:50:45+09:00&lt;br/&gt;はじめに
+私はほぼ独学でエンジニアになった野良エンジニアです。
+初心者時代、エンジニア用語の読み方がわからず苦労しました。
+わからないものが出てきても、後回しにして、結局正しい読み方がわからないままに。
+前職では、ひとりエンジニア状態だったので、誰にも読み方の間違いを指摘...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c69fab7dfb1d48ba8b31</id>
     <title>「そのコード、勝手に使って大丈夫？」IT初心者が最初に知るべき“著作権”の話</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/c69fab7dfb1d48ba8b31?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -951,17 +962,6 @@ API連携を検討するSIer・Webエンジニア
 
 結論（先にシンプルに）
 Railsの仕組みを一言でいうと、「超優秀なレ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:46eeee2dbc282cb16e2f</id>
-    <title>読み方を間違えがちなエンジニア用語集 ~ 会議で恥ずかしい思いをしないために ~</title>
-    <link rel="alternate" href="https://qiita.com/n-isd/items/46eeee2dbc282cb16e2f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-26T16:50:45+09:00</updated>
-    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/n-isd&quot;&gt;n-isd&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T17:39:18+09:00&lt;br/&gt;Updated: 2026-06-26T16:50:45+09:00&lt;br/&gt;はじめに
-私はほぼ独学でエンジニアになった野良エンジニアです。
-初心者時代、エンジニア用語の読み方がわからず苦労しました。
-わからないものが出てきても、後回しにして、結局正しい読み方がわからないままに。
-前職では、ひとりエンジニア状態だったので、誰にも読み方の間違いを指摘...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cfe5ba40a56b3dbf6a4b</id>
@@ -1665,6 +1665,17 @@ Dify、RAGFlow、LlamaIndex、LangChain、GraphRAG、LightRAG、Docling、Marker
 そんな悩みを一瞬で解決するのが Rich というライブラリです。 今回は、Richを使ってCLI（コマンドラインツール）のU...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5c96232d188ecfb2544b</id>
+    <title>【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA</title>
+    <link rel="alternate" href="https://qiita.com/yuyanz/items/5c96232d188ecfb2544b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-26T19:12:04+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuyanz&quot;&gt;yuyanz&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T19:18:54+09:00&lt;br/&gt;Updated: 2026-06-26T19:12:04+09:00&lt;br/&gt;この記事はGitHub Copilotと一緒に書きました。
+
+1. はじめに
+「業務を自動化したいけど、自由にツールを使えない」「コーディングエージェントや Playwright が職場ルールで使えない」という場面、ありませんか？
+私の周りでも、セキュリティと運用ル...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:39e8e3bbc327526ac20f</id>
     <title>単一HTMLで作ったサイトを自己解凍形式にする試み</title>
     <link rel="alternate" href="https://qiita.com/uni928/items/39e8e3bbc327526ac20f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1749,17 +1760,6 @@ FOMO ── Fear of Missi...</summary>
     <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NXD139&quot;&gt;NXD139&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T12:08:28+09:00&lt;br/&gt;Updated: 2026-05-04T12:08:28+09:00&lt;br/&gt;1. はじめに
 フロントエンドが localhost:3000、バックエンドが localhost:8080 で動いているアプリを作っているとします。一見問題なさそうに見えても、コンソールを開くとこんなエラーが表示されることがあります：
 Access to fetch a...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5c96232d188ecfb2544b</id>
-    <title>【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA</title>
-    <link rel="alternate" href="https://qiita.com/yuyanz/items/5c96232d188ecfb2544b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-26T19:12:04+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuyanz&quot;&gt;yuyanz&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T19:18:54+09:00&lt;br/&gt;Updated: 2026-06-26T19:12:04+09:00&lt;br/&gt;この記事はGitHub Copilotと一緒に書きました。
-
-1. はじめに
-「業務を自動化したいけど、自由にツールを使えない」「コーディングエージェントや Playwright が職場ルールで使えない」という場面、ありませんか？
-私の周りでも、セキュリティと運用ル...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:81433a4eaae7d2030751</id>
@@ -2154,6 +2154,16 @@ NotebookLMの登場により、AIを使った新しい学習方法が少しず�
 NotebookLMでは、PDF・Webページ・ドキュメントなどのリソースをもとに、AIと対...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:77361a0b1694ba629bec</id>
+    <title>私がループエンジニアリングにあまり興味がない理由</title>
+    <link rel="alternate" href="https://qiita.com/magicant/items/77361a0b1694ba629bec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-26T21:31:27+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/magicant&quot;&gt;magicant&lt;/a&gt;&lt;br/&gt;Published: 2026-06-26T18:50:07+09:00&lt;br/&gt;Updated: 2026-06-26T21:31:27+09:00&lt;br/&gt;もう皆さんも LLM が吐き出した薄っぺらいスロップを読まされるのには飽き飽きしているでしょうから、最初に TL;DR を含むプロンプトを貼っておきます。
+
+以下の論旨に沿って、元の5倍程度の文章量で Qiita に投稿するための記事の完成版を書いてください。
+最近のコーデ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bab35c7b58a664d3b8f1</id>
     <title>Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2227,18 +2237,5 @@ Slac...</summary>
 
 0.はじめに
 こんにちは！東京大学文科3類2...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7c0a515119c0bcb45d35</id>
-    <title>設計本の学びがコードレビューで活きた話｜フラグ引数・null戻り値・型の網羅性</title>
-    <link rel="alternate" href="https://qiita.com/Nao52/items/7c0a515119c0bcb45d35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-21T07:28:08+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T07:28:08+09:00&lt;br/&gt;Updated: 2026-05-21T07:28:08+09:00&lt;br/&gt;■ この記事はこんな人におすすめ
-
-TypeScript / Next.js を使って実務開発をしている人
-コードレビューで設計的な指摘をしたい・受けたい人
-「良いコード／悪いコードで学ぶ設計入門」を読んで実務に活かしたい人
-
-null を返す関数や boolean フラ...</summary>
   </entry>
 </feed>
