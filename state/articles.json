@@ -789,8 +789,8 @@
       "published": "2026-06-26T17:12:56+09:00",
       "updated": "2026-06-26T17:12:56+09:00",
       "author_name": "nogataka",
-      "likes_count": 10,
-      "last_seen": "2026-06-28T22:31:39.930426833+00:00"
+      "likes_count": 11,
+      "last_seen": "2026-06-28T23:32:41.337528694+00:00"
     },
     {
       "key": "28b7d4cdd46d2717d48f",
@@ -861,8 +861,8 @@
       "published": "2026-06-27T09:34:36+09:00",
       "updated": "2026-06-28T09:46:07+09:00",
       "author_name": "tetutetu214",
-      "likes_count": 35,
-      "last_seen": "2026-06-28T22:31:39.930426833+00:00"
+      "likes_count": 36,
+      "last_seen": "2026-06-28T23:32:41.337528694+00:00"
     },
     {
       "key": "2bea01d8d642b47bf1fa",
@@ -2181,8 +2181,8 @@
       "published": "2026-06-29T03:02:59+09:00",
       "updated": "2026-06-29T03:03:00+09:00",
       "author_name": "jqit-yukiono",
-      "likes_count": 15,
-      "last_seen": "2026-06-28T22:31:39.930426833+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-06-28T23:32:41.337528694+00:00"
     },
     {
       "key": "61b10d10c63db47a64e7",
@@ -2757,8 +2757,8 @@
       "published": "2026-06-26T18:50:07+09:00",
       "updated": "2026-06-26T21:31:27+09:00",
       "author_name": "magicant",
-      "likes_count": 43,
-      "last_seen": "2026-06-28T22:31:39.930426833+00:00"
+      "likes_count": 44,
+      "last_seen": "2026-06-28T23:32:41.337528694+00:00"
     },
     {
       "key": "774a2210675ffe78cf6d",
@@ -3333,8 +3333,8 @@
       "published": "2026-06-26T10:50:21+09:00",
       "updated": "2026-06-26T10:50:21+09:00",
       "author_name": "nogataka",
-      "likes_count": 22,
-      "last_seen": "2026-06-28T22:31:39.930426833+00:00"
+      "likes_count": 23,
+      "last_seen": "2026-06-28T23:32:41.337528694+00:00"
     },
     {
       "key": "8ff4b27c4d9097380c18",
@@ -3754,7 +3754,7 @@
       "updated": "2026-06-26T12:29:05+09:00",
       "author_name": "ksonoda",
       "likes_count": 12,
-      "last_seen": "2026-06-28T22:31:39.930426833+00:00"
+      "last_seen": "2026-06-28T23:32:41.337528694+00:00"
     },
     {
       "key": "a1b622ff1faf4ca34231",
@@ -4437,8 +4437,8 @@
       "published": "2026-06-26T18:57:33+09:00",
       "updated": "2026-06-26T18:57:33+09:00",
       "author_name": "wataru86",
-      "likes_count": 13,
-      "last_seen": "2026-06-28T22:31:39.930426833+00:00"
+      "likes_count": 20,
+      "last_seen": "2026-06-28T23:32:41.337528694+00:00"
     },
     {
       "key": "b892d9ff73495ca4b68d",
@@ -6011,6 +6011,18 @@
       "author_name": "TMiyamoto",
       "likes_count": 15,
       "last_seen": "2026-05-14T07:17:00.140872567+00:00"
+    },
+    {
+      "key": "fd13ea9436bbb3985dfc",
+      "item_id": "fd13ea9436bbb3985dfc",
+      "title": "あなたの.envはDockerイメージに焼き込まれ、誰でも抜き出せる",
+      "link": "https://qiita.com/kenimo49/items/fd13ea9436bbb3985dfc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": ".env は .gitignore に書いてある。Gitには上げていない。だから秘密は守れている。\nそう考えている人は多いはずです。私もそうでした。ですが、Dockerでコンテナ化しているなら、その安心は半分しか正しくありません。.env をGitに上げていなくても、CO...",
+      "published": "2026-06-26T22:30:00+09:00",
+      "updated": "2026-06-26T22:30:01+09:00",
+      "author_name": "kenimo49",
+      "likes_count": 10,
+      "last_seen": "2026-06-28T23:32:41.337528694+00:00"
     },
     {
       "key": "fd1be5f3be4170a11a44",
