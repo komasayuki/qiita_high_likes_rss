@@ -793,6 +793,18 @@
       "last_seen": "2026-05-20T19:52:56.740640474+00:00"
     },
     {
+      "key": "2783f25816699e8318cc",
+      "item_id": "2783f25816699e8318cc",
+      "title": "AIエージェントにサボらせないSkillsの書き方 — 7つの設計手法＋サボり度測定Skill付き",
+      "link": "https://qiita.com/nogataka/items/2783f25816699e8318cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nAIコーディングエージェントでスキルを実行して、出てきた成果物が「それっぽいけど詰めが甘い」と感じたことはないでしょうか。\n色や余白がだいたいで合わせてあります。正常系しか実装されていません。テストは緑なのに本番では動きません。エラーは握りつぶされ、肝心の分岐が...",
+      "published": "2026-06-26T17:12:56+09:00",
+      "updated": "2026-06-26T17:12:56+09:00",
+      "author_name": "nogataka",
+      "likes_count": 10,
+      "last_seen": "2026-06-28T14:43:55.579972948+00:00"
+    },
+    {
       "key": "28b7d4cdd46d2717d48f",
       "item_id": "28b7d4cdd46d2717d48f",
       "title": "【お母さんでもわかる】eBPFによるオブザーバビリティ",
@@ -861,8 +873,8 @@
       "published": "2026-06-27T09:34:36+09:00",
       "updated": "2026-06-28T09:46:07+09:00",
       "author_name": "tetutetu214",
-      "likes_count": 29,
-      "last_seen": "2026-06-28T13:42:58.415536736+00:00"
+      "likes_count": 32,
+      "last_seen": "2026-06-28T14:43:55.579972948+00:00"
     },
     {
       "key": "2bea01d8d642b47bf1fa",
@@ -1221,8 +1233,8 @@
       "published": "2026-06-25T22:43:05+09:00",
       "updated": "2026-06-25T22:43:35+09:00",
       "author_name": "tehito",
-      "likes_count": 362,
-      "last_seen": "2026-06-28T13:42:58.415536736+00:00"
+      "likes_count": 366,
+      "last_seen": "2026-06-28T14:43:55.579972948+00:00"
     },
     {
       "key": "368fb80d85f47d3fb384",
@@ -1641,8 +1653,8 @@
       "published": "2026-06-25T17:39:18+09:00",
       "updated": "2026-06-26T16:50:45+09:00",
       "author_name": "n-isd",
-      "likes_count": 71,
-      "last_seen": "2026-06-28T13:42:58.415536736+00:00"
+      "likes_count": 72,
+      "last_seen": "2026-06-28T14:43:55.579972948+00:00"
     },
     {
       "key": "46fd3c7066b0f3c1b13e",
@@ -2109,8 +2121,8 @@
       "published": "2026-06-25T19:18:54+09:00",
       "updated": "2026-06-26T19:12:04+09:00",
       "author_name": "yuyanz",
-      "likes_count": 39,
-      "last_seen": "2026-06-28T13:42:58.415536736+00:00"
+      "likes_count": 40,
+      "last_seen": "2026-06-28T14:43:55.579972948+00:00"
     },
     {
       "key": "5ca0c12a8495530f7d09",
@@ -2757,8 +2769,8 @@
       "published": "2026-06-26T18:50:07+09:00",
       "updated": "2026-06-26T21:31:27+09:00",
       "author_name": "magicant",
-      "likes_count": 37,
-      "last_seen": "2026-06-28T13:42:58.415536736+00:00"
+      "likes_count": 40,
+      "last_seen": "2026-06-28T14:43:55.579972948+00:00"
     },
     {
       "key": "774a2210675ffe78cf6d",
@@ -3346,7 +3358,7 @@
       "updated": "2026-06-26T10:50:21+09:00",
       "author_name": "nogataka",
       "likes_count": 21,
-      "last_seen": "2026-06-28T13:42:58.415536736+00:00"
+      "last_seen": "2026-06-28T14:43:55.579972948+00:00"
     },
     {
       "key": "8ff4b27c4d9097380c18",
@@ -3766,7 +3778,7 @@
       "updated": "2026-06-26T12:29:05+09:00",
       "author_name": "ksonoda",
       "likes_count": 11,
-      "last_seen": "2026-06-28T13:42:58.415536736+00:00"
+      "last_seen": "2026-06-28T14:43:55.579972948+00:00"
     },
     {
       "key": "a1b622ff1faf4ca34231",
@@ -4439,6 +4451,18 @@
       "author_name": "nhatcaofedev",
       "likes_count": 10,
       "last_seen": "2026-05-09T19:34:30.859364234+00:00"
+    },
+    {
+      "key": "b859f1578191a1e15808",
+      "item_id": "b859f1578191a1e15808",
+      "title": "Claude Code を4ヶ月使ってわかった、おすすめコマンド・スキル 10 選",
+      "link": "https://qiita.com/wataru86/items/b859f1578191a1e15808?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n以前こんな記事を書きました。\n\nあれから4ヶ月以上使い込んで、ようやく使いこなせるようになってきた実感があります。\n使っていて思うのは、コードを書いたりツールや MCP を呼び出したり、いろんな作業を Claude にやらせている一方で、Claude Cod...",
+      "published": "2026-06-26T18:57:33+09:00",
+      "updated": "2026-06-26T18:57:33+09:00",
+      "author_name": "wataru86",
+      "likes_count": 11,
+      "last_seen": "2026-06-28T14:43:55.579972948+00:00"
     },
     {
       "key": "b892d9ff73495ca4b68d",
