@@ -790,7 +790,7 @@
       "updated": "2026-06-26T17:12:56+09:00",
       "author_name": "nogataka",
       "likes_count": 14,
-      "last_seen": "2026-06-29T08:06:03.571299693+00:00"
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
     },
     {
       "key": "28b7d4cdd46d2717d48f",
@@ -861,8 +861,8 @@
       "published": "2026-06-27T09:34:36+09:00",
       "updated": "2026-06-28T09:46:07+09:00",
       "author_name": "tetutetu214",
-      "likes_count": 45,
-      "last_seen": "2026-06-29T08:06:03.571299693+00:00"
+      "likes_count": 47,
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
     },
     {
       "key": "2bea01d8d642b47bf1fa",
@@ -909,8 +909,8 @@
       "published": "2026-06-27T14:39:13+09:00",
       "updated": "2026-06-27T14:47:02+09:00",
       "author_name": "4q_sano",
-      "likes_count": 14,
-      "last_seen": "2026-06-29T08:06:03.571299693+00:00"
+      "likes_count": 20,
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
     },
     {
       "key": "2d179da5a97fe9d147cc",
@@ -995,6 +995,18 @@
       "author_name": "issey_dotlog",
       "likes_count": 31,
       "last_seen": "2026-06-22T06:04:13.642411927+00:00"
+    },
+    {
+      "key": "2f9ad10282775dcbd647",
+      "item_id": "2f9ad10282775dcbd647",
+      "title": "速報！！StreamlitがAWSにサーバーレスでホスティングできるようになった！！ #LambdaMicroVMs",
+      "link": "https://qiita.com/moritalous/items/2f9ad10282775dcbd647?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "きたきたきた～\n生成AIアプリのフロントエンドとして鉄板のStreamlitですが、AWSにデプロイするには諸々の制約があり、Fargateで行うのが一般的だと思います。Lambda Web Adapterでなんとかならないと、10回ぐらい試したのですが、WebSocket...",
+      "published": "2026-06-29T07:08:23+09:00",
+      "updated": "2026-06-29T07:08:23+09:00",
+      "author_name": "moritalous",
+      "likes_count": 17,
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
     },
     {
       "key": "2ff51f2df46cc1285ba3",
@@ -1321,6 +1333,18 @@
       "last_seen": "2026-06-18T07:59:57.822084129+00:00"
     },
     {
+      "key": "39907f41be86431a58e7",
+      "item_id": "39907f41be86431a58e7",
+      "title": "おうちKubernetesを約3年運用してみた",
+      "link": "https://qiita.com/takumiida1/items/39907f41be86431a58e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "Summary\n\n自宅・実家・クラウドの3拠点にまたがる分散Kubernetes環境を3年かけて構築・運用した際の気づきを共有\nRaspberry Pi単独構成から始まり、RAID崩壊・マスター消滅・NFSボトルネック・連鎖障害という痛い失敗を繰り返しながら、現在の安定...",
+      "published": "2026-06-28T10:01:22+09:00",
+      "updated": "2026-06-28T10:01:22+09:00",
+      "author_name": "takumiida1",
+      "likes_count": 21,
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
+    },
+    {
       "key": "39ad448983e2ba8406da",
       "item_id": "39ad448983e2ba8406da",
       "title": "未経験からエンジニアになるために必要な3つの知識",
@@ -1441,6 +1465,18 @@
       "last_seen": "2026-05-23T07:09:06.669759773+00:00"
     },
     {
+      "key": "3dbf4c0206c86bf72e32",
+      "item_id": "3dbf4c0206c86bf72e32",
+      "title": "社内でエンジニア成長ワークショップをやってみた【自己チェックリスト＆年収目安付き】",
+      "link": "https://qiita.com/Nao52/items/3dbf4c0206c86bf72e32?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "■ この記事はこんな人におすすめ\n\nエンジニアとして働き始めたばかりで、成長の方向性がわからない人\n「なんとなく仕事はこなせているけど、次のステップが見えない」と感じている人\n年収アップやキャリアアップを真剣に考えているエンジニア\n自分のレベルを客観的に把握したい人\n\n...",
+      "published": "2026-06-29T00:34:43+09:00",
+      "updated": "2026-06-29T00:38:45+09:00",
+      "author_name": "Nao52",
+      "likes_count": 17,
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
+    },
+    {
       "key": "3dd80adf6b6206e54fba",
       "item_id": "3dd80adf6b6206e54fba",
       "title": "User-Agent情報についての分析から分かること",
@@ -1475,6 +1511,18 @@
       "author_name": "Yametaro",
       "likes_count": 19,
       "last_seen": "2026-06-14T07:51:40.627032899+00:00"
+    },
+    {
+      "key": "3f0d61d0ff4f082479c0",
+      "item_id": "3f0d61d0ff4f082479c0",
+      "title": "「転職はまだ早い」と思っているあなたへ。私が一歩踏み出して学んだこと",
+      "link": "https://qiita.com/hitomin_poke/items/3f0d61d0ff4f082479c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめまして。エンジニアをしている人見です。\n未経験からエンジニアを目指していた頃、私はいつもこう思っていました。\n\n「まだ勉強が足りない。」\n「もっと資格を取ってから転職しよう。」\n「もう少しコードを書けるようになってから挑戦しよう。」\n\nきっと、同じように考えたことがあ...",
+      "published": "2026-06-29T09:54:11+09:00",
+      "updated": "2026-06-29T09:54:36+09:00",
+      "author_name": "hitomin_poke",
+      "likes_count": 44,
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
     },
     {
       "key": "3f2a397e944401fcc6cb",
@@ -1557,8 +1605,8 @@
       "published": "2026-06-28T23:58:48+09:00",
       "updated": "2026-06-28T23:58:48+09:00",
       "author_name": "Sersz7",
-      "likes_count": 10,
-      "last_seen": "2026-06-29T08:06:03.571299693+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
     },
     {
       "key": "432725de703dc4b644aa",
@@ -2182,7 +2230,7 @@
       "updated": "2026-06-29T03:03:00+09:00",
       "author_name": "jqit-yukiono",
       "likes_count": 20,
-      "last_seen": "2026-06-29T08:06:03.571299693+00:00"
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
     },
     {
       "key": "61b10d10c63db47a64e7",
@@ -2533,6 +2581,18 @@
       "last_seen": "2026-05-09T19:34:30.859364234+00:00"
     },
     {
+      "key": "6ef7a58fe38b1e9e0e31",
+      "item_id": "6ef7a58fe38b1e9e0e31",
+      "title": "社内でTOTPのハンズオン授業を開いてみた",
+      "link": "https://qiita.com/qwertyhoge/items/6ef7a58fe38b1e9e0e31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "こんにちは。\n以前仕事で二要素認証の実装に詰まり、デバッグのためにTOTPを原理から勉強をしました。意外とわかりやすくて面白かったので、せっかくなら共有しようと、社内でハンズオン授業という形で勉強会を開いてみたという話をします。\n\nGoogle Authenticatorで...",
+      "published": "2026-06-29T09:40:22+09:00",
+      "updated": "2026-06-29T09:45:16+09:00",
+      "author_name": "qwertyhoge",
+      "likes_count": 17,
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
+    },
+    {
       "key": "6f1ddbe26cf5c5200aa3",
       "item_id": "6f1ddbe26cf5c5200aa3",
       "title": "【緊急】GitHubが陥落した日 - VS Code拡張機能から始まった3,800リポジトリ流出事件の全貌",
@@ -2758,7 +2818,7 @@
       "updated": "2026-06-28T13:15:41+09:00",
       "author_name": "tomoki-miso",
       "likes_count": 10,
-      "last_seen": "2026-06-29T08:06:03.571299693+00:00"
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
     },
     {
       "key": "77361a0b1694ba629bec",
@@ -2769,8 +2829,8 @@
       "published": "2026-06-26T18:50:07+09:00",
       "updated": "2026-06-26T21:31:27+09:00",
       "author_name": "magicant",
-      "likes_count": 66,
-      "last_seen": "2026-06-29T08:06:03.571299693+00:00"
+      "likes_count": 67,
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
     },
     {
       "key": "774a2210675ffe78cf6d",
@@ -3505,6 +3565,18 @@
       "last_seen": "2026-05-16T07:45:01.018620351+00:00"
     },
     {
+      "key": "989a527c54ba05414a6b",
+      "item_id": "989a527c54ba05414a6b",
+      "title": "友達に「エンジニア、もういらなくない？」と言われたので、本気で考えてみた",
+      "link": "https://qiita.com/skmtwork0/items/989a527c54ba05414a6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "最近よく聞く話題ですが、とうとう私にも質問が来たか、と思い、この記事を書かせてもらいます。\n\nきっかけ：友達の「もうエンジニアいらなくない？」\n先日、友人が「AIでアプリ作ったんだ」と見せてくれました。個人で使うWebアプリを、ほぼAIに作らせたらしい。ちゃんと動くし、それ...",
+      "published": "2026-06-27T17:03:08+09:00",
+      "updated": "2026-06-27T17:03:08+09:00",
+      "author_name": "skmtwork0",
+      "likes_count": 10,
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
+    },
+    {
       "key": "996735e9b8ff4b3b1255",
       "item_id": "996735e9b8ff4b3b1255",
       "title": "要件定義とは何か？開発メンバー初心者向けガイド",
@@ -3805,6 +3877,18 @@
       "last_seen": "2026-06-13T19:41:58.117502793+00:00"
     },
     {
+      "key": "a2d825e3ee3e3a4b6dbd",
+      "item_id": "a2d825e3ee3e3a4b6dbd",
+      "title": "Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ",
+      "link": "https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nGitは開発現場では欠かせないツールですが、「最近Gitって何か変わったの？」と聞かれると、意外と答えられない方も多いのではないでしょうか。\n現在も最新バージョンは2系ですが、Gitでは将来的なメジャーバージョンも見据えた改善が継続的に進められています。\n今回は...",
+      "published": "2026-06-28T18:51:39+09:00",
+      "updated": "2026-06-28T18:51:39+09:00",
+      "author_name": "YuukiYoshida",
+      "likes_count": 21,
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
+    },
+    {
       "key": "a31305725e87bf3a10ca",
       "item_id": "a31305725e87bf3a10ca",
       "title": "積極的に1on1や雑談をするべき理由",
@@ -4030,7 +4114,7 @@
       "updated": "2026-06-28T18:10:03+09:00",
       "author_name": "kskwtnk",
       "likes_count": 11,
-      "last_seen": "2026-06-29T08:06:03.571299693+00:00"
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
     },
     {
       "key": "aaa3ce165cb4efdabd18",
@@ -4449,8 +4533,8 @@
       "published": "2026-06-26T18:57:33+09:00",
       "updated": "2026-06-26T18:57:33+09:00",
       "author_name": "wataru86",
-      "likes_count": 42,
-      "last_seen": "2026-06-29T08:06:03.571299693+00:00"
+      "likes_count": 50,
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
     },
     {
       "key": "b892d9ff73495ca4b68d",
@@ -5053,6 +5137,18 @@
       "last_seen": "2026-05-07T07:16:31.978873880+00:00"
     },
     {
+      "key": "d1601e07ba3a125bc714",
+      "item_id": "d1601e07ba3a125bc714",
+      "title": "画像一括生成システムの設計進化記録 〜ECS・Lambda・SQS・EventBridgeで100〜300件をさばく〜",
+      "link": "https://qiita.com/Nao52/items/d1601e07ba3a125bc714?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "■ この記事はこんな人におすすめ\n\n外部APIを使った非同期処理の設計に悩んでいる人\nタイムアウトや障害に強いワーカー構成を構築したい人\nAWSのECS・Lambda・SQS・EventBridgeを組み合わせて使いたい人\nピーク時間帯のパフォーマンス劣化問題を解決したい...",
+      "published": "2026-06-28T21:06:41+09:00",
+      "updated": "2026-06-28T23:50:06+09:00",
+      "author_name": "Nao52",
+      "likes_count": 17,
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
+    },
+    {
       "key": "d18bf49f0c7a168baa19",
       "item_id": "d18bf49f0c7a168baa19",
       "title": "「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話",
@@ -5315,6 +5411,18 @@
       "author_name": "yusuke_ando_vj",
       "likes_count": 77,
       "last_seen": "2026-06-24T19:42:54.545066426+00:00"
+    },
+    {
+      "key": "dd2e5075ea0d59ee3a36",
+      "item_id": "dd2e5075ea0d59ee3a36",
+      "title": "テーブル設計をskillsでレビューしてみませんか",
+      "link": "https://qiita.com/kuma_3838/items/dd2e5075ea0d59ee3a36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nDB設計の勉強のために、以下の2冊を読みました。\n\n『失敗から学ぶ RDBの正しい歩き方』（曽根壮大）\n『達人に学ぶDB設計 徹底指南書 第2版』（ミック）\n\n最近、技術書を読むときに意識していることがあります。\nそれは「この内容をプロジェクトに活かせるか」とい...",
+      "published": "2026-06-29T09:17:05+09:00",
+      "updated": "2026-06-29T09:17:05+09:00",
+      "author_name": "kuma_3838",
+      "likes_count": 19,
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
     },
     {
       "key": "dff3c8a2a0ee563ca16f",
@@ -6022,7 +6130,19 @@
       "updated": "2026-06-26T22:30:01+09:00",
       "author_name": "kenimo49",
       "likes_count": 20,
-      "last_seen": "2026-06-29T08:06:03.571299693+00:00"
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
+    },
+    {
+      "key": "fd18304055a59e149aee",
+      "item_id": "fd18304055a59e149aee",
+      "title": "まずはここから！〜ゼロから始めるClaude開発〜",
+      "link": "https://qiita.com/Nao52/items/fd18304055a59e149aee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "Claude Code完全ガイド：AIと「協働」するエンジニアの新常識\n\n📖 本記事について\n本記事の内容は、書籍「ストーリーで覚えるClaude Code開発ガイド 物語で学ぶAI駆動開発（ネクストステージ出版）」を参考・引用しています。詳細や実際のストーリー展開に興味...",
+      "published": "2026-06-29T00:12:50+09:00",
+      "updated": "2026-06-29T00:12:50+09:00",
+      "author_name": "Nao52",
+      "likes_count": 16,
+      "last_seen": "2026-06-29T09:49:16.981280961+00:00"
     },
     {
       "key": "fd1be5f3be4170a11a44",
