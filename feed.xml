@@ -345,6 +345,16 @@ Qiita上には素晴らしい先人の方の記事として、「不思議の国
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a2d825e3ee3e3a4b6dbd</id>
+    <title>Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ</title>
+    <link rel="alternate" href="https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-28T18:51:39+09:00</updated>
+    <summary type="html">Likes: 103&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YuukiYoshida&quot;&gt;YuukiYoshida&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T18:51:39+09:00&lt;br/&gt;Updated: 2026-06-28T18:51:39+09:00&lt;br/&gt;はじめに
+Gitは開発現場では欠かせないツールですが、「最近Gitって何か変わったの？」と聞かれると、意外と答えられない方も多いのではないでしょうか。
+現在も最新バージョンは2系ですが、Gitでは将来的なメジャーバージョンも見据えた改善が継続的に進められています。
+今回は...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f451a4ecb49a9476f09b</id>
     <title>ベテランさんが教えてくれない「クリーンアーキテクチャー」を小学生でもわかるように解説</title>
     <link rel="alternate" href="https://qiita.com/Hashimoto-Noriaki/items/f451a4ecb49a9476f09b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -390,16 +400,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 社内で Claude Code / Cursor / Codex / ChatGPT などの AI コーディング支援を 本気で業務利用したい エンジニア
 「リスクが…」で却下され続けて、情シスに見せられる具体的な技術対策が欲しい チームリーダー
 情シ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a2d825e3ee3e3a4b6dbd</id>
-    <title>Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ</title>
-    <link rel="alternate" href="https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-28T18:51:39+09:00</updated>
-    <summary type="html">Likes: 97&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YuukiYoshida&quot;&gt;YuukiYoshida&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T18:51:39+09:00&lt;br/&gt;Updated: 2026-06-28T18:51:39+09:00&lt;br/&gt;はじめに
-Gitは開発現場では欠かせないツールですが、「最近Gitって何か変わったの？」と聞かれると、意外と答えられない方も多いのではないでしょうか。
-現在も最新バージョンは2系ですが、Gitでは将来的なメジャーバージョンも見据えた改善が継続的に進められています。
-今回は...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8e6607a09cb8ff86c298</id>
@@ -826,6 +826,16 @@ Claude Code / Cursor / Copilot などの AIエージェントをチームに導�
 「導入したいけどセキュリティが心配」で 手が止まっている 人...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:39907f41be86431a58e7</id>
+    <title>おうちKubernetesを約3年運用してみた</title>
+    <link rel="alternate" href="https://qiita.com/takumiida1/items/39907f41be86431a58e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-28T10:01:22+09:00</updated>
+    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takumiida1&quot;&gt;takumiida1&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T10:01:22+09:00&lt;br/&gt;Updated: 2026-06-28T10:01:22+09:00&lt;br/&gt;Summary
+
+自宅・実家・クラウドの3拠点にまたがる分散Kubernetes環境を3年かけて構築・運用した際の気づきを共有
+Raspberry Pi単独構成から始まり、RAID崩壊・マスター消滅・NFSボトルネック・連鎖障害という痛い失敗を繰り返しながら、現在の安定...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e568f199e5753d3bb1b2</id>
     <title>Copy Fail とは？（結構詳しめ）</title>
     <link rel="alternate" href="https://qiita.com/fiord/items/e568f199e5753d3bb1b2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -835,16 +845,6 @@ Copy Fail(CVE-2026-31431) という脆弱性が報告されました。
 
 Linux にて簡単に特権昇格(root権限でコマンドの実行が出来るようになる）が出来る脆弱性
 2017 年以降にリリースされた全ての Linux ディストリビューションが対象とさ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:39907f41be86431a58e7</id>
-    <title>おうちKubernetesを約3年運用してみた</title>
-    <link rel="alternate" href="https://qiita.com/takumiida1/items/39907f41be86431a58e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-28T10:01:22+09:00</updated>
-    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takumiida1&quot;&gt;takumiida1&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T10:01:22+09:00&lt;br/&gt;Updated: 2026-06-28T10:01:22+09:00&lt;br/&gt;Summary
-
-自宅・実家・クラウドの3拠点にまたがる分散Kubernetes環境を3年かけて構築・運用した際の気づきを共有
-Raspberry Pi単独構成から始まり、RAID崩壊・マスター消滅・NFSボトルネック・連鎖障害という痛い失敗を繰り返しながら、現在の安定...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fa1f6b0db92e497796ac</id>
@@ -871,6 +871,20 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 「クラウドだか...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3f0d61d0ff4f082479c0</id>
+    <title>「転職はまだ早い」と思っているあなたへ。私が一歩踏み出して学んだこと</title>
+    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/3f0d61d0ff4f082479c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-29T09:54:36+09:00</updated>
+    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T09:54:11+09:00&lt;br/&gt;Updated: 2026-06-29T09:54:36+09:00&lt;br/&gt;はじめまして。エンジニアをしている人見です。
+未経験からエンジニアを目指していた頃、私はいつもこう思っていました。
+
+「まだ勉強が足りない。」
+「もっと資格を取ってから転職しよう。」
+「もう少しコードを書けるようになってから挑戦しよう。」
+
+きっと、同じように考えたことがあ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c69fab7dfb1d48ba8b31</id>
@@ -937,20 +951,6 @@ API連携を検討するSIer・Webエンジニア
 
 結論（先にシンプルに）
 Railsの仕組みを一言でいうと、「超優秀なレ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3f0d61d0ff4f082479c0</id>
-    <title>「転職はまだ早い」と思っているあなたへ。私が一歩踏み出して学んだこと</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/3f0d61d0ff4f082479c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-29T09:54:36+09:00</updated>
-    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T09:54:11+09:00&lt;br/&gt;Updated: 2026-06-29T09:54:36+09:00&lt;br/&gt;はじめまして。エンジニアをしている人見です。
-未経験からエンジニアを目指していた頃、私はいつもこう思っていました。
-
-「まだ勉強が足りない。」
-「もっと資格を取ってから転職しよう。」
-「もう少しコードを書けるようになってから挑戦しよう。」
-
-きっと、同じように考えたことがあ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cfe5ba40a56b3dbf6a4b</id>
@@ -1386,6 +1386,21 @@ Linuxを学び、黒い画面（CUI）と向き合った新卒研修で学んだ
 僕はやってました。むしろ「効率化のための...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0001f93221d4d7556271</id>
+    <title>【永久0円】人間LLMのすすめ</title>
+    <link rel="alternate" href="https://qiita.com/Syuparn/items/0001f93221d4d7556271?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-29T18:53:19+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syuparn&quot;&gt;Syuparn&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T18:53:19+09:00&lt;br/&gt;Updated: 2026-06-29T18:53:19+09:00&lt;br/&gt;はじめに
+こんなお悩みはありませんか？
+LLMは気づいたら値上がり。最新モデルは限定公開。ローカルLLMを建てようにもグラボが足りない。
+...実は、電気を使わず使い放題の計算資源があることをご存知ですか？
+
+―そう、貴方です。
+
+作ったもの
+というわけで作りました。名付...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:42635251d8e2641cb50c</id>
     <title>AI駆動開発のセキュリティツール、結局なにを入れればいい？</title>
     <link rel="alternate" href="https://qiita.com/udowanllc/items/42635251d8e2641cb50c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1760,6 +1775,16 @@ Claude Code が爆誕してから1年以上経った。
 ネット上に公開されている私の職歴の中に不正を行った会社は含まれておりませんので、誹謗中傷...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:025683560974d762fa85</id>
+    <title>Railsで学ぶ DFS / BFS 入門 〜「深さ優先」と「幅優先」で木構造をたどる〜</title>
+    <link rel="alternate" href="https://qiita.com/akachiryo/items/025683560974d762fa85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-30T12:48:38+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T12:48:38+09:00&lt;br/&gt;Updated: 2026-06-30T12:48:38+09:00&lt;br/&gt;お疲れ様です！
+前回は計算量（Big-O）の話を書きましたが、今回はその流れで、探索アルゴリズムの基本 DFS（深さ優先探索） と BFS（幅優先探索） をまとめてみました 
+名前は難しそうですが、中身は 「スタックを使うか、キューを使うか」だけの違い です。
+興味ある方は...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:2f57fda20f559b2e54ae</id>
     <title>「なぜ評価されないんだろ…」と悩むそこの君へ。優秀なエンジニアに共通する考え方。</title>
     <link rel="alternate" href="https://qiita.com/issey_dotlog/items/2f57fda20f559b2e54ae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1859,16 +1884,6 @@ Claude Code と Codex を Pro / Plus プランで併用していると、レー�
 Claude Opus 4.8が公開さ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:025683560974d762fa85</id>
-    <title>Railsで学ぶ DFS / BFS 入門 〜「深さ優先」と「幅優先」で木構造をたどる〜</title>
-    <link rel="alternate" href="https://qiita.com/akachiryo/items/025683560974d762fa85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-30T12:48:38+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T12:48:38+09:00&lt;br/&gt;Updated: 2026-06-30T12:48:38+09:00&lt;br/&gt;お疲れ様です！
-前回は計算量（Big-O）の話を書きましたが、今回はその流れで、探索アルゴリズムの基本 DFS（深さ優先探索） と BFS（幅優先探索） をまとめてみました 
-名前は難しそうですが、中身は 「スタックを使うか、キューを使うか」だけの違い です。
-興味ある方は...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:dd2e5075ea0d59ee3a36</id>
     <title>テーブル設計をskillsでレビューしてみませんか</title>
     <link rel="alternate" href="https://qiita.com/kuma_3838/items/dd2e5075ea0d59ee3a36?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1941,21 +1956,6 @@ TypeScriptでifのネストやswitchを多用しているが、読みにくい�
 enumを使っているが、ケース追加時の漏れが怖い人
 「フラグ引数」が何なのか、なぜ避けるべきかを知りたい人
 保守しやすい条件分岐の書き方をマスタ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0001f93221d4d7556271</id>
-    <title>【永久0円】人間LLMのすすめ</title>
-    <link rel="alternate" href="https://qiita.com/Syuparn/items/0001f93221d4d7556271?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-29T18:53:19+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syuparn&quot;&gt;Syuparn&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T18:53:19+09:00&lt;br/&gt;Updated: 2026-06-29T18:53:19+09:00&lt;br/&gt;はじめに
-こんなお悩みはありませんか？
-LLMは気づいたら値上がり。最新モデルは限定公開。ローカルLLMを建てようにもグラボが足りない。
-...実は、電気を使わず使い放題の計算資源があることをご存知ですか？
-
-―そう、貴方です。
-
-作ったもの
-というわけで作りました。名付...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fd13ea9436bbb3985dfc</id>
