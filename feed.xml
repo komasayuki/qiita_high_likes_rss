@@ -299,7 +299,7 @@ Qiita上には素晴らしい先人の方の記事として、「不思議の国
     <title>Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ</title>
     <link rel="alternate" href="https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-28T18:51:39+09:00</updated>
-    <summary type="html">Likes: 106&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YuukiYoshida&quot;&gt;YuukiYoshida&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T18:51:39+09:00&lt;br/&gt;Updated: 2026-06-28T18:51:39+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 107&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YuukiYoshida&quot;&gt;YuukiYoshida&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T18:51:39+09:00&lt;br/&gt;Updated: 2026-06-28T18:51:39+09:00&lt;br/&gt;はじめに
 Gitは開発現場では欠かせないツールですが、「最近Gitって何か変わったの？」と聞かれると、意外と答えられない方も多いのではないでしょうか。
 現在も最新バージョンは2系ですが、Gitでは将来的なメジャーバージョンも見据えた改善が継続的に進められています。
 今回は...</summary>
@@ -770,6 +770,16 @@ Claude Code × GitHubで「自分の取扱説明書」を作り、AIに丸ごと
 メモアプリ1つで始められる。エン...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:39907f41be86431a58e7</id>
+    <title>おうちKubernetesを約3年運用してみた</title>
+    <link rel="alternate" href="https://qiita.com/takumiida1/items/39907f41be86431a58e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-28T10:01:22+09:00</updated>
+    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takumiida1&quot;&gt;takumiida1&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T10:01:22+09:00&lt;br/&gt;Updated: 2026-06-28T10:01:22+09:00&lt;br/&gt;Summary
+
+自宅・実家・クラウドの3拠点にまたがる分散Kubernetes環境を3年かけて構築・運用した際の気づきを共有
+Raspberry Pi単独構成から始まり、RAID崩壊・マスター消滅・NFSボトルネック・連鎖障害という痛い失敗を繰り返しながら、現在の安定...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:735ebfa8504fc658c812</id>
     <title>【draw.io】エンジニアの「雑なMermaid」を、綺麗な図解に変換する【アップデート版】</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/735ebfa8504fc658c812?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -790,16 +800,6 @@ AWSの構成図をAIに描かせたいけど、アイコンや体裁が崩れる
 Claude Code は非常に強力ですが、既存コードベースで長時間動かすと、次のような問題が起きやすくなります。
 勝手にリファクタする
 関係ないファイルまで変更する...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:39907f41be86431a58e7</id>
-    <title>おうちKubernetesを約3年運用してみた</title>
-    <link rel="alternate" href="https://qiita.com/takumiida1/items/39907f41be86431a58e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-28T10:01:22+09:00</updated>
-    <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takumiida1&quot;&gt;takumiida1&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T10:01:22+09:00&lt;br/&gt;Updated: 2026-06-28T10:01:22+09:00&lt;br/&gt;Summary
-
-自宅・実家・クラウドの3拠点にまたがる分散Kubernetes環境を3年かけて構築・運用した際の気づきを共有
-Raspberry Pi単独構成から始まり、RAID崩壊・マスター消滅・NFSボトルネック・連鎖障害という痛い失敗を繰り返しながら、現在の安定...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:86307593829ac5e70852</id>
@@ -994,6 +994,21 @@ GMOコネクトの平島です。
 本記事では、エンジニアがより成長するために必要な考え方について 「脳科学」 の側面から切り込ん...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0001f93221d4d7556271</id>
+    <title>【永久0円】人間LLMのすすめ</title>
+    <link rel="alternate" href="https://qiita.com/Syuparn/items/0001f93221d4d7556271?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-29T18:53:19+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syuparn&quot;&gt;Syuparn&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T18:53:19+09:00&lt;br/&gt;Updated: 2026-06-29T18:53:19+09:00&lt;br/&gt;はじめに
+こんなお悩みはありませんか？
+LLMは気づいたら値上がり。最新モデルは限定公開。ローカルLLMを建てようにもグラボが足りない。
+...実は、電気を使わず使い放題の計算資源があることをご存知ですか？
+
+―そう、貴方です。
+
+作ったもの
+というわけで作りました。名付...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:dff3c8a2a0ee563ca16f</id>
     <title>VRAM 12GBでQwen 35Bを動かす — エキスパートをGPUに載せないほど速くなった話</title>
     <link rel="alternate" href="https://qiita.com/kenimo49/items/dff3c8a2a0ee563ca16f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1047,21 +1062,6 @@ NewsPicks で QA エンジニアをしています、西薗（@yurizono）です
     <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetutetu214&quot;&gt;tetutetu214&lt;/a&gt;&lt;br/&gt;Published: 2026-06-27T09:34:36+09:00&lt;br/&gt;Updated: 2026-06-28T09:46:07+09:00&lt;br/&gt;概要
 こちらの記事では、AWS Summit Japan 2026(2026/6/26~27 で開催) での、Builder Community エリアのステージで開催されていました、セッション資料へのリンクをまとめまたものとなります。
 ※資料リンクが不足しているところは...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0001f93221d4d7556271</id>
-    <title>【永久0円】人間LLMのすすめ</title>
-    <link rel="alternate" href="https://qiita.com/Syuparn/items/0001f93221d4d7556271?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-29T18:53:19+09:00</updated>
-    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syuparn&quot;&gt;Syuparn&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T18:53:19+09:00&lt;br/&gt;Updated: 2026-06-29T18:53:19+09:00&lt;br/&gt;はじめに
-こんなお悩みはありませんか？
-LLMは気づいたら値上がり。最新モデルは限定公開。ローカルLLMを建てようにもグラボが足りない。
-...実は、電気を使わず使い放題の計算資源があることをご存知ですか？
-
-―そう、貴方です。
-
-作ったもの
-というわけで作りました。名付...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c61eb886faa1cee69054</id>
@@ -1401,6 +1401,14 @@ Linuxを学び、黒い画面（CUI）と向き合った新卒研修で学んだ
 僕はやってました。むしろ「効率化のための...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2f9ad10282775dcbd647</id>
+    <title>速報！！StreamlitがAWSにサーバーレスでホスティングできるようになった！！ #LambdaMicroVMs</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/2f9ad10282775dcbd647?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-29T07:08:23+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T07:08:23+09:00&lt;br/&gt;Updated: 2026-06-29T07:08:23+09:00&lt;br/&gt;きたきたきた～
+生成AIアプリのフロントエンドとして鉄板のStreamlitですが、AWSにデプロイするには諸々の制約があり、Fargateで行うのが一般的だと思います。Lambda Web Adapterでなんとかならないと、10回ぐらい試したのですが、WebSocket...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:42635251d8e2641cb50c</id>
     <title>AI駆動開発のセキュリティツール、結局なにを入れればいい？</title>
     <link rel="alternate" href="https://qiita.com/udowanllc/items/42635251d8e2641cb50c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1448,14 +1456,6 @@ Claude Codeを使い始めてしばらく経つと、こんな壁にぶつかり
 「毎回同じ説明をしている」 — セッションが切れるたびにプロジェクトの背景を一から説明する
 
 「コード生成はできるけど専門的なレビューが薄い」 — セキュリティや設計の観点が足り...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2f9ad10282775dcbd647</id>
-    <title>速報！！StreamlitがAWSにサーバーレスでホスティングできるようになった！！ #LambdaMicroVMs</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/2f9ad10282775dcbd647?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-29T07:08:23+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T07:08:23+09:00&lt;br/&gt;Updated: 2026-06-29T07:08:23+09:00&lt;br/&gt;きたきたきた～
-生成AIアプリのフロントエンドとして鉄板のStreamlitですが、AWSにデプロイするには諸々の制約があり、Fargateで行うのが一般的だと思います。Lambda Web Adapterでなんとかならないと、10回ぐらい試したのですが、WebSocket...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:49f9601481aec596f545</id>
