@@ -804,6 +804,16 @@ LLM Wikiとは
 Andrej Karpathy氏（OpenAIの創業メンバーであり、Tesla元AIシニアディレクター）がGitHu...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:39907f41be86431a58e7</id>
+    <title>おうちKubernetesを約3年運用してみた</title>
+    <link rel="alternate" href="https://qiita.com/takumiida1/items/39907f41be86431a58e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-28T10:01:22+09:00</updated>
+    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takumiida1&quot;&gt;takumiida1&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T10:01:22+09:00&lt;br/&gt;Updated: 2026-06-28T10:01:22+09:00&lt;br/&gt;Summary
+
+自宅・実家・クラウドの3拠点にまたがる分散Kubernetes環境を3年かけて構築・運用した際の気づきを共有
+Raspberry Pi単独構成から始まり、RAID崩壊・マスター消滅・NFSボトルネック・連鎖障害という痛い失敗を繰り返しながら、現在の安定...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:03b9b817bf2015321159</id>
     <title>プログラミング完全未経験から始める！競技プログラミング入門ガイド</title>
     <link rel="alternate" href="https://qiita.com/Un_titled/items/03b9b817bf2015321159?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -824,16 +834,6 @@ Andrej Karpathy氏（OpenAIの創業メンバーであり、Tesla元AIシニア�
 Claude Code / Cursor / Copilot などの AIエージェントをチームに導入したい 人
 情シスから「セキュリティ面の対応は？」と聞かれて 技術的に答えたい 人
 「導入したいけどセキュリティが心配」で 手が止まっている 人...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:39907f41be86431a58e7</id>
-    <title>おうちKubernetesを約3年運用してみた</title>
-    <link rel="alternate" href="https://qiita.com/takumiida1/items/39907f41be86431a58e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-28T10:01:22+09:00</updated>
-    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takumiida1&quot;&gt;takumiida1&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T10:01:22+09:00&lt;br/&gt;Updated: 2026-06-28T10:01:22+09:00&lt;br/&gt;Summary
-
-自宅・実家・クラウドの3拠点にまたがる分散Kubernetes環境を3年かけて構築・運用した際の気づきを共有
-Raspberry Pi単独構成から始まり、RAID崩壊・マスター消滅・NFSボトルネック・連鎖障害という痛い失敗を繰り返しながら、現在の安定...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e568f199e5753d3bb1b2</id>
@@ -1118,6 +1118,21 @@ TL;DR
 そこでこの1年間の活動を振り返ってみよ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0001f93221d4d7556271</id>
+    <title>【永久0円】人間LLMのすすめ</title>
+    <link rel="alternate" href="https://qiita.com/Syuparn/items/0001f93221d4d7556271?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-29T18:53:19+09:00</updated>
+    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syuparn&quot;&gt;Syuparn&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T18:53:19+09:00&lt;br/&gt;Updated: 2026-06-29T18:53:19+09:00&lt;br/&gt;はじめに
+こんなお悩みはありませんか？
+LLMは気づいたら値上がり。最新モデルは限定公開。ローカルLLMを建てようにもグラボが足りない。
+...実は、電気を使わず使い放題の計算資源があることをご存知ですか？
+
+―そう、貴方です。
+
+作ったもの
+というわけで作りました。名付...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c6f24bc95a3c2a46de4d</id>
     <title>Railsアプリのメモリが「無駄に」減る話 〜リーク・断片化〜</title>
     <link rel="alternate" href="https://qiita.com/akachiryo/items/c6f24bc95a3c2a46de4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1254,21 +1269,6 @@ ssh user@192.168.1.100
 AIスタートアップでCEO兼CTOをしています。
 
 僕の会社では、約10人月の受託開発が2週間で、自社プロダクトは「開発〜リリース」が5日で終わるようになりました。支えているのは、Claude Co...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0001f93221d4d7556271</id>
-    <title>【永久0円】人間LLMのすすめ</title>
-    <link rel="alternate" href="https://qiita.com/Syuparn/items/0001f93221d4d7556271?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-29T18:53:19+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syuparn&quot;&gt;Syuparn&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T18:53:19+09:00&lt;br/&gt;Updated: 2026-06-29T18:53:19+09:00&lt;br/&gt;はじめに
-こんなお悩みはありませんか？
-LLMは気づいたら値上がり。最新モデルは限定公開。ローカルLLMを建てようにもグラボが足りない。
-...実は、電気を使わず使い放題の計算資源があることをご存知ですか？
-
-―そう、貴方です。
-
-作ったもの
-というわけで作りました。名付...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f02c34ae6dc994cd3084</id>
