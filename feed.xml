@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-07-01T09:24:41+09:00</updated>
+  <updated>2026-07-01T12:38:36+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -19,7 +19,7 @@
     <title>【永久0円】人間LLMのすすめ</title>
     <link rel="alternate" href="https://qiita.com/Syuparn/items/0001f93221d4d7556271?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-29T18:53:19+09:00</updated>
-    <summary type="html">Likes: 247&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syuparn&quot;&gt;Syuparn&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T18:53:19+09:00&lt;br/&gt;Updated: 2026-06-29T18:53:19+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 259&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syuparn&quot;&gt;Syuparn&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T18:53:19+09:00&lt;br/&gt;Updated: 2026-06-29T18:53:19+09:00&lt;br/&gt;はじめに
 こんなお悩みはありませんか？
 LLMは気づいたら値上がり。最新モデルは限定公開。ローカルLLMを建てようにもグラボが足りない。
 ...実は、電気を使わず使い放題の計算資源があることをご存知ですか？
@@ -1458,6 +1458,30 @@ Claude Codeを使い始めてしばらく経つと、こんな壁にぶつかり
 「コード生成はできるけど専門的なレビューが薄い」 — セキュリティや設計の観点が足り...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8de518e172395d48a269</id>
+    <title>「何の言語を学べばいいかわからない」と迷う方へ — Web開発の主要5言語を整理してみた</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/8de518e172395d48a269?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-01T09:24:41+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-07-01T09:24:40+09:00&lt;br/&gt;Updated: 2026-07-01T09:24:41+09:00&lt;br/&gt;こんにちは。
+株式会社PRUMのmasaです。
+今回は、Web開発における主要5言語について、『どんな現場で使われているのか』『何が得意なのか』という視点で整理しました。
+言語選びで迷われている方の助けになれば幸いです。
+
+はじめに
+「RubyとPythonって何が違うんで...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:8b3e5908a24952c10783</id>
+    <title>【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/8b3e5908a24952c10783?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-30T19:49:30+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T17:14:41+09:00&lt;br/&gt;Updated: 2026-06-30T19:49:30+09:00&lt;br/&gt;はじめに
+こんばんは、mirukyです。突然ですが、もう夏ですね。
+比較的今年の6月は涼しいですが、7月からはいつも通り暑くなるんですかね、、。
+そんな時は、部屋でエアコンをガンガンにきかせて、本でも読みましょう！
+涼しい地域の方は、風鈴のついた縁側で本を読むのも風流で...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:49f9601481aec596f545</id>
     <title>CVSS 9.8ってどれくらい危ない？脆弱性情報を読むためのものさし</title>
     <link rel="alternate" href="https://qiita.com/mo__mo/items/49f9601481aec596f545?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1483,19 +1507,6 @@ High
 とあるお客様から、こう聞かれました。
 Microsoftの公式サイトや各種ホワイトペーパーには、「生産性が●●%向上！」「週に●時間を節約！」といった事例が並んでいます。
 ただ、このような事例はどこかキレイすぎて、ピン...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8de518e172395d48a269</id>
-    <title>「何の言語を学べばいいかわからない」と迷う方へ — Web開発の主要5言語を整理してみた</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/8de518e172395d48a269?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-01T09:24:41+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-07-01T09:24:40+09:00&lt;br/&gt;Updated: 2026-07-01T09:24:41+09:00&lt;br/&gt;こんにちは。
-株式会社PRUMのmasaです。
-今回は、Web開発における主要5言語について、『どんな現場で使われているのか』『何が得意なのか』という視点で整理しました。
-言語選びで迷われている方の助けになれば幸いです。
-
-はじめに
-「RubyとPythonって何が違うんで...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:226e7c06bc9d5877e64e</id>
@@ -1561,17 +1572,6 @@ cdコマンド...</summary>
 この記事は、Pythonにちょっと慣れてきてぶつかりそうな壁のひとつであるリストについてを簡単にまとめたものになります。こういう感じなんだなぁとなれば幸いです。
 なお、変数やprint、inputなどについてはなんとなく理解している体で説明します。
 サンプ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8b3e5908a24952c10783</id>
-    <title>【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/8b3e5908a24952c10783?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-30T19:49:30+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T17:14:41+09:00&lt;br/&gt;Updated: 2026-06-30T19:49:30+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。突然ですが、もう夏ですね。
-比較的今年の6月は涼しいですが、7月からはいつも通り暑くなるんですかね、、。
-そんな時は、部屋でエアコンをガンガンにきかせて、本でも読みましょう！
-涼しい地域の方は、風鈴のついた縁側で本を読むのも風流で...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:025683560974d762fa85</id>
@@ -2210,6 +2210,18 @@ NotebookLMの登場により、AIを使った新しい学習方法が少しず�
 NotebookLMでは、PDF・Webページ・ドキュメントなどのリソースをもとに、AIと対...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:42ff4d8f736f45eb8c59</id>
+    <title>Railsで学ぶ レースコンディション 〜二重登録の罠〜</title>
+    <link rel="alternate" href="https://qiita.com/akachiryo/items/42ff4d8f736f45eb8c59?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-01T12:38:36+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-01T12:38:36+09:00&lt;br/&gt;Updated: 2026-07-01T12:38:36+09:00&lt;br/&gt;お疲れ様です！
+シリーズで並行性・パフォーマンスの話を書いてきましたが、今回は レースコンディション（競合状態） をまとめてみました 
+「ローカルでは再現しないのに、本番でたまに二重登録される…」の正体です。
+興味ある方は読んでいただけると嬉しいです 
+
+レースコンディショ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bab35c7b58a664d3b8f1</id>
     <title>Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2218,15 +2230,5 @@ NotebookLMでは、PDF・Webページ・ドキュメントなどのリソース�
 この記事は、Claude Code のセキュリティガードレールを「概念」ではなく「動くコード」で示すことを目的にしています。
 「ガードレールが必要だとは分かった。でも何をどう書けばいいのか」という段階の方に向けて書いています。
 settings.json の p...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8b8c3116f07fcefe2047</id>
-    <title>未経験エンジニアなら、キーボードよりノートを汚せ</title>
-    <link rel="alternate" href="https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-22T21:53:47+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/maketahara_ise&quot;&gt;maketahara_ise&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T16:07:11+09:00&lt;br/&gt;Updated: 2026-06-22T21:53:47+09:00&lt;br/&gt;はじめに
-小生、未経験から開発職について早一年。
-今やどんなソースもガリレオのように解読し、もう八面六臂の大活躍で上司もにんまり。
-なんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないので...</summary>
   </entry>
 </feed>
