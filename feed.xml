@@ -290,6 +290,14 @@ UIを設計・実装していると、「このインタラクション、なん
 Qiita上には素晴らしい先人の方の記事として、「不思議の国のSE用語」というものがあります。網羅度を重視する方は、@t_nakayama0714さんのこの記事をお読みください。当記事では、もっとラフに、社会人歴数年（IT業界）の目線でよく聞くものをピックしよう...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7ca90575c5fff758993e</id>
+    <title>エンジニアがいつのまにか知っている知識・常識・文化 12本</title>
+    <link rel="alternate" href="https://qiita.com/ko-he-8/items/7ca90575c5fff758993e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-30T19:01:23+09:00</updated>
+    <summary type="html">Likes: 118&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ko-he-8&quot;&gt;ko-he-8&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T19:01:23+09:00&lt;br/&gt;Updated: 2026-06-30T19:01:23+09:00&lt;br/&gt;エンジニアをやっていると「いつ知ったかわからない」・「研修などでは特に教えられない」けど、みんな当たり前に知っている知識や文化がある気がします。この記事では、そういったエンジニアの暗黙の知識・文化みたいなものを思いつくままあげてみました。
+だいぶ個人の感想的な内容なので、他...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9059f26629e0976bc0e2</id>
     <title>商業書籍の出版をCodexで爆速化するノウハウ</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/9059f26629e0976bc0e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -456,14 +464,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 今日はシステムを支える5つの要素についてプログラミング初心者向けに記事を書きました。この記事を読むことで、点だった知識が線に繋がり、システム全体のイメージを掴めると思います。
 興味があれば読んで頂けると嬉しいです。
 PRUMについて興味が...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7ca90575c5fff758993e</id>
-    <title>エンジニアがいつのまにか知っている知識・常識・文化 12本</title>
-    <link rel="alternate" href="https://qiita.com/ko-he-8/items/7ca90575c5fff758993e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-30T19:01:23+09:00</updated>
-    <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ko-he-8&quot;&gt;ko-he-8&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T19:01:23+09:00&lt;br/&gt;Updated: 2026-06-30T19:01:23+09:00&lt;br/&gt;エンジニアをやっていると「いつ知ったかわからない」・「研修などでは特に教えられない」けど、みんな当たり前に知っている知識や文化がある気がします。この記事では、そういったエンジニアの暗黙の知識・文化みたいなものを思いつくままあげてみました。
-だいぶ個人の感想的な内容なので、他...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:39ad448983e2ba8406da</id>
@@ -1118,6 +1118,17 @@ TL;DR
 そこでこの1年間の活動を振り返ってみよ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7d06434cf830df9c54ff</id>
+    <title>【ハンズオン】AgentCore最新機能でRAG &amp; AIエージェント構築に入門！</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/7d06434cf830df9c54ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-02T16:51:13+09:00</updated>
+    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T01:32:50+09:00&lt;br/&gt;Updated: 2026-07-02T16:51:13+09:00&lt;br/&gt;このイベント用のハンズオン手順ですが、どなたでも好きなときに試せます！（30分〜1時間目安）
+
+これをローコードでサクッと作ります。
+
+残念なことに最近、新規作成したばかりのAWSアカウント（特に会社契約でないもの）では、Bedrockのモデル呼び出しクォータが既定で0...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c6f24bc95a3c2a46de4d</id>
     <title>Railsアプリのメモリが「無駄に」減る話 〜リーク・断片化〜</title>
     <link rel="alternate" href="https://qiita.com/akachiryo/items/c6f24bc95a3c2a46de4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1126,6 +1137,15 @@ TL;DR
 前回はメモリ管理の基本を書きましたが、今回はその続きで メモリリーク と 断片化（フラグメンテーション） についてまとめてみました 
 前回ふれた「OOM（メモリ枯渇でプロセスが落ちる）」の 原因編 にあたる話です。
 興味ある方は読んでいただけると嬉しいです ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c146eb7c2885036c6b83</id>
+    <title>開発チームを良くしたい！改善提案で気をつけている5つのこと</title>
+    <link rel="alternate" href="https://qiita.com/mu7kata/items/c146eb7c2885036c6b83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-02T12:47:10+09:00</updated>
+    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mu7kata&quot;&gt;mu7kata&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T12:55:05+09:00&lt;br/&gt;Updated: 2026-07-02T12:47:10+09:00&lt;br/&gt;はじめに
+私はこれまで「チームをもっと良くしたい」という気持ちはありつつも、今の自分の立場でどこまで意見を出してよいのか、どう伝えれば前向きに受け取ってもらえるのかなど、改善提案の仕方に悩んだり、思うように進められず苦労した経験があります。
+この記事では、今までの経験を踏...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b2d530aa21b6c998370b</id>
@@ -1204,15 +1224,6 @@ Linuxを日常的に使っていると、「もっと速くできないか？」
 しかし、クオンツトレーダーにとって最初に重要なのは、未来の価格を正確に当てることではありません。...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c146eb7c2885036c6b83</id>
-    <title>開発チームを良くしたい！改善提案で気をつけている5つのこと</title>
-    <link rel="alternate" href="https://qiita.com/mu7kata/items/c146eb7c2885036c6b83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-02T12:47:10+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mu7kata&quot;&gt;mu7kata&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T12:55:05+09:00&lt;br/&gt;Updated: 2026-07-02T12:47:10+09:00&lt;br/&gt;はじめに
-私はこれまで「チームをもっと良くしたい」という気持ちはありつつも、今の自分の立場でどこまで意見を出してよいのか、どう伝えれば前向きに受け取ってもらえるのかなど、改善提案の仕方に悩んだり、思うように進められず苦労した経験があります。
-この記事では、今までの経験を踏...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:803300d3453daaaf48ce</id>
     <title>ping、tracerouteコマンドを使用した、SSHできない時の切り分け方</title>
     <link rel="alternate" href="https://qiita.com/M_waowaowao/items/803300d3453daaaf48ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1285,17 +1296,6 @@ AIスタートアップでCEO兼CTOをしています。
 オープンソース(※商用サポートは有料)で、幅広い用途で使用されて...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:7d06434cf830df9c54ff</id>
-    <title>【ハンズオン】AgentCore最新機能でRAG &amp; AIエージェント構築に入門！</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/7d06434cf830df9c54ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-02T16:51:13+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T01:32:50+09:00&lt;br/&gt;Updated: 2026-07-02T16:51:13+09:00&lt;br/&gt;このイベント用のハンズオン手順ですが、どなたでも好きなときに試せます！（30分〜1時間目安）
-
-これをローコードでサクッと作ります。
-
-残念なことに最近、新規作成したばかりのAWSアカウント（特に会社契約でないもの）では、Bedrockのモデル呼び出しクォータが既定で0...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:5c96232d188ecfb2544b</id>
     <title>【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA</title>
     <link rel="alternate" href="https://qiita.com/yuyanz/items/5c96232d188ecfb2544b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1357,6 +1357,17 @@ AIスタートアップでCEO兼CTOをしています。
 パソコンを使うときは大体がゲームかYoutubeだった私が
 Linuxを学び、黒い画面（CUI）と向き合った新卒研修で学んだことや、
 自分で調べてみたことを書き連ねていきますので、どうか最後までよろしくお願いし...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:aa2b8f3e8112228ca46c</id>
+    <title>コードを書く前に知っておきたかった、開発現場の5つのステップ</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/aa2b8f3e8112228ca46c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-02T09:59:27+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T09:59:26+09:00&lt;br/&gt;Updated: 2026-07-02T09:59:27+09:00&lt;br/&gt;はじめまして。
+株式会社PRUMのmasaです。
+今日は現場の開発フロー全体を知り、実装前後の工程の意図を理解してから実装することで何が変わるのかを、エンジニア初心者向けに書いてみました。興味がある方は読んでいただけると嬉しいです。
+
+一つの機能ができるまでには5つのステッ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:473ff0aacea13ad2fdd3</id>
@@ -1477,6 +1488,16 @@ Microsoftの公式サイトや各種ホワイトペーパーには、「生産�
 ただ、このような事例はどこかキレイすぎて、ピン...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5299101bce85b5970776</id>
+    <title>RailsとDBインデックス 〜なぜ index があると速いのか〜</title>
+    <link rel="alternate" href="https://qiita.com/akachiryo/items/5299101bce85b5970776?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-02T12:22:03+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T12:22:03+09:00&lt;br/&gt;Updated: 2026-07-02T12:22:03+09:00&lt;br/&gt;お疲れ様です！
+シリーズで計算量やレースコンディションを書いてきましたが、今回は DBインデックス です 
+「indexを貼ると速くなる」は知っていても、なぜ速いのか／どこに貼るべきかまで説明できると強いので、そこをまとめてみました。
+興味ある方は読んでいただけると嬉しいで...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:025683560974d762fa85</id>
     <title>Railsで学ぶ DFS / BFS 入門 〜「深さ優先」と「幅優先」で木構造をたどる〜</title>
     <link rel="alternate" href="https://qiita.com/akachiryo/items/025683560974d762fa85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1552,6 +1573,18 @@ cdコマンド...</summary>
 サンプ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:42ff4d8f736f45eb8c59</id>
+    <title>Railsで学ぶ レースコンディション 〜二重登録の罠〜</title>
+    <link rel="alternate" href="https://qiita.com/akachiryo/items/42ff4d8f736f45eb8c59?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-01T12:38:36+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-01T12:38:36+09:00&lt;br/&gt;Updated: 2026-07-01T12:38:36+09:00&lt;br/&gt;お疲れ様です！
+シリーズで並行性・パフォーマンスの話を書いてきましたが、今回は レースコンディション（競合状態） をまとめてみました 
+「ローカルでは再現しないのに、本番でたまに二重登録される…」の正体です。
+興味ある方は読んでいただけると嬉しいです 
+
+レースコンディショ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d1c08a55a373897d38d5</id>
     <title>【PHP】PHP最大の問題点はこれだ！！</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/d1c08a55a373897d38d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1624,39 +1657,6 @@ cdコマンド...</summary>
 AWSは2026年5月11日、Claude Platform on AWSの一般提供開始を発表しました。東京リージョンでも利用可能になっています。
 
 Claude Platform on AWSは、Anthropicが提供するネイティブなClaude Platf...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5299101bce85b5970776</id>
-    <title>RailsとDBインデックス 〜なぜ index があると速いのか〜</title>
-    <link rel="alternate" href="https://qiita.com/akachiryo/items/5299101bce85b5970776?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-02T12:22:03+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T12:22:03+09:00&lt;br/&gt;Updated: 2026-07-02T12:22:03+09:00&lt;br/&gt;お疲れ様です！
-シリーズで計算量やレースコンディションを書いてきましたが、今回は DBインデックス です 
-「indexを貼ると速くなる」は知っていても、なぜ速いのか／どこに貼るべきかまで説明できると強いので、そこをまとめてみました。
-興味ある方は読んでいただけると嬉しいで...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:aa2b8f3e8112228ca46c</id>
-    <title>コードを書く前に知っておきたかった、開発現場の5つのステップ</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/aa2b8f3e8112228ca46c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-02T09:59:27+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T09:59:26+09:00&lt;br/&gt;Updated: 2026-07-02T09:59:27+09:00&lt;br/&gt;はじめまして。
-株式会社PRUMのmasaです。
-今日は現場の開発フロー全体を知り、実装前後の工程の意図を理解してから実装することで何が変わるのかを、エンジニア初心者向けに書いてみました。興味がある方は読んでいただけると嬉しいです。
-
-一つの機能ができるまでには5つのステッ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:42ff4d8f736f45eb8c59</id>
-    <title>Railsで学ぶ レースコンディション 〜二重登録の罠〜</title>
-    <link rel="alternate" href="https://qiita.com/akachiryo/items/42ff4d8f736f45eb8c59?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-01T12:38:36+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-01T12:38:36+09:00&lt;br/&gt;Updated: 2026-07-01T12:38:36+09:00&lt;br/&gt;お疲れ様です！
-シリーズで並行性・パフォーマンスの話を書いてきましたが、今回は レースコンディション（競合状態） をまとめてみました 
-「ローカルでは再現しないのに、本番でたまに二重登録される…」の正体です。
-興味ある方は読んでいただけると嬉しいです 
-
-レースコンディショ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3060140b10a9a35021f4</id>
