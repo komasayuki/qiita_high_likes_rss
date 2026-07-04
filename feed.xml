@@ -1264,6 +1264,18 @@ AIスタートアップでCEO兼CTOをしています。
 僕の会社では、約10人月の受託開発が2週間で、自社プロダクトは「開発〜リリース」が5日で終わるようになりました。支えているのは、Claude Co...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:97d9d9b7ed0064f7433e</id>
+    <title>手順不足と知識不足は分けて考えた方がいいと思う話</title>
+    <link rel="alternate" href="https://qiita.com/shige-h/items/97d9d9b7ed0064f7433e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-02T18:50:43+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shige-h&quot;&gt;shige-h&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T18:50:42+09:00&lt;br/&gt;Updated: 2026-07-02T18:50:43+09:00&lt;br/&gt;手順不足と知識不足は分けて考えた方がいいと思う話
+
+はじめに
+プロジェクトでメンバーが詰まったとき、「手順書を追加する」「手順書を詳しくする」という対応が行われることがあります。
+もちろん手順不足が原因の場合もあります。
+しかし、実際には知識不足が原因で詰まっているにもか...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f02c34ae6dc994cd3084</id>
     <title>【新入社員研修】Linuxの基本操作</title>
     <link rel="alternate" href="https://qiita.com/cookiepunch/items/f02c34ae6dc994cd3084?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1381,6 +1393,20 @@ Linuxを学び、黒い画面（CUI）と向き合った新卒研修で学んだ
 僕はやってました。むしろ「効率化のための...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d442ed23d24245b789a0</id>
+    <title>トークンをケチるな、設計しろ：GitHub Copilotを賢く使うコンテキスト戦略</title>
+    <link rel="alternate" href="https://qiita.com/ochtum/items/d442ed23d24245b789a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-02T02:03:35+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ochtum&quot;&gt;ochtum&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T01:59:06+09:00&lt;br/&gt;Updated: 2026-07-02T02:03:35+09:00&lt;br/&gt;※お役に立てたらストック、いいねをよろしくお願いします！！
+
+＜📝本記事のターゲット層＞
+
+GitHub Copilot ChatやAgent modeを業務で使い始めた方
+MCPやAgent Skillsを導入している、または導入を検討している方
+
+AGENTS.m...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:42635251d8e2641cb50c</id>
     <title>AI駆動開発のセキュリティツール、結局なにを入れればいい？</title>
     <link rel="alternate" href="https://qiita.com/udowanllc/items/42635251d8e2641cb50c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1428,18 +1454,6 @@ Claude Codeを使い始めてしばらく経つと、こんな壁にぶつかり
 「毎回同じ説明をしている」 — セッションが切れるたびにプロジェクトの背景を一から説明する
 
 「コード生成はできるけど専門的なレビューが薄い」 — セキュリティや設計の観点が足り...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:97d9d9b7ed0064f7433e</id>
-    <title>手順不足と知識不足は分けて考えた方がいいと思う話</title>
-    <link rel="alternate" href="https://qiita.com/shige-h/items/97d9d9b7ed0064f7433e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-02T18:50:43+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shige-h&quot;&gt;shige-h&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T18:50:42+09:00&lt;br/&gt;Updated: 2026-07-02T18:50:43+09:00&lt;br/&gt;手順不足と知識不足は分けて考えた方がいいと思う話
-
-はじめに
-プロジェクトでメンバーが詰まったとき、「手順書を追加する」「手順書を詳しくする」という対応が行われることがあります。
-もちろん手順不足が原因の場合もあります。
-しかし、実際には知識不足が原因で詰まっているにもか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5299101bce85b5970776</id>
@@ -1564,20 +1578,6 @@ cdコマンド...</summary>
 この記事は、Pythonにちょっと慣れてきてぶつかりそうな壁のひとつであるリストについてを簡単にまとめたものになります。こういう感じなんだなぁとなれば幸いです。
 なお、変数やprint、inputなどについてはなんとなく理解している体で説明します。
 サンプ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d442ed23d24245b789a0</id>
-    <title>トークンをケチるな、設計しろ：GitHub Copilotを賢く使うコンテキスト戦略</title>
-    <link rel="alternate" href="https://qiita.com/ochtum/items/d442ed23d24245b789a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-02T02:03:35+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ochtum&quot;&gt;ochtum&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T01:59:06+09:00&lt;br/&gt;Updated: 2026-07-02T02:03:35+09:00&lt;br/&gt;※お役に立てたらストック、いいねをよろしくお願いします！！
-
-＜📝本記事のターゲット層＞
-
-GitHub Copilot ChatやAgent modeを業務で使い始めた方
-MCPやAgent Skillsを導入している、または導入を検討している方
-
-AGENTS.m...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d1c08a55a373897d38d5</id>
