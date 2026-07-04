@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-07-02T16:51:13+09:00</updated>
+  <updated>2026-07-02T18:50:43+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -875,6 +875,17 @@ Claude Code / Cursor / Copilot などの AIエージェントをチームに導�
 会社が変わって...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7d06434cf830df9c54ff</id>
+    <title>【ハンズオン】AgentCore最新機能でRAG &amp; AIエージェント構築に入門！</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/7d06434cf830df9c54ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-02T16:51:13+09:00</updated>
+    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T01:32:50+09:00&lt;br/&gt;Updated: 2026-07-02T16:51:13+09:00&lt;br/&gt;このイベント用のハンズオン手順ですが、どなたでも好きなときに試せます！（30分〜1時間目安）
+
+これをローコードでサクッと作ります。
+
+残念なことに最近、新規作成したばかりのAWSアカウント（特に会社契約でないもの）では、Bedrockのモデル呼び出しクォータが既定で0...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c69fab7dfb1d48ba8b31</id>
     <title>「そのコード、勝手に使って大丈夫？」IT初心者が最初に知るべき“著作権”の話</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/c69fab7dfb1d48ba8b31?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -932,17 +943,6 @@ GMOコネクトの平島です。
 この光景...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:7d06434cf830df9c54ff</id>
-    <title>【ハンズオン】AgentCore最新機能でRAG &amp; AIエージェント構築に入門！</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/7d06434cf830df9c54ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-02T16:51:13+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T01:32:50+09:00&lt;br/&gt;Updated: 2026-07-02T16:51:13+09:00&lt;br/&gt;このイベント用のハンズオン手順ですが、どなたでも好きなときに試せます！（30分〜1時間目安）
-
-これをローコードでサクッと作ります。
-
-残念なことに最近、新規作成したばかりのAWSアカウント（特に会社契約でないもの）では、Bedrockのモデル呼び出しクォータが既定で0...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:90db7bf21b6546fce911</id>
     <title>Railsで学ぶ計算量（Big-O）入門 〜「なんとなく速い／遅い」を言葉にする〜</title>
     <link rel="alternate" href="https://qiita.com/akachiryo/items/90db7bf21b6546fce911?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -978,7 +978,7 @@ GMOコネクトの平島です。
     <title>「何の言語を学べばいいかわからない」と迷う方へ — Web開発の主要5言語を整理してみた</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/8de518e172395d48a269?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-07-01T09:24:41+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-07-01T09:24:40+09:00&lt;br/&gt;Updated: 2026-07-01T09:24:41+09:00&lt;br/&gt;こんにちは。
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-07-01T09:24:40+09:00&lt;br/&gt;Updated: 2026-07-01T09:24:41+09:00&lt;br/&gt;こんにちは。
 株式会社PRUMのmasaです。
 今回は、Web開発における主要5言語について、『どんな現場で使われているのか』『何が得意なのか』という視点で整理しました。
 言語選びで迷われている方の助けになれば幸いです。
@@ -1952,6 +1952,18 @@ enumを使っているが、ケース追加時の漏れが怖い人
 保守しやすい条件分岐の書き方をマスタ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:97d9d9b7ed0064f7433e</id>
+    <title>手順不足と知識不足は分けて考えた方がいいと思う話</title>
+    <link rel="alternate" href="https://qiita.com/shige-h/items/97d9d9b7ed0064f7433e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-02T18:50:43+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shige-h&quot;&gt;shige-h&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T18:50:42+09:00&lt;br/&gt;Updated: 2026-07-02T18:50:43+09:00&lt;br/&gt;手順不足と知識不足は分けて考えた方がいいと思う話
+
+はじめに
+プロジェクトでメンバーが詰まったとき、「手順書を追加する」「手順書を詳しくする」という対応が行われることがあります。
+もちろん手順不足が原因の場合もあります。
+しかし、実際には知識不足が原因で詰まっているにもか...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fd13ea9436bbb3985dfc</id>
     <title>あなたの.envはDockerイメージに焼き込まれ、誰でも抜き出せる</title>
     <link rel="alternate" href="https://qiita.com/kenimo49/items/fd13ea9436bbb3985dfc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2171,6 +2183,20 @@ NotebookLMの登場により、AIを使った新しい学習方法が少しず�
 NotebookLMでは、PDF・Webページ・ドキュメントなどのリソースをもとに、AIと対...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d442ed23d24245b789a0</id>
+    <title>トークンをケチるな、設計しろ：GitHub Copilotを賢く使うコンテキスト戦略</title>
+    <link rel="alternate" href="https://qiita.com/ochtum/items/d442ed23d24245b789a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-02T02:03:35+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ochtum&quot;&gt;ochtum&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T01:59:06+09:00&lt;br/&gt;Updated: 2026-07-02T02:03:35+09:00&lt;br/&gt;※お役に立てたらストック、いいねをよろしくお願いします！！
+
+＜📝本記事のターゲット層＞
+
+GitHub Copilot ChatやAgent modeを業務で使い始めた方
+MCPやAgent Skillsを導入している、または導入を検討している方
+
+AGENTS.m...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bab35c7b58a664d3b8f1</id>
     <title>Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2189,26 +2215,5 @@ settings.json の p...</summary>
 小生、未経験から開発職について早一年。
 今やどんなソースもガリレオのように解読し、もう八面六臂の大活躍で上司もにんまり。
 なんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないので...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b75ebc3e17afa9780381</id>
-    <title>育休中にTOEIC900超えた話とその勉強法【スコア推移あり】</title>
-    <link rel="alternate" href="https://qiita.com/satomiii/items/b75ebc3e17afa9780381?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-16T09:32:57+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satomiii&quot;&gt;satomiii&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T09:32:57+09:00&lt;br/&gt;Updated: 2026-06-16T09:32:57+09:00&lt;br/&gt;TOEIC900を目指そうと思ったきっかけ
-
-もともと英語が好きだったから
-前職が外資系で海外のスタッフと会話することもあったが、自分の英語のできなさを痛感したから
-自分の性格上、900とらないと満足しないと思ったから（これが大きい）
-育休中、何か数字で見える結果が欲しか...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:eee10528b403baf89631</id>
-    <title>AI Readyな設計書を目指して。人もAIも読みやすい設計書管理</title>
-    <link rel="alternate" href="https://qiita.com/grhg/items/eee10528b403baf89631?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-16T00:51:12+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/grhg&quot;&gt;grhg&lt;/a&gt;&lt;br/&gt;Published: 2026-06-13T04:48:08+09:00&lt;br/&gt;Updated: 2026-06-16T00:51:12+09:00&lt;br/&gt;はじめに
-以前、設計書はMarkdownで管理してPDFに自動変換しよう！ という記事で、設計書を Markdown で管理していく話を書きました。
-ここではその発展形として、Markdown で管理した設計書を HTML として公開し、GitHub 上でのレビューや A...</summary>
   </entry>
 </feed>
