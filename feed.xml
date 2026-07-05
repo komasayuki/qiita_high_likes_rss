@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-07-02T18:50:43+09:00</updated>
+  <updated>2026-07-05T11:59:41+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -976,6 +976,18 @@ GMOコネクトの平島です。
 本記事では、エンジニアがより成長するために必要な考え方について 「脳科学」 の側面から切り込ん...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:97d9d9b7ed0064f7433e</id>
+    <title>手順不足と知識不足は分けて考えた方がいいと思う話</title>
+    <link rel="alternate" href="https://qiita.com/shige-h/items/97d9d9b7ed0064f7433e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-02T18:50:43+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shige-h&quot;&gt;shige-h&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T18:50:42+09:00&lt;br/&gt;Updated: 2026-07-02T18:50:43+09:00&lt;br/&gt;手順不足と知識不足は分けて考えた方がいいと思う話
+
+はじめに
+プロジェクトでメンバーが詰まったとき、「手順書を追加する」「手順書を詳しくする」という対応が行われることがあります。
+もちろん手順不足が原因の場合もあります。
+しかし、実際には知識不足が原因で詰まっているにもか...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:dff3c8a2a0ee563ca16f</id>
     <title>VRAM 12GBでQwen 35Bを動かす — エキスパートをGPUに載せないほど速くなった話</title>
     <link rel="alternate" href="https://qiita.com/kenimo49/items/dff3c8a2a0ee563ca16f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1106,18 +1118,6 @@ TL;DR
 興味ある方は読んでいただけると嬉しいです ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:97d9d9b7ed0064f7433e</id>
-    <title>手順不足と知識不足は分けて考えた方がいいと思う話</title>
-    <link rel="alternate" href="https://qiita.com/shige-h/items/97d9d9b7ed0064f7433e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-02T18:50:43+09:00</updated>
-    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shige-h&quot;&gt;shige-h&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T18:50:42+09:00&lt;br/&gt;Updated: 2026-07-02T18:50:43+09:00&lt;br/&gt;手順不足と知識不足は分けて考えた方がいいと思う話
-
-はじめに
-プロジェクトでメンバーが詰まったとき、「手順書を追加する」「手順書を詳しくする」という対応が行われることがあります。
-もちろん手順不足が原因の場合もあります。
-しかし、実際には知識不足が原因で詰まっているにもか...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b2d530aa21b6c998370b</id>
     <title>Copilot Coworkでブラウザ操作できるようになったのはもっと話題になっていい</title>
     <link rel="alternate" href="https://qiita.com/Oyu3m/items/b2d530aa21b6c998370b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1137,6 +1137,17 @@ TL;DR
 
 はじめに
 Linuxを日常的に使っていると、「もっと速くできないか？」と感じる場...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:cc3be5930b972130885d</id>
+    <title>バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと</title>
+    <link rel="alternate" href="https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-05T11:59:41+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yutaka_kozuka&quot;&gt;yutaka_kozuka&lt;/a&gt;&lt;br/&gt;Published: 2026-07-03T12:06:16+09:00&lt;br/&gt;Updated: 2026-07-05T11:59:41+09:00&lt;br/&gt;TL;DR
+Q: バイブコーディングで本当にアプリをリリースできるのか？
+A: できました。ただし「商用・セキュア」という条件では、非エンジニアにはまだ厳しいと感じました。
+
+AI英語学習アプリをゼロから個人開発し、Web・iOS App Store の両方でリリースでき...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:690bf3299706d40d4532</id>
@@ -1837,6 +1848,17 @@ WEBアプリケーションエンジニアとして活動しているPOMです�
 これまでデータ分析を学ぶには、Explora...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6eefccb7361f64607865</id>
+    <title>新しいHTTPメソッド「QUERY」をHono + Bunで実装してみる</title>
+    <link rel="alternate" href="https://qiita.com/maaaashi/items/6eefccb7361f64607865?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-03T21:01:11+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/maaaashi&quot;&gt;maaaashi&lt;/a&gt;&lt;br/&gt;Published: 2026-07-03T20:58:39+09:00&lt;br/&gt;Updated: 2026-07-03T21:01:11+09:00&lt;br/&gt;先日、こんな投稿を見かけました。
+
+¡Histórico! Nuevo método HTTP para el estándar.
+Se llama QUERY y es una alternativa a GET y POST
+（新しいHTTPメソッドが標準に。名前...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:dd2e5075ea0d59ee3a36</id>
     <title>テーブル設計をskillsでレビューしてみませんか</title>
     <link rel="alternate" href="https://qiita.com/kuma_3838/items/dd2e5075ea0d59ee3a36?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2193,26 +2215,5 @@ settings.json の p...</summary>
 小生、未経験から開発職について早一年。
 今やどんなソースもガリレオのように解読し、もう八面六臂の大活躍で上司もにんまり。
 なんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないので...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b75ebc3e17afa9780381</id>
-    <title>育休中にTOEIC900超えた話とその勉強法【スコア推移あり】</title>
-    <link rel="alternate" href="https://qiita.com/satomiii/items/b75ebc3e17afa9780381?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-16T09:32:57+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satomiii&quot;&gt;satomiii&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T09:32:57+09:00&lt;br/&gt;Updated: 2026-06-16T09:32:57+09:00&lt;br/&gt;TOEIC900を目指そうと思ったきっかけ
-
-もともと英語が好きだったから
-前職が外資系で海外のスタッフと会話することもあったが、自分の英語のできなさを痛感したから
-自分の性格上、900とらないと満足しないと思ったから（これが大きい）
-育休中、何か数字で見える結果が欲しか...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:eee10528b403baf89631</id>
-    <title>AI Readyな設計書を目指して。人もAIも読みやすい設計書管理</title>
-    <link rel="alternate" href="https://qiita.com/grhg/items/eee10528b403baf89631?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-16T00:51:12+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/grhg&quot;&gt;grhg&lt;/a&gt;&lt;br/&gt;Published: 2026-06-13T04:48:08+09:00&lt;br/&gt;Updated: 2026-06-16T00:51:12+09:00&lt;br/&gt;はじめに
-以前、設計書はMarkdownで管理してPDFに自動変換しよう！ という記事で、設計書を Markdown で管理していく話を書きました。
-ここではその発展形として、Markdown で管理した設計書を HTML として公開し、GitHub 上でのレビューや A...</summary>
   </entry>
 </feed>
