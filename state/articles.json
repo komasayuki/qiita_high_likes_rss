@@ -2725,18 +2725,6 @@
       "last_seen": "2026-05-23T07:09:06.669759773+00:00"
     },
     {
-      "key": "74103e76c26b55596f7a",
-      "item_id": "74103e76c26b55596f7a",
-      "title": "AIがコードを書く時代に、なぜRの可読性が重要になるのか",
-      "link": "https://qiita.com/KanNishida/items/74103e76c26b55596f7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "AIによって、データ分析のコードを書くハードルは大きく下がりました。\n自然言語でやりたいことを説明すれば、RでもPythonでもSQLでも、かなり実用的なコードが生成されます。\nこれは、データ分析の世界にとって大きな変化です。\nこれまでデータ分析を学ぶには、Explora...",
-      "published": "2026-05-05T12:19:00+09:00",
-      "updated": "2026-05-05T12:19:00+09:00",
-      "author_name": "KanNishida",
-      "likes_count": 31,
-      "last_seen": "2026-05-08T07:42:48.122373579+00:00"
-    },
-    {
       "key": "74212606fbf4f01d82dd",
       "item_id": "74212606fbf4f01d82dd",
       "title": "Claude Codeの dataviz スキルが凄かった",
@@ -3107,6 +3095,18 @@
       "author_name": "miruky",
       "likes_count": 10,
       "last_seen": "2026-06-06T01:14:39.740992885+00:00"
+    },
+    {
+      "key": "82798a46964718f6bdb0",
+      "item_id": "82798a46964718f6bdb0",
+      "title": "Dockerfileは分けない〜本番用とローカル用を1つに保つ方法🐳",
+      "link": "https://qiita.com/H-Hoshihara/items/82798a46964718f6bdb0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n新卒研修にてコンテナアプリケーションを構築する機会がありました。\n以前、Dockerfileを本番用とローカル用で分けている現場を見たことがあったため、今回はその是非も含めて「本番環境とローカル環境でDockerfileを分けるべきか」検討しました。\n本記事は、...",
+      "published": "2026-07-06T02:32:58+09:00",
+      "updated": "2026-07-06T02:32:58+09:00",
+      "author_name": "H-Hoshihara",
+      "likes_count": 10,
+      "last_seen": "2026-07-07T08:34:41.398343323+00:00"
     },
     {
       "key": "8290227346c099e84b1c",
@@ -3503,18 +3503,6 @@
       "author_name": "hosomatu",
       "likes_count": 72,
       "last_seen": "2026-05-12T19:43:50.896196094+00:00"
-    },
-    {
-      "key": "95b6c49cfdd148898689",
-      "item_id": "95b6c49cfdd148898689",
-      "title": "Zustandを使って気づいた、もっと早く知りたかった7つのこと",
-      "link": "https://qiita.com/nhatcaofedev/items/95b6c49cfdd148898689?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nReactアプリが大きくなってくると、「prop drilling」という問題に直面します。コンポーネントツリーの深い場所にあるコンポーネントにstateを渡すために、3〜4層を経由してpropsをバケツリレーしていく、あの問題です。よく使われる解決策は us...",
-      "published": "2026-05-06T11:27:25+09:00",
-      "updated": "2026-05-06T11:27:25+09:00",
-      "author_name": "nhatcaofedev",
-      "likes_count": 16,
-      "last_seen": "2026-05-08T07:42:48.122373579+00:00"
     },
     {
       "key": "95f753e222480c5198e5",
@@ -5121,8 +5109,8 @@
       "published": "2026-07-05T20:51:26+09:00",
       "updated": "2026-07-07T02:14:53+09:00",
       "author_name": "kenimo49",
-      "likes_count": 56,
-      "last_seen": "2026-07-07T05:03:01.689362782+00:00"
+      "likes_count": 68,
+      "last_seen": "2026-07-07T08:34:41.398343323+00:00"
     },
     {
       "key": "d1601e07ba3a125bc714",
@@ -5217,8 +5205,8 @@
       "published": "2026-07-06T12:20:19+09:00",
       "updated": "2026-07-06T12:20:20+09:00",
       "author_name": "masa20057",
-      "likes_count": 60,
-      "last_seen": "2026-07-07T05:03:01.689362782+00:00"
+      "likes_count": 63,
+      "last_seen": "2026-07-07T08:34:41.398343323+00:00"
     },
     {
       "key": "d442ed23d24245b789a0",
@@ -6093,8 +6081,8 @@
       "published": "2026-07-06T23:42:23+09:00",
       "updated": "2026-07-06T23:42:23+09:00",
       "author_name": "i-icc",
-      "likes_count": 32,
-      "last_seen": "2026-07-07T05:03:01.689362782+00:00"
+      "likes_count": 37,
+      "last_seen": "2026-07-07T08:34:41.398343323+00:00"
     },
     {
       "key": "fb0e061b31545cb3c0c4",
