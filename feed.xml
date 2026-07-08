@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-07-07T21:40:05+09:00</updated>
+  <updated>2026-07-08T10:26:24+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -34,7 +34,7 @@ LLMは気づいたら値上がり。最新モデルは限定公開。ローカ�
     <title>『めっちゃカメレオン』のサーバー代0円ってまじ？</title>
     <link rel="alternate" href="https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-07-07T21:40:05+09:00</updated>
-    <summary type="html">Likes: 231&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/i-icc&quot;&gt;i-icc&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T23:42:23+09:00&lt;br/&gt;Updated: 2026-07-07T21:40:05+09:00&lt;br/&gt;めっちゃカメレオン、流行ってますね
+    <summary type="html">Likes: 260&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/i-icc&quot;&gt;i-icc&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T23:42:23+09:00&lt;br/&gt;Updated: 2026-07-07T21:40:05+09:00&lt;br/&gt;めっちゃカメレオン、流行ってますね
 真っ白な体に絵を描いてステージに擬態する、新感覚のかくれんぼゲーム『めっちゃカメレオン』。
 気づいたら世界的ヒットですよ
 この記事執筆時点で 1500 万本突破ってやばすぎないですか？
@@ -324,7 +324,7 @@ Qiita上には素晴らしい先人の方の記事として、「不思議の国
     <title>1Passwordは、あなたのマスターパスワードを一度も受信していません</title>
     <link rel="alternate" href="https://qiita.com/kenimo49/items/d1151389d17e50ad5564?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-07-07T02:14:53+09:00</updated>
-    <summary type="html">Likes: 113&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-07-05T20:51:26+09:00&lt;br/&gt;Updated: 2026-07-07T02:14:53+09:00&lt;br/&gt;1Password のログイン時、マスターパスワードは 1Password のサーバに一度も送信されていません。
+    <summary type="html">Likes: 115&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-07-05T20:51:26+09:00&lt;br/&gt;Updated: 2026-07-07T02:14:53+09:00&lt;br/&gt;1Password のログイン時、マスターパスワードは 1Password のサーバに一度も送信されていません。
 少し前まで、私はこれを知りませんでした。パスワードマネージャーなのだから、当然サーバがマスターパスワードを受け取るのだろうと思っていたのです。それで暗号化された...</summary>
   </entry>
   <entry>
@@ -456,6 +456,15 @@ Kindleを使っていて気になったのですが、Kindleの背景色の設�
 私自身は、Kindleでは黒背景だと目が滑るような気がして、白背景を使うことが...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d3c540c868c3413704b7</id>
+    <title>「保守業務って地味…」と思っていた新人の自分へ</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/d3c540c868c3413704b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-06T12:20:20+09:00</updated>
+    <summary type="html">Likes: 93&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T12:20:19+09:00&lt;br/&gt;Updated: 2026-07-06T12:20:20+09:00&lt;br/&gt;こんにちは。
+株式会社PRUMのmasaです。
+新人エンジニアが最初に配属されやすい「保守・運用」の仕事について、現場のリアルな実態と、そこでしか身につかない成長の機会を紹介します。「保守は地味で成長できない仕事」というイメージを持っている方に、少し違う視点が届けば嬉しいで...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:30ed3d885da5bb605460</id>
     <title>「自分にエンジニアなんて無理かも」と思ってる人へ。最初に知ってほしい“仕事の進め方”</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/30ed3d885da5bb605460?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -476,15 +485,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 今日はシステムを支える5つの要素についてプログラミング初心者向けに記事を書きました。この記事を読むことで、点だった知識が線に繋がり、システム全体のイメージを掴めると思います。
 興味があれば読んで頂けると嬉しいです。
 PRUMについて興味が...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d3c540c868c3413704b7</id>
-    <title>「保守業務って地味…」と思っていた新人の自分へ</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/d3c540c868c3413704b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-06T12:20:20+09:00</updated>
-    <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T12:20:19+09:00&lt;br/&gt;Updated: 2026-07-06T12:20:20+09:00&lt;br/&gt;こんにちは。
-株式会社PRUMのmasaです。
-新人エンジニアが最初に配属されやすい「保守・運用」の仕事について、現場のリアルな実態と、そこでしか身につかない成長の機会を紹介します。「保守は地味で成長できない仕事」というイメージを持っている方に、少し違う視点が届けば嬉しいで...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cc3be5930b972130885d</id>
@@ -650,17 +650,6 @@ Raspberry Pi単独構成から始まり、RAID崩壊・マスター消滅・NFS�
 私は、ソフトウェアエンジニアリングの 設計書をほぼ Markdown で作成しています。
 業務要件、ユースケース一覧、サービス記述書、API 仕様、ADR、ナレッジベース。気づけば、社内外で扱うドキュメントの大半が Markdown になっていました。
 さらに、最近...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5361d45554872a39da92</id>
-    <title>【公式】レトロゲームエンジンPyxelが動く仕組み</title>
-    <link rel="alternate" href="https://qiita.com/kitao/items/5361d45554872a39da92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-06T16:44:51+09:00</updated>
-    <summary type="html">Likes: 78&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T16:20:14+09:00&lt;br/&gt;Updated: 2026-05-06T16:44:51+09:00&lt;br/&gt;はじめに
-Pyxel 作者です。皆さん、いつもレトロゲームエンジン Pyxel をご利用いただきありがとうございます。
-
-ゴールデンウィーク、いかがお過ごしでしょうか。せっかくのお休みなので、今日はちょっと Pyxel の裏側っぽい話を書いてみたいと思います。
-（そもそも...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:dd17a285217a15841a3a</id>
@@ -1309,6 +1298,18 @@ AIスタートアップでCEO兼CTOをしています。
 
 ・ Linuxとは
 オープンソース(※商用サポートは有料)で、幅広い用途で使用されて...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:daef8174d2f43485371f</id>
+    <title>未経験からエンジニアを目指す方へ。「早く独立したい」と焦っていた頃の話</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/daef8174d2f43485371f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-08T10:26:24+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-07-08T10:26:19+09:00&lt;br/&gt;Updated: 2026-07-08T10:26:24+09:00&lt;br/&gt;こんにちは。
+株式会社PRUMのmasaです。
+今日は未経験からエンジニアの独立に憧れる方へ向けて、当時独立したいと焦っていた私が現場での経験を通して気づいたことをお話しします。
+
+なぜ「早く独立したい」と思うのか
+前職の頃、私は「早く独立して自由に働きたい」とずっと考えて...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5c96232d188ecfb2544b</id>
