@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-07-08T10:26:24+09:00</updated>
+  <updated>2026-07-09T12:28:30+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -34,7 +34,7 @@ LLMは気づいたら値上がり。最新モデルは限定公開。ローカ�
     <title>『めっちゃカメレオン』のサーバー代0円ってまじ？</title>
     <link rel="alternate" href="https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-07-07T21:40:05+09:00</updated>
-    <summary type="html">Likes: 311&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/i-icc&quot;&gt;i-icc&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T23:42:23+09:00&lt;br/&gt;Updated: 2026-07-07T21:40:05+09:00&lt;br/&gt;めっちゃカメレオン、流行ってますね
+    <summary type="html">Likes: 339&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/i-icc&quot;&gt;i-icc&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T23:42:23+09:00&lt;br/&gt;Updated: 2026-07-07T21:40:05+09:00&lt;br/&gt;めっちゃカメレオン、流行ってますね
 真っ白な体に絵を描いてステージに擬態する、新感覚のかくれんぼゲーム『めっちゃカメレオン』。
 気づいたら世界的ヒットですよ
 この記事執筆時点で 1500 万本突破ってやばすぎないですか？
@@ -424,6 +424,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 1...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d3c540c868c3413704b7</id>
+    <title>「保守業務って地味…」と思っていた新人の自分へ</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/d3c540c868c3413704b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-06T12:20:20+09:00</updated>
+    <summary type="html">Likes: 99&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T12:20:19+09:00&lt;br/&gt;Updated: 2026-07-06T12:20:20+09:00&lt;br/&gt;こんにちは。
+株式会社PRUMのmasaです。
+新人エンジニアが最初に配属されやすい「保守・運用」の仕事について、現場のリアルな実態と、そこでしか身につかない成長の機会を紹介します。「保守は地味で成長できない仕事」というイメージを持っている方に、少し違う視点が届けば嬉しいで...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0aac69d8a962d2413d9d</id>
     <title>【悲報】100万台のAIサービスをスキャンしたら「史上最悪のセキュリティ」だった件</title>
     <link rel="alternate" href="https://qiita.com/emi_ndk/items/0aac69d8a962d2413d9d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -444,15 +453,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 社内で Claude Code / Cursor / Codex / ChatGPT などの AI コーディング支援を 本気で業務利用したい エンジニア
 「リスクが…」で却下され続けて、情シスに見せられる具体的な技術対策が欲しい チームリーダー
 情シ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d3c540c868c3413704b7</id>
-    <title>「保守業務って地味…」と思っていた新人の自分へ</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/d3c540c868c3413704b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-06T12:20:20+09:00</updated>
-    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T12:20:19+09:00&lt;br/&gt;Updated: 2026-07-06T12:20:20+09:00&lt;br/&gt;こんにちは。
-株式会社PRUMのmasaです。
-新人エンジニアが最初に配属されやすい「保守・運用」の仕事について、現場のリアルな実態と、そこでしか身につかない成長の機会を紹介します。「保守は地味で成長できない仕事」というイメージを持っている方に、少し違う視点が届けば嬉しいで...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1609d7989268aa3e35bf</id>
@@ -1162,6 +1162,18 @@ TL;DR
 Linuxを日常的に使っていると、「もっと速くできないか？」と感じる場...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:daef8174d2f43485371f</id>
+    <title>未経験からエンジニアを目指す方へ。「早く独立したい」と焦っていた頃の話</title>
+    <link rel="alternate" href="https://qiita.com/masa20057/items/daef8174d2f43485371f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-08T10:26:24+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-07-08T10:26:19+09:00&lt;br/&gt;Updated: 2026-07-08T10:26:24+09:00&lt;br/&gt;こんにちは。
+株式会社PRUMのmasaです。
+今日は未経験からエンジニアの独立に憧れる方へ向けて、当時独立したいと焦っていた私が現場での経験を通して気づいたことをお話しします。
+
+なぜ「早く独立したい」と思うのか
+前職の頃、私は「早く独立して自由に働きたい」とずっと考えて...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:690bf3299706d40d4532</id>
     <title>【| ! ~ ` ^ * \】← これ、なんと読む？ 地味に困る、記号の読み方。24個一挙に確認してみないか？【まとめ】</title>
     <link rel="alternate" href="https://qiita.com/tomoki-miso/items/690bf3299706d40d4532?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1215,18 +1227,6 @@ Linuxを日常的に使っていると、「もっと速くできないか？」
 クオンツトレードというと、多くの人は「AIや統計モデルで価格を予測すること」をイメージするかもしれません。
 もちろん、予測モデルはクオンツトレードの重要な要素です。
 しかし、クオンツトレーダーにとって最初に重要なのは、未来の価格を正確に当てることではありません。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:daef8174d2f43485371f</id>
-    <title>未経験からエンジニアを目指す方へ。「早く独立したい」と焦っていた頃の話</title>
-    <link rel="alternate" href="https://qiita.com/masa20057/items/daef8174d2f43485371f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-08T10:26:24+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masa20057&quot;&gt;masa20057&lt;/a&gt;&lt;br/&gt;Published: 2026-07-08T10:26:19+09:00&lt;br/&gt;Updated: 2026-07-08T10:26:24+09:00&lt;br/&gt;こんにちは。
-株式会社PRUMのmasaです。
-今日は未経験からエンジニアの独立に憧れる方へ向けて、当時独立したいと焦っていた私が現場での経験を通して気づいたことをお話しします。
-
-なぜ「早く独立したい」と思うのか
-前職の頃、私は「早く独立して自由に働きたい」とずっと考えて...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:803300d3453daaaf48ce</id>
@@ -1724,6 +1724,15 @@ CSSやJavaScrip...</summary>
 そんな課題を解決するのが、Claude Codeのskills機能です。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4d2a551f89f6b4f94b01</id>
+    <title>Claude Code の無料セキュリティ監査プラグインで脆弱性を自動検出・修正してみる</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/4d2a551f89f6b4f94b01?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-06T20:00:39+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T20:00:39+09:00&lt;br/&gt;Updated: 2026-07-06T20:00:39+09:00&lt;br/&gt;この記事のポイント
+
+Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン security-guidance を公開しました（各メディアで紹介されたのは 5 月 27 日です）。全プランで利用でき、2026 年 6 月時点でベ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8290227346c099e84b1c</id>
     <title>キャッチアップしないと不安。── AI時代のエンジニアが罹る病 「FOMO」 と付き合う。</title>
     <link rel="alternate" href="https://qiita.com/tomoki-miso/items/8290227346c099e84b1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1786,15 +1795,6 @@ Claude Code が爆誕してから1年以上経った。
 ファインディ株式会社主催のProduct Management Summit 2026 に参加してきました！本記事では、セーフィー株式会社 石川貴夫氏のセッション「AI×独自データ×共創...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:4d2a551f89f6b4f94b01</id>
-    <title>Claude Code の無料セキュリティ監査プラグインで脆弱性を自動検出・修正してみる</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/4d2a551f89f6b4f94b01?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-06T20:00:39+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T20:00:39+09:00&lt;br/&gt;Updated: 2026-07-06T20:00:39+09:00&lt;br/&gt;この記事のポイント
-
-Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン security-guidance を公開しました（各メディアで紹介されたのは 5 月 27 日です）。全プランで利用でき、2026 年 6 月時点でベ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:2f57fda20f559b2e54ae</id>
     <title>「なぜ評価されないんだろ…」と悩むそこの君へ。優秀なエンジニアに共通する考え方。</title>
     <link rel="alternate" href="https://qiita.com/issey_dotlog/items/2f57fda20f559b2e54ae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1825,6 +1825,18 @@ QAエンジニアのふじです。
 QAエンジニアとして実務に携わって約2年が経ちました。
 私が過去に所属したプロジェクトではオフショア開発を取り入れており、
 海外ベンダーが作成したテスト方針やテストケースのレビュー、および品質改善業務を担当する機会があり...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e9ce46596969983cdb4e</id>
+    <title>【Windows標準OCR】窓キー + Shift + T キー押してますか？</title>
+    <link rel="alternate" href="https://qiita.com/kaga-yasumitsu/items/e9ce46596969983cdb4e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-09T12:28:30+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kaga-yasumitsu&quot;&gt;kaga-yasumitsu&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T10:26:56+09:00&lt;br/&gt;Updated: 2026-07-09T12:28:30+09:00&lt;br/&gt;写経、手でやる先入観にさよならを
+안녕하신게라！パナソニック コネクト株式会社クラウドソリューション部の加賀です。
+突然ですが、こんな経験ありませんか？
+
+画面に表示されたエラーメッセージやダイアログ。コピーしたいのに、選択できない！
+オンライン会議の共有画面に映った、長...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:dd2e5075ea0d59ee3a36</id>
@@ -2204,14 +2216,5 @@ settings.json の p...</summary>
 前職が外資系で海外のスタッフと会話することもあったが、自分の英語のできなさを痛感したから
 自分の性格上、900とらないと満足しないと思ったから（これが大きい）
 育休中、何か数字で見える結果が欲しか...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:eee10528b403baf89631</id>
-    <title>AI Readyな設計書を目指して。人もAIも読みやすい設計書管理</title>
-    <link rel="alternate" href="https://qiita.com/grhg/items/eee10528b403baf89631?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-16T00:51:12+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/grhg&quot;&gt;grhg&lt;/a&gt;&lt;br/&gt;Published: 2026-06-13T04:48:08+09:00&lt;br/&gt;Updated: 2026-06-16T00:51:12+09:00&lt;br/&gt;はじめに
-以前、設計書はMarkdownで管理してPDFに自動変換しよう！ という記事で、設計書を Markdown で管理していく話を書きました。
-ここではその発展形として、Markdown で管理した設計書を HTML として公開し、GitHub 上でのレビューや A...</summary>
   </entry>
 </feed>
