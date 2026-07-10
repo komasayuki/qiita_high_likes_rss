@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-07-09T14:30:12+09:00</updated>
+  <updated>2026-07-09T17:00:07+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -2158,6 +2158,17 @@ NotebookLMの登場により、AIを使った新しい学習方法が少しず�
 NotebookLMでは、PDF・Webページ・ドキュメントなどのリソースをもとに、AIと対...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:78d45bee1160d059c972</id>
+    <title>そのスキル、本当に効いてる？ Agent Skills を「評価」する3つのツールを比べてみた</title>
+    <link rel="alternate" href="https://qiita.com/Syoitu/items/78d45bee1160d059c972?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-09T17:00:07+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T16:17:51+09:00&lt;br/&gt;Updated: 2026-07-09T17:00:07+09:00&lt;br/&gt;前書き
+2025 年 10 月に Anthropic が Agent Skills（以下スキル）を発表して以来、すっかり身近な存在になりました。
+
+作業手順を SKILL.md に明文化してエージェントに渡せば、AI が書いた通りに作業してくれます。
+一見とても便利で...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bab35c7b58a664d3b8f1</id>
     <title>Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト</title>
     <link rel="alternate" href="https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2207,18 +2218,5 @@ settings.json の p...</summary>
 
 ビジネスの現場で扱うデータの多くは、きれいに数値だけで構成されているわけではありません。
 例えば、顧客データであれば「顧客セグメント」「地域」「業種」「契約プラン」、マーケティングデータで...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:19f39c1f113830e3d902</id>
-    <title>AI時代、「作れる」より「何を作るか」が面白くなってきた</title>
-    <link rel="alternate" href="https://qiita.com/muu3/items/19f39c1f113830e3d902?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-05T23:30:36+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/muu3&quot;&gt;muu3&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T23:30:36+09:00&lt;br/&gt;Updated: 2026-06-05T23:30:36+09:00&lt;br/&gt;はじめに
-私は現在、大型開発案件でエンジニア兼スクラムマスター（SM）として働いています。
-先日、チームの開発者と話していたときにこんな声が上がりました。
-
-PBI管理が面倒すぎるｗ辞めたいｗ
-AI駆動開発ならアジャイルよりウォーターフォールの方が相性良くない？
-Slac...</summary>
   </entry>
 </feed>
