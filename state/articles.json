@@ -49,18 +49,6 @@
       "last_seen": "2026-07-04T07:11:36.984191124+00:00"
     },
     {
-      "key": "00abdf19123dcd33333b",
-      "item_id": "00abdf19123dcd33333b",
-      "title": "AWS・Azure・GCPのネットワーク設計思想をIPレベルから比較する ~各サービスの比較表付き~",
-      "link": "https://qiita.com/fsitlab/items/00abdf19123dcd33333b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに：サービス対応表では見えないNW思想の違い\nAWSを使っていて、AzureやGCPも学ぼうとしたとき、まずやるのは「サービス名の対応表」を見ることだと思う。Google Cloudの公式にもAWS・AzureとGoogle Cloudのサービス比較表がある。\nEC...",
-      "published": "2026-05-10T00:28:34+09:00",
-      "updated": "2026-05-10T00:28:34+09:00",
-      "author_name": "fsitlab",
-      "likes_count": 15,
-      "last_seen": "2026-05-12T19:43:50.896196094+00:00"
-    },
-    {
       "key": "017679fdfe445a8cddb2",
       "item_id": "017679fdfe445a8cddb2",
       "title": "請負は『工数』を売っていない ― AI時代の『歪んだ物差し』論",
@@ -193,18 +181,6 @@
       "last_seen": "2026-06-02T19:29:19.727613526+00:00"
     },
     {
-      "key": "062e98d8b86161446372",
-      "item_id": "062e98d8b86161446372",
-      "title": "Copilot、AI Builder、Copilot Studio 等でドキュメント翻訳を試してみた",
-      "link": "https://qiita.com/Takashi_Masumori/items/062e98d8b86161446372?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nお客様から AI 使ってドキュメントの翻訳を行いたいという相談をいただくことがあります。もちろん、テキストにしてチャットすれば翻訳してくれます。\nしかし、お客様が求めるのは、ドキュメントをそのまま翻訳することです。グローバルにビジネス展開している場合、例えば、製...",
-      "published": "2026-05-11T07:33:40+09:00",
-      "updated": "2026-05-11T07:33:41+09:00",
-      "author_name": "Takashi_Masumori",
-      "likes_count": 12,
-      "last_seen": "2026-05-12T19:43:50.896196094+00:00"
-    },
-    {
       "key": "0675640c728125a628c4",
       "item_id": "0675640c728125a628c4",
       "title": "Linuxのテキストエディタ　viとnano",
@@ -250,7 +226,7 @@
       "updated": "2026-07-10T15:00:23+09:00",
       "author_name": "prumnn",
       "likes_count": 44,
-      "last_seen": "2026-07-11T19:20:39.291043230+00:00"
+      "last_seen": "2026-07-11T21:01:21.208044949+00:00"
     },
     {
       "key": "09dd4f6328fe3b35aae3",
@@ -661,18 +637,6 @@
       "last_seen": "2026-06-08T19:51:46.163281572+00:00"
     },
     {
-      "key": "1b3853a3314ab66eb2a3",
-      "item_id": "1b3853a3314ab66eb2a3",
-      "title": "TransformerのSelf AttentionのQKVを直感的に解説する",
-      "link": "https://qiita.com/kenmatsu4/items/1b3853a3314ab66eb2a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "こんにちは、DeNAでデータサイエンティストをやっているまつけんです。\n今回は、Transformerの中で重要な役割を果たしているSelf Attention、特にQKVの仕組みについて直感的に理解できるように解説してみます。\nTransformer、特にGPTなどの生成...",
-      "published": "2026-05-10T08:52:36+09:00",
-      "updated": "2026-05-10T08:52:36+09:00",
-      "author_name": "kenmatsu4",
-      "likes_count": 49,
-      "last_seen": "2026-05-12T19:43:50.896196094+00:00"
-    },
-    {
       "key": "1b4ab7d392a85c1b4612",
       "item_id": "1b4ab7d392a85c1b4612",
       "title": "【AWS】Managed Knowledge Basesが発表！AgentCoreから試してみました",
@@ -898,7 +862,7 @@
       "updated": "2026-07-10T17:29:46+09:00",
       "author_name": "prum_sumomo",
       "likes_count": 33,
-      "last_seen": "2026-07-11T19:20:39.291043230+00:00"
+      "last_seen": "2026-07-11T21:01:21.208044949+00:00"
     },
     {
       "key": "29d3b6b82a8bb1f14ca8",
@@ -1163,18 +1127,6 @@
       "author_name": "akachiryo",
       "likes_count": 33,
       "last_seen": "2026-06-20T07:35:30.302211707+00:00"
-    },
-    {
-      "key": "313779e2d3feadfefa7e",
-      "item_id": "313779e2d3feadfefa7e",
-      "title": "Pythonの標準出力をもっと美しく。`Rich` で作るモダンなCLIツール入門",
-      "link": "https://qiita.com/nozomi2025/items/313779e2d3feadfefa7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n「Pythonでツールを作ったけれど、出力が地味すぎて使いにくい…」 「デバッグ中の巨大な辞書データ、どれがキーでどれが値か見にくい！」\nそんな悩みを一瞬で解決するのが Rich というライブラリです。 今回は、Richを使ってCLI（コマンドラインツール）のU...",
-      "published": "2026-05-09T18:24:57+09:00",
-      "updated": "2026-05-09T18:24:57+09:00",
-      "author_name": "nozomi2025",
-      "likes_count": 35,
-      "last_seen": "2026-05-12T19:43:50.896196094+00:00"
     },
     {
       "key": "31cbacd70540423b1581",
@@ -1534,7 +1486,7 @@
       "updated": "2026-07-10T12:34:58+09:00",
       "author_name": "Koukyosyumei",
       "likes_count": 16,
-      "last_seen": "2026-07-11T19:20:39.291043230+00:00"
+      "last_seen": "2026-07-11T21:01:21.208044949+00:00"
     },
     {
       "key": "3c8949b62ce1dfe7a024",
@@ -1990,7 +1942,7 @@
       "updated": "2026-07-09T14:30:12+09:00",
       "author_name": "Takashi_Masumori",
       "likes_count": 34,
-      "last_seen": "2026-07-11T19:20:39.291043230+00:00"
+      "last_seen": "2026-07-11T21:01:21.208044949+00:00"
     },
     {
       "key": "4ff2efbaa38575edd6a8",
@@ -2302,7 +2254,7 @@
       "updated": "2026-07-10T07:00:29+09:00",
       "author_name": "yamada-iknow",
       "likes_count": 25,
-      "last_seen": "2026-07-11T19:20:39.291043230+00:00"
+      "last_seen": "2026-07-11T21:01:21.208044949+00:00"
     },
     {
       "key": "607804ea831416b49ee4",
@@ -2326,7 +2278,7 @@
       "updated": "2026-07-11T07:19:30+09:00",
       "author_name": "moritalous",
       "likes_count": 15,
-      "last_seen": "2026-07-11T19:20:39.291043230+00:00"
+      "last_seen": "2026-07-11T21:01:21.208044949+00:00"
     },
     {
       "key": "61985c6743b89aa6924b",
@@ -2986,7 +2938,7 @@
       "updated": "2026-07-09T17:00:07+09:00",
       "author_name": "Syoitu",
       "likes_count": 40,
-      "last_seen": "2026-07-11T19:20:39.291043230+00:00"
+      "last_seen": "2026-07-11T21:01:21.208044949+00:00"
     },
     {
       "key": "7a69883e9e70fc5ad853",
@@ -3034,7 +2986,7 @@
       "updated": "2026-07-10T06:50:12+09:00",
       "author_name": "aktsmm",
       "likes_count": 12,
-      "last_seen": "2026-07-11T19:20:39.291043230+00:00"
+      "last_seen": "2026-07-11T21:01:21.208044949+00:00"
     },
     {
       "key": "7c0a515119c0bcb45d35",
@@ -3381,8 +3333,8 @@
       "published": "2026-07-10T09:58:51+09:00",
       "updated": "2026-07-10T09:58:51+09:00",
       "author_name": "tatsuya582",
-      "likes_count": 30,
-      "last_seen": "2026-07-11T19:20:39.291043230+00:00"
+      "likes_count": 32,
+      "last_seen": "2026-07-11T21:01:21.208044949+00:00"
     },
     {
       "key": "8965ba4f5840807031cb",
@@ -3623,18 +3575,6 @@
       "author_name": "yurufuwahealer",
       "likes_count": 17,
       "last_seen": "2026-07-11T06:23:42.662239616+00:00"
-    },
-    {
-      "key": "9545ee09b2ffbe25057c",
-      "item_id": "9545ee09b2ffbe25057c",
-      "title": "「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた",
-      "link": "https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "きっかけ\n研修資料を作成していて、今までの慣例に則ってnginx + アプリケーションサーバーの構成を組んでいるときに\n「ALBもCloudFrontもある環境で、なぜnginxが必要なのか？」\nという何回かは抱いたことがある疑問にちゃんと向き合ってみようと思って深掘りし...",
-      "published": "2026-05-09T21:11:18+09:00",
-      "updated": "2026-05-10T21:44:32+09:00",
-      "author_name": "hosomatu",
-      "likes_count": 72,
-      "last_seen": "2026-05-12T19:43:50.896196094+00:00"
     },
     {
       "key": "970f068161f19cfacc6e",
@@ -5050,7 +4990,7 @@
       "updated": "2026-07-10T09:58:58+09:00",
       "author_name": "Suemura",
       "likes_count": 23,
-      "last_seen": "2026-07-11T19:20:39.291043230+00:00"
+      "last_seen": "2026-07-11T21:01:21.208044949+00:00"
     },
     {
       "key": "ce9917268d8d18aa9b6c",
@@ -5315,18 +5255,6 @@
       "author_name": "Syahu_Writer",
       "likes_count": 15,
       "last_seen": "2026-06-04T07:54:12.798609220+00:00"
-    },
-    {
-      "key": "d77557170777d79e1fc9",
-      "item_id": "d77557170777d79e1fc9",
-      "title": "fix というコミットメッセージを書くなと先輩に叩き込まれた話 〜未来の自分を助けるコミットの書き方〜",
-      "link": "https://qiita.com/shimitaro/items/d77557170777d79e1fc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n入社して数ヶ月、自分の git log はこうでした。\n* 9f3a1b2 fix\n* 7c2d4e5 fix\n* 3a8b9c0 修正\n* 1e2f3a4 update\n* 5d6e7f8 fix\n* 2b3c4d5 ECSスタック追加\n\n先輩に一言言われまし...",
-      "published": "2026-05-10T00:57:21+09:00",
-      "updated": "2026-05-10T01:10:11+09:00",
-      "author_name": "shimitaro",
-      "likes_count": 19,
-      "last_seen": "2026-05-12T19:43:50.896196094+00:00"
     },
     {
       "key": "d7a26696d724f6e83830",
@@ -6143,18 +6071,6 @@
       "author_name": "Nao52",
       "likes_count": 18,
       "last_seen": "2026-06-30T07:35:28.409843652+00:00"
-    },
-    {
-      "key": "fd1be5f3be4170a11a44",
-      "item_id": "fd1be5f3be4170a11a44",
-      "title": "Agent Toolkit for AWSが持つ50種類のSkillsをStrands Agentsから実行する",
-      "link": "https://qiita.com/nasuvitz/items/fd1be5f3be4170a11a44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nAmazon Bedrock AgentCore上で実行するRuntimeから、Agent Toolkit for AWSのSkillsを呼び出して実行できるようにしました。数えると、実に50種類にも及びます。\nまずAgent Toolkit for AWSのs...",
-      "published": "2026-05-10T23:00:17+09:00",
-      "updated": "2026-05-11T11:22:11+09:00",
-      "author_name": "nasuvitz",
-      "likes_count": 17,
-      "last_seen": "2026-05-12T19:43:50.896196094+00:00"
     },
     {
       "key": "ff7546e2eef855ef6aa1",
