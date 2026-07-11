@@ -1171,16 +1171,6 @@ Linuxを日常的に使っていると、「もっと速くできないか？」
 今までの学生生活ではあまり意識していなかったことでも、社会人になってからは大切になる場面...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:ac378f83a4e7911392d4</id>
-    <title>クオンツトレード入門者のための確率過程――価格予測ではなく、分布・リスク・エッジを見るために</title>
-    <link rel="alternate" href="https://qiita.com/tikeda123/items/ac378f83a4e7911392d4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-09T10:12:54+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tikeda123&quot;&gt;tikeda123&lt;/a&gt;&lt;br/&gt;Published: 2026-05-09T10:12:54+09:00&lt;br/&gt;Updated: 2026-05-09T10:12:54+09:00&lt;br/&gt;はじめに
-クオンツトレードというと、多くの人は「AIや統計モデルで価格を予測すること」をイメージするかもしれません。
-もちろん、予測モデルはクオンツトレードの重要な要素です。
-しかし、クオンツトレーダーにとって最初に重要なのは、未来の価格を正確に当てることではありません。...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:803300d3453daaaf48ce</id>
     <title>ping、tracerouteコマンドを使用した、SSHできない時の切り分け方</title>
     <link rel="alternate" href="https://qiita.com/M_waowaowao/items/803300d3453daaaf48ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1639,6 +1629,18 @@ AWSは2026年5月11日、Claude Platform on AWSの一般提供開始を発表し
 Claude Platform on AWSは、Anthropicが提供するネイティブなClaude Platf...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:08eddaf8e9e7cec2f390</id>
+    <title>新人エンジニアが進捗報告のたびに思考停止しちゃう話</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/08eddaf8e9e7cec2f390?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-10T15:00:23+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T17:20:12+09:00&lt;br/&gt;Updated: 2026-07-10T15:00:23+09:00&lt;br/&gt;はじめに
+
+進捗報告で「明日中に終わります」しか言えなかった新人エンジニアぷらむんが、曖昧な言葉は自分を守るためだったと気づいた話。
+
+こんにちわ、会社で自称マスコットキャラをやってるのに社内で一番空気が読めない、ぷらむんです🐯
+入社してからずっと先輩に「これいつ終...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3060140b10a9a35021f4</id>
     <title>RAGを本当に使うために、処理段階ごとに優秀手法を整理してみた</title>
     <link rel="alternate" href="https://qiita.com/engchina/items/3060140b10a9a35021f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1658,16 +1660,6 @@ Dify、RAGFlow、LlamaIndex、LangChain、GraphRAG、LightRAG、Docling、Marker
 最初はシンプルに「全会話履歴をそのままLLMに渡す」素朴な実装からスタートし、その問題点を実際に確認しながら、RAG（Retrieval-...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c63073fef7fb87d9f472</id>
-    <title>PRを出す前にコミット履歴を整えろと先輩に叩き込まれた話 〜git rebase -i 入門〜</title>
-    <link rel="alternate" href="https://qiita.com/shimitaro/items/c63073fef7fb87d9f472?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-10T01:02:45+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shimitaro&quot;&gt;shimitaro&lt;/a&gt;&lt;br/&gt;Published: 2026-05-09T08:39:03+09:00&lt;br/&gt;Updated: 2026-05-10T01:02:45+09:00&lt;br/&gt;はじめに
-前回の記事では「git pull するな、git fetch して git rebase しろ」というテーマで、リモートの変更を取り込むときの話をしました。
-今回は少し違う話です。
-前回が「リモートから取り込むときの rebase」だとすると、今回は「自分のブラ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:313779e2d3feadfefa7e</id>
     <title>Pythonの標準出力をもっと美しく。`Rich` で作るモダンなCLIツール入門</title>
     <link rel="alternate" href="https://qiita.com/nozomi2025/items/313779e2d3feadfefa7e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1675,6 +1667,17 @@ Dify、RAGFlow、LlamaIndex、LangChain、GraphRAG、LightRAG、Docling、Marker
     <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nozomi2025&quot;&gt;nozomi2025&lt;/a&gt;&lt;br/&gt;Published: 2026-05-09T18:24:57+09:00&lt;br/&gt;Updated: 2026-05-09T18:24:57+09:00&lt;br/&gt;はじめに
 「Pythonでツールを作ったけれど、出力が地味すぎて使いにくい…」 「デバッグ中の巨大な辞書データ、どれがキーでどれが値か見にくい！」
 そんな悩みを一瞬で解決するのが Rich というライブラリです。 今回は、Richを使ってCLI（コマンドラインツール）のU...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:78d45bee1160d059c972</id>
+    <title>そのスキル、本当に効いてる？ Agent Skills を「評価」する3つのツールを比べてみた</title>
+    <link rel="alternate" href="https://qiita.com/Syoitu/items/78d45bee1160d059c972?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-09T17:00:07+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T16:17:51+09:00&lt;br/&gt;Updated: 2026-07-09T17:00:07+09:00&lt;br/&gt;前書き
+2025 年 10 月に Anthropic が Agent Skills（以下スキル）を発表して以来、すっかり身近な存在になりました。
+
+作業手順を SKILL.md に明文化してエージェントに渡せば、AI が書いた通りに作業してくれます。
+一見とても便利で...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:39e8e3bbc327526ac20f</id>
@@ -1697,15 +1700,14 @@ CSSやJavaScrip...</summary>
 そんな課題を解決するのが、Claude Codeのskills機能です。...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:78d45bee1160d059c972</id>
-    <title>そのスキル、本当に効いてる？ Agent Skills を「評価」する3つのツールを比べてみた</title>
-    <link rel="alternate" href="https://qiita.com/Syoitu/items/78d45bee1160d059c972?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-09T17:00:07+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T16:17:51+09:00&lt;br/&gt;Updated: 2026-07-09T17:00:07+09:00&lt;br/&gt;前書き
-2025 年 10 月に Anthropic が Agent Skills（以下スキル）を発表して以来、すっかり身近な存在になりました。
+    <id>tag:qiita.com,2026:4ed4994f8641e5a9e58e</id>
+    <title>Copilot Studio の自律型エージェントの作成方法を整理してみた</title>
+    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/4ed4994f8641e5a9e58e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-09T14:30:12+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T11:57:04+09:00&lt;br/&gt;Updated: 2026-07-09T14:30:12+09:00&lt;br/&gt;はじめに
+これまでいくつかの記事でも触れていますが、Copilot Studio では、自律型のエージェントを作成できます。ただ、改めて、何をもって自律型と位置づけられる？作成方法は？という点で少し混乱している方もいると思うので整理したいと思います。
 
-作業手順を SKILL.md に明文化してエージェントに渡せば、AI が書いた通りに作業してくれます。
-一見とても便利で...</summary>
+執筆時点で...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8290227346c099e84b1c</id>
@@ -1749,28 +1751,6 @@ FOMO ── Fear of Missi...</summary>
     <updated>2026-05-13T11:04:17+09:00</updated>
     <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sapeet-lin&quot;&gt;sapeet-lin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T11:04:16+09:00&lt;br/&gt;Updated: 2026-05-13T11:04:17+09:00&lt;br/&gt;SapeetでSWEをやっている林です。
 毎日 Claude Code を使っていると、「このリポジトリの差分を確認してほしい」と一言打つだけで、いつの間にかコミット内容がまとめられて返ってくる。便利すぎて当たり前になっているのですが、ふと「裏側で何が起きているんだろう？」...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:08eddaf8e9e7cec2f390</id>
-    <title>新人エンジニアが進捗報告のたびに思考停止しちゃう話</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/08eddaf8e9e7cec2f390?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-10T15:00:23+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T17:20:12+09:00&lt;br/&gt;Updated: 2026-07-10T15:00:23+09:00&lt;br/&gt;はじめに
-
-進捗報告で「明日中に終わります」しか言えなかった新人エンジニアぷらむんが、曖昧な言葉は自分を守るためだったと気づいた話。
-
-こんにちわ、会社で自称マスコットキャラをやってるのに社内で一番空気が読めない、ぷらむんです🐯
-入社してからずっと先輩に「これいつ終...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4ed4994f8641e5a9e58e</id>
-    <title>Copilot Studio の自律型エージェントの作成方法を整理してみた</title>
-    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/4ed4994f8641e5a9e58e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-09T14:30:12+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T11:57:04+09:00&lt;br/&gt;Updated: 2026-07-09T14:30:12+09:00&lt;br/&gt;はじめに
-これまでいくつかの記事でも触れていますが、Copilot Studio では、自律型のエージェントを作成できます。ただ、改めて、何をもって自律型と位置づけられる？作成方法は？という点で少し混乱している方もいると思うので整理したいと思います。
-
-執筆時点で...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:81433a4eaae7d2030751</id>
@@ -2046,6 +2026,15 @@ macOS 版(Swift / SwiftUI)と Windows 版(C# / WPF)の 2 つがあり、同じ�
 そんな時代に、データサイエンスや統計学を学ぶ必要はあ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:88508215a8e22b169166</id>
+    <title>15年前の『アジャイルサムライ』、AI時代に古びたのは&quot;作るコスト&quot;の教えだけだった</title>
+    <link rel="alternate" href="https://qiita.com/tatsuya582/items/88508215a8e22b169166?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-10T09:58:51+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T09:58:51+09:00&lt;br/&gt;Updated: 2026-07-10T09:58:51+09:00&lt;br/&gt;はじめに
+15年前の定番書『アジャイルサムライ』の教えは、AIがコードを書く時代でも通用するのか。読み終えたあと、本の教えを「古びたもの」と「まだ効くもの」に仕分けてみたところ、結果はタイトルの通りきれいに割れました。
+『アジャイルサムライ』（Jonathan Rasmu...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:28fc5b3dbf78b7795c80</id>
     <title>プロンプトを頑張るな、リポジトリを育てろ：GitHub Copilotが迷わないコードベース設計</title>
     <link rel="alternate" href="https://qiita.com/ochtum/items/28fc5b3dbf78b7795c80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2205,6 +2194,16 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 はじめに
 NotebookLMの登場により、AIを使った新しい学習方法が少しずつ広がっています。
 NotebookLMでは、PDF・Webページ・ドキュメントなどのリソースをもとに、AIと対...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5e5ec4d5e96b12fbc75c</id>
+    <title>ナレッジ83件を2時間で作った。でも腐るのは、もっと速かった</title>
+    <link rel="alternate" href="https://qiita.com/yamada-iknow/items/5e5ec4d5e96b12fbc75c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-10T07:00:29+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamada-iknow&quot;&gt;yamada-iknow&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T07:00:29+09:00&lt;br/&gt;Updated: 2026-07-10T07:00:29+09:00&lt;br/&gt;TL;DR
+
+自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
+でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:bab35c7b58a664d3b8f1</id>
