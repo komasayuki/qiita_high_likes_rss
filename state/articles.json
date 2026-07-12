@@ -225,8 +225,8 @@
       "published": "2026-07-09T17:20:12+09:00",
       "updated": "2026-07-10T15:00:23+09:00",
       "author_name": "prumnn",
-      "likes_count": 48,
-      "last_seen": "2026-07-12T00:04:57.314349509+00:00"
+      "likes_count": 51,
+      "last_seen": "2026-07-12T03:50:28.049099440+00:00"
     },
     {
       "key": "09dd4f6328fe3b35aae3",
@@ -862,7 +862,7 @@
       "updated": "2026-07-10T17:29:46+09:00",
       "author_name": "prum_sumomo",
       "likes_count": 33,
-      "last_seen": "2026-07-12T00:04:57.314349509+00:00"
+      "last_seen": "2026-07-12T03:50:28.049099440+00:00"
     },
     {
       "key": "29d3b6b82a8bb1f14ca8",
@@ -1485,8 +1485,8 @@
       "published": "2026-07-10T12:34:58+09:00",
       "updated": "2026-07-10T12:34:58+09:00",
       "author_name": "Koukyosyumei",
-      "likes_count": 18,
-      "last_seen": "2026-07-12T00:04:57.314349509+00:00"
+      "likes_count": 21,
+      "last_seen": "2026-07-12T03:50:28.049099440+00:00"
     },
     {
       "key": "3c8949b62ce1dfe7a024",
@@ -1511,6 +1511,18 @@
       "author_name": "h_ito_yzrh",
       "likes_count": 17,
       "last_seen": "2026-05-23T07:09:06.669759773+00:00"
+    },
+    {
+      "key": "3ce11ea5faed795d47fc",
+      "item_id": "3ce11ea5faed795d47fc",
+      "title": "攻撃者はブラウザを開いて最初の5分で何を見るのか〜バグバウンティで認可不備（P1/P2）を報告してきた視点で書く、フロントエンドの実装防御ガイド〜",
+      "link": "https://qiita.com/sei_official/items/3ce11ea5faed795d47fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nフロントエンドのセキュリティというと、\n\nXSS対策\nCSP\nHttpOnly Cookie\nCSRF対策\n\nなどがよく挙げられます。どれも重要です。\nしかし、対策の名前だけを知っていても、「なぜそれが必要なのか」が腹落ちしていないと、実装はどこかで抜けます。\n...",
+      "published": "2026-07-11T02:52:27+09:00",
+      "updated": "2026-07-11T02:52:27+09:00",
+      "author_name": "sei_official",
+      "likes_count": 11,
+      "last_seen": "2026-07-12T03:50:28.049099440+00:00"
     },
     {
       "key": "3dbf4c0206c86bf72e32",
@@ -1897,6 +1909,18 @@
       "last_seen": "2026-06-09T19:49:20.946182343+00:00"
     },
     {
+      "key": "4c608360c73fc6293bf1",
+      "item_id": "4c608360c73fc6293bf1",
+      "title": "Unity 6.7 の CoreCLR Player が爆速しすぎて笑ってしまった件",
+      "link": "https://qiita.com/hez2010/items/4c608360c73fc6293bf1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nUnity 6.7 Alpha 2で、CoreCLR Playerが実験的に使えるようになりました。\n公式リリースノートはこちらです。\n\nCoreCLRというのは、普段の.NETで使われているランタイムです。\nUnityではこれまでMonoかIL2CPPを使...",
+      "published": "2026-07-11T11:24:51+09:00",
+      "updated": "2026-07-11T11:36:27+09:00",
+      "author_name": "hez2010",
+      "likes_count": 11,
+      "last_seen": "2026-07-12T03:50:28.049099440+00:00"
+    },
+    {
       "key": "4d2a551f89f6b4f94b01",
       "item_id": "4d2a551f89f6b4f94b01",
       "title": "Claude Code の無料セキュリティ監査プラグインで脆弱性を自動検出・修正してみる",
@@ -1941,8 +1965,8 @@
       "published": "2026-07-09T11:57:04+09:00",
       "updated": "2026-07-09T14:30:12+09:00",
       "author_name": "Takashi_Masumori",
-      "likes_count": 34,
-      "last_seen": "2026-07-12T00:04:57.314349509+00:00"
+      "likes_count": 36,
+      "last_seen": "2026-07-12T03:50:28.049099440+00:00"
     },
     {
       "key": "4ff2efbaa38575edd6a8",
@@ -2254,7 +2278,7 @@
       "updated": "2026-07-10T07:00:29+09:00",
       "author_name": "yamada-iknow",
       "likes_count": 25,
-      "last_seen": "2026-07-12T00:04:57.314349509+00:00"
+      "last_seen": "2026-07-12T03:50:28.049099440+00:00"
     },
     {
       "key": "607804ea831416b49ee4",
@@ -2277,8 +2301,8 @@
       "published": "2026-07-11T07:19:30+09:00",
       "updated": "2026-07-11T07:19:30+09:00",
       "author_name": "moritalous",
-      "likes_count": 16,
-      "last_seen": "2026-07-12T00:04:57.314349509+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-07-12T03:50:28.049099440+00:00"
     },
     {
       "key": "61985c6743b89aa6924b",
@@ -2937,8 +2961,8 @@
       "published": "2026-07-09T16:17:51+09:00",
       "updated": "2026-07-09T17:00:07+09:00",
       "author_name": "Syoitu",
-      "likes_count": 42,
-      "last_seen": "2026-07-12T00:04:57.314349509+00:00"
+      "likes_count": 44,
+      "last_seen": "2026-07-12T03:50:28.049099440+00:00"
     },
     {
       "key": "7a69883e9e70fc5ad853",
@@ -2986,7 +3010,7 @@
       "updated": "2026-07-10T06:50:12+09:00",
       "author_name": "aktsmm",
       "likes_count": 12,
-      "last_seen": "2026-07-12T00:04:57.314349509+00:00"
+      "last_seen": "2026-07-12T03:50:28.049099440+00:00"
     },
     {
       "key": "7c0a515119c0bcb45d35",
@@ -3333,8 +3357,8 @@
       "published": "2026-07-10T09:58:51+09:00",
       "updated": "2026-07-10T09:58:51+09:00",
       "author_name": "tatsuya582",
-      "likes_count": 33,
-      "last_seen": "2026-07-12T00:04:57.314349509+00:00"
+      "likes_count": 36,
+      "last_seen": "2026-07-12T03:50:28.049099440+00:00"
     },
     {
       "key": "8965ba4f5840807031cb",
@@ -4989,8 +5013,8 @@
       "published": "2026-07-10T09:58:58+09:00",
       "updated": "2026-07-10T09:58:58+09:00",
       "author_name": "Suemura",
-      "likes_count": 23,
-      "last_seen": "2026-07-12T00:04:57.314349509+00:00"
+      "likes_count": 24,
+      "last_seen": "2026-07-12T03:50:28.049099440+00:00"
     },
     {
       "key": "ce9917268d8d18aa9b6c",
