@@ -226,7 +226,7 @@
       "updated": "2026-07-10T15:00:23+09:00",
       "author_name": "prumnn",
       "likes_count": 51,
-      "last_seen": "2026-07-12T06:43:51.948947703+00:00"
+      "last_seen": "2026-07-12T09:10:15.797048122+00:00"
     },
     {
       "key": "09dd4f6328fe3b35aae3",
@@ -481,18 +481,6 @@
       "last_seen": "2026-05-21T07:34:42.680889209+00:00"
     },
     {
-      "key": "161073461c00b50ab429",
-      "item_id": "161073461c00b50ab429",
-      "title": "Claude Codeの利用状況確認用ダッシュボードを作ってみよう",
-      "link": "https://qiita.com/nr_ishibashi/items/161073461c00b50ab429?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nこの記事では、Claude Code の利用状況を可視化するために、Claude Codeにあらかじめ実装されているOpenTelemetry(Otel)を使ってNew Relicにデータを送信し、ダッシュボードを作成する手順を紹介します。ダッシュボードを作成す...",
-      "published": "2026-05-12T09:43:54+09:00",
-      "updated": "2026-05-12T09:43:55+09:00",
-      "author_name": "nr_ishibashi",
-      "likes_count": 10,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
-    },
-    {
       "key": "162f541ae19535b622da",
       "item_id": "162f541ae19535b622da",
       "title": "監査可能ババ抜き",
@@ -673,18 +661,6 @@
       "last_seen": "2026-06-26T19:43:06.679782607+00:00"
     },
     {
-      "key": "1ca158a9ce0b4346728e",
-      "item_id": "1ca158a9ce0b4346728e",
-      "title": "開発の意図がひと目で伝わる！RaycastでGitmojiとバッジをサクッと入力する環境構築",
-      "link": "https://qiita.com/Yamashita_Sosuke/items/1ca158a9ce0b4346728e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nチーム開発において、コミットメッセージやPull Request（PR）のやり取りを「テキストのみ」で行っていると、少しもったいないかもしれません。\n\n「これは何のための変更か？」\n「この指摘はどの程度重要なのか？」\n\nこれらが直感的に伝わりづらく、レビュアー・...",
-      "published": "2026-05-11T14:54:26+09:00",
-      "updated": "2026-05-11T14:54:26+09:00",
-      "author_name": "Yamashita_Sosuke",
-      "likes_count": 10,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
-    },
-    {
       "key": "1f8b1ac21186d841cd48",
       "item_id": "1f8b1ac21186d841cd48",
       "title": "ハンズオン！夢が詰まったサンドボックスシステム、Microsoft Execution Containers（MXC）とは",
@@ -862,7 +838,7 @@
       "updated": "2026-07-10T17:29:46+09:00",
       "author_name": "prum_sumomo",
       "likes_count": 33,
-      "last_seen": "2026-07-12T06:43:51.948947703+00:00"
+      "last_seen": "2026-07-12T09:10:15.797048122+00:00"
     },
     {
       "key": "29d3b6b82a8bb1f14ca8",
@@ -1486,7 +1462,7 @@
       "updated": "2026-07-10T12:34:58+09:00",
       "author_name": "Koukyosyumei",
       "likes_count": 21,
-      "last_seen": "2026-07-12T06:43:51.948947703+00:00"
+      "last_seen": "2026-07-12T09:10:15.797048122+00:00"
     },
     {
       "key": "3c8949b62ce1dfe7a024",
@@ -1522,7 +1498,7 @@
       "updated": "2026-07-11T02:52:27+09:00",
       "author_name": "sei_official",
       "likes_count": 11,
-      "last_seen": "2026-07-12T06:43:51.948947703+00:00"
+      "last_seen": "2026-07-12T09:10:15.797048122+00:00"
     },
     {
       "key": "3dbf4c0206c86bf72e32",
@@ -1918,7 +1894,7 @@
       "updated": "2026-07-11T11:36:27+09:00",
       "author_name": "hez2010",
       "likes_count": 12,
-      "last_seen": "2026-07-12T06:43:51.948947703+00:00"
+      "last_seen": "2026-07-12T09:10:15.797048122+00:00"
     },
     {
       "key": "4d2a551f89f6b4f94b01",
@@ -2301,8 +2277,8 @@
       "published": "2026-07-11T07:19:30+09:00",
       "updated": "2026-07-11T07:19:30+09:00",
       "author_name": "moritalous",
-      "likes_count": 22,
-      "last_seen": "2026-07-12T06:43:51.948947703+00:00"
+      "likes_count": 25,
+      "last_seen": "2026-07-12T09:10:15.797048122+00:00"
     },
     {
       "key": "61985c6743b89aa6924b",
@@ -2423,18 +2399,6 @@
       "author_name": "ta-ito0611",
       "likes_count": 16,
       "last_seen": "2026-06-26T19:43:06.679782607+00:00"
-    },
-    {
-      "key": "665f68d3971734c5e6df",
-      "item_id": "665f68d3971734c5e6df",
-      "title": "[Frontend Performance - Part 14] キャッシュ戦略：ブラウザキャッシュとService Workerを活用する",
-      "link": "https://qiita.com/tuanphan/items/665f68d3971734c5e6df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "📝 注意\n本記事はAIの補助を受けて編集しています。\n内容は大規模Webアプリケーションの実務経験に基づいています。\n\n📚 目次\n\n0. はじめに：なぜリロードのたびに全てを再読み込みするのか？\n1. ブラウザキャッシュの全体像\n2. HTTPキャッシュ – 最も簡...",
-      "published": "2026-05-12T12:54:51+09:00",
-      "updated": "2026-05-12T12:54:51+09:00",
-      "author_name": "tuanphan",
-      "likes_count": 12,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
     },
     {
       "key": "66d70ce4ed54139998a9",
@@ -3010,7 +2974,7 @@
       "updated": "2026-07-10T06:50:12+09:00",
       "author_name": "aktsmm",
       "likes_count": 13,
-      "last_seen": "2026-07-12T06:43:51.948947703+00:00"
+      "last_seen": "2026-07-12T09:10:15.797048122+00:00"
     },
     {
       "key": "7c0a515119c0bcb45d35",
@@ -3131,18 +3095,6 @@
       "author_name": "autotaker1984",
       "likes_count": 11,
       "last_seen": "2026-05-26T07:30:19.873497222+00:00"
-    },
-    {
-      "key": "8111f9b4551152dc0439",
-      "item_id": "8111f9b4551152dc0439",
-      "title": "【Java】Project Reactorを勉強したのでまとめてみた",
-      "link": "https://qiita.com/ebichan_88/items/8111f9b4551152dc0439?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに \nProject ReactorはJavaでリアクティブプログラミングを実現するためのライブラリです。\nWebフレームワークのSpring WebFluxでも利用されており、Javaでリアクティブシステムを構築するための重要なライブラリです。\n一方で、これまでP...",
-      "published": "2026-05-12T01:52:25+09:00",
-      "updated": "2026-05-12T13:58:06+09:00",
-      "author_name": "ebichan_88",
-      "likes_count": 11,
-      "last_seen": "2026-05-13T07:20:09.176560536+00:00"
     },
     {
       "key": "81433a4eaae7d2030751",
@@ -3357,8 +3309,8 @@
       "published": "2026-07-10T09:58:51+09:00",
       "updated": "2026-07-10T09:58:51+09:00",
       "author_name": "tatsuya582",
-      "likes_count": 39,
-      "last_seen": "2026-07-12T06:43:51.948947703+00:00"
+      "likes_count": 41,
+      "last_seen": "2026-07-12T09:10:15.797048122+00:00"
     },
     {
       "key": "8965ba4f5840807031cb",
@@ -5014,7 +4966,7 @@
       "updated": "2026-07-10T09:58:58+09:00",
       "author_name": "Suemura",
       "likes_count": 24,
-      "last_seen": "2026-07-12T06:43:51.948947703+00:00"
+      "last_seen": "2026-07-12T09:10:15.797048122+00:00"
     },
     {
       "key": "ce9917268d8d18aa9b6c",

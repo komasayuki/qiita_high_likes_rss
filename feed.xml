@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-07-10T17:29:46+09:00</updated>
+  <updated>2026-07-11T07:19:30+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1258,6 +1258,15 @@ AIスタートアップでCEO兼CTOをしています。
 オープンソース(※商用サポートは有料)で、幅広い用途で使用されて...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:88508215a8e22b169166</id>
+    <title>15年前の『アジャイルサムライ』、AI時代に古びたのは&quot;作るコスト&quot;の教えだけだった</title>
+    <link rel="alternate" href="https://qiita.com/tatsuya582/items/88508215a8e22b169166?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-10T09:58:51+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T09:58:51+09:00&lt;br/&gt;Updated: 2026-07-10T09:58:51+09:00&lt;br/&gt;はじめに
+15年前の定番書『アジャイルサムライ』の教えは、AIがコードを書く時代でも通用するのか。読み終えたあと、本の教えを「古びたもの」と「まだ効くもの」に仕分けてみたところ、結果はタイトルの通りきれいに割れました。
+『アジャイルサムライ』（Jonathan Rasmu...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5c96232d188ecfb2544b</id>
     <title>【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA</title>
     <link rel="alternate" href="https://qiita.com/yuyanz/items/5c96232d188ecfb2544b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1361,15 +1370,6 @@ Linuxを学び、黒い画面（CUI）と向き合った新卒研修で学んだ
 「フォーム申請が来るたびに、承認者へメールを手で送っている」
 …こういう作業、まだ手でやってませんか？
 僕はやってました。むしろ「効率化のための...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:88508215a8e22b169166</id>
-    <title>15年前の『アジャイルサムライ』、AI時代に古びたのは&quot;作るコスト&quot;の教えだけだった</title>
-    <link rel="alternate" href="https://qiita.com/tatsuya582/items/88508215a8e22b169166?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-10T09:58:51+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T09:58:51+09:00&lt;br/&gt;Updated: 2026-07-10T09:58:51+09:00&lt;br/&gt;はじめに
-15年前の定番書『アジャイルサムライ』の教えは、AIがコードを書く時代でも通用するのか。読み終えたあと、本の教えを「古びたもの」と「まだ効くもの」に仕分けてみたところ、結果はタイトルの通りきれいに割れました。
-『アジャイルサムライ』（Jonathan Rasmu...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e9ce46596969983cdb4e</id>
@@ -2168,6 +2168,21 @@ NotebookLMの登場により、AIを使った新しい学習方法が少しず�
 NotebookLMでは、PDF・Webページ・ドキュメントなどのリソースをもとに、AIと対...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6102ef63dc60c7e6ee3d</id>
+    <title>AWS MCP Serverが普通に使えるようになったよ！</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/6102ef63dc60c7e6ee3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-11T07:19:30+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-07-11T07:19:30+09:00&lt;br/&gt;Updated: 2026-07-11T07:19:30+09:00&lt;br/&gt;タイトルのとおりです。普通って素敵。
+
+Agent Toolkit for AWSの一部の方のAWS MCP Serverの話です。オープンソースのMCP Serverの話ではありません。
+
+今までは普通じゃなかったのかって？そのことはもう忘れましょう。
+
+設定方法
+
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5e5ec4d5e96b12fbc75c</id>
     <title>ナレッジ83件を2時間で作った。でも腐るのは、もっと速かった</title>
     <link rel="alternate" href="https://qiita.com/yamada-iknow/items/5e5ec4d5e96b12fbc75c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2217,15 +2232,5 @@ settings.json の p...</summary>
     <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/grhg&quot;&gt;grhg&lt;/a&gt;&lt;br/&gt;Published: 2026-06-13T04:48:08+09:00&lt;br/&gt;Updated: 2026-06-16T00:51:12+09:00&lt;br/&gt;はじめに
 以前、設計書はMarkdownで管理してPDFに自動変換しよう！ という記事で、設計書を Markdown で管理していく話を書きました。
 ここではその発展形として、Markdown で管理した設計書を HTML として公開し、GitHub 上でのレビューや A...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:72a7fd6854e99506cdff</id>
-    <title>なぜCatBoostはカテゴリ変数に強いのか？LightGBM・XGBoostとの違いから理解する</title>
-    <link rel="alternate" href="https://qiita.com/KanNishida/items/72a7fd6854e99506cdff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-09T07:11:37+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KanNishida&quot;&gt;KanNishida&lt;/a&gt;&lt;br/&gt;Published: 2026-06-09T07:11:37+09:00&lt;br/&gt;Updated: 2026-06-09T07:11:37+09:00&lt;br/&gt;CatBoostとは？LightGBMやXGBoostとの違いをわかりやすく解説
-
-ビジネスの現場で扱うデータの多くは、きれいに数値だけで構成されているわけではありません。
-例えば、顧客データであれば「顧客セグメント」「地域」「業種」「契約プラン」、マーケティングデータで...</summary>
   </entry>
 </feed>
