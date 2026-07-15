@@ -133,7 +133,7 @@ Mermaidで構造だけ書く → それを「インフォグラフィック化�
     <title>あなたの技術ブログの「AI臭さ」を抜くスキル公開します</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/699e89544da8b0de300d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-07-13T09:57:44+09:00</updated>
-    <summary type="html">Likes: 160&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T09:56:53+09:00&lt;br/&gt;Updated: 2026-07-13T09:57:44+09:00&lt;br/&gt;以下の内容をそのままコピペして、Claude CodeやCodexに「ユーザースコープのスキルに追加しといて」と頼めばOK。
+    <summary type="html">Likes: 161&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T09:56:53+09:00&lt;br/&gt;Updated: 2026-07-13T09:57:44+09:00&lt;br/&gt;以下の内容をそのままコピペして、Claude CodeやCodexに「ユーザースコープのスキルに追加しといて」と頼めばOK。
 
 ---
 name: writing-guide
@@ -999,6 +999,18 @@ NewsPicks で QA エンジニアをしています、西薗（@yurizono）です
 ※資料リンクが不足しているところは...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:14df505c7023f665c585</id>
+    <title>AI⇔人間 がdiff上にコメントを書き合える「hunk」がすごい</title>
+    <link rel="alternate" href="https://qiita.com/kuma_3838/items/14df505c7023f665c585?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-13T13:27:10+09:00</updated>
+    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T09:12:45+09:00&lt;br/&gt;Updated: 2026-07-13T13:27:10+09:00&lt;br/&gt;はじめに
+AIが生成したコードに質問や修正依頼をするとき、
+わざわざファイルパスやコードをコピーしてAIに渡した経験はないですか？
+私もまさにそうでした。なにを隠そう、究極のめんどくさがり屋なので、このひと手間が地味にストレスだったんです。
+それだけではありません。
+逆に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c61eb886faa1cee69054</id>
     <title>日本酒記録アプリをAWSを使って作ってみた</title>
     <link rel="alternate" href="https://qiita.com/yo_arai/items/c61eb886faa1cee69054?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1026,18 +1038,6 @@ NewsPicks で QA エンジニアをしています、西薗（@yurizono）です
 
 ディレクトリとコマンド
 Linuxで...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:14df505c7023f665c585</id>
-    <title>AI⇔人間 がdiff上にコメントを書き合える「hunk」がすごい</title>
-    <link rel="alternate" href="https://qiita.com/kuma_3838/items/14df505c7023f665c585?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-13T13:27:10+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T09:12:45+09:00&lt;br/&gt;Updated: 2026-07-13T13:27:10+09:00&lt;br/&gt;はじめに
-AIが生成したコードに質問や修正依頼をするとき、
-わざわざファイルパスやコードをコピーしてAIに渡した経験はないですか？
-私もまさにそうでした。なにを隠そう、究極のめんどくさがり屋なので、このひと手間が地味にストレスだったんです。
-それだけではありません。
-逆に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c146eb7c2885036c6b83</id>
@@ -1216,6 +1216,20 @@ ssh user@192.168.1.100
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:535a697aeaea41515de9</id>
+    <title>エラー対応理由考えてる？コピペしてAIに聞いてるでしょ</title>
+    <link rel="alternate" href="https://qiita.com/prum_sumomo/items/535a697aeaea41515de9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-14T18:00:43+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_sumomo&quot;&gt;prum_sumomo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T18:00:43+09:00&lt;br/&gt;Updated: 2026-07-14T18:00:43+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+エラー対...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:aa2b8f3e8112228ca46c</id>
     <title>コードを書く前に知っておきたかった、開発現場の5つのステップ</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/aa2b8f3e8112228ca46c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1246,18 +1260,13 @@ AIスタートアップでCEO兼CTOをしています。
 僕の会社では、約10人月の受託開発が2週間で、自社プロダクトは「開発〜リリース」が5日で終わるようになりました。支えているのは、Claude Co...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:535a697aeaea41515de9</id>
-    <title>エラー対応理由考えてる？コピペしてAIに聞いてるでしょ</title>
-    <link rel="alternate" href="https://qiita.com/prum_sumomo/items/535a697aeaea41515de9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-14T18:00:43+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_sumomo&quot;&gt;prum_sumomo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T18:00:43+09:00&lt;br/&gt;Updated: 2026-07-14T18:00:43+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-エラー対...</summary>
+    <id>tag:qiita.com,2026:b431a74f1cde18d45ad3</id>
+    <title># Railsで学ぶ データ構造入門 〜配列・ハッシュ・木・グラフは実は毎日使っている〜</title>
+    <link rel="alternate" href="https://qiita.com/akachiryo/items/b431a74f1cde18d45ad3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-15T14:11:17+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T14:11:17+09:00&lt;br/&gt;Updated: 2026-07-15T14:11:17+09:00&lt;br/&gt;お疲れ様です！ 
+前回は「暗号化とハッシュ」を扱いました。今回は少し戻って、コンピュータサイエンスの土台 データ構造 の総まとめです。
+というのも、これまでの「DFS / BFS」「計算量（Big-O）」「DBインデックス」——実はこの3記事、全部 データ構造 の話をしてい...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:541051be6cbd4a90f2a6</id>
@@ -1278,15 +1287,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 
 ・ Linuxとは
 オープンソース(※商用サポートは有料)で、幅広い用途で使用されて...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b431a74f1cde18d45ad3</id>
-    <title># Railsで学ぶ データ構造入門 〜配列・ハッシュ・木・グラフは実は毎日使っている〜</title>
-    <link rel="alternate" href="https://qiita.com/akachiryo/items/b431a74f1cde18d45ad3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-15T14:11:17+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T14:11:17+09:00&lt;br/&gt;Updated: 2026-07-15T14:11:17+09:00&lt;br/&gt;お疲れ様です！ 
-前回は「暗号化とハッシュ」を扱いました。今回は少し戻って、コンピュータサイエンスの土台 データ構造 の総まとめです。
-というのも、これまでの「DFS / BFS」「計算量（Big-O）」「DBインデックス」——実はこの3記事、全部 データ構造 の話をしてい...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5c96232d188ecfb2544b</id>
@@ -2010,6 +2010,20 @@ macOS 版(Swift / SwiftUI)と Windows 版(C# / WPF)の 2 つがあり、同じ�
 しかし、いざ調べてみると難しい専門用語ばかりで、「結局どういうことなの？」と挫折してしまった方もいるのではないでし...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b7bfe27efae0231a09af</id>
+    <title>AI人材は２つに分かれる。あなたが目指すべきはどっち？</title>
+    <link rel="alternate" href="https://qiita.com/prum_sumomo/items/b7bfe27efae0231a09af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-15T16:47:14+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_sumomo&quot;&gt;prum_sumomo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T16:47:14+09:00&lt;br/&gt;Updated: 2026-07-15T16:47:14+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「人にし...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:28fc5b3dbf78b7795c80</id>
     <title>プロンプトを頑張るな、リポジトリを育てろ：GitHub Copilotが迷わないコードベース設計</title>
     <link rel="alternate" href="https://qiita.com/ochtum/items/28fc5b3dbf78b7795c80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2114,20 +2128,6 @@ AIエージェントに絶対に任せてはいけない6つのこ...</summary>
 
 会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
 最近ぷらむん、個人開...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b7bfe27efae0231a09af</id>
-    <title>AI人材は２つに分かれる。あなたが目指すべきはどっち？</title>
-    <link rel="alternate" href="https://qiita.com/prum_sumomo/items/b7bfe27efae0231a09af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-15T16:47:14+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_sumomo&quot;&gt;prum_sumomo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T16:47:14+09:00&lt;br/&gt;Updated: 2026-07-15T16:47:14+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-「人にし...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3ce11ea5faed795d47fc</id>
