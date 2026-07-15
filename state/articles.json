@@ -417,8 +417,8 @@
       "published": "2026-07-13T09:12:45+09:00",
       "updated": "2026-07-13T13:27:10+09:00",
       "author_name": "kuma_3838",
-      "likes_count": 42,
-      "last_seen": "2026-07-15T06:24:41.120326749+00:00"
+      "likes_count": 43,
+      "last_seen": "2026-07-15T09:18:51.888735443+00:00"
     },
     {
       "key": "15376dd36069e85c1d02",
@@ -625,6 +625,18 @@
       "last_seen": "2026-06-26T19:43:06.679782607+00:00"
     },
     {
+      "key": "1ee0282bd44b0376f8af",
+      "item_id": "1ee0282bd44b0376f8af",
+      "title": "AIへの指示力とは「\"未知\"を言語化する力」だった ―― Anthropicのブログを読んで",
+      "link": "https://qiita.com/jinxin4869/items/1ee0282bd44b0376f8af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nAIエージェントにコーディングを任せていると、指示が少しでも曖昧だと明後日の方向に実装されたり、逆に細かく指定しすぎると融通が利かなかったりする。\nたまたまYouTubeでAnthropicのブログ記事 A Field Guide to Claude Fable...",
+      "published": "2026-07-14T23:58:39+09:00",
+      "updated": "2026-07-14T23:58:39+09:00",
+      "author_name": "jinxin4869",
+      "likes_count": 12,
+      "last_seen": "2026-07-15T09:18:51.888735443+00:00"
+    },
+    {
       "key": "1f8b1ac21186d841cd48",
       "item_id": "1f8b1ac21186d841cd48",
       "title": "ハンズオン！夢が詰まったサンドボックスシステム、Microsoft Execution Containers（MXC）とは",
@@ -779,18 +791,6 @@
       "author_name": "ochtum",
       "likes_count": 27,
       "last_seen": "2026-07-11T06:23:42.662239616+00:00"
-    },
-    {
-      "key": "296886c435ebc79a667c",
-      "item_id": "296886c435ebc79a667c",
-      "title": "1割の \"信頼される\" エンジニアが実行している 『止めないコミュニケーション』",
-      "link": "https://qiita.com/hitomin_poke/items/296886c435ebc79a667c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめまして。株式会社PRUMでエンジニアをしている人見です。\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶ コーポレートサイト\n\n1割の \"信頼さ...",
-      "published": "2026-05-13T13:42:28+09:00",
-      "updated": "2026-05-13T13:42:28+09:00",
-      "author_name": "hitomin_poke",
-      "likes_count": 88,
-      "last_seen": "2026-05-16T07:45:01.018620351+00:00"
     },
     {
       "key": "299014d7667aa57fb5d4",
@@ -965,12 +965,12 @@
       "item_id": "2eafd347f90e80c46005",
       "title": "Amazon S3上の大量ログを Autonomous AI Lakehouseで分析する：外部表、Parquet、SQL、Vector Search、RAGの使い分け",
       "link": "https://qiita.com/shirok/items/2eafd347f90e80c46005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "AWS S3上に大量のログがあり、Amazon Athenaで検索・分析している環境に対して、Oracle Autonomous Database / Autonomous AI Lakehouseを使ってさらに AI分析できないか、という相談を受けることがあります。\nた...",
+      "summary": "AWS S3上に大量のログがあり、Amazon Athenaで検索・分析している環境に対して、Oracle Autonomous AI Lakehouseを使ってさらに AI分析できないか、という相談を受けることがあります。\nたとえば、S3上に以下のようなログがあるケース...",
       "published": "2026-07-14T07:59:11+09:00",
       "updated": "2026-07-14T22:33:04+09:00",
       "author_name": "shirok",
-      "likes_count": 14,
-      "last_seen": "2026-07-15T06:24:41.120326749+00:00"
+      "likes_count": 15,
+      "last_seen": "2026-07-15T09:18:51.888735443+00:00"
     },
     {
       "key": "2ee94d9138f7184aa5c7",
@@ -995,6 +995,18 @@
       "author_name": "Robot-Inventor",
       "likes_count": 24,
       "last_seen": "2026-06-04T19:49:20.534411765+00:00"
+    },
+    {
+      "key": "2f38d32328996d826d48",
+      "item_id": "2f38d32328996d826d48",
+      "title": "コードを書かせるだけは、正直もったいない。Claude Codeを「先生」として使い倒す5つのプロンプト",
+      "link": "https://qiita.com/jqit_suwa/items/2f38d32328996d826d48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nClaude Code、コードを書かせるだけで使ってませんか？それ、正直めちゃくちゃもったいないです。\nClaude Code のすごいところは、手を動かしてくれる相棒であると同時に、隣に座ってる先生でもあること。実装を丸投げするんじゃなくて、「教えてもらう」「...",
+      "published": "2026-07-15T08:29:02+09:00",
+      "updated": "2026-07-15T08:29:02+09:00",
+      "author_name": "jqit_suwa",
+      "likes_count": 15,
+      "last_seen": "2026-07-15T09:18:51.888735443+00:00"
     },
     {
       "key": "2f4787ef19221773e685",
@@ -1425,8 +1437,8 @@
       "published": "2026-07-14T17:59:23+09:00",
       "updated": "2026-07-14T17:59:23+09:00",
       "author_name": "prumnn",
-      "likes_count": 31,
-      "last_seen": "2026-07-15T06:24:41.120326749+00:00"
+      "likes_count": 33,
+      "last_seen": "2026-07-15T09:18:51.888735443+00:00"
     },
     {
       "key": "3b9ccefff059ff1ab40d",
@@ -2013,8 +2025,8 @@
       "published": "2026-07-14T18:00:43+09:00",
       "updated": "2026-07-14T18:00:43+09:00",
       "author_name": "prum_sumomo",
-      "likes_count": 36,
-      "last_seen": "2026-07-15T06:24:41.120326749+00:00"
+      "likes_count": 39,
+      "last_seen": "2026-07-15T09:18:51.888735443+00:00"
     },
     {
       "key": "537057575c7e5bcbe7c1",
@@ -2089,18 +2101,6 @@
       "last_seen": "2026-07-14T19:40:01.637466271+00:00"
     },
     {
-      "key": "588474a1b70d413104f8",
-      "item_id": "588474a1b70d413104f8",
-      "title": "VSCode とブラウザで使える軽量点群ビューアを作ってみた",
-      "link": "https://qiita.com/hrpad/items/588474a1b70d413104f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Python/Qtベースの点群ビューア q3dviewer を、もっと気軽に試せる形にしたくて、WebGLベースの点群ビューア q3dweb を作りました。\nq3dviewerは研究や開発で使う大規模な点群や3Dオブジェクトを可視化するためのビューアですが、インストールに手...",
-      "published": "2026-05-13T15:49:32+09:00",
-      "updated": "2026-05-13T15:59:34+09:00",
-      "author_name": "hrpad",
-      "likes_count": 12,
-      "last_seen": "2026-05-16T07:45:01.018620351+00:00"
-    },
-    {
       "key": "5a1deaa541d70e11d85f",
       "item_id": "5a1deaa541d70e11d85f",
       "title": "Railsで学ぶ 暗号化とハッシュ 〜master.keyやDeviseは内部で何をしている？〜",
@@ -2109,8 +2109,8 @@
       "published": "2026-07-14T15:07:22+09:00",
       "updated": "2026-07-14T15:07:22+09:00",
       "author_name": "akachiryo",
-      "likes_count": 50,
-      "last_seen": "2026-07-15T06:24:41.120326749+00:00"
+      "likes_count": 53,
+      "last_seen": "2026-07-15T09:18:51.888735443+00:00"
     },
     {
       "key": "5ab9f314f822d74d4e0f",
@@ -2481,8 +2481,8 @@
       "published": "2026-07-13T09:56:53+09:00",
       "updated": "2026-07-13T09:57:44+09:00",
       "author_name": "minorun365",
-      "likes_count": 138,
-      "last_seen": "2026-07-15T06:24:41.120326749+00:00"
+      "likes_count": 140,
+      "last_seen": "2026-07-15T09:18:51.888735443+00:00"
     },
     {
       "key": "6a15efcf60f954a89373",
@@ -3229,18 +3229,6 @@
       "last_seen": "2026-07-14T19:40:01.637466271+00:00"
     },
     {
-      "key": "8607bf9f2683fb8442de",
-      "item_id": "8607bf9f2683fb8442de",
-      "title": "Claude Code はセッションをまたぐと記憶がリセットされる — 5分で永続記憶を仕込む方法",
-      "link": "https://qiita.com/jqit_suwa/items/8607bf9f2683fb8442de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Claude Codeを使用して、こんな経験ありませんか?\n昨日、ようやく厄介なバグを潰した。\n「このプロジェクトは Node 18 だと動かない。17.9 を使うこと」― そこに気づくまで2時間かかった。\n翌朝、Claude Code を立ち上げる。\n「昨日ハマったあれ...",
-      "published": "2026-05-13T11:14:27+09:00",
-      "updated": "2026-05-14T20:11:03+09:00",
-      "author_name": "jqit_suwa",
-      "likes_count": 19,
-      "last_seen": "2026-05-16T07:45:01.018620351+00:00"
-    },
-    {
       "key": "86307593829ac5e70852",
       "item_id": "86307593829ac5e70852",
       "title": "“育つ”ナレッジ基盤「LLM Wiki」とは？RAGとの違いをイラスト付きで整理してみた",
@@ -3337,18 +3325,6 @@
       "last_seen": "2026-06-10T07:46:56.179465721+00:00"
     },
     {
-      "key": "8a937781391763ff1bb2",
-      "item_id": "8a937781391763ff1bb2",
-      "title": "セキュリティを学ぶ学生、\"孤高の狼\"になってませんか? — 学生コミュニティを作りたい話",
-      "link": "https://qiita.com/Sabakan0123/items/8a937781391763ff1bb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "この記事の要約\nセキュリティ分野を学ぶ学生がなぜ孤立しやすいのかを構造的に整理し、学生がカジュアルに繋がれるコミュニティを作りたい、という呼びかけ記事です。共同運営者と、需要のヒアリングも兼ねています。\n\nはじめに\nこんにちは、鯖缶です。\n突然ですが、皆さんに質問で...",
-      "published": "2026-05-14T20:41:08+09:00",
-      "updated": "2026-05-14T20:41:08+09:00",
-      "author_name": "Sabakan0123",
-      "likes_count": 11,
-      "last_seen": "2026-05-16T07:45:01.018620351+00:00"
-    },
-    {
       "key": "8aae8d912a016eea7683",
       "item_id": "8aae8d912a016eea7683",
       "title": "ollama-pythonで文章校正",
@@ -3382,7 +3358,7 @@
       "updated": "2026-07-13T09:52:50+09:00",
       "author_name": "yujittttttt",
       "likes_count": 23,
-      "last_seen": "2026-07-15T06:24:41.120326749+00:00"
+      "last_seen": "2026-07-15T09:18:51.888735443+00:00"
     },
     {
       "key": "8b3e5908a24952c10783",
@@ -3625,18 +3601,6 @@
       "last_seen": "2026-06-23T07:31:20.558732339+00:00"
     },
     {
-      "key": "9804ff498426ee385967",
-      "item_id": "9804ff498426ee385967",
-      "title": "AI時代の新卒エンジニア採用、面接1時間で「書ける人」を見抜けますか？──履歴書と面接の間に「実務90分」を挟むという提案",
-      "link": "https://qiita.com/Ngen/items/9804ff498426ee385967?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n新卒エンジニア採用の現場で、最近こんな会話をすることが増えました。\n\n「GitHubのプロフィールも面接の受け答えも完璧。でも入社後、コードレビューで首を傾げる場面が想像以上に多い」\n「逆に面接が苦手で落としそうだった子が、配属後にめちゃくちゃ伸びている」\n\nC...",
-      "published": "2026-05-14T14:59:12+09:00",
-      "updated": "2026-05-14T16:38:08+09:00",
-      "author_name": "Ngen",
-      "likes_count": 14,
-      "last_seen": "2026-05-16T07:45:01.018620351+00:00"
-    },
-    {
       "key": "989a527c54ba05414a6b",
       "item_id": "989a527c54ba05414a6b",
       "title": "友達に「エンジニア、もういらなくない？」と言われたので、本気で考えてみた",
@@ -3647,18 +3611,6 @@
       "author_name": "skmtwork0",
       "likes_count": 17,
       "last_seen": "2026-06-30T19:44:08.787045570+00:00"
-    },
-    {
-      "key": "996735e9b8ff4b3b1255",
-      "item_id": "996735e9b8ff4b3b1255",
-      "title": "要件定義とは何か？開発メンバー初心者向けガイド",
-      "link": "https://qiita.com/Nao52/items/996735e9b8ff4b3b1255?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "■ この記事はこんな人におすすめ\n\n開発チームに配属されたばかりで「要件定義」という言葉をよく聞く\n要件定義が何なのか、なぜ大切なのかが分からない\n実装を始める前に何をすべきか知りたい\nチーム内で依頼者と話し合うときの流れを理解したい\n\n■ この記事で得られること\n\n「...",
-      "published": "2026-05-13T08:58:27+09:00",
-      "updated": "2026-05-14T07:33:41+09:00",
-      "author_name": "Nao52",
-      "likes_count": 52,
-      "last_seen": "2026-05-16T07:45:01.018620351+00:00"
     },
     {
       "key": "9a35fa099a7840a4a394",
@@ -4390,7 +4342,7 @@
       "updated": "2026-07-13T20:45:42+09:00",
       "author_name": "keitah",
       "likes_count": 18,
-      "last_seen": "2026-07-15T06:24:41.120326749+00:00"
+      "last_seen": "2026-07-15T09:18:51.888735443+00:00"
     },
     {
       "key": "b366586f4130c897c85c",
@@ -4415,6 +4367,18 @@
       "author_name": "hisato_imanishi",
       "likes_count": 12,
       "last_seen": "2026-07-01T07:47:39.311317005+00:00"
+    },
+    {
+      "key": "b431a74f1cde18d45ad3",
+      "item_id": "b431a74f1cde18d45ad3",
+      "title": "# Railsで学ぶ データ構造入門 〜配列・ハッシュ・木・グラフは実は毎日使っている〜",
+      "link": "https://qiita.com/akachiryo/items/b431a74f1cde18d45ad3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "お疲れ様です！ \n前回は「暗号化とハッシュ」を扱いました。今回は少し戻って、コンピュータサイエンスの土台 データ構造 の総まとめです。\nというのも、これまでの「DFS / BFS」「計算量（Big-O）」「DBインデックス」——実はこの3記事、全部 データ構造 の話をしてい...",
+      "published": "2026-07-15T14:11:17+09:00",
+      "updated": "2026-07-15T14:11:17+09:00",
+      "author_name": "akachiryo",
+      "likes_count": 36,
+      "last_seen": "2026-07-15T09:18:51.888735443+00:00"
     },
     {
       "key": "b4ab80e6bc9f12549cad",
@@ -4873,18 +4837,6 @@
       "last_seen": "2026-06-25T07:28:13.101021820+00:00"
     },
     {
-      "key": "c727938756b287868ffa",
-      "item_id": "c727938756b287868ffa",
-      "title": "Copilot Studio における Business skills の位置づけと、他機能との使い分けを整理してみた",
-      "link": "https://qiita.com/Takashi_Masumori/items/c727938756b287868ffa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n2026年5月1日、Microsoft 公式ブログで Dataverse の Business skills（パブリックプレビュー）が発表されました。\n\nこちらを踏まえ、Copilot Studio でエージェント作成時、どういう時に Business sk...",
-      "published": "2026-05-13T12:42:11+09:00",
-      "updated": "2026-05-13T12:47:42+09:00",
-      "author_name": "Takashi_Masumori",
-      "likes_count": 14,
-      "last_seen": "2026-05-16T07:45:01.018620351+00:00"
-    },
-    {
       "key": "c7e18f4dd3177b273555",
       "item_id": "c7e18f4dd3177b273555",
       "title": "「止めないシステム」は、結局なにを守る設計なのか？",
@@ -4965,8 +4917,8 @@
       "published": "2026-07-14T12:09:03+09:00",
       "updated": "2026-07-14T12:09:04+09:00",
       "author_name": "AkiraTakasaki",
-      "likes_count": 14,
-      "last_seen": "2026-07-15T06:24:41.120326749+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-07-15T09:18:51.888735443+00:00"
     },
     {
       "key": "cdc8efad6994645a37d7",
@@ -5027,6 +4979,18 @@
       "author_name": "long-910",
       "likes_count": 20,
       "last_seen": "2026-05-29T07:38:27.272862175+00:00"
+    },
+    {
+      "key": "ced302095c8ddd3c8213",
+      "item_id": "ced302095c8ddd3c8213",
+      "title": "「頑張ってます」はもう卒業。エンジニアが今日から使える『数値化の鬼』の思考法",
+      "link": "https://qiita.com/Nao52/items/ced302095c8ddd3c8213?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "■ この記事はこんな人におすすめ\n\n評価面談で「頑張ってるのは分かるんだけどね…」と言われたことがある人\n自分の成長が正しい方向に向かっているのか不安な人\n実務未経験からエンジニアとして評価されたい人\nチームメンバーの成長を支援する立場になったばかりの人\n「気合い」と「根...",
+      "published": "2026-07-15T09:07:13+09:00",
+      "updated": "2026-07-15T09:07:13+09:00",
+      "author_name": "Nao52",
+      "likes_count": 13,
+      "last_seen": "2026-07-15T09:18:51.888735443+00:00"
     },
     {
       "key": "cf5f75ba755c844211a2",
@@ -5373,8 +5337,8 @@
       "published": "2026-07-13T18:23:56+09:00",
       "updated": "2026-07-14T11:54:26+09:00",
       "author_name": "prum_sumomo",
-      "likes_count": 68,
-      "last_seen": "2026-07-15T06:24:41.120326749+00:00"
+      "likes_count": 70,
+      "last_seen": "2026-07-15T09:18:51.888735443+00:00"
     },
     {
       "key": "dc10f90a5aad61aad0e8",
@@ -5869,18 +5833,6 @@
       "last_seen": "2026-05-26T19:47:35.230768460+00:00"
     },
     {
-      "key": "f6ab86636a2cef75620f",
-      "item_id": "f6ab86636a2cef75620f",
-      "title": "ChromeのOptGuideOnDeviceModelとは？4GB AIモデル自動DL問題を調べてみた",
-      "link": "https://qiita.com/tuanphan/items/f6ab86636a2cef75620f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "📝 注意\n本記事はAIの補助を受けて編集しています。\n\n最初にまとめ\n\nChromeが自動的に約4GBのAIモデルをダウンロードすることがある\n対象になるのは、ある程度スペックが高いパソコンだけ\n「OptGuideOnDeviceModel」というフォルダに入っている...",
-      "published": "2026-05-14T11:47:01+09:00",
-      "updated": "2026-05-14T11:47:01+09:00",
-      "author_name": "tuanphan",
-      "likes_count": 11,
-      "last_seen": "2026-05-16T07:45:01.018620351+00:00"
-    },
-    {
       "key": "f6f07d88478dd571f970",
       "item_id": "f6f07d88478dd571f970",
       "title": "エンジニアの「コミュ力」って、たぶんそういう意味じゃない",
@@ -5951,18 +5903,6 @@
       "author_name": "ta-ito0611",
       "likes_count": 15,
       "last_seen": "2026-06-26T07:34:40.030355871+00:00"
-    },
-    {
-      "key": "f9143a90094601631b6b",
-      "item_id": "f9143a90094601631b6b",
-      "title": "いつも使っている Claude Code の裏側を覗いてみた",
-      "link": "https://qiita.com/sapeet-lin/items/f9143a90094601631b6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "SapeetでSWEをやっている林です。\n毎日 Claude Code を使っていると、「このリポジトリの差分を確認してほしい」と一言打つだけで、いつの間にかコミット内容がまとめられて返ってくる。便利すぎて当たり前になっているのですが、ふと「裏側で何が起きているんだろう？」...",
-      "published": "2026-05-13T11:04:16+09:00",
-      "updated": "2026-05-13T11:04:17+09:00",
-      "author_name": "sapeet-lin",
-      "likes_count": 33,
-      "last_seen": "2026-05-16T07:45:01.018620351+00:00"
     },
     {
       "key": "f9523e566a6f82199dea",
