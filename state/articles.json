@@ -481,18 +481,6 @@
       "last_seen": "2026-07-02T19:45:47.627106630+00:00"
     },
     {
-      "key": "16d8576c1536a7f337a2",
-      "item_id": "16d8576c1536a7f337a2",
-      "title": "Better Search Replaceを使ったWordPressのDB置換",
-      "link": "https://qiita.com/matsumura-yzrh/items/16d8576c1536a7f337a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n\nYUZURIHAの松村です。\nWordPressサイトのドメインを変更する場合など、WordPressのDB上の文字列の一括置換が必要となるケースがあります。\nその際にハマったポイントと対応した方法について、ご紹介します。\n\nWordPressのDBを手動で...",
-      "published": "2026-05-14T22:01:26+09:00",
-      "updated": "2026-05-14T22:01:26+09:00",
-      "author_name": "matsumura-yzrh",
-      "likes_count": 12,
-      "last_seen": "2026-05-17T07:12:22.200429454+00:00"
-    },
-    {
       "key": "1713372648eb543e6980",
       "item_id": "1713372648eb543e6980",
       "title": "AI駆動開発のセキュリティ、結局どこまでやればいい？",
@@ -634,7 +622,7 @@
       "updated": "2026-07-14T23:58:39+09:00",
       "author_name": "jinxin4869",
       "likes_count": 18,
-      "last_seen": "2026-07-16T06:28:09.427363318+00:00"
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "1f8b1ac21186d841cd48",
@@ -970,7 +958,7 @@
       "updated": "2026-07-15T19:10:21+09:00",
       "author_name": "shirok",
       "likes_count": 19,
-      "last_seen": "2026-07-16T06:28:09.427363318+00:00"
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "2ee94d9138f7184aa5c7",
@@ -993,8 +981,8 @@
       "published": "2026-07-14T23:48:59+09:00",
       "updated": "2026-07-15T00:08:46+09:00",
       "author_name": "archeleeds",
-      "likes_count": 14,
-      "last_seen": "2026-07-16T06:28:09.427363318+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "2f32a66f087a3bf7eaa5",
@@ -1017,8 +1005,8 @@
       "published": "2026-07-15T08:29:02+09:00",
       "updated": "2026-07-15T08:29:02+09:00",
       "author_name": "jqit_suwa",
-      "likes_count": 23,
-      "last_seen": "2026-07-16T06:28:09.427363318+00:00"
+      "likes_count": 24,
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "2f4787ef19221773e685",
@@ -1237,6 +1225,18 @@
       "last_seen": "2026-05-23T07:09:06.669759773+00:00"
     },
     {
+      "key": "34a4486f6ab1b15211a9",
+      "item_id": "34a4486f6ab1b15211a9",
+      "title": "ぷよぷよプログラミング体験談",
+      "link": "https://qiita.com/sakurada110/items/34a4486f6ab1b15211a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "1. はじめに\n　オフィスの雑誌を漁っていたら「ぷよぷよプログラミング」という何とも興味深い雑誌を見つけました。ぷよぷよは小さい頃から家族と遊んでいたので、それをプログラミングで実装可能ならやってみたい！ということで、実際にぷよぷよプログラミングで遊んでみました。\n　そこ...",
+      "published": "2026-07-15T12:00:09+09:00",
+      "updated": "2026-07-15T12:00:10+09:00",
+      "author_name": "sakurada110",
+      "likes_count": 19,
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
+    },
+    {
       "key": "353fee8310b0cd36c8f0",
       "item_id": "353fee8310b0cd36c8f0",
       "title": "Copilot Studio 自律型エージェントのクレジット消費を改めて整理してみる - 365 Copilot ライセンスだけでは判断できないケース",
@@ -1331,18 +1331,6 @@
       "author_name": "KKTeX",
       "likes_count": 10,
       "last_seen": "2026-06-07T19:41:30.508979057+00:00"
-    },
-    {
-      "key": "38757bc86c30f0326519",
-      "item_id": "38757bc86c30f0326519",
-      "title": "【TypeScript】条件分岐のベストプラクティス ── ネスト・switch・フラグ引数を卒業しよう",
-      "link": "https://qiita.com/Nao52/items/38757bc86c30f0326519?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "■ この記事はこんな人におすすめ\n\nTypeScriptでifのネストやswitchを多用しているが、読みにくいと感じている人\nenumを使っているが、ケース追加時の漏れが怖い人\n「フラグ引数」が何なのか、なぜ避けるべきかを知りたい人\n保守しやすい条件分岐の書き方をマスタ...",
-      "published": "2026-05-14T07:40:10+09:00",
-      "updated": "2026-05-14T07:40:10+09:00",
-      "author_name": "Nao52",
-      "likes_count": 29,
-      "last_seen": "2026-05-17T07:12:22.200429454+00:00"
     },
     {
       "key": "38d71147e10e81a60dfe",
@@ -1450,7 +1438,7 @@
       "updated": "2026-07-14T17:59:23+09:00",
       "author_name": "prumnn",
       "likes_count": 40,
-      "last_seen": "2026-07-16T06:28:09.427363318+00:00"
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "3b9ccefff059ff1ab40d",
@@ -1486,7 +1474,7 @@
       "updated": "2026-07-14T09:22:31+09:00",
       "author_name": "nogataka",
       "likes_count": 12,
-      "last_seen": "2026-07-16T06:28:09.427363318+00:00"
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "3c8949b62ce1dfe7a024",
@@ -1571,18 +1559,6 @@
       "author_name": "hitomin_poke",
       "likes_count": 64,
       "last_seen": "2026-07-01T19:43:54.766669086+00:00"
-    },
-    {
-      "key": "3f2a397e944401fcc6cb",
-      "item_id": "3f2a397e944401fcc6cb",
-      "title": "関数型プログラミングを知らない人向けに、「Haskellって何が面白いの?」と聞かれた時の回答",
-      "link": "https://qiita.com/sigma_devsecops/items/3f2a397e944401fcc6cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "社内勉強会で使用した資料です。\n\nはじめに\n私は息子が産まれて育児休暇に入ったのを機に、\nHaskellという純粋関数型言語を使用した競技プログラミング(AtCoderを始めた。\nHaskellの学習は(多少)膠着状態に入り、(学習を開始してから)八ヶ月あまりが過ぎた。\n少...",
-      "published": "2026-05-14T11:15:29+09:00",
-      "updated": "2026-05-16T18:44:52+09:00",
-      "author_name": "sigma_devsecops",
-      "likes_count": 17,
-      "last_seen": "2026-05-17T07:12:22.200429454+00:00"
     },
     {
       "key": "3f7507355ad151225f5a",
@@ -2049,8 +2025,8 @@
       "published": "2026-07-14T18:00:43+09:00",
       "updated": "2026-07-14T18:00:43+09:00",
       "author_name": "prum_sumomo",
-      "likes_count": 49,
-      "last_seen": "2026-07-16T06:28:09.427363318+00:00"
+      "likes_count": 52,
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "537057575c7e5bcbe7c1",
@@ -2134,7 +2110,7 @@
       "updated": "2026-07-14T15:07:22+09:00",
       "author_name": "akachiryo",
       "likes_count": 56,
-      "last_seen": "2026-07-16T06:28:09.427363318+00:00"
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "5ab9f314f822d74d4e0f",
@@ -2905,18 +2881,6 @@
       "last_seen": "2026-07-16T06:28:09.427363318+00:00"
     },
     {
-      "key": "786af70f2697dfac4329",
-      "item_id": "786af70f2697dfac4329",
-      "title": "AIにコードを書かせ続けて気づいた、エンジニアの\"分かったつもり\"の怖さ",
-      "link": "https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n「なんでここでこの型を使ってるの？」\n同僚にそう聞かれたとき、自分の口から出たのは「一旦調べさせてください」だった。実装を担当しているのは自分なのに、その場でパッと説明できない。動いている。テストも通っている。でも、なぜそう書いたのかと聞かれると言葉に詰まる。A...",
-      "published": "2026-05-14T08:06:19+09:00",
-      "updated": "2026-05-14T10:00:06+09:00",
-      "author_name": "jinxin4869",
-      "likes_count": 141,
-      "last_seen": "2026-05-17T07:12:22.200429454+00:00"
-    },
-    {
       "key": "7884f95ada36127a7e28",
       "item_id": "7884f95ada36127a7e28",
       "title": "自治体情シスの三層分離・ガバクラ検証作業用のご自宅ネットワーク構成図",
@@ -3010,7 +2974,7 @@
       "updated": "2026-07-15T17:13:41+09:00",
       "author_name": "prumnn",
       "likes_count": 28,
-      "last_seen": "2026-07-16T06:28:09.427363318+00:00"
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "7c0a515119c0bcb45d35",
@@ -3071,6 +3035,18 @@
       "author_name": "autotaker1984",
       "likes_count": 14,
       "last_seen": "2026-07-10T18:41:54.956098067+00:00"
+    },
+    {
+      "key": "7d73ee9456dcec649580",
+      "item_id": "7d73ee9456dcec649580",
+      "title": "AIから事実を、本から考えを学ぶ。『本を読む人はうまくいく』を読んだ",
+      "link": "https://qiita.com/kuma_3838/items/7d73ee9456dcec649580?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n技術書は、わりと読むほうだと思います。\n読んだ分だけ知識がつき、AIが出した回答の正誤を自分で判断できるようになる。\n読む効果がはっきりしているからです。\n一方で、技術書以外の本には苦手意識がありました。\n得られる効果がわかりづらいし、読んでも内容を忘れてしまう...",
+      "published": "2026-07-16T08:39:33+09:00",
+      "updated": "2026-07-16T08:39:33+09:00",
+      "author_name": "kuma_3838",
+      "likes_count": 14,
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "7deae192de183eb6f8bc",
@@ -4361,12 +4337,12 @@
       "item_id": "b10e70399e6830cc6ca8",
       "title": "【AI開発】脳の疲弊を減らすためにやったこと 〜魔法の言葉「平易な日本語」〜",
       "link": "https://qiita.com/damin_chan/items/b10e70399e6830cc6ca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n平易な日本語とは・・・ 難しい専門用語や英語（カタカナ語）を使わず、わかりやすい言葉で話すこと\nエンジニアに転職して、AIを本格的に開発へ組み込みはじめて5ヶ月目になった。いろいろ試してきたが、AIに「この平易な日本語で話させる」ことが、今のところいちばん便利で...",
+      "summary": "はじめに\n平易な日本語とは・・・難しい専門用語や英語（カタカナ語）を使わず、わかりやすい言葉で話すこと\n結論から言うと、AIにこの平易な日本語で話させるようにしたら、認知負荷がはっきり下がった、という話です。\nエンジニアに転職して、AIを本格的に開発へ組み込みはじめて5ヶ...",
       "published": "2026-07-15T10:46:51+09:00",
       "updated": "2026-07-16T13:25:39+09:00",
       "author_name": "damin_chan",
-      "likes_count": 13,
-      "last_seen": "2026-07-16T06:28:09.427363318+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "b19d14573a0f869ea23e",
@@ -4450,7 +4426,7 @@
       "updated": "2026-07-15T14:11:17+09:00",
       "author_name": "akachiryo",
       "likes_count": 43,
-      "last_seen": "2026-07-16T06:28:09.427363318+00:00"
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "b4ab80e6bc9f12549cad",
@@ -4593,8 +4569,8 @@
       "published": "2026-07-15T16:47:14+09:00",
       "updated": "2026-07-15T16:47:14+09:00",
       "author_name": "prum_sumomo",
-      "likes_count": 35,
-      "last_seen": "2026-07-16T06:28:09.427363318+00:00"
+      "likes_count": 38,
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "b859f1578191a1e15808",
@@ -4989,8 +4965,8 @@
       "published": "2026-07-14T12:09:03+09:00",
       "updated": "2026-07-14T12:09:04+09:00",
       "author_name": "AkiraTakasaki",
-      "likes_count": 28,
-      "last_seen": "2026-07-16T06:28:09.427363318+00:00"
+      "likes_count": 30,
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "cdc8efad6994645a37d7",
@@ -5029,18 +5005,6 @@
       "last_seen": "2026-07-12T19:19:39.414013489+00:00"
     },
     {
-      "key": "ce9917268d8d18aa9b6c",
-      "item_id": "ce9917268d8d18aa9b6c",
-      "title": "Vibe Coding のトークン消費量の40-60%を占めることもある、Markdownファイルの読み込みトークン消費量を最大98%以上圧縮する markdown-query スキル",
-      "link": "https://qiita.com/dahatake/items/ce9917268d8d18aa9b6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "背景\n私は、ソフトウェアエンジニアリングの 設計書をほぼ Markdown で作成しています。\n業務要件、ユースケース一覧、サービス記述書、API 仕様、ADR、ナレッジベース。気づけば、社内外で扱うドキュメントの大半が Markdown になっていました。\nさらに、最近...",
-      "published": "2026-05-14T11:03:58+09:00",
-      "updated": "2026-05-14T11:03:58+09:00",
-      "author_name": "dahatake",
-      "likes_count": 78,
-      "last_seen": "2026-05-17T07:12:22.200429454+00:00"
-    },
-    {
       "key": "cea5b0fc39afdeeefb3c",
       "item_id": "cea5b0fc39afdeeefb3c",
       "title": "レッドチームセキュリティ学習：ハッキングツールを5フェーズで整理",
@@ -5061,8 +5025,8 @@
       "published": "2026-07-15T09:07:13+09:00",
       "updated": "2026-07-15T09:07:13+09:00",
       "author_name": "Nao52",
-      "likes_count": 34,
-      "last_seen": "2026-07-16T06:28:09.427363318+00:00"
+      "likes_count": 41,
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "cf5f75ba755c844211a2",
@@ -5409,8 +5373,8 @@
       "published": "2026-07-13T18:23:56+09:00",
       "updated": "2026-07-16T11:59:17+09:00",
       "author_name": "prum_sumomo",
-      "likes_count": 76,
-      "last_seen": "2026-07-16T06:28:09.427363318+00:00"
+      "likes_count": 77,
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "dc10f90a5aad61aad0e8",
@@ -5482,7 +5446,7 @@
       "updated": "2026-07-15T09:47:34+09:00",
       "author_name": "morishio",
       "likes_count": 10,
-      "last_seen": "2026-07-16T06:28:09.427363318+00:00"
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "dff3c8a2a0ee563ca16f",
@@ -5495,6 +5459,18 @@
       "author_name": "kenimo49",
       "likes_count": 52,
       "last_seen": "2026-06-18T07:59:57.822084129+00:00"
+    },
+    {
+      "key": "e07a4d45ca5cf2ff14ef",
+      "item_id": "e07a4d45ca5cf2ff14ef",
+      "title": "Claude Codeで技術面接の壁打ち相手を作ってみませんか",
+      "link": "https://qiita.com/kuma_3838/items/e07a4d45ca5cf2ff14ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n先日、Xで技術面接の質問集を紹介するポストが流れてきました。\n\n「SQLインジェクションが発生する仕組みと対策を説明してください。」\n「TypeScriptにおける anyと unknownの違いと、それぞれをどのような場面で使うべきか説明してください。」\n\n眺...",
+      "published": "2026-07-16T08:39:44+09:00",
+      "updated": "2026-07-16T08:39:44+09:00",
+      "author_name": "kuma_3838",
+      "likes_count": 15,
+      "last_seen": "2026-07-16T09:22:28.377781782+00:00"
     },
     {
       "key": "e12adb074a9350ecaaf2",
@@ -5987,18 +5963,6 @@
       "author_name": "masa20057",
       "likes_count": 62,
       "last_seen": "2026-05-29T07:38:27.272862175+00:00"
-    },
-    {
-      "key": "fa88ac0b9b7eb7fd7b7e",
-      "item_id": "fa88ac0b9b7eb7fd7b7e",
-      "title": "[Frontend Performance - Part 17] 最適化の前に計測せよ：Chrome DevToolsで性能問題を見つける方法",
-      "link": "https://qiita.com/tuanphan/items/fa88ac0b9b7eb7fd7b7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "📝 注意\n本記事はAIの補助を受けて編集しています。\n\n📚 目次\n\n0. はじめに：Lighthouse 95点でもユーザーが「遅い」と言う理由\n1. 計測ツールの全体像\n2. Networkパネル – リソース読み込みの最適化\n3. Performanceパネル ...",
-      "published": "2026-05-15T17:04:50+09:00",
-      "updated": "2026-05-15T17:04:50+09:00",
-      "author_name": "tuanphan",
-      "likes_count": 11,
-      "last_seen": "2026-05-17T07:12:22.200429454+00:00"
     },
     {
       "key": "fae636ab3a9b75ebf930",
