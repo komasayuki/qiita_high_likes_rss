@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-07-15T17:13:41+09:00</updated>
+  <updated>2026-07-16T11:59:17+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -106,6 +106,17 @@ Mermaidで構造だけ書く → それを「インフォグラフィック化�
 この記事で学べること: インストールから CLAUDE.m...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:699e89544da8b0de300d</id>
+    <title>あなたの技術ブログの「AI臭さ」を抜くスキル公開します</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/699e89544da8b0de300d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-13T09:57:44+09:00</updated>
+    <summary type="html">Likes: 171&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T09:56:53+09:00&lt;br/&gt;Updated: 2026-07-13T09:57:44+09:00&lt;br/&gt;以下の内容をそのままコピペして、Claude CodeやCodexに「ユーザースコープのスキルに追加しといて」と頼めばOK。
+
+---
+name: writing-guide
+description: AI臭さを消す汎用執筆ガイド。ブログ・スライドなど、あらゆる書き物...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:eaa2afeffa262687b892</id>
     <title>「コードを書く人」から「課題を解決するエンジニア」になるためには</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/eaa2afeffa262687b892?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -127,17 +138,6 @@ Mermaidで構造だけ書く → それを「インフォグラフィック化�
 最近 X やブログで 「Loop Engineering（ループエンジニアリング）」 という言葉をやたら見るようになりました。
 「もう Claude に指示は出していない、私の仕事はループを書くことだ」 みたいな、ちょっと面白い言い回しで流れてくるアレです
 最初は...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:699e89544da8b0de300d</id>
-    <title>あなたの技術ブログの「AI臭さ」を抜くスキル公開します</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/699e89544da8b0de300d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-13T09:57:44+09:00</updated>
-    <summary type="html">Likes: 161&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T09:56:53+09:00&lt;br/&gt;Updated: 2026-07-13T09:57:44+09:00&lt;br/&gt;以下の内容をそのままコピペして、Claude CodeやCodexに「ユーザースコープのスキルに追加しといて」と頼めばOK。
-
----
-name: writing-guide
-description: AI臭さを消す汎用執筆ガイド。ブログ・スライドなど、あらゆる書き物...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d55a39ac35dca575b8ce</id>
@@ -609,6 +609,20 @@ Raspberry Pi単独構成から始まり、RAID崩壊・マスター消滅・NFS�
 Braveは広告を「隠す」の...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:dbabb5c130aae2566f0f</id>
+    <title>「めっちゃカメレオン」が教えてくれた、アイディア力こそAI時代の最強武器</title>
+    <link rel="alternate" href="https://qiita.com/prum_sumomo/items/dbabb5c130aae2566f0f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-16T11:59:17+09:00</updated>
+    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_sumomo&quot;&gt;prum_sumomo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T18:23:56+09:00&lt;br/&gt;Updated: 2026-07-16T11:59:17+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「めっち...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0c1da2b7431aa73a798a</id>
     <title>新人エンジニアが最初に専門分野を決めた話</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/0c1da2b7431aa73a798a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -646,20 +660,6 @@ Braveは広告を「隠す」の...</summary>
     <updated>2026-06-05T08:03:57+09:00</updated>
     <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinkai_&quot;&gt;shinkai_&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T09:19:10+09:00&lt;br/&gt;Updated: 2026-06-05T08:03:57+09:00&lt;br/&gt;Claude CodeなどのAIエージェントを日常的に使っていると、あっという間に制限に引っ掛かることがありませんか？
 Netflixのシニアエンジニアがオープンソースとしてリリースした「Headroom」というトークン削減ツールが、数日で 6k stars・400 for...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:dbabb5c130aae2566f0f</id>
-    <title>「めっちゃカメレオン」が教えてくれた、アイディア力こそAI時代の最強武器</title>
-    <link rel="alternate" href="https://qiita.com/prum_sumomo/items/dbabb5c130aae2566f0f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-14T11:54:26+09:00</updated>
-    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_sumomo&quot;&gt;prum_sumomo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T18:23:56+09:00&lt;br/&gt;Updated: 2026-07-14T11:54:26+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-「めっち...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:77361a0b1694ba629bec</id>
@@ -973,6 +973,18 @@ Railsを使っていると当たり前に出てくる master.key・credentials.y
 さて、量子コンピュータですが、ちゃんと理解したいと思って調べ始め...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:14df505c7023f665c585</id>
+    <title>AI⇔人間 がdiff上にコメントを書き合える「hunk」がすごい</title>
+    <link rel="alternate" href="https://qiita.com/kuma_3838/items/14df505c7023f665c585?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-13T13:27:10+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T09:12:45+09:00&lt;br/&gt;Updated: 2026-07-13T13:27:10+09:00&lt;br/&gt;はじめに
+AIが生成したコードに質問や修正依頼をするとき、
+わざわざファイルパスやコードをコピーしてAIに渡した経験はないですか？
+私もまさにそうでした。なにを隠そう、究極のめんどくさがり屋なので、このひと手間が地味にストレスだったんです。
+それだけではありません。
+逆に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:dff3c8a2a0ee563ca16f</id>
     <title>VRAM 12GBでQwen 35Bを動かす — エキスパートをGPUに載せないほど速くなった話</title>
     <link rel="alternate" href="https://qiita.com/kenimo49/items/dff3c8a2a0ee563ca16f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -999,16 +1011,18 @@ NewsPicks で QA エンジニアをしています、西薗（@yurizono）です
 ※資料リンクが不足しているところは...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:14df505c7023f665c585</id>
-    <title>AI⇔人間 がdiff上にコメントを書き合える「hunk」がすごい</title>
-    <link rel="alternate" href="https://qiita.com/kuma_3838/items/14df505c7023f665c585?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-13T13:27:10+09:00</updated>
-    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T09:12:45+09:00&lt;br/&gt;Updated: 2026-07-13T13:27:10+09:00&lt;br/&gt;はじめに
-AIが生成したコードに質問や修正依頼をするとき、
-わざわざファイルパスやコードをコピーしてAIに渡した経験はないですか？
-私もまさにそうでした。なにを隠そう、究極のめんどくさがり屋なので、このひと手間が地味にストレスだったんです。
-それだけではありません。
-逆に...</summary>
+    <id>tag:qiita.com,2026:535a697aeaea41515de9</id>
+    <title>エラー対応理由考えてる？コピペしてAIに聞いてるでしょ</title>
+    <link rel="alternate" href="https://qiita.com/prum_sumomo/items/535a697aeaea41515de9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-14T18:00:43+09:00</updated>
+    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_sumomo&quot;&gt;prum_sumomo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T18:00:43+09:00&lt;br/&gt;Updated: 2026-07-14T18:00:43+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+エラー対...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c61eb886faa1cee69054</id>
@@ -1216,20 +1230,6 @@ ssh user@192.168.1.100
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:535a697aeaea41515de9</id>
-    <title>エラー対応理由考えてる？コピペしてAIに聞いてるでしょ</title>
-    <link rel="alternate" href="https://qiita.com/prum_sumomo/items/535a697aeaea41515de9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-14T18:00:43+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_sumomo&quot;&gt;prum_sumomo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T18:00:43+09:00&lt;br/&gt;Updated: 2026-07-14T18:00:43+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-エラー対...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:aa2b8f3e8112228ca46c</id>
     <title>コードを書く前に知っておきたかった、開発現場の5つのステップ</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/aa2b8f3e8112228ca46c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1350,6 +1350,17 @@ AIスタートアップでCEO兼CTOをしています。
 パソコンを使うときは大体がゲームかYoutubeだった私が
 Linuxを学び、黒い画面（CUI）と向き合った新卒研修で学んだことや、
 自分で調べてみたことを書き連ねていきますので、どうか最後までよろしくお願いし...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3b1e01cf7a2d77b45da1</id>
+    <title># 僕より入社同期メンバーが先輩に可愛がられる理由、後から気づいた小さな差</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/3b1e01cf7a2d77b45da1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-14T17:59:23+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T17:59:23+09:00&lt;br/&gt;Updated: 2026-07-14T17:59:23+09:00&lt;br/&gt;はじめに
+
+同期ばかり先輩に可愛がられている気がしていた新人エンジニアぷらむんが、先輩に教えてもらって気付いたのは、差は性格じゃなく&quot;小さいラリー&quot;の速さだったということなんですけど。
+
+会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:473ff0aacea13ad2fdd3</id>
@@ -1590,17 +1601,6 @@ cdコマンド...</summary>
 サンプ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3b1e01cf7a2d77b45da1</id>
-    <title># 僕より入社同期メンバーが先輩に可愛がられる理由、後から気づいた小さな差</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/3b1e01cf7a2d77b45da1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-14T17:59:23+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T17:59:23+09:00&lt;br/&gt;Updated: 2026-07-14T17:59:23+09:00&lt;br/&gt;はじめに
-
-同期ばかり先輩に可愛がられている気がしていた新人エンジニアぷらむんが、先輩に教えてもらって気付いたのは、差は性格じゃなく&quot;小さいラリー&quot;の速さだったということなんですけど。
-
-会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:4ed4994f8641e5a9e58e</id>
     <title>Copilot Studio の自律型エージェントの作成方法を整理してみた</title>
     <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/4ed4994f8641e5a9e58e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1692,6 +1692,20 @@ Dify、RAGFlow、LlamaIndex、LangChain、GraphRAG、LightRAG、Docling、Marker
 こんにちは。開発部の雨です。
 今回は、ローカル環境で動く「長期記憶付きチャットボット」をゼロから実装する方法を紹介します。
 最初はシンプルに「全会話履歴をそのままLLMに渡す」素朴な実装からスタートし、その問題点を実際に確認しながら、RAG（Retrieval-...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b7bfe27efae0231a09af</id>
+    <title>AI人材は２つに分かれる。あなたが目指すべきはどっち？</title>
+    <link rel="alternate" href="https://qiita.com/prum_sumomo/items/b7bfe27efae0231a09af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-15T16:47:14+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_sumomo&quot;&gt;prum_sumomo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T16:47:14+09:00&lt;br/&gt;Updated: 2026-07-15T16:47:14+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「人にし...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:39e8e3bbc327526ac20f</id>
@@ -1933,6 +1947,18 @@ enumを使っているが、ケース追加時の漏れが怖い人
 保守しやすい条件分岐の書き方をマスタ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7bd599311fd75227101f</id>
+    <title>コピペ最強｜UiverseのUI素材でプログラミング初心者の悩みが即解決した話</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/7bd599311fd75227101f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-15T17:13:41+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T17:13:40+09:00&lt;br/&gt;Updated: 2026-07-15T17:13:41+09:00&lt;br/&gt;はじめに
+
+「これ、一から試行錯誤するより、正解を見て覚えた方が早いかも」――TODOリストのチェックボックス作りにハマった新人ぷらむんが、そう気づいた話です。
+
+会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
+最近ぷらむん、個人開...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7dfc85770cf5132f3d1c</id>
     <title>15個の仕込みバグで比較：ClaudeとCodexのコードレビューは、モデルより「レビュー方式」で差が出た</title>
     <link rel="alternate" href="https://qiita.com/kunitomo926/items/7dfc85770cf5132f3d1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2010,18 +2036,26 @@ macOS 版(Swift / SwiftUI)と Windows 版(C# / WPF)の 2 つがあり、同じ�
 しかし、いざ調べてみると難しい専門用語ばかりで、「結局どういうことなの？」と挫折してしまった方もいるのではないでし...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b7bfe27efae0231a09af</id>
-    <title>AI人材は２つに分かれる。あなたが目指すべきはどっち？</title>
-    <link rel="alternate" href="https://qiita.com/prum_sumomo/items/b7bfe27efae0231a09af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-15T16:47:14+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_sumomo&quot;&gt;prum_sumomo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T16:47:14+09:00&lt;br/&gt;Updated: 2026-07-15T16:47:14+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
+    <id>tag:qiita.com,2026:ced302095c8ddd3c8213</id>
+    <title>「頑張ってます」はもう卒業。エンジニアが今日から使える『数値化の鬼』の思考法</title>
+    <link rel="alternate" href="https://qiita.com/Nao52/items/ced302095c8ddd3c8213?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-15T09:07:13+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T09:07:13+09:00&lt;br/&gt;Updated: 2026-07-15T09:07:13+09:00&lt;br/&gt;■ この記事はこんな人におすすめ
 
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-「人にし...</summary>
+評価面談で「頑張ってるのは分かるんだけどね…」と言われたことがある人
+自分の成長が正しい方向に向かっているのか不安な人
+実務未経験からエンジニアとして評価されたい人
+チームメンバーの成長を支援する立場になったばかりの人
+「気合い」と「根...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:cd426dbd97a66dea11cd</id>
+    <title>エンジニアが知っておくべきIPアドレスの話</title>
+    <link rel="alternate" href="https://qiita.com/AkiraTakasaki/items/cd426dbd97a66dea11cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-14T12:09:04+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/AkiraTakasaki&quot;&gt;AkiraTakasaki&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T12:09:03+09:00&lt;br/&gt;Updated: 2026-07-14T12:09:04+09:00&lt;br/&gt;こんにちは、ソーイ株式会社の髙﨑です。
+最近、業務でIPアドレスによるアクセス制限機能に触れる機会がありました。調査を進める中で、ループバックアドレスやリンクローカルアドレスなど、普段あまり意識することのない特殊なIPアドレスが数多く存在することを知りました。
+今回は、調査...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:28fc5b3dbf78b7795c80</id>
@@ -2118,16 +2152,15 @@ AIエージェントに絶対に任せてはいけない6つのこ...</summary>
 投稿本数:...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:7bd599311fd75227101f</id>
-    <title>コピペ最強｜UiverseのUI素材でプログラミング初心者の悩みが即解決した話</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/7bd599311fd75227101f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-15T17:13:41+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T17:13:40+09:00&lt;br/&gt;Updated: 2026-07-15T17:13:41+09:00&lt;br/&gt;はじめに
+    <id>tag:qiita.com,2026:8aede7a08d77924c76d5</id>
+    <title>きのこカンファレンス2026に参加したら40歳以上でも学びがあった</title>
+    <link rel="alternate" href="https://qiita.com/yujittttttt/items/8aede7a08d77924c76d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-13T09:52:50+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yujittttttt&quot;&gt;yujittttttt&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T09:52:49+09:00&lt;br/&gt;Updated: 2026-07-13T09:52:50+09:00&lt;br/&gt;こちらの記事は「Medley Summer Tech Blog Relay」の1日目の記事です。
 
-「これ、一から試行錯誤するより、正解を見て覚えた方が早いかも」――TODOリストのチェックボックス作りにハマった新人ぷらむんが、そう気づいた話です。
-
-会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
-最近ぷらむん、個人開...</summary>
+きのこカンファレンス 初参加
+「きのこカンファレンス」と聞くと、世界中のキノコの植生について語り合う生物学者のカンファレンスのように思えますが違います。
+「エンジニア...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3ce11ea5faed795d47fc</id>
@@ -2212,37 +2245,5 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
     <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Yamada040&quot;&gt;Yamada040&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T13:09:54+09:00&lt;br/&gt;Updated: 2026-06-08T18:53:55+09:00&lt;br/&gt;📝 はじめに
 こんにちは、シュートです。前回は「就活中のジュニアエンジニアが面接で痛感した『力不足』の話」を書きました。読んでくださった方、ありがとうございました。
 その記事の最後で、「AIに頼って速さだけで進まず、一つひとつちゃんと理解してから次に進む」と書きました。今...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0fb80d30daf31846a85f</id>
-    <title>NotebookLMの学習ノート作成をAIで自動化する</title>
-    <link rel="alternate" href="https://qiita.com/shin_takoyaki/items/0fb80d30daf31846a85f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-16T16:40:07+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shin_takoyaki&quot;&gt;shin_takoyaki&lt;/a&gt;&lt;br/&gt;Published: 2026-05-16T16:40:07+09:00&lt;br/&gt;Updated: 2026-05-16T16:40:07+09:00&lt;br/&gt;CodexでNotebookLMのリソース収集を自動化して、学習用ノートを作る
-
-はじめに
-NotebookLMの登場により、AIを使った新しい学習方法が少しずつ広がっています。
-NotebookLMでは、PDF・Webページ・ドキュメントなどのリソースをもとに、AIと対...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8aede7a08d77924c76d5</id>
-    <title>きのこカンファレンス2026に参加したら40歳以上でも学びがあった</title>
-    <link rel="alternate" href="https://qiita.com/yujittttttt/items/8aede7a08d77924c76d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-13T09:52:50+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yujittttttt&quot;&gt;yujittttttt&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T09:52:49+09:00&lt;br/&gt;Updated: 2026-07-13T09:52:50+09:00&lt;br/&gt;こちらの記事は「Medley Summer Tech Blog Relay」の1日目の記事です。
-
-きのこカンファレンス 初参加
-「きのこカンファレンス」と聞くと、世界中のキノコの植生について語り合う生物学者のカンファレンスのように思えますが違います。
-「エンジニア...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5e5ec4d5e96b12fbc75c</id>
-    <title>ナレッジ83件を2時間で作った。でも腐るのは、もっと速かった</title>
-    <link rel="alternate" href="https://qiita.com/yamada-iknow/items/5e5ec4d5e96b12fbc75c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-10T07:00:29+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamada-iknow&quot;&gt;yamada-iknow&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T07:00:29+09:00&lt;br/&gt;Updated: 2026-07-10T07:00:29+09:00&lt;br/&gt;TL;DR
-
-自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
-でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
   </entry>
 </feed>
