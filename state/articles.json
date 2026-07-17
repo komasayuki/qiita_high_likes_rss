@@ -253,18 +253,6 @@
       "last_seen": "2026-06-17T08:11:29.822958299+00:00"
     },
     {
-      "key": "0bfb5b4fc062e0290597",
-      "item_id": "0bfb5b4fc062e0290597",
-      "title": "AIで開発が速くなったので、受託開発の価値を考え直してみる",
-      "link": "https://qiita.com/yoshi1220/items/0bfb5b4fc062e0290597?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nAI、特にコーディングエージェントの進化によって、ソフトウェア開発の進め方は大きく変わりつつあります。\n今までは数週間、数か月かかっていた実装や調査が、AIをうまく使うことで短時間で進められるようになってきました。もちろん、AIに任せれば何でも正しく作れるわけで...",
-      "published": "2026-05-15T20:04:32+09:00",
-      "updated": "2026-05-15T20:04:32+09:00",
-      "author_name": "yoshi1220",
-      "likes_count": 21,
-      "last_seen": "2026-05-18T19:42:58.539394404+00:00"
-    },
-    {
       "key": "0c067a232719212c4bfe",
       "item_id": "0c067a232719212c4bfe",
       "title": "【CSS】FlexとGridのGapにBorderをつけることができるようになった！！",
@@ -694,7 +682,7 @@
       "updated": "2026-07-17T10:12:21+09:00",
       "author_name": "nt_fujita",
       "likes_count": 10,
-      "last_seen": "2026-07-17T18:14:34.468504971+00:00"
+      "last_seen": "2026-07-17T20:13:14.000828759+00:00"
     },
     {
       "key": "2359c10d6c37be7f4fb3",
@@ -887,18 +875,6 @@
       "author_name": "tehom_math",
       "likes_count": 12,
       "last_seen": "2026-05-20T19:52:56.740640474+00:00"
-    },
-    {
-      "key": "2c32154c4de07cf94c65",
-      "item_id": "2c32154c4de07cf94c65",
-      "title": "【AWS】ロールベースによるレスポンスマスキングでセキュアなRAGを実現する",
-      "link": "https://qiita.com/yakumo_09/items/2c32154c4de07cf94c65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nRAGを利用する際、「一般職と管理職で、同じ質問に対して返ってくる情報を変えたい」といった要件要望があるかと思います。これをAWSのマネージドサービスだけでフルサーバーレスで作れないかなと思って試してみました。\n例えば「山田太郎の電話番号を教えて」と聞いたときに...",
-      "published": "2026-05-17T11:07:41+09:00",
-      "updated": "2026-05-17T11:07:41+09:00",
-      "author_name": "yakumo_09",
-      "likes_count": 12,
-      "last_seen": "2026-05-18T19:42:58.539394404+00:00"
     },
     {
       "key": "2c9d2686bdbc5e085191",
@@ -1246,7 +1222,7 @@
       "updated": "2026-07-15T12:00:10+09:00",
       "author_name": "sakurada110",
       "likes_count": 25,
-      "last_seen": "2026-07-17T18:14:34.468504971+00:00"
+      "last_seen": "2026-07-17T20:13:14.000828759+00:00"
     },
     {
       "key": "353fee8310b0cd36c8f0",
@@ -2569,6 +2545,18 @@
       "last_seen": "2026-05-23T07:09:06.669759773+00:00"
     },
     {
+      "key": "6d7dc1bed369c567df22",
+      "item_id": "6d7dc1bed369c567df22",
+      "title": "新人がすぐにできるセキュリティ対策、損害賠償になったら怖いね",
+      "link": "https://qiita.com/prumnn/items/6d7dc1bed369c567df22?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n\n「これ、他人事じゃないかも」— 最近のセキュリティのニュースを見て、ぷらむんが本気でヒヤッとした話です。\n\n会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯\n最近、セキュリティ関連のニュースをいくつか目にする機会があって、...",
+      "published": "2026-07-17T17:16:26+09:00",
+      "updated": "2026-07-17T17:16:26+09:00",
+      "author_name": "prumnn",
+      "likes_count": 30,
+      "last_seen": "2026-07-17T20:13:14.000828759+00:00"
+    },
+    {
       "key": "6dff7010af1b28e8c30a",
       "item_id": "6dff7010af1b28e8c30a",
       "title": "【実測比較】日本語RAGのOCR、結局どれを使う？ glm-ocr / dots.ocr / Unlimited-OCR / MinerU を社内ドライブの実データでガチ評価",
@@ -2974,7 +2962,7 @@
       "updated": "2026-07-15T17:13:41+09:00",
       "author_name": "prumnn",
       "likes_count": 35,
-      "last_seen": "2026-07-17T18:14:34.468504971+00:00"
+      "last_seen": "2026-07-17T20:13:14.000828759+00:00"
     },
     {
       "key": "7c0a515119c0bcb45d35",
@@ -3046,7 +3034,7 @@
       "updated": "2026-07-16T08:39:33+09:00",
       "author_name": "kuma_3838",
       "likes_count": 21,
-      "last_seen": "2026-07-17T18:14:34.468504971+00:00"
+      "last_seen": "2026-07-17T20:13:14.000828759+00:00"
     },
     {
       "key": "7deae192de183eb6f8bc",
@@ -4225,6 +4213,18 @@
       "last_seen": "2026-06-03T08:01:14.707664631+00:00"
     },
     {
+      "key": "abf53976ec072511a4ac",
+      "item_id": "abf53976ec072511a4ac",
+      "title": "数学苦手な文系でも大丈夫、ITの論理的思考・条件分岐を克服せよ",
+      "link": "https://qiita.com/sumomoo/items/abf53976ec072511a4ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや\n考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\n数学苦手な...",
+      "published": "2026-07-17T17:13:50+09:00",
+      "updated": "2026-07-17T17:13:50+09:00",
+      "author_name": "sumomoo",
+      "likes_count": 32,
+      "last_seen": "2026-07-17T20:13:14.000828759+00:00"
+    },
+    {
       "key": "ad7bb74b3ab60aad4e23",
       "item_id": "ad7bb74b3ab60aad4e23",
       "title": "Go言語はなぜ人気なのか？これから学ぶ人に知ってほしい魅力と始め方",
@@ -4402,7 +4402,7 @@
       "updated": "2026-07-15T14:11:17+09:00",
       "author_name": "akachiryo",
       "likes_count": 48,
-      "last_seen": "2026-07-17T18:14:34.468504971+00:00"
+      "last_seen": "2026-07-17T20:13:14.000828759+00:00"
     },
     {
       "key": "b4ab80e6bc9f12549cad",
@@ -4546,7 +4546,7 @@
       "updated": "2026-07-15T16:47:14+09:00",
       "author_name": "sumomoo",
       "likes_count": 63,
-      "last_seen": "2026-07-17T18:14:34.468504971+00:00"
+      "last_seen": "2026-07-17T20:13:14.000828759+00:00"
     },
     {
       "key": "b859f1578191a1e15808",
@@ -4582,7 +4582,7 @@
       "updated": "2026-07-16T17:03:57+09:00",
       "author_name": "prumnn",
       "likes_count": 37,
-      "last_seen": "2026-07-17T18:14:34.468504971+00:00"
+      "last_seen": "2026-07-17T20:13:14.000828759+00:00"
     },
     {
       "key": "b9d9dd83f33b4c837d63",
@@ -4762,7 +4762,7 @@
       "updated": "2026-07-16T17:02:11+09:00",
       "author_name": "sumomoo",
       "likes_count": 49,
-      "last_seen": "2026-07-17T18:14:34.468504971+00:00"
+      "last_seen": "2026-07-17T20:13:14.000828759+00:00"
     },
     {
       "key": "c1f8dcf25a92d8bfaab8",
@@ -5002,7 +5002,7 @@
       "updated": "2026-07-16T09:23:39+09:00",
       "author_name": "NT_Kitaguchi",
       "likes_count": 15,
-      "last_seen": "2026-07-17T18:14:34.468504971+00:00"
+      "last_seen": "2026-07-17T20:13:14.000828759+00:00"
     },
     {
       "key": "ce46a3b81793acb3724c",
@@ -5050,7 +5050,7 @@
       "updated": "2026-07-17T16:51:46+09:00",
       "author_name": "Nao52",
       "likes_count": 104,
-      "last_seen": "2026-07-17T18:14:34.468504971+00:00"
+      "last_seen": "2026-07-17T20:13:14.000828759+00:00"
     },
     {
       "key": "cf5f75ba755c844211a2",
@@ -5341,18 +5341,6 @@
       "last_seen": "2026-05-28T07:39:44.939409781+00:00"
     },
     {
-      "key": "dab402ae7633805de4e6",
-      "item_id": "dab402ae7633805de4e6",
-      "title": "【個人開発】旅行経験を蓄積して自分専用の持ち物リストを作るアプリを作成しました！【React/TypeScript/Supabase/Chakra UI/Firebase】",
-      "link": "https://qiita.com/keikeigo/items/dab402ae7633805de4e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n27卒でエンジニア就職を目指している大学生です！\n大学では物理を専攻しており、これまで本格的なプログラミング経験はほとんどありませんでした。\n社会人になる前にある程度開発経験を積みたいと思い、現在Web開発を中心に勉強しています。\n\n課題\n旅行のとき、こんなこ...",
-      "published": "2026-05-17T17:00:36+09:00",
-      "updated": "2026-05-17T17:00:38+09:00",
-      "author_name": "keikeigo",
-      "likes_count": 10,
-      "last_seen": "2026-05-18T19:42:58.539394404+00:00"
-    },
-    {
       "key": "dab65ccac9038fa2ad6b",
       "item_id": "dab65ccac9038fa2ad6b",
       "title": "【A2UI x AG-UI】CopilotKit と StrandsAgentsを使ってA2UI(v0.9)に対応したAIエージェントを作ってみる",
@@ -5494,7 +5482,7 @@
       "updated": "2026-07-16T08:39:44+09:00",
       "author_name": "kuma_3838",
       "likes_count": 27,
-      "last_seen": "2026-07-17T18:14:34.468504971+00:00"
+      "last_seen": "2026-07-17T20:13:14.000828759+00:00"
     },
     {
       "key": "e12adb074a9350ecaaf2",
@@ -5759,18 +5747,6 @@
       "author_name": "grhg",
       "likes_count": 25,
       "last_seen": "2026-06-15T18:42:10.279693966+00:00"
-    },
-    {
-      "key": "eee9eb3840d3f740f325",
-      "item_id": "eee9eb3840d3f740f325",
-      "title": "AWS上にセキュアかつ安価かつ使い捨て可能なリモート開発環境を構築した話 ― SSM × Spot Instance × CDK",
-      "link": "https://qiita.com/kyonosuke/items/eee9eb3840d3f740f325?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n業務では主にkiro-cliを使用していますが、ローカルの WSL 環境がメモリ不足で頻繁に落ちるようになり、開発体験が著しく悪化していました。そのため、脱WSLを目指して「リモートに開発環境を持っていこう」と思い立ち、AWS 上に EC2 ベースのリモート開発...",
-      "published": "2026-05-15T17:33:17+09:00",
-      "updated": "2026-05-15T17:33:17+09:00",
-      "author_name": "kyonosuke",
-      "likes_count": 16,
-      "last_seen": "2026-05-18T19:42:58.539394404+00:00"
     },
     {
       "key": "ef5cb2ad8d0e27dd976a",
