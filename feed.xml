@@ -1740,6 +1740,19 @@ Dify、RAGFlow、LlamaIndex、LangChain、GraphRAG、LightRAG、Docling、Marker
 最初はシンプルに「全会話履歴をそのままLLMに渡す」素朴な実装からスタートし、その問題点を実際に確認しながら、RAG（Retrieval-...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e07a4d45ca5cf2ff14ef</id>
+    <title>Claude Codeで技術面接の壁打ち相手を作ってみませんか</title>
+    <link rel="alternate" href="https://qiita.com/kuma_3838/items/e07a4d45ca5cf2ff14ef?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-16T08:39:44+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-07-16T08:39:44+09:00&lt;br/&gt;Updated: 2026-07-16T08:39:44+09:00&lt;br/&gt;はじめに
+先日、Xで技術面接の質問集を紹介するポストが流れてきました。
+
+「SQLインジェクションが発生する仕組みと対策を説明してください。」
+「TypeScriptにおける anyと unknownの違いと、それぞれをどのような場面で使うべきか説明してください。」
+
+眺...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:299014d7667aa57fb5d4</id>
     <title>5年後、AIに頼りすぎた自分を後悔する？考えてみた</title>
     <link rel="alternate" href="https://qiita.com/prum_sumomo/items/299014d7667aa57fb5d4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1786,19 +1799,6 @@ FOMO ── Fear of Missi...</summary>
 
 モデル概要
 まあ読んでいる時点で知らないことはないと思いますが前...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e07a4d45ca5cf2ff14ef</id>
-    <title>Claude Codeで技術面接の壁打ち相手を作ってみませんか</title>
-    <link rel="alternate" href="https://qiita.com/kuma_3838/items/e07a4d45ca5cf2ff14ef?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-16T08:39:44+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-07-16T08:39:44+09:00&lt;br/&gt;Updated: 2026-07-16T08:39:44+09:00&lt;br/&gt;はじめに
-先日、Xで技術面接の質問集を紹介するポストが流れてきました。
-
-「SQLインジェクションが発生する仕組みと対策を説明してください。」
-「TypeScriptにおける anyと unknownの違いと、それぞれをどのような場面で使うべきか説明してください。」
-
-眺...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:81433a4eaae7d2030751</id>
@@ -2235,6 +2235,14 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 その記事の最後で、「AIに頼って速さだけで進まず、一つひとつちゃんと理解してから次に進む」と書きました。今...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e9ee8e26cfdc40a8c2f9</id>
+    <title>マルチエージェントに関する論文を40本再実装してみて分かったこと</title>
+    <link rel="alternate" href="https://qiita.com/Koukyosyumei/items/e9ee8e26cfdc40a8c2f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-17T07:54:35+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Koukyosyumei&quot;&gt;Koukyosyumei&lt;/a&gt;&lt;br/&gt;Published: 2026-07-17T07:54:35+09:00&lt;br/&gt;Updated: 2026-07-17T07:54:35+09:00&lt;br/&gt;コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。
+最近暇なので、マルチエージェントLLMに関する40本の論文で提案されているワークフローを再実装してみました。論文で報告されているベンチマーク結果を再現するというよりは、それぞれの...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:2f38d32328996d826d48</id>
     <title>コードを書かせるだけは、正直もったいない。Claude Codeを「先生」として使い倒す5つのプロンプト</title>
     <link rel="alternate" href="https://qiita.com/jqit_suwa/items/2f38d32328996d826d48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2242,15 +2250,5 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
     <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T08:29:02+09:00&lt;br/&gt;Updated: 2026-07-15T08:29:02+09:00&lt;br/&gt;はじめに
 Claude Code、コードを書かせるだけで使ってませんか？それ、正直めちゃくちゃもったいないです。
 Claude Code のすごいところは、手を動かしてくれる相棒であると同時に、隣に座ってる先生でもあること。実装を丸投げするんじゃなくて、「教えてもらう」「...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5e5ec4d5e96b12fbc75c</id>
-    <title>ナレッジ83件を2時間で作った。でも腐るのは、もっと速かった</title>
-    <link rel="alternate" href="https://qiita.com/yamada-iknow/items/5e5ec4d5e96b12fbc75c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-10T07:00:29+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamada-iknow&quot;&gt;yamada-iknow&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T07:00:29+09:00&lt;br/&gt;Updated: 2026-07-10T07:00:29+09:00&lt;br/&gt;TL;DR
-
-自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
-でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
   </entry>
 </feed>
