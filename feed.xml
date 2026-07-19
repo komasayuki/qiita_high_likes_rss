@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-07-17T17:16:26+09:00</updated>
+  <updated>2026-07-19T13:44:39+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -617,6 +617,19 @@ Braveは広告を「隠す」の...</summary>
 Netflixのシニアエンジニアがオープンソースとしてリリースした「Headroom」というトークン削減ツールが、数日で 6k stars・400 for...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c1a219a3156a4214828d</id>
+    <title>面接相手に「未来」を想像させる。未経験でも信用される伝え方</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/c1a219a3156a4214828d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-16T17:02:11+09:00</updated>
+    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-16T17:02:11+09:00&lt;br/&gt;Updated: 2026-07-16T17:02:11+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+未経験、面...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:77361a0b1694ba629bec</id>
     <title>私がループエンジニアリングにあまり興味がない理由</title>
     <link rel="alternate" href="https://qiita.com/magicant/items/77361a0b1694ba629bec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -625,19 +638,6 @@ Netflixのシニアエンジニアがオープンソースとしてリリース�
 
 以下の論旨に沿って、元の5倍程度の文章量で Qiita に投稿するための記事の完成版を書いてください。
 最近のコーデ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c1a219a3156a4214828d</id>
-    <title>面接相手に「未来」を想像させる。未経験でも信用される伝え方</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/c1a219a3156a4214828d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-16T17:02:11+09:00</updated>
-    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-16T17:02:11+09:00&lt;br/&gt;Updated: 2026-07-16T17:02:11+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-未経験、面...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b859f1578191a1e15808</id>
@@ -929,6 +929,14 @@ Railsを使っていると当たり前に出てくる master.key・credentials.y
 こんばんは、mirukyです。
 生成AIを業務で使おうとすると、かなり高い確率でRAGという言葉に出会います。RAGはRetrieval-Augmented Generationの略で、日本語では検索拡張生成と呼ばれることが多いです。
 ただ、RAGという言葉だ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e9ee8e26cfdc40a8c2f9</id>
+    <title>マルチエージェントに関する論文を40本再実装してみて分かったこと</title>
+    <link rel="alternate" href="https://qiita.com/Koukyosyumei/items/e9ee8e26cfdc40a8c2f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-17T07:54:35+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Koukyosyumei&quot;&gt;Koukyosyumei&lt;/a&gt;&lt;br/&gt;Published: 2026-07-17T07:54:35+09:00&lt;br/&gt;Updated: 2026-07-17T07:54:35+09:00&lt;br/&gt;コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。
+最近暇なので、マルチエージェントLLMに関する40本の論文で提案されているワークフローを再実装してみました。論文で報告されているベンチマーク結果を再現するというよりは、それぞれの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:14df505c7023f665c585</id>
@@ -1351,14 +1359,6 @@ Linuxを学び、黒い画面（CUI）と向き合った新卒研修で学んだ
 
 会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
 最近、セキュリティ関連のニュースをいくつか目にする機会があって、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e9ee8e26cfdc40a8c2f9</id>
-    <title>マルチエージェントに関する論文を40本再実装してみて分かったこと</title>
-    <link rel="alternate" href="https://qiita.com/Koukyosyumei/items/e9ee8e26cfdc40a8c2f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-17T07:54:35+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Koukyosyumei&quot;&gt;Koukyosyumei&lt;/a&gt;&lt;br/&gt;Published: 2026-07-17T07:54:35+09:00&lt;br/&gt;Updated: 2026-07-17T07:54:35+09:00&lt;br/&gt;コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。
-最近暇なので、マルチエージェントLLMに関する40本の論文で提案されているワークフローを再実装してみました。論文で報告されているベンチマーク結果を再現するというよりは、それぞれの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b9a128b0e71382979f08</id>
@@ -1900,6 +1900,14 @@ Claude Code と Codex を Pro / Plus プランで併用していると、レー�
 Claude Opus 4.8が公開さ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:16fd0b847aa68c152e00</id>
+    <title>セキュリティの勉強になるサイト138選(2026年版)</title>
+    <link rel="alternate" href="https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-19T13:44:39+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nakanishi_RareTECH&quot;&gt;Nakanishi_RareTECH&lt;/a&gt;&lt;br/&gt;Published: 2026-07-19T13:36:00+09:00&lt;br/&gt;Updated: 2026-07-19T13:44:39+09:00&lt;br/&gt;セキュリティを独学するときに役立つサイトを、Webアプリ・クラウド・CTF・マルウェア解析・資格まで分野ごとにまとめました。ほとんどが無料で、ブラウザだけ、あるいはDockerで自分のマシンに立てればすぐ試せます。
+全部で138本。リンクはすべて2026年7月17日に到達を...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:2c9d2686bdbc5e085191</id>
     <title>Claude Codeは「コードを書くAI」で終わらせるな：公式 document-skills でPDF・Excel・Word・PowerPointまで自動化する</title>
     <link rel="alternate" href="https://qiita.com/4q_sano/items/2c9d2686bdbc5e085191?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2250,15 +2258,5 @@ SQLはデータベースを扱ううえで欠かせない言語ですが...</sum
     <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T08:29:02+09:00&lt;br/&gt;Updated: 2026-07-15T08:29:02+09:00&lt;br/&gt;はじめに
 Claude Code、コードを書かせるだけで使ってませんか？それ、正直めちゃくちゃもったいないです。
 Claude Code のすごいところは、手を動かしてくれる相棒であると同時に、隣に座ってる先生でもあること。実装を丸投げするんじゃなくて、「教えてもらう」「...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5e5ec4d5e96b12fbc75c</id>
-    <title>ナレッジ83件を2時間で作った。でも腐るのは、もっと速かった</title>
-    <link rel="alternate" href="https://qiita.com/yamada-iknow/items/5e5ec4d5e96b12fbc75c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-10T07:00:29+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamada-iknow&quot;&gt;yamada-iknow&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T07:00:29+09:00&lt;br/&gt;Updated: 2026-07-10T07:00:29+09:00&lt;br/&gt;TL;DR
-
-自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
-でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
   </entry>
 </feed>
