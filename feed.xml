@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-07-19T13:44:39+09:00</updated>
+  <updated>2026-07-20T03:45:51+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -783,6 +783,14 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ただ、プログラミング自体が初めま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e9ee8e26cfdc40a8c2f9</id>
+    <title>マルチエージェントに関する論文を40本再実装してみて分かったこと</title>
+    <link rel="alternate" href="https://qiita.com/Koukyosyumei/items/e9ee8e26cfdc40a8c2f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-20T03:45:51+09:00</updated>
+    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Koukyosyumei&quot;&gt;Koukyosyumei&lt;/a&gt;&lt;br/&gt;Published: 2026-07-17T07:54:35+09:00&lt;br/&gt;Updated: 2026-07-20T03:45:51+09:00&lt;br/&gt;コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。
+最近暇なので、マルチエージェントLLMに関する40本の論文で提案されているワークフローを再実装してみました。論文で報告されているベンチマーク結果を再現するというよりは、それぞれの...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fa1f6b0db92e497796ac</id>
     <title>会社が変わっても消えないスキルとスタートアップという選択肢</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/fa1f6b0db92e497796ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -794,14 +802,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 エンジニアのスキルは「どこへ行っても通用する武器」になる
 
 会社が変わって...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e9ee8e26cfdc40a8c2f9</id>
-    <title>マルチエージェントに関する論文を40本再実装してみて分かったこと</title>
-    <link rel="alternate" href="https://qiita.com/Koukyosyumei/items/e9ee8e26cfdc40a8c2f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-17T07:54:35+09:00</updated>
-    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Koukyosyumei&quot;&gt;Koukyosyumei&lt;/a&gt;&lt;br/&gt;Published: 2026-07-17T07:54:35+09:00&lt;br/&gt;Updated: 2026-07-17T07:54:35+09:00&lt;br/&gt;コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。
-最近暇なので、マルチエージェントLLMに関する40本の論文で提案されているワークフローを再実装してみました。論文で報告されているベンチマーク結果を再現するというよりは、それぞれの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:88508215a8e22b169166</id>
