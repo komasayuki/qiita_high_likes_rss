@@ -421,18 +421,6 @@
       "last_seen": "2026-06-25T07:28:13.101021820+00:00"
     },
     {
-      "key": "1609d7989268aa3e35bf",
-      "item_id": "1609d7989268aa3e35bf",
-      "title": "ダークモードは本当に読みやすいのか？コントラスト極性の研究から考える表示モードの設計",
-      "link": "https://qiita.com/tanay/items/1609d7989268aa3e35bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "みなさん、電子書籍を読む時どの背景色を使っていますか？\nKindleを使っていて気になったのですが、Kindleの背景色の設定には、白・黒だけでなく「セピア」や「グリーン」も用意されています。\n\n私自身は、Kindleでは黒背景だと目が滑るような気がして、白背景を使うことが...",
-      "published": "2026-05-18T10:41:20+09:00",
-      "updated": "2026-05-18T10:41:21+09:00",
-      "author_name": "tanay",
-      "likes_count": 95,
-      "last_seen": "2026-05-21T07:34:42.680889209+00:00"
-    },
-    {
       "key": "162f541ae19535b622da",
       "item_id": "162f541ae19535b622da",
       "title": "監査可能ババ抜き",
@@ -453,8 +441,8 @@
       "published": "2026-07-19T13:36:00+09:00",
       "updated": "2026-07-19T13:44:39+09:00",
       "author_name": "Nakanishi_RareTECH",
-      "likes_count": 80,
-      "last_seen": "2026-07-20T07:22:38.911262808+00:00"
+      "likes_count": 120,
+      "last_seen": "2026-07-20T11:10:30.358345634+00:00"
     },
     {
       "key": "1713372648eb543e6980",
@@ -589,6 +577,18 @@
       "last_seen": "2026-06-26T19:43:06.679782607+00:00"
     },
     {
+      "key": "1ebffa98b9ff2dca7a9b",
+      "item_id": "1ebffa98b9ff2dca7a9b",
+      "title": "Jenkins から TestFlight へ ― Mac 1 台で iOS リリースを半自動化した話",
+      "link": "https://qiita.com/jqit-yukiono/items/1ebffa98b9ff2dca7a9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "Jenkins から TestFlight へ ― Mac 1 台で iOS リリースを半自動化した話\n個人開発の iOS アプリを TestFlight に上げるたびに、xcodebuild archive → ipa 化 → validate → upload を手元...",
+      "published": "2026-07-20T08:56:09+09:00",
+      "updated": "2026-07-20T08:56:09+09:00",
+      "author_name": "jqit-yukiono",
+      "likes_count": 14,
+      "last_seen": "2026-07-20T11:10:30.358345634+00:00"
+    },
+    {
       "key": "1ee0282bd44b0376f8af",
       "item_id": "1ee0282bd44b0376f8af",
       "title": "AIへの指示力とは「\"未知\"を言語化する力」だった ―― Anthropicのブログを読んで",
@@ -646,7 +646,7 @@
       "updated": "2026-07-19T14:09:51+09:00",
       "author_name": "nacanaca",
       "likes_count": 12,
-      "last_seen": "2026-07-20T07:22:38.911262808+00:00"
+      "last_seen": "2026-07-20T11:10:30.358345634+00:00"
     },
     {
       "key": "226e7c06bc9d5877e64e",
@@ -725,12 +725,12 @@
       "item_id": "2530068f6ab65dce1288",
       "title": "Raspberry Pi 4 で Home Assistant サーバを構築する",
       "link": "https://qiita.com/Noritama-Lab/items/2530068f6ab65dce1288?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n以前の記事で、Raspberry Pi 4 を Node-RED サーバとして構築する方法を紹介しました。\n今回はその環境をベースに、Home Assistant をインストールし、IoTデバイスやスマートホーム機器を一元管理できるサーバを構築します。\nこの記事...",
+      "summary": "はじめに\n以前の記事では、Raspberry Pi 4 を Node-RED サーバとして構築する方法を紹介しました。\n今回はその環境をベースに、Home Assistant をインストールし、IoTデバイスやスマートホーム機器を一元管理できるサーバを構築します。\nHom...",
       "published": "2026-07-18T07:31:26+09:00",
       "updated": "2026-07-20T08:20:58+09:00",
       "author_name": "Noritama-Lab",
-      "likes_count": 10,
-      "last_seen": "2026-07-20T07:22:38.911262808+00:00"
+      "likes_count": 11,
+      "last_seen": "2026-07-20T11:10:30.358345634+00:00"
     },
     {
       "key": "25e87077b6ef29162a93",
@@ -815,18 +815,6 @@
       "author_name": "nogataka",
       "likes_count": 12,
       "last_seen": "2026-06-25T07:28:13.101021820+00:00"
-    },
-    {
-      "key": "2ace83e1d37c13f01190",
-      "item_id": "2ace83e1d37c13f01190",
-      "title": "大企業が Microsoft 365 Copilot を選ぶ理由を、自分なりに整理してみる",
-      "link": "https://qiita.com/Takashi_Masumori/items/2ace83e1d37c13f01190?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n最近 SNS 上で大企業の生成 AI 活用について「Microsoft 365 Copilot しか使えないのは残念」といったニュアンスの発信を見かけることがあります。\nもちろん、色々な考え方があると思いますので、特に否定はしませんが、個人的には「もう少し違う見...",
-      "published": "2026-05-18T16:56:19+09:00",
-      "updated": "2026-05-19T10:06:43+09:00",
-      "author_name": "Takashi_Masumori",
-      "likes_count": 78,
-      "last_seen": "2026-05-21T07:34:42.680889209+00:00"
     },
     {
       "key": "2af4f788bd0d1963eec7",
@@ -1533,8 +1521,8 @@
       "published": "2026-07-19T09:02:52+09:00",
       "updated": "2026-07-19T09:04:40+09:00",
       "author_name": "ishi720",
-      "likes_count": 14,
-      "last_seen": "2026-07-20T07:22:38.911262808+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-07-20T11:10:30.358345634+00:00"
     },
     {
       "key": "3f0d61d0ff4f082479c0",
@@ -1653,8 +1641,8 @@
       "published": "2026-07-18T17:14:07+09:00",
       "updated": "2026-07-18T17:14:07+09:00",
       "author_name": "miruky",
-      "likes_count": 26,
-      "last_seen": "2026-07-20T07:22:38.911262808+00:00"
+      "likes_count": 27,
+      "last_seen": "2026-07-20T11:10:30.358345634+00:00"
     },
     {
       "key": "42ff4d8f736f45eb8c59",
@@ -1921,18 +1909,6 @@
       "last_seen": "2026-07-12T06:43:51.948947703+00:00"
     },
     {
-      "key": "5005b12b318a09b7d75d",
-      "item_id": "5005b12b318a09b7d75d",
-      "title": "Java/JavaScript間に跨るロジック変更をAIで一括解析：端数処理の不整合を防ぐ差分レビュー術",
-      "link": "https://qiita.com/gmo-co-kitaura/items/5005b12b318a09b7d75d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n「Javaの計算ロジックを直したけど、JSP側のJavaScriptも合わせて変えたっけ？」\n業務システムの保守をしていると、こういう不安が頭をよぎる場面があります。特にJavaのBigDecimalで端数処理を変更したような場合、同じ計算式がJavaScrip...",
-      "published": "2026-05-19T11:20:29+09:00",
-      "updated": "2026-05-19T11:20:29+09:00",
-      "author_name": "gmo-co-kitaura",
-      "likes_count": 11,
-      "last_seen": "2026-05-21T07:34:42.680889209+00:00"
-    },
-    {
       "key": "508f016f15ff8ed3ea3e",
       "item_id": "508f016f15ff8ed3ea3e",
       "title": "差分が見えるMarkdownビューアー「Markview Pulse」を作った話",
@@ -2171,18 +2147,6 @@
       "author_name": "tatsuya582",
       "likes_count": 30,
       "last_seen": "2026-06-12T19:46:49.956969185+00:00"
-    },
-    {
-      "key": "5d00c7dd1d690ee4f9bf",
-      "item_id": "5d00c7dd1d690ee4f9bf",
-      "title": "1割の“信頼される”エンジニアが実行している『ズレを防ぐ途中共有』",
-      "link": "https://qiita.com/hitomin_poke/items/5d00c7dd1d690ee4f9bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめまして。株式会社PRUMでエンジニアをしている人見です。\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや、\n現場で感じたことを整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶ コーポレートサイト\n\n1...",
-      "published": "2026-05-18T14:05:48+09:00",
-      "updated": "2026-05-18T14:05:48+09:00",
-      "author_name": "hitomin_poke",
-      "likes_count": 101,
-      "last_seen": "2026-05-21T07:34:42.680889209+00:00"
     },
     {
       "key": "5d5da328ba7c58cb09ef",
@@ -2566,7 +2530,7 @@
       "updated": "2026-07-17T17:16:26+09:00",
       "author_name": "prumnn",
       "likes_count": 42,
-      "last_seen": "2026-07-20T07:22:38.911262808+00:00"
+      "last_seen": "2026-07-20T11:10:30.358345634+00:00"
     },
     {
       "key": "6dff7010af1b28e8c30a",
@@ -3177,8 +3141,8 @@
       "published": "2026-07-17T19:25:00+09:00",
       "updated": "2026-07-18T15:37:49+09:00",
       "author_name": "minamijoyo",
-      "likes_count": 25,
-      "last_seen": "2026-07-20T07:22:38.911262808+00:00"
+      "likes_count": 26,
+      "last_seen": "2026-07-20T11:10:30.358345634+00:00"
     },
     {
       "key": "85585050238a189ada6e",
@@ -3621,8 +3585,8 @@
       "published": "2026-07-18T21:49:23+09:00",
       "updated": "2026-07-18T21:49:23+09:00",
       "author_name": "udowanllc",
-      "likes_count": 12,
-      "last_seen": "2026-07-20T07:22:38.911262808+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-07-20T11:10:30.358345634+00:00"
     },
     {
       "key": "9a35fa099a7840a4a394",
@@ -5147,6 +5111,18 @@
       "author_name": "ktdatascience",
       "likes_count": 20,
       "last_seen": "2026-05-28T07:39:44.939409781+00:00"
+    },
+    {
+      "key": "d33908602fd060f5e1d1",
+      "item_id": "d33908602fd060f5e1d1",
+      "title": "個人開発でApp Storeリリースフローを学ぶ ― UIKit + FastAPI + K8sで作るMinecraftサーバー監視アプリ「MineWatch」",
+      "link": "https://qiita.com/jqit-yukiono/items/d33908602fd060f5e1d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "個人開発でApp Storeリリースフローを学ぶ ― UIKit + FastAPI + K8sで作るMinecraftサーバー監視アプリ「MineWatch」\n自宅や友人と運営しているMinecraft Java Editionサーバーって、遊びたいときに限って落ちてた...",
+      "published": "2026-07-20T08:56:10+09:00",
+      "updated": "2026-07-20T10:58:52+09:00",
+      "author_name": "jqit-yukiono",
+      "likes_count": 15,
+      "last_seen": "2026-07-20T11:10:30.358345634+00:00"
     },
     {
       "key": "d385642eadd4cf80215b",
