@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-07-21T17:00:48+09:00</updated>
+  <updated>2026-07-22T17:16:40+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1150,6 +1150,14 @@ Agent Toolkit for AWSの一部の方のAWS MCP Serverの話です。オープン
 今までの学生生活ではあまり意識していなかったことでも、社会人になってからは大切になる場面...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e54c70c90c6aa84d0f66</id>
+    <title>CLAUDE.md 設計パターン集──プロジェクト規模別に使い分ける7つのテンプレート</title>
+    <link rel="alternate" href="https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-20T10:01:57+09:00</updated>
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hikariclaude01&quot;&gt;hikariclaude01&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T10:01:57+09:00&lt;br/&gt;Updated: 2026-07-20T10:01:57+09:00&lt;br/&gt;結論：Claude Code の出力品質を最も左右するのはプロンプトでもモデルでもなく、CLAUDE.md の書き方だった。
+Claude Code を導入したチームの中で「期待通りのコードが出る」チームと「毎回手直しが必要」なチームの差を調べると、CLAUDE.md の...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:2efad73069b54288deb4</id>
     <title>ComfyUI × 動画生成AI × Codex で、ゲーム用スプライトアニメを量産するパイプラインを作った話</title>
     <link rel="alternate" href="https://qiita.com/archeleeds/items/2efad73069b54288deb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1294,14 +1302,6 @@ AIスタートアップでCEO兼CTOをしています。
 
 会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
 最近、少しでもエンジニアらしく...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e54c70c90c6aa84d0f66</id>
-    <title>CLAUDE.md 設計パターン集──プロジェクト規模別に使い分ける7つのテンプレート</title>
-    <link rel="alternate" href="https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-20T10:01:57+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hikariclaude01&quot;&gt;hikariclaude01&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T10:01:57+09:00&lt;br/&gt;Updated: 2026-07-20T10:01:57+09:00&lt;br/&gt;結論：Claude Code の出力品質を最も左右するのはプロンプトでもモデルでもなく、CLAUDE.md の書き方だった。
-Claude Code を導入したチームの中で「期待通りのコードが出る」チームと「毎回手直しが必要」なチームの差を調べると、CLAUDE.md の...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5c96232d188ecfb2544b</id>
@@ -1772,6 +1772,30 @@ Claude Code が爆誕してから1年以上経った。
 それ以前に少し...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:700e37b3240717217b37</id>
+    <title>個人開発に活かせる、動画生成AIで需要を確かめてから作成するという発想</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/700e37b3240717217b37?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-22T17:16:40+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-22T17:16:40+09:00&lt;br/&gt;Updated: 2026-07-22T17:16:40+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+動画生成...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:0fe99e9afff2c9f79fcd</id>
+    <title>先輩の「なぜこうしたの？」に毎回パニックになってたけど、整理するだけで上手に話せるようになった</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/0fe99e9afff2c9f79fcd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-22T17:01:40+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-07-22T17:01:40+09:00&lt;br/&gt;Updated: 2026-07-22T17:01:40+09:00&lt;br/&gt;はじめに
+
+先輩に「なぜこうしたの？」と聞かれてパニックになった新人エンジニアぷらむんが気づいたのは、&quot;考えていない&quot;んじゃなく&quot;考えを整理していない&quot;だけだったということでした。
+
+会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3bd4696237ea64c38971</id>
     <title>Claude Code・Codex用に、超爆速で超安全なサンドボックスを作る方法</title>
     <link rel="alternate" href="https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2232,23 +2256,5 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 知的財産・ライセンスのリスク
 その他に気にすべき観点
 導入企...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:be9684ba52ae88f76dda</id>
-    <title>経験浅いエンジニアが AI に React 書かせてると、進化に取り残される説</title>
-    <link rel="alternate" href="https://qiita.com/Yamada040/items/be9684ba52ae88f76dda?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-08T18:53:55+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Yamada040&quot;&gt;Yamada040&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T13:09:54+09:00&lt;br/&gt;Updated: 2026-06-08T18:53:55+09:00&lt;br/&gt;📝 はじめに
-こんにちは、シュートです。前回は「就活中のジュニアエンジニアが面接で痛感した『力不足』の話」を書きました。読んでくださった方、ありがとうございました。
-その記事の最後で、「AIに頼って速さだけで進まず、一つひとつちゃんと理解してから次に進む」と書きました。今...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2f38d32328996d826d48</id>
-    <title>コードを書かせるだけは、正直もったいない。Claude Codeを「先生」として使い倒す5つのプロンプト</title>
-    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/2f38d32328996d826d48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-15T08:29:02+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T08:29:02+09:00&lt;br/&gt;Updated: 2026-07-15T08:29:02+09:00&lt;br/&gt;はじめに
-Claude Code、コードを書かせるだけで使ってませんか？それ、正直めちゃくちゃもったいないです。
-Claude Code のすごいところは、手を動かしてくれる相棒であると同時に、隣に座ってる先生でもあること。実装を丸投げするんじゃなくて、「教えてもらう」「...</summary>
   </entry>
 </feed>
