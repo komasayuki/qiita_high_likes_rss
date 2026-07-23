@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-07-22T17:16:40+09:00</updated>
+  <updated>2026-07-23T13:02:12+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -974,6 +974,19 @@ NewsPicks で QA エンジニアをしています、西薗（@yurizono）です
 ※資料リンクが不足しているところは...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:700e37b3240717217b37</id>
+    <title>個人開発に活かせる、動画生成AIで需要を確かめてから作成するという発想</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/700e37b3240717217b37?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-22T17:16:40+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-22T17:16:40+09:00&lt;br/&gt;Updated: 2026-07-22T17:16:40+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+動画生成...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b431a74f1cde18d45ad3</id>
     <title># Railsで学ぶ データ構造入門 〜配列・ハッシュ・木・グラフは実は毎日使っている〜</title>
     <link rel="alternate" href="https://qiita.com/akachiryo/items/b431a74f1cde18d45ad3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -981,6 +994,17 @@ NewsPicks で QA エンジニアをしています、西薗（@yurizono）です
     <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T14:11:17+09:00&lt;br/&gt;Updated: 2026-07-15T14:11:17+09:00&lt;br/&gt;お疲れ様です！ 
 前回は「暗号化とハッシュ」を扱いました。今回は少し戻って、コンピュータサイエンスの土台 データ構造 の総まとめです。
 というのも、これまでの「DFS / BFS」「計算量（Big-O）」「DBインデックス」——実はこの3記事、全部 データ構造 の話をしてい...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:0fe99e9afff2c9f79fcd</id>
+    <title>先輩の「なぜこうしたの？」に毎回パニックになってたけど、整理するだけで上手に話せるようになった</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/0fe99e9afff2c9f79fcd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-22T17:01:40+09:00</updated>
+    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-07-22T17:01:40+09:00&lt;br/&gt;Updated: 2026-07-22T17:01:40+09:00&lt;br/&gt;はじめに
+
+先輩に「なぜこうしたの？」と聞かれてパニックになった新人エンジニアぷらむんが気づいたのは、&quot;考えていない&quot;んじゃなく&quot;考えを整理していない&quot;だけだったということでした。
+
+会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c61eb886faa1cee69054</id>
@@ -1053,30 +1077,6 @@ TL;DR
 前回はメモリ管理の基本を書きましたが、今回はその続きで メモリリーク と 断片化（フラグメンテーション） についてまとめてみました 
 前回ふれた「OOM（メモリ枯渇でプロセスが落ちる）」の 原因編 にあたる話です。
 興味ある方は読んでいただけると嬉しいです ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:700e37b3240717217b37</id>
-    <title>個人開発に活かせる、動画生成AIで需要を確かめてから作成するという発想</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/700e37b3240717217b37?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-22T17:16:40+09:00</updated>
-    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-22T17:16:40+09:00&lt;br/&gt;Updated: 2026-07-22T17:16:40+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-動画生成...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0fe99e9afff2c9f79fcd</id>
-    <title>先輩の「なぜこうしたの？」に毎回パニックになってたけど、整理するだけで上手に話せるようになった</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/0fe99e9afff2c9f79fcd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-22T17:01:40+09:00</updated>
-    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-07-22T17:01:40+09:00&lt;br/&gt;Updated: 2026-07-22T17:01:40+09:00&lt;br/&gt;はじめに
-
-先輩に「なぜこうしたの？」と聞かれてパニックになった新人エンジニアぷらむんが気づいたのは、&quot;考えていない&quot;んじゃなく&quot;考えを整理していない&quot;だけだったということでした。
-
-会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b2d530aa21b6c998370b</id>
@@ -1781,6 +1781,16 @@ FOMO ── Fear of Missi...</summary>
 まあ読んでいる時点で知らないことはないと思いますが前...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0dea3706713f90e7ef7d</id>
+    <title>Railsで学ぶ Rubyの実行モデル入門 〜「1行ずつ翻訳」は誤解だった！〜</title>
+    <link rel="alternate" href="https://qiita.com/akachiryo/items/0dea3706713f90e7ef7d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-23T13:02:12+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-23T13:02:12+09:00&lt;br/&gt;Updated: 2026-07-23T13:02:12+09:00&lt;br/&gt;お疲れ様です！
+「Rubyってインタプリタ言語だから、1行ずつ翻訳しながら実行してるんでしょ？」と思っていませんか？（私は思っていました🫣）
+……実は現代のRubyでは不正確なんです 😱
+実行モデルを一から調べ直したところ、rails s の裏側で何が起きているのかまで一本...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:81433a4eaae7d2030751</id>
     <title>コーディングエージェント時代に、あえて自分でコードを書く</title>
     <link rel="alternate" href="https://qiita.com/tomoki-miso/items/81433a4eaae7d2030751?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1790,6 +1800,16 @@ Claude Code が爆誕してから1年以上経った。
 その誕生により、明らかにプログラミングという作業の方法は激変した。
 自分は、GPT 3.5 Turbo が出たころに、本格的にプログラミングをはじめた。
 それ以前に少し...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:7a2f85593a2e2ba71306</id>
+    <title>AIの推進がうまくいかない組織アンチパターン</title>
+    <link rel="alternate" href="https://qiita.com/jw-automation/items/7a2f85593a2e2ba71306?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-20T19:21:23+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jw-automation&quot;&gt;jw-automation&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T19:21:23+09:00&lt;br/&gt;Updated: 2026-07-20T19:21:23+09:00&lt;br/&gt;はじめに
+OpenAIによるChatGPTの公開から、早くも3年以上の月日が経ちました。
+企業における生成AI活用は、2023〜2024年の試験導入のフェーズを経て、2025〜2026年にかけて、本格的な業務適用のフェーズへと移りつつあります。
+特に2025年末のコーディ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3bd4696237ea64c38971</id>
@@ -1961,16 +1981,6 @@ Oracle Database では、Select AI、RAG、AI Vector Search、AI Agent など...
 ネットで買い物をするとき、クレジットカードを直接入力することもあれば、Apple Pay、Google Pay、PayPal、Amazon Pay、PayPay、楽天ペイ、d払い、au PAY、メルペイなど、様々な決済サービスを...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:7a2f85593a2e2ba71306</id>
-    <title>AIの推進がうまくいかない組織アンチパターン</title>
-    <link rel="alternate" href="https://qiita.com/jw-automation/items/7a2f85593a2e2ba71306?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-20T19:21:23+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jw-automation&quot;&gt;jw-automation&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T19:21:23+09:00&lt;br/&gt;Updated: 2026-07-20T19:21:23+09:00&lt;br/&gt;はじめに
-OpenAIによるChatGPTの公開から、早くも3年以上の月日が経ちました。
-企業における生成AI活用は、2023〜2024年の試験導入のフェーズを経て、2025〜2026年にかけて、本格的な業務適用のフェーズへと移りつつあります。
-特に2025年末のコーディ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:7dfc85770cf5132f3d1c</id>
     <title>15個の仕込みバグで比較：ClaudeとCodexのコードレビューは、モデルより「レビュー方式」で差が出た</title>
     <link rel="alternate" href="https://qiita.com/kunitomo926/items/7dfc85770cf5132f3d1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2046,6 +2056,15 @@ macOS 版(Swift / SwiftUI)と Windows 版(C# / WPF)の 2 つがあり、同じ�
     <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Yamashita_Sosuke&quot;&gt;Yamashita_Sosuke&lt;/a&gt;&lt;br/&gt;Published: 2026-05-28T13:04:50+09:00&lt;br/&gt;Updated: 2026-05-28T13:04:51+09:00&lt;br/&gt;はじめに
 エンジニアとして開発に携わっていると、「クリーンアーキテクチャ（Clean Architecture）」という言葉を耳にする機会が多いと思います。
 しかし、いざ調べてみると難しい専門用語ばかりで、「結局どういうことなの？」と挫折してしまった方もいるのではないでし...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:df29e251165c3ad91487</id>
+    <title>shadcn/ui が Base UI をデフォルトに — 公式発表から読み解く移行の背景と実務対応</title>
+    <link rel="alternate" href="https://qiita.com/t-kurasawa/items/df29e251165c3ad91487?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-21T20:45:14+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t-kurasawa&quot;&gt;t-kurasawa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-21T20:45:13+09:00&lt;br/&gt;Updated: 2026-07-21T20:45:14+09:00&lt;br/&gt;はじめに
+2026年7月、shadcn/ui の公式チェンジログに「Base UI as the Default」という一文が追加されました。新規プロジェクトを作成すると、これまでの Radix UI ではなく Base UI が標準の基盤になる、という内容です。
+「sh...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6bb207fa1da4add1f61b</id>
@@ -2224,25 +2243,5 @@ windows11の...</summary>
     <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Isaka-code&quot;&gt;Isaka-code&lt;/a&gt;&lt;br/&gt;Published: 2026-07-03T19:20:29+09:00&lt;br/&gt;Updated: 2026-07-03T19:20:29+09:00&lt;br/&gt;はじめに
 3年ほど前に、「Kaggleのハードルを下げたい！」という記事を執筆しました。あの頃から時は流れ、強力なAIエージェント（Claude Code、Codex、Cursorなど）の普及によって、Kaggleに取り組む最初のステップは劇的に様変わりしています。
 環境...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:de23144fdf7305a2e0c1</id>
-    <title>「VPC内通信もTLSにすべき？」と聞かれて ── そもそもAWS内で盗聴できるのか脅威モデルで確かめた話</title>
-    <link rel="alternate" href="https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-01T12:26:19+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ntaka329&quot;&gt;ntaka329&lt;/a&gt;&lt;br/&gt;Published: 2026-07-01T12:26:19+09:00&lt;br/&gt;Updated: 2026-07-01T12:26:19+09:00&lt;br/&gt;はじめに
-GMOコネクトの永田です。
-公共系の案件で「ゲートウェイ（ALB）までは暗号化されているけど、その内側、VPCの中は平文ですよね。それで問題ないんですか？」と指摘されました。
-VPCがSDN（Software Defined Network）でできていて、他人の...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8f99cc6fc97541a14b76</id>
-    <title>AIエージェントを“セキュリティのプロ”に変える817個のスキル集 — Claude Code / Codex / Cursor / Copilot対応OSSを読み解く</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/8f99cc6fc97541a14b76?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-26T10:50:21+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-06-26T10:50:21+09:00&lt;br/&gt;Updated: 2026-06-26T10:50:21+09:00&lt;br/&gt;はじめに
-「AIエージェントにペネトレーションテスト（侵入テスト）やインシデント対応を任せたい」。
-そう考える人は増えていますが、いざ任せてみると、エージェントが現場の細かい道具立てを知らないことに気づきます。
-たとえば、Volatility3（メモリの中身を解析するツー...</summary>
   </entry>
 </feed>
