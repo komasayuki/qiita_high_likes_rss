@@ -358,7 +358,7 @@
       "updated": "2026-07-22T17:01:40+09:00",
       "author_name": "prumnn",
       "likes_count": 67,
-      "last_seen": "2026-07-25T07:25:26.517740259+00:00"
+      "last_seen": "2026-07-25T09:58:03.186946152+00:00"
     },
     {
       "key": "1193da3bfee4f891137d",
@@ -683,6 +683,18 @@
       "author_name": "nacanaca",
       "likes_count": 16,
       "last_seen": "2026-07-21T06:38:19.308829702+00:00"
+    },
+    {
+      "key": "21c54529410ba960c388",
+      "item_id": "21c54529410ba960c388",
+      "title": "JenkinsでGitHub Copilot CLIにPRを自動レビューさせる ― E2BIG・プロンプトインジェクション・トークン地獄との戦い",
+      "link": "https://qiita.com/jqit-yukiono/items/21c54529410ba960c388?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "PR が来るたびに @github/copilot で差分を自動レビューし、結果を PR コメントに\n貼る Jenkins パイプラインを作りました。\n「Copilot CLI を -p で叩くだけでしょ?」と思って始めたら、Linux の argv サイズ上限、\nプロンプ...",
+      "published": "2026-07-25T07:20:08+09:00",
+      "updated": "2026-07-25T07:20:09+09:00",
+      "author_name": "jqit-yukiono",
+      "likes_count": 14,
+      "last_seen": "2026-07-25T09:58:03.186946152+00:00"
     },
     {
       "key": "226e7c06bc9d5877e64e",
@@ -1019,18 +1031,6 @@
       "author_name": "jqit_suwa",
       "likes_count": 25,
       "last_seen": "2026-07-17T07:26:19.244790279+00:00"
-    },
-    {
-      "key": "2f4787ef19221773e685",
-      "item_id": "2f4787ef19221773e685",
-      "title": "Claude Managed AgentsでLチカ！（エージェント時代のIoTはこれか？！）",
-      "link": "https://qiita.com/moritalous/items/2f4787ef19221773e685?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Claudeのマネージドエージェントを少し触り始めました。\n\n先日のアップデートで「Self-hosted sandboxes」がサポートされました。\n\nツール実行のためのサンドボックス環境をClaude Platformの外に用意できるサービスで、Cloudfla...",
-      "published": "2026-05-24T11:37:36+09:00",
-      "updated": "2026-05-24T11:37:36+09:00",
-      "author_name": "moritalous",
-      "likes_count": 11,
-      "last_seen": "2026-05-26T07:30:19.873497222+00:00"
     },
     {
       "key": "2f57fda20f559b2e54ae",
@@ -1969,18 +1969,6 @@
       "last_seen": "2026-07-12T06:43:51.948947703+00:00"
     },
     {
-      "key": "508f016f15ff8ed3ea3e",
-      "item_id": "508f016f15ff8ed3ea3e",
-      "title": "差分が見えるMarkdownビューアー「Markview Pulse」を作った話",
-      "link": "https://qiita.com/syuji501/items/508f016f15ff8ed3ea3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "きっかけ\nMarkdownで書かれたドキュメントを確認するとき、「ちょうどよいビューアー」がないと思うことがあります。\nVS Codeなどのエディタを開けばプレビューはできます。ただ、Markdownを軽く読みたいときや、AI出力をざっと確認したいときには、少し大げさです...",
-      "published": "2026-05-23T07:23:44+09:00",
-      "updated": "2026-05-23T07:23:44+09:00",
-      "author_name": "syuji501",
-      "likes_count": 16,
-      "last_seen": "2026-05-26T07:30:19.873497222+00:00"
-    },
-    {
       "key": "5097f0575b58f4c69b81",
       "item_id": "5097f0575b58f4c69b81",
       "title": "Claude Code を司令塔に、Antigravity CLI（Gemini 3.5 Flash）を実装役として使う環境構築【従量課金ゼロ】",
@@ -2026,7 +2014,7 @@
       "updated": "2026-07-23T18:19:17+09:00",
       "author_name": "sumomoo",
       "likes_count": 54,
-      "last_seen": "2026-07-25T07:25:26.517740259+00:00"
+      "last_seen": "2026-07-25T09:58:03.186946152+00:00"
     },
     {
       "key": "5215ea3cd1ec635a1636",
@@ -2674,7 +2662,7 @@
       "updated": "2026-07-22T17:16:40+09:00",
       "author_name": "sumomoo",
       "likes_count": 81,
-      "last_seen": "2026-07-25T07:25:26.517740259+00:00"
+      "last_seen": "2026-07-25T09:58:03.186946152+00:00"
     },
     {
       "key": "71e164e43cf3c9a96a06",
@@ -2759,18 +2747,6 @@
       "author_name": "long-910",
       "likes_count": 14,
       "last_seen": "2026-06-08T19:51:46.163281572+00:00"
-    },
-    {
-      "key": "76b9695a600a7491800a",
-      "item_id": "76b9695a600a7491800a",
-      "title": "2025 Japan AWS Jr.Champions としての活動を振り返る",
-      "link": "https://qiita.com/yakumo_09/items/76b9695a600a7491800a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nこんにちは、やくもです。\n私は2025年度のJapan AWS Jr. Champions（以下、Jr. Champions）として活動してきました。本記事ではこの一年間の活動を振り返っていきます。\n\n本記事を通して、Jr. Champions というプログ...",
-      "published": "2026-05-23T11:03:39+09:00",
-      "updated": "2026-05-23T11:03:39+09:00",
-      "author_name": "yakumo_09",
-      "likes_count": 24,
-      "last_seen": "2026-05-26T07:30:19.873497222+00:00"
     },
     {
       "key": "76e416a5ae28f18ad976",
@@ -3061,18 +3037,6 @@
       "last_seen": "2026-05-28T07:39:44.939409781+00:00"
     },
     {
-      "key": "8034eafa81866da8f363",
-      "item_id": "8034eafa81866da8f363",
-      "title": "受け入れ駆動開発を試している: AIエージェント時代のDev/Review/QA",
-      "link": "https://qiita.com/autotaker1984/items/8034eafa81866da8f363?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n最近、AIエージェントを使ったWebアプリ開発の進め方をいろいろ試しています。\nこの記事は、製品開発の正式なプロセスを変えた話ではありません。個人的にいくつか実験してみた結果、「今のところ、この形にすると壊れにくそうだ」と感じていることをまとめたものです。\n最初...",
-      "published": "2026-05-23T10:04:34+09:00",
-      "updated": "2026-05-23T10:04:34+09:00",
-      "author_name": "autotaker1984",
-      "likes_count": 11,
-      "last_seen": "2026-05-26T07:30:19.873497222+00:00"
-    },
-    {
       "key": "81433a4eaae7d2030751",
       "item_id": "81433a4eaae7d2030751",
       "title": "コーディングエージェント時代に、あえて自分でコードを書く",
@@ -3155,6 +3119,18 @@
       "author_name": "tuanphan",
       "likes_count": 11,
       "last_seen": "2026-06-15T18:42:10.279693966+00:00"
+    },
+    {
+      "key": "8439fcee712184740608",
+      "item_id": "8439fcee712184740608",
+      "title": "生成AIを活用した自動化に必要な権限設計の考え方",
+      "link": "https://qiita.com/inamuu/items/8439fcee712184740608?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "こちらの記事は Medley Summer Tech Blog Relay の 9日目の記事です。\n\nはじめに\n株式会社メドレーの人材プラットフォームのSREグループに所属する稲村(@kzm0211)と申します。\n最近、子供が週4でバスケ（ミニバス）🏀 をやっており私...",
+      "published": "2026-07-24T09:50:58+09:00",
+      "updated": "2026-07-24T09:50:59+09:00",
+      "author_name": "inamuu",
+      "likes_count": 10,
+      "last_seen": "2026-07-25T09:58:03.186946152+00:00"
     },
     {
       "key": "854ce04da1490b43a848",
@@ -3479,6 +3455,18 @@
       "author_name": "akachiryo",
       "likes_count": 55,
       "last_seen": "2026-06-26T07:34:40.030355871+00:00"
+    },
+    {
+      "key": "91755838ea8589fde90d",
+      "item_id": "91755838ea8589fde90d",
+      "title": "個人開発でApp Storeリリースフローを学ぶ（続編）― 3回のリジェクトと審査通過までにやったこと",
+      "link": "https://qiita.com/jqit-yukiono/items/91755838ea8589fde90d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "個人開発でApp Storeリリースフローを学ぶ（続編）― 3回のリジェクトと審査通過までにやったこと\n前回の記事で、iOS（UIKit）+ FastAPI + Kubernetesで作ったMinecraftサーバー監視アプリ「MineWatch」の全体設計を紹介しました...",
+      "published": "2026-07-25T08:20:24+09:00",
+      "updated": "2026-07-25T08:20:25+09:00",
+      "author_name": "jqit-yukiono",
+      "likes_count": 14,
+      "last_seen": "2026-07-25T09:58:03.186946152+00:00"
     },
     {
       "key": "91fff5bce36956cbd2ea",
@@ -4401,8 +4389,8 @@
       "published": "2026-07-24T17:10:54+09:00",
       "updated": "2026-07-24T17:11:36+09:00",
       "author_name": "prumnn",
-      "likes_count": 25,
-      "last_seen": "2026-07-25T07:25:26.517740259+00:00"
+      "likes_count": 26,
+      "last_seen": "2026-07-25T09:58:03.186946152+00:00"
     },
     {
       "key": "b5ee04644ff6da7e7671",
@@ -4966,7 +4954,7 @@
       "updated": "2026-07-23T18:33:25+09:00",
       "author_name": "prumnn",
       "likes_count": 37,
-      "last_seen": "2026-07-25T07:25:26.517740259+00:00"
+      "last_seen": "2026-07-25T09:58:03.186946152+00:00"
     },
     {
       "key": "ced302095c8ddd3c8213",
@@ -5242,7 +5230,7 @@
       "updated": "2026-07-24T17:14:32+09:00",
       "author_name": "sumomoo",
       "likes_count": 32,
-      "last_seen": "2026-07-25T07:25:26.517740259+00:00"
+      "last_seen": "2026-07-25T09:58:03.186946152+00:00"
     },
     {
       "key": "d90580d5cbcb8215d6f9",
@@ -5446,7 +5434,7 @@
       "updated": "2026-07-23T10:21:53+09:00",
       "author_name": "akimasanishida",
       "likes_count": 19,
-      "last_seen": "2026-07-25T07:25:26.517740259+00:00"
+      "last_seen": "2026-07-25T09:58:03.186946152+00:00"
     },
     {
       "key": "e07a4d45ca5cf2ff14ef",
@@ -5807,18 +5795,6 @@
       "author_name": "prumnn",
       "likes_count": 44,
       "last_seen": "2026-07-24T07:39:50.104245423+00:00"
-    },
-    {
-      "key": "f3ea6b4dd29e327c0d43",
-      "item_id": "f3ea6b4dd29e327c0d43",
-      "title": "人を育てる企業ほど損をする？ ― “囚人のジレンマ”から考える日本経済の構造 : Pythonで学ぶ マクロ経済学入門 (83)",
-      "link": "https://qiita.com/maskot1977/items/f3ea6b4dd29e327c0d43?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "user:\n「Pythonで学ぶマクロ経済学入門」、第83回を始めましょう。まず\n「相続税は本当に格差是正になるのか？― 資産循環・成長・中間層をシミュレーションで考える : Pythonで学ぶ マクロ経済学入門 (82)」 \nhttps://qiita.com/mask...",
-      "published": "2026-05-24T00:18:29+09:00",
-      "updated": "2026-05-24T00:18:29+09:00",
-      "author_name": "maskot1977",
-      "likes_count": 14,
-      "last_seen": "2026-05-26T07:30:19.873497222+00:00"
     },
     {
       "key": "f451a4ecb49a9476f09b",
