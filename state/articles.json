@@ -369,8 +369,8 @@
       "published": "2026-07-25T15:46:06+09:00",
       "updated": "2026-07-25T15:46:06+09:00",
       "author_name": "watany",
-      "likes_count": 11,
-      "last_seen": "2026-07-25T23:08:15.136594019+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-07-26T03:48:36.066372732+00:00"
     },
     {
       "key": "1193da3bfee4f891137d",
@@ -706,7 +706,7 @@
       "updated": "2026-07-25T07:20:09+09:00",
       "author_name": "jqit-yukiono",
       "likes_count": 16,
-      "last_seen": "2026-07-25T23:08:15.136594019+00:00"
+      "last_seen": "2026-07-26T03:48:36.066372732+00:00"
     },
     {
       "key": "226e7c06bc9d5877e64e",
@@ -2013,8 +2013,8 @@
       "published": "2026-07-23T18:19:17+09:00",
       "updated": "2026-07-23T18:19:17+09:00",
       "author_name": "sumomoo",
-      "likes_count": 57,
-      "last_seen": "2026-07-25T23:08:15.136594019+00:00"
+      "likes_count": 61,
+      "last_seen": "2026-07-26T03:48:36.066372732+00:00"
     },
     {
       "key": "5215ea3cd1ec635a1636",
@@ -2195,6 +2195,18 @@
       "author_name": "tatsuya582",
       "likes_count": 30,
       "last_seen": "2026-06-12T19:46:49.956969185+00:00"
+    },
+    {
+      "key": "5d2c29a949a82eea6020",
+      "item_id": "5d2c29a949a82eea6020",
+      "title": "`&&` は「かつ」ではない",
+      "link": "https://qiita.com/mameshivaa/items/5d2c29a949a82eea6020?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "&amp;&amp; はなぜ言語によって「Boolean」を返したり「オペランドの値」を返したりするのか — 歴史的経緯の調査\na &amp;&amp; b という式の値は、言語ファミリーによって異なる。\n\nC / Java 系: 真偽値を返す。C では int の 1 か 0、Java では boo...",
+      "published": "2026-07-23T19:41:09+09:00",
+      "updated": "2026-07-23T19:41:09+09:00",
+      "author_name": "mameshivaa",
+      "likes_count": 10,
+      "last_seen": "2026-07-26T03:48:36.066372732+00:00"
     },
     {
       "key": "5d5da328ba7c58cb09ef",
@@ -2713,6 +2725,18 @@
       "last_seen": "2026-07-06T20:10:21.805985126+00:00"
     },
     {
+      "key": "745df317fc4778e8a5fb",
+      "item_id": "745df317fc4778e8a5fb",
+      "title": "[rclone] LinuxでOneDriveをファイルシステムに「ちゃんと」マウントする",
+      "link": "https://qiita.com/alpaca-honke/items/745df317fc4778e8a5fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "超久しぶりの投稿です\n\nTL;DR\n\nLinuxデスクトップでOneDriveをファイルシステムにマウントしたい\n(少なくとも僕の環境では) abraunegg/onedrive だと同期が不安定だった\nrcloneを使ってみた\n\nabraunegg/onedriveだと...",
+      "published": "2026-07-23T12:52:29+09:00",
+      "updated": "2026-07-23T12:52:29+09:00",
+      "author_name": "alpaca-honke",
+      "likes_count": 10,
+      "last_seen": "2026-07-26T03:48:36.066372732+00:00"
+    },
+    {
       "key": "747c997d65ac873addd1",
       "item_id": "747c997d65ac873addd1",
       "title": "学習が続かないエンジニアへ。仲間と一緒に成長できるコミュニティを作りました",
@@ -3129,8 +3153,8 @@
       "published": "2026-07-24T09:50:58+09:00",
       "updated": "2026-07-24T09:50:59+09:00",
       "author_name": "inamuu",
-      "likes_count": 11,
-      "last_seen": "2026-07-25T23:08:15.136594019+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-07-26T03:48:36.066372732+00:00"
     },
     {
       "key": "854ce04da1490b43a848",
@@ -3466,7 +3490,7 @@
       "updated": "2026-07-25T08:20:25+09:00",
       "author_name": "jqit-yukiono",
       "likes_count": 14,
-      "last_seen": "2026-07-25T23:08:15.136594019+00:00"
+      "last_seen": "2026-07-26T03:48:36.066372732+00:00"
     },
     {
       "key": "91fff5bce36956cbd2ea",
@@ -3997,6 +4021,18 @@
       "last_seen": "2026-06-15T18:42:10.279693966+00:00"
     },
     {
+      "key": "a784d74541fac33f6814",
+      "item_id": "a784d74541fac33f6814",
+      "title": "AI-DLC V2を導入し、その構成要素を組織に最適化させる",
+      "link": "https://qiita.com/Syoitu/items/a784d74541fac33f6814?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "前書き\nAI-DLC V2の仕様、みなさんはもう読まれたでしょうか\n\n2026年7月22日にAI-DLC V2がGAされ、V1の公開からおよそ1年が経過しました。\nこの間に成熟してきたAIエコシステムに合わせて、様々なアップデートが行われています。\nこの記事では、AI...",
+      "published": "2026-07-24T19:14:47+09:00",
+      "updated": "2026-07-24T19:14:47+09:00",
+      "author_name": "Syoitu",
+      "likes_count": 10,
+      "last_seen": "2026-07-26T03:48:36.066372732+00:00"
+    },
+    {
       "key": "a78a888ce0c4d2364232",
       "item_id": "a78a888ce0c4d2364232",
       "title": "AI が Windows を自律操作するって本当？ Project Opal (Frontier) を試して分かった「実用的な使いどころ」",
@@ -4389,8 +4425,8 @@
       "published": "2026-07-24T17:10:54+09:00",
       "updated": "2026-07-24T17:11:36+09:00",
       "author_name": "prumnn",
-      "likes_count": 27,
-      "last_seen": "2026-07-25T23:08:15.136594019+00:00"
+      "likes_count": 28,
+      "last_seen": "2026-07-26T03:48:36.066372732+00:00"
     },
     {
       "key": "b5ee04644ff6da7e7671",
@@ -4557,8 +4593,8 @@
       "published": "2026-07-25T20:22:16+09:00",
       "updated": "2026-07-25T20:23:44+09:00",
       "author_name": "WdknWdkn",
-      "likes_count": 15,
-      "last_seen": "2026-07-25T23:08:15.136594019+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-07-26T03:48:36.066372732+00:00"
     },
     {
       "key": "bab35c7b58a664d3b8f1",
@@ -5229,8 +5265,8 @@
       "published": "2026-07-24T17:14:32+09:00",
       "updated": "2026-07-24T17:14:32+09:00",
       "author_name": "sumomoo",
-      "likes_count": 35,
-      "last_seen": "2026-07-25T23:08:15.136594019+00:00"
+      "likes_count": 38,
+      "last_seen": "2026-07-26T03:48:36.066372732+00:00"
     },
     {
       "key": "d90580d5cbcb8215d6f9",
