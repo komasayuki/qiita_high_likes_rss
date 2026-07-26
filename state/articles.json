@@ -229,18 +229,6 @@
       "last_seen": "2026-07-12T19:19:39.414013489+00:00"
     },
     {
-      "key": "0aac69d8a962d2413d9d",
-      "item_id": "0aac69d8a962d2413d9d",
-      "title": "【悲報】100万台のAIサービスをスキャンしたら「史上最悪のセキュリティ」だった件",
-      "link": "https://qiita.com/emi_ndk/items/0aac69d8a962d2413d9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "あなたのAIサーバー、今この瞬間も丸見えです\n「AIを使えば業務が効率化される」\nそう信じて、急いでOllamaやn8nをデプロイした会社は多いだろう。\nでも、ちょっと待ってほしい。\nセキュリティ企業Intruderが今月発表した調査結果が、業界に衝撃を与えている。200...",
-      "published": "2026-05-24T16:44:12+09:00",
-      "updated": "2026-05-24T16:44:12+09:00",
-      "author_name": "emi_ndk",
-      "likes_count": 99,
-      "last_seen": "2026-05-27T07:44:03.319414314+00:00"
-    },
-    {
       "key": "0bccb60ebc165199dc19",
       "item_id": "0bccb60ebc165199dc19",
       "title": "PdMがフレームワークを使うときの注意点",
@@ -369,8 +357,8 @@
       "published": "2026-07-25T15:46:06+09:00",
       "updated": "2026-07-25T15:46:06+09:00",
       "author_name": "watany",
-      "likes_count": 17,
-      "last_seen": "2026-07-26T06:45:03.968599723+00:00"
+      "likes_count": 22,
+      "last_seen": "2026-07-26T09:22:23.569482434+00:00"
     },
     {
       "key": "1193da3bfee4f891137d",
@@ -706,7 +694,7 @@
       "updated": "2026-07-25T07:20:09+09:00",
       "author_name": "jqit-yukiono",
       "likes_count": 16,
-      "last_seen": "2026-07-26T06:45:03.968599723+00:00"
+      "last_seen": "2026-07-26T09:22:23.569482434+00:00"
     },
     {
       "key": "226e7c06bc9d5877e64e",
@@ -1429,6 +1417,18 @@
       "last_seen": "2026-05-29T19:56:42.299696404+00:00"
     },
     {
+      "key": "3a2b7cba67f4d8e0a7c7",
+      "item_id": "3a2b7cba67f4d8e0a7c7",
+      "title": "go.sumって何のためにあんの？",
+      "link": "https://qiita.com/kanzawa_kentaro/items/3a2b7cba67f4d8e0a7c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\ngo.mod と go.sum\n最近、Goの脆弱性チェックで落ちていてモジュールのバージョンを更新しろとCIに怒られたのをキッカケに改めて整理しました。\n\n1. バージョンを決めるのは go.mod と MVS\ngo.mod はモジュールのバージョンを管理するフ...",
+      "published": "2026-07-24T11:08:47+09:00",
+      "updated": "2026-07-24T11:08:48+09:00",
+      "author_name": "kanzawa_kentaro",
+      "likes_count": 10,
+      "last_seen": "2026-07-26T09:22:23.569482434+00:00"
+    },
+    {
       "key": "3a4157c1f68ba6d2091d",
       "item_id": "3a4157c1f68ba6d2091d",
       "title": "2026年にプログラミングを学ぶべきか",
@@ -2014,7 +2014,7 @@
       "updated": "2026-07-23T18:19:17+09:00",
       "author_name": "sumomoo",
       "likes_count": 61,
-      "last_seen": "2026-07-26T06:45:03.968599723+00:00"
+      "last_seen": "2026-07-26T09:22:23.569482434+00:00"
     },
     {
       "key": "5215ea3cd1ec635a1636",
@@ -2206,7 +2206,7 @@
       "updated": "2026-07-23T19:41:09+09:00",
       "author_name": "mameshivaa",
       "likes_count": 11,
-      "last_seen": "2026-07-26T06:45:03.968599723+00:00"
+      "last_seen": "2026-07-26T09:22:23.569482434+00:00"
     },
     {
       "key": "5d5da328ba7c58cb09ef",
@@ -3153,8 +3153,8 @@
       "published": "2026-07-24T09:50:58+09:00",
       "updated": "2026-07-24T09:50:59+09:00",
       "author_name": "inamuu",
-      "likes_count": 14,
-      "last_seen": "2026-07-26T06:45:03.968599723+00:00"
+      "likes_count": 15,
+      "last_seen": "2026-07-26T09:22:23.569482434+00:00"
     },
     {
       "key": "854ce04da1490b43a848",
@@ -3733,6 +3733,18 @@
       "last_seen": "2026-06-17T19:04:52.976745664+00:00"
     },
     {
+      "key": "9cf96baae4b01bbeb6d6",
+      "item_id": "9cf96baae4b01bbeb6d6",
+      "title": "非エンジニアが気楽に始める仕様駆動開発",
+      "link": "https://qiita.com/ynmc0214/items/9cf96baae4b01bbeb6d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "この記事はAIと壁打ちしながら人間が書きました。\n\n流行りの仕様駆動開発、とっつきづらく感じませんか？\nサービスデザイナーという肩書きで仕事している非エンジニアの僕には、正直ちょっと難しいと感じてました。\n理解を深めるために個人で仕様駆動開発にトライしてみたのですが、...",
+      "published": "2026-07-25T15:31:37+09:00",
+      "updated": "2026-07-25T15:31:37+09:00",
+      "author_name": "ynmc0214",
+      "likes_count": 11,
+      "last_seen": "2026-07-26T09:22:23.569482434+00:00"
+    },
+    {
       "key": "9da67e38ccfbb7542a70",
       "item_id": "9da67e38ccfbb7542a70",
       "title": "【イベントレポート】29年もののER図ツールがkintoneに対応 | devkin meetup! vol7",
@@ -4030,7 +4042,7 @@
       "updated": "2026-07-24T19:14:47+09:00",
       "author_name": "Syoitu",
       "likes_count": 10,
-      "last_seen": "2026-07-26T06:45:03.968599723+00:00"
+      "last_seen": "2026-07-26T09:22:23.569482434+00:00"
     },
     {
       "key": "a78a888ce0c4d2364232",
@@ -4055,18 +4067,6 @@
       "author_name": "Yamada040",
       "likes_count": 21,
       "last_seen": "2026-06-02T19:29:19.727613526+00:00"
-    },
-    {
-      "key": "a8274aef2a4c882197d6",
-      "item_id": "a8274aef2a4c882197d6",
-      "title": "Claude Codeのスキルが毎日勝手に改善されていく仕組みを作った",
-      "link": "https://qiita.com/hiropon122/items/a8274aef2a4c882197d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "この記事は Claude on SonicGarden の記事です。ソニックガーデンのプログラマが、Claude Codeの活用について書いています。#claude_on_sonicgarden\n\nきっかけ\n最近は dev-workflow というスキルでワークフロー化...",
-      "published": "2026-05-24T07:33:34+09:00",
-      "updated": "2026-05-24T07:33:34+09:00",
-      "author_name": "hiropon122",
-      "likes_count": 12,
-      "last_seen": "2026-05-27T07:44:03.319414314+00:00"
     },
     {
       "key": "a895edf4b5edc2caf39f",
@@ -4426,7 +4426,7 @@
       "updated": "2026-07-24T17:11:36+09:00",
       "author_name": "prumnn",
       "likes_count": 28,
-      "last_seen": "2026-07-26T06:45:03.968599723+00:00"
+      "last_seen": "2026-07-26T09:22:23.569482434+00:00"
     },
     {
       "key": "b5ee04644ff6da7e7671",
@@ -4593,8 +4593,8 @@
       "published": "2026-07-25T20:22:16+09:00",
       "updated": "2026-07-25T20:23:44+09:00",
       "author_name": "WdknWdkn",
-      "likes_count": 26,
-      "last_seen": "2026-07-26T06:45:03.968599723+00:00"
+      "likes_count": 28,
+      "last_seen": "2026-07-26T09:22:23.569482434+00:00"
     },
     {
       "key": "bab35c7b58a664d3b8f1",
@@ -5265,8 +5265,8 @@
       "published": "2026-07-24T17:14:32+09:00",
       "updated": "2026-07-24T17:14:32+09:00",
       "author_name": "sumomoo",
-      "likes_count": 41,
-      "last_seen": "2026-07-26T06:45:03.968599723+00:00"
+      "likes_count": 42,
+      "last_seen": "2026-07-26T09:22:23.569482434+00:00"
     },
     {
       "key": "d90580d5cbcb8215d6f9",
@@ -5617,18 +5617,6 @@
       "last_seen": "2026-07-02T19:45:47.627106630+00:00"
     },
     {
-      "key": "e727e6b9500fa186d9e3",
-      "item_id": "e727e6b9500fa186d9e3",
-      "title": "AWS AI-DLC Unicorn Gymに参加してきました！",
-      "link": "https://qiita.com/hyahyahyahyahoooi/items/e727e6b9500fa186d9e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nこんにちは！先日AWSさん主催の複数社合同ワークショップ「AI-DLC Unicorn Gym」に参加してきました。大阪での開催は今回が初めてとのことで、貴重な機会に参加させていただきました。\nこのワークショップはめちゃくちゃハードで、めちゃくちゃ学びが多いもの...",
-      "published": "2026-05-25T14:11:58+09:00",
-      "updated": "2026-05-26T11:02:29+09:00",
-      "author_name": "hyahyahyahyahoooi",
-      "likes_count": 15,
-      "last_seen": "2026-05-27T07:44:03.319414314+00:00"
-    },
-    {
       "key": "e7939e9f2a8b3e8177f8",
       "item_id": "e7939e9f2a8b3e8177f8",
       "title": "[初心者]Linuxと仲良くなれるコマンド3選",
@@ -5795,6 +5783,18 @@
       "author_name": "dahatake",
       "likes_count": 23,
       "last_seen": "2026-05-30T07:16:29.957692454+00:00"
+    },
+    {
+      "key": "efa81aaa8a61d3478568",
+      "item_id": "efa81aaa8a61d3478568",
+      "title": "開発効率が上がったCLIツール・コマンド10選",
+      "link": "https://qiita.com/NekoByte/items/efa81aaa8a61d3478568?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "「もう一度同じ作業をやり直し...」と画面を眺めながら、あの時は本当に何度もエラーに悩まされました。Gitのコミットログをたどるたびに「これ、毎回手で打つの大変だよな」と感じていた私が、ついにCLIツールに出会った瞬間、開発のスピードが劇的に変わったのを感じました。もし同じ...",
+      "published": "2026-07-26T01:56:11+09:00",
+      "updated": "2026-07-26T01:56:11+09:00",
+      "author_name": "NekoByte",
+      "likes_count": 12,
+      "last_seen": "2026-07-26T09:22:23.569482434+00:00"
     },
     {
       "key": "f02c34ae6dc994cd3084",
