@@ -121,18 +121,6 @@
       "last_seen": "2026-06-02T07:57:16.832960894+00:00"
     },
     {
-      "key": "02fd327e01146f79c45c",
-      "item_id": "02fd327e01146f79c45c",
-      "title": "Oracle AI Database@Google Cloud で Exadata を作成してみてみた",
-      "link": "https://qiita.com/shirok/items/02fd327e01146f79c45c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Oracle AI Database@Google Cloud で Exadata Database Service を作成してみた\nOracle は Google Cloud とのパートナーシップを拡大 し、両社の顧客がエンタープライズ・データ全体で AI を運用するた...",
-      "published": "2026-05-26T08:09:13+09:00",
-      "updated": "2026-05-26T18:40:55+09:00",
-      "author_name": "shirok",
-      "likes_count": 19,
-      "last_seen": "2026-05-28T19:56:09.979734011+00:00"
-    },
-    {
       "key": "03b9b817bf2015321159",
       "item_id": "03b9b817bf2015321159",
       "title": "プログラミング完全未経験から始める！競技プログラミング入門ガイド",
@@ -334,7 +322,7 @@
       "updated": "2026-07-27T21:03:03+09:00",
       "author_name": "k2_naka",
       "likes_count": 22,
-      "last_seen": "2026-07-27T19:48:19.798360870+00:00"
+      "last_seen": "2026-07-27T21:20:27.088120129+00:00"
     },
     {
       "key": "0fe99e9afff2c9f79fcd",
@@ -357,8 +345,8 @@
       "published": "2026-07-25T15:46:06+09:00",
       "updated": "2026-07-25T15:46:06+09:00",
       "author_name": "watany",
-      "likes_count": 56,
-      "last_seen": "2026-07-27T19:48:19.798360870+00:00"
+      "likes_count": 57,
+      "last_seen": "2026-07-27T21:20:27.088120129+00:00"
     },
     {
       "key": "1193da3bfee4f891137d",
@@ -371,6 +359,18 @@
       "author_name": "issey_dotlog",
       "likes_count": 27,
       "last_seen": "2026-06-20T07:35:30.302211707+00:00"
+    },
+    {
+      "key": "122f9a34360e256bf042",
+      "item_id": "122f9a34360e256bf042",
+      "title": "「経験がないから」を言い訳にしなくていい時代になった",
+      "link": "https://qiita.com/sumomoo/items/122f9a34360e256bf042?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや\n考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\nはじめに...",
+      "published": "2026-07-27T17:09:33+09:00",
+      "updated": "2026-07-27T17:09:33+09:00",
+      "author_name": "sumomoo",
+      "likes_count": 19,
+      "last_seen": "2026-07-27T21:20:27.088120129+00:00"
     },
     {
       "key": "12851eddd7dd3de02bf7",
@@ -913,6 +913,18 @@
       "last_seen": "2026-07-24T07:39:50.104245423+00:00"
     },
     {
+      "key": "2d7331eac0d4a01ba030",
+      "item_id": "2d7331eac0d4a01ba030",
+      "title": "【全6問】ITパスポートと基本情報、実際どのくらい難しいの?比べてみた",
+      "link": "https://qiita.com/prumnn/items/2d7331eac0d4a01ba030?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n\n資格の勉強に意味があると気づいたぷらむんですが、「じゃあ実際の試験問題ってどのくらい難しいの?」が気になって、プラ二郎先輩を巻き込んで実際に解いてみることにしました。\n\nこんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむ...",
+      "published": "2026-07-27T17:07:02+09:00",
+      "updated": "2026-07-27T17:07:02+09:00",
+      "author_name": "prumnn",
+      "likes_count": 17,
+      "last_seen": "2026-07-27T21:20:27.088120129+00:00"
+    },
+    {
       "key": "2dc91c5217ae52ef16c1",
       "item_id": "2dc91c5217ae52ef16c1",
       "title": "カフェで見る「Wi-Fi接続QRコード」の仕組みを調べてみた",
@@ -1139,18 +1151,6 @@
       "author_name": "ma-ryu",
       "likes_count": 13,
       "last_seen": "2026-05-30T19:39:27.145909601+00:00"
-    },
-    {
-      "key": "32992653448e346b7cc5",
-      "item_id": "32992653448e346b7cc5",
-      "title": "【PHP8.6？】PHPにジェネリクスが入るかもしれない",
-      "link": "https://qiita.com/rana_kualu/items/32992653448e346b7cc5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "なんかPHPソースコードに448ファイル15000行のプルリクがきていました。\n\nPHP8.6？\nfinal readonly class C&lt;+T&gt; {\n    public function __construct(public T $value) {}\n    pub...",
-      "published": "2026-05-25T20:02:21+09:00",
-      "updated": "2026-05-25T21:30:50+09:00",
-      "author_name": "rana_kualu",
-      "likes_count": 21,
-      "last_seen": "2026-05-28T19:56:09.979734011+00:00"
     },
     {
       "key": "32f915ac6df8fbede824",
@@ -2701,18 +2701,6 @@
       "last_seen": "2026-06-01T08:10:46.546150654+00:00"
     },
     {
-      "key": "75b8ff55095604bd48b5",
-      "item_id": "75b8ff55095604bd48b5",
-      "title": "PythonとJavaのコードの違い",
-      "link": "https://qiita.com/karusifa2/items/75b8ff55095604bd48b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n4月に入社した入社1年目の人間です。\n今回は研修で学んだ言語の中でもPythonとJavaに注目をおいて構成やコードの違いについて紹介します。\n\n目次\n1. きっかけ\n2. 実行環境\n3. コードの比較\n3-1 計算文\n3-2 基本構造の有無\n3-3 変数宣言\n...",
-      "published": "2026-05-27T09:03:09+09:00",
-      "updated": "2026-05-27T09:03:10+09:00",
-      "author_name": "karusifa2",
-      "likes_count": 44,
-      "last_seen": "2026-05-28T19:56:09.979734011+00:00"
-    },
-    {
       "key": "76779fc1d8602dab73b3",
       "item_id": "76779fc1d8602dab73b3",
       "title": "CVE-2026-49975「HTTP/2 Bomb」をわかりやすく解説——AIが人間より先に気づいた脆弱性",
@@ -3682,7 +3670,7 @@
       "updated": "2026-07-25T15:31:37+09:00",
       "author_name": "ynmc0214",
       "likes_count": 24,
-      "last_seen": "2026-07-27T19:48:19.798360870+00:00"
+      "last_seen": "2026-07-27T21:20:27.088120129+00:00"
     },
     {
       "key": "9da67e38ccfbb7542a70",
@@ -3707,6 +3695,18 @@
       "author_name": "nanbuwks",
       "likes_count": 11,
       "last_seen": "2026-06-17T08:11:29.822958299+00:00"
+    },
+    {
+      "key": "9f45910262d238964997",
+      "item_id": "9f45910262d238964997",
+      "title": "RTX 3090（24GB）で7Bモデル学習を成立― 個人GPUで大規模Transformerを動かすための実践記録",
+      "link": "https://qiita.com/nakatada-lab/items/9f45910262d238964997?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nRTX 3090（VRAM 24GB）1枚、WSL2上のUbuntuという環境で、7Bパラメータ規模のTransformer系モデルを事前学習させるプロジェクトに取り組んでいます。\nクラウドGPUではなく手元のハードウェアだけで完結させたい。その動機は単純で、研...",
+      "published": "2026-07-25T09:25:54+09:00",
+      "updated": "2026-07-27T15:18:19+09:00",
+      "author_name": "nakatada-lab",
+      "likes_count": 10,
+      "last_seen": "2026-07-27T21:20:27.088120129+00:00"
     },
     {
       "key": "9f5764ae814aae9e98a7",
@@ -4317,8 +4317,8 @@
       "published": "2026-07-25T19:28:39+09:00",
       "updated": "2026-07-25T19:28:39+09:00",
       "author_name": "musenmai",
-      "likes_count": 20,
-      "last_seen": "2026-07-27T19:48:19.798360870+00:00"
+      "likes_count": 21,
+      "last_seen": "2026-07-27T21:20:27.088120129+00:00"
     },
     {
       "key": "b5810c35502ef14f6ed9",
@@ -4522,7 +4522,7 @@
       "updated": "2026-07-25T20:23:44+09:00",
       "author_name": "WdknWdkn",
       "likes_count": 58,
-      "last_seen": "2026-07-27T19:48:19.798360870+00:00"
+      "last_seen": "2026-07-27T21:20:27.088120129+00:00"
     },
     {
       "key": "bab35c7b58a664d3b8f1",
@@ -4726,7 +4726,7 @@
       "updated": "2026-07-27T01:38:09+09:00",
       "author_name": "Oyu3m",
       "likes_count": 11,
-      "last_seen": "2026-07-27T19:48:19.798360870+00:00"
+      "last_seen": "2026-07-27T21:20:27.088120129+00:00"
     },
     {
       "key": "c61eb886faa1cee69054",
@@ -5663,18 +5663,6 @@
       "author_name": "NekoByte",
       "likes_count": 32,
       "last_seen": "2026-07-27T00:10:34.872094504+00:00"
-    },
-    {
-      "key": "f02c34ae6dc994cd3084",
-      "item_id": "f02c34ae6dc994cd3084",
-      "title": "【新入社員研修】Linuxの基本操作",
-      "link": "https://qiita.com/cookiepunch/items/f02c34ae6dc994cd3084?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "★はじめに！！\nはじめまして！新入社員のクッキーパンチと申します。\nこの記事では新人社員研修のうちの一つで取り扱われたサーバ研修でのLinuxの基本操作についてまとめたいと思います。\n\n・ Linuxとは\nオープンソース(※商用サポートは有料)で、幅広い用途で使用されて...",
-      "published": "2026-05-27T09:00:22+09:00",
-      "updated": "2026-05-27T09:00:23+09:00",
-      "author_name": "cookiepunch",
-      "likes_count": 42,
-      "last_seen": "2026-05-28T19:56:09.979734011+00:00"
     },
     {
       "key": "f1855ff508f4268df5b5",
