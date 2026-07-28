@@ -182,18 +182,6 @@ Gitは開発現場では欠かせないツールですが、「最近Gitって�
 だいぶ個人の感想的な内容なので、他...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a36051a97d3b0670bedd</id>
-    <title>【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する</title>
-    <link rel="alternate" href="https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-28T16:20:24+09:00</updated>
-    <summary type="html">Likes: 138&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/emi_ndk&quot;&gt;emi_ndk&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T18:51:29+09:00&lt;br/&gt;Updated: 2026-05-28T16:20:24+09:00&lt;br/&gt;先日の記事「100万台のAIサービスをスキャンしたら史上最悪のセキュリティだった」が大きな反響をいただいた。
-この記事では：
-
-CVE-2026-7482「Bleeding Llama」の技術的詳細
-AI生成ゼロデイの完全分析
-OWASP LLM Top 10 2026の全...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:626dfa7857f2d554784e</id>
     <title>GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた</title>
     <link rel="alternate" href="https://qiita.com/shinkai_/items/626dfa7857f2d554784e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -652,16 +640,6 @@ Claude Code × GitHubで「自分の取扱説明書」を作り、AIに丸ごと
 構成図やフロー図を生成AIに清書させているが、「画像だと後から直せない」と感じている人（前回の記事は未読でも大丈夫です）
 説明するための図を全部AIで作りたい人
 AWSの構成図をAIに描かせたいけど、アイコンや体裁が崩れる...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:dc26f7468dcd39fbe62f</id>
-    <title>16万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術</title>
-    <link rel="alternate" href="https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-29T13:25:50+09:00</updated>
-    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/4q_sano&quot;&gt;4q_sano&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T22:39:19+09:00&lt;br/&gt;Updated: 2026-05-29T13:25:50+09:00&lt;br/&gt;Claude Code を使っていて、最近かなり重要だと感じているのが CLAUDE.md の運用です。
-Claude Code は非常に強力ですが、既存コードベースで長時間動かすと、次のような問題が起きやすくなります。
-勝手にリファクタする
-関係ないファイルまで変更する...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:86307593829ac5e70852</id>
@@ -2211,5 +2189,26 @@ settings.json の p...</summary>
 小生、未経験から開発職について早一年。
 今やどんなソースもガリレオのように解読し、もう八面六臂の大活躍で上司もにんまり。
 なんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないので...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b75ebc3e17afa9780381</id>
+    <title>育休中にTOEIC900超えた話とその勉強法【スコア推移あり】</title>
+    <link rel="alternate" href="https://qiita.com/satomiii/items/b75ebc3e17afa9780381?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-16T09:32:57+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satomiii&quot;&gt;satomiii&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T09:32:57+09:00&lt;br/&gt;Updated: 2026-06-16T09:32:57+09:00&lt;br/&gt;TOEIC900を目指そうと思ったきっかけ
+
+もともと英語が好きだったから
+前職が外資系で海外のスタッフと会話することもあったが、自分の英語のできなさを痛感したから
+自分の性格上、900とらないと満足しないと思ったから（これが大きい）
+育休中、何か数字で見える結果が欲しか...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:eee10528b403baf89631</id>
+    <title>AI Readyな設計書を目指して。人もAIも読みやすい設計書管理</title>
+    <link rel="alternate" href="https://qiita.com/grhg/items/eee10528b403baf89631?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-16T00:51:12+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/grhg&quot;&gt;grhg&lt;/a&gt;&lt;br/&gt;Published: 2026-06-13T04:48:08+09:00&lt;br/&gt;Updated: 2026-06-16T00:51:12+09:00&lt;br/&gt;はじめに
+以前、設計書はMarkdownで管理してPDFに自動変換しよう！ という記事で、設計書を Markdown で管理していく話を書きました。
+ここではその発展形として、Markdown で管理した設計書を HTML として公開し、GitHub 上でのレビューや A...</summary>
   </entry>
 </feed>
