@@ -298,7 +298,7 @@
       "updated": "2026-07-28T13:36:40+09:00",
       "author_name": "sumomoo",
       "likes_count": 51,
-      "last_seen": "2026-07-30T18:40:13.254390155+00:00"
+      "last_seen": "2026-07-30T20:22:25.154986413+00:00"
     },
     {
       "key": "0dea3706713f90e7ef7d",
@@ -538,7 +538,7 @@
       "updated": "2026-07-28T06:07:03+09:00",
       "author_name": "Nana_777",
       "likes_count": 22,
-      "last_seen": "2026-07-30T18:40:13.254390155+00:00"
+      "last_seen": "2026-07-30T20:22:25.154986413+00:00"
     },
     {
       "key": "180292de6cbb83a9672b",
@@ -574,7 +574,7 @@
       "updated": "2026-07-29T14:36:26+09:00",
       "author_name": "sumomoo",
       "likes_count": 37,
-      "last_seen": "2026-07-30T18:40:13.254390155+00:00"
+      "last_seen": "2026-07-30T20:22:25.154986413+00:00"
     },
     {
       "key": "192403c9ff6a433fe0b6",
@@ -1209,8 +1209,8 @@
       "published": "2026-07-29T20:27:10+09:00",
       "updated": "2026-07-29T20:27:10+09:00",
       "author_name": "Kaitou",
-      "likes_count": 14,
-      "last_seen": "2026-07-30T18:40:13.254390155+00:00"
+      "likes_count": 15,
+      "last_seen": "2026-07-30T20:22:25.154986413+00:00"
     },
     {
       "key": "343dd140ee519a8d62bd",
@@ -1751,6 +1751,18 @@
       "author_name": "s-furuya-nri",
       "likes_count": 179,
       "last_seen": "2026-06-02T07:57:16.832960894+00:00"
+    },
+    {
+      "key": "43dc7431773cab0b76b8",
+      "item_id": "43dc7431773cab0b76b8",
+      "title": "オンプレミスからプライベートなAPI Gatewayを呼ぶ ― CognitoのTokenエンドポイントをAPI Gatewayでプロキシする構成",
+      "link": "https://qiita.com/ajisawa/items/43dc7431773cab0b76b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "本記事は、BIPROGY / ユニアデックス社内AWSコミュニティ「BIPROGY AWS SPARK」の定期投稿企画第3回目の記事です。他の定期投稿企画の記事は、インデックスページをご覧ください。\n\nはじめに\nオンプレミスの社内システムから、AWSのVPC内に構成...",
+      "published": "2026-07-29T09:32:47+09:00",
+      "updated": "2026-07-29T09:32:47+09:00",
+      "author_name": "ajisawa",
+      "likes_count": 10,
+      "last_seen": "2026-07-30T20:22:25.154986413+00:00"
     },
     {
       "key": "44b25e2a51d12482a308",
@@ -2518,7 +2530,7 @@
       "updated": "2026-07-29T21:24:22+09:00",
       "author_name": "shirok",
       "likes_count": 25,
-      "last_seen": "2026-07-30T18:40:13.254390155+00:00"
+      "last_seen": "2026-07-30T20:22:25.154986413+00:00"
     },
     {
       "key": "6ac5b511b055d34d88fb",
@@ -2781,8 +2793,8 @@
       "published": "2026-07-28T13:08:47+09:00",
       "updated": "2026-07-28T13:57:40+09:00",
       "author_name": "jqit_suwa",
-      "likes_count": 23,
-      "last_seen": "2026-07-30T06:37:18.541368200+00:00"
+      "likes_count": 25,
+      "last_seen": "2026-07-30T20:22:25.154986413+00:00"
     },
     {
       "key": "76779fc1d8602dab73b3",
@@ -3046,7 +3058,7 @@
       "updated": "2026-07-29T17:32:43+09:00",
       "author_name": "prumnn",
       "likes_count": 38,
-      "last_seen": "2026-07-30T18:40:13.254390155+00:00"
+      "last_seen": "2026-07-30T20:22:25.154986413+00:00"
     },
     {
       "key": "7deae192de183eb6f8bc",
@@ -3709,18 +3721,6 @@
       "last_seen": "2026-06-24T19:42:54.545066426+00:00"
     },
     {
-      "key": "9b71285a9dd448e53bb1",
-      "item_id": "9b71285a9dd448e53bb1",
-      "title": "Codexのコンテキスト圧縮はなぜ優秀なのか — ソースコードから読み解く設計",
-      "link": "https://qiita.com/nogataka/items/9b71285a9dd448e53bb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nLLMベースのコーディングエージェントを長時間動かしたことがある方なら、一度は「途中で文脈を見失って急に的外れな動きを始める」現象に遭遇したはずです。この崩壊の多くは、コンテキストウィンドウの管理に起因します。\nCodex CLIは、この問題に対して単なる「古い...",
-      "published": "2026-05-28T17:59:29+09:00",
-      "updated": "2026-05-28T17:59:29+09:00",
-      "author_name": "nogataka",
-      "likes_count": 12,
-      "last_seen": "2026-05-31T19:38:59.490943412+00:00"
-    },
-    {
       "key": "9c19946f020a065d2dce",
       "item_id": "9c19946f020a065d2dce",
       "title": "量子クラウドって実際どうなの？第1の発見：待ち時間がある",
@@ -4007,18 +4007,6 @@
       "author_name": "yuji-arakawa",
       "likes_count": 12,
       "last_seen": "2026-07-15T06:24:41.120326749+00:00"
-    },
-    {
-      "key": "a5234436a61194e24df7",
-      "item_id": "a5234436a61194e24df7",
-      "title": "出たてほやほやのClaude Opus 4.8を整理してみた",
-      "link": "https://qiita.com/kaichan_dot/items/a5234436a61194e24df7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "出典：Anthropic公式ブログ「Introducing Claude Opus 4.8」 より引用\n今回の記事は、「また新しいClaude出たけど、結局なにが変わったん？」を、サクッと要点キャッチアップする記事です。\n\nはじめに\nClaude Opus 4.8が公開さ...",
-      "published": "2026-05-29T04:38:36+09:00",
-      "updated": "2026-05-30T01:44:22+09:00",
-      "author_name": "kaichan_dot",
-      "likes_count": 30,
-      "last_seen": "2026-05-31T19:38:59.490943412+00:00"
     },
     {
       "key": "a5f9ddad9c2b9bad76af",
@@ -4990,7 +4978,7 @@
       "updated": "2026-07-30T09:47:06+09:00",
       "author_name": "jqit_suwa",
       "likes_count": 16,
-      "last_seen": "2026-07-30T18:40:13.254390155+00:00"
+      "last_seen": "2026-07-30T20:22:25.154986413+00:00"
     },
     {
       "key": "ceb0f115dfe9459315bf",
@@ -5146,7 +5134,7 @@
       "updated": "2026-07-30T10:30:50+09:00",
       "author_name": "ksonoda",
       "likes_count": 12,
-      "last_seen": "2026-07-30T18:40:13.254390155+00:00"
+      "last_seen": "2026-07-30T20:22:25.154986413+00:00"
     },
     {
       "key": "d33908602fd060f5e1d1",
@@ -5770,7 +5758,7 @@
       "updated": "2026-07-28T12:15:04+09:00",
       "author_name": "hikarijlcpcb",
       "likes_count": 12,
-      "last_seen": "2026-07-30T18:40:13.254390155+00:00"
+      "last_seen": "2026-07-30T20:22:25.154986413+00:00"
     },
     {
       "key": "f3695454f0de13aa8d7f",
