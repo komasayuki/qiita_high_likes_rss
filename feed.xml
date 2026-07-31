@@ -1506,6 +1506,16 @@ Dify、RAGFlow、LlamaIndex、LangChain、GraphRAG、LightRAG、Docling、Marker
 最初はシンプルに「全会話履歴をそのままLLMに渡す」素朴な実装からスタートし、その問題点を実際に確認しながら、RAG（Retrieval-...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ff38655fed51a2920910</id>
+    <title>コードベースのナレッジ化なら、LLM Wikiで十分かもしれない</title>
+    <link rel="alternate" href="https://qiita.com/Syoitu/items/ff38655fed51a2920910?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-30T15:24:02+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T15:24:02+09:00&lt;br/&gt;Updated: 2026-07-30T15:24:02+09:00&lt;br/&gt;前書き
+コーディングエージェントに改修を依頼するたびに、「この修正はどこまで影響するんだろう」と、同じ調査を何度もやり直させた経験はないでしょうか
+社内の仕様書や設計ドキュメントをベクトルDBに入れて、エージェントに検索させる構成を組んでいる方も多いと思います。
+ドキュメ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c5daff368bc75c79e7b0</id>
     <title>「え！！Microsoft 365 Copilotでアプリ作成を！？」「出来らぁ！」</title>
     <link rel="alternate" href="https://qiita.com/Oyu3m/items/c5daff368bc75c79e7b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1631,16 +1641,6 @@ FOMO ── Fear of Missi...</summary>
 本屋の技術書コーナーでよく見かける「〇〇アーキテクチャ」というタイトルの本。なんとなくスルーしていたぷらむんが、ITパスポートの勉強中についに「アーキテクチャ」の文字に出会って、調べずにいられなくなった話です。
 
 こんにちわ、会社で自称マスコットキャラをや...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ff38655fed51a2920910</id>
-    <title>コードベースのナレッジ化なら、LLM Wikiで十分かもしれない</title>
-    <link rel="alternate" href="https://qiita.com/Syoitu/items/ff38655fed51a2920910?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-30T15:24:02+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T15:24:02+09:00&lt;br/&gt;Updated: 2026-07-30T15:24:02+09:00&lt;br/&gt;前書き
-コーディングエージェントに改修を依頼するたびに、「この修正はどこまで影響するんだろう」と、同じ調査を何度もやり直させた経験はないでしょうか
-社内の仕様書や設計ドキュメントをベクトルDBに入れて、エージェントに検索させる構成を組んでいる方も多いと思います。
-ドキュメ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:438336db3684cf662321</id>
@@ -2054,6 +2054,16 @@ Codex や Claude Code のようなAIコーディングエージェントに「Or
 AIエージェントに絶対に任せてはいけない6つのこ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:33e9a09af8ea5bdeebeb</id>
+    <title>オーダーメイドで九九の計算プリントを作ろう（ローテクAI）</title>
+    <link rel="alternate" href="https://qiita.com/Kaitou/items/33e9a09af8ea5bdeebeb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-29T20:27:10+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Kaitou&quot;&gt;Kaitou&lt;/a&gt;&lt;br/&gt;Published: 2026-07-29T20:27:10+09:00&lt;br/&gt;Updated: 2026-07-29T20:27:10+09:00&lt;br/&gt;夏休み中で小学生が家に居るおとうさん、おかあさん。
+暑い中でなかなか外では遊べませんが、動画視聴やゲームばかりというのも気になります。
+せっかくの機会なので、お子さんの苦手分野のプリントを作って、クイズ的に一緒にやってみませんか？
+Geminiでこんなプロンプトを入力すると...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:34a4486f6ab1b15211a9</id>
     <title>ぷよぷよプログラミング体験談</title>
     <link rel="alternate" href="https://qiita.com/sakurada110/items/34a4486f6ab1b15211a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2176,16 +2186,6 @@ B「8行で十分。増やすより削るほうが効く」
     <link rel="alternate" href="https://qiita.com/shirok/items/6a2a3e6992ab0eb93d7a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-07-29T21:24:22+09:00</updated>
     <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-07-28T06:55:38+09:00&lt;br/&gt;Updated: 2026-07-29T21:24:22+09:00&lt;br/&gt;oracle-ai-ready-data Skill 第1回では、サンプルのHRスキーマを対象にoracle-ai-ready-data SkillでAI Ready評価を行いました。HRスキーマはテーブル名やカラム名、主キー・外部キーなどが比較的分かりやすく整備されてい...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:33e9a09af8ea5bdeebeb</id>
-    <title>オーダーメイドで九九の計算プリントを作ろう（ローテクAI）</title>
-    <link rel="alternate" href="https://qiita.com/Kaitou/items/33e9a09af8ea5bdeebeb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-29T20:27:10+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Kaitou&quot;&gt;Kaitou&lt;/a&gt;&lt;br/&gt;Published: 2026-07-29T20:27:10+09:00&lt;br/&gt;Updated: 2026-07-29T20:27:10+09:00&lt;br/&gt;夏休み中で小学生が家に居るおとうさん、おかあさん。
-暑い中でなかなか外では遊べませんが、動画視聴やゲームばかりというのも気になります。
-せっかくの機会なので、お子さんの苦手分野のプリントを作って、クイズ的に一緒にやってみませんか？
-Geminiでこんなプロンプトを入力すると...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:74a96ce83dde5245407a</id>
