@@ -1396,15 +1396,14 @@ High
 娘「全ての...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:f1855ff508f4268df5b5</id>
-    <title>私の最強のMac開発環境 2026: Nixとmiseで育てる🐱</title>
-    <link rel="alternate" href="https://qiita.com/tyPhoon/items/f1855ff508f4268df5b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-29T21:11:50+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tyPhoon&quot;&gt;tyPhoon&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T21:11:50+09:00&lt;br/&gt;Updated: 2026-05-29T21:11:50+09:00&lt;br/&gt;要約
-
-2026年5月時点で運用している、Mac向けの開発環境をスナップショットとして紹介します
-環境の土台はNix、GUIアプリはHomebrew、プロジェクトごとの開発者ツールはmiseで分担しています
-ツール単体の良さだけでなく、どう組み合わせて日々の開発効率を上げ...</summary>
+    <id>tag:qiita.com,2026:ff38655fed51a2920910</id>
+    <title>コードベースのナレッジ化なら、LLM Wikiで十分かもしれない</title>
+    <link rel="alternate" href="https://qiita.com/Syoitu/items/ff38655fed51a2920910?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-30T15:24:02+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T15:24:02+09:00&lt;br/&gt;Updated: 2026-07-30T15:24:02+09:00&lt;br/&gt;前書き
+コーディングエージェントに改修を依頼するたびに、「この修正はどこまで影響するんだろう」と、同じ調査を何度もやり直させた経験はないでしょうか
+社内の仕様書や設計ドキュメントをベクトルDBに入れて、エージェントに検索させる構成を組んでいる方も多いと思います。
+ドキュメ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:405f4a78ec5f0232b234</id>
@@ -1506,16 +1505,6 @@ Dify、RAGFlow、LlamaIndex、LangChain、GraphRAG、LightRAG、Docling、Marker
 最初はシンプルに「全会話履歴をそのままLLMに渡す」素朴な実装からスタートし、その問題点を実際に確認しながら、RAG（Retrieval-...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:ff38655fed51a2920910</id>
-    <title>コードベースのナレッジ化なら、LLM Wikiで十分かもしれない</title>
-    <link rel="alternate" href="https://qiita.com/Syoitu/items/ff38655fed51a2920910?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-30T15:24:02+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T15:24:02+09:00&lt;br/&gt;Updated: 2026-07-30T15:24:02+09:00&lt;br/&gt;前書き
-コーディングエージェントに改修を依頼するたびに、「この修正はどこまで影響するんだろう」と、同じ調査を何度もやり直させた経験はないでしょうか
-社内の仕様書や設計ドキュメントをベクトルDBに入れて、エージェントに検索させる構成を組んでいる方も多いと思います。
-ドキュメ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:c5daff368bc75c79e7b0</id>
     <title>「え！！Microsoft 365 Copilotでアプリ作成を！？」「出来らぁ！」</title>
     <link rel="alternate" href="https://qiita.com/Oyu3m/items/c5daff368bc75c79e7b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1562,6 +1551,17 @@ OpenAIによるChatGPTの公開から、早くも3年以上の月日が経ちま
 「TypeScriptにおける anyと unknownの違いと、それぞれをどのような場面で使うべきか説明してください。」
 
 眺...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:da1cd811a3a7408472d2</id>
+    <title>「アーキテクチャ」って結局何？ITパスポートのEAを調べてみた</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/da1cd811a3a7408472d2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-31T14:20:25+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-07-31T14:20:25+09:00&lt;br/&gt;Updated: 2026-07-31T14:20:25+09:00&lt;br/&gt;はじめに
+
+本屋の技術書コーナーでよく見かける「〇〇アーキテクチャ」というタイトルの本。なんとなくスルーしていたぷらむんが、ITパスポートの勉強中についに「アーキテクチャ」の文字に出会って、調べずにいられなくなった話です。
+
+こんにちわ、会社で自称マスコットキャラをや...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2d7331eac0d4a01ba030</id>
@@ -1630,17 +1630,6 @@ FOMO ── Fear of Missi...</summary>
 
 モデル概要
 まあ読んでいる時点で知らないことはないと思いますが前...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:da1cd811a3a7408472d2</id>
-    <title>「アーキテクチャ」って結局何？ITパスポートのEAを調べてみた</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/da1cd811a3a7408472d2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-31T14:20:25+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-07-31T14:20:25+09:00&lt;br/&gt;Updated: 2026-07-31T14:20:25+09:00&lt;br/&gt;はじめに
-
-本屋の技術書コーナーでよく見かける「〇〇アーキテクチャ」というタイトルの本。なんとなくスルーしていたぷらむんが、ITパスポートの勉強中についに「アーキテクチャ」の文字に出会って、調べずにいられなくなった話です。
-
-こんにちわ、会社で自称マスコットキャラをや...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:438336db3684cf662321</id>
@@ -2208,5 +2197,15 @@ Claude Opus 5 では、これは消したほうがいい一文になりました
     <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T08:29:02+09:00&lt;br/&gt;Updated: 2026-07-15T08:29:02+09:00&lt;br/&gt;はじめに
 Claude Code、コードを書かせるだけで使ってませんか？それ、正直めちゃくちゃもったいないです。
 Claude Code のすごいところは、手を動かしてくれる相棒であると同時に、隣に座ってる先生でもあること。実装を丸投げするんじゃなくて、「教えてもらう」「...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5e5ec4d5e96b12fbc75c</id>
+    <title>ナレッジ83件を2時間で作った。でも腐るのは、もっと速かった</title>
+    <link rel="alternate" href="https://qiita.com/yamada-iknow/items/5e5ec4d5e96b12fbc75c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-10T07:00:29+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamada-iknow&quot;&gt;yamada-iknow&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T07:00:29+09:00&lt;br/&gt;Updated: 2026-07-10T07:00:29+09:00&lt;br/&gt;TL;DR
+
+自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
+でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
   </entry>
 </feed>
