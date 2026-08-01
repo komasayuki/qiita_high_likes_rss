@@ -929,22 +929,22 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 というのも、これまでの「DFS / BFS」「計算量（Big-O）」「DBインデックス」——実はこの3記事、全部 データ構造 の話をしてい...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ff38655fed51a2920910</id>
+    <title>コードベースのナレッジ化なら、LLM Wikiで十分かもしれない</title>
+    <link rel="alternate" href="https://qiita.com/Syoitu/items/ff38655fed51a2920910?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-30T15:24:02+09:00</updated>
+    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T15:24:02+09:00&lt;br/&gt;Updated: 2026-07-30T15:24:02+09:00&lt;br/&gt;前書き
+コーディングエージェントに改修を依頼するたびに、「この修正はどこまで影響するんだろう」と、同じ調査を何度もやり直させた経験はないでしょうか
+社内の仕様書や設計ドキュメントをベクトルDBに入れて、エージェントに検索させる構成を組んでいる方も多いと思います。
+ドキュメ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c61eb886faa1cee69054</id>
     <title>日本酒記録アプリをAWSを使って作ってみた</title>
     <link rel="alternate" href="https://qiita.com/yo_arai/items/c61eb886faa1cee69054?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-03T00:17:43+09:00</updated>
     <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yo_arai&quot;&gt;yo_arai&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T00:17:43+09:00&lt;br/&gt;Updated: 2026-06-03T00:17:43+09:00&lt;br/&gt;はじめに
 日本酒を飲むたびに「この銘柄・スペック、前も飲んだっけ？」「あのとき飲んだやつ何だったっけ？」と思うことが増えてきました。メモアプリに記録するのは面倒、SNSに投稿するのはちょっと違う、専用アプリはUIが好みでない。。。ということで、自分用に「酒ファイル」という...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ff38655fed51a2920910</id>
-    <title>コードベースのナレッジ化なら、LLM Wikiで十分かもしれない</title>
-    <link rel="alternate" href="https://qiita.com/Syoitu/items/ff38655fed51a2920910?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-30T15:24:02+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T15:24:02+09:00&lt;br/&gt;Updated: 2026-07-30T15:24:02+09:00&lt;br/&gt;前書き
-コーディングエージェントに改修を依頼するたびに、「この修正はどこまで影響するんだろう」と、同じ調査を何度もやり直させた経験はないでしょうか
-社内の仕様書や設計ドキュメントをベクトルDBに入れて、エージェントに検索させる構成を組んでいる方も多いと思います。
-ドキュメ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c146eb7c2885036c6b83</id>
@@ -1477,6 +1477,19 @@ Dify、RAGFlow、LlamaIndex、LangChain、GraphRAG、LightRAG、Docling、Marker
 最初はシンプルに「全会話履歴をそのままLLMに渡す」素朴な実装からスタートし、その問題点を実際に確認しながら、RAG（Retrieval-...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cea574550613de33a114</id>
+    <title>CLAUDE.md は21セクションか、8行か — 公式ドキュメントで決着をつけた</title>
+    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/cea574550613de33a114?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-30T09:47:06+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T09:47:06+09:00&lt;br/&gt;Updated: 2026-07-30T09:47:06+09:00&lt;br/&gt;CLAUDE.md の書き方を調べていたら、正反対の主張に行き当たりました。
+
+A「20項目以上のテンプレートを用意して、役割・規約・テスト戦略・セキュリティまで網羅すべき」
+
+B「8行で十分。増やすより削るほうが効く」
+
+どちらも自信を持って書かれています。両方試したう...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c5daff368bc75c79e7b0</id>
     <title>「え！！Microsoft 365 Copilotでアプリ作成を！？」「出来らぁ！」</title>
     <link rel="alternate" href="https://qiita.com/Oyu3m/items/c5daff368bc75c79e7b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1639,17 +1652,14 @@ Claude Code が爆誕してから1年以上経った。
 それ以前に少し...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:cea574550613de33a114</id>
-    <title>CLAUDE.md は21セクションか、8行か — 公式ドキュメントで決着をつけた</title>
-    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/cea574550613de33a114?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-30T09:47:06+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T09:47:06+09:00&lt;br/&gt;Updated: 2026-07-30T09:47:06+09:00&lt;br/&gt;CLAUDE.md の書き方を調べていたら、正反対の主張に行き当たりました。
-
-A「20項目以上のテンプレートを用意して、役割・規約・テスト戦略・セキュリティまで網羅すべき」
-
-B「8行で十分。増やすより削るほうが効く」
-
-どちらも自信を持って書かれています。両方試したう...</summary>
+    <id>tag:qiita.com,2026:33e9a09af8ea5bdeebeb</id>
+    <title>オーダーメイドで九九の計算プリントを作ろう（ローテクAI）</title>
+    <link rel="alternate" href="https://qiita.com/Kaitou/items/33e9a09af8ea5bdeebeb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-29T20:27:10+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Kaitou&quot;&gt;Kaitou&lt;/a&gt;&lt;br/&gt;Published: 2026-07-29T20:27:10+09:00&lt;br/&gt;Updated: 2026-07-29T20:27:10+09:00&lt;br/&gt;夏休み中で小学生が家に居るおとうさん、おかあさん。
+暑い中でなかなか外では遊べませんが、動画視聴やゲームばかりというのも気になります。
+せっかくの機会なので、お子さんの苦手分野のプリントを作って、クイズ的に一緒にやってみませんか？
+Geminiでこんなプロンプトを入力すると...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3bd4696237ea64c38971</id>
@@ -1690,16 +1700,6 @@ QAエンジニアのふじです。
 QAエンジニアとして実務に携わって約2年が経ちました。
 私が過去に所属したプロジェクトではオフショア開発を取り入れており、
 海外ベンダーが作成したテスト方針やテストケースのレビュー、および品質改善業務を担当する機会があり...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:33e9a09af8ea5bdeebeb</id>
-    <title>オーダーメイドで九九の計算プリントを作ろう（ローテクAI）</title>
-    <link rel="alternate" href="https://qiita.com/Kaitou/items/33e9a09af8ea5bdeebeb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-29T20:27:10+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Kaitou&quot;&gt;Kaitou&lt;/a&gt;&lt;br/&gt;Published: 2026-07-29T20:27:10+09:00&lt;br/&gt;Updated: 2026-07-29T20:27:10+09:00&lt;br/&gt;夏休み中で小学生が家に居るおとうさん、おかあさん。
-暑い中でなかなか外では遊べませんが、動画視聴やゲームばかりというのも気になります。
-せっかくの機会なので、お子さんの苦手分野のプリントを作って、クイズ的に一緒にやってみませんか？
-Geminiでこんなプロンプトを入力すると...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1766dd6bbd308222f71b</id>
