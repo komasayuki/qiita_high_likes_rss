@@ -106,17 +106,6 @@ name: writing-guide
 description: AI臭さを消す汎用執筆ガイド。ブログ・スライドなど、あらゆる書き物...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:4385ac59ebefb923cf0d</id>
-    <title>これを読めば分かるClaude Code 完全攻略ガイド</title>
-    <link rel="alternate" href="https://qiita.com/s-furuya-nri/items/4385ac59ebefb923cf0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-01T11:50:22+09:00</updated>
-    <summary type="html">Likes: 179&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/s-furuya-nri&quot;&gt;s-furuya-nri&lt;/a&gt;&lt;br/&gt;Published: 2026-05-30T15:45:08+09:00&lt;br/&gt;Updated: 2026-06-01T11:50:22+09:00&lt;br/&gt;これを読めば分かるClaude Code 完全攻略ガイド
-
-対象読者: Claude Code をこれから使い始めたい人、すでに使っているがもっと活用したい人
-前提知識: ターミナル操作の基本、Git の基本操作
-この記事で学べること: インストールから CLAUDE.m...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:eaa2afeffa262687b892</id>
     <title>「コードを書く人」から「課題を解決するエンジニア」になるためには</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/eaa2afeffa262687b892?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -455,15 +444,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 
 自宅・実家・クラウドの3拠点にまたがる分散Kubernetes環境を3年かけて構築・運用した際の気づきを共有
 Raspberry Pi単独構成から始まり、RAID崩壊・マスター消滅・NFSボトルネック・連鎖障害という痛い失敗を繰り返しながら、現在の安定...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6ec24ba4942973a1ce0b</id>
-    <title>ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【後編】</title>
-    <link rel="alternate" href="https://qiita.com/archeleeds/items/6ec24ba4942973a1ce0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-01T12:21:29+09:00</updated>
-    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/archeleeds&quot;&gt;archeleeds&lt;/a&gt;&lt;br/&gt;Published: 2026-05-30T15:17:48+09:00&lt;br/&gt;Updated: 2026-06-01T12:21:29+09:00&lt;br/&gt;ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【後編】
-こんにちは、Liseと申します。
-現在のゲーム開発現場では恐らく、どんな会社でもどんなプロジェクトでも、ClaudeCodeやCodexを利用した開発のAI補助を行っ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:dbabb5c130aae2566f0f</id>
@@ -957,6 +937,16 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 日本酒を飲むたびに「この銘柄・スペック、前も飲んだっけ？」「あのとき飲んだやつ何だったっけ？」と思うことが増えてきました。メモアプリに記録するのは面倒、SNSに投稿するのはちょっと違う、専用アプリはUIが好みでない。。。ということで、自分用に「酒ファイル」という...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ff38655fed51a2920910</id>
+    <title>コードベースのナレッジ化なら、LLM Wikiで十分かもしれない</title>
+    <link rel="alternate" href="https://qiita.com/Syoitu/items/ff38655fed51a2920910?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-30T15:24:02+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T15:24:02+09:00&lt;br/&gt;Updated: 2026-07-30T15:24:02+09:00&lt;br/&gt;前書き
+コーディングエージェントに改修を依頼するたびに、「この修正はどこまで影響するんだろう」と、同じ調査を何度もやり直させた経験はないでしょうか
+社内の仕様書や設計ドキュメントをベクトルDBに入れて、エージェントに検索させる構成を組んでいる方も多いと思います。
+ドキュメ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c146eb7c2885036c6b83</id>
     <title>開発チームを良くしたい！改善提案で気をつけている5つのこと</title>
     <link rel="alternate" href="https://qiita.com/mu7kata/items/c146eb7c2885036c6b83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -976,16 +966,6 @@ TL;DR
 
 大学は英文科、セキュリティエンジニアとしての実務経験ほぼゼロの文系エンジニアが、3か月・1日平均30分でCISSPに合格した。
 勝因は「毎日続けられたこと」。それを可...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ff38655fed51a2920910</id>
-    <title>コードベースのナレッジ化なら、LLM Wikiで十分かもしれない</title>
-    <link rel="alternate" href="https://qiita.com/Syoitu/items/ff38655fed51a2920910?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-30T15:24:02+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T15:24:02+09:00&lt;br/&gt;Updated: 2026-07-30T15:24:02+09:00&lt;br/&gt;前書き
-コーディングエージェントに改修を依頼するたびに、「この修正はどこまで影響するんだろう」と、同じ調査を何度もやり直させた経験はないでしょうか
-社内の仕様書や設計ドキュメントをベクトルDBに入れて、エージェントに検索させる構成を組んでいる方も多いと思います。
-ドキュメ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c6f24bc95a3c2a46de4d</id>
@@ -1302,14 +1282,6 @@ AGENTS.m...</summary>
     <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/udowanllc&quot;&gt;udowanllc&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T00:03:45+09:00&lt;br/&gt;Updated: 2026-06-22T00:03:45+09:00&lt;br/&gt;はじめに
 前回の記事では、AI駆動開発のセキュリティを3つのレベルに分けて「どこまでやればいいか」を整理しました。ありがたいことに多くの反応をいただき、特に多かったのが 「考え方はわかった。で、具体的に何を入れればいいの？」 という声です。
 本記事はその実践編です。前回の...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c8b5cca97554f6f64782</id>
-    <title>Claude Code x Obsidianで、LLM Wiki構築 | セッションを切り替えても会話を続けられる方法</title>
-    <link rel="alternate" href="https://qiita.com/usayamadausako/items/c8b5cca97554f6f64782?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-05-31T18:18:46+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/usayamadausako&quot;&gt;usayamadausako&lt;/a&gt;&lt;br/&gt;Published: 2026-05-30T13:17:32+09:00&lt;br/&gt;Updated: 2026-05-31T18:18:46+09:00&lt;br/&gt;Claude Code を使っていて、「この機能の構造、前に調べたのにまた一から調べさせてる」とか「セッションをまたぐたびに同じ説明をしている」と感じたことはありませんか？
-LLM はセッションをまたぐとそれまで教えた情報を持ち越せないので、毎回ゼロから説明し直すことになり...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0dea3706713f90e7ef7d</id>
@@ -1667,6 +1639,19 @@ Claude Code が爆誕してから1年以上経った。
 それ以前に少し...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cea574550613de33a114</id>
+    <title>CLAUDE.md は21セクションか、8行か — 公式ドキュメントで決着をつけた</title>
+    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/cea574550613de33a114?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-30T09:47:06+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T09:47:06+09:00&lt;br/&gt;Updated: 2026-07-30T09:47:06+09:00&lt;br/&gt;CLAUDE.md の書き方を調べていたら、正反対の主張に行き当たりました。
+
+A「20項目以上のテンプレートを用意して、役割・規約・テスト戦略・セキュリティまで網羅すべき」
+
+B「8行で十分。増やすより削るほうが効く」
+
+どちらも自信を持って書かれています。両方試したう...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:3bd4696237ea64c38971</id>
     <title>Claude Code・Codex用に、超爆速で超安全なサンドボックスを作る方法</title>
     <link rel="alternate" href="https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1807,19 +1792,6 @@ Claude Code と Codex を Pro / Plus プランで併用していると、レー�
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T08:43:57+09:00&lt;br/&gt;Updated: 2026-06-05T22:47:32+09:00&lt;br/&gt;はじめに
 お客様から「Microsoft 365 Copilot を導入したが、ROI が出ているか報告してほしい」と求められて、どのようにデータを集計すればいいか悩んでいるという相談をいただくことがあります。
 もちろん、企業として投資判断のために定量的な根拠を求めること...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cea574550613de33a114</id>
-    <title>CLAUDE.md は21セクションか、8行か — 公式ドキュメントで決着をつけた</title>
-    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/cea574550613de33a114?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-30T09:47:06+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T09:47:06+09:00&lt;br/&gt;Updated: 2026-07-30T09:47:06+09:00&lt;br/&gt;CLAUDE.md の書き方を調べていたら、正反対の主張に行き当たりました。
-
-A「20項目以上のテンプレートを用意して、役割・規約・テスト戦略・セキュリティまで網羅すべき」
-
-B「8行で十分。増やすより削るほうが効く」
-
-どちらも自信を持って書かれています。両方試したう...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d732b94ff0f68c5cd1ab</id>
@@ -2207,5 +2179,37 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 
 自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
 でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:bab35c7b58a664d3b8f1</id>
+    <title>Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-23T14:01:00+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-06-23T14:01:00+09:00&lt;br/&gt;Updated: 2026-06-23T14:01:00+09:00&lt;br/&gt;はじめに
+この記事は、Claude Code のセキュリティガードレールを「概念」ではなく「動くコード」で示すことを目的にしています。
+「ガードレールが必要だとは分かった。でも何をどう書けばいいのか」という段階の方に向けて書いています。
+settings.json の p...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:8b8c3116f07fcefe2047</id>
+    <title>未経験エンジニアなら、キーボードよりノートを汚せ</title>
+    <link rel="alternate" href="https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-22T21:53:47+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/maketahara_ise&quot;&gt;maketahara_ise&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T16:07:11+09:00&lt;br/&gt;Updated: 2026-06-22T21:53:47+09:00&lt;br/&gt;はじめに
+小生、未経験から開発職について早一年。
+今やどんなソースもガリレオのように解読し、もう八面六臂の大活躍で上司もにんまり。
+なんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないので...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b75ebc3e17afa9780381</id>
+    <title>育休中にTOEIC900超えた話とその勉強法【スコア推移あり】</title>
+    <link rel="alternate" href="https://qiita.com/satomiii/items/b75ebc3e17afa9780381?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-16T09:32:57+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satomiii&quot;&gt;satomiii&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T09:32:57+09:00&lt;br/&gt;Updated: 2026-06-16T09:32:57+09:00&lt;br/&gt;TOEIC900を目指そうと思ったきっかけ
+
+もともと英語が好きだったから
+前職が外資系で海外のスタッフと会話することもあったが、自分の英語のできなさを痛感したから
+自分の性格上、900とらないと満足しないと思ったから（これが大きい）
+育休中、何か数字で見える結果が欲しか...</summary>
   </entry>
 </feed>
