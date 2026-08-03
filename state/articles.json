@@ -693,8 +693,8 @@
       "published": "2026-07-31T15:17:32+09:00",
       "updated": "2026-07-31T15:17:33+09:00",
       "author_name": "nt_matsuda56",
-      "likes_count": 11,
-      "last_seen": "2026-08-03T00:09:26.558584877+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-08-03T04:39:45.236491872+00:00"
     },
     {
       "key": "244363f06ba89200a762",
@@ -1571,6 +1571,18 @@
       "author_name": "prumnn",
       "likes_count": 36,
       "last_seen": "2026-07-30T18:40:13.254390155+00:00"
+    },
+    {
+      "key": "4095d86be797008d799e",
+      "item_id": "4095d86be797008d799e",
+      "title": "Elixir 製 LLM 推論エンジン Llamex を Livebook で動かす",
+      "link": "https://qiita.com/RyoWakabayashi/items/4095d86be797008d799e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nLlamex は、 @piacerex さんが作っている\nElixir で書かれた LLM 推論エンジン です\n\nLLM の API クライアントではありません\nllama.cpp のような推論パイプラインそのものを Elixir で最小構成に書いたものです...",
+      "published": "2026-07-31T17:58:38+09:00",
+      "updated": "2026-07-31T17:58:40+09:00",
+      "author_name": "RyoWakabayashi",
+      "likes_count": 10,
+      "last_seen": "2026-08-03T04:39:45.236491872+00:00"
     },
     {
       "key": "411d47f0d03b2fc7d20b",
@@ -2577,8 +2589,8 @@
       "published": "2026-07-31T15:59:06+09:00",
       "updated": "2026-08-03T09:09:21+09:00",
       "author_name": "ys-yoshida",
-      "likes_count": 14,
-      "last_seen": "2026-08-03T00:09:26.558584877+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-08-03T04:39:45.236491872+00:00"
     },
     {
       "key": "6f7e861f0cc7df3de4c0",
@@ -2687,6 +2699,18 @@
       "author_name": "jqit_suwa",
       "likes_count": 25,
       "last_seen": "2026-07-31T08:06:54.208807569+00:00"
+    },
+    {
+      "key": "74e0d6802dafeda4a7b1",
+      "item_id": "74e0d6802dafeda4a7b1",
+      "title": "ガバメント AI 源内（genai-web）を Entra ID シングルサインオン + カスタムドメインで運用する",
+      "link": "https://qiita.com/takeda_h/items/74e0d6802dafeda4a7b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "ガバメント AI 源内の AI インターフェース（genai-web）は、ユーザー認証に Cognito を使っており、デフォルトではメールアドレスを使ったパスワード認証をするようになっています。\ngenai-web は SAML で外部 IdP からシングルサインオンでき...",
+      "published": "2026-08-01T22:27:50+09:00",
+      "updated": "2026-08-02T00:04:13+09:00",
+      "author_name": "takeda_h",
+      "likes_count": 10,
+      "last_seen": "2026-08-03T04:39:45.236491872+00:00"
     },
     {
       "key": "76779fc1d8602dab73b3",
@@ -3345,8 +3369,8 @@
       "published": "2026-07-31T14:21:40+09:00",
       "updated": "2026-07-31T14:21:40+09:00",
       "author_name": "sumomoo",
-      "likes_count": 43,
-      "last_seen": "2026-08-03T00:09:26.558584877+00:00"
+      "likes_count": 46,
+      "last_seen": "2026-08-03T04:39:45.236491872+00:00"
     },
     {
       "key": "8d2dace07c9c7a9d0453",
@@ -3357,8 +3381,8 @@
       "published": "2026-08-01T15:25:03+09:00",
       "updated": "2026-08-01T15:25:03+09:00",
       "author_name": "ktdatascience",
-      "likes_count": 27,
-      "last_seen": "2026-08-03T00:09:26.558584877+00:00"
+      "likes_count": 37,
+      "last_seen": "2026-08-03T04:39:45.236491872+00:00"
     },
     {
       "key": "8de518e172395d48a269",
@@ -3825,8 +3849,8 @@
       "published": "2026-07-31T09:53:47+09:00",
       "updated": "2026-07-31T09:53:48+09:00",
       "author_name": "nt_fujita",
-      "likes_count": 10,
-      "last_seen": "2026-08-03T00:09:26.558584877+00:00"
+      "likes_count": 12,
+      "last_seen": "2026-08-03T04:39:45.236491872+00:00"
     },
     {
       "key": "a1a97be8fed52c34ec89",
@@ -5065,6 +5089,18 @@
       "last_seen": "2026-06-27T07:19:52.710639325+00:00"
     },
     {
+      "key": "d526fb7cdbe35a3f9384",
+      "item_id": "d526fb7cdbe35a3f9384",
+      "title": "Claude Code／Codexに中～大規模開発を任せるためのタスク管理",
+      "link": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "概要\nClaude CodeやCodexのようなAIコーディングエージェントは、コードの調査、実装、テスト、ドキュメント更新などをまとめて進められます。\n小さな修正であれば、「この不具合を直してください」という指示だけでも十分な結果が得られることがあります。\n一方、数十〜...",
+      "published": "2026-08-02T08:38:39+09:00",
+      "updated": "2026-08-02T08:38:39+09:00",
+      "author_name": "Y-Y-dev",
+      "likes_count": 16,
+      "last_seen": "2026-08-03T04:39:45.236491872+00:00"
+    },
+    {
       "key": "d674457f88336b785881",
       "item_id": "d674457f88336b785881",
       "title": "テスト技法を学んだのにテストが書けないのはなぜか",
@@ -5133,8 +5169,8 @@
       "published": "2026-07-31T14:20:25+09:00",
       "updated": "2026-07-31T14:20:25+09:00",
       "author_name": "prumnn",
-      "likes_count": 35,
-      "last_seen": "2026-08-03T00:09:26.558584877+00:00"
+      "likes_count": 39,
+      "last_seen": "2026-08-03T04:39:45.236491872+00:00"
     },
     {
       "key": "dab65ccac9038fa2ad6b",
@@ -5157,8 +5193,8 @@
       "published": "2026-07-31T20:28:10+09:00",
       "updated": "2026-07-31T20:28:10+09:00",
       "author_name": "rira__",
-      "likes_count": 15,
-      "last_seen": "2026-08-03T00:09:26.558584877+00:00"
+      "likes_count": 23,
+      "last_seen": "2026-08-03T04:39:45.236491872+00:00"
     },
     {
       "key": "daef8174d2f43485371f",
@@ -5805,8 +5841,8 @@
       "published": "2026-07-31T10:46:31+09:00",
       "updated": "2026-07-31T10:46:32+09:00",
       "author_name": "tamashiro_nobuyuki",
-      "likes_count": 15,
-      "last_seen": "2026-08-03T00:09:26.558584877+00:00"
+      "likes_count": 17,
+      "last_seen": "2026-08-03T04:39:45.236491872+00:00"
     },
     {
       "key": "ff98d92ca5eafee31226",
