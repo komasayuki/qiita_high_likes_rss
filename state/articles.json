@@ -706,7 +706,7 @@
       "updated": "2026-08-03T16:41:19+09:00",
       "author_name": "KA026",
       "likes_count": 11,
-      "last_seen": "2026-08-03T15:50:05.141925665+00:00"
+      "last_seen": "2026-08-03T19:50:55.054472820+00:00"
     },
     {
       "key": "244363f06ba89200a762",
@@ -802,7 +802,7 @@
       "updated": "2026-08-03T09:59:44+09:00",
       "author_name": "jqit_suwa",
       "likes_count": 15,
-      "last_seen": "2026-08-03T15:50:05.141925665+00:00"
+      "last_seen": "2026-08-03T19:50:55.054472820+00:00"
     },
     {
       "key": "2af4f788bd0d1963eec7",
@@ -921,8 +921,8 @@
       "published": "2026-08-03T09:32:33+09:00",
       "updated": "2026-08-03T09:56:25+09:00",
       "author_name": "jqit_suwa",
-      "likes_count": 16,
-      "last_seen": "2026-08-03T15:50:05.141925665+00:00"
+      "likes_count": 17,
+      "last_seen": "2026-08-03T19:50:55.054472820+00:00"
     },
     {
       "key": "2e2a3f8e16c8601de2c7",
@@ -971,18 +971,6 @@
       "author_name": "archeleeds",
       "likes_count": 44,
       "last_seen": "2026-07-17T18:14:34.468504971+00:00"
-    },
-    {
-      "key": "2f32a66f087a3bf7eaa5",
-      "item_id": "2f32a66f087a3bf7eaa5",
-      "title": "Polyfill.ioを放置したサイトで不審なダイアログが表示されている件",
-      "link": "https://qiita.com/Robot-Inventor/items/2f32a66f087a3bf7eaa5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "この記事は筆者のブログに投稿した記事をQiita向けに再構成したものです。\n\n2024年にサプライチェーン攻撃に使われたpolyfill.ioを放置していたWebサイトで現在、polyfill.ioのユーザー名とパスワードの入力を求める不審なダイアログが表示されるよう...",
-      "published": "2026-06-02T02:28:01+09:00",
-      "updated": "2026-06-02T02:28:01+09:00",
-      "author_name": "Robot-Inventor",
-      "likes_count": 24,
-      "last_seen": "2026-06-04T19:49:20.534411765+00:00"
     },
     {
       "key": "2f38d32328996d826d48",
@@ -1618,7 +1606,7 @@
       "updated": "2026-07-31T17:58:40+09:00",
       "author_name": "RyoWakabayashi",
       "likes_count": 12,
-      "last_seen": "2026-08-03T15:50:05.141925665+00:00"
+      "last_seen": "2026-08-03T19:50:55.054472820+00:00"
     },
     {
       "key": "411d47f0d03b2fc7d20b",
@@ -1942,7 +1930,7 @@
       "updated": "2026-08-03T15:59:29+09:00",
       "author_name": "sumomoo",
       "likes_count": 32,
-      "last_seen": "2026-08-03T15:50:05.141925665+00:00"
+      "last_seen": "2026-08-03T19:50:55.054472820+00:00"
     },
     {
       "key": "5097f0575b58f4c69b81",
@@ -2746,7 +2734,7 @@
       "updated": "2026-08-02T00:04:13+09:00",
       "author_name": "takeda_h",
       "likes_count": 14,
-      "last_seen": "2026-08-03T15:50:05.141925665+00:00"
+      "last_seen": "2026-08-03T19:50:55.054472820+00:00"
     },
     {
       "key": "76779fc1d8602dab73b3",
@@ -3022,7 +3010,7 @@
       "updated": "2026-08-03T15:55:47+09:00",
       "author_name": "prumnn",
       "likes_count": 27,
-      "last_seen": "2026-08-03T15:50:05.141925665+00:00"
+      "last_seen": "2026-08-03T19:50:55.054472820+00:00"
     },
     {
       "key": "7d73ee9456dcec649580",
@@ -3417,8 +3405,8 @@
       "published": "2026-08-01T15:25:03+09:00",
       "updated": "2026-08-01T15:25:03+09:00",
       "author_name": "ktdatascience",
-      "likes_count": 46,
-      "last_seen": "2026-08-03T15:50:05.141925665+00:00"
+      "likes_count": 47,
+      "last_seen": "2026-08-03T19:50:55.054472820+00:00"
     },
     {
       "key": "8de518e172395d48a269",
@@ -3815,18 +3803,6 @@
       "author_name": "tomoki-miso",
       "likes_count": 40,
       "last_seen": "2026-06-19T19:43:29.742712328+00:00"
-    },
-    {
-      "key": "9fc58bb56967ebb997f5",
-      "item_id": "9fc58bb56967ebb997f5",
-      "title": "Nginxでレートリミットを設定する",
-      "link": "https://qiita.com/okawa-yzrh/items/9fc58bb56967ebb997f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n先日、Nginxでレートリミットを設定する機会があったので、内容を備忘録としてまとめておきます。\n\n設定方法\n\nlimit_req_zone\nまず、どのキーでどれくらいの速さで制限するかというゾーンを定義します。\nserver や location ではなくht...",
-      "published": "2026-06-03T00:08:38+09:00",
-      "updated": "2026-06-03T00:08:38+09:00",
-      "author_name": "okawa-yzrh",
-      "likes_count": 14,
-      "last_seen": "2026-06-04T19:49:20.534411765+00:00"
     },
     {
       "key": "a0400d165a840ced1eff",
@@ -4489,18 +4465,6 @@
       "last_seen": "2026-07-19T06:40:22.459703768+00:00"
     },
     {
-      "key": "b9d9dd83f33b4c837d63",
-      "item_id": "b9d9dd83f33b4c837d63",
-      "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
-      "link": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nこんばんは、mirukyです。\nネットで買い物をするとき、クレジットカードを直接入力することもあれば、Apple Pay、Google Pay、PayPal、Amazon Pay、PayPay、楽天ペイ、d払い、au PAY、メルペイなど、様々な決済サービスを...",
-      "published": "2026-06-01T17:16:46+09:00",
-      "updated": "2026-06-01T17:16:46+09:00",
-      "author_name": "miruky",
-      "likes_count": 29,
-      "last_seen": "2026-06-04T19:49:20.534411765+00:00"
-    },
-    {
       "key": "ba228da40b5d2fd1b612",
       "item_id": "ba228da40b5d2fd1b612",
       "title": "ひとことで、言え。～スライドをAIで作り直したらわかりにくくなった話～",
@@ -4809,8 +4773,8 @@
       "published": "2026-08-02T11:15:12+09:00",
       "updated": "2026-08-02T14:46:41+09:00",
       "author_name": "sukimaengineer",
-      "likes_count": 10,
-      "last_seen": "2026-08-03T15:50:05.141925665+00:00"
+      "likes_count": 11,
+      "last_seen": "2026-08-03T19:50:55.054472820+00:00"
     },
     {
       "key": "ca95db1982c78e40a907",
@@ -5145,8 +5109,8 @@
       "published": "2026-08-02T08:38:39+09:00",
       "updated": "2026-08-02T08:38:39+09:00",
       "author_name": "Y-Y-dev",
-      "likes_count": 30,
-      "last_seen": "2026-08-03T15:50:05.141925665+00:00"
+      "likes_count": 31,
+      "last_seen": "2026-08-03T19:50:55.054472820+00:00"
     },
     {
       "key": "d732b94ff0f68c5cd1ab",
@@ -5185,18 +5149,6 @@
       "last_seen": "2026-07-17T18:14:34.468504971+00:00"
     },
     {
-      "key": "d9254d21aab9bbd25a6f",
-      "item_id": "d9254d21aab9bbd25a6f",
-      "title": "【脆弱性】脆弱性が発見されてから攻撃されるまでの平均時間が5年前の1/188になってる",
-      "link": "https://qiita.com/rana_kualu/items/d9254d21aab9bbd25a6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "中央値に至っては無限小です。\nZero Day Clockというサイトで、CVEが公開されてから実際に悪用が確認されるまでの期間を表したグラフを見ることができます。\nこの『悪用が確認』は『3500件以上の攻撃が確認された』という基準だそうです。\nどうして3500かは謎。\n\n...",
-      "published": "2026-06-01T20:09:12+09:00",
-      "updated": "2026-06-01T20:09:12+09:00",
-      "author_name": "rana_kualu",
-      "likes_count": 22,
-      "last_seen": "2026-06-04T19:49:20.534411765+00:00"
-    },
-    {
       "key": "da1cd811a3a7408472d2",
       "item_id": "da1cd811a3a7408472d2",
       "title": "「アーキテクチャ」って結局何？ITパスポートのEAを調べてみた",
@@ -5229,8 +5181,8 @@
       "published": "2026-07-31T20:28:10+09:00",
       "updated": "2026-07-31T20:28:10+09:00",
       "author_name": "rira__",
-      "likes_count": 44,
-      "last_seen": "2026-08-03T15:50:05.141925665+00:00"
+      "likes_count": 46,
+      "last_seen": "2026-08-03T19:50:55.054472820+00:00"
     },
     {
       "key": "daef8174d2f43485371f",
@@ -5698,7 +5650,7 @@
       "updated": "2026-08-02T18:50:28+09:00",
       "author_name": "i-icc",
       "likes_count": 10,
-      "last_seen": "2026-08-03T15:50:05.141925665+00:00"
+      "last_seen": "2026-08-03T19:50:55.054472820+00:00"
     },
     {
       "key": "f52f3ba38f28f6e2e838",
