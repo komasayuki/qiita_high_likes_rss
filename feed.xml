@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-07-31T14:21:40+09:00</updated>
+  <updated>2026-08-01T15:25:03+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1939,6 +1939,15 @@ GitHubリポジトリ
 macOS 版(Swift / SwiftUI)と Windows 版(C# / WPF)の 2 つがあり、同じ設計思想・同じ config.toml...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8d2dace07c9c7a9d0453</id>
+    <title>AIのアウトプットをそのまま出すだけの人にならないために</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-01T15:25:03+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-08-01T15:25:03+09:00&lt;br/&gt;Updated: 2026-08-01T15:25:03+09:00&lt;br/&gt;はじめに
+自分はエンジニアとして4年です。いまは Claude Code と Codex を毎日並列で走らせて仕事をしています。
+この記事は、仕事のかなりの部分をエージェントに渡してみて痛感した「それでも人間に残る仕事は何か」を、自分の失敗込みで整理したポエムです。あなた...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6bb207fa1da4add1f61b</id>
     <title>【AWS障害】2026年7月16日のCloudFront VPC Origins障害まとめ</title>
     <link rel="alternate" href="https://qiita.com/eureka_/items/6bb207fa1da4add1f61b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2199,17 +2208,5 @@ settings.json の p...</summary>
 小生、未経験から開発職について早一年。
 今やどんなソースもガリレオのように解読し、もう八面六臂の大活躍で上司もにんまり。
 なんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないので...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b75ebc3e17afa9780381</id>
-    <title>育休中にTOEIC900超えた話とその勉強法【スコア推移あり】</title>
-    <link rel="alternate" href="https://qiita.com/satomiii/items/b75ebc3e17afa9780381?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-16T09:32:57+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satomiii&quot;&gt;satomiii&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T09:32:57+09:00&lt;br/&gt;Updated: 2026-06-16T09:32:57+09:00&lt;br/&gt;TOEIC900を目指そうと思ったきっかけ
-
-もともと英語が好きだったから
-前職が外資系で海外のスタッフと会話することもあったが、自分の英語のできなさを痛感したから
-自分の性格上、900とらないと満足しないと思ったから（これが大きい）
-育休中、何か数字で見える結果が欲しか...</summary>
   </entry>
 </feed>
