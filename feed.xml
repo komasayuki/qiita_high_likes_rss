@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-08-04T17:23:18+09:00</updated>
+  <updated>2026-08-05T07:30:10+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -362,6 +362,16 @@ AI英語学習アプリをゼロから個人開発し、Web・iOS App Store の�
 9割のエンジニア未経験者がつまずく『最初の壁』 それで...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d526fb7cdbe35a3f9384</id>
+    <title>Claude Code／Codexに中～大規模開発を任せるためのタスク管理</title>
+    <link rel="alternate" href="https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-02T08:38:39+09:00</updated>
+    <summary type="html">Likes: 84&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Y-Y-dev&quot;&gt;Y-Y-dev&lt;/a&gt;&lt;br/&gt;Published: 2026-08-02T08:38:39+09:00&lt;br/&gt;Updated: 2026-08-02T08:38:39+09:00&lt;br/&gt;概要
+Claude CodeやCodexのようなAIコーディングエージェントは、コードの調査、実装、テスト、ドキュメント更新などをまとめて進められます。
+小さな修正であれば、「この不具合を直してください」という指示だけでも十分な結果が得られることがあります。
+一方、数十〜...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ba228da40b5d2fd1b612</id>
     <title>ひとことで、言え。～スライドをAIで作り直したらわかりにくくなった話～</title>
     <link rel="alternate" href="https://qiita.com/WdknWdkn/items/ba228da40b5d2fd1b612?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -385,16 +395,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 動画生成...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d526fb7cdbe35a3f9384</id>
-    <title>Claude Code／Codexに中～大規模開発を任せるためのタスク管理</title>
-    <link rel="alternate" href="https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-02T08:38:39+09:00</updated>
-    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Y-Y-dev&quot;&gt;Y-Y-dev&lt;/a&gt;&lt;br/&gt;Published: 2026-08-02T08:38:39+09:00&lt;br/&gt;Updated: 2026-08-02T08:38:39+09:00&lt;br/&gt;概要
-Claude CodeやCodexのようなAIコーディングエージェントは、コードの調査、実装、テスト、ドキュメント更新などをまとめて進められます。
-小さな修正であれば、「この不具合を直してください」という指示だけでも十分な結果が得られることがあります。
-一方、数十〜...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:334b0b9c3ee457dfa8c7</id>
@@ -1936,6 +1936,25 @@ GitHubリポジトリ
 macOS 版(Swift / SwiftUI)と Windows 版(C# / WPF)の 2 つがあり、同じ設計思想・同じ config.toml...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f2da1003b168b52f5770</id>
+    <title>50音を全部作って繋いだのに、（　´∀｀）になった話</title>
+    <link rel="alternate" href="https://qiita.com/taguchi_sapeet/items/f2da1003b168b52f5770?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-04T10:15:18+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/taguchi_sapeet&quot;&gt;taguchi_sapeet&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T10:11:44+09:00&lt;br/&gt;Updated: 2026-08-04T10:15:18+09:00&lt;br/&gt;まず、これを聴いてください
+音声①：自作したTTSで「こんにちは」
+
+聞き覚えのある感じ、しませんか。
+
+　 ∧＿∧
+　（　´∀｀）　＜　こんにちは
+　（　　　　）
+　　｜ ｜　｜
+　（_＿）＿）
+
+そう、モナーです。
+一応、本人（？）は「こんにちは」...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6bb207fa1da4add1f61b</id>
     <title>【AWS障害】2026年7月16日のCloudFront VPC Origins障害まとめ</title>
     <link rel="alternate" href="https://qiita.com/eureka_/items/6bb207fa1da4add1f61b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2152,23 +2171,11 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 その記事の最後で、「AIに頼って速さだけで進まず、一つひとつちゃんと理解してから次に進む」と書きました。今...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:f2da1003b168b52f5770</id>
-    <title>50音を全部作って繋いだのに、（　´∀｀）になった話</title>
-    <link rel="alternate" href="https://qiita.com/taguchi_sapeet/items/f2da1003b168b52f5770?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-04T10:15:18+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/taguchi_sapeet&quot;&gt;taguchi_sapeet&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T10:11:44+09:00&lt;br/&gt;Updated: 2026-08-04T10:15:18+09:00&lt;br/&gt;まず、これを聴いてください
-音声①：自作したTTSで「こんにちは」
-
-聞き覚えのある感じ、しませんか。
-
-　 ∧＿∧
-　（　´∀｀）　＜　こんにちは
-　（　　　　）
-　　｜ ｜　｜
-　（_＿）＿）
-
-そう、モナーです。
-一応、本人（？）は「こんにちは」...</summary>
+    <id>tag:qiita.com,2026:e6f1678b41483943fc04</id>
+    <title>新しい Copilot Studio が GA したので「ハーネス」とクレジット課金体系を改めて整理してみる</title>
+    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/e6f1678b41483943fc04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-05T07:30:10+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T07:24:09+09:00&lt;br/&gt;Updated: 2026-08-05T07:30:10+09:00&lt;br/&gt;※本記事は 2026/8 時点の公開情報（Copilot Studio 公式ブログ、Microsoft Learn、Copilot Credits Guide 2026年8月版）をベースに整理しています。今後変更される可能性があるため、契約や導入判断の際は必ず最新の公式情報...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6a2a3e6992ab0eb93d7a</id>
@@ -2208,15 +2215,5 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 
 自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
 でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bab35c7b58a664d3b8f1</id>
-    <title>Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-23T14:01:00+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-06-23T14:01:00+09:00&lt;br/&gt;Updated: 2026-06-23T14:01:00+09:00&lt;br/&gt;はじめに
-この記事は、Claude Code のセキュリティガードレールを「概念」ではなく「動くコード」で示すことを目的にしています。
-「ガードレールが必要だとは分かった。でも何をどう書けばいいのか」という段階の方に向けて書いています。
-settings.json の p...</summary>
   </entry>
 </feed>
