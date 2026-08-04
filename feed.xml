@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-08-04T10:15:18+09:00</updated>
+  <updated>2026-08-04T17:23:18+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -387,6 +387,16 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 動画生成...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d526fb7cdbe35a3f9384</id>
+    <title>Claude Code／Codexに中～大規模開発を任せるためのタスク管理</title>
+    <link rel="alternate" href="https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-02T08:38:39+09:00</updated>
+    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Y-Y-dev&quot;&gt;Y-Y-dev&lt;/a&gt;&lt;br/&gt;Published: 2026-08-02T08:38:39+09:00&lt;br/&gt;Updated: 2026-08-02T08:38:39+09:00&lt;br/&gt;概要
+Claude CodeやCodexのようなAIコーディングエージェントは、コードの調査、実装、テスト、ドキュメント更新などをまとめて進められます。
+小さな修正であれば、「この不具合を直してください」という指示だけでも十分な結果が得られることがあります。
+一方、数十〜...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:334b0b9c3ee457dfa8c7</id>
     <title>9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #1</title>
     <link rel="alternate" href="https://qiita.com/hitomin_poke/items/334b0b9c3ee457dfa8c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -407,16 +417,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 
 自宅・実家・クラウドの3拠点にまたがる分散Kubernetes環境を3年かけて構築・運用した際の気づきを共有
 Raspberry Pi単独構成から始まり、RAID崩壊・マスター消滅・NFSボトルネック・連鎖障害という痛い失敗を繰り返しながら、現在の安定...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d526fb7cdbe35a3f9384</id>
-    <title>Claude Code／Codexに中～大規模開発を任せるためのタスク管理</title>
-    <link rel="alternate" href="https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-02T08:38:39+09:00</updated>
-    <summary type="html">Likes: 79&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Y-Y-dev&quot;&gt;Y-Y-dev&lt;/a&gt;&lt;br/&gt;Published: 2026-08-02T08:38:39+09:00&lt;br/&gt;Updated: 2026-08-02T08:38:39+09:00&lt;br/&gt;概要
-Claude CodeやCodexのようなAIコーディングエージェントは、コードの調査、実装、テスト、ドキュメント更新などをまとめて進められます。
-小さな修正であれば、「この不具合を直してください」という指示だけでも十分な結果が得られることがあります。
-一方、数十〜...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:dbabb5c130aae2566f0f</id>
@@ -1175,6 +1175,19 @@ AIスタートアップでCEO兼CTOをしています。
 僕の会社では、約10人月の受託開発が2週間で、自社プロダクトは「開発〜リリース」が5日で終わるようになりました。支えているのは、Claude Co...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4efb8d1abd340c0bec28</id>
+    <title>中国産Kimi3｜Claudeなどの有料プラン級が無料で使える最新AIとは？</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/4efb8d1abd340c0bec28?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-03T15:59:29+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T15:59:29+09:00&lt;br/&gt;Updated: 2026-08-03T15:59:29+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+みなさん、2...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6d7dc1bed369c567df22</id>
     <title>新人がすぐにできるセキュリティ対策、損害賠償になったら怖いね</title>
     <link rel="alternate" href="https://qiita.com/prumnn/items/6d7dc1bed369c567df22?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1193,19 +1206,6 @@ AIスタートアップでCEO兼CTOをしています。
     <updated>2026-07-12T12:19:19+09:00</updated>
     <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sh_fukatsu&quot;&gt;sh_fukatsu&lt;/a&gt;&lt;br/&gt;Published: 2026-07-12T12:19:19+09:00&lt;br/&gt;Updated: 2026-07-12T12:19:19+09:00&lt;br/&gt;1. はじめに
 マルチリージョン構成でのDR（Disaster Recovery）や、ワークロードのレイテンシ要件から、東京リージョン（ap-northeast-1）と大阪リージョン（ap-northeast-3）のような同一パーティション内の複数リージョンをインターネッ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4efb8d1abd340c0bec28</id>
-    <title>中国産Kimi3｜Claudeなどの有料プラン級が無料で使える最新AIとは？</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/4efb8d1abd340c0bec28?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-03T15:59:29+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T15:59:29+09:00&lt;br/&gt;Updated: 2026-08-03T15:59:29+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-みなさん、2...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5c96232d188ecfb2544b</id>
@@ -2035,6 +2035,19 @@ Codex や Claude Code のようなAIコーディングエージェントに「Or
 AIエージェントに絶対に任せてはいけない6つのこ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:255d77e0a1baa74c5f36</id>
+    <title>日本産AI「FRONTia」、日本の技術✕エンタメ力に期待したくなるフィジカルロボット</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/255d77e0a1baa74c5f36?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-04T17:23:18+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T17:23:18+09:00&lt;br/&gt;Updated: 2026-08-04T17:23:18+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「日本のA...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:34a4486f6ab1b15211a9</id>
     <title>ぷよぷよプログラミング体験談</title>
     <link rel="alternate" href="https://qiita.com/sakurada110/items/34a4486f6ab1b15211a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2205,15 +2218,5 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 この記事は、Claude Code のセキュリティガードレールを「概念」ではなく「動くコード」で示すことを目的にしています。
 「ガードレールが必要だとは分かった。でも何をどう書けばいいのか」という段階の方に向けて書いています。
 settings.json の p...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8b8c3116f07fcefe2047</id>
-    <title>未経験エンジニアなら、キーボードよりノートを汚せ</title>
-    <link rel="alternate" href="https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-22T21:53:47+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/maketahara_ise&quot;&gt;maketahara_ise&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T16:07:11+09:00&lt;br/&gt;Updated: 2026-06-22T21:53:47+09:00&lt;br/&gt;はじめに
-小生、未経験から開発職について早一年。
-今やどんなソースもガリレオのように解読し、もう八面六臂の大活躍で上司もにんまり。
-なんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないので...</summary>
   </entry>
 </feed>
