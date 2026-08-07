@@ -553,18 +553,6 @@
       "last_seen": "2026-06-16T06:03:30.688624237+00:00"
     },
     {
-      "key": "19f39c1f113830e3d902",
-      "item_id": "19f39c1f113830e3d902",
-      "title": "AI時代、「作れる」より「何を作るか」が面白くなってきた",
-      "link": "https://qiita.com/muu3/items/19f39c1f113830e3d902?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n私は現在、大型開発案件でエンジニア兼スクラムマスター（SM）として働いています。\n先日、チームの開発者と話していたときにこんな声が上がりました。\n\nPBI管理が面倒すぎるｗ辞めたいｗ\nAI駆動開発ならアジャイルよりウォーターフォールの方が相性良くない？\nSlac...",
-      "published": "2026-06-05T23:30:36+09:00",
-      "updated": "2026-06-05T23:30:36+09:00",
-      "author_name": "muu3",
-      "likes_count": 25,
-      "last_seen": "2026-06-08T19:51:46.163281572+00:00"
-    },
-    {
       "key": "1b4ab7d392a85c1b4612",
       "item_id": "1b4ab7d392a85c1b4612",
       "title": "【AWS】Managed Knowledge Basesが発表！AgentCoreから試してみました",
@@ -682,7 +670,7 @@
       "updated": "2026-08-05T09:22:29+09:00",
       "author_name": "nobu34",
       "likes_count": 47,
-      "last_seen": "2026-08-07T19:09:59.832549177+00:00"
+      "last_seen": "2026-08-07T20:52:48.681263670+00:00"
     },
     {
       "key": "226e7c06bc9d5877e64e",
@@ -1609,18 +1597,6 @@
       "last_seen": "2026-08-03T19:50:55.054472820+00:00"
     },
     {
-      "key": "411d47f0d03b2fc7d20b",
-      "item_id": "411d47f0d03b2fc7d20b",
-      "title": "AIエージェントに絶対に任せてはいけないことと、私がプロジェクトで使っているAGENTS.mdのルール",
-      "link": "https://qiita.com/TOMOSIA-HieuNT/items/411d47f0d03b2fc7d20b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "※ この記事の日本語には、少し不自然な部分があるかもしれません。AIの言語サポートを利用しながら作成しています。\n\n目次\n\nはじめに\n権限マトリックス：いつエージェントに任せ、いつ人間がレビューするか\nリスクレベル別の実例\nAIエージェントに絶対に任せてはいけない6つのこ...",
-      "published": "2026-06-05T17:33:15+09:00",
-      "updated": "2026-06-05T17:37:58+09:00",
-      "author_name": "TOMOSIA-HieuNT",
-      "likes_count": 27,
-      "last_seen": "2026-06-08T19:51:46.163281572+00:00"
-    },
-    {
       "key": "41402861e5c2924989a6",
       "item_id": "41402861e5c2924989a6",
       "title": "1日数人の個人サイトが1か月で33万回攻撃されていた — ログを数えて塞ぐまで",
@@ -1895,6 +1871,18 @@
       "author_name": "nogataka",
       "likes_count": 38,
       "last_seen": "2026-07-09T20:01:25.304758230+00:00"
+    },
+    {
+      "key": "4da8a4aa027730db23e0",
+      "item_id": "4da8a4aa027730db23e0",
+      "title": "OS？カーネル開発？聞いたことありませんねその単語🤔【ITパスポート】",
+      "link": "https://qiita.com/prumnn/items/4da8a4aa027730db23e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n\niPhoneのアップデート通知で見る「iOS 26」。あの「OS」って結局何なのか、聞かれてもうまく答えられなかったぷらむんが、ITパスポートの勉強中に真正面から向き合ってみた話です。\n\nこんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気...",
+      "published": "2026-08-07T18:18:41+09:00",
+      "updated": "2026-08-07T18:18:41+09:00",
+      "author_name": "prumnn",
+      "likes_count": 20,
+      "last_seen": "2026-08-07T20:52:48.681263670+00:00"
     },
     {
       "key": "4e41063519aaca5fe4e7",
@@ -2713,18 +2701,6 @@
       "last_seen": "2026-08-04T19:50:29.416194224+00:00"
     },
     {
-      "key": "76779fc1d8602dab73b3",
-      "item_id": "76779fc1d8602dab73b3",
-      "title": "CVE-2026-49975「HTTP/2 Bomb」をわかりやすく解説——AIが人間より先に気づいた脆弱性",
-      "link": "https://qiita.com/long-910/items/76779fc1d8602dab73b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "TL;DR\n\nCVE-2026-49975（通称 HTTP/2 Bomb）は、HTTP/2 の仕様上の組み合わせを悪用したリモート DoS 脆弱性\n\nOpenAI Codex が nginx・Apache・IIS・Envoy・Cloudflare Pingora の 5...",
-      "published": "2026-06-05T21:33:14+09:00",
-      "updated": "2026-06-05T21:33:14+09:00",
-      "author_name": "long-910",
-      "likes_count": 14,
-      "last_seen": "2026-06-08T19:51:46.163281572+00:00"
-    },
-    {
       "key": "76e416a5ae28f18ad976",
       "item_id": "76e416a5ae28f18ad976",
       "title": "【AWS】AI-DLCを実際にチームでやってみてわかったことをまとめてみました",
@@ -2735,18 +2711,6 @@
       "author_name": "yakumo_09",
       "likes_count": 27,
       "last_seen": "2026-06-15T06:02:10.035249076+00:00"
-    },
-    {
-      "key": "76fe608d570caebb4f4c",
-      "item_id": "76fe608d570caebb4f4c",
-      "title": "「The model's tool call could not be parsed」エラーを回避する方法【ClaudeCode】",
-      "link": "https://qiita.com/natume_nat/items/76fe608d570caebb4f4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nClaude Code（特にOpus 4.8）を日本語環境で使用していると、以下のパースエラーが発生してツール実行が失敗し、セッションが中断される不具合があります。\nThe model's tool call could not be parsed (retry...",
-      "published": "2026-06-06T00:18:58+09:00",
-      "updated": "2026-06-08T23:40:25+09:00",
-      "author_name": "natume_nat",
-      "likes_count": 13,
-      "last_seen": "2026-06-08T19:51:46.163281572+00:00"
     },
     {
       "key": "7718da8016d1ce2ca43f",
@@ -3046,7 +3010,7 @@
       "updated": "2026-08-06T16:28:48+09:00",
       "author_name": "prumnn",
       "likes_count": 30,
-      "last_seen": "2026-08-07T19:09:59.832549177+00:00"
+      "last_seen": "2026-08-07T20:52:48.681263670+00:00"
     },
     {
       "key": "7f6bb159f7d65e53620d",
@@ -3610,7 +3574,7 @@
       "updated": "2026-08-05T16:19:48+09:00",
       "author_name": "prumnn",
       "likes_count": 47,
-      "last_seen": "2026-08-07T19:09:59.832549177+00:00"
+      "last_seen": "2026-08-07T20:52:48.681263670+00:00"
     },
     {
       "key": "970f068161f19cfacc6e",
@@ -3865,18 +3829,6 @@
       "last_seen": "2026-06-11T19:12:31.753436651+00:00"
     },
     {
-      "key": "a1341ae41bd79cd9d95d",
-      "item_id": "a1341ae41bd79cd9d95d",
-      "title": "『ADの横展開（ラテラルムーブメント）の技術』〜なぜドメイン管理者は気づかぬうちに陥落するのか〜",
-      "link": "https://qiita.com/suzukengo/items/a1341ae41bd79cd9d95d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "要旨\n　Active Directory（AD）は企業ネットワークの中核として、認証・認可・リソース管理を一手に担います。その重要性ゆえに、ADは攻撃者にとって最も魅力的な標的でもあります。Verizon DBIRの2025年版によれば、侵害の74%が認証情報の窃取を伴っ...",
-      "published": "2026-06-06T09:50:49+09:00",
-      "updated": "2026-06-06T09:50:49+09:00",
-      "author_name": "suzukengo",
-      "likes_count": 11,
-      "last_seen": "2026-06-08T19:51:46.163281572+00:00"
-    },
-    {
       "key": "a19e7ae778504941e563",
       "item_id": "a19e7ae778504941e563",
       "title": "Vue.js 入門編",
@@ -4006,7 +3958,7 @@
       "updated": "2026-08-06T16:31:37+09:00",
       "author_name": "sumomoo",
       "likes_count": 32,
-      "last_seen": "2026-08-07T19:09:59.832549177+00:00"
+      "last_seen": "2026-08-07T20:52:48.681263670+00:00"
     },
     {
       "key": "a5f9ddad9c2b9bad76af",
@@ -4053,8 +4005,8 @@
       "published": "2026-08-07T12:06:02+09:00",
       "updated": "2026-08-07T12:06:02+09:00",
       "author_name": "tatsuya582",
-      "likes_count": 38,
-      "last_seen": "2026-08-07T19:09:59.832549177+00:00"
+      "likes_count": 39,
+      "last_seen": "2026-08-07T20:52:48.681263670+00:00"
     },
     {
       "key": "a837b6706911d1a0b33a",
@@ -4066,7 +4018,7 @@
       "updated": "2026-08-05T18:57:52+09:00",
       "author_name": "sai029",
       "likes_count": 20,
-      "last_seen": "2026-08-07T19:09:59.832549177+00:00"
+      "last_seen": "2026-08-07T20:52:48.681263670+00:00"
     },
     {
       "key": "a895edf4b5edc2caf39f",
@@ -4234,7 +4186,7 @@
       "updated": "2026-08-07T08:53:59+09:00",
       "author_name": "jqit_suwa",
       "likes_count": 17,
-      "last_seen": "2026-08-07T19:09:59.832549177+00:00"
+      "last_seen": "2026-08-07T20:52:48.681263670+00:00"
     },
     {
       "key": "ad7bb74b3ab60aad4e23",
@@ -4282,7 +4234,7 @@
       "updated": "2026-08-06T09:29:04+09:00",
       "author_name": "jqit_suwa",
       "likes_count": 25,
-      "last_seen": "2026-08-07T19:09:59.832549177+00:00"
+      "last_seen": "2026-08-07T20:52:48.681263670+00:00"
     },
     {
       "key": "b10e70399e6830cc6ca8",
@@ -4837,18 +4789,6 @@
       "last_seen": "2026-08-01T06:38:24.990866084+00:00"
     },
     {
-      "key": "cabe6aea0be459f7d97b",
-      "item_id": "cabe6aea0be459f7d97b",
-      "title": "海外ベンダーが作成したテスト方針やテストケースに対する品質改善業務に従事して得た学び",
-      "link": "https://qiita.com/fj_qaengineer/items/cabe6aea0be459f7d97b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nこんにちは。\nQAエンジニアのふじです。\nQAエンジニアとして実務に携わって約2年が経ちました。\n私が過去に所属したプロジェクトではオフショア開発を取り入れており、\n海外ベンダーが作成したテスト方針やテストケースのレビュー、および品質改善業務を担当する機会があり...",
-      "published": "2026-06-05T18:56:29+09:00",
-      "updated": "2026-06-05T18:56:29+09:00",
-      "author_name": "fj_qaengineer",
-      "likes_count": 31,
-      "last_seen": "2026-06-08T19:51:46.163281572+00:00"
-    },
-    {
       "key": "cb785917d2661858f7b7",
       "item_id": "cb785917d2661858f7b7",
       "title": "プロンプトの次は何を学べばいい？ AIとの付き合い方を4段階で整理する",
@@ -4858,7 +4798,7 @@
       "updated": "2026-08-06T10:10:35+09:00",
       "author_name": "jqit_suwa",
       "likes_count": 26,
-      "last_seen": "2026-08-07T19:09:59.832549177+00:00"
+      "last_seen": "2026-08-07T20:52:48.681263670+00:00"
     },
     {
       "key": "cc3be5930b972130885d",
@@ -4979,6 +4919,18 @@
       "author_name": "ko-he-8",
       "likes_count": 10,
       "last_seen": "2026-06-12T07:55:22.558278225+00:00"
+    },
+    {
+      "key": "cfe3c47453968b2d3c29",
+      "item_id": "cfe3c47453968b2d3c29",
+      "title": "AIで完成度を上げたい、でも人間味のない完璧すぎる作品は嫌だ",
+      "link": "https://qiita.com/sumomoo/items/cfe3c47453968b2d3c29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや\n考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\nAIとの付...",
+      "published": "2026-08-07T18:20:59+09:00",
+      "updated": "2026-08-07T18:20:59+09:00",
+      "author_name": "sumomoo",
+      "likes_count": 21,
+      "last_seen": "2026-08-07T20:52:48.681263670+00:00"
     },
     {
       "key": "cfe5ba40a56b3dbf6a4b",
@@ -5182,7 +5134,7 @@
       "updated": "2026-08-05T15:28:02+09:00",
       "author_name": "sumomoo",
       "likes_count": 42,
-      "last_seen": "2026-08-07T19:09:59.832549177+00:00"
+      "last_seen": "2026-08-07T20:52:48.681263670+00:00"
     },
     {
       "key": "d732b94ff0f68c5cd1ab",
@@ -5638,7 +5590,7 @@
       "updated": "2026-08-07T15:29:31+09:00",
       "author_name": "can-can",
       "likes_count": 20,
-      "last_seen": "2026-08-07T19:09:59.832549177+00:00"
+      "last_seen": "2026-08-07T20:52:48.681263670+00:00"
     },
     {
       "key": "ed7856c563798df39a27",
@@ -5794,7 +5746,7 @@
       "updated": "2026-08-05T15:31:13+09:00",
       "author_name": "tkmrtkm",
       "likes_count": 26,
-      "last_seen": "2026-08-07T19:09:59.832549177+00:00"
+      "last_seen": "2026-08-07T20:52:48.681263670+00:00"
     },
     {
       "key": "f7330d0f7ba8bdaf1420",
@@ -5938,7 +5890,7 @@
       "updated": "2026-08-05T16:10:38+09:00",
       "author_name": "K-Sakanoshita",
       "likes_count": 11,
-      "last_seen": "2026-08-07T19:09:59.832549177+00:00"
+      "last_seen": "2026-08-07T20:52:48.681263670+00:00"
     },
     {
       "key": "ff9004b66b7761c4d34c",
