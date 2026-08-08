@@ -900,6 +900,16 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 というのも、これまでの「DFS / BFS」「計算量（Big-O）」「DBインデックス」——実はこの3記事、全部 データ構造 の話をしてい...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:224f55bc85b813930f61</id>
+    <title>ずぼらAI駆動開発、爆誕</title>
+    <link rel="alternate" href="https://qiita.com/nobu34/items/224f55bc85b813930f61?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-05T09:22:29+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nobu34&quot;&gt;nobu34&lt;/a&gt;&lt;br/&gt;Published: 2026-08-05T09:22:29+09:00&lt;br/&gt;Updated: 2026-08-05T09:22:29+09:00&lt;br/&gt;スキル、自分で作るのめんどくさくないですか？
+同僚の @masa-asa さんが AI を活用した開発に「いちエンジニア」が向き合い、実践している 3 つの仕組み という記事を上げていました。
+素直にすごいと思いつつ、正直な気持ちはこうです。
+「そこまで綺麗に設計する気力...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c146eb7c2885036c6b83</id>
     <title>開発チームを良くしたい！改善提案で気をつけている5つのこと</title>
     <link rel="alternate" href="https://qiita.com/mu7kata/items/c146eb7c2885036c6b83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -928,16 +938,6 @@ TL;DR
     <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-05T16:19:48+09:00&lt;br/&gt;Updated: 2026-08-05T16:19:48+09:00&lt;br/&gt;はじめに
 
 「勉強はこれで終わり」だと思っていたら、本当のスタートラインに立っただけだった。しかもよく見ると、同期の中には&quot;好きで永遠にPCを触ってる&quot;人までいて、その人たちと自分の違いは何なのか気になったぷらむんが、心理学とAI時代の視点で再現性を探してみた話です。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:224f55bc85b813930f61</id>
-    <title>ずぼらAI駆動開発、爆誕</title>
-    <link rel="alternate" href="https://qiita.com/nobu34/items/224f55bc85b813930f61?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-05T09:22:29+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nobu34&quot;&gt;nobu34&lt;/a&gt;&lt;br/&gt;Published: 2026-08-05T09:22:29+09:00&lt;br/&gt;Updated: 2026-08-05T09:22:29+09:00&lt;br/&gt;スキル、自分で作るのめんどくさくないですか？
-同僚の @masa-asa さんが AI を活用した開発に「いちエンジニア」が向き合い、実践している 3 つの仕組み という記事を上げていました。
-素直にすごいと思いつつ、正直な気持ちはこうです。
-「そこまで綺麗に設計する気力...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8b350ada6dc831207d14</id>
@@ -973,6 +973,14 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 前回はメモリ管理の基本を書きましたが、今回はその続きで メモリリーク と 断片化（フラグメンテーション） についてまとめてみました 
 前回ふれた「OOM（メモリ枯渇でプロセスが落ちる）」の 原因編 にあたる話です。
 興味ある方は読んでいただけると嬉しいです ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:a800739c02eadff68c70</id>
+    <title>Web API設計の現在地2026</title>
+    <link rel="alternate" href="https://qiita.com/tatsuya582/items/a800739c02eadff68c70?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-07T12:06:02+09:00</updated>
+    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
+Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、AP...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:dab9765ffd6aae8f0c07</id>
@@ -1256,14 +1264,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/enomoso_pm&quot;&gt;enomoso_pm&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T02:16:47+09:00&lt;br/&gt;Updated: 2026-06-18T02:16:47+09:00&lt;br/&gt;はじめに
 受託開発やSESの現場にいると、とにかく「図」を作る場面が多いんですよね。
 業務フロー図、システム構成図、ER図、シーケンス図、画面遷移図、体制図、CI/CDパイプライン……。設計書のページをめくるたびに図、図、図。しかもこれ、お客様に出す資料だったりするので、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a800739c02eadff68c70</id>
-    <title>Web API設計の現在地2026</title>
-    <link rel="alternate" href="https://qiita.com/tatsuya582/items/a800739c02eadff68c70?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-07T12:06:02+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
-Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、AP...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b9a128b0e71382979f08</id>
@@ -1619,6 +1619,19 @@ OpenAIによるChatGPTの公開から、早くも3年以上の月日が経ちま
 眺...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a5c8d7625488a57c2303</id>
+    <title>AI僧侶ロボット「ブッダロイド」が見せた、&quot;代行&quot;というフィジカルAIの伸びしろ</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/a5c8d7625488a57c2303?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-06T16:31:37+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-06T16:31:37+09:00&lt;br/&gt;Updated: 2026-08-06T16:31:37+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「AI僧侶...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:2d7331eac0d4a01ba030</id>
     <title>【全6問】ITパスポートと基本情報、実際どのくらい難しいの?比べてみた</title>
     <link rel="alternate" href="https://qiita.com/prumnn/items/2d7331eac0d4a01ba030?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1687,19 +1700,6 @@ FOMO ── Fear of Missi...</summary>
 まあ読んでいる時点で知らないことはないと思いますが前...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a5c8d7625488a57c2303</id>
-    <title>AI僧侶ロボット「ブッダロイド」が見せた、&quot;代行&quot;というフィジカルAIの伸びしろ</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/a5c8d7625488a57c2303?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-06T16:31:37+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-06T16:31:37+09:00&lt;br/&gt;Updated: 2026-08-06T16:31:37+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-「AI僧侶...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:438336db3684cf662321</id>
     <title>Claude Code「/config」設定の教科書 ― 全42項目を1つずつ解説＋おすすめ設定（v2.1.220対応）</title>
     <link rel="alternate" href="https://qiita.com/f_uto/items/438336db3684cf662321?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1733,6 +1733,18 @@ Claude Code が爆誕してから1年以上経った。
 その誕生により、明らかにプログラミングという作業の方法は激変した。
 自分は、GPT 3.5 Turbo が出たころに、本格的にプログラミングをはじめた。
 それ以前に少し...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:7e57897f62b84ee9c662</id>
+    <title>「Cookie」はお店の会員カードみたいなもの【ITパスポート】</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/7e57897f62b84ee9c662?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-06T16:28:48+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-06T16:28:48+09:00&lt;br/&gt;Updated: 2026-08-06T16:28:48+09:00&lt;br/&gt;はじめに
+
+「Cookieの使用に同意しますか？」という通知、毎回なんとなく「同意する」を押していたぷらむんが、ITパスポートの勉強中にその正体を調べてみた話です。
+
+こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
+We...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:33e9a09af8ea5bdeebeb</id>
@@ -1771,18 +1783,6 @@ Geminiでこんなプロンプトを入力すると...</summary>
 
 はじめに：なぜ今「AIの評価」が論点になっているのか
 ここ数年、AIは「ある意味なんでもできる」という期待とともに語られてきました。いわゆるAI...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7e57897f62b84ee9c662</id>
-    <title>「Cookie」はお店の会員カードみたいなもの【ITパスポート】</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/7e57897f62b84ee9c662?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-06T16:28:48+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-06T16:28:48+09:00&lt;br/&gt;Updated: 2026-08-06T16:28:48+09:00&lt;br/&gt;はじめに
-
-「Cookieの使用に同意しますか？」という通知、毎回なんとなく「同意する」を押していたぷらむんが、ITパスポートの勉強中にその正体を調べてみた話です。
-
-こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
-We...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1766dd6bbd308222f71b</id>
@@ -1995,6 +1995,19 @@ GitHubリポジトリ
 既存の読書記録ア...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f6f6c10b802372a53c0d</id>
+    <title>【新卒エンジニアが考える】「読みやすさ」の正体とは？大学で学んだ認知心理学をUI実装とJavaのコード設計にあてはめてみた</title>
+    <link rel="alternate" href="https://qiita.com/tkmrtkm/items/f6f6c10b802372a53c0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-05T15:31:13+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tkmrtkm&quot;&gt;tkmrtkm&lt;/a&gt;&lt;br/&gt;Published: 2026-08-05T15:31:13+09:00&lt;br/&gt;Updated: 2026-08-05T15:31:13+09:00&lt;br/&gt;2026年度新卒エンジニアとして入社した花です。
+突然ですが、まず以下の画像をご覧ください。
+
+（自作図）
+いかがでしょうか？
+順番通りに読んでしまっていた方が多いのではないでしょうか。
+どんなに自分の意思で自由に読もうとしても、脳は文字の大きさ・コントラスト・余白といった...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6bb207fa1da4add1f61b</id>
     <title>【AWS障害】2026年7月16日のCloudFront VPC Origins障害まとめ</title>
     <link rel="alternate" href="https://qiita.com/eureka_/items/6bb207fa1da4add1f61b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2080,19 +2093,6 @@ README、設計...</summary>
 プロンプトエンジニアリング。コンテキストエンジニアリング。ハーネスエンジニアリング。ループエンジニアリング。
 新しい言葉が出るたびに「また覚えることが増えた」と思っていました。
 でも調べてみたら、これらはバラバラの手法で...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f6f6c10b802372a53c0d</id>
-    <title>【新卒エンジニアが考える】「読みやすさ」の正体とは？大学で学んだ認知心理学をUI実装とJavaのコード設計にあてはめてみた</title>
-    <link rel="alternate" href="https://qiita.com/tkmrtkm/items/f6f6c10b802372a53c0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-05T15:31:13+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tkmrtkm&quot;&gt;tkmrtkm&lt;/a&gt;&lt;br/&gt;Published: 2026-08-05T15:31:13+09:00&lt;br/&gt;Updated: 2026-08-05T15:31:13+09:00&lt;br/&gt;2026年度新卒エンジニアとして入社した花です。
-突然ですが、まず以下の画像をご覧ください。
-
-（自作図）
-いかがでしょうか？
-順番通りに読んでしまっていた方が多いのではないでしょうか。
-どんなに自分の意思で自由に読もうとしても、脳は文字の大きさ・コントラスト・余白といった...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2dee3e3d53080c3676a0</id>
