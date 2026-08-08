@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-08-07T18:20:59+09:00</updated>
+  <updated>2026-08-07T20:10:01+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -368,7 +368,7 @@ AI英語学習アプリをゼロから個人開発し、Web・iOS App Store の�
     <title>Web API設計の現在地2026</title>
     <link rel="alternate" href="https://qiita.com/tatsuya582/items/a800739c02eadff68c70?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-07T12:06:02+09:00</updated>
-    <summary type="html">Likes: 84&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
+    <summary type="html">Likes: 87&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
 Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、AP...</summary>
   </entry>
   <entry>
@@ -2222,14 +2222,18 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 その記事の最後で、「AIに頼って速さだけで進まず、一つひとつちゃんと理解してから次に進む」と書きました。今...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:aefb1adac27a34646cf3</id>
-    <title>AI が原因を当てても、「思いついた」わけじゃない —— 推論の3分類で見分ける</title>
-    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/aefb1adac27a34646cf3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-06T09:29:04+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-06T09:29:03+09:00&lt;br/&gt;Updated: 2026-08-06T09:29:04+09:00&lt;br/&gt;AI にバグの原因を聞くと、けっこう当ててきます。
-でも、たまにとんでもなく的外れなことを言う。しかも自信満々で。
-この差が気になって論文を読んだら、こんな一文がありました。
+    <id>tag:qiita.com,2026:91115760e4bd66f7995a</id>
+    <title>わかるようでわからないssh接続について</title>
+    <link rel="alternate" href="https://qiita.com/hrfm1623/items/91115760e4bd66f7995a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-07T20:10:01+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hrfm1623&quot;&gt;hrfm1623&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T20:10:01+09:00&lt;br/&gt;Updated: 2026-08-07T20:10:01+09:00&lt;br/&gt;この記事の使い方
+先に問題を出します。
 
-identifying the error is distinct from generatin...</summary>
+鍵をまだ交換していないのに、どうやって暗号化を始めているのですか
+公開鍵認証で、サーバに送っているものは何ですか
+ssh を3回叩いたら、TCP 接続は3本になりますか
+あなたの秘密鍵が盗まれたら、どこまでやられますか
+
+全部説明...</summary>
   </entry>
 </feed>
