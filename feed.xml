@@ -612,6 +612,14 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 きっと、同じように考えたことがあ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a800739c02eadff68c70</id>
+    <title>Web API設計の現在地2026</title>
+    <link rel="alternate" href="https://qiita.com/tatsuya582/items/a800739c02eadff68c70?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-07T12:06:02+09:00</updated>
+    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
+Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、AP...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e54c70c90c6aa84d0f66</id>
     <title>CLAUDE.md 設計パターン集──プロジェクト規模別に使い分ける7つのテンプレート</title>
     <link rel="alternate" href="https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -880,14 +888,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <updated>2026-06-15T10:27:15+09:00</updated>
     <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T10:27:14+09:00&lt;br/&gt;Updated: 2026-06-15T10:27:15+09:00&lt;br/&gt;3か月前、私は同じRTX 4070でこんな検証記事を書きました。結論は「35BのMoEモデルは、待てるなら動く」。測ったのは10.6 tok/s。動くには動くが、チャットで使うには指が止まる速度です。
 先週、同じGPU・同じモデルで測り直したら34.6 tok/sが出ました...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a800739c02eadff68c70</id>
-    <title>Web API設計の現在地2026</title>
-    <link rel="alternate" href="https://qiita.com/tatsuya582/items/a800739c02eadff68c70?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-07T12:06:02+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
-Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、AP...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2af4f788bd0d1963eec7</id>
@@ -2008,6 +2008,19 @@ GitHubリポジトリ
 既存の読書記録ア...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cfe3c47453968b2d3c29</id>
+    <title>AIで完成度を上げたい、でも人間味のない完璧すぎる作品は嫌だ</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/cfe3c47453968b2d3c29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-07T18:20:59+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T18:20:59+09:00&lt;br/&gt;Updated: 2026-08-07T18:20:59+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+AIとの付...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6bb207fa1da4add1f61b</id>
     <title>【AWS障害】2026年7月16日のCloudFront VPC Origins障害まとめ</title>
     <link rel="alternate" href="https://qiita.com/eureka_/items/6bb207fa1da4add1f61b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2083,19 +2096,6 @@ README、設計...</summary>
 こんにちは！KIYOラーニングでQAエンジニアをしている@ayshiinaです。
 私は普段テスト設計・実行を主業務としており、プログラミングコードについての知識はなく、書くことができません。
 そんな私が今回、MagicPodでWebAPIステップやTypeScr...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cfe3c47453968b2d3c29</id>
-    <title>AIで完成度を上げたい、でも人間味のない完璧すぎる作品は嫌だ</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/cfe3c47453968b2d3c29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-07T18:20:59+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T18:20:59+09:00&lt;br/&gt;Updated: 2026-08-07T18:20:59+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-AIとの付...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cb785917d2661858f7b7</id>
