@@ -137,7 +137,7 @@ Gitは開発現場では欠かせないツールですが、「最近Gitって�
     <title>Web API設計の現在地2026</title>
     <link rel="alternate" href="https://qiita.com/tatsuya582/items/a800739c02eadff68c70?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-07T12:06:02+09:00</updated>
-    <summary type="html">Likes: 142&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
+    <summary type="html">Likes: 143&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
 Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、AP...</summary>
   </entry>
   <entry>
@@ -489,6 +489,21 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 最近のコーデ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:91115760e4bd66f7995a</id>
+    <title>わかるようでわからないssh接続について</title>
+    <link rel="alternate" href="https://qiita.com/hrfm1623/items/91115760e4bd66f7995a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-07T20:10:01+09:00</updated>
+    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hrfm1623&quot;&gt;hrfm1623&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T20:10:01+09:00&lt;br/&gt;Updated: 2026-08-07T20:10:01+09:00&lt;br/&gt;この記事の使い方
+先に問題を出します。
+
+鍵をまだ交換していないのに、どうやって暗号化を始めているのですか
+公開鍵認証で、サーバに送っているものは何ですか
+ssh を3回叩いたら、TCP 接続は3本になりますか
+あなたの秘密鍵が盗まれたら、どこまでやられますか
+
+全部説明...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b859f1578191a1e15808</id>
     <title>Claude Code を4ヶ月使ってわかった、おすすめコマンド・スキル 10 選</title>
     <link rel="alternate" href="https://qiita.com/wataru86/items/b859f1578191a1e15808?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -498,21 +513,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 
 あれから4ヶ月以上使い込んで、ようやく使いこなせるようになってきた実感があります。
 使っていて思うのは、コードを書いたりツールや MCP を呼び出したり、いろんな作業を Claude にやらせている一方で、Claude Cod...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:91115760e4bd66f7995a</id>
-    <title>わかるようでわからないssh接続について</title>
-    <link rel="alternate" href="https://qiita.com/hrfm1623/items/91115760e4bd66f7995a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-07T20:10:01+09:00</updated>
-    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hrfm1623&quot;&gt;hrfm1623&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T20:10:01+09:00&lt;br/&gt;Updated: 2026-08-07T20:10:01+09:00&lt;br/&gt;この記事の使い方
-先に問題を出します。
-
-鍵をまだ交換していないのに、どうやって暗号化を始めているのですか
-公開鍵認証で、サーバに送っているものは何ですか
-ssh を3回叩いたら、TCP 接続は3本になりますか
-あなたの秘密鍵が盗まれたら、どこまでやられますか
-
-全部説明...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3c8949b62ce1dfe7a024</id>
