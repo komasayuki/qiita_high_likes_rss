@@ -197,6 +197,14 @@ Qiita上には素晴らしい先人の方の記事として、「不思議の国
 「気合い」と「根...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a800739c02eadff68c70</id>
+    <title>Web API設計の現在地2026</title>
+    <link rel="alternate" href="https://qiita.com/tatsuya582/items/a800739c02eadff68c70?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-07T12:06:02+09:00</updated>
+    <summary type="html">Likes: 117&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
+Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、AP...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9059f26629e0976bc0e2</id>
     <title>商業書籍の出版をCodexで爆速化するノウハウ</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/9059f26629e0976bc0e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -205,14 +213,6 @@ Qiita上には素晴らしい先人の方の記事として、「不思議の国
 長年ライターをやっていたりするわけではなく、エンジニア業務の傍ら、半分趣味で2年ほど執筆を行なっています。
 
 元々Qiitaを書き慣れていて筆が速いというのもありますが、特にここ半年ほ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a800739c02eadff68c70</id>
-    <title>Web API設計の現在地2026</title>
-    <link rel="alternate" href="https://qiita.com/tatsuya582/items/a800739c02eadff68c70?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-07T12:06:02+09:00</updated>
-    <summary type="html">Likes: 115&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
-Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、AP...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6eefccb7361f64607865</id>
@@ -675,6 +675,21 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 しかし、実際には知識不足が原因で詰まっているにもか...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:91115760e4bd66f7995a</id>
+    <title>わかるようでわからないssh接続について</title>
+    <link rel="alternate" href="https://qiita.com/hrfm1623/items/91115760e4bd66f7995a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-07T20:10:01+09:00</updated>
+    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hrfm1623&quot;&gt;hrfm1623&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T20:10:01+09:00&lt;br/&gt;Updated: 2026-08-07T20:10:01+09:00&lt;br/&gt;この記事の使い方
+先に問題を出します。
+
+鍵をまだ交換していないのに、どうやって暗号化を始めているのですか
+公開鍵認証で、サーバに送っているものは何ですか
+ssh を3回叩いたら、TCP 接続は3本になりますか
+あなたの秘密鍵が盗まれたら、どこまでやられますか
+
+全部説明...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c69fab7dfb1d48ba8b31</id>
     <title>「そのコード、勝手に使って大丈夫？」IT初心者が最初に知るべき“著作権”の話</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/c69fab7dfb1d48ba8b31?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -746,21 +761,6 @@ GMOコネクトの平島です。
     <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T15:07:22+09:00&lt;br/&gt;Updated: 2026-07-14T15:07:22+09:00&lt;br/&gt;お疲れ様です！ 
 前回までで「index」「レースコンディション（ユニーク制約）」あたりを扱ってきましたが、今回は 暗号化とハッシュ の話です。
 Railsを使っていると当たり前に出てくる master.key・credentials.yml.enc・Deviseのパスワー...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:91115760e4bd66f7995a</id>
-    <title>わかるようでわからないssh接続について</title>
-    <link rel="alternate" href="https://qiita.com/hrfm1623/items/91115760e4bd66f7995a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-07T20:10:01+09:00</updated>
-    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hrfm1623&quot;&gt;hrfm1623&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T20:10:01+09:00&lt;br/&gt;Updated: 2026-08-07T20:10:01+09:00&lt;br/&gt;この記事の使い方
-先に問題を出します。
-
-鍵をまだ交換していないのに、どうやって暗号化を始めているのですか
-公開鍵認証で、サーバに送っているものは何ですか
-ssh を3回叩いたら、TCP 接続は3本になりますか
-あなたの秘密鍵が盗まれたら、どこまでやられますか
-
-全部説明...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:122f9a34360e256bf042</id>
