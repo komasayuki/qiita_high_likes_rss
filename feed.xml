@@ -137,7 +137,7 @@ Gitは開発現場では欠かせないツールですが、「最近Gitって�
     <title>Web API設計の現在地2026</title>
     <link rel="alternate" href="https://qiita.com/tatsuya582/items/a800739c02eadff68c70?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-07T12:06:02+09:00</updated>
-    <summary type="html">Likes: 135&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
+    <summary type="html">Likes: 138&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
 Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、AP...</summary>
   </entry>
   <entry>
@@ -526,19 +526,11 @@ Claude Code × GitHubで「自分の取扱説明書」を作り、AIに丸ごと
 メモアプリ1つで始められる。エン...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:11358e8e8966d5e48a09</id>
-    <title>AIエージェントがあれば技術書なんてすぐ書けるでしょ、と思ったが無理だった</title>
-    <link rel="alternate" href="https://qiita.com/watany/items/11358e8e8966d5e48a09?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-25T15:46:06+09:00</updated>
-    <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/watany&quot;&gt;watany&lt;/a&gt;&lt;br/&gt;Published: 2026-07-25T15:46:06+09:00&lt;br/&gt;Updated: 2026-07-25T15:46:06+09:00&lt;br/&gt;はじめに
-2026年5月2日に『Agentic Coding 生成AI時代のシステム開発入門』という単著を出しました。生成AI×システム開発の情報がネットの場当たり的なものばかりで困っている人、エージェントの使い方をどこから学べばいいか分からない人、そして自分は大丈夫でも...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:91115760e4bd66f7995a</id>
     <title>わかるようでわからないssh接続について</title>
     <link rel="alternate" href="https://qiita.com/hrfm1623/items/91115760e4bd66f7995a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-07T20:10:01+09:00</updated>
-    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hrfm1623&quot;&gt;hrfm1623&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T20:10:01+09:00&lt;br/&gt;Updated: 2026-08-07T20:10:01+09:00&lt;br/&gt;この記事の使い方
+    <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hrfm1623&quot;&gt;hrfm1623&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T20:10:01+09:00&lt;br/&gt;Updated: 2026-08-07T20:10:01+09:00&lt;br/&gt;この記事の使い方
 先に問題を出します。
 
 鍵をまだ交換していないのに、どうやって暗号化を始めているのですか
@@ -547,6 +539,14 @@ ssh を3回叩いたら、TCP 接続は3本になりますか
 あなたの秘密鍵が盗まれたら、どこまでやられますか
 
 全部説明...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:11358e8e8966d5e48a09</id>
+    <title>AIエージェントがあれば技術書なんてすぐ書けるでしょ、と思ったが無理だった</title>
+    <link rel="alternate" href="https://qiita.com/watany/items/11358e8e8966d5e48a09?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-25T15:46:06+09:00</updated>
+    <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/watany&quot;&gt;watany&lt;/a&gt;&lt;br/&gt;Published: 2026-07-25T15:46:06+09:00&lt;br/&gt;Updated: 2026-07-25T15:46:06+09:00&lt;br/&gt;はじめに
+2026年5月2日に『Agentic Coding 生成AI時代のシステム開発入門』という単著を出しました。生成AI×システム開発の情報がネットの場当たり的なものばかりで困っている人、エージェントの使い方をどこから学べばいいか分からない人、そして自分は大丈夫でも...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0fe99e9afff2c9f79fcd</id>
