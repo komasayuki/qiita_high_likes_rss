@@ -168,6 +168,14 @@ Gitは開発現場では欠かせないツールですが、「最近Gitって�
 この度、新卒として入社した会社でClaudeを使えるようになったので、自分用に調べたことをまとめてみました。せっかくなので記事として公開します。同じように「会社でClaude Code使えるようになったけど何...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a800739c02eadff68c70</id>
+    <title>Web API設計の現在地2026</title>
+    <link rel="alternate" href="https://qiita.com/tatsuya582/items/a800739c02eadff68c70?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-07T12:06:02+09:00</updated>
+    <summary type="html">Likes: 125&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
+Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、AP...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d1151389d17e50ad5564</id>
     <title>1Passwordは、あなたのマスターパスワードを一度も受信していません</title>
     <link rel="alternate" href="https://qiita.com/kenimo49/items/d1151389d17e50ad5564?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -195,14 +203,6 @@ Qiita上には素晴らしい先人の方の記事として、「不思議の国
 実務未経験からエンジニアとして評価されたい人
 チームメンバーの成長を支援する立場になったばかりの人
 「気合い」と「根...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a800739c02eadff68c70</id>
-    <title>Web API設計の現在地2026</title>
-    <link rel="alternate" href="https://qiita.com/tatsuya582/items/a800739c02eadff68c70?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-07T12:06:02+09:00</updated>
-    <summary type="html">Likes: 117&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
-Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、AP...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9059f26629e0976bc0e2</id>
@@ -557,6 +557,21 @@ Claude Code × GitHubで「自分の取扱説明書」を作り、AIに丸ごと
 AWSの構成図をAIに描かせたいけど、アイコンや体裁が崩れる...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:91115760e4bd66f7995a</id>
+    <title>わかるようでわからないssh接続について</title>
+    <link rel="alternate" href="https://qiita.com/hrfm1623/items/91115760e4bd66f7995a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-07T20:10:01+09:00</updated>
+    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hrfm1623&quot;&gt;hrfm1623&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T20:10:01+09:00&lt;br/&gt;Updated: 2026-08-07T20:10:01+09:00&lt;br/&gt;この記事の使い方
+先に問題を出します。
+
+鍵をまだ交換していないのに、どうやって暗号化を始めているのですか
+公開鍵認証で、サーバに送っているものは何ですか
+ssh を3回叩いたら、TCP 接続は3本になりますか
+あなたの秘密鍵が盗まれたら、どこまでやられますか
+
+全部説明...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b7bfe27efae0231a09af</id>
     <title>AI人材は２つに分かれる。あなたが目指すべきはどっち？</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/b7bfe27efae0231a09af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -673,21 +688,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 プロジェクトでメンバーが詰まったとき、「手順書を追加する」「手順書を詳しくする」という対応が行われることがあります。
 もちろん手順不足が原因の場合もあります。
 しかし、実際には知識不足が原因で詰まっているにもか...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:91115760e4bd66f7995a</id>
-    <title>わかるようでわからないssh接続について</title>
-    <link rel="alternate" href="https://qiita.com/hrfm1623/items/91115760e4bd66f7995a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-07T20:10:01+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hrfm1623&quot;&gt;hrfm1623&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T20:10:01+09:00&lt;br/&gt;Updated: 2026-08-07T20:10:01+09:00&lt;br/&gt;この記事の使い方
-先に問題を出します。
-
-鍵をまだ交換していないのに、どうやって暗号化を始めているのですか
-公開鍵認証で、サーバに送っているものは何ですか
-ssh を3回叩いたら、TCP 接続は3本になりますか
-あなたの秘密鍵が盗まれたら、どこまでやられますか
-
-全部説明...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c69fab7dfb1d48ba8b31</id>
