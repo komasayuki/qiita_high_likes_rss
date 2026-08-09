@@ -137,7 +137,7 @@ Gitは開発現場では欠かせないツールですが、「最近Gitって�
     <title>Web API設計の現在地2026</title>
     <link rel="alternate" href="https://qiita.com/tatsuya582/items/a800739c02eadff68c70?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-07T12:06:02+09:00</updated>
-    <summary type="html">Likes: 138&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
+    <summary type="html">Likes: 141&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
 Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、AP...</summary>
   </entry>
   <entry>
@@ -433,19 +433,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <updated>2026-06-24T20:51:08+09:00</updated>
     <summary type="html">Likes: 77&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yusuke_ando_vj&quot;&gt;yusuke_ando_vj&lt;/a&gt;&lt;br/&gt;Published: 2026-06-21T23:17:02+09:00&lt;br/&gt;Updated: 2026-06-24T20:51:08+09:00&lt;br/&gt;Webサイトのデザインを、AIやデザイナーに「おしゃれにしてください」「いい感じにしてください」だけで依頼すると、完成イメージが大きくズレます。
 なぜなら、Webデザインには「どんな情報を・どの順番で・どんなレイアウトで・どんな雰囲気で・どんな色で・どんな文字で・どんな部品...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6f7e861f0cc7df3de4c0</id>
-    <title>なぜBraveは拡張機能なしで広告を消せるのか？仕組みを5分でゆるく整理する</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/6f7e861f0cc7df3de4c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-07T17:10:15+09:00</updated>
-    <summary type="html">Likes: 77&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-06-07T17:10:15+09:00&lt;br/&gt;Updated: 2026-06-07T17:10:15+09:00&lt;br/&gt;はじめに
-
-この記事は2026年6月時点の情報をもとに書いています。仕様の詳細は記事末尾の公式ドキュメントをご確認ください。
-
-対象読者: Braveを使っている（または気になっている）人。ブラウザの内部実装に詳しくなくてもOKです。
-
-Braveは広告を「隠す」の...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0c1da2b7431aa73a798a</id>
@@ -2232,5 +2219,14 @@ identifying the error is distinct from generatin...</summary>
 Claude Opus 5 では、これは消したほうがいい一文になりました。
 「効かなくなった」のではありません。逆効果になったのです。
 同じように、これまで良かれと思って...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:2f38d32328996d826d48</id>
+    <title>コードを書かせるだけは、正直もったいない。Claude Codeを「先生」として使い倒す5つのプロンプト</title>
+    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/2f38d32328996d826d48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-15T08:29:02+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T08:29:02+09:00&lt;br/&gt;Updated: 2026-07-15T08:29:02+09:00&lt;br/&gt;はじめに
+Claude Code、コードを書かせるだけで使ってませんか？それ、正直めちゃくちゃもったいないです。
+Claude Code のすごいところは、手を動かしてくれる相棒であると同時に、隣に座ってる先生でもあること。実装を丸投げするんじゃなくて、「教えてもらう」「...</summary>
   </entry>
 </feed>
