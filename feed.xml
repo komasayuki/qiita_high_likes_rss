@@ -1817,21 +1817,25 @@ GMOコネクトの永田です。
 提案や要件整理の場で、AWSの構成図を描くことが度々あります。ただ、都度ていねいに手で描くと時間がかかります。それなら構成案から自動で生成できればと思い、既存のAWS公式スキルなども試しました。ところが出てくるのは細部まで描き込んだ実...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a072528364883ae7bb96</id>
-    <title>[ハンズオン手順書] Claude + Microsoft Foundry で AI エージェントを構築する #CodeWithClaude</title>
-    <link rel="alternate" href="https://qiita.com/chomado/items/a072528364883ae7bb96?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-10T14:57:35+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/chomado&quot;&gt;chomado&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T21:29:01+09:00&lt;br/&gt;Updated: 2026-06-10T14:57:35+09:00&lt;br/&gt;アンソロピック社の公式カンファレンス『Code w/ Claude Tokyo』(2026/6/10(水) に開催) に
-マイクロソフト社として 1 枠 (45 分間) いただきまして、
-「Claude + Microsoft Foundry でAI エージェントを構築する...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:5ca0c12a8495530f7d09</id>
     <title>Claude Code と Codex のレート残量を確認するためにブラウザを開くのをやめた話</title>
     <link rel="alternate" href="https://qiita.com/tatsuya582/items/5ca0c12a8495530f7d09?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-06-10T09:01:43+09:00</updated>
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T09:01:43+09:00&lt;br/&gt;Updated: 2026-06-10T09:01:43+09:00&lt;br/&gt;はじめに
 Claude Code と Codex を Pro / Plus プランで併用していると、レートリミット（5時間枠・週枠）にそれなりの頻度で当たります。当たると作業が止まるので、私は枠に当たらないように Codex と Claude を切り替えたり、モデルを切り...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b4a550002ebf1e5b8af8</id>
+    <title>「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-10T14:47:47+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:47:47+09:00&lt;br/&gt;Updated: 2026-08-10T14:47:47+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+ータスクを...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4da8a4aa027730db23e0</id>
@@ -1903,19 +1907,6 @@ Oracle Database では、Select AI、RAG、AI Vector Search、AI Agent など...
 命名は大変だ。
 わかりやすい命名を考えると長くなる。キャッチーさに振ると、既存の言葉と重複する。思いが溢れすぎると、まとまらない。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b4a550002ebf1e5b8af8</id>
-    <title>「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-10T14:47:47+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:47:47+09:00&lt;br/&gt;Updated: 2026-08-10T14:47:47+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-ータスクを...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f6f6c10b802372a53c0d</id>
@@ -2063,6 +2054,18 @@ README、設計...</summary>
 先日(2026年5月)、AWSが主催する以下のハッカソンに、チームで参加してきました。
 
 このハッカソンのテーマのひとつが、AWSが提唱する新しい開発手法 AI-DLC（AI-Driven Development Life Cycle） を利用することでした...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:6be2bf42e6b9751accc8</id>
+    <title>【備忘録】AIで編集しやすいWBSの作り方 - 機能軸・工程軸で工数を集計するMarkdown表</title>
+    <link rel="alternate" href="https://qiita.com/Tadataka_Takahashi/items/6be2bf42e6b9751accc8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-09T23:39:40+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Tadataka_Takahashi&quot;&gt;Tadataka_Takahashi&lt;/a&gt;&lt;br/&gt;Published: 2026-08-09T23:39:40+09:00&lt;br/&gt;Updated: 2026-08-09T23:39:40+09:00&lt;br/&gt;はじめに
+WBS（作業分解構成図）をスプレッドシートで管理していると、こんな場面に出くわします。
+
+セル結合と色分けが増えて、作った人以外が触れなくなる
+差分が追えないので、「先週から何が増えたのか」が分からない
+AIに渡そうとすると、まずCSVに書き出すところから始まる...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cb785917d2661858f7b7</id>
