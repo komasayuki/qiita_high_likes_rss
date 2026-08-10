@@ -258,6 +258,21 @@ Claude CodeやCodexのようなAIコーディングエージェントは、コ�
 伝わらないのは話し方の問題じゃなかった。相手を「見る...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:91115760e4bd66f7995a</id>
+    <title>わかるようでわからないssh接続について</title>
+    <link rel="alternate" href="https://qiita.com/hrfm1623/items/91115760e4bd66f7995a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-07T20:10:01+09:00</updated>
+    <summary type="html">Likes: 104&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hrfm1623&quot;&gt;hrfm1623&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T20:10:01+09:00&lt;br/&gt;Updated: 2026-08-07T20:10:01+09:00&lt;br/&gt;この記事の使い方
+先に問題を出します。
+
+鍵をまだ交換していないのに、どうやって暗号化を始めているのですか
+公開鍵認証で、サーバに送っているものは何ですか
+ssh を3回叩いたら、TCP 接続は3本になりますか
+あなたの秘密鍵が盗まれたら、どこまでやられますか
+
+全部説明...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d18bf49f0c7a168baa19</id>
     <title>「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話</title>
     <link rel="alternate" href="https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -282,21 +297,6 @@ Claude CodeやCodexのようなAIコーディングエージェントは、コ�
 信頼されるエンジニアが実践する「聴く技術」4選
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:91115760e4bd66f7995a</id>
-    <title>わかるようでわからないssh接続について</title>
-    <link rel="alternate" href="https://qiita.com/hrfm1623/items/91115760e4bd66f7995a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-07T20:10:01+09:00</updated>
-    <summary type="html">Likes: 102&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hrfm1623&quot;&gt;hrfm1623&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T20:10:01+09:00&lt;br/&gt;Updated: 2026-08-07T20:10:01+09:00&lt;br/&gt;この記事の使い方
-先に問題を出します。
-
-鍵をまだ交換していないのに、どうやって暗号化を始めているのですか
-公開鍵認証で、サーバに送っているものは何ですか
-ssh を3回叩いたら、TCP 接続は3本になりますか
-あなたの秘密鍵が盗まれたら、どこまでやられますか
-
-全部説明...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d3c540c868c3413704b7</id>
@@ -1711,6 +1711,18 @@ Claude Code が爆誕してから1年以上経った。
 それ以前に少し...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b3302efec6a8d8b50197</id>
+    <title>新人エンジニア、AIがないと役に立たないハリボテ人間にならないか不安</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/b3302efec6a8d8b50197?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-10T14:46:52+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:46:52+09:00&lt;br/&gt;Updated: 2026-08-10T14:46:52+09:00&lt;br/&gt;はじめに
+
+エラーが出たら、考える前にまずAIにコピペする。それが当たり前になっていたぷらむんが、AIが数十分使えなくなった日に、急に自分の実力が不安になった話です。
+
+こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:33e9a09af8ea5bdeebeb</id>
     <title>オーダーメイドで九九の計算プリントを作ろう（ローテクAI）</title>
     <link rel="alternate" href="https://qiita.com/Kaitou/items/33e9a09af8ea5bdeebeb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1893,16 +1905,17 @@ Oracle Database では、Select AI、RAG、AI Vector Search、AI Agent など...
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b3302efec6a8d8b50197</id>
-    <title>新人エンジニア、AIがないと役に立たないハリボテ人間にならないか不安</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/b3302efec6a8d8b50197?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-10T14:46:52+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:46:52+09:00&lt;br/&gt;Updated: 2026-08-10T14:46:52+09:00&lt;br/&gt;はじめに
+    <id>tag:qiita.com,2026:b4a550002ebf1e5b8af8</id>
+    <title>「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-10T14:47:47+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:47:47+09:00&lt;br/&gt;Updated: 2026-08-10T14:47:47+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
 
-エラーが出たら、考える前にまずAIにコピペする。それが当たり前になっていたぷらむんが、AIが数十分使えなくなった日に、急に自分の実力が不安になった話です。
-
-こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
-...</summary>
+ータスクを...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f6f6c10b802372a53c0d</id>
@@ -2050,19 +2063,6 @@ README、設計...</summary>
 先日(2026年5月)、AWSが主催する以下のハッカソンに、チームで参加してきました。
 
 このハッカソンのテーマのひとつが、AWSが提唱する新しい開発手法 AI-DLC（AI-Driven Development Life Cycle） を利用することでした...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b4a550002ebf1e5b8af8</id>
-    <title>「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-10T14:47:47+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:47:47+09:00&lt;br/&gt;Updated: 2026-08-10T14:47:47+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-ータスクを...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cb785917d2661858f7b7</id>
