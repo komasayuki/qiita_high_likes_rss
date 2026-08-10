@@ -85,7 +85,7 @@ description: AI臭さを消す汎用執筆ガイド。ブログ・スライド�
     <title>Web API設計の現在地2026</title>
     <link rel="alternate" href="https://qiita.com/tatsuya582/items/a800739c02eadff68c70?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-07T12:06:02+09:00</updated>
-    <summary type="html">Likes: 173&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
+    <summary type="html">Likes: 177&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T12:06:02+09:00&lt;br/&gt;Updated: 2026-08-07T12:06:02+09:00&lt;br/&gt;Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧
 Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、AP...</summary>
   </entry>
   <entry>
@@ -325,6 +325,21 @@ Claude CodeやCodexのようなAIコーディングエージェントは、コ�
 そもそもの動機は、クラ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:91115760e4bd66f7995a</id>
+    <title>わかるようでわからないssh接続について</title>
+    <link rel="alternate" href="https://qiita.com/hrfm1623/items/91115760e4bd66f7995a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-07T20:10:01+09:00</updated>
+    <summary type="html">Likes: 92&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hrfm1623&quot;&gt;hrfm1623&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T20:10:01+09:00&lt;br/&gt;Updated: 2026-08-07T20:10:01+09:00&lt;br/&gt;この記事の使い方
+先に問題を出します。
+
+鍵をまだ交換していないのに、どうやって暗号化を始めているのですか
+公開鍵認証で、サーバに送っているものは何ですか
+ssh を3回叩いたら、TCP 接続は3本になりますか
+あなたの秘密鍵が盗まれたら、どこまでやられますか
+
+全部説明...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cc3be5930b972130885d</id>
     <title>バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと</title>
     <link rel="alternate" href="https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -334,21 +349,6 @@ Q: バイブコーディングで本当にアプリをリリースできるの�
 A: できました。ただし「商用・セキュア」という条件では、非エンジニアにはまだ厳しいと感じました。
 
 AI英語学習アプリをゼロから個人開発し、Web・iOS App Store の両方でリリースでき...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:91115760e4bd66f7995a</id>
-    <title>わかるようでわからないssh接続について</title>
-    <link rel="alternate" href="https://qiita.com/hrfm1623/items/91115760e4bd66f7995a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-07T20:10:01+09:00</updated>
-    <summary type="html">Likes: 89&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hrfm1623&quot;&gt;hrfm1623&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T20:10:01+09:00&lt;br/&gt;Updated: 2026-08-07T20:10:01+09:00&lt;br/&gt;この記事の使い方
-先に問題を出します。
-
-鍵をまだ交換していないのに、どうやって暗号化を始めているのですか
-公開鍵認証で、サーバに送っているものは何ですか
-ssh を3回叩いたら、TCP 接続は3本になりますか
-あなたの秘密鍵が盗まれたら、どこまでやられますか
-
-全部説明...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:39ad448983e2ba8406da</id>
@@ -1391,6 +1391,19 @@ High
 でも、い...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cfe3c47453968b2d3c29</id>
+    <title>AIで完成度を上げたい、でも人間味のない完璧すぎる作品は嫌だ</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/cfe3c47453968b2d3c29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-07T18:20:59+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T18:20:59+09:00&lt;br/&gt;Updated: 2026-08-07T18:20:59+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+AIとの付...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ceb0f115dfe9459315bf</id>
     <title>新人エンジニアは&quot;忘れる前提&quot;で仕事をするのがベストだと気がついた</title>
     <link rel="alternate" href="https://qiita.com/prumnn/items/ceb0f115dfe9459315bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1437,19 +1450,6 @@ High
 娘「うちのECサイトで、問題が起こっちまってるんだよぉ！」
 娘「新規登録の時だけのキャンペーン割引が」
 娘「全ての...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cfe3c47453968b2d3c29</id>
-    <title>AIで完成度を上げたい、でも人間味のない完璧すぎる作品は嫌だ</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/cfe3c47453968b2d3c29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-07T18:20:59+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T18:20:59+09:00&lt;br/&gt;Updated: 2026-08-07T18:20:59+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-AIとの付...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a5c8d7625488a57c2303</id>
