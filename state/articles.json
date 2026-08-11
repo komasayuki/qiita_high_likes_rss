@@ -817,6 +817,18 @@
       "last_seen": "2026-06-30T07:35:28.409843652+00:00"
     },
     {
+      "key": "2aff0b2b40b9d0bfda91",
+      "item_id": "2aff0b2b40b9d0bfda91",
+      "title": ".NET 11 Runtime Async はなぜ速いのか",
+      "link": "https://qiita.com/hez2010/items/2aff0b2b40b9d0bfda91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "従来の async/await\n.NET の非同期処理といえば、長いあいだ async/await が中心だった。見た目は同期コードに近く、複雑になりやすい非同期処理を素直に書ける。\nこの async/await は、内部では CPS（Continuation-Passi...",
+      "published": "2026-08-10T22:37:18+09:00",
+      "updated": "2026-08-10T22:48:51+09:00",
+      "author_name": "hez2010",
+      "likes_count": 11,
+      "last_seen": "2026-08-11T22:56:28.091555732+00:00"
+    },
+    {
       "key": "2baf3f2f047e912dab48",
       "item_id": "2baf3f2f047e912dab48",
       "title": "🤖 【Claude】自作Skillが「Claude Codeでは動くのにCoworkに出てこない」を解決する",
@@ -2110,7 +2122,7 @@
       "updated": "2026-08-09T10:54:00+09:00",
       "author_name": "kiwi-dev",
       "likes_count": 21,
-      "last_seen": "2026-08-11T21:58:29.045770893+00:00"
+      "last_seen": "2026-08-11T22:56:28.091555732+00:00"
     },
     {
       "key": "6102ef63dc60c7e6ee3d",
@@ -2361,8 +2373,8 @@
       "published": "2026-08-09T23:39:40+09:00",
       "updated": "2026-08-09T23:39:40+09:00",
       "author_name": "Tadataka_Takahashi",
-      "likes_count": 87,
-      "last_seen": "2026-08-11T21:58:29.045770893+00:00"
+      "likes_count": 89,
+      "last_seen": "2026-08-11T22:56:28.091555732+00:00"
     },
     {
       "key": "6cf51ac079b9bfad2155",
@@ -2475,14 +2487,14 @@
     {
       "key": "704f8f380fee205e06d1",
       "item_id": "704f8f380fee205e06d1",
-      "title": "OCI Data Catalog 第3回：Object Storage上のOracle DatabaseマニュアルPDFでSelect AI with RAGを構築してみてみた",
+      "title": "Data Catalog 第3回：Object Storage上のOracle DatabaseマニュアルPDFでSelect AI with RAGを構築してみてみた",
       "link": "https://qiita.com/shirok/items/704f8f380fee205e06d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "■ はじめに\nこんにちは。今日は、OCI Data Catalog 第3回です。\nOCI Data Catalogシリーズでは、これまでObject Storage上のデータや文書を、どのように見つけ、管理し、AIから利用できるようにするかを段階的に検証してきました。\n...",
       "published": "2026-08-10T12:40:31+09:00",
-      "updated": "2026-08-11T21:11:36+09:00",
+      "updated": "2026-08-12T07:00:13+09:00",
       "author_name": "shirok",
       "likes_count": 10,
-      "last_seen": "2026-08-11T21:58:29.045770893+00:00"
+      "last_seen": "2026-08-11T22:56:28.091555732+00:00"
     },
     {
       "key": "70eb40b12d6f9c0011ca",
@@ -3418,7 +3430,7 @@
       "updated": "2026-08-10T09:50:18+09:00",
       "author_name": "ryu-ki",
       "likes_count": 10,
-      "last_seen": "2026-08-11T21:58:29.045770893+00:00"
+      "last_seen": "2026-08-11T22:56:28.091555732+00:00"
     },
     {
       "key": "97d9d9b7ed0064f7433e",
@@ -3769,6 +3781,18 @@
       "last_seen": "2026-08-07T07:37:41.315709845+00:00"
     },
     {
+      "key": "a50907007c868b807750",
+      "item_id": "a50907007c868b807750",
+      "title": "【PHP8.6】PHP8.6の新機能全部紹介するよ",
+      "link": "https://qiita.com/rana_kualu/items/a50907007c868b807750?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "PHP8.6 / PHP8.5 / PHP8.4 / PHP8.3 / PHP8.2\n2026/08/13、PHP8.6がフィーチャーフリーズしました。\n言語機能に関わるような機能の追加・変更が締め切られたということです。\n今後はデバッグを繰り返しながら完成度を高めていき、...",
+      "published": "2026-08-10T20:12:11+09:00",
+      "updated": "2026-08-10T20:18:02+09:00",
+      "author_name": "rana_kualu",
+      "likes_count": 10,
+      "last_seen": "2026-08-11T22:56:28.091555732+00:00"
+    },
+    {
       "key": "a5c8d7625488a57c2303",
       "item_id": "a5c8d7625488a57c2303",
       "title": "AI僧侶ロボット「ブッダロイド」が見せた、\"代行\"というフィジカルAIの伸びしろ",
@@ -4065,8 +4089,8 @@
       "published": "2026-08-10T14:46:52+09:00",
       "updated": "2026-08-10T14:46:52+09:00",
       "author_name": "prumnn",
-      "likes_count": 48,
-      "last_seen": "2026-08-11T21:58:29.045770893+00:00"
+      "likes_count": 49,
+      "last_seen": "2026-08-11T22:56:28.091555732+00:00"
     },
     {
       "key": "b35fc1c3b0dd8f6d7052",
@@ -4126,7 +4150,7 @@
       "updated": "2026-08-10T14:47:47+09:00",
       "author_name": "sumomoo",
       "likes_count": 31,
-      "last_seen": "2026-08-11T21:58:29.045770893+00:00"
+      "last_seen": "2026-08-11T22:56:28.091555732+00:00"
     },
     {
       "key": "b525b64882548d4aec0d",
@@ -4930,7 +4954,7 @@
       "updated": "2026-08-09T16:50:25+09:00",
       "author_name": "teppei19980914",
       "likes_count": 15,
-      "last_seen": "2026-08-11T21:58:29.045770893+00:00"
+      "last_seen": "2026-08-11T22:56:28.091555732+00:00"
     },
     {
       "key": "d8c22cb512d9ba036154",
