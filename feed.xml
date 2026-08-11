@@ -960,6 +960,18 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 興味ある方は読んでいただけると嬉しいです ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6be2bf42e6b9751accc8</id>
+    <title>【備忘録】AIで編集しやすいWBSの作り方 - 機能軸・工程軸で工数を集計するMarkdown表</title>
+    <link rel="alternate" href="https://qiita.com/Tadataka_Takahashi/items/6be2bf42e6b9751accc8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-09T23:39:40+09:00</updated>
+    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Tadataka_Takahashi&quot;&gt;Tadataka_Takahashi&lt;/a&gt;&lt;br/&gt;Published: 2026-08-09T23:39:40+09:00&lt;br/&gt;Updated: 2026-08-09T23:39:40+09:00&lt;br/&gt;はじめに
+WBS（作業分解構成図）をスプレッドシートで管理していると、こんな場面に出くわします。
+
+セル結合と色分けが増えて、作った人以外が触れなくなる
+差分が追えないので、「先週から何が増えたのか」が分からない
+AIに渡そうとすると、まずCSVに書き出すところから始まる...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:dab9765ffd6aae8f0c07</id>
     <title>社内IT推進で「作っても使われない」をゼロにするために、僕が現場で学んだ5つのこと</title>
     <link rel="alternate" href="https://qiita.com/rira__/items/dab9765ffd6aae8f0c07?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1231,16 +1243,16 @@ AIスタートアップでCEO兼CTOをしています。
 業務フロー図、システム構成図、ER図、シーケンス図、画面遷移図、体制図、CI/CDパイプライン……。設計書のページをめくるたびに図、図、図。しかもこれ、お客様に出す資料だったりするので、...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:6be2bf42e6b9751accc8</id>
-    <title>【備忘録】AIで編集しやすいWBSの作り方 - 機能軸・工程軸で工数を集計するMarkdown表</title>
-    <link rel="alternate" href="https://qiita.com/Tadataka_Takahashi/items/6be2bf42e6b9751accc8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-09T23:39:40+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Tadataka_Takahashi&quot;&gt;Tadataka_Takahashi&lt;/a&gt;&lt;br/&gt;Published: 2026-08-09T23:39:40+09:00&lt;br/&gt;Updated: 2026-08-09T23:39:40+09:00&lt;br/&gt;はじめに
-WBS（作業分解構成図）をスプレッドシートで管理していると、こんな場面に出くわします。
+    <id>tag:qiita.com,2026:b3302efec6a8d8b50197</id>
+    <title>新人エンジニア、AIがないと役に立たないハリボテ人間にならないか不安</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/b3302efec6a8d8b50197?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-10T14:46:52+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:46:52+09:00&lt;br/&gt;Updated: 2026-08-10T14:46:52+09:00&lt;br/&gt;はじめに
 
-セル結合と色分けが増えて、作った人以外が触れなくなる
-差分が追えないので、「先週から何が増えたのか」が分からない
-AIに渡そうとすると、まずCSVに書き出すところから始まる...</summary>
+エラーが出たら、考える前にまずAIにコピペする。それが当たり前になっていたぷらむんが、AIが数十分使えなくなった日に、急に自分の実力が不安になった話です。
+
+こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
+...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b9a128b0e71382979f08</id>
@@ -1436,18 +1448,6 @@ High
 前回は計算量（Big-O）の話を書きましたが、今回はその流れで、探索アルゴリズムの基本 DFS（深さ優先探索） と BFS（幅優先探索） をまとめてみました 
 名前は難しそうですが、中身は 「スタックを使うか、キューを使うか」だけの違い です。
 興味ある方は...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b3302efec6a8d8b50197</id>
-    <title>新人エンジニア、AIがないと役に立たないハリボテ人間にならないか不安</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/b3302efec6a8d8b50197?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-10T14:46:52+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:46:52+09:00&lt;br/&gt;Updated: 2026-08-10T14:46:52+09:00&lt;br/&gt;はじめに
-
-エラーが出たら、考える前にまずAIにコピペする。それが当たり前になっていたぷらむんが、AIが数十分使えなくなった日に、急に自分の実力が不安になった話です。
-
-こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a5c8d7625488a57c2303</id>
@@ -1763,6 +1763,19 @@ Geminiでこんなプロンプトを入力すると...</summary>
 何を聞かれるか分からない。うまく説明できるか不安。認識がずれて...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b4a550002ebf1e5b8af8</id>
+    <title>「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-10T14:47:47+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:47:47+09:00&lt;br/&gt;Updated: 2026-08-10T14:47:47+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+ータスクを...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1766dd6bbd308222f71b</id>
     <title>【ClaudeCode】コスト発生要因から考えるトークン消費最適化術【トークン】</title>
     <link rel="alternate" href="https://qiita.com/Nana_777/items/1766dd6bbd308222f71b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1835,19 +1848,6 @@ GMOコネクトの永田です。
     <updated>2026-06-10T09:01:43+09:00</updated>
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T09:01:43+09:00&lt;br/&gt;Updated: 2026-06-10T09:01:43+09:00&lt;br/&gt;はじめに
 Claude Code と Codex を Pro / Plus プランで併用していると、レートリミット（5時間枠・週枠）にそれなりの頻度で当たります。当たると作業が止まるので、私は枠に当たらないように Codex と Claude を切り替えたり、モデルを切り...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b4a550002ebf1e5b8af8</id>
-    <title>「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-10T14:47:47+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:47:47+09:00&lt;br/&gt;Updated: 2026-08-10T14:47:47+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-ータスクを...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4da8a4aa027730db23e0</id>
