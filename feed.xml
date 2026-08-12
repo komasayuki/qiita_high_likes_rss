@@ -1113,6 +1113,15 @@ X(Twitter)を見ていると怪しげな従量課金のゲームアセット生�
 一見とても便利で...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2aff0b2b40b9d0bfda91</id>
+    <title>.NET 11 Runtime Async はなぜ速いのか</title>
+    <link rel="alternate" href="https://qiita.com/hez2010/items/2aff0b2b40b9d0bfda91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-10T22:48:51+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hez2010&quot;&gt;hez2010&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T22:37:18+09:00&lt;br/&gt;Updated: 2026-08-10T22:48:51+09:00&lt;br/&gt;従来の async/await
+.NET の非同期処理といえば、長いあいだ async/await が中心だった。見た目は同期コードに近く、複雑になりやすい非同期処理を素直に書ける。
+この async/await は、内部では CPS（Continuation-Passi...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d5cb8ed4935a8df88811</id>
     <title>「試してみよう」が毎回「後回し」になるのは怠惰ではなく、情報渋滞のせい【AI時代の弊害】</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/d5cb8ed4935a8df88811?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1178,15 +1187,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 AIスタートアップでCEO兼CTOをしています。
 
 僕の会社では、約10人月の受託開発が2週間で、自社プロダクトは「開発〜リリース」が5日で終わるようになりました。支えているのは、Claude Co...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2aff0b2b40b9d0bfda91</id>
-    <title>.NET 11 Runtime Async はなぜ速いのか</title>
-    <link rel="alternate" href="https://qiita.com/hez2010/items/2aff0b2b40b9d0bfda91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-10T22:48:51+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hez2010&quot;&gt;hez2010&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T22:37:18+09:00&lt;br/&gt;Updated: 2026-08-10T22:48:51+09:00&lt;br/&gt;従来の async/await
-.NET の非同期処理といえば、長いあいだ async/await が中心だった。見た目は同期コードに近く、複雑になりやすい非同期処理を素直に書ける。
-この async/await は、内部では CPS（Continuation-Passi...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6d7dc1bed369c567df22</id>
