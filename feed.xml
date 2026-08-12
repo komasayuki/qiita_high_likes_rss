@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-08-10T22:48:51+09:00</updated>
+  <updated>2026-08-12T16:32:19+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -184,6 +184,18 @@ Gitは開発現場では欠かせないツールですが、「最近Gitって�
 少し前まで、私はこれを知りませんでした。パスワードマネージャーなのだから、当然サーバがマスターパスワードを受け取るのだろうと思っていたのです。それで暗号化された...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6be2bf42e6b9751accc8</id>
+    <title>【備忘録】AIで編集しやすいWBSの作り方 - 機能軸・工程軸で工数を集計するMarkdown表</title>
+    <link rel="alternate" href="https://qiita.com/Tadataka_Takahashi/items/6be2bf42e6b9751accc8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-09T23:39:40+09:00</updated>
+    <summary type="html">Likes: 121&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Tadataka_Takahashi&quot;&gt;Tadataka_Takahashi&lt;/a&gt;&lt;br/&gt;Published: 2026-08-09T23:39:40+09:00&lt;br/&gt;Updated: 2026-08-09T23:39:40+09:00&lt;br/&gt;はじめに
+WBS（作業分解構成図）をスプレッドシートで管理していると、こんな場面に出くわします。
+
+セル結合と色分けが増えて、作った人以外が触れなくなる
+差分が追えないので、「先週から何が増えたのか」が分からない
+AIに渡そうとすると、まずCSVに書き出すところから始まる...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ced302095c8ddd3c8213</id>
     <title>「頑張ってます」はもう卒業。エンジニアが今日から使える『数値化の鬼』の思考法</title>
     <link rel="alternate" href="https://qiita.com/Nao52/items/ced302095c8ddd3c8213?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -205,18 +217,6 @@ Gitは開発現場では欠かせないツールですが、「最近Gitって�
 長年ライターをやっていたりするわけではなく、エンジニア業務の傍ら、半分趣味で2年ほど執筆を行なっています。
 
 元々Qiitaを書き慣れていて筆が速いというのもありますが、特にここ半年ほ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6be2bf42e6b9751accc8</id>
-    <title>【備忘録】AIで編集しやすいWBSの作り方 - 機能軸・工程軸で工数を集計するMarkdown表</title>
-    <link rel="alternate" href="https://qiita.com/Tadataka_Takahashi/items/6be2bf42e6b9751accc8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-09T23:39:40+09:00</updated>
-    <summary type="html">Likes: 115&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Tadataka_Takahashi&quot;&gt;Tadataka_Takahashi&lt;/a&gt;&lt;br/&gt;Published: 2026-08-09T23:39:40+09:00&lt;br/&gt;Updated: 2026-08-09T23:39:40+09:00&lt;br/&gt;はじめに
-WBS（作業分解構成図）をスプレッドシートで管理していると、こんな場面に出くわします。
-
-セル結合と色分けが増えて、作った人以外が触れなくなる
-差分が追えないので、「先週から何が増えたのか」が分からない
-AIに渡そうとすると、まずCSVに書き出すところから始まる...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6eefccb7361f64607865</id>
@@ -540,6 +540,18 @@ Claude Code × GitHubで「自分の取扱説明書」を作り、AIに丸ごと
 AWSの構成図をAIに描かせたいけど、アイコンや体裁が崩れる...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b3302efec6a8d8b50197</id>
+    <title>新人エンジニア、AIがないと役に立たないハリボテ人間にならないか不安</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/b3302efec6a8d8b50197?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-10T14:46:52+09:00</updated>
+    <summary type="html">Likes: 65&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:46:52+09:00&lt;br/&gt;Updated: 2026-08-10T14:46:52+09:00&lt;br/&gt;はじめに
+
+エラーが出たら、考える前にまずAIにコピペする。それが当たり前になっていたぷらむんが、AIが数十分使えなくなった日に、急に自分の実力が不安になった話です。
+
+こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b7bfe27efae0231a09af</id>
     <title>AI人材は２つに分かれる。あなたが目指すべきはどっち？</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/b7bfe27efae0231a09af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -588,18 +600,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 「もう少しコードを書けるようになってから挑戦しよう。」
 
 きっと、同じように考えたことがあ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b3302efec6a8d8b50197</id>
-    <title>新人エンジニア、AIがないと役に立たないハリボテ人間にならないか不安</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/b3302efec6a8d8b50197?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-10T14:46:52+09:00</updated>
-    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:46:52+09:00&lt;br/&gt;Updated: 2026-08-10T14:46:52+09:00&lt;br/&gt;はじめに
-
-エラーが出たら、考える前にまずAIにコピペする。それが当たり前になっていたぷらむんが、AIが数十分使えなくなった日に、急に自分の実力が不安になった話です。
-
-こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e54c70c90c6aa84d0f66</id>
@@ -1081,15 +1081,6 @@ Agent Toolkit for AWSの一部の方のAWS MCP Serverの話です。オープン
 記号には、たいてい複数の読...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5215ea3cd1ec635a1636</id>
-    <title>VPNなしで社外から社内へ：Cloudflare Zero Trust（無料枠）ZTNA構築手順</title>
-    <link rel="alternate" href="https://qiita.com/BrainDirection/items/5215ea3cd1ec635a1636?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-10T10:35:30+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/BrainDirection&quot;&gt;BrainDirection&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T10:35:30+09:00&lt;br/&gt;Updated: 2026-06-10T10:35:30+09:00&lt;br/&gt;はじめに
-「社外から社内システムに入る手段がVPNしかない」「VPN装置の脆弱性対応に追われている」——中小規模の情シスでよくある悩みです。
-本記事では、Cloudflare Zero Trust を使って、VPNを使わずに社外から社内リソース（社内Web・RDPなど）へ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:f3695454f0de13aa8d7f</id>
     <title>情報過多で結局何も残らない、AI時代に取り残されたくない新人の焦りの末路</title>
     <link rel="alternate" href="https://qiita.com/prumnn/items/f3695454f0de13aa8d7f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1388,6 +1379,19 @@ High
 でも、い...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b4a550002ebf1e5b8af8</id>
+    <title>「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-10T14:47:47+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:47:47+09:00&lt;br/&gt;Updated: 2026-08-10T14:47:47+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+ータスクを...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ceb0f115dfe9459315bf</id>
     <title>新人エンジニアは&quot;忘れる前提&quot;で仕事をするのがベストだと気がついた</title>
     <link rel="alternate" href="https://qiita.com/prumnn/items/ceb0f115dfe9459315bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1420,19 +1424,6 @@ High
 前回は計算量（Big-O）の話を書きましたが、今回はその流れで、探索アルゴリズムの基本 DFS（深さ優先探索） と BFS（幅優先探索） をまとめてみました 
 名前は難しそうですが、中身は 「スタックを使うか、キューを使うか」だけの違い です。
 興味ある方は...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b4a550002ebf1e5b8af8</id>
-    <title>「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-10T14:47:47+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:47:47+09:00&lt;br/&gt;Updated: 2026-08-10T14:47:47+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-ータスクを...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a5c8d7625488a57c2303</id>
@@ -1502,6 +1493,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 さて終わった終わったと100億回言われ続けているPHPですが、2026年の今でも世界の2/3がPHPでできています。
 また言語自体も着実なバージョンアップを重ね、大きく成長しています。
 文法もパフォーマンスもPHP5...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:2aff0b2b40b9d0bfda91</id>
+    <title>.NET 11 Runtime Async はなぜ速いのか</title>
+    <link rel="alternate" href="https://qiita.com/hez2010/items/2aff0b2b40b9d0bfda91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-10T22:48:51+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hez2010&quot;&gt;hez2010&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T22:37:18+09:00&lt;br/&gt;Updated: 2026-08-10T22:48:51+09:00&lt;br/&gt;従来の async/await
+.NET の非同期処理といえば、長いあいだ async/await が中心だった。見た目は同期コードに近く、複雑になりやすい非同期処理を素直に書ける。
+この async/await は、内部では CPS（Continuation-Passi...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8e154a792445fa2c063e</id>
@@ -1720,15 +1720,6 @@ Claude Code が爆誕してから1年以上経った。
 それ以前に少し...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:2aff0b2b40b9d0bfda91</id>
-    <title>.NET 11 Runtime Async はなぜ速いのか</title>
-    <link rel="alternate" href="https://qiita.com/hez2010/items/2aff0b2b40b9d0bfda91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-10T22:48:51+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hez2010&quot;&gt;hez2010&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T22:37:18+09:00&lt;br/&gt;Updated: 2026-08-10T22:48:51+09:00&lt;br/&gt;従来の async/await
-.NET の非同期処理といえば、長いあいだ async/await が中心だった。見た目は同期コードに近く、複雑になりやすい非同期処理を素直に書ける。
-この async/await は、内部では CPS（Continuation-Passi...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:33e9a09af8ea5bdeebeb</id>
     <title>オーダーメイドで九九の計算プリントを作ろう（ローテクAI）</title>
     <link rel="alternate" href="https://qiita.com/Kaitou/items/33e9a09af8ea5bdeebeb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1821,6 +1812,15 @@ DB設計の勉強のために、以下の2冊を読みました。
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ntaka329&quot;&gt;ntaka329&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T12:02:25+09:00&lt;br/&gt;Updated: 2026-06-24T12:02:25+09:00&lt;br/&gt;はじめに
 GMOコネクトの永田です。
 提案や要件整理の場で、AWSの構成図を描くことが度々あります。ただ、都度ていねいに手で描くと時間がかかります。それなら構成案から自動で生成できればと思い、既存のAWS公式スキルなども試しました。ところが出てくるのは細部まで描き込んだ実...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9dd91baaa89c919d0992</id>
+    <title>RAGに古い情報で答えさせないためには？&quot;コンバージド&quot;データベースから考えるAI時代のデータ基盤</title>
+    <link rel="alternate" href="https://qiita.com/yushibats/items/9dd91baaa89c919d0992?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-12T16:32:19+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T22:24:26+09:00&lt;br/&gt;Updated: 2026-08-12T16:32:19+09:00&lt;br/&gt;はじめに
+生成AIやAIエージェントの活用には、AIが参照するデータをどう持つかという、データベース側の話が一緒についてきます。
+リレーショナル、ドキュメント、ベクトルと形の違うデータを、それぞれ得意な専用データベースに分けて持つのか、1つのデータベースにまとめて持つの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4da8a4aa027730db23e0</id>
@@ -2052,15 +2052,6 @@ README、設計...</summary>
 このハッカソンのテーマのひとつが、AWSが提唱する新しい開発手法 AI-DLC（AI-Driven Development Life Cycle） を利用することでした...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:9dd91baaa89c919d0992</id>
-    <title>RAGに古い情報で答えさせないためには？&quot;コンバージド&quot;データベースから考えるAI時代のデータ基盤</title>
-    <link rel="alternate" href="https://qiita.com/yushibats/items/9dd91baaa89c919d0992?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-10T22:24:26+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T22:24:26+09:00&lt;br/&gt;Updated: 2026-08-10T22:24:26+09:00&lt;br/&gt;はじめに
-生成AIやAIエージェントの活用には、AIが参照するデータをどう持つかという、データベース側の話が一緒についてきます。
-リレーショナル、ドキュメント、ベクトルと形の違うデータを、それぞれ得意な専用データベースに分けて持つのか、1つのデータベースにまとめて持つの...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:cb785917d2661858f7b7</id>
     <title>プロンプトの次は何を学べばいい？ AIとの付き合い方を4段階で整理する</title>
     <link rel="alternate" href="https://qiita.com/jqit_suwa/items/cb785917d2661858f7b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2234,5 +2225,15 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 この記事は、Claude Code のセキュリティガードレールを「概念」ではなく「動くコード」で示すことを目的にしています。
 「ガードレールが必要だとは分かった。でも何をどう書けばいいのか」という段階の方に向けて書いています。
 settings.json の p...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:8b8c3116f07fcefe2047</id>
+    <title>未経験エンジニアなら、キーボードよりノートを汚せ</title>
+    <link rel="alternate" href="https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-22T21:53:47+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/maketahara_ise&quot;&gt;maketahara_ise&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T16:07:11+09:00&lt;br/&gt;Updated: 2026-06-22T21:53:47+09:00&lt;br/&gt;はじめに
+小生、未経験から開発職について早一年。
+今やどんなソースもガリレオのように解読し、もう八面六臂の大活躍で上司もにんまり。
+なんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないので...</summary>
   </entry>
 </feed>
