@@ -169,18 +169,6 @@
       "last_seen": "2026-06-17T08:11:29.822958299+00:00"
     },
     {
-      "key": "0c067a232719212c4bfe",
-      "item_id": "0c067a232719212c4bfe",
-      "title": "【CSS】FlexとGridのGapにBorderをつけることができるようになった！！",
-      "link": "https://qiita.com/degudegu2510/items/0c067a232719212c4bfe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nGridやFlexboxでレイアウトを組むとき、「列や行の間に区切り線を入れたい」と思ったことはありませんか？\nこれまでは疑似要素や余分なDOM要素を駆使して実現するしかなく、レスポンシブ対応が複雑になったり、アクセシビリティツリーに不要なノードが増えたりと悩み...",
-      "published": "2026-06-10T18:29:09+09:00",
-      "updated": "2026-06-10T18:30:58+09:00",
-      "author_name": "degudegu2510",
-      "likes_count": 17,
-      "last_seen": "2026-06-13T19:41:58.117502793+00:00"
-    },
-    {
       "key": "0c1da2b7431aa73a798a",
       "item_id": "0c1da2b7431aa73a798a",
       "title": "新人エンジニアが最初に専門分野を決めた話",
@@ -251,18 +239,6 @@
       "author_name": "shirok",
       "likes_count": 24,
       "last_seen": "2026-07-10T07:49:47.289897827+00:00"
-    },
-    {
-      "key": "0ea0ebf709eb00230b93",
-      "item_id": "0ea0ebf709eb00230b93",
-      "title": "Claude Code / GitHub Copilot のトークン消費を手軽に削減する2つのツール",
-      "link": "https://qiita.com/rairaii/items/0ea0ebf709eb00230b93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nClaude Code や GitHub Copilot を使ったコード生成サービスを利用している人は多いでしょう。\n契約によっては使い放題ではなくトークン課金型のものも存在します。トークン課金型でコード生成サービスを日常的に利用していると、気が付かないうちに大...",
-      "published": "2026-06-10T20:49:28+09:00",
-      "updated": "2026-06-10T20:49:29+09:00",
-      "author_name": "rairaii",
-      "likes_count": 16,
-      "last_seen": "2026-06-13T19:41:58.117502793+00:00"
     },
     {
       "key": "0eceb428cb3f45bb7cfb",
@@ -814,7 +790,7 @@
       "updated": "2026-08-10T22:48:51+09:00",
       "author_name": "hez2010",
       "likes_count": 42,
-      "last_seen": "2026-08-12T19:16:00.036207012+00:00"
+      "last_seen": "2026-08-12T20:57:50.767271021+00:00"
     },
     {
       "key": "2baf3f2f047e912dab48",
@@ -827,18 +803,6 @@
       "author_name": "imamu123",
       "likes_count": 10,
       "last_seen": "2026-07-08T07:39:08.817837722+00:00"
-    },
-    {
-      "key": "2bea01d8d642b47bf1fa",
-      "item_id": "2bea01d8d642b47bf1fa",
-      "title": "【きっと分かる】TDDってなに？陣取りゲームでサクッと理解してみないか？",
-      "link": "https://qiita.com/tomoki-miso/items/2bea01d8d642b47bf1fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nTDDは、昨今AIエージェントによる開発が広まる中で再注目されている開発手法だ。\n自分自身も、AI駆動開発の文脈でTDDを勉強し、あえてAIにたよらずTDDを実践してみた。\nその中で、TDDは「陣取りゲームに近いのではないか？」と思えてきた。\n実際のコードを読ん...",
-      "published": "2026-06-11T17:09:25+09:00",
-      "updated": "2026-06-11T17:09:25+09:00",
-      "author_name": "tomoki-miso",
-      "likes_count": 10,
-      "last_seen": "2026-06-13T19:41:58.117502793+00:00"
     },
     {
       "key": "2c9d2686bdbc5e085191",
@@ -1045,18 +1009,6 @@
       "last_seen": "2026-07-29T06:41:21.773163051+00:00"
     },
     {
-      "key": "30ae4581b8a9b3206b15",
-      "item_id": "30ae4581b8a9b3206b15",
-      "title": "Claude Fable 5を１日使ってみて",
-      "link": "https://qiita.com/yo_arai/items/30ae4581b8a9b3206b15?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n本日Anthropic一般公開したモデル「Fable 5」を、リリース翌日から丸一日、Claude Code でのコーディング・開発作業を中心に触ってみました。本記事はその所感を述べたものです。\n\nモデル概要\nまあ読んでいる時点で知らないことはないと思いますが前...",
-      "published": "2026-06-11T01:01:48+09:00",
-      "updated": "2026-06-11T02:02:12+09:00",
-      "author_name": "yo_arai",
-      "likes_count": 33,
-      "last_seen": "2026-06-13T19:41:58.117502793+00:00"
-    },
-    {
       "key": "30c076850c90e50da118",
       "item_id": "30c076850c90e50da118",
       "title": "メモリ管理の基本と、Railsで省メモリに書くための実装Tips",
@@ -1211,6 +1163,18 @@
       "author_name": "wetty_serial",
       "likes_count": 28,
       "last_seen": "2026-06-23T19:45:15.094469203+00:00"
+    },
+    {
+      "key": "37068142536443812690",
+      "item_id": "37068142536443812690",
+      "title": "コンピューターが動く裏側、５大装置を人に例えたら覚えやすかった【ITパスポート】",
+      "link": "https://qiita.com/prumnn/items/37068142536443812690?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n\nパソコンの中身なんて考えたこともなかったぷらむんが、ITパスポートの勉強で「五大装置」という言葉に出会い、人間の体に例えてもらったら一気に腑に落ちた話です。\n\nこんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯\n...",
+      "published": "2026-08-12T17:13:47+09:00",
+      "updated": "2026-08-12T17:13:47+09:00",
+      "author_name": "prumnn",
+      "likes_count": 24,
+      "last_seen": "2026-08-12T20:57:50.767271021+00:00"
     },
     {
       "key": "3779701ad40b74b491c5",
@@ -1775,6 +1739,18 @@
       "author_name": "usui0623",
       "likes_count": 10,
       "last_seen": "2026-08-07T19:09:59.832549177+00:00"
+    },
+    {
+      "key": "4e57aa62c090cf9d9979",
+      "item_id": "4e57aa62c090cf9d9979",
+      "title": "技術力より先に、信頼を積む人がやっている地味な行動",
+      "link": "https://qiita.com/sumomoo/items/4e57aa62c090cf9d9979?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや\n考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\n私はもとも...",
+      "published": "2026-08-12T17:16:04+09:00",
+      "updated": "2026-08-12T17:16:04+09:00",
+      "author_name": "sumomoo",
+      "likes_count": 26,
+      "last_seen": "2026-08-12T20:57:50.767271021+00:00"
     },
     {
       "key": "4ed4994f8641e5a9e58e",
@@ -2638,7 +2614,7 @@
       "updated": "2026-08-10T23:35:12+09:00",
       "author_name": "asahide",
       "likes_count": 13,
-      "last_seen": "2026-08-12T19:16:00.036207012+00:00"
+      "last_seen": "2026-08-12T20:57:50.767271021+00:00"
     },
     {
       "key": "78314be5a6db95b13286",
@@ -2986,7 +2962,7 @@
       "updated": "2026-08-10T06:27:08+09:00",
       "author_name": "hgoto-gxp",
       "likes_count": 12,
-      "last_seen": "2026-08-12T19:16:00.036207012+00:00"
+      "last_seen": "2026-08-12T20:57:50.767271021+00:00"
     },
     {
       "key": "854ce04da1490b43a848",
@@ -3250,7 +3226,7 @@
       "updated": "2026-08-12T00:07:49+09:00",
       "author_name": "engineer_hiyok",
       "likes_count": 12,
-      "last_seen": "2026-08-12T19:16:00.036207012+00:00"
+      "last_seen": "2026-08-12T20:57:50.767271021+00:00"
     },
     {
       "key": "8e154a792445fa2c063e",
@@ -3502,7 +3478,7 @@
       "updated": "2026-08-11T20:08:54+09:00",
       "author_name": "Gotoubun_taiwan",
       "likes_count": 10,
-      "last_seen": "2026-08-12T19:16:00.036207012+00:00"
+      "last_seen": "2026-08-12T20:57:50.767271021+00:00"
     },
     {
       "key": "9a35fa099a7840a4a394",
@@ -3538,7 +3514,7 @@
       "updated": "2026-08-11T17:15:03+09:00",
       "author_name": "inuta-one",
       "likes_count": 16,
-      "last_seen": "2026-08-12T19:16:00.036207012+00:00"
+      "last_seen": "2026-08-12T20:57:50.767271021+00:00"
     },
     {
       "key": "9ae8a5135726d9cb2be7",
@@ -3621,8 +3597,8 @@
       "published": "2026-08-10T22:24:26+09:00",
       "updated": "2026-08-12T16:32:19+09:00",
       "author_name": "yushibats",
-      "likes_count": 34,
-      "last_seen": "2026-08-12T19:16:00.036207012+00:00"
+      "likes_count": 35,
+      "last_seen": "2026-08-12T20:57:50.767271021+00:00"
     },
     {
       "key": "9f366ad0d21f4ae30837",
@@ -3733,18 +3709,6 @@
       "last_seen": "2026-06-22T06:04:13.642411927+00:00"
     },
     {
-      "key": "a239fedfae8bb4a0a5ac",
-      "item_id": "a239fedfae8bb4a0a5ac",
-      "title": "10歳娘「パパ、AI時代にはDDDなんて要らないの？」",
-      "link": "https://qiita.com/Yametaro/items/a239fedfae8bb4a0a5ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "ある日の我が家\nワイ「はぁ・・・」\n娘（10歳）「パパ、どうしたの？ため息ついて」\nワイ「いや、ちょっと会社でショックなことがあってな・・・」\nワイ「ワイってほら、今の会社で最年長で」\nワイ「しかもちょっと、頭もおかしいやろ？」\n娘「うん！」\nワイ「せやから、後輩たちから...",
-      "published": "2026-06-10T20:42:43+09:00",
-      "updated": "2026-06-11T17:10:02+09:00",
-      "author_name": "Yametaro",
-      "likes_count": 12,
-      "last_seen": "2026-06-13T19:41:58.117502793+00:00"
-    },
-    {
       "key": "a2463fab85ee9778847c",
       "item_id": "a2463fab85ee9778847c",
       "title": "量子コンピュータを完全に理解したい人のためのロードマップ",
@@ -3814,7 +3778,7 @@
       "updated": "2026-08-10T20:18:02+09:00",
       "author_name": "rana_kualu",
       "likes_count": 20,
-      "last_seen": "2026-08-12T19:16:00.036207012+00:00"
+      "last_seen": "2026-08-12T20:57:50.767271021+00:00"
     },
     {
       "key": "a5c8d7625488a57c2303",
@@ -4102,7 +4066,7 @@
       "updated": "2026-08-10T14:46:52+09:00",
       "author_name": "prumnn",
       "likes_count": 72,
-      "last_seen": "2026-08-12T19:16:00.036207012+00:00"
+      "last_seen": "2026-08-12T20:57:50.767271021+00:00"
     },
     {
       "key": "b35fc1c3b0dd8f6d7052",
@@ -4162,7 +4126,7 @@
       "updated": "2026-08-10T14:47:47+09:00",
       "author_name": "sumomoo",
       "likes_count": 40,
-      "last_seen": "2026-08-12T19:16:00.036207012+00:00"
+      "last_seen": "2026-08-12T20:57:50.767271021+00:00"
     },
     {
       "key": "b525b64882548d4aec0d",
