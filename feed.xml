@@ -123,6 +123,23 @@ Web API設計を調べると、検索上位に出てくる記事が2015〜2019�
 そのた...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2feffd2cc6c672717973</id>
+    <title>AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証</title>
+    <link rel="alternate" href="https://qiita.com/y0us91/items/2feffd2cc6c672717973?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-11T19:42:07+09:00</updated>
+    <summary type="html">Likes: 152&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/y0us91&quot;&gt;y0us91&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T19:42:07+09:00&lt;br/&gt;Updated: 2026-08-11T19:42:07+09:00&lt;br/&gt;はじめに
+Coding Agentの進化によって、ソフトウェア開発の形が大きく変わり始めています。
+少し前までAIによる開発支援といえば、
+
+コード補完
+コード生成
+リファクタリング
+テストコード生成
+
+など、「人間が主体で、AIが支援する」使い方が中心でした。
+しかし現...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a2d825e3ee3e3a4b6dbd</id>
     <title>Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ</title>
     <link rel="alternate" href="https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -151,23 +168,6 @@ WBS（作業分解構成図）をスプレッドシートで管理している�
 セル結合と色分けが増えて、作った人以外が触れなくなる
 差分が追えないので、「先週から何が増えたのか」が分からない
 AIに渡そうとすると、まずCSVに書き出すところから始まる...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2feffd2cc6c672717973</id>
-    <title>AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証</title>
-    <link rel="alternate" href="https://qiita.com/y0us91/items/2feffd2cc6c672717973?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-11T19:42:07+09:00</updated>
-    <summary type="html">Likes: 132&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/y0us91&quot;&gt;y0us91&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T19:42:07+09:00&lt;br/&gt;Updated: 2026-08-11T19:42:07+09:00&lt;br/&gt;はじめに
-Coding Agentの進化によって、ソフトウェア開発の形が大きく変わり始めています。
-少し前までAIによる開発支援といえば、
-
-コード補完
-コード生成
-リファクタリング
-テストコード生成
-
-など、「人間が主体で、AIが支援する」使い方が中心でした。
-しかし現...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:52dc298122587969b39c</id>
@@ -2171,6 +2171,16 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 導入企...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a50907007c868b807750</id>
+    <title>【PHP8.6】PHP8.6の新機能全部紹介するよ</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/a50907007c868b807750?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-10T20:18:02+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T20:12:11+09:00&lt;br/&gt;Updated: 2026-08-10T20:18:02+09:00&lt;br/&gt;PHP8.6 / PHP8.5 / PHP8.4 / PHP8.3 / PHP8.2
+2026/08/13、PHP8.6がフィーチャーフリーズしました。
+言語機能に関わるような機能の追加・変更が締め切られたということです。
+今後はデバッグを繰り返しながら完成度を高めていき、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:aefb1adac27a34646cf3</id>
     <title>AI が原因を当てても、「思いついた」わけじゃない —— 推論の3分類で見分ける</title>
     <link rel="alternate" href="https://qiita.com/jqit_suwa/items/aefb1adac27a34646cf3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2229,15 +2239,5 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 この記事は、Claude Code のセキュリティガードレールを「概念」ではなく「動くコード」で示すことを目的にしています。
 「ガードレールが必要だとは分かった。でも何をどう書けばいいのか」という段階の方に向けて書いています。
 settings.json の p...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8b8c3116f07fcefe2047</id>
-    <title>未経験エンジニアなら、キーボードよりノートを汚せ</title>
-    <link rel="alternate" href="https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-22T21:53:47+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/maketahara_ise&quot;&gt;maketahara_ise&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T16:07:11+09:00&lt;br/&gt;Updated: 2026-06-22T21:53:47+09:00&lt;br/&gt;はじめに
-小生、未経験から開発職について早一年。
-今やどんなソースもガリレオのように解読し、もう八面六臂の大活躍で上司もにんまり。
-なんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないので...</summary>
   </entry>
 </feed>
