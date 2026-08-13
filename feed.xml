@@ -289,20 +289,6 @@ ssh を3回叩いたら、TCP 接続は3本になりますか
 「正規表現で /[^\x20-\x7E]/ ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:77e2a48e4189bd5ddc3b</id>
-    <title>信頼されるエンジニアが実践する「聴く技術」4選</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/77e2a48e4189bd5ddc3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-11T15:28:12+09:00</updated>
-    <summary type="html">Likes: 104&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:28:12+09:00&lt;br/&gt;Updated: 2026-06-11T15:28:12+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
-仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。
-誰かの助けになれば幸いです。
-
-信頼されるエンジニアが実践する「聴く技術」4選
-
-...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:d3c540c868c3413704b7</id>
     <title>「保守業務って地味…」と思っていた新人の自分へ</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/d3c540c868c3413704b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -443,6 +429,23 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 なぜなら、Webデザインには「どんな情報を・どの順番で・どんなレイアウトで・どんな雰囲気で・どんな色で・どんな文字で・どんな部品...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2feffd2cc6c672717973</id>
+    <title>AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証</title>
+    <link rel="alternate" href="https://qiita.com/y0us91/items/2feffd2cc6c672717973?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-11T19:42:07+09:00</updated>
+    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/y0us91&quot;&gt;y0us91&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T19:42:07+09:00&lt;br/&gt;Updated: 2026-08-11T19:42:07+09:00&lt;br/&gt;はじめに
+Coding Agentの進化によって、ソフトウェア開発の形が大きく変わり始めています。
+少し前までAIによる開発支援といえば、
+
+コード補完
+コード生成
+リファクタリング
+テストコード生成
+
+など、「人間が主体で、AIが支援する」使い方が中心でした。
+しかし現...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0c1da2b7431aa73a798a</id>
     <title>新人エンジニアが最初に専門分野を決めた話</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/0c1da2b7431aa73a798a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -506,19 +509,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 
 あれから4ヶ月以上使い込んで、ようやく使いこなせるようになってきた実感があります。
 使っていて思うのは、コードを書いたりツールや MCP を呼び出したり、いろんな作業を Claude にやらせている一方で、Claude Cod...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3c8949b62ce1dfe7a024</id>
-    <title>Claude Codeに人生を管理させて3ヶ月、一番効いたのは自動化じゃなかった</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/3c8949b62ce1dfe7a024?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-14T10:50:17+09:00</updated>
-    <summary type="html">Likes: 69&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T10:25:29+09:00&lt;br/&gt;Updated: 2026-06-14T10:50:17+09:00&lt;br/&gt;はじめに
-
-*この記事のまとめ
-
-Claude Code × GitHubで「自分の取扱説明書」を作り、AIに丸ごと渡す運用を3ヶ月続けた
-スキルやMCPで自動化もした。でも一番効いたのは、自動化ではなく「自分を言語化する強制力」だった
-メモアプリ1つで始められる。エン...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:11358e8e8966d5e48a09</id>
@@ -600,23 +590,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 「もう少しコードを書けるようになってから挑戦しよう。」
 
 きっと、同じように考えたことがあ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2feffd2cc6c672717973</id>
-    <title>AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証</title>
-    <link rel="alternate" href="https://qiita.com/y0us91/items/2feffd2cc6c672717973?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-11T19:42:07+09:00</updated>
-    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/y0us91&quot;&gt;y0us91&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T19:42:07+09:00&lt;br/&gt;Updated: 2026-08-11T19:42:07+09:00&lt;br/&gt;はじめに
-Coding Agentの進化によって、ソフトウェア開発の形が大きく変わり始めています。
-少し前までAIによる開発支援といえば、
-
-コード補完
-コード生成
-リファクタリング
-テストコード生成
-
-など、「人間が主体で、AIが支援する」使い方が中心でした。
-しかし現...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e54c70c90c6aa84d0f66</id>
@@ -867,6 +840,15 @@ AIが生成したコードに質問や修正依頼をするとき、
 さて、量子コンピュータですが、ちゃんと理解したいと思って調べ始め...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2aff0b2b40b9d0bfda91</id>
+    <title>.NET 11 Runtime Async はなぜ速いのか</title>
+    <link rel="alternate" href="https://qiita.com/hez2010/items/2aff0b2b40b9d0bfda91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-10T22:48:51+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hez2010&quot;&gt;hez2010&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T22:37:18+09:00&lt;br/&gt;Updated: 2026-08-10T22:48:51+09:00&lt;br/&gt;従来の async/await
+.NET の非同期処理といえば、長いあいだ async/await が中心だった。見た目は同期コードに近く、複雑になりやすい非同期処理を素直に書ける。
+この async/await は、内部では CPS（Continuation-Passi...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:535a697aeaea41515de9</id>
     <title>エラー対応理由考えてる？コピペしてAIに聞いてるでしょ</title>
     <link rel="alternate" href="https://qiita.com/prum_sumomo/items/535a697aeaea41515de9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -887,15 +869,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <updated>2026-06-15T10:27:15+09:00</updated>
     <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T10:27:14+09:00&lt;br/&gt;Updated: 2026-06-15T10:27:15+09:00&lt;br/&gt;3か月前、私は同じRTX 4070でこんな検証記事を書きました。結論は「35BのMoEモデルは、待てるなら動く」。測ったのは10.6 tok/s。動くには動くが、チャットで使うには指が止まる速度です。
 先週、同じGPU・同じモデルで測り直したら34.6 tok/sが出ました...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2aff0b2b40b9d0bfda91</id>
-    <title>.NET 11 Runtime Async はなぜ速いのか</title>
-    <link rel="alternate" href="https://qiita.com/hez2010/items/2aff0b2b40b9d0bfda91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-10T22:48:51+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hez2010&quot;&gt;hez2010&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T22:37:18+09:00&lt;br/&gt;Updated: 2026-08-10T22:48:51+09:00&lt;br/&gt;従来の async/await
-.NET の非同期処理といえば、長いあいだ async/await が中心だった。見た目は同期コードに近く、複雑になりやすい非同期処理を素直に書ける。
-この async/await は、内部では CPS（Continuation-Passi...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2af4f788bd0d1963eec7</id>
@@ -1239,6 +1212,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 マルチリージョン構成でのDR（Disaster Recovery）や、ワークロードのレイテンシ要件から、東京リージョン（ap-northeast-1）と大阪リージョン（ap-northeast-3）のような同一パーティション内の複数リージョンをインターネッ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:9dd91baaa89c919d0992</id>
+    <title>RAGに古い情報で答えさせないためには？&quot;コンバージド&quot;データベースから考えるAI時代のデータ基盤</title>
+    <link rel="alternate" href="https://qiita.com/yushibats/items/9dd91baaa89c919d0992?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-12T16:32:19+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T22:24:26+09:00&lt;br/&gt;Updated: 2026-08-12T16:32:19+09:00&lt;br/&gt;はじめに
+生成AIやAIエージェントの活用には、AIが参照するデータをどう持つかという、データベース側の話が一緒についてきます。
+リレーショナル、ドキュメント、ベクトルと形の違うデータを、それぞれ得意な専用データベースに分けて持つのか、1つのデータベースにまとめて持つの...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e6f1678b41483943fc04</id>
     <title>新しい Copilot Studio が GA したので「ハーネス」とクレジット課金体系を改めて整理してみる</title>
     <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/e6f1678b41483943fc04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1298,6 +1280,19 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 「やらかし」の名前のクセに。
 アンチパターンとは、広く行われているのに望ましくない結果を招く実践を、原因・兆候・悪影響・対処法までセットで整理した形式のこと。
 この記事では、名前がカッ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4e57aa62c090cf9d9979</id>
+    <title>技術力より先に、信頼を積む人がやっている地味な行動</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/4e57aa62c090cf9d9979?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-12T17:16:04+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-12T17:16:04+09:00&lt;br/&gt;Updated: 2026-08-12T17:16:04+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+私はもとも...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cfe3c47453968b2d3c29</id>
@@ -1418,15 +1413,6 @@ High
 でも、い...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:9dd91baaa89c919d0992</id>
-    <title>RAGに古い情報で答えさせないためには？&quot;コンバージド&quot;データベースから考えるAI時代のデータ基盤</title>
-    <link rel="alternate" href="https://qiita.com/yushibats/items/9dd91baaa89c919d0992?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-12T16:32:19+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T22:24:26+09:00&lt;br/&gt;Updated: 2026-08-12T16:32:19+09:00&lt;br/&gt;はじめに
-生成AIやAIエージェントの活用には、AIが参照するデータをどう持つかという、データベース側の話が一緒についてきます。
-リレーショナル、ドキュメント、ベクトルと形の違うデータを、それぞれ得意な専用データベースに分けて持つのか、1つのデータベースにまとめて持つの...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:ceb0f115dfe9459315bf</id>
     <title>新人エンジニアは&quot;忘れる前提&quot;で仕事をするのがベストだと気がついた</title>
     <link rel="alternate" href="https://qiita.com/prumnn/items/ceb0f115dfe9459315bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1528,19 +1514,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 さて終わった終わったと100億回言われ続けているPHPですが、2026年の今でも世界の2/3がPHPでできています。
 また言語自体も着実なバージョンアップを重ね、大きく成長しています。
 文法もパフォーマンスもPHP5...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4e57aa62c090cf9d9979</id>
-    <title>技術力より先に、信頼を積む人がやっている地味な行動</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/4e57aa62c090cf9d9979?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-12T17:16:04+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-12T17:16:04+09:00&lt;br/&gt;Updated: 2026-08-12T17:16:04+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-私はもとも...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8e154a792445fa2c063e</id>
@@ -1776,6 +1749,18 @@ Geminiでこんなプロンプトを入力すると...</summary>
 何を聞かれるか分からない。うまく説明できるか不安。認識がずれて...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:37068142536443812690</id>
+    <title>コンピューターが動く裏側、５大装置を人に例えたら覚えやすかった【ITパスポート】</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/37068142536443812690?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-12T17:13:47+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-12T17:13:47+09:00&lt;br/&gt;Updated: 2026-08-12T17:13:47+09:00&lt;br/&gt;はじめに
+
+パソコンの中身なんて考えたこともなかったぷらむんが、ITパスポートの勉強で「五大装置」という言葉に出会い、人間の体に例えてもらったら一気に腑に落ちた話です。
+
+こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1766dd6bbd308222f71b</id>
     <title>【ClaudeCode】コスト発生要因から考えるトークン消費最適化術【トークン】</title>
     <link rel="alternate" href="https://qiita.com/Nana_777/items/1766dd6bbd308222f71b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1840,18 +1825,6 @@ DB設計の勉強のために、以下の2冊を読みました。
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ntaka329&quot;&gt;ntaka329&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T12:02:25+09:00&lt;br/&gt;Updated: 2026-06-24T12:02:25+09:00&lt;br/&gt;はじめに
 GMOコネクトの永田です。
 提案や要件整理の場で、AWSの構成図を描くことが度々あります。ただ、都度ていねいに手で描くと時間がかかります。それなら構成案から自動で生成できればと思い、既存のAWS公式スキルなども試しました。ところが出てくるのは細部まで描き込んだ実...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:37068142536443812690</id>
-    <title>コンピューターが動く裏側、５大装置を人に例えたら覚えやすかった【ITパスポート】</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/37068142536443812690?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-12T17:13:47+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-12T17:13:47+09:00&lt;br/&gt;Updated: 2026-08-12T17:13:47+09:00&lt;br/&gt;はじめに
-
-パソコンの中身なんて考えたこともなかったぷらむんが、ITパスポートの勉強で「五大装置」という言葉に出会い、人間の体に例えてもらったら一気に腑に落ちた話です。
-
-こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4da8a4aa027730db23e0</id>
@@ -2246,5 +2219,25 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 
 自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
 でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:bab35c7b58a664d3b8f1</id>
+    <title>Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-23T14:01:00+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-06-23T14:01:00+09:00&lt;br/&gt;Updated: 2026-06-23T14:01:00+09:00&lt;br/&gt;はじめに
+この記事は、Claude Code のセキュリティガードレールを「概念」ではなく「動くコード」で示すことを目的にしています。
+「ガードレールが必要だとは分かった。でも何をどう書けばいいのか」という段階の方に向けて書いています。
+settings.json の p...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:8b8c3116f07fcefe2047</id>
+    <title>未経験エンジニアなら、キーボードよりノートを汚せ</title>
+    <link rel="alternate" href="https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-22T21:53:47+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/maketahara_ise&quot;&gt;maketahara_ise&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T16:07:11+09:00&lt;br/&gt;Updated: 2026-06-22T21:53:47+09:00&lt;br/&gt;はじめに
+小生、未経験から開発職について早一年。
+今やどんなソースもガリレオのように解読し、もう八面六臂の大活躍で上司もにんまり。
+なんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないので...</summary>
   </entry>
 </feed>
