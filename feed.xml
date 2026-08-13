@@ -602,6 +602,23 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 きっと、同じように考えたことがあ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2feffd2cc6c672717973</id>
+    <title>AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証</title>
+    <link rel="alternate" href="https://qiita.com/y0us91/items/2feffd2cc6c672717973?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-11T19:42:07+09:00</updated>
+    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/y0us91&quot;&gt;y0us91&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T19:42:07+09:00&lt;br/&gt;Updated: 2026-08-11T19:42:07+09:00&lt;br/&gt;はじめに
+Coding Agentの進化によって、ソフトウェア開発の形が大きく変わり始めています。
+少し前までAIによる開発支援といえば、
+
+コード補完
+コード生成
+リファクタリング
+テストコード生成
+
+など、「人間が主体で、AIが支援する」使い方が中心でした。
+しかし現...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e54c70c90c6aa84d0f66</id>
     <title>CLAUDE.md 設計パターン集──プロジェクト規模別に使い分ける7つのテンプレート</title>
     <link rel="alternate" href="https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -872,21 +889,13 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 先週、同じGPU・同じモデルで測り直したら34.6 tok/sが出ました...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:2feffd2cc6c672717973</id>
-    <title>AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証</title>
-    <link rel="alternate" href="https://qiita.com/y0us91/items/2feffd2cc6c672717973?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-11T19:42:07+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/y0us91&quot;&gt;y0us91&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T19:42:07+09:00&lt;br/&gt;Updated: 2026-08-11T19:42:07+09:00&lt;br/&gt;はじめに
-Coding Agentの進化によって、ソフトウェア開発の形が大きく変わり始めています。
-少し前までAIによる開発支援といえば、
-
-コード補完
-コード生成
-リファクタリング
-テストコード生成
-
-など、「人間が主体で、AIが支援する」使い方が中心でした。
-しかし現...</summary>
+    <id>tag:qiita.com,2026:2aff0b2b40b9d0bfda91</id>
+    <title>.NET 11 Runtime Async はなぜ速いのか</title>
+    <link rel="alternate" href="https://qiita.com/hez2010/items/2aff0b2b40b9d0bfda91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-10T22:48:51+09:00</updated>
+    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hez2010&quot;&gt;hez2010&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T22:37:18+09:00&lt;br/&gt;Updated: 2026-08-10T22:48:51+09:00&lt;br/&gt;従来の async/await
+.NET の非同期処理といえば、長いあいだ async/await が中心だった。見た目は同期コードに近く、複雑になりやすい非同期処理を素直に書ける。
+この async/await は、内部では CPS（Continuation-Passi...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2af4f788bd0d1963eec7</id>
@@ -896,15 +905,6 @@ Coding Agentの進化によって、ソフトウェア開発の形が大きく�
     <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetutetu214&quot;&gt;tetutetu214&lt;/a&gt;&lt;br/&gt;Published: 2026-06-27T09:34:36+09:00&lt;br/&gt;Updated: 2026-06-28T09:46:07+09:00&lt;br/&gt;概要
 こちらの記事では、AWS Summit Japan 2026(2026/6/26~27 で開催) での、Builder Community エリアのステージで開催されていました、セッション資料へのリンクをまとめまたものとなります。
 ※資料リンクが不足しているところは...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2aff0b2b40b9d0bfda91</id>
-    <title>.NET 11 Runtime Async はなぜ速いのか</title>
-    <link rel="alternate" href="https://qiita.com/hez2010/items/2aff0b2b40b9d0bfda91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-10T22:48:51+09:00</updated>
-    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hez2010&quot;&gt;hez2010&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T22:37:18+09:00&lt;br/&gt;Updated: 2026-08-10T22:48:51+09:00&lt;br/&gt;従来の async/await
-.NET の非同期処理といえば、長いあいだ async/await が中心だった。見た目は同期コードに近く、複雑になりやすい非同期処理を素直に書ける。
-この async/await は、内部では CPS（Continuation-Passi...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b431a74f1cde18d45ad3</id>
