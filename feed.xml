@@ -219,6 +219,23 @@ AIに渡そうとすると、まずCSVに書き出すところから始まる...
 元々Qiitaを書き慣れていて筆が速いというのもありますが、特にここ半年ほ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2feffd2cc6c672717973</id>
+    <title>AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証</title>
+    <link rel="alternate" href="https://qiita.com/y0us91/items/2feffd2cc6c672717973?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-11T19:42:07+09:00</updated>
+    <summary type="html">Likes: 115&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/y0us91&quot;&gt;y0us91&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T19:42:07+09:00&lt;br/&gt;Updated: 2026-08-11T19:42:07+09:00&lt;br/&gt;はじめに
+Coding Agentの進化によって、ソフトウェア開発の形が大きく変わり始めています。
+少し前までAIによる開発支援といえば、
+
+コード補完
+コード生成
+リファクタリング
+テストコード生成
+
+など、「人間が主体で、AIが支援する」使い方が中心でした。
+しかし現...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6eefccb7361f64607865</id>
     <title>新しいHTTPメソッド「QUERY」をHono + Bunで実装してみる</title>
     <link rel="alternate" href="https://qiita.com/maaaashi/items/6eefccb7361f64607865?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -308,23 +325,6 @@ ssh を3回叩いたら、TCP 接続は3本になりますか
 なのでその内容を小学生にもわかるレベルで、解説していきます。
 今回はRailsで実装してますが、
 皆さんが使っている言語に置き換えて学ん...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2feffd2cc6c672717973</id>
-    <title>AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証</title>
-    <link rel="alternate" href="https://qiita.com/y0us91/items/2feffd2cc6c672717973?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-11T19:42:07+09:00</updated>
-    <summary type="html">Likes: 97&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/y0us91&quot;&gt;y0us91&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T19:42:07+09:00&lt;br/&gt;Updated: 2026-08-11T19:42:07+09:00&lt;br/&gt;はじめに
-Coding Agentの進化によって、ソフトウェア開発の形が大きく変わり始めています。
-少し前までAIによる開発支援といえば、
-
-コード補完
-コード生成
-リファクタリング
-テストコード生成
-
-など、「人間が主体で、AIが支援する」使い方が中心でした。
-しかし現...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e9ee8e26cfdc40a8c2f9</id>
@@ -889,6 +889,19 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 というのも、これまでの「DFS / BFS」「計算量（Big-O）」「DBインデックス」——実はこの3記事、全部 データ構造 の話をしてい...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4e57aa62c090cf9d9979</id>
+    <title>技術力より先に、信頼を積む人がやっている地味な行動</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/4e57aa62c090cf9d9979?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-12T17:16:04+09:00</updated>
+    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-12T17:16:04+09:00&lt;br/&gt;Updated: 2026-08-12T17:16:04+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+私はもとも...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:224f55bc85b813930f61</id>
     <title>ずぼらAI駆動開発、爆誕</title>
     <link rel="alternate" href="https://qiita.com/nobu34/items/224f55bc85b813930f61?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -962,19 +975,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 前回はメモリ管理の基本を書きましたが、今回はその続きで メモリリーク と 断片化（フラグメンテーション） についてまとめてみました 
 前回ふれた「OOM（メモリ枯渇でプロセスが落ちる）」の 原因編 にあたる話です。
 興味ある方は読んでいただけると嬉しいです ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4e57aa62c090cf9d9979</id>
-    <title>技術力より先に、信頼を積む人がやっている地味な行動</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/4e57aa62c090cf9d9979?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-12T17:16:04+09:00</updated>
-    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-12T17:16:04+09:00&lt;br/&gt;Updated: 2026-08-12T17:16:04+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-私はもとも...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:dab9765ffd6aae8f0c07</id>
