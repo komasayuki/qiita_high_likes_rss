@@ -837,16 +837,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 「RubyとPythonって何が違うんで...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c3d6277ff99afb214b19</id>
-    <title>【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/c3d6277ff99afb214b19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-13T23:05:19+09:00</updated>
-    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-13T23:05:19+09:00&lt;br/&gt;Updated: 2026-06-13T23:05:19+09:00&lt;br/&gt;はじめに
-こんばんは、mirukyです。
-生成AIを業務で使おうとすると、かなり高い確率でRAGという言葉に出会います。RAGはRetrieval-Augmented Generationの略で、日本語では検索拡張生成と呼ばれることが多いです。
-ただ、RAGという言葉だ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:14df505c7023f665c585</id>
     <title>AI⇔人間 がdiff上にコメントを書き合える「hunk」がすごい</title>
     <link rel="alternate" href="https://qiita.com/kuma_3838/items/14df505c7023f665c585?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -908,6 +898,22 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T14:11:17+09:00&lt;br/&gt;Updated: 2026-07-15T14:11:17+09:00&lt;br/&gt;お疲れ様です！ 
 前回は「暗号化とハッシュ」を扱いました。今回は少し戻って、コンピュータサイエンスの土台 データ構造 の総まとめです。
 というのも、これまでの「DFS / BFS」「計算量（Big-O）」「DBインデックス」——実はこの3記事、全部 データ構造 の話をしてい...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:65f7824679ddf171a93d</id>
+    <title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした</title>
+    <link rel="alternate" href="https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-15T15:00:27+09:00</updated>
+    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jksoft&quot;&gt;jksoft&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T09:15:04+09:00&lt;br/&gt;Updated: 2026-08-15T15:00:27+09:00&lt;br/&gt;「見事な手さばき」を笑えなかった話
+先日、隣の席の若手エンジニアの画面をたまたま見て、手が止まりました。
+エラーが出る。
+コピーする。
+AI に貼る。
+返ってきたコードを貼り直す。
+動く。次のタスクへ。
+
+ここまで、およそ 3 秒 × 数往復。見事でした。
+ですが、エラ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:224f55bc85b813930f61</id>
@@ -1015,22 +1021,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 この記事は2026/6/23時点での公開情報や動作を私なりにまとめたものとなります。
 正確な情報はご自身でご確認もしくは Microsoft へお問い合わせください。
 また、本機能は従量課金となり、会社の環境で実行するとコストがかかりますので、用法・用量を守ってお使...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:65f7824679ddf171a93d</id>
-    <title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした</title>
-    <link rel="alternate" href="https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-15T15:00:27+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jksoft&quot;&gt;jksoft&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T09:15:04+09:00&lt;br/&gt;Updated: 2026-08-15T15:00:27+09:00&lt;br/&gt;「見事な手さばき」を笑えなかった話
-先日、隣の席の若手エンジニアの画面をたまたま見て、手が止まりました。
-エラーが出る。
-コピーする。
-AI に貼る。
-返ってきたコードを貼り直す。
-動く。次のタスクへ。
-
-ここまで、およそ 3 秒 × 数往復。見事でした。
-ですが、エラ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cea574550613de33a114</id>
@@ -2184,6 +2174,14 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 知的財産・ライセンスのリスク
 その他に気にすべき観点
 導入企...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:99f4567ee75a43481f00</id>
+    <title>Markdownのプレビューを見ながら編集できる──VS Code 1.131 新機能を試す</title>
+    <link rel="alternate" href="https://qiita.com/ruumalilja/items/99f4567ee75a43481f00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-13T02:11:56+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ruumalilja&quot;&gt;ruumalilja&lt;/a&gt;&lt;br/&gt;Published: 2026-08-13T02:11:56+09:00&lt;br/&gt;Updated: 2026-08-13T02:11:56+09:00&lt;br/&gt;VS Code 1.131 で、Markdown をレンダリングした見た目のまま編集できる Experimental 機能 Hybrid Markdown editor が追加されました。
+公式リリースノートでは、Agents window 内で Markdown を表示・...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a50907007c868b807750</id>
