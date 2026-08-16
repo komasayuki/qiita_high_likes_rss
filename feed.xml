@@ -532,6 +532,22 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 使っていて思うのは、コードを書いたりツールや MCP を呼び出したり、いろんな作業を Claude にやらせている一方で、Claude Cod...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:65f7824679ddf171a93d</id>
+    <title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした</title>
+    <link rel="alternate" href="https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-15T15:00:27+09:00</updated>
+    <summary type="html">Likes: 69&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jksoft&quot;&gt;jksoft&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T09:15:04+09:00&lt;br/&gt;Updated: 2026-08-15T15:00:27+09:00&lt;br/&gt;「見事な手さばき」を笑えなかった話
+先日、隣の席の若手エンジニアの画面をたまたま見て、手が止まりました。
+エラーが出る。
+コピーする。
+AI に貼る。
+返ってきたコードを貼り直す。
+動く。次のタスクへ。
+
+ここまで、およそ 3 秒 × 数往復。見事でした。
+ですが、エラ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:11358e8e8966d5e48a09</id>
     <title>AIエージェントがあれば技術書なんてすぐ書けるでしょ、と思ったが無理だった</title>
     <link rel="alternate" href="https://qiita.com/watany/items/11358e8e8966d5e48a09?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -752,22 +768,6 @@ GMOコネクトの平島です。
     <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T15:07:22+09:00&lt;br/&gt;Updated: 2026-07-14T15:07:22+09:00&lt;br/&gt;お疲れ様です！ 
 前回までで「index」「レースコンディション（ユニーク制約）」あたりを扱ってきましたが、今回は 暗号化とハッシュ の話です。
 Railsを使っていると当たり前に出てくる master.key・credentials.yml.enc・Deviseのパスワー...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:65f7824679ddf171a93d</id>
-    <title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした</title>
-    <link rel="alternate" href="https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-15T15:00:27+09:00</updated>
-    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jksoft&quot;&gt;jksoft&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T09:15:04+09:00&lt;br/&gt;Updated: 2026-08-15T15:00:27+09:00&lt;br/&gt;「見事な手さばき」を笑えなかった話
-先日、隣の席の若手エンジニアの画面をたまたま見て、手が止まりました。
-エラーが出る。
-コピーする。
-AI に貼る。
-返ってきたコードを貼り直す。
-動く。次のタスクへ。
-
-ここまで、およそ 3 秒 × 数往復。見事でした。
-ですが、エラ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:122f9a34360e256bf042</id>
@@ -2004,6 +2004,15 @@ GitHubリポジトリ
 既存の読書記録ア...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e5c56a2f7b976cfc17ea</id>
+    <title>エラーレスポンス設計の現在地2026</title>
+    <link rel="alternate" href="https://qiita.com/tatsuya582/items/e5c56a2f7b976cfc17ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-14T13:36:16+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T13:36:16+09:00&lt;br/&gt;Updated: 2026-08-14T13:36:16+09:00&lt;br/&gt;エラーレスポンス設計の現在地 2026、標準はコードに焼いて規約は最小にする
+前回の記事「Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧」で、この10年でいちばん大きく変わった領域としてエラーレスポンスを挙げました。この記事はその深掘りです。
+エ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:99f4567ee75a43481f00</id>
     <title>Markdownのプレビューを見ながら編集できる──VS Code 1.131 新機能を試す</title>
     <link rel="alternate" href="https://qiita.com/ruumalilja/items/99f4567ee75a43481f00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2182,15 +2191,6 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 知的財産・ライセンスのリスク
 その他に気にすべき観点
 導入企...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e5c56a2f7b976cfc17ea</id>
-    <title>エラーレスポンス設計の現在地2026</title>
-    <link rel="alternate" href="https://qiita.com/tatsuya582/items/e5c56a2f7b976cfc17ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-14T13:36:16+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T13:36:16+09:00&lt;br/&gt;Updated: 2026-08-14T13:36:16+09:00&lt;br/&gt;エラーレスポンス設計の現在地 2026、標準はコードに焼いて規約は最小にする
-前回の記事「Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧」で、この10年でいちばん大きく変わった領域としてエラーレスポンスを挙げました。この記事はその深掘りです。
-エ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a50907007c868b807750</id>
