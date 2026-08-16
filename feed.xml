@@ -150,7 +150,7 @@ Gitは開発現場では欠かせないツールですが、「最近Gitって�
     <title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした</title>
     <link rel="alternate" href="https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-15T15:00:27+09:00</updated>
-    <summary type="html">Likes: 135&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jksoft&quot;&gt;jksoft&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T09:15:04+09:00&lt;br/&gt;Updated: 2026-08-15T15:00:27+09:00&lt;br/&gt;「見事な手さばき」を笑えなかった話
+    <summary type="html">Likes: 136&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jksoft&quot;&gt;jksoft&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T09:15:04+09:00&lt;br/&gt;Updated: 2026-08-15T15:00:27+09:00&lt;br/&gt;「見事な手さばき」を笑えなかった話
 先日、隣の席の若手エンジニアの画面をたまたま見て、手が止まりました。
 エラーが出る。
 コピーする。
@@ -296,18 +296,6 @@ ssh を3回叩いたら、TCP 接続は3本になりますか
 あなたの秘密鍵が盗まれたら、どこまでやられますか
 
 全部説明...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d18bf49f0c7a168baa19</id>
-    <title>「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話</title>
-    <link rel="alternate" href="https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-17T15:33:55+09:00</updated>
-    <summary type="html">Likes: 104&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Shiro_Shihi&quot;&gt;Shiro_Shihi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T17:08:05+09:00&lt;br/&gt;Updated: 2026-06-17T15:33:55+09:00&lt;br/&gt;この記事は Qiita Tech Festa 2026「この記事誰得？ 私しか得しないニッチな技術で記事投稿！」 の参加記事です。
-
-はじめに
-みなさん、文字列の全角・半角判定、どうやってますか？
-大半の人はこう答えるでしょう。
-「正規表現で /[^\x20-\x7E]/ ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d3c540c868c3413704b7</id>
@@ -707,18 +695,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ドキュメ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:621a19d6a1a6500eaca6</id>
-    <title>9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #3</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/621a19d6a1a6500eaca6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-17T08:55:38+09:00</updated>
-    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T13:25:24+09:00&lt;br/&gt;Updated: 2026-06-17T08:55:38+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている人見です。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
-仕事で起きやすい“ズレ”について整理して発信しています。
-誰かの助けになれば幸いです。
-
-9割のエンジニア未経験者がつまずく『最初の壁』 それで...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:3e4597bc50695fa9bf79</id>
     <title>白って1600色あんねん！</title>
     <link rel="alternate" href="https://qiita.com/ishi720/items/3e4597bc50695fa9bf79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -921,18 +897,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mu7kata&quot;&gt;mu7kata&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T12:55:05+09:00&lt;br/&gt;Updated: 2026-07-02T12:47:10+09:00&lt;br/&gt;はじめに
 私はこれまで「チームをもっと良くしたい」という気持ちはありつつも、今の自分の立場でどこまで意見を出してよいのか、どう伝えれば前向きに受け取ってもらえるのかなど、改善提案の仕方に悩んだり、思うように進められず苦労した経験があります。
 この記事では、今までの経験を踏...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b63c2e7ff52b5554a8a5</id>
-    <title>文系エンジニアがClaude Codeで学習アプリを自作して3か月でCISSP合格した話</title>
-    <link rel="alternate" href="https://qiita.com/hiyoshiz/items/b63c2e7ff52b5554a8a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-15T07:11:44+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hiyoshiz&quot;&gt;hiyoshiz&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T22:14:52+09:00&lt;br/&gt;Updated: 2026-06-15T07:11:44+09:00&lt;br/&gt;文系エンジニアがClaude Codeで学習アプリを自作して3か月でCISSP合格した話
-
-TL;DR
-
-大学は英文科、セキュリティエンジニアとしての実務経験ほぼゼロの文系エンジニアが、3か月・1日平均30分でCISSPに合格した。
-勝因は「毎日続けられたこと」。それを可...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:942eaafa9b9435fcc896</id>
@@ -1977,30 +1941,6 @@ Claude Code には /code-review、Codex 側には /codex:review と ...</summary
 コードの美醜を判断するセンスは...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:9c7ac3a086ebccc4a32b</id>
-    <title>【個人開発】本を読んだままにしない実践支援アプリを作った【React / TypeScript / Firebase / Supabase】</title>
-    <link rel="alternate" href="https://qiita.com/o68606007/items/9c7ac3a086ebccc4a32b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-14T17:02:09+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/o68606007&quot;&gt;o68606007&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T17:02:08+09:00&lt;br/&gt;Updated: 2026-06-14T17:02:09+09:00&lt;br/&gt;はじめに
-新規アプリを製作しました。
-ソースコードは以下にあります。
-
-GitHubリポジトリ
-
-デモサイト
-
-作成の背景
-以前から読書をすると、
-
-本を読んで満足する
-学んだ内容を忘れる
-行動に移せない
-継続できない
-
-という課題がありました。
-既存の読書記録ア...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:99f4567ee75a43481f00</id>
     <title>Markdownのプレビューを見ながら編集できる──VS Code 1.131 新機能を試す</title>
     <link rel="alternate" href="https://qiita.com/ruumalilja/items/99f4567ee75a43481f00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2239,5 +2179,46 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 
 自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
 でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:bab35c7b58a664d3b8f1</id>
+    <title>Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-23T14:01:00+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-06-23T14:01:00+09:00&lt;br/&gt;Updated: 2026-06-23T14:01:00+09:00&lt;br/&gt;はじめに
+この記事は、Claude Code のセキュリティガードレールを「概念」ではなく「動くコード」で示すことを目的にしています。
+「ガードレールが必要だとは分かった。でも何をどう書けばいいのか」という段階の方に向けて書いています。
+settings.json の p...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:8b8c3116f07fcefe2047</id>
+    <title>未経験エンジニアなら、キーボードよりノートを汚せ</title>
+    <link rel="alternate" href="https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-22T21:53:47+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/maketahara_ise&quot;&gt;maketahara_ise&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T16:07:11+09:00&lt;br/&gt;Updated: 2026-06-22T21:53:47+09:00&lt;br/&gt;はじめに
+小生、未経験から開発職について早一年。
+今やどんなソースもガリレオのように解読し、もう八面六臂の大活躍で上司もにんまり。
+なんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないので...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b75ebc3e17afa9780381</id>
+    <title>育休中にTOEIC900超えた話とその勉強法【スコア推移あり】</title>
+    <link rel="alternate" href="https://qiita.com/satomiii/items/b75ebc3e17afa9780381?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-16T09:32:57+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satomiii&quot;&gt;satomiii&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T09:32:57+09:00&lt;br/&gt;Updated: 2026-06-16T09:32:57+09:00&lt;br/&gt;TOEIC900を目指そうと思ったきっかけ
+
+もともと英語が好きだったから
+前職が外資系で海外のスタッフと会話することもあったが、自分の英語のできなさを痛感したから
+自分の性格上、900とらないと満足しないと思ったから（これが大きい）
+育休中、何か数字で見える結果が欲しか...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9a8e6af3d545150c5a08</id>
+    <title>VisualStudio無しで.NET Framework→.NET 10移行を試したら、ツールそのものが世代交代していた話</title>
+    <link rel="alternate" href="https://qiita.com/inuta-one/items/9a8e6af3d545150c5a08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-11T17:15:03+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inuta-one&quot;&gt;inuta-one&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T09:24:08+09:00&lt;br/&gt;Updated: 2026-08-11T17:15:03+09:00&lt;br/&gt;はじめに
+C# で出来ること一覧 2026年版（.NET 10） という記事を読んで、後半で紹介されていた「.NET Frameworkから.NETへの移行」を実際に手を動かして試してみることにしました。
+自分は過去にVB6→C#移行の案件に関わったこともあり、この手の移...</summary>
   </entry>
 </feed>
