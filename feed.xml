@@ -282,6 +282,22 @@ ssh を3回叩いたら、TCP 接続は3本になりますか
 全部説明...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:65f7824679ddf171a93d</id>
+    <title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした</title>
+    <link rel="alternate" href="https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-15T15:00:27+09:00</updated>
+    <summary type="html">Likes: 104&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jksoft&quot;&gt;jksoft&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T09:15:04+09:00&lt;br/&gt;Updated: 2026-08-15T15:00:27+09:00&lt;br/&gt;「見事な手さばき」を笑えなかった話
+先日、隣の席の若手エンジニアの画面をたまたま見て、手が止まりました。
+エラーが出る。
+コピーする。
+AI に貼る。
+返ってきたコードを貼り直す。
+動く。次のタスクへ。
+
+ここまで、およそ 3 秒 × 数往復。見事でした。
+ですが、エラ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d18bf49f0c7a168baa19</id>
     <title>「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話</title>
     <link rel="alternate" href="https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -292,22 +308,6 @@ ssh を3回叩いたら、TCP 接続は3本になりますか
 みなさん、文字列の全角・半角判定、どうやってますか？
 大半の人はこう答えるでしょう。
 「正規表現で /[^\x20-\x7E]/ ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:65f7824679ddf171a93d</id>
-    <title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした</title>
-    <link rel="alternate" href="https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-15T15:00:27+09:00</updated>
-    <summary type="html">Likes: 102&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jksoft&quot;&gt;jksoft&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T09:15:04+09:00&lt;br/&gt;Updated: 2026-08-15T15:00:27+09:00&lt;br/&gt;「見事な手さばき」を笑えなかった話
-先日、隣の席の若手エンジニアの画面をたまたま見て、手が止まりました。
-エラーが出る。
-コピーする。
-AI に貼る。
-返ってきたコードを貼り直す。
-動く。次のタスクへ。
-
-ここまで、およそ 3 秒 × 数往復。見事でした。
-ですが、エラ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d3c540c868c3413704b7</id>
@@ -1831,6 +1831,15 @@ GMOコネクトの永田です。
 提案や要件整理の場で、AWSの構成図を描くことが度々あります。ただ、都度ていねいに手で描くと時間がかかります。それなら構成案から自動で生成できればと思い、既存のAWS公式スキルなども試しました。ところが出てくるのは細部まで描き込んだ実...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e5c56a2f7b976cfc17ea</id>
+    <title>エラーレスポンス設計の現在地2026</title>
+    <link rel="alternate" href="https://qiita.com/tatsuya582/items/e5c56a2f7b976cfc17ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-14T13:36:16+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T13:36:16+09:00&lt;br/&gt;Updated: 2026-08-14T13:36:16+09:00&lt;br/&gt;エラーレスポンス設計の現在地 2026、標準はコードに焼いて規約は最小にする
+前回の記事「Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧」で、この10年でいちばん大きく変わった領域としてエラーレスポンスを挙げました。この記事はその深掘りです。
+エ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4da8a4aa027730db23e0</id>
     <title>OS？カーネル開発？聞いたことありませんねその単語🤔【ITパスポート】</title>
     <link rel="alternate" href="https://qiita.com/prumnn/items/4da8a4aa027730db23e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1888,15 +1897,6 @@ Claude Codeはコードを書く・直す・テストする・PRを確認する�
     <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T07:23:50+09:00&lt;br/&gt;Updated: 2026-06-26T19:08:48+09:00&lt;br/&gt;今回は HR スキーマを例に、Oracle Database のスキーマが AI Ready Data としてどの程度整っているかを評価してみます。
 
 Oracle Database では、Select AI、RAG、AI Vector Search、AI Agent など...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e5c56a2f7b976cfc17ea</id>
-    <title>エラーレスポンス設計の現在地2026</title>
-    <link rel="alternate" href="https://qiita.com/tatsuya582/items/e5c56a2f7b976cfc17ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-14T13:36:16+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T13:36:16+09:00&lt;br/&gt;Updated: 2026-08-14T13:36:16+09:00&lt;br/&gt;エラーレスポンス設計の現在地 2026、標準はコードに焼いて規約は最小にする
-前回の記事「Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧」で、この10年でいちばん大きく変わった領域としてエラーレスポンスを挙げました。この記事はその深掘りです。
-エ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b0254194b02c85e17da6</id>
