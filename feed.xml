@@ -128,18 +128,6 @@ Web API設計を調べると、検索上位に出てくる記事が2015〜2019�
 「言った・言わない」を防ぐ。要件定義で使うべき質問の...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:831717856fd24981799d</id>
-    <title>3年間、AI要件定義に取り組んできた全記録</title>
-    <link rel="alternate" href="https://qiita.com/kumai_yu/items/831717856fd24981799d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-14T09:44:34+09:00</updated>
-    <summary type="html">Likes: 155&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kumai_yu&quot;&gt;kumai_yu&lt;/a&gt;&lt;br/&gt;Published: 2026-06-14T09:44:34+09:00&lt;br/&gt;Updated: 2026-06-14T09:44:34+09:00&lt;br/&gt;AI駆動開発で要件定義はどう変わったか。
-こんにちは。主にXにてAI駆動開発について発信している熊井悠です！
-現在はAIスタートアップ企業のCEO兼CTOをしています！
-
-僕は前職であるSIer、ITコンサルティング企業で上流工程に関わる機会が多くありました。
-そのた...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:a2d825e3ee3e3a4b6dbd</id>
     <title>Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ</title>
     <link rel="alternate" href="https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -306,6 +294,22 @@ ssh を3回叩いたら、TCP 接続は3本になりますか
 「正規表現で /[^\x20-\x7E]/ ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:65f7824679ddf171a93d</id>
+    <title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした</title>
+    <link rel="alternate" href="https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-15T15:00:27+09:00</updated>
+    <summary type="html">Likes: 102&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jksoft&quot;&gt;jksoft&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T09:15:04+09:00&lt;br/&gt;Updated: 2026-08-15T15:00:27+09:00&lt;br/&gt;「見事な手さばき」を笑えなかった話
+先日、隣の席の若手エンジニアの画面をたまたま見て、手が止まりました。
+エラーが出る。
+コピーする。
+AI に貼る。
+返ってきたコードを貼り直す。
+動く。次のタスクへ。
+
+ここまで、およそ 3 秒 × 数往復。見事でした。
+ですが、エラ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d3c540c868c3413704b7</id>
     <title>「保守業務って地味…」と思っていた新人の自分へ</title>
     <link rel="alternate" href="https://qiita.com/masa20057/items/d3c540c868c3413704b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -325,22 +329,6 @@ ssh を3回叩いたら、TCP 接続は3本になりますか
 なのでその内容を小学生にもわかるレベルで、解説していきます。
 今回はRailsで実装してますが、
 皆さんが使っている言語に置き換えて学ん...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:65f7824679ddf171a93d</id>
-    <title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした</title>
-    <link rel="alternate" href="https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-15T15:00:27+09:00</updated>
-    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jksoft&quot;&gt;jksoft&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T09:15:04+09:00&lt;br/&gt;Updated: 2026-08-15T15:00:27+09:00&lt;br/&gt;「見事な手さばき」を笑えなかった話
-先日、隣の席の若手エンジニアの画面をたまたま見て、手が止まりました。
-エラーが出る。
-コピーする。
-AI に貼る。
-返ってきたコードを貼り直す。
-動く。次のタスクへ。
-
-ここまで、およそ 3 秒 × 数往復。見事でした。
-ですが、エラ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e9ee8e26cfdc40a8c2f9</id>
@@ -2241,5 +2229,15 @@ Claude Opus 5 では、これは消したほうがいい一文になりました
     <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T08:29:02+09:00&lt;br/&gt;Updated: 2026-07-15T08:29:02+09:00&lt;br/&gt;はじめに
 Claude Code、コードを書かせるだけで使ってませんか？それ、正直めちゃくちゃもったいないです。
 Claude Code のすごいところは、手を動かしてくれる相棒であると同時に、隣に座ってる先生でもあること。実装を丸投げするんじゃなくて、「教えてもらう」「...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5e5ec4d5e96b12fbc75c</id>
+    <title>ナレッジ83件を2時間で作った。でも腐るのは、もっと速かった</title>
+    <link rel="alternate" href="https://qiita.com/yamada-iknow/items/5e5ec4d5e96b12fbc75c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-10T07:00:29+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamada-iknow&quot;&gt;yamada-iknow&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T07:00:29+09:00&lt;br/&gt;Updated: 2026-07-10T07:00:29+09:00&lt;br/&gt;TL;DR
+
+自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
+でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
   </entry>
 </feed>
