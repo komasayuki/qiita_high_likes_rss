@@ -128,6 +128,22 @@ Web API設計を調べると、検索上位に出てくる記事が2015〜2019�
 「言った・言わない」を防ぐ。要件定義で使うべき質問の...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:65f7824679ddf171a93d</id>
+    <title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした</title>
+    <link rel="alternate" href="https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-15T15:00:27+09:00</updated>
+    <summary type="html">Likes: 150&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jksoft&quot;&gt;jksoft&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T09:15:04+09:00&lt;br/&gt;Updated: 2026-08-15T15:00:27+09:00&lt;br/&gt;「見事な手さばき」を笑えなかった話
+先日、隣の席の若手エンジニアの画面をたまたま見て、手が止まりました。
+エラーが出る。
+コピーする。
+AI に貼る。
+返ってきたコードを貼り直す。
+動く。次のタスクへ。
+
+ここまで、およそ 3 秒 × 数往復。見事でした。
+ですが、エラ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a2d825e3ee3e3a4b6dbd</id>
     <title>Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ</title>
     <link rel="alternate" href="https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -144,22 +160,6 @@ Gitは開発現場では欠かせないツールですが、「最近Gitって�
     <updated>2026-06-30T19:01:23+09:00</updated>
     <summary type="html">Likes: 145&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ko-he-8&quot;&gt;ko-he-8&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T19:01:23+09:00&lt;br/&gt;Updated: 2026-06-30T19:01:23+09:00&lt;br/&gt;エンジニアをやっていると「いつ知ったかわからない」・「研修などでは特に教えられない」けど、みんな当たり前に知っている知識や文化がある気がします。この記事では、そういったエンジニアの暗黙の知識・文化みたいなものを思いつくままあげてみました。
 だいぶ個人の感想的な内容なので、他...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:65f7824679ddf171a93d</id>
-    <title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした</title>
-    <link rel="alternate" href="https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-15T15:00:27+09:00</updated>
-    <summary type="html">Likes: 143&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jksoft&quot;&gt;jksoft&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T09:15:04+09:00&lt;br/&gt;Updated: 2026-08-15T15:00:27+09:00&lt;br/&gt;「見事な手さばき」を笑えなかった話
-先日、隣の席の若手エンジニアの画面をたまたま見て、手が止まりました。
-エラーが出る。
-コピーする。
-AI に貼る。
-返ってきたコードを貼り直す。
-動く。次のタスクへ。
-
-ここまで、およそ 3 秒 × 数往復。見事でした。
-ですが、エラ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6be2bf42e6b9751accc8</id>
@@ -1716,6 +1716,15 @@ Geminiでこんなプロンプトを入力すると...</summary>
 何を聞かれるか分からない。うまく説明できるか不安。認識がずれて...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e5c56a2f7b976cfc17ea</id>
+    <title>エラーレスポンス設計の現在地2026</title>
+    <link rel="alternate" href="https://qiita.com/tatsuya582/items/e5c56a2f7b976cfc17ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-14T13:36:16+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T13:36:16+09:00&lt;br/&gt;Updated: 2026-08-14T13:36:16+09:00&lt;br/&gt;エラーレスポンス設計の現在地 2026、標準はコードに焼いて規約は最小にする
+前回の記事「Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧」で、この10年でいちばん大きく変わった領域としてエラーレスポンスを挙げました。この記事はその深掘りです。
+エ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e77bf4b40b227cb49dec</id>
     <title>複雑なタスクほど、実は知っている基礎の組み合わせだったりする</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/e77bf4b40b227cb49dec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1793,15 +1802,6 @@ DB設計の勉強のために、以下の2冊を読みました。
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ntaka329&quot;&gt;ntaka329&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T12:02:25+09:00&lt;br/&gt;Updated: 2026-06-24T12:02:25+09:00&lt;br/&gt;はじめに
 GMOコネクトの永田です。
 提案や要件整理の場で、AWSの構成図を描くことが度々あります。ただ、都度ていねいに手で描くと時間がかかります。それなら構成案から自動で生成できればと思い、既存のAWS公式スキルなども試しました。ところが出てくるのは細部まで描き込んだ実...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e5c56a2f7b976cfc17ea</id>
-    <title>エラーレスポンス設計の現在地2026</title>
-    <link rel="alternate" href="https://qiita.com/tatsuya582/items/e5c56a2f7b976cfc17ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-14T13:36:16+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T13:36:16+09:00&lt;br/&gt;Updated: 2026-08-14T13:36:16+09:00&lt;br/&gt;エラーレスポンス設計の現在地 2026、標準はコードに焼いて規約は最小にする
-前回の記事「Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧」で、この10年でいちばん大きく変わった領域としてエラーレスポンスを挙げました。この記事はその深掘りです。
-エ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4da8a4aa027730db23e0</id>
@@ -2121,6 +2121,16 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 導入企...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:45b66545bb7ea88e8403</id>
+    <title>なぜ、AI時代においてC#は最適な言語の1つなのか？</title>
+    <link rel="alternate" href="https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-14T18:37:58+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomokusaba&quot;&gt;tomokusaba&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T18:37:58+09:00&lt;br/&gt;Updated: 2026-08-14T18:37:58+09:00&lt;br/&gt;はじめに
+AI が開発現場に入り込んだ今、私たちは「どの言語で書けば、AI と一緒に生産性を上げられるか」をあらためて考える必要があります。
+その問いに対して、私は C# をとても強く推したいです。
+理由はシンプルです。C# は、AI が生成するコードの質を人間が早く見抜...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a50907007c868b807750</id>
     <title>【PHP8.6】PHP8.6の新機能全部紹介するよ</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/a50907007c868b807750?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2211,15 +2221,5 @@ settings.json の p...</summary>
 前職が外資系で海外のスタッフと会話することもあったが、自分の英語のできなさを痛感したから
 自分の性格上、900とらないと満足しないと思ったから（これが大きい）
 育休中、何か数字で見える結果が欲しか...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:45b66545bb7ea88e8403</id>
-    <title>なぜ、AI時代においてC#は最適な言語の1つなのか？</title>
-    <link rel="alternate" href="https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-14T18:37:58+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomokusaba&quot;&gt;tomokusaba&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T18:37:58+09:00&lt;br/&gt;Updated: 2026-08-14T18:37:58+09:00&lt;br/&gt;はじめに
-AI が開発現場に入り込んだ今、私たちは「どの言語で書けば、AI と一緒に生産性を上げられるか」をあらためて考える必要があります。
-その問いに対して、私は C# をとても強く推したいです。
-理由はシンプルです。C# は、AI が生成するコードの質を人間が早く見抜...</summary>
   </entry>
 </feed>
