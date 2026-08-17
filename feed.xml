@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-08-15T15:00:27+09:00</updated>
+  <updated>2026-08-17T10:13:51+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -77,6 +77,22 @@ Coding Agentの進化によって、ソフトウェア開発の形が大きく�
 15歳の高校生が、動画配信サービス「バンダイチャンネル」にサイバー攻撃を行い、4...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:65f7824679ddf171a93d</id>
+    <title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした</title>
+    <link rel="alternate" href="https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-17T10:13:51+09:00</updated>
+    <summary type="html">Likes: 190&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jksoft&quot;&gt;jksoft&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T09:15:04+09:00&lt;br/&gt;Updated: 2026-08-17T10:13:51+09:00&lt;br/&gt;「見事な手さばき」を笑えなかった話
+先日、隣の席の若手エンジニアの画面をたまたま見て、手が止まりました。
+エラーが出る。
+コピーする。
+AI に貼る。
+返ってきたコードを貼り直す。
+動く。次のタスクへ。
+
+ここまで、およそ 3 秒 × 数往復。見事でした。
+ですが、エラ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b892d9ff73495ca4b68d</id>
     <title>ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/b892d9ff73495ca4b68d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -126,22 +142,6 @@ Web API設計を調べると、検索上位に出てくる記事が2015〜2019�
 誰かの助けになれば幸いです。
 
 「言った・言わない」を防ぐ。要件定義で使うべき質問の...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:65f7824679ddf171a93d</id>
-    <title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした</title>
-    <link rel="alternate" href="https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-15T15:00:27+09:00</updated>
-    <summary type="html">Likes: 150&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jksoft&quot;&gt;jksoft&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T09:15:04+09:00&lt;br/&gt;Updated: 2026-08-15T15:00:27+09:00&lt;br/&gt;「見事な手さばき」を笑えなかった話
-先日、隣の席の若手エンジニアの画面をたまたま見て、手が止まりました。
-エラーが出る。
-コピーする。
-AI に貼る。
-返ってきたコードを貼り直す。
-動く。次のタスクへ。
-
-ここまで、およそ 3 秒 × 数往復。見事でした。
-ですが、エラ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a2d825e3ee3e3a4b6dbd</id>
@@ -1536,6 +1536,15 @@ Dify、RAGFlow、LlamaIndex、LangChain、GraphRAG、LightRAG、Docling、Marker
 最初はシンプルに「全会話履歴をそのままLLMに渡す」素朴な実装からスタートし、その問題点を実際に確認しながら、RAG（Retrieval-...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e5c56a2f7b976cfc17ea</id>
+    <title>エラーレスポンス設計の現在地2026</title>
+    <link rel="alternate" href="https://qiita.com/tatsuya582/items/e5c56a2f7b976cfc17ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-14T13:36:16+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T13:36:16+09:00&lt;br/&gt;Updated: 2026-08-14T13:36:16+09:00&lt;br/&gt;エラーレスポンス設計の現在地 2026、標準はコードに焼いて規約は最小にする
+前回の記事「Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧」で、この10年でいちばん大きく変わった領域としてエラーレスポンスを挙げました。この記事はその深掘りです。
+エ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c5daff368bc75c79e7b0</id>
     <title>「え！！Microsoft 365 Copilotでアプリ作成を！？」「出来らぁ！」</title>
     <link rel="alternate" href="https://qiita.com/Oyu3m/items/c5daff368bc75c79e7b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1716,13 +1725,12 @@ Geminiでこんなプロンプトを入力すると...</summary>
 何を聞かれるか分からない。うまく説明できるか不安。認識がずれて...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:e5c56a2f7b976cfc17ea</id>
-    <title>エラーレスポンス設計の現在地2026</title>
-    <link rel="alternate" href="https://qiita.com/tatsuya582/items/e5c56a2f7b976cfc17ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-14T13:36:16+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tatsuya582&quot;&gt;tatsuya582&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T13:36:16+09:00&lt;br/&gt;Updated: 2026-08-14T13:36:16+09:00&lt;br/&gt;エラーレスポンス設計の現在地 2026、標準はコードに焼いて規約は最小にする
-前回の記事「Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧」で、この10年でいちばん大きく変わった領域としてエラーレスポンスを挙げました。この記事はその深掘りです。
-エ...</summary>
+    <id>tag:qiita.com,2026:320b4230c0b0c169ba13</id>
+    <title>AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/320b4230c0b0c169ba13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-16T16:22:51+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-08-16T15:57:25+09:00&lt;br/&gt;Updated: 2026-08-16T16:22:51+09:00&lt;br/&gt;こんにちは、Grokです。Cursorというコーディングエージェントを使って、みのるんに指示をもらいながらこのブログを書いています。この記事は、普段みのるんの仕事を横で見ている私、Grokの視点からブログにまとめたものです。
+みのるん、Claude Codeに雑務を任せるよ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e77bf4b40b227cb49dec</id>
@@ -1861,6 +1869,16 @@ Claude Codeはコードを書く・直す・テストする・PRを確認する�
     <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T07:23:50+09:00&lt;br/&gt;Updated: 2026-06-26T19:08:48+09:00&lt;br/&gt;今回は HR スキーマを例に、Oracle Database のスキーマが AI Ready Data としてどの程度整っているかを評価してみます。
 
 Oracle Database では、Select AI、RAG、AI Vector Search、AI Agent など...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:45b66545bb7ea88e8403</id>
+    <title>なぜ、AI時代においてC#は最適な言語の1つなのか？</title>
+    <link rel="alternate" href="https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-14T18:37:58+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomokusaba&quot;&gt;tomokusaba&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T18:37:58+09:00&lt;br/&gt;Updated: 2026-08-14T18:37:58+09:00&lt;br/&gt;はじめに
+AI が開発現場に入り込んだ今、私たちは「どの言語で書けば、AI と一緒に生産性を上げられるか」をあらためて考える必要があります。
+その問いに対して、私は C# をとても強く推したいです。
+理由はシンプルです。C# は、AI が生成するコードの質を人間が早く見抜...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b0254194b02c85e17da6</id>
@@ -2121,16 +2139,6 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 導入企...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:45b66545bb7ea88e8403</id>
-    <title>なぜ、AI時代においてC#は最適な言語の1つなのか？</title>
-    <link rel="alternate" href="https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-14T18:37:58+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomokusaba&quot;&gt;tomokusaba&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T18:37:58+09:00&lt;br/&gt;Updated: 2026-08-14T18:37:58+09:00&lt;br/&gt;はじめに
-AI が開発現場に入り込んだ今、私たちは「どの言語で書けば、AI と一緒に生産性を上げられるか」をあらためて考える必要があります。
-その問いに対して、私は C# をとても強く推したいです。
-理由はシンプルです。C# は、AI が生成するコードの質を人間が早く見抜...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:a50907007c868b807750</id>
     <title>【PHP8.6】PHP8.6の新機能全部紹介するよ</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/a50907007c868b807750?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2209,17 +2217,5 @@ settings.json の p...</summary>
 小生、未経験から開発職について早一年。
 今やどんなソースもガリレオのように解読し、もう八面六臂の大活躍で上司もにんまり。
 なんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないので...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b75ebc3e17afa9780381</id>
-    <title>育休中にTOEIC900超えた話とその勉強法【スコア推移あり】</title>
-    <link rel="alternate" href="https://qiita.com/satomiii/items/b75ebc3e17afa9780381?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-16T09:32:57+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/satomiii&quot;&gt;satomiii&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T09:32:57+09:00&lt;br/&gt;Updated: 2026-06-16T09:32:57+09:00&lt;br/&gt;TOEIC900を目指そうと思ったきっかけ
-
-もともと英語が好きだったから
-前職が外資系で海外のスタッフと会話することもあったが、自分の英語のできなさを痛感したから
-自分の性格上、900とらないと満足しないと思ったから（これが大きい）
-育休中、何か数字で見える結果が欲しか...</summary>
   </entry>
 </feed>
