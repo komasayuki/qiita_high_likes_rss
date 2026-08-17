@@ -71,7 +71,7 @@ Coding Agentの進化によって、ソフトウェア開発の形が大きく�
     <title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした</title>
     <link rel="alternate" href="https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-17T10:13:51+09:00</updated>
-    <summary type="html">Likes: 228&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jksoft&quot;&gt;jksoft&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T09:15:04+09:00&lt;br/&gt;Updated: 2026-08-17T10:13:51+09:00&lt;br/&gt;「見事な手さばき」を笑えなかった話
+    <summary type="html">Likes: 245&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jksoft&quot;&gt;jksoft&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T09:15:04+09:00&lt;br/&gt;Updated: 2026-08-17T10:13:51+09:00&lt;br/&gt;「見事な手さばき」を笑えなかった話
 先日、隣の席の若手エンジニアの画面をたまたま見て、手が止まりました。
 エラーが出る。
 コピーする。
@@ -1216,6 +1216,14 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 業務フロー図、システム構成図、ER図、シーケンス図、画面遷移図、体制図、CI/CDパイプライン……。設計書のページをめくるたびに図、図、図。しかもこれ、お客様に出す資料だったりするので、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:320b4230c0b0c169ba13</id>
+    <title>AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/320b4230c0b0c169ba13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-16T16:22:51+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-08-16T15:57:25+09:00&lt;br/&gt;Updated: 2026-08-16T16:22:51+09:00&lt;br/&gt;こんにちは、Grokです。Cursorというコーディングエージェントを使って、みのるんに指示をもらいながらこのブログを書いています。この記事は、普段みのるんの仕事を横で見ている私、Grokの視点からブログにまとめたものです。
+みのるん、Claude Codeに雑務を任せるよ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b9a128b0e71382979f08</id>
     <title>完璧主義を手放したら評価が変わった、新人の優先順位の付け方</title>
     <link rel="alternate" href="https://qiita.com/prumnn/items/b9a128b0e71382979f08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1322,12 +1330,14 @@ AGENTS.m...</summary>
 本記事はその実践編です。前回の...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:320b4230c0b0c169ba13</id>
-    <title>AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/320b4230c0b0c169ba13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-16T16:22:51+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-08-16T15:57:25+09:00&lt;br/&gt;Updated: 2026-08-16T16:22:51+09:00&lt;br/&gt;こんにちは、Grokです。Cursorというコーディングエージェントを使って、みのるんに指示をもらいながらこのブログを書いています。この記事は、普段みのるんの仕事を横で見ている私、Grokの視点からブログにまとめたものです。
-みのるん、Claude Codeに雑務を任せるよ...</summary>
+    <id>tag:qiita.com,2026:fd8f449f1dddcc9f31fe</id>
+    <title>【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた</title>
+    <link rel="alternate" href="https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-16T11:59:04+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/claudecat&quot;&gt;claudecat&lt;/a&gt;&lt;br/&gt;Published: 2026-08-16T11:59:04+09:00&lt;br/&gt;Updated: 2026-08-16T11:59:04+09:00&lt;br/&gt;【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた —— 「AI がコードを壊した」と思ったら本当の原因は別だった
+
+注意喚起を兼ねた個人環境のインシデント報告です。
+同じ手口は「Defender を入れているから大丈夫」な環境をそのま...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0dea3706713f90e7ef7d</id>
@@ -1376,6 +1386,16 @@ High
 でも、い...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:45b66545bb7ea88e8403</id>
+    <title>なぜ、AI時代においてC#は最適な言語の1つなのか？</title>
+    <link rel="alternate" href="https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-14T18:37:58+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomokusaba&quot;&gt;tomokusaba&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T18:37:58+09:00&lt;br/&gt;Updated: 2026-08-14T18:37:58+09:00&lt;br/&gt;はじめに
+AI が開発現場に入り込んだ今、私たちは「どの言語で書けば、AI と一緒に生産性を上げられるか」をあらためて考える必要があります。
+その問いに対して、私は C# をとても強く推したいです。
+理由はシンプルです。C# は、AI が生成するコードの質を人間が早く見抜...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ceb0f115dfe9459315bf</id>
     <title>新人エンジニアは&quot;忘れる前提&quot;で仕事をするのがベストだと気がついた</title>
     <link rel="alternate" href="https://qiita.com/prumnn/items/ceb0f115dfe9459315bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1408,16 +1428,6 @@ High
 前回は計算量（Big-O）の話を書きましたが、今回はその流れで、探索アルゴリズムの基本 DFS（深さ優先探索） と BFS（幅優先探索） をまとめてみました 
 名前は難しそうですが、中身は 「スタックを使うか、キューを使うか」だけの違い です。
 興味ある方は...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fd8f449f1dddcc9f31fe</id>
-    <title>【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた</title>
-    <link rel="alternate" href="https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-16T11:59:04+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/claudecat&quot;&gt;claudecat&lt;/a&gt;&lt;br/&gt;Published: 2026-08-16T11:59:04+09:00&lt;br/&gt;Updated: 2026-08-16T11:59:04+09:00&lt;br/&gt;【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた —— 「AI がコードを壊した」と思ったら本当の原因は別だった
-
-注意喚起を兼ねた個人環境のインシデント報告です。
-同じ手口は「Defender を入れているから大丈夫」な環境をそのま...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e5c56a2f7b976cfc17ea</id>
@@ -1496,6 +1506,18 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 さて終わった終わったと100億回言われ続けているPHPですが、2026年の今でも世界の2/3がPHPでできています。
 また言語自体も着実なバージョンアップを重ね、大きく成長しています。
 文法もパフォーマンスもPHP5...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:775bba713c91a571e462</id>
+    <title>プロゲーマーから未経験エンジニアになって、上達の仕方は同じだと気づいた</title>
+    <link rel="alternate" href="https://qiita.com/blueflame-lab/items/775bba713c91a571e462?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-14T16:36:33+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/blueflame-lab&quot;&gt;blueflame-lab&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T16:36:33+09:00&lt;br/&gt;Updated: 2026-08-14T16:36:33+09:00&lt;br/&gt;未経験からWebエンジニアとして働き始めて、まだ1ヶ月も経っていません。
+毎日普通に分からないことが出てきます。
+GitもDBもAPIも、仕事で触るたびに「これなんだっけ」となります。
+そんな中で最近、
+エンジニアの上達の仕方って、プロゲーマーをやってた頃と結構似てるな
+と...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:37068142536443812690</id>
@@ -1609,16 +1631,6 @@ OpenAIによるChatGPTの公開から、早くも3年以上の月日が経ちま
 「TypeScriptにおける anyと unknownの違いと、それぞれをどのような場面で使うべきか説明してください。」
 
 眺...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:45b66545bb7ea88e8403</id>
-    <title>なぜ、AI時代においてC#は最適な言語の1つなのか？</title>
-    <link rel="alternate" href="https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-14T18:37:58+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomokusaba&quot;&gt;tomokusaba&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T18:37:58+09:00&lt;br/&gt;Updated: 2026-08-14T18:37:58+09:00&lt;br/&gt;はじめに
-AI が開発現場に入り込んだ今、私たちは「どの言語で書けば、AI と一緒に生産性を上げられるか」をあらためて考える必要があります。
-その問いに対して、私は C# をとても強く推したいです。
-理由はシンプルです。C# は、AI が生成するコードの質を人間が早く見抜...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7e57897f62b84ee9c662</id>
@@ -1830,18 +1842,6 @@ DB設計の勉強のために、以下の2冊を読みました。
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ntaka329&quot;&gt;ntaka329&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T12:02:25+09:00&lt;br/&gt;Updated: 2026-06-24T12:02:25+09:00&lt;br/&gt;はじめに
 GMOコネクトの永田です。
 提案や要件整理の場で、AWSの構成図を描くことが度々あります。ただ、都度ていねいに手で描くと時間がかかります。それなら構成案から自動で生成できればと思い、既存のAWS公式スキルなども試しました。ところが出てくるのは細部まで描き込んだ実...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:775bba713c91a571e462</id>
-    <title>プロゲーマーから未経験エンジニアになって、上達の仕方は同じだと気づいた</title>
-    <link rel="alternate" href="https://qiita.com/blueflame-lab/items/775bba713c91a571e462?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-14T16:36:33+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/blueflame-lab&quot;&gt;blueflame-lab&lt;/a&gt;&lt;br/&gt;Published: 2026-08-14T16:36:33+09:00&lt;br/&gt;Updated: 2026-08-14T16:36:33+09:00&lt;br/&gt;未経験からWebエンジニアとして働き始めて、まだ1ヶ月も経っていません。
-毎日普通に分からないことが出てきます。
-GitもDBもAPIも、仕事で触るたびに「これなんだっけ」となります。
-そんな中で最近、
-エンジニアの上達の仕方って、プロゲーマーをやってた頃と結構似てるな
-と...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4da8a4aa027730db23e0</id>
