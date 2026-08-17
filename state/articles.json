@@ -165,8 +165,8 @@
       "published": "2026-08-15T08:00:36+09:00",
       "updated": "2026-08-15T08:00:36+09:00",
       "author_name": "tomada",
-      "likes_count": 22,
-      "last_seen": "2026-08-17T07:11:55.967702044+00:00"
+      "likes_count": 23,
+      "last_seen": "2026-08-17T08:55:29.323123213+00:00"
     },
     {
       "key": "0c1da2b7431aa73a798a",
@@ -311,18 +311,6 @@
       "author_name": "kaichan_dot",
       "likes_count": 24,
       "last_seen": "2026-06-21T07:54:59.351480814+00:00"
-    },
-    {
-      "key": "148bcdb1f7ef315bf5f6",
-      "item_id": "148bcdb1f7ef315bf5f6",
-      "title": "OSSのコードを読む習慣が、コードレビュー力を爆上げした話",
-      "link": "https://qiita.com/fe1ix/items/148bcdb1f7ef315bf5f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "「良いコード」の基準はどこで作られるか\nコードレビューで「ここ、なんか気持ち悪いんですよね」と言えるエンジニアと、「動いてるからいいんじゃないですか」で止まるエンジニアの違いは何でしょうか。\nそれは「良いコードを大量に読んだ経験の差」です。\nコードの美醜を判断するセンスは...",
-      "published": "2026-06-15T08:26:44+09:00",
-      "updated": "2026-06-18T13:14:43+09:00",
-      "author_name": "fe1ix",
-      "likes_count": 28,
-      "last_seen": "2026-06-18T07:59:57.822084129+00:00"
     },
     {
       "key": "14df505c7023f665c585",
@@ -551,6 +539,18 @@
       "author_name": "jqit-yukiono",
       "likes_count": 16,
       "last_seen": "2026-07-26T19:24:41.011387939+00:00"
+    },
+    {
+      "key": "21da0b9fad77240eed49",
+      "item_id": "21da0b9fad77240eed49",
+      "title": "D1に適したORMはPrismaかDrizzleか",
+      "link": "https://qiita.com/kuma_3838/items/21da0b9fad77240eed49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nハッカソンでD1を使うことになったのですが、PrismaとDrizzleのどちらがD1に適しているんだろうと思いました。\nそれぞれ、別プロジェクトで使用したことはあるものの、どちらも便利だなと感じただけで、明確な選定理由は思い浮かびませんでした。\nせっかくな機械...",
+      "published": "2026-08-16T15:36:36+09:00",
+      "updated": "2026-08-16T15:36:36+09:00",
+      "author_name": "kuma_3838",
+      "likes_count": 13,
+      "last_seen": "2026-08-17T08:55:29.323123213+00:00"
     },
     {
       "key": "2242dbfcaf003b714c96",
@@ -1017,8 +1017,8 @@
       "published": "2026-08-16T15:57:25+09:00",
       "updated": "2026-08-16T16:22:51+09:00",
       "author_name": "minorun365",
-      "likes_count": 40,
-      "last_seen": "2026-08-17T07:11:55.967702044+00:00"
+      "likes_count": 45,
+      "last_seen": "2026-08-17T08:55:29.323123213+00:00"
     },
     {
       "key": "322286d2f1c16eca7459",
@@ -1177,18 +1177,6 @@
       "last_seen": "2026-08-14T19:54:02.626974896+00:00"
     },
     {
-      "key": "38d71147e10e81a60dfe",
-      "item_id": "38d71147e10e81a60dfe",
-      "title": "【今さら聞けない証明書の仕組み】SSL/TLS証明書・認証局・TLS復号をCloudflareで理解する SASE基礎",
-      "link": "https://qiita.com/wk_shiho/items/38d71147e10e81a60dfe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n今やインターネット通信の大半はHTTPSが前提となり、SASEやゼロトラストを扱うエンジニアにとって証明書の仕組みを理解することは必須の知識になっています。\n特に、SSL/TLS証明書・認証局（CA）・TLS 復号といった概念は「なんとなく知っている」では済まさ...",
-      "published": "2026-06-15T16:42:03+09:00",
-      "updated": "2026-06-15T17:48:26+09:00",
-      "author_name": "wk_shiho",
-      "likes_count": 22,
-      "last_seen": "2026-06-18T07:59:57.822084129+00:00"
-    },
-    {
       "key": "390b3558be49c30f85a7",
       "item_id": "390b3558be49c30f85a7",
       "title": "【ローカルLLM】Qwen3.8-27Bの推論性能をテストする（WSL2 + Ollama + RTX 5070 Ti）",
@@ -1198,7 +1186,7 @@
       "updated": "2026-08-16T12:24:38+09:00",
       "author_name": "h-nabata",
       "likes_count": 14,
-      "last_seen": "2026-08-17T07:11:55.967702044+00:00"
+      "last_seen": "2026-08-17T08:55:29.323123213+00:00"
     },
     {
       "key": "39907f41be86431a58e7",
@@ -1545,8 +1533,8 @@
       "published": "2026-08-14T18:37:58+09:00",
       "updated": "2026-08-14T18:37:58+09:00",
       "author_name": "tomokusaba",
-      "likes_count": 37,
-      "last_seen": "2026-08-17T07:11:55.967702044+00:00"
+      "likes_count": 40,
+      "last_seen": "2026-08-17T08:55:29.323123213+00:00"
     },
     {
       "key": "467446c5a6cbd10a5ffa",
@@ -1619,18 +1607,6 @@
       "author_name": "Shiro_Shihi",
       "likes_count": 128,
       "last_seen": "2026-07-07T05:03:01.689362782+00:00"
-    },
-    {
-      "key": "49f9601481aec596f545",
-      "item_id": "49f9601481aec596f545",
-      "title": "CVSS 9.8ってどれくらい危ない？脆弱性情報を読むためのものさし",
-      "link": "https://qiita.com/mo__mo/items/49f9601481aec596f545?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nセキュリティ情報を見ていると、こんな表記を見かけることがあります。\n\nCVSS 9.8\nCVSS v3.1 Base Score\nCritical\nHigh\n認証なしでリモートから悪用可能\n\nなんとなく「数字が高いほど危なそう」という雰囲気はあります。\nでも、い...",
-      "published": "2026-06-15T10:56:34+09:00",
-      "updated": "2026-06-15T10:56:34+09:00",
-      "author_name": "mo__mo",
-      "likes_count": 38,
-      "last_seen": "2026-06-18T07:59:57.822084129+00:00"
     },
     {
       "key": "4be4d7e683632ba8c396",
@@ -2629,6 +2605,18 @@
       "last_seen": "2026-06-28T07:36:31.957244902+00:00"
     },
     {
+      "key": "7a8bf8214f6d4f70de17",
+      "item_id": "7a8bf8214f6d4f70de17",
+      "title": "海外で急速に広がる「FDE」と、AI時代のエンジニアに求められるより高い専門性",
+      "link": "https://qiita.com/sumomoo/items/7a8bf8214f6d4f70de17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや\n考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\n最近IT業...",
+      "published": "2026-08-17T16:29:55+09:00",
+      "updated": "2026-08-17T16:31:47+09:00",
+      "author_name": "sumomoo",
+      "likes_count": 13,
+      "last_seen": "2026-08-17T08:55:29.323123213+00:00"
+    },
+    {
       "key": "7ac59c9034cac5e9e935",
       "item_id": "7ac59c9034cac5e9e935",
       "title": "油絵から学んだ、デザイン・コード・働き方に共通する「余白理論」",
@@ -2807,18 +2795,6 @@
       "author_name": "rana_kualu",
       "likes_count": 14,
       "last_seen": "2026-07-30T18:40:13.254390155+00:00"
-    },
-    {
-      "key": "81433a4eaae7d2030751",
-      "item_id": "81433a4eaae7d2030751",
-      "title": "コーディングエージェント時代に、あえて自分でコードを書く",
-      "link": "https://qiita.com/tomoki-miso/items/81433a4eaae7d2030751?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "コーディングエージェントというパラダイムシフト\nClaude Code が爆誕してから1年以上経った。\nその誕生により、明らかにプログラミングという作業の方法は激変した。\n自分は、GPT 3.5 Turbo が出たころに、本格的にプログラミングをはじめた。\nそれ以前に少し...",
-      "published": "2026-06-15T12:37:25+09:00",
-      "updated": "2026-06-15T12:42:31+09:00",
-      "author_name": "tomoki-miso",
-      "likes_count": 32,
-      "last_seen": "2026-06-18T07:59:57.822084129+00:00"
     },
     {
       "key": "8168cd532e692ebcd4b0",
@@ -3853,6 +3829,18 @@
       "last_seen": "2026-07-04T07:11:36.984191124+00:00"
     },
     {
+      "key": "aae2c66e38bb9498d82d",
+      "item_id": "aae2c66e38bb9498d82d",
+      "title": "S3時代のファントムファイル",
+      "link": "https://qiita.com/kuma_3838/items/aae2c66e38bb9498d82d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nファイル削除機能を実装するとき、DBの行とS3のオブジェクトのどちらを先に消すか、考えた経験は過去にありますか？\nこの2つは、絶対に同時には消えず、DBのトランザクションはS3まで面倒を見てくれないので、どちらかが先に消え、間で処理が落ちれば必ず不整合が生まれま...",
+      "published": "2026-08-16T21:13:48+09:00",
+      "updated": "2026-08-16T21:13:48+09:00",
+      "author_name": "kuma_3838",
+      "likes_count": 13,
+      "last_seen": "2026-08-17T08:55:29.323123213+00:00"
+    },
+    {
       "key": "aae3889fb1dacf6892c8",
       "item_id": "aae3889fb1dacf6892c8",
       "title": "リプレイ機能付きオセロを作って、AWS（EC2/RDS）にデプロイしてみた",
@@ -3875,6 +3863,18 @@
       "author_name": "iwa0114",
       "likes_count": 16,
       "last_seen": "2026-07-04T07:11:36.984191124+00:00"
+    },
+    {
+      "key": "ab629ef2296563691957",
+      "item_id": "ab629ef2296563691957",
+      "title": "新人エンジニア、長時間考える体力がなさすぎて全然集中が続かない",
+      "link": "https://qiita.com/prumnn/items/ab629ef2296563691957?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n\n難しい課題に向き合うと、30分もしないうちに脳が疲れて集中が切れてしまうぷらむんが、先輩たちの底なしの集中力を見て落ち込んだ話です。\n\nこんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯\n最近、難しいタスクに向...",
+      "published": "2026-08-17T16:27:57+09:00",
+      "updated": "2026-08-17T16:27:57+09:00",
+      "author_name": "prumnn",
+      "likes_count": 13,
+      "last_seen": "2026-08-17T08:55:29.323123213+00:00"
     },
     {
       "key": "abf53976ec072511a4ac",
@@ -4189,6 +4189,18 @@
       "last_seen": "2026-06-19T19:43:29.742712328+00:00"
     },
     {
+      "key": "b919d0b4cdc0a26ec988",
+      "item_id": "b919d0b4cdc0a26ec988",
+      "title": "Claude Codeの新機能、\"仕事の引き継ぎ\"じゃありません — 公式ドキュメントで確認した3つのズレ",
+      "link": "https://qiita.com/jqit_suwa/items/b919d0b4cdc0a26ec988?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "ここ最近、Claude Code の新機能としてこういう話が流れてきます。\n\n「この作業、別セッションに引き継いで」と伝えるだけ。\n調査担当のClaude → 実装担当のClaude → レビュー担当のClaude、とリレーできる。\n\nたしかに新機能は実在します。Claud...",
+      "published": "2026-08-17T08:25:41+09:00",
+      "updated": "2026-08-17T08:25:42+09:00",
+      "author_name": "jqit_suwa",
+      "likes_count": 16,
+      "last_seen": "2026-08-17T08:55:29.323123213+00:00"
+    },
+    {
       "key": "b9a128b0e71382979f08",
       "item_id": "b9a128b0e71382979f08",
       "title": "完璧主義を手放したら評価が変わった、新人の優先順位の付け方",
@@ -4391,18 +4403,6 @@
       "author_name": "Oyu3m",
       "likes_count": 34,
       "last_seen": "2026-07-29T19:38:20.986722849+00:00"
-    },
-    {
-      "key": "c6541d1ae1458d5dcae1",
-      "item_id": "c6541d1ae1458d5dcae1",
-      "title": "大量ファイル移行を実装して見えた、バッチ処理で考慮すべきこと",
-      "link": "https://qiita.com/AkiraTakasaki/items/c6541d1ae1458d5dcae1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "こんにちは、ソーイ株式会社の髙﨑です。\n最近の業務で、S3からWasabiストレージへ大量のデータを移行するバッチ処理を実装する機会があり、その中で、処理時間やメモリ使用量、途中失敗時の再実行方法など、大量データを扱うバッチ処理ならではの考慮事項がいくつかありました。\n今回...",
-      "published": "2026-06-16T12:02:30+09:00",
-      "updated": "2026-06-16T12:02:31+09:00",
-      "author_name": "AkiraTakasaki",
-      "likes_count": 13,
-      "last_seen": "2026-06-18T07:59:57.822084129+00:00"
     },
     {
       "key": "c69fab7dfb1d48ba8b31",
@@ -4993,18 +4993,6 @@
       "last_seen": "2026-07-17T07:26:19.244790279+00:00"
     },
     {
-      "key": "dff3c8a2a0ee563ca16f",
-      "item_id": "dff3c8a2a0ee563ca16f",
-      "title": "VRAM 12GBでQwen 35Bを動かす — エキスパートをGPUに載せないほど速くなった話",
-      "link": "https://qiita.com/kenimo49/items/dff3c8a2a0ee563ca16f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "3か月前、私は同じRTX 4070でこんな検証記事を書きました。結論は「35BのMoEモデルは、待てるなら動く」。測ったのは10.6 tok/s。動くには動くが、チャットで使うには指が止まる速度です。\n先週、同じGPU・同じモデルで測り直したら34.6 tok/sが出ました...",
-      "published": "2026-06-15T10:27:14+09:00",
-      "updated": "2026-06-15T10:27:15+09:00",
-      "author_name": "kenimo49",
-      "likes_count": 52,
-      "last_seen": "2026-06-18T07:59:57.822084129+00:00"
-    },
-    {
       "key": "dffb06c5e5cd1ef73463",
       "item_id": "dffb06c5e5cd1ef73463",
       "title": "わかったようでわからないアロー関数の完全理解",
@@ -5517,8 +5505,20 @@
       "published": "2026-08-16T11:59:04+09:00",
       "updated": "2026-08-16T11:59:04+09:00",
       "author_name": "claudecat",
-      "likes_count": 38,
-      "last_seen": "2026-08-17T07:11:55.967702044+00:00"
+      "likes_count": 42,
+      "last_seen": "2026-08-17T08:55:29.323123213+00:00"
+    },
+    {
+      "key": "fe5975104ffefa49f632",
+      "item_id": "fe5975104ffefa49f632",
+      "title": "Claude Codeに動画を見せる /watch-video、実は「渡すだけ」じゃなかった — 3つの深さを使い分ける",
+      "link": "https://qiita.com/jqit_suwa/items/fe5975104ffefa49f632?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "Claude Code に動画を見せて、内容を整理させる Skill が話題になっています。/watch-video というやつです。\n紹介ではこう書かれていることが多いです。\n\n動画を渡すだけで、文字起こし・重要フレーム抽出・画像解析・構造化ノート作成まで自動で実行\n\n便...",
+      "published": "2026-08-17T08:43:14+09:00",
+      "updated": "2026-08-17T08:43:15+09:00",
+      "author_name": "jqit_suwa",
+      "likes_count": 16,
+      "last_seen": "2026-08-17T08:55:29.323123213+00:00"
     },
     {
       "key": "fe70e2936542c1bde001",
