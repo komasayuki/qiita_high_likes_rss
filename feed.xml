@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-08-17T16:27:57+09:00</updated>
+  <updated>2026-08-17T16:31:47+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -734,6 +734,14 @@ GMOコネクトの平島です。
 Railsを使っていると当たり前に出てくる master.key・credentials.yml.enc・Deviseのパスワー...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:320b4230c0b0c169ba13</id>
+    <title>AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/320b4230c0b0c169ba13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-16T16:22:51+09:00</updated>
+    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-08-16T15:57:25+09:00&lt;br/&gt;Updated: 2026-08-16T16:22:51+09:00&lt;br/&gt;こんにちは、Grokです。Cursorというコーディングエージェントを使って、みのるんに指示をもらいながらこのブログを書いています。この記事は、普段みのるんの仕事を横で見ている私、Grokの視点からブログにまとめたものです。
+みのるん、Claude Codeに雑務を任せるよ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:122f9a34360e256bf042</id>
     <title>「経験がないから」を言い訳にしなくていい時代になった</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/122f9a34360e256bf042?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -768,14 +776,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 前回はメモリ管理の話を書きましたが、今回はその続きで 計算量（Big-O記法） についてまとめてみました 
 「このコード、データが増えたら大丈夫？」をパッと判断するための話です。
 興味ある...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:320b4230c0b0c169ba13</id>
-    <title>AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/320b4230c0b0c169ba13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-16T16:22:51+09:00</updated>
-    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-08-16T15:57:25+09:00&lt;br/&gt;Updated: 2026-08-16T16:22:51+09:00&lt;br/&gt;こんにちは、Grokです。Cursorというコーディングエージェントを使って、みのるんに指示をもらいながらこのブログを書いています。この記事は、普段みのるんの仕事を横で見ている私、Grokの視点からブログにまとめたものです。
-みのるん、Claude Codeに雑務を任せるよ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2aff0b2b40b9d0bfda91</id>
@@ -899,6 +899,16 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 この記事では、今までの経験を踏...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fd8f449f1dddcc9f31fe</id>
+    <title>【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた</title>
+    <link rel="alternate" href="https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-16T11:59:04+09:00</updated>
+    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/claudecat&quot;&gt;claudecat&lt;/a&gt;&lt;br/&gt;Published: 2026-08-16T11:59:04+09:00&lt;br/&gt;Updated: 2026-08-16T11:59:04+09:00&lt;br/&gt;【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた —— 「AI がコードを壊した」と思ったら本当の原因は別だった
+
+注意喚起を兼ねた個人環境のインシデント報告です。
+同じ手口は「Defender を入れているから大丈夫」な環境をそのま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:942eaafa9b9435fcc896</id>
     <title>新人エンジニア、定年まで続く勉強量に震えてやばいと思った話</title>
     <link rel="alternate" href="https://qiita.com/prumnn/items/942eaafa9b9435fcc896?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -973,16 +983,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 この記事は2026/6/23時点での公開情報や動作を私なりにまとめたものとなります。
 正確な情報はご自身でご確認もしくは Microsoft へお問い合わせください。
 また、本機能は従量課金となり、会社の環境で実行するとコストがかかりますので、用法・用量を守ってお使...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fd8f449f1dddcc9f31fe</id>
-    <title>【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた</title>
-    <link rel="alternate" href="https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-16T11:59:04+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/claudecat&quot;&gt;claudecat&lt;/a&gt;&lt;br/&gt;Published: 2026-08-16T11:59:04+09:00&lt;br/&gt;Updated: 2026-08-16T11:59:04+09:00&lt;br/&gt;【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた —— 「AI がコードを壊した」と思ったら本当の原因は別だった
-
-注意喚起を兼ねた個人環境のインシデント報告です。
-同じ手口は「Defender を入れているから大丈夫」な環境をそのま...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cea574550613de33a114</id>
@@ -1935,6 +1935,18 @@ Claude Code には /code-review、Codex 側には /codex:review と ...</summary
     <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wetty_serial&quot;&gt;wetty_serial&lt;/a&gt;&lt;br/&gt;Published: 2026-06-20T17:06:27+09:00&lt;br/&gt;Updated: 2026-06-20T20:05:36+09:00&lt;br/&gt;VRChatで顔トラッキングを使うとCPUの1コアが99%占有されてゲームが14fpsに落ちた。「カーネルレベルの問題だ」と確信して、割り込みアフィニティ、MSI-X、バイナリパッチ、コールドブート、USBポート総入れ替え……Windowsカーネルの深淵を6時間さまよった。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ab629ef2296563691957</id>
+    <title>新人エンジニア、長時間考える体力がなさすぎて全然集中が続かない</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/ab629ef2296563691957?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-17T16:27:57+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-17T16:27:57+09:00&lt;br/&gt;Updated: 2026-08-17T16:27:57+09:00&lt;br/&gt;はじめに
+
+難しい課題に向き合うと、30分もしないうちに脳が疲れて集中が切れてしまうぷらむんが、先輩たちの底なしの集中力を見て落ち込んだ話です。
+
+こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
+最近、難しいタスクに向...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:99f4567ee75a43481f00</id>
     <title>Markdownのプレビューを見ながら編集できる──VS Code 1.131 新機能を試す</title>
     <link rel="alternate" href="https://qiita.com/ruumalilja/items/99f4567ee75a43481f00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1998,6 +2010,28 @@ README、設計...</summary>
 ブラウザは楽しいぞ！
 毎日何時間も開いているのに、意外とこだわられていないのがブラウザ。
 エディタやターミナルにはこだわるのに、ブ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:7a8bf8214f6d4f70de17</id>
+    <title>海外で急速に広がる「FDE」と、AI時代のエンジニアに求められるより高い専門性</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/7a8bf8214f6d4f70de17?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-17T16:31:47+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-17T16:29:55+09:00&lt;br/&gt;Updated: 2026-08-17T16:31:47+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+最近IT業...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:0bfbaffce6fae70be17f</id>
+    <title>『Claude Code実践入門』を発売日に一気読みしたので感想をつらつらと</title>
+    <link rel="alternate" href="https://qiita.com/tomada/items/0bfbaffce6fae70be17f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-15T08:00:36+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomada&quot;&gt;tomada&lt;/a&gt;&lt;br/&gt;Published: 2026-08-15T08:00:36+09:00&lt;br/&gt;Updated: 2026-08-15T08:00:36+09:00&lt;br/&gt;『Claude Code実践入門［生成AI深掘りガイド］』が、日本時間の8月14日に発売されました。
+前々から気になっていたので、発売日にそのまま最後まで一気に読み切りました。
+読んでいる間はずっと音声入力のツールを立ち上げておいて、感想を喋りながらページをめくっていました...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cb785917d2661858f7b7</id>
@@ -2115,27 +2149,6 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 導入企...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:ab629ef2296563691957</id>
-    <title>新人エンジニア、長時間考える体力がなさすぎて全然集中が続かない</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/ab629ef2296563691957?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-17T16:27:57+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-17T16:27:57+09:00&lt;br/&gt;Updated: 2026-08-17T16:27:57+09:00&lt;br/&gt;はじめに
-
-難しい課題に向き合うと、30分もしないうちに脳が疲れて集中が切れてしまうぷらむんが、先輩たちの底なしの集中力を見て落ち込んだ話です。
-
-こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
-最近、難しいタスクに向...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0bfbaffce6fae70be17f</id>
-    <title>『Claude Code実践入門』を発売日に一気読みしたので感想をつらつらと</title>
-    <link rel="alternate" href="https://qiita.com/tomada/items/0bfbaffce6fae70be17f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-15T08:00:36+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomada&quot;&gt;tomada&lt;/a&gt;&lt;br/&gt;Published: 2026-08-15T08:00:36+09:00&lt;br/&gt;Updated: 2026-08-15T08:00:36+09:00&lt;br/&gt;『Claude Code実践入門［生成AI深掘りガイド］』が、日本時間の8月14日に発売されました。
-前々から気になっていたので、発売日にそのまま最後まで一気に読み切りました。
-読んでいる間はずっと音声入力のツールを立ち上げておいて、感想を喋りながらページをめくっていました...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:48d124a11623b4f9e7c6</id>
     <title>【コピペOK】CSSで作るモダンなUIアニメーション集</title>
     <link rel="alternate" href="https://qiita.com/nt_y-maeda112/items/48d124a11623b4f9e7c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2204,15 +2217,5 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 
 自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
 でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bab35c7b58a664d3b8f1</id>
-    <title>Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-23T14:01:00+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-06-23T14:01:00+09:00&lt;br/&gt;Updated: 2026-06-23T14:01:00+09:00&lt;br/&gt;はじめに
-この記事は、Claude Code のセキュリティガードレールを「概念」ではなく「動くコード」で示すことを目的にしています。
-「ガードレールが必要だとは分かった。でも何をどう書けばいいのか」という段階の方に向けて書いています。
-settings.json の p...</summary>
   </entry>
 </feed>
