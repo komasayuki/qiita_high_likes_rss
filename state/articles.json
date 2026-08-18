@@ -369,8 +369,8 @@
       "published": "2026-08-17T20:53:22+09:00",
       "updated": "2026-08-17T22:43:18+09:00",
       "author_name": "ryu-ki",
-      "likes_count": 14,
-      "last_seen": "2026-08-18T07:48:18.078953719+00:00"
+      "likes_count": 15,
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "16fd0b847aa68c152e00",
@@ -538,7 +538,7 @@
       "updated": "2026-08-16T15:36:36+09:00",
       "author_name": "kuma_3838",
       "likes_count": 17,
-      "last_seen": "2026-08-18T07:48:18.078953719+00:00"
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "2242dbfcaf003b714c96",
@@ -1005,8 +1005,8 @@
       "published": "2026-08-16T15:57:25+09:00",
       "updated": "2026-08-16T16:22:51+09:00",
       "author_name": "minorun365",
-      "likes_count": 72,
-      "last_seen": "2026-08-18T07:48:18.078953719+00:00"
+      "likes_count": 73,
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "322286d2f1c16eca7459",
@@ -1174,7 +1174,7 @@
       "updated": "2026-08-17T16:26:52+09:00",
       "author_name": "jqit_suwa",
       "likes_count": 15,
-      "last_seen": "2026-08-18T07:48:18.078953719+00:00"
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "390b3558be49c30f85a7",
@@ -1185,8 +1185,8 @@
       "published": "2026-08-16T02:58:03+09:00",
       "updated": "2026-08-16T12:24:38+09:00",
       "author_name": "h-nabata",
-      "likes_count": 17,
-      "last_seen": "2026-08-18T07:48:18.078953719+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "39907f41be86431a58e7",
@@ -1474,7 +1474,7 @@
       "updated": "2026-08-15T22:38:44+09:00",
       "author_name": "kizashi-labs",
       "likes_count": 10,
-      "last_seen": "2026-08-18T07:48:18.078953719+00:00"
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "42ff4d8f736f45eb8c59",
@@ -1834,7 +1834,7 @@
       "updated": "2026-08-17T16:16:58+09:00",
       "author_name": "kurogoma939",
       "likes_count": 12,
-      "last_seen": "2026-08-18T07:48:18.078953719+00:00"
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "573178ed3b8a6a22ebb1",
@@ -2065,18 +2065,6 @@
       "last_seen": "2026-07-30T06:37:18.541368200+00:00"
     },
     {
-      "key": "61e352a3a07d5cc7a433",
-      "item_id": "61e352a3a07d5cc7a433",
-      "title": "Cookie の `__Host-` / `__Secure-` プレフィックスとは？ 名前でセキュリティを強制する仕組み",
-      "link": "https://qiita.com/11akajet/items/61e352a3a07d5cc7a433?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめましての方ははじめまして、そうでない方はこんにちは。社内では「じぇっと」と呼ばれています。なぜそう呼ばれているかは追々お伝えできればいいかなと思います。\n\n「cookie名に __Host- が付いてる」— これは何？\n開発中のアプリやブラウザの開発者ツールで他社サイ...",
-      "published": "2026-06-17T09:18:51+09:00",
-      "updated": "2026-06-17T09:18:51+09:00",
-      "author_name": "11akajet",
-      "likes_count": 11,
-      "last_seen": "2026-06-19T08:12:14.367599376+00:00"
-    },
-    {
       "key": "6251b5727998ca29734c",
       "item_id": "6251b5727998ca29734c",
       "title": "LLMのコスト暴走と情報漏洩を防ぐ社内Gateway設計: Azure/AWSガバナンスとLiteLLM実装(Phase1→Phase2)",
@@ -2111,6 +2099,18 @@
       "author_name": "take-yoda",
       "likes_count": 12,
       "last_seen": "2026-06-26T07:34:40.030355871+00:00"
+    },
+    {
+      "key": "639d401573c09ab24667",
+      "item_id": "639d401573c09ab24667",
+      "title": "Cursor Originを触った。第一印象は「Cursor版GitHub」",
+      "link": "https://qiita.com/Kinopee/items/639d401573c09ab24667?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "Cursor Originは、Cursorが出しているGitホスティングです。リポジトリを置いて、レビューして、マージする。GitHubやGitLabと同じ役割です。公式のコピーは \"A git forge for the agentic era\"。人間が1本ずつPull ...",
+      "published": "2026-08-18T02:44:41+09:00",
+      "updated": "2026-08-18T02:59:50+09:00",
+      "author_name": "Kinopee",
+      "likes_count": 15,
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "6459627a4029eb5cbee7",
@@ -2303,6 +2303,18 @@
       "author_name": "engchina",
       "likes_count": 15,
       "last_seen": "2026-07-10T07:49:47.289897827+00:00"
+    },
+    {
+      "key": "6e1719b24f56d4166d2e",
+      "item_id": "6e1719b24f56d4166d2e",
+      "title": "彼女の誕生日に、2人だけのSNS「Sync」を作った話",
+      "link": "https://qiita.com/taiga-shiokawa/items/6e1719b24f56d4166d2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "これは、彼女の誕生日プレゼントとして作った、二人専用SNS「Sync」の開発記録です。\n完成した機能だけでなく、本番環境でログインできなくなった失敗や、写真表示を約96%軽量化した改善までまとめます。\n \n\nはじめに\n彼女の誕生日に、何か形に残るものを贈りたかった。\n写...",
+      "published": "2026-08-16T20:35:44+09:00",
+      "updated": "2026-08-16T20:36:36+09:00",
+      "author_name": "taiga-shiokawa",
+      "likes_count": 11,
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "6e671c96ec9e03a123ab",
@@ -2569,18 +2581,6 @@
       "last_seen": "2026-07-01T19:43:54.766669086+00:00"
     },
     {
-      "key": "78b5387e7dacf4aba403",
-      "item_id": "78b5387e7dacf4aba403",
-      "title": "未経験からエンジニアを目指すなら知っておきたい、職種の広がり方と成長を続けるコツ",
-      "link": "https://qiita.com/masa20057/items/78b5387e7dacf4aba403?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "こんにちは。株式会社 PRUMのmasaです。\n今日は「エンジニアの職種・成長習慣」について、エンジニア未経験から現場に飛び込む前に知っておくと良いことを一緒に見ていきましょう。\n\nエンジニアの職種は一つじゃない\nエンジニアといっても、職種は一つではありません。バックエンド...",
-      "published": "2026-06-16T10:12:15+09:00",
-      "updated": "2026-06-16T10:12:15+09:00",
-      "author_name": "masa20057",
-      "likes_count": 74,
-      "last_seen": "2026-06-19T08:12:14.367599376+00:00"
-    },
-    {
       "key": "78d45bee1160d059c972",
       "item_id": "78d45bee1160d059c972",
       "title": "そのスキル、本当に効いてる？ Agent Skills を「評価」する3つのツールを比べてみた",
@@ -2637,8 +2637,8 @@
       "published": "2026-08-17T16:29:55+09:00",
       "updated": "2026-08-17T16:31:47+09:00",
       "author_name": "sumomoo",
-      "likes_count": 28,
-      "last_seen": "2026-08-18T07:48:18.078953719+00:00"
+      "likes_count": 29,
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "7ac59c9034cac5e9e935",
@@ -3513,8 +3513,8 @@
       "published": "2026-08-16T23:01:50+09:00",
       "updated": "2026-08-16T23:01:50+09:00",
       "author_name": "yakumo_09",
-      "likes_count": 10,
-      "last_seen": "2026-08-18T07:48:18.078953719+00:00"
+      "likes_count": 11,
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "9cf96baae4b01bbeb6d6",
@@ -3873,8 +3873,8 @@
       "published": "2026-08-16T21:13:48+09:00",
       "updated": "2026-08-16T21:13:48+09:00",
       "author_name": "kuma_3838",
-      "likes_count": 18,
-      "last_seen": "2026-08-18T07:48:18.078953719+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "aae3889fb1dacf6892c8",
@@ -3909,8 +3909,8 @@
       "published": "2026-08-17T16:27:57+09:00",
       "updated": "2026-08-17T16:27:57+09:00",
       "author_name": "prumnn",
-      "likes_count": 36,
-      "last_seen": "2026-08-18T07:48:18.078953719+00:00"
+      "likes_count": 38,
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "abf53976ec072511a4ac",
@@ -3935,6 +3935,18 @@
       "author_name": "jqit_suwa",
       "likes_count": 17,
       "last_seen": "2026-08-08T07:08:20.172186506+00:00"
+    },
+    {
+      "key": "acb61138c4550eef4803",
+      "item_id": "acb61138c4550eef4803",
+      "title": "14MBのAIモデルは本当に動いた — DLL 1個・RAM 37MB・1回0.5秒、ただし日本語は0/5",
+      "link": "https://qiita.com/jqit_suwa/items/acb61138c4550eef4803?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "GitHub Trending に「14MB のモデル」が来ていました。\nCactus Compute の Needle 2 です。45M パラメータで、ツール呼び出しに特化しています。週で +3,627 スター伸びていました。\n14MB というのは、画像1枚くらいのサイズ...",
+      "published": "2026-08-18T14:03:10+09:00",
+      "updated": "2026-08-18T14:03:11+09:00",
+      "author_name": "jqit_suwa",
+      "likes_count": 19,
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "acb76b46b710348c60cd",
@@ -3982,7 +3994,7 @@
       "updated": "2026-08-17T21:45:58+09:00",
       "author_name": "moritalous",
       "likes_count": 12,
-      "last_seen": "2026-08-18T07:48:18.078953719+00:00"
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "b0254194b02c85e17da6",
@@ -4105,18 +4117,6 @@
       "last_seen": "2026-07-28T18:23:38.322593376+00:00"
     },
     {
-      "key": "b59c083cf053e605e8e6",
-      "item_id": "b59c083cf053e605e8e6",
-      "title": "【まとめ】世は大AIブラウザ時代！12種類全部使って徹底レビュー！【乗るしかねえ、このBIG WAVEに🌊】",
-      "link": "https://qiita.com/issey_dotlog/items/b59c083cf053e605e8e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n今回は、ここ数年で実際に触ってみたブラウザをまとめて紹介します。\n「ブラウザなんてChromeでいいでしょ」\nというそこのあなた。\nブラウザは楽しいぞ！\n毎日何時間も開いているのに、意外とこだわられていないのがブラウザ。\nエディタやターミナルにはこだわるのに、ブ...",
-      "published": "2026-06-16T11:57:20+09:00",
-      "updated": "2026-06-16T11:57:20+09:00",
-      "author_name": "issey_dotlog",
-      "likes_count": 27,
-      "last_seen": "2026-06-19T08:12:14.367599376+00:00"
-    },
-    {
       "key": "b5b8a10713e2a96a2861",
       "item_id": "b5b8a10713e2a96a2861",
       "title": "ITパスポートと基本情報の違いは？どちらを勉強すべき？",
@@ -4139,18 +4139,6 @@
       "author_name": "gen99",
       "likes_count": 11,
       "last_seen": "2026-06-25T07:28:13.101021820+00:00"
-    },
-    {
-      "key": "b6e4b74006c5133442f7",
-      "item_id": "b6e4b74006c5133442f7",
-      "title": "Apache Iceberg入門：誕生の背景から特徴、アーキテクチャまとめ",
-      "link": "https://qiita.com/yushibats/items/b6e4b74006c5133442f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "■ はじめに\n今回はIceberg入門として、\n\n背景\nApache Iceberg誕生の目的\nApache Icebergの基本的な考え方\nApache Icebergのアーキテクチャ\nApache Icebergの主な機能\n\nをまとめてみました。\n\n■ 背景\nまず前提...",
-      "published": "2026-06-16T22:44:52+09:00",
-      "updated": "2026-06-16T22:45:51+09:00",
-      "author_name": "yushibats",
-      "likes_count": 12,
-      "last_seen": "2026-06-19T08:12:14.367599376+00:00"
     },
     {
       "key": "b73cb8096af35186c2d8",
@@ -4295,18 +4283,6 @@
       "author_name": "daikou223",
       "likes_count": 13,
       "last_seen": "2026-07-06T20:10:21.805985126+00:00"
-    },
-    {
-      "key": "bc230f0d5cdaebccfd05",
-      "item_id": "bc230f0d5cdaebccfd05",
-      "title": "FastAPI + asyncpg でプロファイリングを用いたパフォーマンス改善",
-      "link": "https://qiita.com/aaaabbbbb/items/bc230f0d5cdaebccfd05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "株式会社ブレインパッド プロダクトユニットの岡です。\n弊社は「データ活用の促進を通じて持続可能な未来をつくる」をミッションに、\nデータ分析支援やSaaSプロダクトの提供を通じて、企業の「データ活用の日常化」を推進しております。\n私は、SaaSプロダクトを開発・提供する「プロ...",
-      "published": "2026-06-17T19:30:48+09:00",
-      "updated": "2026-06-17T19:30:48+09:00",
-      "author_name": "aaaabbbbb",
-      "likes_count": 13,
-      "last_seen": "2026-06-19T08:12:14.367599376+00:00"
     },
     {
       "key": "bdcf0f87abb04047da6f",
@@ -4666,7 +4642,7 @@
       "updated": "2026-08-16T10:24:36+09:00",
       "author_name": "NekoByte",
       "likes_count": 20,
-      "last_seen": "2026-08-18T07:48:18.078953719+00:00"
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "d0c796305869c32091a4",
@@ -5013,8 +4989,8 @@
       "published": "2026-08-16T16:55:00+09:00",
       "updated": "2026-08-16T16:55:02+09:00",
       "author_name": "o68606007",
-      "likes_count": 12,
-      "last_seen": "2026-08-18T07:48:18.078953719+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "df29e251165c3ad91487",
@@ -5159,18 +5135,6 @@
       "author_name": "hikariclaude01",
       "likes_count": 63,
       "last_seen": "2026-07-23T07:42:06.518720475+00:00"
-    },
-    {
-      "key": "e5afce6610de40734443",
-      "item_id": "e5afce6610de40734443",
-      "title": "「テスト対象がない」をAIで解決した話 ─ QAエンジニアがPlaywright・APIテスト・CI/CDを学ぶまで",
-      "link": "https://qiita.com/kenji-m/items/e5afce6610de40734443?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "🧑‍💻 はじめに\nQAエンジニアとして働いていると、\n\nPlaywrightでE2Eテストを書いてみたい\nAPIテストを実践してみたい\nGitHub ActionsでCI/CDを構築してみたい\n\nと思うことはありませんか？\n私自身も以前から興味はあったのですが、学習を進め...",
-      "published": "2026-06-18T10:26:24+09:00",
-      "updated": "2026-06-18T10:26:24+09:00",
-      "author_name": "kenji-m",
-      "likes_count": 20,
-      "last_seen": "2026-06-19T08:12:14.367599376+00:00"
     },
     {
       "key": "e5c56a2f7b976cfc17ea",
@@ -5553,8 +5517,8 @@
       "published": "2026-08-16T11:59:04+09:00",
       "updated": "2026-08-16T11:59:04+09:00",
       "author_name": "claudecat",
-      "likes_count": 74,
-      "last_seen": "2026-08-18T07:48:18.078953719+00:00"
+      "likes_count": 75,
+      "last_seen": "2026-08-18T08:49:15.000153257+00:00"
     },
     {
       "key": "fe5975104ffefa49f632",
