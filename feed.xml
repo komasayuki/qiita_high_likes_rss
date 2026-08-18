@@ -93,16 +93,6 @@ AI に貼る。
 15歳の高校生が、動画配信サービス「バンダイチャンネル」にサイバー攻撃を行い、4...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b892d9ff73495ca4b68d</id>
-    <title>ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/b892d9ff73495ca4b68d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-16T23:46:52+09:00</updated>
-    <summary type="html">Likes: 188&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T23:46:52+09:00&lt;br/&gt;Updated: 2026-06-16T23:46:52+09:00&lt;br/&gt;はじめに
-
-こんばんは、mirukyです。
-私は元文系の人間なので、プログラミングを学び始めたころ「ReactとかNext.jsってプログラミング言語なの？何？」とよく思っていました。なにせ、非常によく使われているのをいいことに、もはやプログラミング言語かのごとき堂々たる...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:699e89544da8b0de300d</id>
     <title>あなたの技術ブログの「AI臭さ」を抜くスキル公開します</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/699e89544da8b0de300d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1154,17 +1144,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 生成AIアプリのフロントエンドとして鉄板のStreamlitですが、AWSにデプロイするには諸々の制約があり、Fargateで行うのが一般的だと思います。Lambda Web Adapterでなんとかならないと、10回ぐらい試したのですが、WebSocket...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:54ded70a5a68a5ca15d5</id>
-    <title>Claude Codeでつくる「並列ループエージェント」実践！ハンズオンガイド</title>
-    <link rel="alternate" href="https://qiita.com/kumai_yu/items/54ded70a5a68a5ca15d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-16T22:45:28+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kumai_yu&quot;&gt;kumai_yu&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T22:45:28+09:00&lt;br/&gt;Updated: 2026-06-16T22:45:28+09:00&lt;br/&gt;はじめに
-こんにちは。主にXでAI駆動開発を発信している熊井悠です！
-AIスタートアップでCEO兼CTOをしています。
-
-僕の会社では、約10人月の受託開発が2週間で、自社プロダクトは「開発〜リリース」が5日で終わるようになりました。支えているのは、Claude Co...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b4a550002ebf1e5b8af8</id>
     <title>「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1257,18 +1236,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 この記事は2026/6/18時点での公開情報や動作を私なりにまとめたものとなります。
 正確な情報はご自身でご確認もしくは Microsoft へお問い合わせください。
 また、本機能は従量課金となり、会社の環境で実行するとコストがかかりますので、用法・用量を守ってお使...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9fc54ce86fe6ac2e453c</id>
-    <title>【まとめ】名前がカッコいい、アンチパターン6選！どこがアカンの？を爆速解説</title>
-    <link rel="alternate" href="https://qiita.com/tomoki-miso/items/9fc54ce86fe6ac2e453c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-17T13:10:20+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomoki-miso&quot;&gt;tomoki-miso&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T19:18:03+09:00&lt;br/&gt;Updated: 2026-06-17T13:10:20+09:00&lt;br/&gt;はじめに
-アンチパターンは、名前だけ妙にかっこいい。
-溶岩流、神オブジェクト、手品師。
-「やらかし」の名前のクセに。
-アンチパターンとは、広く行われているのに望ましくない結果を招く実践を、原因・兆候・悪影響・対処法までセットで整理した形式のこと。
-この記事では、名前がカッ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cfe3c47453968b2d3c29</id>
@@ -2207,5 +2174,36 @@ C# で出来ること一覧 2026年版（.NET 10） という記事を読んで�
 さらに、チームで使い始めると別の不安も出てきます。
 
 このエージェント、社...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9cf96baae4b01bbeb6d6</id>
+    <title>非エンジニアが気楽に始める仕様駆動開発</title>
+    <link rel="alternate" href="https://qiita.com/ynmc0214/items/9cf96baae4b01bbeb6d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-25T15:31:37+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ynmc0214&quot;&gt;ynmc0214&lt;/a&gt;&lt;br/&gt;Published: 2026-07-25T15:31:37+09:00&lt;br/&gt;Updated: 2026-07-25T15:31:37+09:00&lt;br/&gt;この記事はAIと壁打ちしながら人間が書きました。
+
+流行りの仕様駆動開発、とっつきづらく感じませんか？
+サービスデザイナーという肩書きで仕事している非エンジニアの僕には、正直ちょっと難しいと感じてました。
+理解を深めるために個人で仕様駆動開発にトライしてみたのですが、...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ce4cb4290e4e711fdc98</id>
+    <title>最近のDynamoDB設計事情：single-table偏重の見直しとGSIマルチ属性キー</title>
+    <link rel="alternate" href="https://qiita.com/Suemura/items/ce4cb4290e4e711fdc98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-10T09:58:58+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Suemura&quot;&gt;Suemura&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T09:58:58+09:00&lt;br/&gt;Updated: 2026-07-10T09:58:58+09:00&lt;br/&gt;はじめに
+DynamoDBには長らく「できるだけ1つのテーブルにまとめろ（single-table design）」という強いベストプラクティスがありました。
+しかしここ最近、現場では「本当にそうか？」という揺り戻しが起きています。
+さらに昨年末（2025年11月）、AW...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:0e42854634b2c5a371fa</id>
+    <title>売上は DB、ログは S3、契約書は SharePoint、バラバラなデータを AI で使う方法を調べてみてみた</title>
+    <link rel="alternate" href="https://qiita.com/shirok/items/0e42854634b2c5a371fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-08T09:17:56+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-07-07T07:27:21+09:00&lt;br/&gt;Updated: 2026-07-08T09:17:56+09:00&lt;br/&gt;売上データは Database、ログは Object Storage に、契約書や仕様書は SharePoint に、分析用データは異なるクラウドに——。
+「データがあちこちに散らばっていて、AI に使いたくても使えない」
+
+データ活用の世界では、長い間、Data Ware...</summary>
   </entry>
 </feed>
