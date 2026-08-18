@@ -357,7 +357,7 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <title>【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた</title>
     <link rel="alternate" href="https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-16T11:59:04+09:00</updated>
-    <summary type="html">Likes: 83&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/claudecat&quot;&gt;claudecat&lt;/a&gt;&lt;br/&gt;Published: 2026-08-16T11:59:04+09:00&lt;br/&gt;Updated: 2026-08-16T11:59:04+09:00&lt;br/&gt;【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた —— 「AI がコードを壊した」と思ったら本当の原因は別だった
+    <summary type="html">Likes: 85&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/claudecat&quot;&gt;claudecat&lt;/a&gt;&lt;br/&gt;Published: 2026-08-16T11:59:04+09:00&lt;br/&gt;Updated: 2026-08-16T11:59:04+09:00&lt;br/&gt;【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた —— 「AI がコードを壊した」と思ったら本当の原因は別だった
 
 注意喚起を兼ねた個人環境のインシデント報告です。
 同じ手口は「Defender を入れているから大丈夫」な環境をそのま...</summary>
@@ -1144,6 +1144,18 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 生成AIアプリのフロントエンドとして鉄板のStreamlitですが、AWSにデプロイするには諸々の制約があり、Fargateで行うのが一般的だと思います。Lambda Web Adapterでなんとかならないと、10回ぐらい試したのですが、WebSocket...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ab629ef2296563691957</id>
+    <title>新人エンジニア、長時間考える体力がなさすぎて全然集中が続かない</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/ab629ef2296563691957?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-17T16:27:57+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-17T16:27:57+09:00&lt;br/&gt;Updated: 2026-08-17T16:27:57+09:00&lt;br/&gt;はじめに
+
+難しい課題に向き合うと、30分もしないうちに脳が疲れて集中が切れてしまうぷらむんが、先輩たちの底なしの集中力を見て落ち込んだ話です。
+
+こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
+最近、難しいタスクに向...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b4a550002ebf1e5b8af8</id>
     <title>「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1175,18 +1187,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <updated>2026-07-12T12:19:19+09:00</updated>
     <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sh_fukatsu&quot;&gt;sh_fukatsu&lt;/a&gt;&lt;br/&gt;Published: 2026-07-12T12:19:19+09:00&lt;br/&gt;Updated: 2026-07-12T12:19:19+09:00&lt;br/&gt;1. はじめに
 マルチリージョン構成でのDR（Disaster Recovery）や、ワークロードのレイテンシ要件から、東京リージョン（ap-northeast-1）と大阪リージョン（ap-northeast-3）のような同一パーティション内の複数リージョンをインターネッ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ab629ef2296563691957</id>
-    <title>新人エンジニア、長時間考える体力がなさすぎて全然集中が続かない</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/ab629ef2296563691957?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-17T16:27:57+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-17T16:27:57+09:00&lt;br/&gt;Updated: 2026-08-17T16:27:57+09:00&lt;br/&gt;はじめに
-
-難しい課題に向き合うと、30分もしないうちに脳が疲れて集中が切れてしまうぷらむんが、先輩たちの底なしの集中力を見て落ち込んだ話です。
-
-こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
-最近、難しいタスクに向...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e6f1678b41483943fc04</id>
