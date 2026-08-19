@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-08-18T02:59:50+09:00</updated>
+  <updated>2026-08-19T00:03:47+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1952,6 +1952,31 @@ CopilotやAI Agentの出力がリポジトリの暗黙知とズレることに�
 README、設計...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ced6a0aa744379d338b6</id>
+    <title>AIセキュリティ何から勉強すりゃええの？</title>
+    <link rel="alternate" href="https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-19T00:03:47+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mikihitooooo&quot;&gt;mikihitooooo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T00:03:47+09:00&lt;br/&gt;Updated: 2026-08-19T00:03:47+09:00&lt;br/&gt;AIセキュリティ何から勉強すりゃええの？
+
+目次
+
+はじめに
+軽く自己紹介
+調べたソース・用語
+
+直近の学習計画
+
+1. 論文の読み込み（一次ソースの収集）
+2. 検証環境の構築
+3. ブログ・技術記事によるアウトプット
+
+理想の学習サイクル
+さいごに
+
+はじめに
+「...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cb785917d2661858f7b7</id>
     <title>プロンプトの次は何を学べばいい？ AIとの付き合い方を4段階で整理する</title>
     <link rel="alternate" href="https://qiita.com/jqit_suwa/items/cb785917d2661858f7b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2191,15 +2216,5 @@ C# で出来ること一覧 2026年版（.NET 10） という記事を読んで�
 DynamoDBには長らく「できるだけ1つのテーブルにまとめろ（single-table design）」という強いベストプラクティスがありました。
 しかしここ最近、現場では「本当にそうか？」という揺り戻しが起きています。
 さらに昨年末（2025年11月）、AW...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0e42854634b2c5a371fa</id>
-    <title>売上は DB、ログは S3、契約書は SharePoint、バラバラなデータを AI で使う方法を調べてみてみた</title>
-    <link rel="alternate" href="https://qiita.com/shirok/items/0e42854634b2c5a371fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-08T09:17:56+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-07-07T07:27:21+09:00&lt;br/&gt;Updated: 2026-07-08T09:17:56+09:00&lt;br/&gt;売上データは Database、ログは Object Storage に、契約書や仕様書は SharePoint に、分析用データは異なるクラウドに——。
-「データがあちこちに散らばっていて、AI に使いたくても使えない」
-
-データ活用の世界では、長い間、Data Ware...</summary>
   </entry>
 </feed>
