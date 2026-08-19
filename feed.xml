@@ -1327,6 +1327,13 @@ Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン
 興味ある方は読んでいただけると嬉しいで...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:639d401573c09ab24667</id>
+    <title>Cursor Originを触った。第一印象は「Cursor版GitHub」</title>
+    <link rel="alternate" href="https://qiita.com/Kinopee/items/639d401573c09ab24667?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-18T02:59:50+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Kinopee&quot;&gt;Kinopee&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T02:44:41+09:00&lt;br/&gt;Updated: 2026-08-18T02:59:50+09:00&lt;br/&gt;Cursor Originは、Cursorが出しているGitホスティングです。リポジトリを置いて、レビューして、マージする。GitHubやGitLabと同じ役割です。公式のコピーは &quot;A git forge for the agentic era&quot;。人間が1本ずつPull ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ceb0f115dfe9459315bf</id>
     <title>新人エンジニアは&quot;忘れる前提&quot;で仕事をするのがベストだと気がついた</title>
     <link rel="alternate" href="https://qiita.com/prumnn/items/ceb0f115dfe9459315bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1359,13 +1366,6 @@ Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン
 前回は計算量（Big-O）の話を書きましたが、今回はその流れで、探索アルゴリズムの基本 DFS（深さ優先探索） と BFS（幅優先探索） をまとめてみました 
 名前は難しそうですが、中身は 「スタックを使うか、キューを使うか」だけの違い です。
 興味ある方は...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:639d401573c09ab24667</id>
-    <title>Cursor Originを触った。第一印象は「Cursor版GitHub」</title>
-    <link rel="alternate" href="https://qiita.com/Kinopee/items/639d401573c09ab24667?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-18T02:59:50+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Kinopee&quot;&gt;Kinopee&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T02:44:41+09:00&lt;br/&gt;Updated: 2026-08-18T02:59:50+09:00&lt;br/&gt;Cursor Originは、Cursorが出しているGitホスティングです。リポジトリを置いて、レビューして、マージする。GitHubやGitLabと同じ役割です。公式のコピーは &quot;A git forge for the agentic era&quot;。人間が1本ずつPull ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e5c56a2f7b976cfc17ea</id>
@@ -1824,6 +1824,19 @@ Claude Codeはコードを書く・直す・テストする・PRを確認する�
 Oracle Database では、Select AI、RAG、AI Vector Search、AI Agent など...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6e1719b24f56d4166d2e</id>
+    <title>彼女の誕生日に、2人だけのSNS「Sync」を作った話</title>
+    <link rel="alternate" href="https://qiita.com/dayaa/items/6e1719b24f56d4166d2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-16T20:36:36+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dayaa&quot;&gt;dayaa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-16T20:35:44+09:00&lt;br/&gt;Updated: 2026-08-16T20:36:36+09:00&lt;br/&gt;これは、彼女の誕生日プレゼントとして作った、二人専用SNS「Sync」の開発記録です。
+完成した機能だけでなく、本番環境でログインできなくなった失敗や、写真表示を約96%軽量化した改善までまとめます。
+ 
+
+はじめに
+彼女の誕生日に、何か形に残るものを贈りたかった。
+写...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d09be87764a66c9077f0</id>
     <title>コードレビューで身についた技術と、メンタルを守るための習慣</title>
     <link rel="alternate" href="https://qiita.com/NekoByte/items/d09be87764a66c9077f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2133,19 +2146,6 @@ settings.json の p...</summary>
 小生、未経験から開発職について早一年。
 今やどんなソースもガリレオのように解読し、もう八面六臂の大活躍で上司もにんまり。
 なんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないので...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6e1719b24f56d4166d2e</id>
-    <title>彼女の誕生日に、2人だけのSNS「Sync」を作った話</title>
-    <link rel="alternate" href="https://qiita.com/dayaa/items/6e1719b24f56d4166d2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-16T20:36:36+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dayaa&quot;&gt;dayaa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-16T20:35:44+09:00&lt;br/&gt;Updated: 2026-08-16T20:36:36+09:00&lt;br/&gt;これは、彼女の誕生日プレゼントとして作った、二人専用SNS「Sync」の開発記録です。
-完成した機能だけでなく、本番環境でログインできなくなった失敗や、写真表示を約96%軽量化した改善までまとめます。
- 
-
-はじめに
-彼女の誕生日に、何か形に残るものを贈りたかった。
-写...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9a8e6af3d545150c5a08</id>
