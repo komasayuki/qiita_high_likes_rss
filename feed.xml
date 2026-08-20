@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-08-20T14:59:32+09:00</updated>
+  <updated>2026-08-20T17:31:50+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -162,20 +162,6 @@ WBS（作業分解構成図）をスプレッドシートで管理している�
 セル結合と色分けが増えて、作った人以外が触れなくなる
 差分が追えないので、「先週から何が増えたのか」が分からない
 AIに渡そうとすると、まずCSVに書き出すところから始まる...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:52dc298122587969b39c</id>
-    <title>ダッシュボードを作ったのに誰も見てくれないので、オントロジーについて考えてみた</title>
-    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/52dc298122587969b39c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-18T10:24:07+09:00</updated>
-    <summary type="html">Likes: 129&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T10:24:07+09:00&lt;br/&gt;Updated: 2026-06-18T10:24:07+09:00&lt;br/&gt;はじめに
-ダッシュボードを作った。
-毎日見てもらうために、メールやSlackで日次配信もするようにした。
-...だけど、誰も見てくれていない。
-バラバラだったデータをまとめて、せっかくダッシュボードで見やすくしたのに。
-この数ヶ月はなんだったんだ。
-
-似たような経験をした...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4928640d01c78480962b</id>
@@ -498,6 +484,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 最近のコーデ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fe4b1810f45e4b6df166</id>
+    <title>新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）</title>
+    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-20T14:59:32+09:00</updated>
+    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T23:48:07+09:00&lt;br/&gt;Updated: 2026-08-20T14:59:32+09:00&lt;br/&gt;はじめに
+いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
+去年、新人にAIを一時的に禁止した話を書きました。1週間で1,000行持ってきたのに「なぜこう書いたか」が「AIがそう言ったので」で、コメント800件を超えても理解が進まず、一旦止めて...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b859f1578191a1e15808</id>
     <title>Claude Code を4ヶ月使ってわかった、おすすめコマンド・スキル 10 選</title>
     <link rel="alternate" href="https://qiita.com/wataru86/items/b859f1578191a1e15808?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -598,15 +593,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 Claude Code を導入したチームの中で「期待通りのコードが出る」チームと「毎回手直しが必要」なチームの差を調べると、CLAUDE.md の...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:fe4b1810f45e4b6df166</id>
-    <title>新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）</title>
-    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-20T14:59:32+09:00</updated>
-    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T23:48:07+09:00&lt;br/&gt;Updated: 2026-08-20T14:59:32+09:00&lt;br/&gt;はじめに
-いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
-去年、新人にAIを一時的に禁止した話を書きました。1週間で1,000行持ってきたのに「なぜこう書いたか」が「AIがそう言ったので」で、コメント800件を超えても理解が進まず、一旦止めて...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:d8c22cb512d9ba036154</id>
     <title>AI時代のポートフォリオ、転職で本当に見られているのは「言語化力」</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/d8c22cb512d9ba036154?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -665,18 +651,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 プロジェクトでメンバーが詰まったとき、「手順書を追加する」「手順書を詳しくする」という対応が行われることがあります。
 もちろん手順不足が原因の場合もあります。
 しかし、実際には知識不足が原因で詰まっているにもか...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c69fab7dfb1d48ba8b31</id>
-    <title>「そのコード、勝手に使って大丈夫？」IT初心者が最初に知るべき“著作権”の話</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/c69fab7dfb1d48ba8b31?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-18T13:47:17+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T13:47:16+09:00&lt;br/&gt;Updated: 2026-06-18T13:47:17+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
-仕事で起きやすい“ズレ”について整理して発信しています。
-誰かの助けになれば幸いです。
-
-「そのコード、勝手に使って大丈夫？」IT初心者が最初...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ff38655fed51a2920910</id>
@@ -1384,8 +1358,8 @@ Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン
     <id>tag:qiita.com,2026:ced6a0aa744379d338b6</id>
     <title>AIセキュリティ何から勉強すりゃええの？</title>
     <link rel="alternate" href="https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-19T00:03:47+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mikihitooooo&quot;&gt;mikihitooooo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T00:03:47+09:00&lt;br/&gt;Updated: 2026-08-19T00:03:47+09:00&lt;br/&gt;AIセキュリティ何から勉強すりゃええの？
+    <updated>2026-08-20T17:31:50+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mikihitooooo&quot;&gt;mikihitooooo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T00:03:47+09:00&lt;br/&gt;Updated: 2026-08-20T17:31:50+09:00&lt;br/&gt;AIセキュリティ何から勉強すりゃええの？
 
 目次
 
@@ -1659,6 +1633,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 FOMO ── Fear of Missi...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e60cb25d3b10d7a2f316</id>
+    <title>AWSでYouTube的サービスを検証してたら、電気通信事業法と著作権法の壁にぶつかった話</title>
+    <link rel="alternate" href="https://qiita.com/yama3133/items/e60cb25d3b10d7a2f316?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-18T14:09:09+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yama3133&quot;&gt;yama3133&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T13:10:47+09:00&lt;br/&gt;Updated: 2026-08-18T14:09:09+09:00&lt;br/&gt;今、AWS環境でYouTube的な動画配信サービスがどこまで作れるかを検証している。
+動画のアップロード、トランスコード、配信基盤あたりはEC2やS3、CloudFrontを組み合わせれば技術的には普通に動く。
+ところがコメント欄やユーザー間のDM機能を足そうとしたところで...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:438336db3684cf662321</id>
     <title>Claude Code「/config」設定の教科書 ― 全42項目を1つずつ解説＋おすすめ設定（v2.1.220対応）</title>
     <link rel="alternate" href="https://qiita.com/f_uto/items/438336db3684cf662321?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1681,15 +1664,6 @@ FOMO ── Fear of Missi...</summary>
     <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t-kurasawa&quot;&gt;t-kurasawa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-21T20:45:13+09:00&lt;br/&gt;Updated: 2026-07-21T20:45:14+09:00&lt;br/&gt;はじめに
 2026年7月、shadcn/ui の公式チェンジログに「Base UI as the Default」という一文が追加されました。新規プロジェクトを作成すると、これまでの Radix UI ではなく Base UI が標準の基盤になる、という内容です。
 「sh...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e60cb25d3b10d7a2f316</id>
-    <title>AWSでYouTube的サービスを検証してたら、電気通信事業法と著作権法の壁にぶつかった話</title>
-    <link rel="alternate" href="https://qiita.com/yama3133/items/e60cb25d3b10d7a2f316?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-18T14:09:09+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yama3133&quot;&gt;yama3133&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T13:10:47+09:00&lt;br/&gt;Updated: 2026-08-18T14:09:09+09:00&lt;br/&gt;今、AWS環境でYouTube的な動画配信サービスがどこまで作れるかを検証している。
-動画のアップロード、トランスコード、配信基盤あたりはEC2やS3、CloudFrontを組み合わせれば技術的には普通に動く。
-ところがコメント欄やユーザー間のDM機能を足そうとしたところで...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:33e9a09af8ea5bdeebeb</id>
@@ -1995,6 +1969,15 @@ CopilotやAI Agentの出力がリポジトリの暗黙知とズレることに�
 README、設計...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1668e67b8d3cf43c4e0a</id>
+    <title>【雑記】自分のClaude Code運用の全体像</title>
+    <link rel="alternate" href="https://qiita.com/ryu-ki/items/1668e67b8d3cf43c4e0a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-17T22:43:18+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-08-17T20:53:22+09:00&lt;br/&gt;Updated: 2026-08-17T22:43:18+09:00&lt;br/&gt;はじめに
+先日、Claude Code のセッションをスマホから触る方法（Remote Control など）を調べる機会がありました。調べながらふと、自分の Claude Code の使い方を振り返りたくなりました。
+そこでこの記事では、現時点の自分の Claude C...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cb785917d2661858f7b7</id>
     <title>プロンプトの次は何を学べばいい？ AIとの付き合い方を4段階で整理する</title>
     <link rel="alternate" href="https://qiita.com/jqit_suwa/items/cb785917d2661858f7b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2092,13 +2075,13 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 たとえば、Volatility3（メモリの中身を解析するツー...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:1668e67b8d3cf43c4e0a</id>
-    <title>【雑記】自分のClaude Code運用の全体像</title>
-    <link rel="alternate" href="https://qiita.com/ryu-ki/items/1668e67b8d3cf43c4e0a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-17T22:43:18+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-08-17T20:53:22+09:00&lt;br/&gt;Updated: 2026-08-17T22:43:18+09:00&lt;br/&gt;はじめに
-先日、Claude Code のセッションをスマホから触る方法（Remote Control など）を調べる機会がありました。調べながらふと、自分の Claude Code の使い方を振り返りたくなりました。
-そこでこの記事では、現時点の自分の Claude C...</summary>
+    <id>tag:qiita.com,2026:acb61138c4550eef4803</id>
+    <title>14MBのAIモデルは本当に動いた — DLL 1個・RAM 37MB・1回0.5秒、ただし日本語は0/5</title>
+    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/acb61138c4550eef4803?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-20T08:10:56+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T14:03:10+09:00&lt;br/&gt;Updated: 2026-08-20T08:10:56+09:00&lt;br/&gt;GitHub Trending に「14MB のモデル」が来ていました。
+Cactus Compute の Needle 2 です。45M パラメータで、ツール呼び出しに特化しています。週で +3,627 スター伸びていました。
+14MB というのは、画像1枚くらいのサイズ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:48d124a11623b4f9e7c6</id>
@@ -2213,5 +2196,16 @@ C# で出来ること一覧 2026年版（.NET 10） という記事を読んで�
 さらに、チームで使い始めると別の不安も出てきます。
 
 このエージェント、社...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9cf96baae4b01bbeb6d6</id>
+    <title>非エンジニアが気楽に始める仕様駆動開発</title>
+    <link rel="alternate" href="https://qiita.com/ynmc0214/items/9cf96baae4b01bbeb6d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-25T15:31:37+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ynmc0214&quot;&gt;ynmc0214&lt;/a&gt;&lt;br/&gt;Published: 2026-07-25T15:31:37+09:00&lt;br/&gt;Updated: 2026-07-25T15:31:37+09:00&lt;br/&gt;この記事はAIと壁打ちしながら人間が書きました。
+
+流行りの仕様駆動開発、とっつきづらく感じませんか？
+サービスデザイナーという肩書きで仕事している非エンジニアの僕には、正直ちょっと難しいと感じてました。
+理解を深めるために個人で仕様駆動開発にトライしてみたのですが、...</summary>
   </entry>
 </feed>
