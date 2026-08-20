@@ -848,6 +848,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ※資料リンクが不足しているところは...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fe4b1810f45e4b6df166</id>
+    <title>新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）</title>
+    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-19T23:49:58+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T23:48:07+09:00&lt;br/&gt;Updated: 2026-08-19T23:49:58+09:00&lt;br/&gt;はじめに
+いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
+去年、新人にAIを一時的に禁止した話を書きました。1週間で1,000行持ってきたのに「なぜこう書いたか」が「AIがそう言ったので」で、コメント800件を超えても理解が進まず、一旦止めて...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b431a74f1cde18d45ad3</id>
     <title># Railsで学ぶ データ構造入門 〜配列・ハッシュ・木・グラフは実は毎日使っている〜</title>
     <link rel="alternate" href="https://qiita.com/akachiryo/items/b431a74f1cde18d45ad3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -928,15 +937,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 前回はメモリ管理の基本を書きましたが、今回はその続きで メモリリーク と 断片化（フラグメンテーション） についてまとめてみました 
 前回ふれた「OOM（メモリ枯渇でプロセスが落ちる）」の 原因編 にあたる話です。
 興味ある方は読んでいただけると嬉しいです ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fe4b1810f45e4b6df166</id>
-    <title>新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）</title>
-    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-19T23:49:58+09:00</updated>
-    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T23:48:07+09:00&lt;br/&gt;Updated: 2026-08-19T23:49:58+09:00&lt;br/&gt;はじめに
-いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
-去年、新人にAIを一時的に禁止した話を書きました。1週間で1,000行持ってきたのに「なぜこう書いたか」が「AIがそう言ったので」で、コメント800件を超えても理解が進まず、一旦止めて...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:dab9765ffd6aae8f0c07</id>
@@ -1862,6 +1862,15 @@ Claude Codeはコードを書く・直す・テストする・PRを確認する�
 Oracle Database では、Select AI、RAG、AI Vector Search、AI Agent など...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e60cb25d3b10d7a2f316</id>
+    <title>AWSでYouTube的サービスを検証してたら、電気通信事業法と著作権法の壁にぶつかった話</title>
+    <link rel="alternate" href="https://qiita.com/yama3133/items/e60cb25d3b10d7a2f316?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-18T14:09:09+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yama3133&quot;&gt;yama3133&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T13:10:47+09:00&lt;br/&gt;Updated: 2026-08-18T14:09:09+09:00&lt;br/&gt;今、AWS環境でYouTube的な動画配信サービスがどこまで作れるかを検証している。
+動画のアップロード、トランスコード、配信基盤あたりはEC2やS3、CloudFrontを組み合わせれば技術的には普通に動く。
+ところがコメント欄やユーザー間のDM機能を足そうとしたところで...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d09be87764a66c9077f0</id>
     <title>コードレビューで身についた技術と、メンタルを守るための習慣</title>
     <link rel="alternate" href="https://qiita.com/NekoByte/items/d09be87764a66c9077f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1984,15 +1993,6 @@ AIエージェントのコーディング環境として、Docker Sandboxesを�
 GitHub Copilotに毎回プロジェクト前提を説明している開発者
 CopilotやAI Agentの出力がリポジトリの暗黙知とズレることに困っている人
 README、設計...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e60cb25d3b10d7a2f316</id>
-    <title>AWSでYouTube的サービスを検証してたら、電気通信事業法と著作権法の壁にぶつかった話</title>
-    <link rel="alternate" href="https://qiita.com/yama3133/items/e60cb25d3b10d7a2f316?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-18T14:09:09+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yama3133&quot;&gt;yama3133&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T13:10:47+09:00&lt;br/&gt;Updated: 2026-08-18T14:09:09+09:00&lt;br/&gt;今、AWS環境でYouTube的な動画配信サービスがどこまで作れるかを検証している。
-動画のアップロード、トランスコード、配信基盤あたりはEC2やS3、CloudFrontを組み合わせれば技術的には普通に動く。
-ところがコメント欄やユーザー間のDM機能を足そうとしたところで...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cb785917d2661858f7b7</id>
