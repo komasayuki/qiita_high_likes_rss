@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-08-21T16:48:56+09:00</updated>
+  <updated>2026-08-21T16:53:30+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -138,7 +138,7 @@ Web API設計を調べると、検索上位に出てくる記事が2015〜2019�
     <title>新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）</title>
     <link rel="alternate" href="https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-20T14:59:32+09:00</updated>
-    <summary type="html">Likes: 148&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T23:48:07+09:00&lt;br/&gt;Updated: 2026-08-20T14:59:32+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 151&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T23:48:07+09:00&lt;br/&gt;Updated: 2026-08-20T14:59:32+09:00&lt;br/&gt;はじめに
 いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
 去年、新人にAIを一時的に禁止した話を書きました。1週間で1,000行持ってきたのに「なぜこう書いたか」が「AIがそう言ったので」で、コメント800件を超えても理解が進まず、一旦止めて...</summary>
   </entry>
@@ -1951,6 +1951,31 @@ CopilotやAI Agentの出力がリポジトリの暗黙知とズレることに�
 README、設計...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:eed2707e22d8ba940871</id>
+    <title>真似で伸びる人は、コードではなく判断基準を写し取っている</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/eed2707e22d8ba940871?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-21T16:48:56+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-21T16:48:56+09:00&lt;br/&gt;Updated: 2026-08-21T16:48:56+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+尊敬する...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:28cca0328bf1cfb4e602</id>
+    <title>「大丈夫です」と言った日に限って、全然大丈夫じゃなかった話</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/28cca0328bf1cfb4e602?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-21T16:47:29+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-21T16:47:29+09:00&lt;br/&gt;Updated: 2026-08-21T16:47:29+09:00&lt;br/&gt;はじめに
+
+先輩に「大丈夫?」と聞かれるたびに反射で「大丈夫です」と言ってしまっていたぷらむんが気づいたのは、これは強がりじゃなくて、ただの癖だったということでした。
+
+会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
+先輩に「大丈夫...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:acb61138c4550eef4803</id>
     <title>14MBのAIモデルは本当に動いた — DLL 1個・RAM 37MB・1回0.5秒、ただし日本語は0/5</title>
     <link rel="alternate" href="https://qiita.com/jqit_suwa/items/acb61138c4550eef4803?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2066,6 +2091,16 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 たとえば、Volatility3（メモリの中身を解析するツー...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0fd31bb4dfac9adfba95</id>
+    <title>「文系だし、別の仕事してきたから無理…」って思ってない？未経験からITを目指す人に伝えたい本当の話</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/0fd31bb4dfac9adfba95?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-21T16:53:30+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-21T16:53:30+09:00&lt;br/&gt;Updated: 2026-08-21T16:53:30+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:48d124a11623b4f9e7c6</id>
     <title>【コピペOK】CSSで作るモダンなUIアニメーション集</title>
     <link rel="alternate" href="https://qiita.com/nt_y-maeda112/items/48d124a11623b4f9e7c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2156,31 +2191,6 @@ settings.json の p...</summary>
 なんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないので...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:eed2707e22d8ba940871</id>
-    <title>真似で伸びる人は、コードではなく判断基準を写し取っている</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/eed2707e22d8ba940871?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-21T16:48:56+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-21T16:48:56+09:00&lt;br/&gt;Updated: 2026-08-21T16:48:56+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-尊敬する...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:28cca0328bf1cfb4e602</id>
-    <title>「大丈夫です」と言った日に限って、全然大丈夫じゃなかった話</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/28cca0328bf1cfb4e602?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-21T16:47:29+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-21T16:47:29+09:00&lt;br/&gt;Updated: 2026-08-21T16:47:29+09:00&lt;br/&gt;はじめに
-
-先輩に「大丈夫?」と聞かれるたびに反射で「大丈夫です」と言ってしまっていたぷらむんが気づいたのは、これは強がりじゃなくて、ただの癖だったということでした。
-
-会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
-先輩に「大丈夫...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:9a8e6af3d545150c5a08</id>
     <title>VisualStudio無しで.NET Framework→.NET 10移行を試したら、ツールそのものが世代交代していた話</title>
     <link rel="alternate" href="https://qiita.com/inuta-one/items/9a8e6af3d545150c5a08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2188,20 +2198,5 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inuta-one&quot;&gt;inuta-one&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T09:24:08+09:00&lt;br/&gt;Updated: 2026-08-11T17:15:03+09:00&lt;br/&gt;はじめに
 C# で出来ること一覧 2026年版（.NET 10） という記事を読んで、後半で紹介されていた「.NET Frameworkから.NETへの移行」を実際に手を動かして試してみることにしました。
 自分は過去にVB6→C#移行の案件に関わったこともあり、この手の移...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ec8cd4dd183e12ac5781</id>
-    <title>鍵を渡さず・文脈を可視化する — マルチエージェント管理デスクトップアプリ「moeca」を個人開発している話</title>
-    <link rel="alternate" href="https://qiita.com/can-can/items/ec8cd4dd183e12ac5781?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-07T15:29:31+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/can-can&quot;&gt;can-can&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T15:29:29+09:00&lt;br/&gt;Updated: 2026-08-07T15:29:31+09:00&lt;br/&gt;「AI で業務効率化」が当たり前になった一方で、こんな経験はないでしょうか。
-
-思ったような出力をしてくれない…
-出力に、いらないデータが混ざっている…
-事実と異なる結果を、それっぽく返してくる…
-
-さらに、チームで使い始めると別の不安も出てきます。
-
-このエージェント、社...</summary>
   </entry>
 </feed>
