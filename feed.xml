@@ -156,7 +156,7 @@ Gitは開発現場では欠かせないツールですが、「最近Gitって�
     <title>新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）</title>
     <link rel="alternate" href="https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-20T14:59:32+09:00</updated>
-    <summary type="html">Likes: 139&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T23:48:07+09:00&lt;br/&gt;Updated: 2026-08-20T14:59:32+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 141&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T23:48:07+09:00&lt;br/&gt;Updated: 2026-08-20T14:59:32+09:00&lt;br/&gt;はじめに
 いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
 去年、新人にAIを一時的に禁止した話を書きました。1週間で1,000行持ってきたのに「なぜこう書いたか」が「AIがそう言ったので」で、コメント800件を超えても理解が進まず、一旦止めて...</summary>
   </entry>
@@ -481,6 +481,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 最近のコーデ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e60cb25d3b10d7a2f316</id>
+    <title>AWSでYouTube的サービスを検証してたら、電気通信事業法と著作権法の壁にぶつかった話</title>
+    <link rel="alternate" href="https://qiita.com/yama3133/items/e60cb25d3b10d7a2f316?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-18T14:09:09+09:00</updated>
+    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yama3133&quot;&gt;yama3133&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T13:10:47+09:00&lt;br/&gt;Updated: 2026-08-18T14:09:09+09:00&lt;br/&gt;今、AWS環境でYouTube的な動画配信サービスがどこまで作れるかを検証している。
+動画のアップロード、トランスコード、配信基盤あたりはEC2やS3、CloudFrontを組み合わせれば技術的には普通に動く。
+ところがコメント欄やユーザー間のDM機能を足そうとしたところで...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b859f1578191a1e15808</id>
     <title>Claude Code を4ヶ月使ってわかった、おすすめコマンド・スキル 10 選</title>
     <link rel="alternate" href="https://qiita.com/wataru86/items/b859f1578191a1e15808?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -490,15 +499,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 
 あれから4ヶ月以上使い込んで、ようやく使いこなせるようになってきた実感があります。
 使っていて思うのは、コードを書いたりツールや MCP を呼び出したり、いろんな作業を Claude にやらせている一方で、Claude Cod...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e60cb25d3b10d7a2f316</id>
-    <title>AWSでYouTube的サービスを検証してたら、電気通信事業法と著作権法の壁にぶつかった話</title>
-    <link rel="alternate" href="https://qiita.com/yama3133/items/e60cb25d3b10d7a2f316?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-18T14:09:09+09:00</updated>
-    <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yama3133&quot;&gt;yama3133&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T13:10:47+09:00&lt;br/&gt;Updated: 2026-08-18T14:09:09+09:00&lt;br/&gt;今、AWS環境でYouTube的な動画配信サービスがどこまで作れるかを検証している。
-動画のアップロード、トランスコード、配信基盤あたりはEC2やS3、CloudFrontを組み合わせれば技術的には普通に動く。
-ところがコメント欄やユーザー間のDM機能を足そうとしたところで...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:11358e8e8966d5e48a09</id>
@@ -828,20 +828,11 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ※資料リンクが不足しているところは...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b431a74f1cde18d45ad3</id>
-    <title># Railsで学ぶ データ構造入門 〜配列・ハッシュ・木・グラフは実は毎日使っている〜</title>
-    <link rel="alternate" href="https://qiita.com/akachiryo/items/b431a74f1cde18d45ad3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-15T14:11:17+09:00</updated>
-    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T14:11:17+09:00&lt;br/&gt;Updated: 2026-07-15T14:11:17+09:00&lt;br/&gt;お疲れ様です！ 
-前回は「暗号化とハッシュ」を扱いました。今回は少し戻って、コンピュータサイエンスの土台 データ構造 の総まとめです。
-というのも、これまでの「DFS / BFS」「計算量（Big-O）」「DBインデックス」——実はこの3記事、全部 データ構造 の話をしてい...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:ced6a0aa744379d338b6</id>
     <title>AIセキュリティ何から勉強すりゃええの？</title>
     <link rel="alternate" href="https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-20T17:31:50+09:00</updated>
-    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mikihitooooo&quot;&gt;mikihitooooo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T00:03:47+09:00&lt;br/&gt;Updated: 2026-08-20T17:31:50+09:00&lt;br/&gt;AIセキュリティ何から勉強すりゃええの？
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mikihitooooo&quot;&gt;mikihitooooo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T00:03:47+09:00&lt;br/&gt;Updated: 2026-08-20T17:31:50+09:00&lt;br/&gt;AIセキュリティ何から勉強すりゃええの？
 
 目次
 
@@ -860,6 +851,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 
 はじめに
 「...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b431a74f1cde18d45ad3</id>
+    <title># Railsで学ぶ データ構造入門 〜配列・ハッシュ・木・グラフは実は毎日使っている〜</title>
+    <link rel="alternate" href="https://qiita.com/akachiryo/items/b431a74f1cde18d45ad3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-15T14:11:17+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T14:11:17+09:00&lt;br/&gt;Updated: 2026-07-15T14:11:17+09:00&lt;br/&gt;お疲れ様です！ 
+前回は「暗号化とハッシュ」を扱いました。今回は少し戻って、コンピュータサイエンスの土台 データ構造 の総まとめです。
+というのも、これまでの「DFS / BFS」「計算量（Big-O）」「DBインデックス」——実はこの3記事、全部 データ構造 の話をしてい...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:224f55bc85b813930f61</id>
@@ -1671,16 +1671,6 @@ Geminiでこんなプロンプトを入力すると...</summary>
 さて、読者のほとんどの方が Claude Code や Codex を使って開発をしていると思いますが、皆さんは「AIエージェントがシェルコマンドやネットワークアクセ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:2f57fda20f559b2e54ae</id>
-    <title>「なぜ評価されないんだろ…」と悩むそこの君へ。優秀なエンジニアに共通する考え方。</title>
-    <link rel="alternate" href="https://qiita.com/issey_dotlog/items/2f57fda20f559b2e54ae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-19T15:07:30+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/issey_dotlog&quot;&gt;issey_dotlog&lt;/a&gt;&lt;br/&gt;Published: 2026-06-19T10:54:41+09:00&lt;br/&gt;Updated: 2026-06-19T15:07:30+09:00&lt;br/&gt;はじめに
-クライアントとの打ち合わせ、ビジネスサイドとのやり取り、チーム内の連携。
-エンジニアとして働いていると、コードを書く以外の場面で「なんかうまくいかないな、、」と感じることがあるんじゃないでしょうか。
-何を聞かれるか分からない。うまく説明できるか不安。認識がずれて...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:e77bf4b40b227cb49dec</id>
     <title>複雑なタスクほど、実は知っている基礎の組み合わせだったりする</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/e77bf4b40b227cb49dec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2204,5 +2194,15 @@ C# で出来ること一覧 2026年版（.NET 10） という記事を読んで�
 流行りの仕様駆動開発、とっつきづらく感じませんか？
 サービスデザイナーという肩書きで仕事している非エンジニアの僕には、正直ちょっと難しいと感じてました。
 理解を深めるために個人で仕様駆動開発にトライしてみたのですが、...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ce4cb4290e4e711fdc98</id>
+    <title>最近のDynamoDB設計事情：single-table偏重の見直しとGSIマルチ属性キー</title>
+    <link rel="alternate" href="https://qiita.com/Suemura/items/ce4cb4290e4e711fdc98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-10T09:58:58+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Suemura&quot;&gt;Suemura&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T09:58:58+09:00&lt;br/&gt;Updated: 2026-07-10T09:58:58+09:00&lt;br/&gt;はじめに
+DynamoDBには長らく「できるだけ1つのテーブルにまとめろ（single-table design）」という強いベストプラクティスがありました。
+しかしここ最近、現場では「本当にそうか？」という揺り戻しが起きています。
+さらに昨年末（2025年11月）、AW...</summary>
   </entry>
 </feed>
