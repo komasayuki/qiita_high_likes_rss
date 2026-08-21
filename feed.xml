@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-08-20T17:31:50+09:00</updated>
+  <updated>2026-08-21T16:48:56+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -138,7 +138,7 @@ Web API設計を調べると、検索上位に出てくる記事が2015〜2019�
     <title>新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）</title>
     <link rel="alternate" href="https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-20T14:59:32+09:00</updated>
-    <summary type="html">Likes: 147&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T23:48:07+09:00&lt;br/&gt;Updated: 2026-08-20T14:59:32+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 148&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T23:48:07+09:00&lt;br/&gt;Updated: 2026-08-20T14:59:32+09:00&lt;br/&gt;はじめに
 いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
 去年、新人にAIを一時的に禁止した話を書きました。1週間で1,000行持ってきたのに「なぜこう書いたか」が「AIがそう言ったので」で、コメント800件を超えても理解が進まず、一旦止めて...</summary>
   </entry>
@@ -724,22 +724,11 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 入社してからずっと先輩に「これいつ終...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:90db7bf21b6546fce911</id>
-    <title>Railsで学ぶ計算量（Big-O）入門 〜「なんとなく速い／遅い」を言葉にする〜</title>
-    <link rel="alternate" href="https://qiita.com/akachiryo/items/90db7bf21b6546fce911?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-23T15:08:19+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-06-23T15:08:19+09:00&lt;br/&gt;Updated: 2026-06-23T15:08:19+09:00&lt;br/&gt;計算量（Big-O）入門 〜「なんとなく速い／遅い」を言葉にする〜
-お疲れ様です！
-前回はメモリ管理の話を書きましたが、今回はその続きで 計算量（Big-O記法） についてまとめてみました 
-「このコード、データが増えたら大丈夫？」をパッと判断するための話です。
-興味ある...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:ced6a0aa744379d338b6</id>
     <title>AIセキュリティ何から勉強すりゃええの？</title>
     <link rel="alternate" href="https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-20T17:31:50+09:00</updated>
-    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mikihitooooo&quot;&gt;mikihitooooo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T00:03:47+09:00&lt;br/&gt;Updated: 2026-08-20T17:31:50+09:00&lt;br/&gt;AIセキュリティ何から勉強すりゃええの？
+    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mikihitooooo&quot;&gt;mikihitooooo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T00:03:47+09:00&lt;br/&gt;Updated: 2026-08-20T17:31:50+09:00&lt;br/&gt;AIセキュリティ何から勉強すりゃええの？
 
 目次
 
@@ -753,6 +742,17 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 はじめに
 「AI活用で業務効率化！」「AI駆動開発で爆速コーディング！」
 最近SNSでも社内でもそんな話ばかりで正直少しお腹い...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:90db7bf21b6546fce911</id>
+    <title>Railsで学ぶ計算量（Big-O）入門 〜「なんとなく速い／遅い」を言葉にする〜</title>
+    <link rel="alternate" href="https://qiita.com/akachiryo/items/90db7bf21b6546fce911?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-23T15:08:19+09:00</updated>
+    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-06-23T15:08:19+09:00&lt;br/&gt;Updated: 2026-06-23T15:08:19+09:00&lt;br/&gt;計算量（Big-O）入門 〜「なんとなく速い／遅い」を言葉にする〜
+お疲れ様です！
+前回はメモリ管理の話を書きましたが、今回はその続きで 計算量（Big-O記法） についてまとめてみました 
+「このコード、データが増えたら大丈夫？」をパッと判断するための話です。
+興味ある...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2aff0b2b40b9d0bfda91</id>
@@ -1415,6 +1415,17 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 執筆時点で...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8f439ca399b08a925cba</id>
+    <title>基本情報｜科目B「アルゴリズム問題」、パズルが好きな人はたぶん好き</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/8f439ca399b08a925cba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-20T15:40:25+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-20T15:40:25+09:00&lt;br/&gt;Updated: 2026-08-20T15:40:25+09:00&lt;br/&gt;はじめに
+
+基本情報の必須出題範囲「疑似言語（アルゴリズム問題）」という響きを聞いただけで身構えていたぷらむんですが、実は科目Bで覚えるべきルールは拍子抜けするくらいシンプルでした。
+
+こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:775bba713c91a571e462</id>
     <title>プロゲーマーから未経験エンジニアになって、上達の仕方は同じだと気づいた</title>
     <link rel="alternate" href="https://qiita.com/blueflame-lab/items/775bba713c91a571e462?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1530,17 +1541,6 @@ OpenAIによるChatGPTの公開から、早くも3年以上の月日が経ちま
 眺...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:8f439ca399b08a925cba</id>
-    <title>基本情報｜科目B「アルゴリズム問題」、パズルが好きな人はたぶん好き</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/8f439ca399b08a925cba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-20T15:40:25+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-20T15:40:25+09:00&lt;br/&gt;Updated: 2026-08-20T15:40:25+09:00&lt;br/&gt;はじめに
-
-基本情報の必須出題範囲「疑似言語（アルゴリズム問題）」という響きを聞いただけで身構えていたぷらむんですが、実は科目Bで覚えるべきルールは拍子抜けするくらいシンプルでした。
-
-こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:565588e1b1dc66012b79</id>
     <title>オントロジーについて</title>
     <link rel="alternate" href="https://qiita.com/kurogoma939/items/565588e1b1dc66012b79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1611,6 +1611,19 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 FOMO ── Fear of Missi...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:195c278d026657c6618f</id>
+    <title>AIも人も、ただ褒めるだけでは変わらない。大事なのは&quot;時間を惜しまない一言&quot;</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/195c278d026657c6618f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-20T15:40:50+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-20T15:40:50+09:00&lt;br/&gt;Updated: 2026-08-20T15:40:50+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+褒め言葉よ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:438336db3684cf662321</id>
     <title>Claude Code「/config」設定の教科書 ― 全42項目を1つずつ解説＋おすすめ設定（v2.1.220対応）</title>
     <link rel="alternate" href="https://qiita.com/f_uto/items/438336db3684cf662321?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1635,19 +1648,6 @@ FOMO ── Fear of Missi...</summary>
 「sh...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:195c278d026657c6618f</id>
-    <title>AIも人も、ただ褒めるだけでは変わらない。大事なのは&quot;時間を惜しまない一言&quot;</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/195c278d026657c6618f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-20T15:40:50+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-20T15:40:50+09:00&lt;br/&gt;Updated: 2026-08-20T15:40:50+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-褒め言葉よ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:33e9a09af8ea5bdeebeb</id>
     <title>オーダーメイドで九九の計算プリントを作ろう（ローテクAI）</title>
     <link rel="alternate" href="https://qiita.com/Kaitou/items/33e9a09af8ea5bdeebeb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1664,6 +1664,16 @@ Geminiでこんなプロンプトを入力すると...</summary>
     <updated>2026-07-10T12:34:58+09:00</updated>
     <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Koukyosyumei&quot;&gt;Koukyosyumei&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T12:34:58+09:00&lt;br/&gt;Updated: 2026-07-10T12:34:58+09:00&lt;br/&gt;こんにちは！コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。
 さて、読者のほとんどの方が Claude Code や Codex を使って開発をしていると思いますが、皆さんは「AIエージェントがシェルコマンドやネットワークアクセ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:edc03c11a477f5ecbfc2</id>
+    <title>IT企業の面接、私服で本当に大丈夫？採用担当が考える「清潔感」のライン</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/edc03c11a477f5ecbfc2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-20T15:46:11+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-20T15:46:11+09:00&lt;br/&gt;Updated: 2026-08-20T15:46:11+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e77bf4b40b227cb49dec</id>
@@ -1743,16 +1753,6 @@ DB設計の勉強のために、以下の2冊を読みました。
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ntaka329&quot;&gt;ntaka329&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T12:02:25+09:00&lt;br/&gt;Updated: 2026-06-24T12:02:25+09:00&lt;br/&gt;はじめに
 GMOコネクトの永田です。
 提案や要件整理の場で、AWSの構成図を描くことが度々あります。ただ、都度ていねいに手で描くと時間がかかります。それなら構成案から自動で生成できればと思い、既存のAWS公式スキルなども試しました。ところが出てくるのは細部まで描き込んだ実...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:edc03c11a477f5ecbfc2</id>
-    <title>IT企業の面接、私服で本当に大丈夫？採用担当が考える「清潔感」のライン</title>
-    <link rel="alternate" href="https://qiita.com/m__ikeda/items/edc03c11a477f5ecbfc2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-20T15:46:11+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-20T15:46:11+09:00&lt;br/&gt;Updated: 2026-08-20T15:46:11+09:00&lt;br/&gt;自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7a8bf8214f6d4f70de17</id>
@@ -2156,6 +2156,31 @@ settings.json の p...</summary>
 なんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないので...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:eed2707e22d8ba940871</id>
+    <title>真似で伸びる人は、コードではなく判断基準を写し取っている</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/eed2707e22d8ba940871?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-21T16:48:56+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-21T16:48:56+09:00&lt;br/&gt;Updated: 2026-08-21T16:48:56+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+尊敬する...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:28cca0328bf1cfb4e602</id>
+    <title>「大丈夫です」と言った日に限って、全然大丈夫じゃなかった話</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/28cca0328bf1cfb4e602?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-21T16:47:29+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-21T16:47:29+09:00&lt;br/&gt;Updated: 2026-08-21T16:47:29+09:00&lt;br/&gt;はじめに
+
+先輩に「大丈夫?」と聞かれるたびに反射で「大丈夫です」と言ってしまっていたぷらむんが気づいたのは、これは強がりじゃなくて、ただの癖だったということでした。
+
+会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
+先輩に「大丈夫...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9a8e6af3d545150c5a08</id>
     <title>VisualStudio無しで.NET Framework→.NET 10移行を試したら、ツールそのものが世代交代していた話</title>
     <link rel="alternate" href="https://qiita.com/inuta-one/items/9a8e6af3d545150c5a08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2178,26 +2203,5 @@ C# で出来ること一覧 2026年版（.NET 10） という記事を読んで�
 さらに、チームで使い始めると別の不安も出てきます。
 
 このエージェント、社...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9cf96baae4b01bbeb6d6</id>
-    <title>非エンジニアが気楽に始める仕様駆動開発</title>
-    <link rel="alternate" href="https://qiita.com/ynmc0214/items/9cf96baae4b01bbeb6d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-25T15:31:37+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ynmc0214&quot;&gt;ynmc0214&lt;/a&gt;&lt;br/&gt;Published: 2026-07-25T15:31:37+09:00&lt;br/&gt;Updated: 2026-07-25T15:31:37+09:00&lt;br/&gt;この記事はAIと壁打ちしながら人間が書きました。
-
-流行りの仕様駆動開発、とっつきづらく感じませんか？
-サービスデザイナーという肩書きで仕事している非エンジニアの僕には、正直ちょっと難しいと感じてました。
-理解を深めるために個人で仕様駆動開発にトライしてみたのですが、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ce4cb4290e4e711fdc98</id>
-    <title>最近のDynamoDB設計事情：single-table偏重の見直しとGSIマルチ属性キー</title>
-    <link rel="alternate" href="https://qiita.com/Suemura/items/ce4cb4290e4e711fdc98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-10T09:58:58+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Suemura&quot;&gt;Suemura&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T09:58:58+09:00&lt;br/&gt;Updated: 2026-07-10T09:58:58+09:00&lt;br/&gt;はじめに
-DynamoDBには長らく「できるだけ1つのテーブルにまとめろ（single-table design）」という強いベストプラクティスがありました。
-しかしここ最近、現場では「本当にそうか？」という揺り戻しが起きています。
-さらに昨年末（2025年11月）、AW...</summary>
   </entry>
 </feed>
