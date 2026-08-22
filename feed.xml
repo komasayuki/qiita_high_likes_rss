@@ -1920,13 +1920,6 @@ Claude Code には /code-review、Codex 側には /codex:review と ...</summary
 そう考えている人は多いはずです。私もそうでした。ですが、Dockerでコンテナ化しているなら、その安心は半分しか正しくありません。.env をGitに上げていなくても、CO...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3696bbae80b38bc14a74</id>
-    <title>カーネルの深淵を覗いた男、USBハブを抜いて帰る</title>
-    <link rel="alternate" href="https://qiita.com/wetty_serial/items/3696bbae80b38bc14a74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-20T20:05:36+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wetty_serial&quot;&gt;wetty_serial&lt;/a&gt;&lt;br/&gt;Published: 2026-06-20T17:06:27+09:00&lt;br/&gt;Updated: 2026-06-20T20:05:36+09:00&lt;br/&gt;VRChatで顔トラッキングを使うとCPUの1コアが99%占有されてゲームが14fpsに落ちた。「カーネルレベルの問題だ」と確信して、割り込みアフィニティ、MSI-X、バイナリパッチ、コールドブート、USBポート総入れ替え……Windowsカーネルの深淵を6時間さまよった。...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:99f4567ee75a43481f00</id>
     <title>Markdownのプレビューを見ながら編集できる──VS Code 1.131 新機能を試す</title>
     <link rel="alternate" href="https://qiita.com/ruumalilja/items/99f4567ee75a43481f00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2204,5 +2197,14 @@ settings.json の p...</summary>
 
 はじめに
 Claude Codeのクラウドルーティン（定期実行エージェント）で、平日の7時・12時・17時に「挨拶を返すだけ」の超軽量なジョ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9a8e6af3d545150c5a08</id>
+    <title>VisualStudio無しで.NET Framework→.NET 10移行を試したら、ツールそのものが世代交代していた話</title>
+    <link rel="alternate" href="https://qiita.com/inuta-one/items/9a8e6af3d545150c5a08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-11T17:15:03+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inuta-one&quot;&gt;inuta-one&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T09:24:08+09:00&lt;br/&gt;Updated: 2026-08-11T17:15:03+09:00&lt;br/&gt;はじめに
+C# で出来ること一覧 2026年版（.NET 10） という記事を読んで、後半で紹介されていた「.NET Frameworkから.NETへの移行」を実際に手を動かして試してみることにしました。
+自分は過去にVB6→C#移行の案件に関わったこともあり、この手の移...</summary>
   </entry>
 </feed>
