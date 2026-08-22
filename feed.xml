@@ -121,16 +121,6 @@ Web API設計を調べると、検索上位に出てくる記事が2015〜2019�
 去年、新人にAIを一時的に禁止した話を書きました。1週間で1,000行持ってきたのに「なぜこう書いたか」が「AIがそう言ったので」で、コメント800件を超えても理解が進まず、一旦止めて...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:97ed37e7ba9c38dc75d8</id>
-    <title>入門から実践 -「🔁 ループエンジニアリング」</title>
-    <link rel="alternate" href="https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-21T16:50:14+09:00</updated>
-    <summary type="html">Likes: 165&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-06-20T15:32:57+09:00&lt;br/&gt;Updated: 2026-06-21T16:50:14+09:00&lt;br/&gt;前書き
-最近 X やブログで 「Loop Engineering（ループエンジニアリング）」 という言葉をやたら見るようになりました。
-「もう Claude に指示は出していない、私の仕事はループを書くことだ」 みたいな、ちょっと面白い言い回しで流れてくるアレです
-最初は...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:d06e7479122150ee0ad9</id>
     <title>「言った・言わない」を防ぐ。要件定義で使うべき質問の技術</title>
     <link rel="alternate" href="https://qiita.com/prum_hitomi/items/d06e7479122150ee0ad9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -518,18 +508,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 先輩に「なぜこうしたの？」と聞かれてパニックになった新人エンジニアぷらむんが気づいたのは、&quot;考えていない&quot;んじゃなく&quot;考えを整理していない&quot;だけだったということでした。
 
 会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:735ebfa8504fc658c812</id>
-    <title>【draw.io】エンジニアの「雑なMermaid」を、綺麗な図解に変換する【アップデート版】</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/735ebfa8504fc658c812?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-20T14:34:46+09:00</updated>
-    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-06-20T14:34:06+09:00&lt;br/&gt;Updated: 2026-06-20T14:34:46+09:00&lt;br/&gt;はじめに
-この記事の対象読者はこんな人です。
-
-構成図やフロー図を生成AIに清書させているが、「画像だと後から直せない」と感じている人（前回の記事は未読でも大丈夫です）
-説明するための図を全部AIで作りたい人
-AWSの構成図をAIに描かせたいけど、アイコンや体裁が崩れる...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b7bfe27efae0231a09af</id>
@@ -1497,15 +1475,6 @@ GitもDBもAPIも、仕事で触るたびに「これなんだっけ」となり
 今回は、調査...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3060140b10a9a35021f4</id>
-    <title>RAGを本当に使うために、処理段階ごとに優秀手法を整理してみた</title>
-    <link rel="alternate" href="https://qiita.com/engchina/items/3060140b10a9a35021f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-20T20:27:41+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/engchina&quot;&gt;engchina&lt;/a&gt;&lt;br/&gt;Published: 2026-06-20T13:17:29+09:00&lt;br/&gt;Updated: 2026-06-20T20:27:41+09:00&lt;br/&gt;初めに
-最近、RAG の実装例はかなり増えました。
-Dify、RAGFlow、LlamaIndex、LangChain、GraphRAG、LightRAG、Docling、Marker、Unstructured、RAG-Anything、ColPali、PageIndex...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:195c278d026657c6618f</id>
     <title>AIも人も、ただ褒めるだけでは変わらない。大事なのは&quot;時間を惜しまない一言&quot;</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/195c278d026657c6618f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2205,5 +2174,35 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 
 自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
 でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:bab35c7b58a664d3b8f1</id>
+    <title>Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト</title>
+    <link rel="alternate" href="https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-23T14:01:00+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-06-23T14:01:00+09:00&lt;br/&gt;Updated: 2026-06-23T14:01:00+09:00&lt;br/&gt;はじめに
+この記事は、Claude Code のセキュリティガードレールを「概念」ではなく「動くコード」で示すことを目的にしています。
+「ガードレールが必要だとは分かった。でも何をどう書けばいいのか」という段階の方に向けて書いています。
+settings.json の p...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:8b8c3116f07fcefe2047</id>
+    <title>未経験エンジニアなら、キーボードよりノートを汚せ</title>
+    <link rel="alternate" href="https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-06-22T21:53:47+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/maketahara_ise&quot;&gt;maketahara_ise&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T16:07:11+09:00&lt;br/&gt;Updated: 2026-06-22T21:53:47+09:00&lt;br/&gt;はじめに
+小生、未経験から開発職について早一年。
+今やどんなソースもガリレオのように解読し、もう八面六臂の大活躍で上司もにんまり。
+なんて力がついていればどれだけ良かっただろう。その実、複雑であるソースを日々腕を組みながら睨み続け、何とか一年を過ごせた初学者に過ぎないので...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:1953d640bc0a7c0b16fc</id>
+    <title>Claude Codeに毎日3回「挨拶ハラスメント」して5時間の使用枠で作業を止まらなくするClaude活用術</title>
+    <link rel="alternate" href="https://qiita.com/inoyu-qiita/items/1953d640bc0a7c0b16fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-21T10:51:29+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inoyu-qiita&quot;&gt;inoyu-qiita&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T00:25:13+09:00&lt;br/&gt;Updated: 2026-08-21T10:51:29+09:00&lt;br/&gt;日頃からお世話になっている社内のUさん(@haru-qiita)と一緒に業務をしていて教えていただいた最強Claude活用術です！
+
+はじめに
+Claude Codeのクラウドルーティン（定期実行エージェント）で、平日の7時・12時・17時に「挨拶を返すだけ」の超軽量なジョ...</summary>
   </entry>
 </feed>
