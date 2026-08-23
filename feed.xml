@@ -1403,6 +1403,22 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 執筆時点で...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:156d782818f30a3b563e</id>
+    <title>SQL初心者向け~参画までに覚えたいSQL構文10選~</title>
+    <link rel="alternate" href="https://qiita.com/nt_matsuda56/items/156d782818f30a3b563e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-21T17:58:33+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nt_matsuda56&quot;&gt;nt_matsuda56&lt;/a&gt;&lt;br/&gt;Published: 2026-08-21T17:58:32+09:00&lt;br/&gt;Updated: 2026-08-21T17:58:33+09:00&lt;br/&gt;はじめに
+SQLを勉強し始めると、
+
+SQLって何から覚えればいいの？
+構文が多くて覚えられない……
+実際の案件ではどんなSQLを使うの？
+案件に参画する前に、最低限何を覚えればいい？
+
+このように悩むことがあると思います。
+SQLにはたくさんの構文がありますが、最初から...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ee1f9493d61f1c8c4743</id>
     <title>最近話題の「AI時代の開発者5つのアーキタイプ」について考える</title>
     <link rel="alternate" href="https://qiita.com/Toyo_m/items/ee1f9493d61f1c8c4743?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1471,22 +1487,6 @@ GitもDBもAPIも、仕事で触るたびに「これなんだっけ」となり
     <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/AkiraTakasaki&quot;&gt;AkiraTakasaki&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T12:09:03+09:00&lt;br/&gt;Updated: 2026-07-14T12:09:04+09:00&lt;br/&gt;こんにちは、ソーイ株式会社の髙﨑です。
 最近、業務でIPアドレスによるアクセス制限機能に触れる機会がありました。調査を進める中で、ループバックアドレスやリンクローカルアドレスなど、普段あまり意識することのない特殊なIPアドレスが数多く存在することを知りました。
 今回は、調査...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:156d782818f30a3b563e</id>
-    <title>SQL初心者向け~参画までに覚えたいSQL構文10選~</title>
-    <link rel="alternate" href="https://qiita.com/nt_matsuda56/items/156d782818f30a3b563e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-21T17:58:33+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nt_matsuda56&quot;&gt;nt_matsuda56&lt;/a&gt;&lt;br/&gt;Published: 2026-08-21T17:58:32+09:00&lt;br/&gt;Updated: 2026-08-21T17:58:33+09:00&lt;br/&gt;はじめに
-SQLを勉強し始めると、
-
-SQLって何から覚えればいいの？
-構文が多くて覚えられない……
-実際の案件ではどんなSQLを使うの？
-案件に参画する前に、最低限何を覚えればいい？
-
-このように悩むことがあると思います。
-SQLにはたくさんの構文がありますが、最初から...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ccd228bb1c33b2a918f5</id>
@@ -1829,6 +1829,16 @@ Claude Codeはコードを書く・直す・テストする・PRを確認する�
     <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T07:23:50+09:00&lt;br/&gt;Updated: 2026-06-26T19:08:48+09:00&lt;br/&gt;今回は HR スキーマを例に、Oracle Database のスキーマが AI Ready Data としてどの程度整っているかを評価してみます。
 
 Oracle Database では、Select AI、RAG、AI Vector Search、AI Agent など...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:42537e0b14b38797d218</id>
+    <title>AIコーディングの精度を劇的に向上させる Context7 MCP Server 完全ガイド</title>
+    <link rel="alternate" href="https://qiita.com/tomada/items/42537e0b14b38797d218?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T01:49:12+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomada&quot;&gt;tomada&lt;/a&gt;&lt;br/&gt;Published: 2026-08-21T22:56:10+09:00&lt;br/&gt;Updated: 2026-08-24T01:49:12+09:00&lt;br/&gt;この記事は、筆者が音声入力で話した内容を Claude Code で読みやすく整理したものです。
+書いてある主張も検証結果も筆者自身のもので、公開前にすべて目を通しています。
+
+Next.jsやReactで、もう互換性のない前バージョンの書き方でコードが生成され、書き...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0fd31bb4dfac9adfba95</id>
@@ -2179,16 +2189,6 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 この記事は、Claude Code のセキュリティガードレールを「概念」ではなく「動くコード」で示すことを目的にしています。
 「ガードレールが必要だとは分かった。でも何をどう書けばいいのか」という段階の方に向けて書いています。
 settings.json の p...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:42537e0b14b38797d218</id>
-    <title>AIコーディングの精度を劇的に向上させる Context7 MCP Server 完全ガイド</title>
-    <link rel="alternate" href="https://qiita.com/tomada/items/42537e0b14b38797d218?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-24T01:49:12+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomada&quot;&gt;tomada&lt;/a&gt;&lt;br/&gt;Published: 2026-08-21T22:56:10+09:00&lt;br/&gt;Updated: 2026-08-24T01:49:12+09:00&lt;br/&gt;この記事は、筆者が音声入力で話した内容を Claude Code で読みやすく整理したものです。
-書いてある主張も検証結果も筆者自身のもので、公開前にすべて目を通しています。
-
-Next.jsやReactで、もう互換性のない前バージョンの書き方でコードが生成され、書き...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1953d640bc0a7c0b16fc</id>
