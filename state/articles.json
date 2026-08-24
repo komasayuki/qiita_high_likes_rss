@@ -313,6 +313,18 @@
       "last_seen": "2026-07-30T18:40:13.254390155+00:00"
     },
     {
+      "key": "137a2810fb3fa3f773e8",
+      "item_id": "137a2810fb3fa3f773e8",
+      "title": "Claude Codeのセッション間通信、Windowsでも動きます（v2.1.234から）",
+      "link": "https://qiita.com/jqit_suwa/items/137a2810fb3fa3f773e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "Claude Code には、自分の別セッションにメッセージを送る cross-session messaging という機能があります。ターミナルを2枚開いて並行作業しているとき、片方の変更をもう片方に伝えるやつです。\nこれ、「Windowsでは使えない」と思っている人が...",
+      "published": "2026-08-24T09:33:19+09:00",
+      "updated": "2026-08-24T09:33:20+09:00",
+      "author_name": "jqit_suwa",
+      "likes_count": 17,
+      "last_seen": "2026-08-24T08:59:12.722690808+00:00"
+    },
+    {
       "key": "14df505c7023f665c585",
       "item_id": "14df505c7023f665c585",
       "title": "AI⇔人間 がdiff上にコメントを書き合える「hunk」がすごい",
@@ -334,19 +346,19 @@
       "updated": "2026-08-21T17:58:33+09:00",
       "author_name": "nt_matsuda56",
       "likes_count": 41,
-      "last_seen": "2026-08-24T07:15:04.817345643+00:00"
+      "last_seen": "2026-08-24T08:59:12.722690808+00:00"
     },
     {
-      "key": "15f57336baed3ef64a10",
-      "item_id": "15f57336baed3ef64a10",
-      "title": "Claude Code の「待ち」がもったいないので、worktree で並列開発してみた",
-      "link": "https://qiita.com/yasuto_88/items/15f57336baed3ef64a10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nClaude Code に作業を投げている間の待ち時間、けっこう長いですよね。その間に別の作業も進めたくなったので、git worktree（作業ディレクトリを分ける機能）を使った並列開発を試してみました。\nやってみたら思ったより簡単で、「worktree を作...",
-      "published": "2026-06-23T09:35:23+09:00",
-      "updated": "2026-06-23T09:35:23+09:00",
-      "author_name": "yasuto_88",
-      "likes_count": 17,
-      "last_seen": "2026-06-25T07:28:13.101021820+00:00"
+      "key": "15c75c024c4b38011afd",
+      "item_id": "15c75c024c4b38011afd",
+      "title": "新人エンジニア、「言いたいことがある」がいつも遅すぎる",
+      "link": "https://qiita.com/prumnn/items/15c75c024c4b38011afd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n\n会議で発言しようと考えをまとめている間に、いつも話が次の議題に進んでしまい、結局黙って終わっていたぷらむんが気づいたのは、話す準備の仕方そのものが間違っていたということでした。\n\n会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむん...",
+      "published": "2026-08-24T16:25:45+09:00",
+      "updated": "2026-08-24T16:25:45+09:00",
+      "author_name": "prumnn",
+      "likes_count": 21,
+      "last_seen": "2026-08-24T08:59:12.722690808+00:00"
     },
     {
       "key": "162f541ae19535b622da",
@@ -407,18 +419,6 @@
       "author_name": "Nana_777",
       "likes_count": 30,
       "last_seen": "2026-07-31T08:06:54.208807569+00:00"
-    },
-    {
-      "key": "180292de6cbb83a9672b",
-      "item_id": "180292de6cbb83a9672b",
-      "title": "【Rails】給湯器のサンプルアプリで学ぶDelegatedType",
-      "link": "https://qiita.com/jnchito/items/180292de6cbb83a9672b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n長年Railsプログラマをやっていますが、恥ずかしながら先日初めてActiveRecord::DelegatedTypeという機能がRailsにあることを知りました。\nが、DelegatedTypeとは何なのか、何が嬉しいのかがよくわからなかったので、自分でサン...",
-      "published": "2026-06-23T09:19:41+09:00",
-      "updated": "2026-06-23T11:05:20+09:00",
-      "author_name": "jnchito",
-      "likes_count": 18,
-      "last_seen": "2026-06-25T07:28:13.101021820+00:00"
     },
     {
       "key": "190cfe2f89c5f30e0a9b",
@@ -757,18 +757,6 @@
       "last_seen": "2026-07-12T19:19:39.414013489+00:00"
     },
     {
-      "key": "2a94504c1b273c5f1005",
-      "item_id": "2a94504c1b273c5f1005",
-      "title": "AI時代のPMスキルはプロンプトではない ― 判断を「資産」に変えるループエンジニアリング",
-      "link": "https://qiita.com/nogataka/items/2a94504c1b273c5f1005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n「PMの次のスキルはプロンプトではない」と聞くと、身構えるかもしれません。\nプロンプトを工夫してきたのに、それが要らなくなるのか、と。\nでも、なくなるわけではありません。磨く場所が、毎回のプロンプトから「何度も使う判断の型」へ移るだけです。\nこの「ループ・エンジ...",
-      "published": "2026-06-22T12:37:27+09:00",
-      "updated": "2026-06-23T12:54:39+09:00",
-      "author_name": "nogataka",
-      "likes_count": 12,
-      "last_seen": "2026-06-25T07:28:13.101021820+00:00"
-    },
-    {
       "key": "2adb0c35fffb41514791",
       "item_id": "2adb0c35fffb41514791",
       "title": "「インターネットはありません」と書いたプロンプトの外で、AI が実在企業3社に侵入していた",
@@ -1103,18 +1091,6 @@
       "author_name": "masa-asa",
       "likes_count": 10,
       "last_seen": "2026-07-23T19:39:51.835218033+00:00"
-    },
-    {
-      "key": "345691e0d2260d5f34a5",
-      "item_id": "345691e0d2260d5f34a5",
-      "title": "並列で思考を分けたら、AIレビューの精度もコンテキスト効率も同時に上がった話",
-      "link": "https://qiita.com/fwatanab/items/345691e0d2260d5f34a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nAIにコードレビューをやらせるとき「1つのエージェントに全部チェックさせる」のをやめて、複数の専門エージェントに並列で分業させる 構成に変えたら、精度が体感で大きく上がりました。\nただ、本当の収穫は精度向上そのものより、「並列で思考を分ける」こと自体が、コンテキ...",
-      "published": "2026-06-23T10:38:25+09:00",
-      "updated": "2026-06-24T16:23:20+09:00",
-      "author_name": "fwatanab",
-      "likes_count": 23,
-      "last_seen": "2026-06-25T07:28:13.101021820+00:00"
     },
     {
       "key": "346f6c8ab4b662a08f3e",
@@ -1474,7 +1450,7 @@
       "updated": "2026-08-24T01:49:12+09:00",
       "author_name": "tomada",
       "likes_count": 31,
-      "last_seen": "2026-08-24T07:15:04.817345643+00:00"
+      "last_seen": "2026-08-24T08:59:12.722690808+00:00"
     },
     {
       "key": "42b090a12f4c52254292",
@@ -1641,8 +1617,8 @@
       "published": "2026-08-22T22:49:37+09:00",
       "updated": "2026-08-22T22:49:37+09:00",
       "author_name": "songchong",
-      "likes_count": 10,
-      "last_seen": "2026-08-24T07:15:04.817345643+00:00"
+      "likes_count": 12,
+      "last_seen": "2026-08-24T08:59:12.722690808+00:00"
     },
     {
       "key": "4be4d7e683632ba8c396",
@@ -1967,6 +1943,18 @@
       "author_name": "yamada-iknow",
       "likes_count": 25,
       "last_seen": "2026-07-12T06:43:51.948947703+00:00"
+    },
+    {
+      "key": "5f21adcca8aff1b0357a",
+      "item_id": "5f21adcca8aff1b0357a",
+      "title": "元ヤフーエンジニア社長が考える、AI時代のエンジニアに必要な3つのスキル",
+      "link": "https://qiita.com/ryoheiiwamoto/items/5f21adcca8aff1b0357a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "AIを使いこなす力だけでは、生き残れない\n\nこんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。\nhttps://prum.jp/\n「AIを使いこなせれば、この先も食っていける」と思っている人、結構多いと思います。\nでも僕は、それだけでは足りな...",
+      "published": "2026-08-24T16:31:36+09:00",
+      "updated": "2026-08-24T16:31:36+09:00",
+      "author_name": "ryoheiiwamoto",
+      "likes_count": 22,
+      "last_seen": "2026-08-24T08:59:12.722690808+00:00"
     },
     {
       "key": "6022101976268fa573c8",
@@ -2797,18 +2785,6 @@
       "last_seen": "2026-08-23T19:30:18.759809916+00:00"
     },
     {
-      "key": "8168cd532e692ebcd4b0",
-      "item_id": "8168cd532e692ebcd4b0",
-      "title": "バズってる「STORMプロンプト」、実は一番大事な部分が抜けてます【Stanford論文ベース】",
-      "link": "https://qiita.com/jqit_suwa/items/8168cd532e692ebcd4b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "最近Xで「Claudeが博士レベルで調べてくれる」「5分で数日分のリサーチが終わる」みたいな感じでバズってる Stanford STORM Method。便利そうだしやってみたくなりますよね。\nただ、流れてくる紹介を見てると、ちょっと気になることがあって。STORMの一番お...",
-      "published": "2026-06-24T09:04:53+09:00",
-      "updated": "2026-06-24T09:04:53+09:00",
-      "author_name": "jqit_suwa",
-      "likes_count": 18,
-      "last_seen": "2026-06-25T07:28:13.101021820+00:00"
-    },
-    {
       "key": "82209a2a8b9cc603ec57",
       "item_id": "82209a2a8b9cc603ec57",
       "title": "AWSで作った洗濯botを2ヶ月使い続けた話",
@@ -3081,8 +3057,8 @@
       "published": "2026-08-22T17:28:15+09:00",
       "updated": "2026-08-22T17:28:15+09:00",
       "author_name": "gts",
-      "likes_count": 43,
-      "last_seen": "2026-08-24T07:15:04.817345643+00:00"
+      "likes_count": 47,
+      "last_seen": "2026-08-24T08:59:12.722690808+00:00"
     },
     {
       "key": "8d2dace07c9c7a9d0453",
@@ -3717,8 +3693,8 @@
       "published": "2026-08-21T18:04:05+09:00",
       "updated": "2026-08-21T18:04:05+09:00",
       "author_name": "a_sato_JQIT",
-      "likes_count": 27,
-      "last_seen": "2026-08-24T07:15:04.817345643+00:00"
+      "likes_count": 29,
+      "last_seen": "2026-08-24T08:59:12.722690808+00:00"
     },
     {
       "key": "a837b6706911d1a0b33a",
@@ -3789,8 +3765,8 @@
       "published": "2026-08-22T16:08:53+09:00",
       "updated": "2026-08-23T09:50:00+09:00",
       "author_name": "yuki_crossroad",
-      "likes_count": 26,
-      "last_seen": "2026-08-24T07:15:04.817345643+00:00"
+      "likes_count": 27,
+      "last_seen": "2026-08-24T08:59:12.722690808+00:00"
     },
     {
       "key": "a9a50da72a79d9e91a6e",
@@ -4081,18 +4057,6 @@
       "last_seen": "2026-07-27T19:48:19.798360870+00:00"
     },
     {
-      "key": "b5ee04644ff6da7e7671",
-      "item_id": "b5ee04644ff6da7e7671",
-      "title": "個人開発で AI デスクトップ作ったら、チャットから cron / 並列バッチ / 編集可能な .pptx まで吐けるようになった",
-      "link": "https://qiita.com/gen99/items/b5ee04644ff6da7e7671?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "TL;DR\nPraxia Desktop という Windows 用のローカル AI ワークスペースを作って、Microsoft Store に無料で公開しました。\n何ができるか を一言で:\n\nチャットから話しかけるだけで、cron スケジュール登録・複数ファイルへの並列...",
-      "published": "2026-06-23T20:51:09+09:00",
-      "updated": "2026-06-24T13:24:35+09:00",
-      "author_name": "gen99",
-      "likes_count": 11,
-      "last_seen": "2026-06-25T07:28:13.101021820+00:00"
-    },
-    {
       "key": "b73cb8096af35186c2d8",
       "item_id": "b73cb8096af35186c2d8",
       "title": "Zoom の文字起こし・翻訳 AI を \"Zoom 以外\" で使う — Google Meet / Teams / YouTube、どんなサイトでもリアルタイム字幕＋翻訳",
@@ -4357,18 +4321,6 @@
       "last_seen": "2026-07-29T19:38:20.986722849+00:00"
     },
     {
-      "key": "c6f24bc95a3c2a46de4d",
-      "item_id": "c6f24bc95a3c2a46de4d",
-      "title": "Railsアプリのメモリが「無駄に」減る話 〜リーク・断片化〜",
-      "link": "https://qiita.com/akachiryo/items/c6f24bc95a3c2a46de4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "お疲れ様です！\n前回はメモリ管理の基本を書きましたが、今回はその続きで メモリリーク と 断片化（フラグメンテーション） についてまとめてみました \n前回ふれた「OOM（メモリ枯渇でプロセスが落ちる）」の 原因編 にあたる話です。\n興味ある方は読んでいただけると嬉しいです ...",
-      "published": "2026-06-22T10:53:38+09:00",
-      "updated": "2026-06-22T10:53:38+09:00",
-      "author_name": "akachiryo",
-      "likes_count": 47,
-      "last_seen": "2026-06-25T07:28:13.101021820+00:00"
-    },
-    {
       "key": "c7385d1442ecc15e77ef",
       "item_id": "c7385d1442ecc15e77ef",
       "title": "【SQL入門①】初めて学ぶSQL！データベースの基礎からわかりやすく解説",
@@ -4427,6 +4379,18 @@
       "author_name": "RyoWakabayashi",
       "likes_count": 12,
       "last_seen": "2026-08-01T06:38:24.990866084+00:00"
+    },
+    {
+      "key": "caac6a305b6f190676da",
+      "item_id": "caac6a305b6f190676da",
+      "title": "入社1ヶ月目、「全然役に立てていない」と焦るときに考えてほしいこと",
+      "link": "https://qiita.com/m__ikeda/items/caac6a305b6f190676da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "自己紹介\nこんにちは。株式会社PRUMで採用広報を担当している池田です。\n未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊\nもしIT業界に興味があるけど、...",
+      "published": "2026-08-24T16:27:04+09:00",
+      "updated": "2026-08-24T16:27:04+09:00",
+      "author_name": "m__ikeda",
+      "likes_count": 20,
+      "last_seen": "2026-08-24T08:59:12.722690808+00:00"
     },
     {
       "key": "cb785917d2661858f7b7",
@@ -4571,18 +4535,6 @@
       "author_name": "sumomoo",
       "likes_count": 39,
       "last_seen": "2026-08-10T19:09:52.911392448+00:00"
-    },
-    {
-      "key": "cfe5ba40a56b3dbf6a4b",
-      "item_id": "cfe5ba40a56b3dbf6a4b",
-      "title": "バイブコーディングが「RPA問題」を再演している。属人化・重複・ブラックボックスを防ぐ最小ガバナンス設計",
-      "link": "https://qiita.com/hirashima-gmoconnect/items/cfe5ba40a56b3dbf6a4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nGMOコネクトの平島です。\nチームで Claude Code を使い始めてから、便利になったのと引き換えに困ったことが起きています。「誰かが作ったらしいSlack通知ツール」「似たような集計スクリプトが3本ある」「作った本人がいないと何もわからない」😇\nこの光景...",
-      "published": "2026-06-22T12:12:13+09:00",
-      "updated": "2026-06-22T12:12:13+09:00",
-      "author_name": "hirashima-gmoconnect",
-      "likes_count": 58,
-      "last_seen": "2026-06-25T07:28:13.101021820+00:00"
     },
     {
       "key": "d06e7479122150ee0ad9",
@@ -5101,6 +5053,18 @@
       "last_seen": "2026-07-11T19:20:39.291043230+00:00"
     },
     {
+      "key": "e5065bd0e6daaf38ac62",
+      "item_id": "e5065bd0e6daaf38ac62",
+      "title": "「これで進めますね」と自分から言ってしまうと、後で仕様がひっくり返る",
+      "link": "https://qiita.com/sumomoo/items/e5065bd0e6daaf38ac62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや\n考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\n「これで進...",
+      "published": "2026-08-24T16:16:23+09:00",
+      "updated": "2026-08-24T16:16:23+09:00",
+      "author_name": "sumomoo",
+      "likes_count": 21,
+      "last_seen": "2026-08-24T08:59:12.722690808+00:00"
+    },
+    {
       "key": "e54c70c90c6aa84d0f66",
       "item_id": "e54c70c90c6aa84d0f66",
       "title": "CLAUDE.md 設計パターン集──プロジェクト規模別に使い分ける7つのテンプレート",
@@ -5591,18 +5555,6 @@
       "author_name": "Syoitu",
       "likes_count": 59,
       "last_seen": "2026-08-02T06:41:59.381638011+00:00"
-    },
-    {
-      "key": "ff7546e2eef855ef6aa1",
-      "item_id": "ff7546e2eef855ef6aa1",
-      "title": "Claude CodeでExcel仕様書を効率的に解析・引き継ぎするための命名・管理術",
-      "link": "https://qiita.com/oguri-gmoconnect/items/ff7546e2eef855ef6aa1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n開発の現場では、いまだに大量の仕様書が Excel（xlsx） で管理されています。調査結果、機能一覧、対応状況、データ項目定義……。これらをAIエージェント（私の場合は Claude Code）に読み込ませて「解析」「要約」「引き継ぎ資料化」させたい、というニ...",
-      "published": "2026-06-23T11:17:46+09:00",
-      "updated": "2026-06-23T11:18:36+09:00",
-      "author_name": "oguri-gmoconnect",
-      "likes_count": 12,
-      "last_seen": "2026-06-25T07:28:13.101021820+00:00"
     },
     {
       "key": "ff874864f2d9ad4a8e70",
