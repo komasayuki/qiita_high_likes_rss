@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-08-24T01:49:12+09:00</updated>
+  <updated>2026-08-24T16:31:36+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -820,6 +820,14 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 というのも、これまでの「DFS / BFS」「計算量（Big-O）」「DBインデックス」——実はこの3記事、全部 データ構造 の話をしてい...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8c94ac8b76d7caa1b530</id>
+    <title>個人開発をiOSアプリで半年やって「勝てない」と悟った話</title>
+    <link rel="alternate" href="https://qiita.com/gts/items/8c94ac8b76d7caa1b530?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-22T17:28:15+09:00</updated>
+    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/gts&quot;&gt;gts&lt;/a&gt;&lt;br/&gt;Published: 2026-08-22T17:28:15+09:00&lt;br/&gt;Updated: 2026-08-22T17:28:15+09:00&lt;br/&gt;「個人開発したアプリがバズって、会社に辞表を叩きつけるんだ…！」——そんな夢を見たことがある人は、私だけではないはずです。
+結論から言います。個人開発、半年やってみたけど、勝てる気が全くしません。AI時代到来でアプリ開発は「ちょろい」と思っていたのに、実際にぶつかったのはア...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:224f55bc85b813930f61</id>
     <title>ずぼらAI駆動開発、爆誕</title>
     <link rel="alternate" href="https://qiita.com/nobu34/items/224f55bc85b813930f61?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -837,14 +845,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mu7kata&quot;&gt;mu7kata&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T12:55:05+09:00&lt;br/&gt;Updated: 2026-07-02T12:47:10+09:00&lt;br/&gt;はじめに
 私はこれまで「チームをもっと良くしたい」という気持ちはありつつも、今の自分の立場でどこまで意見を出してよいのか、どう伝えれば前向きに受け取ってもらえるのかなど、改善提案の仕方に悩んだり、思うように進められず苦労した経験があります。
 この記事では、今までの経験を踏...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8c94ac8b76d7caa1b530</id>
-    <title>個人開発をiOSアプリで半年やって「勝てない」と悟った話</title>
-    <link rel="alternate" href="https://qiita.com/gts/items/8c94ac8b76d7caa1b530?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-22T17:28:15+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/gts&quot;&gt;gts&lt;/a&gt;&lt;br/&gt;Published: 2026-08-22T17:28:15+09:00&lt;br/&gt;Updated: 2026-08-22T17:28:15+09:00&lt;br/&gt;「個人開発したアプリがバズって、会社に辞表を叩きつけるんだ…！」——そんな夢を見たことがある人は、私だけではないはずです。
-結論から言います。個人開発、半年やってみたけど、勝てる気が全くしません。AI時代到来でアプリ開発は「ちょろい」と思っていたのに、実際にぶつかったのはア...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:45b66545bb7ea88e8403</id>
@@ -1852,6 +1852,14 @@ Claude Codeはコードを書く・直す・テストする・PRを確認する�
 Oracle Database では、Select AI、RAG、AI Vector Search、AI Agent など...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a99f0d9f0db6ebd87c00</id>
+    <title>わかったようでわからない非同期処理の完全理解①</title>
+    <link rel="alternate" href="https://qiita.com/yuki_crossroad/items/a99f0d9f0db6ebd87c00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-23T09:50:00+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuki_crossroad&quot;&gt;yuki_crossroad&lt;/a&gt;&lt;br/&gt;Published: 2026-08-22T16:08:53+09:00&lt;br/&gt;Updated: 2026-08-23T09:50:00+09:00&lt;br/&gt;非同期処理は、すぐに答えが返らない仕事を待つための書き方です。
+今回はVue 3を使って、ゲーム世界で剣（ソード）の情報をファイルから読み込み、届いたら画面へ表示する流れをつくってみます。まずは「普通に書くと何が起きるのか」と、async / await を使う理由を小さな...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d09be87764a66c9077f0</id>
     <title>コードレビューで身についた技術と、メンタルを守るための習慣</title>
     <link rel="alternate" href="https://qiita.com/NekoByte/items/d09be87764a66c9077f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1930,12 +1938,16 @@ Claude Code には /code-review、Codex 側には /codex:review と ...</summary
 そう考えている人は多いはずです。私もそうでした。ですが、Dockerでコンテナ化しているなら、その安心は半分しか正しくありません。.env をGitに上げていなくても、CO...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a99f0d9f0db6ebd87c00</id>
-    <title>わかったようでわからない非同期処理の完全理解①</title>
-    <link rel="alternate" href="https://qiita.com/yuki_crossroad/items/a99f0d9f0db6ebd87c00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-23T09:50:00+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuki_crossroad&quot;&gt;yuki_crossroad&lt;/a&gt;&lt;br/&gt;Published: 2026-08-22T16:08:53+09:00&lt;br/&gt;Updated: 2026-08-23T09:50:00+09:00&lt;br/&gt;非同期処理は、すぐに答えが返らない仕事を待つための書き方です。
-今回はVue 3を使って、ゲーム世界で剣（ソード）の情報をファイルから読み込み、届いたら画面へ表示する流れをつくってみます。まずは「普通に書くと何が起きるのか」と、async / await を使う理由を小さな...</summary>
+    <id>tag:qiita.com,2026:5f21adcca8aff1b0357a</id>
+    <title>元ヤフーエンジニア社長が考える、AI時代のエンジニアに必要な3つのスキル</title>
+    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/5f21adcca8aff1b0357a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T16:31:36+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:31:36+09:00&lt;br/&gt;Updated: 2026-08-24T16:31:36+09:00&lt;br/&gt;AIを使いこなす力だけでは、生き残れない
+
+こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
+https://prum.jp/
+「AIを使いこなせれば、この先も食っていける」と思っている人、結構多いと思います。
+でも僕は、それだけでは足りな...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:99f4567ee75a43481f00</id>
@@ -2107,6 +2119,30 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 たとえば、Volatility3（メモリの中身を解析するツー...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:15c75c024c4b38011afd</id>
+    <title>新人エンジニア、「言いたいことがある」がいつも遅すぎる</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/15c75c024c4b38011afd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T16:25:45+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:25:45+09:00&lt;br/&gt;Updated: 2026-08-24T16:25:45+09:00&lt;br/&gt;はじめに
+
+会議で発言しようと考えをまとめている間に、いつも話が次の議題に進んでしまい、結局黙って終わっていたぷらむんが気づいたのは、話す準備の仕方そのものが間違っていたということでした。
+
+会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむん...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e5065bd0e6daaf38ac62</id>
+    <title>「これで進めますね」と自分から言ってしまうと、後で仕様がひっくり返る</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/e5065bd0e6daaf38ac62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T16:16:23+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:16:23+09:00&lt;br/&gt;Updated: 2026-08-24T16:16:23+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「これで進...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:48d124a11623b4f9e7c6</id>
     <title>【コピペOK】CSSで作るモダンなUIアニメーション集</title>
     <link rel="alternate" href="https://qiita.com/nt_y-maeda112/items/48d124a11623b4f9e7c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2185,39 +2221,5 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 この記事は、Claude Code のセキュリティガードレールを「概念」ではなく「動くコード」で示すことを目的にしています。
 「ガードレールが必要だとは分かった。でも何をどう書けばいいのか」という段階の方に向けて書いています。
 settings.json の p...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1953d640bc0a7c0b16fc</id>
-    <title>Claude Codeに毎日3回「挨拶ハラスメント」して5時間の使用枠で作業を止まらなくするClaude活用術</title>
-    <link rel="alternate" href="https://qiita.com/inoyu-qiita/items/1953d640bc0a7c0b16fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-21T10:51:29+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inoyu-qiita&quot;&gt;inoyu-qiita&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T00:25:13+09:00&lt;br/&gt;Updated: 2026-08-21T10:51:29+09:00&lt;br/&gt;日頃からお世話になっている社内のUさん(@haru-qiita)と一緒に業務をしていて教えていただいた最強Claude活用術です！
-
-はじめに
-Claude Codeのクラウドルーティン（定期実行エージェント）で、平日の7時・12時・17時に「挨拶を返すだけ」の超軽量なジョ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9a8e6af3d545150c5a08</id>
-    <title>VisualStudio無しで.NET Framework→.NET 10移行を試したら、ツールそのものが世代交代していた話</title>
-    <link rel="alternate" href="https://qiita.com/inuta-one/items/9a8e6af3d545150c5a08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-11T17:15:03+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inuta-one&quot;&gt;inuta-one&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T09:24:08+09:00&lt;br/&gt;Updated: 2026-08-11T17:15:03+09:00&lt;br/&gt;はじめに
-C# で出来ること一覧 2026年版（.NET 10） という記事を読んで、後半で紹介されていた「.NET Frameworkから.NETへの移行」を実際に手を動かして試してみることにしました。
-自分は過去にVB6→C#移行の案件に関わったこともあり、この手の移...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ec8cd4dd183e12ac5781</id>
-    <title>鍵を渡さず・文脈を可視化する — マルチエージェント管理デスクトップアプリ「moeca」を個人開発している話</title>
-    <link rel="alternate" href="https://qiita.com/can-can/items/ec8cd4dd183e12ac5781?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-07T15:29:31+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/can-can&quot;&gt;can-can&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T15:29:29+09:00&lt;br/&gt;Updated: 2026-08-07T15:29:31+09:00&lt;br/&gt;「AI で業務効率化」が当たり前になった一方で、こんな経験はないでしょうか。
-
-思ったような出力をしてくれない…
-出力に、いらないデータが混ざっている…
-事実と異なる結果を、それっぽく返してくる…
-
-さらに、チームで使い始めると別の不安も出てきます。
-
-このエージェント、社...</summary>
   </entry>
 </feed>
