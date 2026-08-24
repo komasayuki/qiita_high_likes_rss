@@ -1428,6 +1428,16 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 執筆時点で...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:42537e0b14b38797d218</id>
+    <title>AIコーディングの精度を劇的に向上させる Context7 MCP Server 完全ガイド</title>
+    <link rel="alternate" href="https://qiita.com/tomada/items/42537e0b14b38797d218?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T01:49:12+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomada&quot;&gt;tomada&lt;/a&gt;&lt;br/&gt;Published: 2026-08-21T22:56:10+09:00&lt;br/&gt;Updated: 2026-08-24T01:49:12+09:00&lt;br/&gt;この記事は、筆者が音声入力で話した内容を Claude Code で読みやすく整理したものです。
+書いてある主張も検証結果も筆者自身のもので、公開前にすべて目を通しています。
+
+Next.jsやReactで、もう互換性のない前バージョンの書き方でコードが生成され、書き...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ee1f9493d61f1c8c4743</id>
     <title>最近話題の「AI時代の開発者5つのアーキタイプ」について考える</title>
     <link rel="alternate" href="https://qiita.com/Toyo_m/items/ee1f9493d61f1c8c4743?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1507,16 +1517,6 @@ GitもDBもAPIも、仕事で触るたびに「これなんだっけ」となり
 会議で発言しようと考えをまとめている間に、いつも話が次の議題に進んでしまい、結局黙って終わっていたぷらむんが気づいたのは、話す準備の仕方そのものが間違っていたということでした。
 
 会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむん...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:42537e0b14b38797d218</id>
-    <title>AIコーディングの精度を劇的に向上させる Context7 MCP Server 完全ガイド</title>
-    <link rel="alternate" href="https://qiita.com/tomada/items/42537e0b14b38797d218?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-24T01:49:12+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomada&quot;&gt;tomada&lt;/a&gt;&lt;br/&gt;Published: 2026-08-21T22:56:10+09:00&lt;br/&gt;Updated: 2026-08-24T01:49:12+09:00&lt;br/&gt;この記事は、筆者が音声入力で話した内容を Claude Code で読みやすく整理したものです。
-書いてある主張も検証結果も筆者自身のもので、公開前にすべて目を通しています。
-
-Next.jsやReactで、もう互換性のない前バージョンの書き方でコードが生成され、書き...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c5daff368bc75c79e7b0</id>
@@ -1696,6 +1696,14 @@ FOMO ── Fear of Missi...</summary>
 「sh...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a99f0d9f0db6ebd87c00</id>
+    <title>わかったようでわからない非同期処理の完全理解①</title>
+    <link rel="alternate" href="https://qiita.com/yuki_crossroad/items/a99f0d9f0db6ebd87c00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-23T09:50:00+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuki_crossroad&quot;&gt;yuki_crossroad&lt;/a&gt;&lt;br/&gt;Published: 2026-08-22T16:08:53+09:00&lt;br/&gt;Updated: 2026-08-23T09:50:00+09:00&lt;br/&gt;非同期処理は、すぐに答えが返らない仕事を待つための書き方です。
+今回はVue 3を使って、ゲーム世界で剣（ソード）の情報をファイルから読み込み、届いたら画面へ表示する流れをつくってみます。まずは「普通に書くと何が起きるのか」と、async / await を使う理由を小さな...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:edc03c11a477f5ecbfc2</id>
     <title>IT企業の面接、私服で本当に大丈夫？採用担当が考える「清潔感」のライン</title>
     <link rel="alternate" href="https://qiita.com/m__ikeda/items/edc03c11a477f5ecbfc2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1722,14 +1730,6 @@ Geminiでこんなプロンプトを入力すると...</summary>
     <updated>2026-07-10T12:34:58+09:00</updated>
     <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Koukyosyumei&quot;&gt;Koukyosyumei&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T12:34:58+09:00&lt;br/&gt;Updated: 2026-07-10T12:34:58+09:00&lt;br/&gt;こんにちは！コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。
 さて、読者のほとんどの方が Claude Code や Codex を使って開発をしていると思いますが、皆さんは「AIエージェントがシェルコマンドやネットワークアクセ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a99f0d9f0db6ebd87c00</id>
-    <title>わかったようでわからない非同期処理の完全理解①</title>
-    <link rel="alternate" href="https://qiita.com/yuki_crossroad/items/a99f0d9f0db6ebd87c00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-23T09:50:00+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuki_crossroad&quot;&gt;yuki_crossroad&lt;/a&gt;&lt;br/&gt;Published: 2026-08-22T16:08:53+09:00&lt;br/&gt;Updated: 2026-08-23T09:50:00+09:00&lt;br/&gt;非同期処理は、すぐに答えが返らない仕事を待つための書き方です。
-今回はVue 3を使って、ゲーム世界で剣（ソード）の情報をファイルから読み込み、届いたら画面へ表示する流れをつくってみます。まずは「普通に書くと何が起きるのか」と、async / await を使う理由を小さな...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0fd31bb4dfac9adfba95</id>
