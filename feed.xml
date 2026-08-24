@@ -811,6 +811,14 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ※資料リンクが不足しているところは...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8c94ac8b76d7caa1b530</id>
+    <title>個人開発をiOSアプリで半年やって「勝てない」と悟った話</title>
+    <link rel="alternate" href="https://qiita.com/gts/items/8c94ac8b76d7caa1b530?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-22T17:28:15+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/gts&quot;&gt;gts&lt;/a&gt;&lt;br/&gt;Published: 2026-08-22T17:28:15+09:00&lt;br/&gt;Updated: 2026-08-22T17:28:15+09:00&lt;br/&gt;「個人開発したアプリがバズって、会社に辞表を叩きつけるんだ…！」——そんな夢を見たことがある人は、私だけではないはずです。
+結論から言います。個人開発、半年やってみたけど、勝てる気が全くしません。AI時代到来でアプリ開発は「ちょろい」と思っていたのに、実際にぶつかったのはア...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b431a74f1cde18d45ad3</id>
     <title># Railsで学ぶ データ構造入門 〜配列・ハッシュ・木・グラフは実は毎日使っている〜</title>
     <link rel="alternate" href="https://qiita.com/akachiryo/items/b431a74f1cde18d45ad3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -818,14 +826,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T14:11:17+09:00&lt;br/&gt;Updated: 2026-07-15T14:11:17+09:00&lt;br/&gt;お疲れ様です！ 
 前回は「暗号化とハッシュ」を扱いました。今回は少し戻って、コンピュータサイエンスの土台 データ構造 の総まとめです。
 というのも、これまでの「DFS / BFS」「計算量（Big-O）」「DBインデックス」——実はこの3記事、全部 データ構造 の話をしてい...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8c94ac8b76d7caa1b530</id>
-    <title>個人開発をiOSアプリで半年やって「勝てない」と悟った話</title>
-    <link rel="alternate" href="https://qiita.com/gts/items/8c94ac8b76d7caa1b530?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-22T17:28:15+09:00</updated>
-    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/gts&quot;&gt;gts&lt;/a&gt;&lt;br/&gt;Published: 2026-08-22T17:28:15+09:00&lt;br/&gt;Updated: 2026-08-22T17:28:15+09:00&lt;br/&gt;「個人開発したアプリがバズって、会社に辞表を叩きつけるんだ…！」——そんな夢を見たことがある人は、私だけではないはずです。
-結論から言います。個人開発、半年やってみたけど、勝てる気が全くしません。AI時代到来でアプリ開発は「ちょろい」と思っていたのに、実際にぶつかったのはア...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:224f55bc85b813930f61</id>
@@ -1097,6 +1097,22 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 生成AIアプリのフロントエンドとして鉄板のStreamlitですが、AWSにデプロイするには諸々の制約があり、Fargateで行うのが一般的だと思います。Lambda Web Adapterでなんとかならないと、10回ぐらい試したのですが、WebSocket...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:156d782818f30a3b563e</id>
+    <title>SQL初心者向け~参画までに覚えたいSQL構文10選~</title>
+    <link rel="alternate" href="https://qiita.com/nt_matsuda56/items/156d782818f30a3b563e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-21T17:58:33+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nt_matsuda56&quot;&gt;nt_matsuda56&lt;/a&gt;&lt;br/&gt;Published: 2026-08-21T17:58:32+09:00&lt;br/&gt;Updated: 2026-08-21T17:58:33+09:00&lt;br/&gt;はじめに
+SQLを勉強し始めると、
+
+SQLって何から覚えればいいの？
+構文が多くて覚えられない……
+実際の案件ではどんなSQLを使うの？
+案件に参画する前に、最低限何を覚えればいい？
+
+このように悩むことがあると思います。
+SQLにはたくさんの構文がありますが、最初から...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b4a550002ebf1e5b8af8</id>
     <title>「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1128,22 +1144,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <updated>2026-07-12T12:19:19+09:00</updated>
     <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sh_fukatsu&quot;&gt;sh_fukatsu&lt;/a&gt;&lt;br/&gt;Published: 2026-07-12T12:19:19+09:00&lt;br/&gt;Updated: 2026-07-12T12:19:19+09:00&lt;br/&gt;1. はじめに
 マルチリージョン構成でのDR（Disaster Recovery）や、ワークロードのレイテンシ要件から、東京リージョン（ap-northeast-1）と大阪リージョン（ap-northeast-3）のような同一パーティション内の複数リージョンをインターネッ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:156d782818f30a3b563e</id>
-    <title>SQL初心者向け~参画までに覚えたいSQL構文10選~</title>
-    <link rel="alternate" href="https://qiita.com/nt_matsuda56/items/156d782818f30a3b563e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-21T17:58:33+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nt_matsuda56&quot;&gt;nt_matsuda56&lt;/a&gt;&lt;br/&gt;Published: 2026-08-21T17:58:32+09:00&lt;br/&gt;Updated: 2026-08-21T17:58:33+09:00&lt;br/&gt;はじめに
-SQLを勉強し始めると、
-
-SQLって何から覚えればいいの？
-構文が多くて覚えられない……
-実際の案件ではどんなSQLを使うの？
-案件に参画する前に、最低限何を覚えればいい？
-
-このように悩むことがあると思います。
-SQLにはたくさんの構文がありますが、最初から...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e6f1678b41483943fc04</id>
@@ -1534,6 +1534,16 @@ OpenAIによるChatGPTの公開から、早くも3年以上の月日が経ちま
 眺...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:42537e0b14b38797d218</id>
+    <title>AIコーディングの精度を劇的に向上させる Context7 MCP Server 完全ガイド</title>
+    <link rel="alternate" href="https://qiita.com/tomada/items/42537e0b14b38797d218?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T01:49:12+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomada&quot;&gt;tomada&lt;/a&gt;&lt;br/&gt;Published: 2026-08-21T22:56:10+09:00&lt;br/&gt;Updated: 2026-08-24T01:49:12+09:00&lt;br/&gt;この記事は、筆者が音声入力で話した内容を Claude Code で読みやすく整理したものです。
+書いてある主張も検証結果も筆者自身のもので、公開前にすべて目を通しています。
+
+Next.jsやReactで、もう互換性のない前バージョンの書き方でコードが生成され、書き...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:565588e1b1dc66012b79</id>
     <title>オントロジーについて</title>
     <link rel="alternate" href="https://qiita.com/kurogoma939/items/565588e1b1dc66012b79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1638,16 +1648,6 @@ FOMO ── Fear of Missi...</summary>
     <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t-kurasawa&quot;&gt;t-kurasawa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-21T20:45:13+09:00&lt;br/&gt;Updated: 2026-07-21T20:45:14+09:00&lt;br/&gt;はじめに
 2026年7月、shadcn/ui の公式チェンジログに「Base UI as the Default」という一文が追加されました。新規プロジェクトを作成すると、これまでの Radix UI ではなく Base UI が標準の基盤になる、という内容です。
 「sh...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:42537e0b14b38797d218</id>
-    <title>AIコーディングの精度を劇的に向上させる Context7 MCP Server 完全ガイド</title>
-    <link rel="alternate" href="https://qiita.com/tomada/items/42537e0b14b38797d218?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-24T01:49:12+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tomada&quot;&gt;tomada&lt;/a&gt;&lt;br/&gt;Published: 2026-08-21T22:56:10+09:00&lt;br/&gt;Updated: 2026-08-24T01:49:12+09:00&lt;br/&gt;この記事は、筆者が音声入力で話した内容を Claude Code で読みやすく整理したものです。
-書いてある主張も検証結果も筆者自身のもので、公開前にすべて目を通しています。
-
-Next.jsやReactで、もう互換性のない前バージョンの書き方でコードが生成され、書き...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:edc03c11a477f5ecbfc2</id>
@@ -1765,6 +1765,18 @@ DB設計の勉強のために、以下の2冊を読みました。
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ntaka329&quot;&gt;ntaka329&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T12:02:25+09:00&lt;br/&gt;Updated: 2026-06-24T12:02:25+09:00&lt;br/&gt;はじめに
 GMOコネクトの永田です。
 提案や要件整理の場で、AWSの構成図を描くことが度々あります。ただ、都度ていねいに手で描くと時間がかかります。それなら構成案から自動で生成できればと思い、既存のAWS公式スキルなども試しました。ところが出てくるのは細部まで描き込んだ実...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5f21adcca8aff1b0357a</id>
+    <title>元ヤフーエンジニア社長が考える、AI時代のエンジニアに必要な3つのスキル</title>
+    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/5f21adcca8aff1b0357a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T16:31:36+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:31:36+09:00&lt;br/&gt;Updated: 2026-08-24T16:31:36+09:00&lt;br/&gt;AIを使いこなす力だけでは、生き残れない
+
+こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
+https://prum.jp/
+「AIを使いこなせれば、この先も食っていける」と思っている人、結構多いと思います。
+でも僕は、それだけでは足りな...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a82fccf6d52c05156384</id>
@@ -1938,16 +1950,28 @@ Claude Code には /code-review、Codex 側には /codex:review と ...</summary
 そう考えている人は多いはずです。私もそうでした。ですが、Dockerでコンテナ化しているなら、その安心は半分しか正しくありません。.env をGitに上げていなくても、CO...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5f21adcca8aff1b0357a</id>
-    <title>元ヤフーエンジニア社長が考える、AI時代のエンジニアに必要な3つのスキル</title>
-    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/5f21adcca8aff1b0357a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-24T16:31:36+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:31:36+09:00&lt;br/&gt;Updated: 2026-08-24T16:31:36+09:00&lt;br/&gt;AIを使いこなす力だけでは、生き残れない
+    <id>tag:qiita.com,2026:15c75c024c4b38011afd</id>
+    <title>新人エンジニア、「言いたいことがある」がいつも遅すぎる</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/15c75c024c4b38011afd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T16:25:45+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:25:45+09:00&lt;br/&gt;Updated: 2026-08-24T16:25:45+09:00&lt;br/&gt;はじめに
 
-こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
-https://prum.jp/
-「AIを使いこなせれば、この先も食っていける」と思っている人、結構多いと思います。
-でも僕は、それだけでは足りな...</summary>
+会議で発言しようと考えをまとめている間に、いつも話が次の議題に進んでしまい、結局黙って終わっていたぷらむんが気づいたのは、話す準備の仕方そのものが間違っていたということでした。
+
+会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむん...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e5065bd0e6daaf38ac62</id>
+    <title>「これで進めますね」と自分から言ってしまうと、後で仕様がひっくり返る</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/e5065bd0e6daaf38ac62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T16:16:23+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:16:23+09:00&lt;br/&gt;Updated: 2026-08-24T16:16:23+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「これで進...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:99f4567ee75a43481f00</id>
@@ -1987,6 +2011,16 @@ AIエージェントのコーディング環境として、Docker Sandboxesを�
 GitHub Copilotに毎回プロジェクト前提を説明している開発者
 CopilotやAI Agentの出力がリポジトリの暗黙知とズレることに困っている人
 README、設計...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:caac6a305b6f190676da</id>
+    <title>入社1ヶ月目、「全然役に立てていない」と焦るときに考えてほしいこと</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/caac6a305b6f190676da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T16:27:04+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:27:04+09:00&lt;br/&gt;Updated: 2026-08-24T16:27:04+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:acb61138c4550eef4803</id>
@@ -2119,30 +2153,6 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 たとえば、Volatility3（メモリの中身を解析するツー...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:15c75c024c4b38011afd</id>
-    <title>新人エンジニア、「言いたいことがある」がいつも遅すぎる</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/15c75c024c4b38011afd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-24T16:25:45+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:25:45+09:00&lt;br/&gt;Updated: 2026-08-24T16:25:45+09:00&lt;br/&gt;はじめに
-
-会議で発言しようと考えをまとめている間に、いつも話が次の議題に進んでしまい、結局黙って終わっていたぷらむんが気づいたのは、話す準備の仕方そのものが間違っていたということでした。
-
-会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむん...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e5065bd0e6daaf38ac62</id>
-    <title>「これで進めますね」と自分から言ってしまうと、後で仕様がひっくり返る</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/e5065bd0e6daaf38ac62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-24T16:16:23+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:16:23+09:00&lt;br/&gt;Updated: 2026-08-24T16:16:23+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-「これで進...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:48d124a11623b4f9e7c6</id>
     <title>【コピペOK】CSSで作るモダンなUIアニメーション集</title>
     <link rel="alternate" href="https://qiita.com/nt_y-maeda112/items/48d124a11623b4f9e7c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2211,15 +2221,5 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 
 自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
 でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bab35c7b58a664d3b8f1</id>
-    <title>Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-23T14:01:00+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-06-23T14:01:00+09:00&lt;br/&gt;Updated: 2026-06-23T14:01:00+09:00&lt;br/&gt;はじめに
-この記事は、Claude Code のセキュリティガードレールを「概念」ではなく「動くコード」で示すことを目的にしています。
-「ガードレールが必要だとは分かった。でも何をどう書けばいいのか」という段階の方に向けて書いています。
-settings.json の p...</summary>
   </entry>
 </feed>
