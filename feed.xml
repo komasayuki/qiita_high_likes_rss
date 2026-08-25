@@ -554,24 +554,24 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 きっと、同じように考えたことがあ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5f21adcca8aff1b0357a</id>
+    <title>元ヤフーエンジニア社長が考える、AI時代のエンジニアに必要な3つのスキル</title>
+    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/5f21adcca8aff1b0357a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T16:31:36+09:00</updated>
+    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:31:36+09:00&lt;br/&gt;Updated: 2026-08-24T16:31:36+09:00&lt;br/&gt;AIを使いこなす力だけでは、生き残れない
+
+こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
+https://prum.jp/
+「AIを使いこなせれば、この先も食っていける」と思っている人、結構多いと思います。
+でも僕は、それだけでは足りな...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e54c70c90c6aa84d0f66</id>
     <title>CLAUDE.md 設計パターン集──プロジェクト規模別に使い分ける7つのテンプレート</title>
     <link rel="alternate" href="https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-07-20T10:01:57+09:00</updated>
     <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hikariclaude01&quot;&gt;hikariclaude01&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T10:01:57+09:00&lt;br/&gt;Updated: 2026-07-20T10:01:57+09:00&lt;br/&gt;結論：Claude Code の出力品質を最も左右するのはプロンプトでもモデルでもなく、CLAUDE.md の書き方だった。
 Claude Code を導入したチームの中で「期待通りのコードが出る」チームと「毎回手直しが必要」なチームの差を調べると、CLAUDE.md の...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5f21adcca8aff1b0357a</id>
-    <title>元ヤフーエンジニア社長が考える、AI時代のエンジニアに必要な3つのスキル</title>
-    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/5f21adcca8aff1b0357a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-24T16:31:36+09:00</updated>
-    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:31:36+09:00&lt;br/&gt;Updated: 2026-08-24T16:31:36+09:00&lt;br/&gt;AIを使いこなす力だけでは、生き残れない
-
-こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
-https://prum.jp/
-「AIを使いこなせれば、この先も食っていける」と思っている人、結構多いと思います。
-でも僕は、それだけでは足りな...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d8c22cb512d9ba036154</id>
@@ -1244,6 +1244,17 @@ MCPやAgent Skillsを導入している、または導入を検討している�
 AGENTS.m...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:15c75c024c4b38011afd</id>
+    <title>新人エンジニア、「言いたいことがある」がいつも遅すぎる</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/15c75c024c4b38011afd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T16:25:45+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:25:45+09:00&lt;br/&gt;Updated: 2026-08-24T16:25:45+09:00&lt;br/&gt;はじめに
+
+会議で発言しようと考えをまとめている間に、いつも話が次の議題に進んでしまい、結局黙って終わっていたぷらむんが気づいたのは、話す準備の仕方そのものが間違っていたということでした。
+
+会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむん...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ccd228bb1c33b2a918f5</id>
     <title>Claude Code の出力を35%短くしたら、情報がむしろ増えた</title>
     <link rel="alternate" href="https://qiita.com/jqit_suwa/items/ccd228bb1c33b2a918f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1280,17 +1291,6 @@ Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン
 シリーズで計算量やレースコンディションを書いてきましたが、今回は DBインデックス です 
 「indexを貼ると速くなる」は知っていても、なぜ速いのか／どこに貼るべきかまで説明できると強いので、そこをまとめてみました。
 興味ある方は読んでいただけると嬉しいで...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:15c75c024c4b38011afd</id>
-    <title>新人エンジニア、「言いたいことがある」がいつも遅すぎる</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/15c75c024c4b38011afd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-24T16:25:45+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:25:45+09:00&lt;br/&gt;Updated: 2026-08-24T16:25:45+09:00&lt;br/&gt;はじめに
-
-会議で発言しようと考えをまとめている間に、いつも話が次の議題に進んでしまい、結局黙って終わっていたぷらむんが気づいたのは、話す準備の仕方そのものが間違っていたということでした。
-
-会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむん...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8f439ca399b08a925cba</id>
@@ -1336,6 +1336,19 @@ Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン
 前回は計算量（Big-O）の話を書きましたが、今回はその流れで、探索アルゴリズムの基本 DFS（深さ優先探索） と BFS（幅優先探索） をまとめてみました 
 名前は難しそうですが、中身は 「スタックを使うか、キューを使うか」だけの違い です。
 興味ある方は...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e5065bd0e6daaf38ac62</id>
+    <title>「これで進めますね」と自分から言ってしまうと、後で仕様がひっくり返る</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/e5065bd0e6daaf38ac62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T16:16:23+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:16:23+09:00&lt;br/&gt;Updated: 2026-08-24T16:16:23+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「これで進...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:195c278d026657c6618f</id>
@@ -1499,17 +1512,14 @@ GitもDBもAPIも、仕事で触るたびに「これなんだっけ」となり
 今回は、調査...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:e5065bd0e6daaf38ac62</id>
-    <title>「これで進めますね」と自分から言ってしまうと、後で仕様がひっくり返る</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/e5065bd0e6daaf38ac62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-24T16:16:23+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:16:23+09:00&lt;br/&gt;Updated: 2026-08-24T16:16:23+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-「これで進...</summary>
+    <id>tag:qiita.com,2026:caac6a305b6f190676da</id>
+    <title>入社1ヶ月目、「全然役に立てていない」と焦るときに考えてほしいこと</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/caac6a305b6f190676da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T16:27:04+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:27:04+09:00&lt;br/&gt;Updated: 2026-08-24T16:27:04+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c5daff368bc75c79e7b0</id>
@@ -1558,16 +1568,6 @@ OpenAIによるChatGPTの公開から、早くも3年以上の月日が経ちま
 「TypeScriptにおける anyと unknownの違いと、それぞれをどのような場面で使うべきか説明してください。」
 
 眺...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:caac6a305b6f190676da</id>
-    <title>入社1ヶ月目、「全然役に立てていない」と焦るときに考えてほしいこと</title>
-    <link rel="alternate" href="https://qiita.com/m__ikeda/items/caac6a305b6f190676da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-24T16:27:04+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:27:04+09:00&lt;br/&gt;Updated: 2026-08-24T16:27:04+09:00&lt;br/&gt;自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:565588e1b1dc66012b79</id>
@@ -2199,6 +2199,16 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0f93dd0b38fda076174f</id>
+    <title>Grill-me に丸コゲにされた俺は、もっと軽くて速いスキルを作った</title>
+    <link rel="alternate" href="https://qiita.com/magicant/items/0f93dd0b38fda076174f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-22T18:52:19+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/magicant&quot;&gt;magicant&lt;/a&gt;&lt;br/&gt;Published: 2026-08-22T18:52:19+09:00&lt;br/&gt;Updated: 2026-08-22T18:52:19+09:00&lt;br/&gt;ご安心ください、この記事は 100% 手打ちです 
+この記事の内容は筆者自身の開発スタイルに基づくものです。効果・効能には個人差があります。スキルは各自が自分のためにカスタマイズすることを推奨します!
+
+しばらく前にコーディングエージェントに何かを実装させる前に gr...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1953d640bc0a7c0b16fc</id>
     <title>Claude Codeに毎日3回「挨拶ハラスメント」して5時間の使用枠で作業を止まらなくするClaude活用術</title>
     <link rel="alternate" href="https://qiita.com/inoyu-qiita/items/1953d640bc0a7c0b16fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2207,14 +2217,5 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 
 はじめに
 Claude Codeのクラウドルーティン（定期実行エージェント）で、平日の7時・12時・17時に「挨拶を返すだけ」の超軽量なジョ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9a8e6af3d545150c5a08</id>
-    <title>VisualStudio無しで.NET Framework→.NET 10移行を試したら、ツールそのものが世代交代していた話</title>
-    <link rel="alternate" href="https://qiita.com/inuta-one/items/9a8e6af3d545150c5a08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-11T17:15:03+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inuta-one&quot;&gt;inuta-one&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T09:24:08+09:00&lt;br/&gt;Updated: 2026-08-11T17:15:03+09:00&lt;br/&gt;はじめに
-C# で出来ること一覧 2026年版（.NET 10） という記事を読んで、後半で紹介されていた「.NET Frameworkから.NETへの移行」を実際に手を動かして試してみることにしました。
-自分は過去にVB6→C#移行の案件に関わったこともあり、この手の移...</summary>
   </entry>
 </feed>
