@@ -1138,6 +1138,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 マルチリージョン構成でのDR（Disaster Recovery）や、ワークロードのレイテンシ要件から、東京リージョン（ap-northeast-1）と大阪リージョン（ap-northeast-3）のような同一パーティション内の複数リージョンをインターネッ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b80484406e839ee6507b</id>
+    <title>【ローカルLLM】国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti）</title>
+    <link rel="alternate" href="https://qiita.com/h-nabata/items/b80484406e839ee6507b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T02:34:14+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/h-nabata&quot;&gt;h-nabata&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T02:34:14+09:00&lt;br/&gt;Updated: 2026-08-24T02:34:14+09:00&lt;br/&gt;はじめに
+先週、LLMCが大規模言語モデル「LLM-jp-4 33B」を公開した。これは約332億パラメーターのDense型のモデルで、今年4月に公開されたMoE型のモデルのDense版に対応する。
+以前、性能比較検証に関してLLMCが以下のような声明を発表している。確か...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e6f1678b41483943fc04</id>
     <title>新しい Copilot Studio が GA したので「ハーネス」とクレジット課金体系を改めて整理してみる</title>
     <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/e6f1678b41483943fc04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1154,15 +1163,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 1. はじめに
 「業務を自動化したいけど、自由にツールを使えない」「コーディングエージェントや Playwright が職場ルールで使えない」という場面、ありませんか？
 私の周りでも、セキュリティと運用ル...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b80484406e839ee6507b</id>
-    <title>【ローカルLLM】国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti）</title>
-    <link rel="alternate" href="https://qiita.com/h-nabata/items/b80484406e839ee6507b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-24T02:34:14+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/h-nabata&quot;&gt;h-nabata&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T02:34:14+09:00&lt;br/&gt;Updated: 2026-08-24T02:34:14+09:00&lt;br/&gt;はじめに
-先週、LLMCが大規模言語モデル「LLM-jp-4 33B」を公開した。これは約332億パラメーターのDense型のモデルで、今年4月に公開されたMoE型のモデルのDense版に対応する。
-以前、性能比較検証に関してLLMCが以下のような声明を発表している。確か...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6e1719b24f56d4166d2e</id>
@@ -2129,6 +2129,16 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 たとえば、Volatility3（メモリの中身を解析するツー...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0f93dd0b38fda076174f</id>
+    <title>Grill-me に丸コゲにされた俺は、もっと軽くて速いスキルを作った</title>
+    <link rel="alternate" href="https://qiita.com/magicant/items/0f93dd0b38fda076174f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-22T18:52:19+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/magicant&quot;&gt;magicant&lt;/a&gt;&lt;br/&gt;Published: 2026-08-22T18:52:19+09:00&lt;br/&gt;Updated: 2026-08-22T18:52:19+09:00&lt;br/&gt;ご安心ください、この記事は 100% 手打ちです 
+この記事の内容は筆者自身の開発スタイルに基づくものです。効果・効能には個人差があります。スキルは各自が自分のためにカスタマイズすることを推奨します!
+
+しばらく前にコーディングエージェントに何かを実装させる前に gr...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:48d124a11623b4f9e7c6</id>
     <title>【コピペOK】CSSで作るモダンなUIアニメーション集</title>
     <link rel="alternate" href="https://qiita.com/nt_y-maeda112/items/48d124a11623b4f9e7c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2197,16 +2207,6 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 
 自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
 でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0f93dd0b38fda076174f</id>
-    <title>Grill-me に丸コゲにされた俺は、もっと軽くて速いスキルを作った</title>
-    <link rel="alternate" href="https://qiita.com/magicant/items/0f93dd0b38fda076174f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-22T18:52:19+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/magicant&quot;&gt;magicant&lt;/a&gt;&lt;br/&gt;Published: 2026-08-22T18:52:19+09:00&lt;br/&gt;Updated: 2026-08-22T18:52:19+09:00&lt;br/&gt;ご安心ください、この記事は 100% 手打ちです 
-この記事の内容は筆者自身の開発スタイルに基づくものです。効果・効能には個人差があります。スキルは各自が自分のためにカスタマイズすることを推奨します!
-
-しばらく前にコーディングエージェントに何かを実装させる前に gr...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1953d640bc0a7c0b16fc</id>
