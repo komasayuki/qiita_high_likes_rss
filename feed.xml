@@ -294,7 +294,7 @@ ssh を3回叩いたら、TCP 接続は3本になりますか
     <title>個人開発をiOSアプリで半年やって「勝てない」と悟った話</title>
     <link rel="alternate" href="https://qiita.com/gts/items/8c94ac8b76d7caa1b530?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-22T17:28:15+09:00</updated>
-    <summary type="html">Likes: 92&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/gts&quot;&gt;gts&lt;/a&gt;&lt;br/&gt;Published: 2026-08-22T17:28:15+09:00&lt;br/&gt;Updated: 2026-08-22T17:28:15+09:00&lt;br/&gt;「個人開発したアプリがバズって、会社に辞表を叩きつけるんだ…！」——そんな夢を見たことがある人は、私だけではないはずです。
+    <summary type="html">Likes: 93&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/gts&quot;&gt;gts&lt;/a&gt;&lt;br/&gt;Published: 2026-08-22T17:28:15+09:00&lt;br/&gt;Updated: 2026-08-22T17:28:15+09:00&lt;br/&gt;「個人開発したアプリがバズって、会社に辞表を叩きつけるんだ…！」——そんな夢を見たことがある人は、私だけではないはずです。
 結論から言います。個人開発、半年やってみたけど、勝てる気が全くしません。AI時代到来でアプリ開発は「ちょろい」と思っていたのに、実際にぶつかったのはア...</summary>
   </entry>
   <entry>
@@ -489,7 +489,7 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <title>元ヤフーエンジニア社長が考える、AI時代のエンジニアに必要な3つのスキル</title>
     <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/5f21adcca8aff1b0357a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-24T16:31:36+09:00</updated>
-    <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:31:36+09:00&lt;br/&gt;Updated: 2026-08-24T16:31:36+09:00&lt;br/&gt;AIを使いこなす力だけでは、生き残れない
+    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:31:36+09:00&lt;br/&gt;Updated: 2026-08-24T16:31:36+09:00&lt;br/&gt;AIを使いこなす力だけでは、生き残れない
 
 こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
 https://prum.jp/
@@ -883,6 +883,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 みなさん、2...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b80484406e839ee6507b</id>
+    <title>【ローカルLLM】国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti）</title>
+    <link rel="alternate" href="https://qiita.com/h-nabata/items/b80484406e839ee6507b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T02:34:14+09:00</updated>
+    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/h-nabata&quot;&gt;h-nabata&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T02:34:14+09:00&lt;br/&gt;Updated: 2026-08-24T02:34:14+09:00&lt;br/&gt;はじめに
+先週、LLMCが大規模言語モデル「LLM-jp-4 33B」を公開した。これは約332億パラメーターのDense型のモデルで、今年4月に公開されたMoE型のモデルのDense版に対応する。
+以前、性能比較検証に関してLLMCが以下のような声明を発表している。確か...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:dab9765ffd6aae8f0c07</id>
     <title>社内IT推進で「作っても使われない」をゼロにするために、僕が現場で学んだ5つのこと</title>
     <link rel="alternate" href="https://qiita.com/rira__/items/dab9765ffd6aae8f0c07?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -971,15 +980,6 @@ Agent Toolkit for AWSの一部の方のAWS MCP Serverの話です。オープン
 設定方法
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b80484406e839ee6507b</id>
-    <title>【ローカルLLM】国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti）</title>
-    <link rel="alternate" href="https://qiita.com/h-nabata/items/b80484406e839ee6507b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-24T02:34:14+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/h-nabata&quot;&gt;h-nabata&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T02:34:14+09:00&lt;br/&gt;Updated: 2026-08-24T02:34:14+09:00&lt;br/&gt;はじめに
-先週、LLMCが大規模言語モデル「LLM-jp-4 33B」を公開した。これは約332億パラメーターのDense型のモデルで、今年4月に公開されたMoE型のモデルのDense版に対応する。
-以前、性能比較検証に関してLLMCが以下のような声明を発表している。確か...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:156d782818f30a3b563e</id>
@@ -1999,6 +1999,16 @@ CopilotやAI Agentの出力がリポジトリの暗黙知とズレることに�
 README、設計...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0f93dd0b38fda076174f</id>
+    <title>Grill-me に丸コゲにされた俺は、もっと軽くて速いスキルを作った</title>
+    <link rel="alternate" href="https://qiita.com/magicant/items/0f93dd0b38fda076174f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-22T18:52:19+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/magicant&quot;&gt;magicant&lt;/a&gt;&lt;br/&gt;Published: 2026-08-22T18:52:19+09:00&lt;br/&gt;Updated: 2026-08-22T18:52:19+09:00&lt;br/&gt;ご安心ください、この記事は 100% 手打ちです 
+この記事の内容は筆者自身の開発スタイルに基づくものです。効果・効能には個人差があります。スキルは各自が自分のためにカスタマイズすることを推奨します!
+
+しばらく前にコーディングエージェントに何かを実装させる前に gr...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:acb61138c4550eef4803</id>
     <title>14MBのAIモデルは本当に動いた — DLL 1個・RAM 37MB・1回0.5秒、ただし日本語は0/5</title>
     <link rel="alternate" href="https://qiita.com/jqit_suwa/items/acb61138c4550eef4803?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2127,16 +2137,6 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 「AIエージェントにペネトレーションテスト（侵入テスト）やインシデント対応を任せたい」。
 そう考える人は増えていますが、いざ任せてみると、エージェントが現場の細かい道具立てを知らないことに気づきます。
 たとえば、Volatility3（メモリの中身を解析するツー...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0f93dd0b38fda076174f</id>
-    <title>Grill-me に丸コゲにされた俺は、もっと軽くて速いスキルを作った</title>
-    <link rel="alternate" href="https://qiita.com/magicant/items/0f93dd0b38fda076174f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-22T18:52:19+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/magicant&quot;&gt;magicant&lt;/a&gt;&lt;br/&gt;Published: 2026-08-22T18:52:19+09:00&lt;br/&gt;Updated: 2026-08-22T18:52:19+09:00&lt;br/&gt;ご安心ください、この記事は 100% 手打ちです 
-この記事の内容は筆者自身の開発スタイルに基づくものです。効果・効能には個人差があります。スキルは各自が自分のためにカスタマイズすることを推奨します!
-
-しばらく前にコーディングエージェントに何かを実装させる前に gr...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:48d124a11623b4f9e7c6</id>
