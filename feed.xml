@@ -121,18 +121,6 @@ description: AI臭さを消す汎用執筆ガイド。ブログ・スライド�
 Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、AP...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:d06e7479122150ee0ad9</id>
-    <title>「言った・言わない」を防ぐ。要件定義で使うべき質問の技術</title>
-    <link rel="alternate" href="https://qiita.com/prum_hitomi/items/d06e7479122150ee0ad9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-24T13:19:01+09:00</updated>
-    <summary type="html">Likes: 156&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prum_hitomi&quot;&gt;prum_hitomi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T13:13:08+09:00&lt;br/&gt;Updated: 2026-06-24T13:19:01+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしているひとみです。
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや、
-仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。
-誰かの助けになれば幸いです。
-
-「言った・言わない」を防ぐ。要件定義で使うべき質問の...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:a2d825e3ee3e3a4b6dbd</id>
     <title>Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ</title>
     <link rel="alternate" href="https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -443,6 +431,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b80484406e839ee6507b</id>
+    <title>【ローカルLLM】国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti）</title>
+    <link rel="alternate" href="https://qiita.com/h-nabata/items/b80484406e839ee6507b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T02:34:14+09:00</updated>
+    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/h-nabata&quot;&gt;h-nabata&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T02:34:14+09:00&lt;br/&gt;Updated: 2026-08-24T02:34:14+09:00&lt;br/&gt;はじめに
+先週、LLMCが大規模言語モデル「LLM-jp-4 33B」を公開した。これは約332億パラメーターのDense型のモデルで、今年4月に公開されたMoE型のモデルのDense版に対応する。
+以前、性能比較検証に関してLLMCが以下のような声明を発表している。確か...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:c1a219a3156a4214828d</id>
     <title>面接相手に「未来」を想像させる。未経験でも信用される伝え方</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/c1a219a3156a4214828d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -465,15 +462,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 初心者時代、エンジニア用語の読み方がわからず苦労しました。
 わからないものが出てきても、後回しにして、結局正しい読み方がわからないままに。
 前職では、ひとりエンジニア状態だったので、誰にも読み方の間違いを指摘...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b80484406e839ee6507b</id>
-    <title>【ローカルLLM】国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti）</title>
-    <link rel="alternate" href="https://qiita.com/h-nabata/items/b80484406e839ee6507b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-24T02:34:14+09:00</updated>
-    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/h-nabata&quot;&gt;h-nabata&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T02:34:14+09:00&lt;br/&gt;Updated: 2026-08-24T02:34:14+09:00&lt;br/&gt;はじめに
-先週、LLMCが大規模言語モデル「LLM-jp-4 33B」を公開した。これは約332億パラメーターのDense型のモデルで、今年4月に公開されたMoE型のモデルのDense版に対応する。
-以前、性能比較検証に関してLLMCが以下のような声明を発表している。確か...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e60cb25d3b10d7a2f316</id>
@@ -972,6 +960,16 @@ Agent Toolkit for AWSの一部の方のAWS MCP Serverの話です。オープン
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3380b85d0b52ea01f449</id>
+    <title>※この記事は人の手で書かれています</title>
+    <link rel="alternate" href="https://qiita.com/kyuko/items/3380b85d0b52ea01f449?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T12:14:53+09:00</updated>
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T12:14:53+09:00&lt;br/&gt;Updated: 2026-08-24T12:14:53+09:00&lt;br/&gt;こんにちは！ひさふるです。
+最近、QiitaでもAIを使って書かれた記事が増えてきましたね。
+AIで記事を効率的に書くこと自体も素晴らしいのですが、私としては、特に新卒で会社に入られた方などには「ぜひ自分の手で記事を書いてもらいたい！」と想うことも多く...
+今回は、そんな...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:156d782818f30a3b563e</id>
     <title>SQL初心者向け~参画までに覚えたいSQL構文10選~</title>
     <link rel="alternate" href="https://qiita.com/nt_matsuda56/items/156d782818f30a3b563e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1104,14 +1102,17 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 生成AIアプリのフロントエンドとして鉄板のStreamlitですが、AWSにデプロイするには諸々の制約があり、Fargateで行うのが一般的だと思います。Lambda Web Adapterでなんとかならないと、10回ぐらい試したのですが、WebSocket...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3380b85d0b52ea01f449</id>
-    <title>※この記事は人の手で書かれています</title>
-    <link rel="alternate" href="https://qiita.com/kyuko/items/3380b85d0b52ea01f449?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-24T12:14:53+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T12:14:53+09:00&lt;br/&gt;Updated: 2026-08-24T12:14:53+09:00&lt;br/&gt;こんにちは！ひさふるです。
-最近、QiitaでもAIを使って書かれた記事が増えてきましたね。
-AIで記事を効率的に書くこと自体も素晴らしいのですが、私としては、特に新卒で会社に入られた方などには「ぜひ自分の手で記事を書いてもらいたい！」と想うことも多く...
-今回は、そんな...</summary>
+    <id>tag:qiita.com,2026:e5065bd0e6daaf38ac62</id>
+    <title>「これで進めますね」と自分から言ってしまうと、後で仕様がひっくり返る</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/e5065bd0e6daaf38ac62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T16:16:23+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:16:23+09:00&lt;br/&gt;Updated: 2026-08-24T16:16:23+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「これで進...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b4a550002ebf1e5b8af8</id>
@@ -1145,19 +1146,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <updated>2026-07-12T12:19:19+09:00</updated>
     <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sh_fukatsu&quot;&gt;sh_fukatsu&lt;/a&gt;&lt;br/&gt;Published: 2026-07-12T12:19:19+09:00&lt;br/&gt;Updated: 2026-07-12T12:19:19+09:00&lt;br/&gt;1. はじめに
 マルチリージョン構成でのDR（Disaster Recovery）や、ワークロードのレイテンシ要件から、東京リージョン（ap-northeast-1）と大阪リージョン（ap-northeast-3）のような同一パーティション内の複数リージョンをインターネッ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e5065bd0e6daaf38ac62</id>
-    <title>「これで進めますね」と自分から言ってしまうと、後で仕様がひっくり返る</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/e5065bd0e6daaf38ac62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-24T16:16:23+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T16:16:23+09:00&lt;br/&gt;Updated: 2026-08-24T16:16:23+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-「これで進...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e6f1678b41483943fc04</id>
@@ -1788,15 +1776,6 @@ DB設計の勉強のために、以下の2冊を読みました。
 それは「この内容をプロジェクトに活かせるか」とい...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:d457f309e33c4602a693</id>
-    <title>AWSの&quot;俯瞰&quot;構成図を自動生成する ── 見やすさを機械チェックしながら量産した話</title>
-    <link rel="alternate" href="https://qiita.com/ntaka329/items/d457f309e33c4602a693?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-24T12:02:25+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ntaka329&quot;&gt;ntaka329&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T12:02:25+09:00&lt;br/&gt;Updated: 2026-06-24T12:02:25+09:00&lt;br/&gt;はじめに
-GMOコネクトの永田です。
-提案や要件整理の場で、AWSの構成図を描くことが度々あります。ただ、都度ていねいに手で描くと時間がかかります。それなら構成案から自動で生成できればと思い、既存のAWS公式スキルなども試しました。ところが出てくるのは細部まで描き込んだ実...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:a82fccf6d52c05156384</id>
     <title>QAエンジニアの仕事が変わった——Claude CodeとPlaywrightで、テストからチケット管理まで全部AIに任せてみた話</title>
     <link rel="alternate" href="https://qiita.com/a_sato_JQIT/items/a82fccf6d52c05156384?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1871,15 +1850,6 @@ SQLはデータベースを扱ううえで欠かせない言語ですが...</sum
     <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/4q_sano&quot;&gt;4q_sano&lt;/a&gt;&lt;br/&gt;Published: 2026-06-27T14:39:13+09:00&lt;br/&gt;Updated: 2026-06-27T14:47:02+09:00&lt;br/&gt;はじめに
 Claude Codeはコードを書く・直す・テストする・PRを確認するといったコード作業のためのツール、というイメージが強いと思います。
 ただ、Anthropic公式の anthropics/skills リポジトリを見ると、Claude Codeはコード作業...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3b9ccefff059ff1ab40d</id>
-    <title>oracle-ai-ready-data Skill で Oracle Database のスキーマを AI Ready Data 評価してみてみた</title>
-    <link rel="alternate" href="https://qiita.com/shirok/items/3b9ccefff059ff1ab40d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-26T19:08:48+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T07:23:50+09:00&lt;br/&gt;Updated: 2026-06-26T19:08:48+09:00&lt;br/&gt;今回は HR スキーマを例に、Oracle Database のスキーマが AI Ready Data としてどの程度整っているかを評価してみます。
-
-Oracle Database では、Select AI、RAG、AI Vector Search、AI Agent など...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d09be87764a66c9077f0</id>
@@ -1960,6 +1930,16 @@ Claude Code には /code-review、Codex 側には /codex:review と ...</summary
 そう考えている人は多いはずです。私もそうでした。ですが、Dockerでコンテナ化しているなら、その安心は半分しか正しくありません。.env をGitに上げていなくても、CO...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5da484e533d0d574045d</id>
+    <title>プロも毎日ググっている。エラーで固まらないための「検索力」の話</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/5da484e533d0d574045d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-25T17:08:11+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-25T17:08:11+09:00&lt;br/&gt;Updated: 2026-08-25T17:08:11+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0f93dd0b38fda076174f</id>
     <title>Grill-me に丸コゲにされた俺は、もっと軽くて速いスキルを作った</title>
     <link rel="alternate" href="https://qiita.com/magicant/items/0f93dd0b38fda076174f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2007,16 +1987,6 @@ AIエージェントのコーディング環境として、Docker Sandboxesを�
 GitHub Copilotに毎回プロジェクト前提を説明している開発者
 CopilotやAI Agentの出力がリポジトリの暗黙知とズレることに困っている人
 README、設計...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5da484e533d0d574045d</id>
-    <title>プロも毎日ググっている。エラーで固まらないための「検索力」の話</title>
-    <link rel="alternate" href="https://qiita.com/m__ikeda/items/5da484e533d0d574045d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-25T17:08:11+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-25T17:08:11+09:00&lt;br/&gt;Updated: 2026-08-25T17:08:11+09:00&lt;br/&gt;自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:acb61138c4550eef4803</id>
@@ -2217,5 +2187,39 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 
 自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
 でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4912f4efa2e2a5cd49d5</id>
+    <title>文系上司が知りたいのは「仕組み」ではなく、「どう影響するか」のことが多い</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/4912f4efa2e2a5cd49d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-25T17:06:49+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-25T17:06:49+09:00&lt;br/&gt;Updated: 2026-08-25T17:06:49+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+技術的に...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:001b49e080f580aea96b</id>
+    <title>新人エンジニア、先輩ごとに言う内容が違って「何が正解かわからない」</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/001b49e080f580aea96b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-25T17:04:59+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-25T17:04:59+09:00&lt;br/&gt;Updated: 2026-08-25T17:04:59+09:00&lt;br/&gt;はじめに
+
+プラ二郎先輩に言われた通りに書いたコードを、別の先輩に「それは違うよ」と言われて混乱していたぷらむんが気づいたのは、どちらかが間違っているわけではなかったということでした。
+
+会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:1953d640bc0a7c0b16fc</id>
+    <title>Claude Codeに毎日3回「挨拶ハラスメント」して5時間の使用枠で作業を止まらなくするClaude活用術</title>
+    <link rel="alternate" href="https://qiita.com/inoyu-qiita/items/1953d640bc0a7c0b16fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-21T10:51:29+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inoyu-qiita&quot;&gt;inoyu-qiita&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T00:25:13+09:00&lt;br/&gt;Updated: 2026-08-21T10:51:29+09:00&lt;br/&gt;日頃からお世話になっている社内のUさん(@haru-qiita)と一緒に業務をしていて教えていただいた最強Claude活用術です！
+
+はじめに
+Claude Codeのクラウドルーティン（定期実行エージェント）で、平日の7時・12時・17時に「挨拶を返すだけ」の超軽量なジョ...</summary>
   </entry>
 </feed>
