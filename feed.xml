@@ -347,7 +347,7 @@ https://prum.jp/
     <title>【ローカルLLM】国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti）</title>
     <link rel="alternate" href="https://qiita.com/h-nabata/items/b80484406e839ee6507b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-24T02:34:14+09:00</updated>
-    <summary type="html">Likes: 84&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/h-nabata&quot;&gt;h-nabata&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T02:34:14+09:00&lt;br/&gt;Updated: 2026-08-24T02:34:14+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 86&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/h-nabata&quot;&gt;h-nabata&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T02:34:14+09:00&lt;br/&gt;Updated: 2026-08-24T02:34:14+09:00&lt;br/&gt;はじめに
 先週、LLMCが大規模言語モデル「LLM-jp-4 33B」を公開した。これは約332億パラメーターのDense型のモデルで、今年4月に公開されたMoE型のモデルのDense版に対応する。
 以前、性能比較検証に関してLLMCが以下のような声明を発表している。確か...</summary>
   </entry>
@@ -652,6 +652,16 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 RGBそれぞれを256階調(0~255)とした場合の色の数は、16,777,216 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3380b85d0b52ea01f449</id>
+    <title>※この記事は人の手で書かれています</title>
+    <link rel="alternate" href="https://qiita.com/kyuko/items/3380b85d0b52ea01f449?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-24T12:14:53+09:00</updated>
+    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T12:14:53+09:00&lt;br/&gt;Updated: 2026-08-24T12:14:53+09:00&lt;br/&gt;こんにちは！ひさふるです。
+最近、QiitaでもAIを使って書かれた記事が増えてきましたね。
+AIで記事を効率的に書くこと自体も素晴らしいのですが、私としては、特に新卒で会社に入られた方などには「ぜひ自分の手で記事を書いてもらいたい！」と想うことも多く...
+今回は、そんな...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8d2dace07c9c7a9d0453</id>
     <title>AIのアウトプットをそのまま出すだけの人にならないために</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -713,16 +723,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 
 こんにちわ、会社で自称マスコットキャラをやってるのに社内で一番空気が読めない、ぷらむんです🐯
 入社してからずっと先輩に「これいつ終...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3380b85d0b52ea01f449</id>
-    <title>※この記事は人の手で書かれています</title>
-    <link rel="alternate" href="https://qiita.com/kyuko/items/3380b85d0b52ea01f449?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-24T12:14:53+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyuko&quot;&gt;kyuko&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T12:14:53+09:00&lt;br/&gt;Updated: 2026-08-24T12:14:53+09:00&lt;br/&gt;こんにちは！ひさふるです。
-最近、QiitaでもAIを使って書かれた記事が増えてきましたね。
-AIで記事を効率的に書くこと自体も素晴らしいのですが、私としては、特に新卒で会社に入られた方などには「ぜひ自分の手で記事を書いてもらいたい！」と想うことも多く...
-今回は、そんな...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2aff0b2b40b9d0bfda91</id>
@@ -2143,6 +2143,16 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 たとえば、Volatility3（メモリの中身を解析するツー...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a0fa9752528e2b3def71</id>
+    <title>AIにテストを書かせると、決まって同じ場所が抜ける</title>
+    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/a0fa9752528e2b3def71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-25T11:15:48+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-25T11:15:47+09:00&lt;br/&gt;Updated: 2026-08-25T11:15:48+09:00&lt;br/&gt;AI にテストを書かせると、AI は「問題ありません」と言います。
+そこで多くの人が次にやることは決まっています。別の AI にレビューさせることです。
+ただ、それは独立したレビューになっているのでしょうか。そして、そもそも何が抜けているのでしょうか。
+この記事では、AI ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:48d124a11623b4f9e7c6</id>
     <title>【コピペOK】CSSで作るモダンなUIアニメーション集</title>
     <link rel="alternate" href="https://qiita.com/nt_y-maeda112/items/48d124a11623b4f9e7c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2211,15 +2221,5 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 
 自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
 でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a0fa9752528e2b3def71</id>
-    <title>AIにテストを書かせると、決まって同じ場所が抜ける</title>
-    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/a0fa9752528e2b3def71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-25T11:15:48+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-25T11:15:47+09:00&lt;br/&gt;Updated: 2026-08-25T11:15:48+09:00&lt;br/&gt;AI にテストを書かせると、AI は「問題ありません」と言います。
-そこで多くの人が次にやることは決まっています。別の AI にレビューさせることです。
-ただ、それは独立したレビューになっているのでしょうか。そして、そもそも何が抜けているのでしょうか。
-この記事では、AI ...</summary>
   </entry>
 </feed>
