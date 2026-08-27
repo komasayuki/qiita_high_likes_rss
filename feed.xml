@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-08-26T17:12:50+09:00</updated>
+  <updated>2026-08-27T18:49:40+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -32,14 +32,6 @@ LLMは気づいたら値上がり。最新モデルは限定公開。ローカ�
 
 作ったもの
 というわけで作りました。名付...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:356e5f1dba112a075be1</id>
-    <title>正直に言う。お前のClaude Codeの使い方は間違っている</title>
-    <link rel="alternate" href="https://qiita.com/tehito/items/356e5f1dba112a075be1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-25T22:43:35+09:00</updated>
-    <summary type="html">Likes: 374&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tehito&quot;&gt;tehito&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T22:43:05+09:00&lt;br/&gt;Updated: 2026-06-25T22:43:35+09:00&lt;br/&gt;「Claude Code、思ったより速くならないな」と感じているなら、原因はモデルでもプランでもない。お前の使い方だ。
-きつい言い方をして悪い。だが3ヶ月、毎日Claude Codeと殴り合いながらExpo + Supabase + Swiftネイティブの通話アプリを個人開...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2feffd2cc6c672717973</id>
@@ -441,17 +433,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 未経験、面...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:46eeee2dbc282cb16e2f</id>
-    <title>読み方を間違えがちなエンジニア用語集 ~ 会議で恥ずかしい思いをしないために ~</title>
-    <link rel="alternate" href="https://qiita.com/n-isd/items/46eeee2dbc282cb16e2f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-26T16:50:45+09:00</updated>
-    <summary type="html">Likes: 73&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/n-isd&quot;&gt;n-isd&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T17:39:18+09:00&lt;br/&gt;Updated: 2026-06-26T16:50:45+09:00&lt;br/&gt;はじめに
-私はほぼ独学でエンジニアになった野良エンジニアです。
-初心者時代、エンジニア用語の読み方がわからず苦労しました。
-わからないものが出てきても、後回しにして、結局正しい読み方がわからないままに。
-前職では、ひとりエンジニア状態だったので、誰にも読み方の間違いを指摘...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e60cb25d3b10d7a2f316</id>
@@ -1156,17 +1137,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T07:24:09+09:00&lt;br/&gt;Updated: 2026-08-05T12:51:16+09:00&lt;br/&gt;※本記事は 2026/8 時点の公開情報（Copilot Studio 公式ブログ、Microsoft Learn、Copilot Credits Guide 2026年8月版）をベースに整理しています。今後変更される可能性があるため、契約や導入判断の際は必ず最新の公式情報...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5c96232d188ecfb2544b</id>
-    <title>【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA</title>
-    <link rel="alternate" href="https://qiita.com/yuyanz/items/5c96232d188ecfb2544b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-26T19:12:04+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuyanz&quot;&gt;yuyanz&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T19:18:54+09:00&lt;br/&gt;Updated: 2026-06-26T19:12:04+09:00&lt;br/&gt;この記事はGitHub Copilotと一緒に書きました。
-
-1. はじめに
-「業務を自動化したいけど、自由にツールを使えない」「コーディングエージェントや Playwright が職場ルールで使えない」という場面、ありませんか？
-私の周りでも、セキュリティと運用ル...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:6e1719b24f56d4166d2e</id>
     <title>彼女の誕生日に、2人だけのSNS「Sync」を作った話</title>
     <link rel="alternate" href="https://qiita.com/dayaa/items/6e1719b24f56d4166d2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1336,6 +1306,16 @@ Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン
 前回は計算量（Big-O）の話を書きましたが、今回はその流れで、探索アルゴリズムの基本 DFS（深さ優先探索） と BFS（幅優先探索） をまとめてみました 
 名前は難しそうですが、中身は 「スタックを使うか、キューを使うか」だけの違い です。
 興味ある方は...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ae3e9f9f0f5a4515f276</id>
+    <title>Antigravity for VS Code in GitHub Codespacesが便利すぎる件【サンドボックス / 脱GitHub Copilot】</title>
+    <link rel="alternate" href="https://qiita.com/yangguofu/items/ae3e9f9f0f5a4515f276?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-27T18:49:40+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yangguofu&quot;&gt;yangguofu&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T04:14:13+09:00&lt;br/&gt;Updated: 2026-08-27T18:49:40+09:00&lt;br/&gt;TL;DR
+
+2026年8月、Google Antigravityが公式のVS Code拡張機能として登場した。もう「Antigravityという別IDE」に引っ越す必要がない
+これをGitHub Codespacesの中にインストールすると、エージェントの実行環境...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:caac6a305b6f190676da</id>
@@ -1509,16 +1489,6 @@ GitもDBもAPIも、仕事で触るたびに「これなんだっけ」となり
 今回は、調査...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:ae3e9f9f0f5a4515f276</id>
-    <title>Antigravity for VS Code in GitHub Codespacesが便利すぎる件【サンドボックス / 脱GitHub Copilot】</title>
-    <link rel="alternate" href="https://qiita.com/yangguofu/items/ae3e9f9f0f5a4515f276?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-26T13:00:14+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yangguofu&quot;&gt;yangguofu&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T04:14:13+09:00&lt;br/&gt;Updated: 2026-08-26T13:00:14+09:00&lt;br/&gt;TL;DR
-
-2026年8月、Google Antigravityが公式のVS Code拡張機能として登場した。もう「Antigravityという別IDE」に引っ越す必要がない
-これをGitHub Codespacesの中にインストールすると、エージェントの実行環境が丸ご...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:c5daff368bc75c79e7b0</id>
     <title>「え！！Microsoft 365 Copilotでアプリ作成を！？」「出来らぁ！」</title>
     <link rel="alternate" href="https://qiita.com/Oyu3m/items/c5daff368bc75c79e7b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1668,6 +1638,16 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a0fa9752528e2b3def71</id>
+    <title>AIにテストを書かせると、決まって同じ場所が抜ける</title>
+    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/a0fa9752528e2b3def71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-25T11:15:48+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-25T11:15:47+09:00&lt;br/&gt;Updated: 2026-08-25T11:15:48+09:00&lt;br/&gt;AI にテストを書かせると、AI は「問題ありません」と言います。
+そこで多くの人が次にやることは決まっています。別の AI にレビューさせることです。
+ただ、それは独立したレビューになっているのでしょうか。そして、そもそも何が抜けているのでしょうか。
+この記事では、AI ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a99f0d9f0db6ebd87c00</id>
     <title>わかったようでわからない非同期処理の完全理解①</title>
     <link rel="alternate" href="https://qiita.com/yuki_crossroad/items/a99f0d9f0db6ebd87c00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1712,6 +1692,19 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 「sh...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4912f4efa2e2a5cd49d5</id>
+    <title>文系上司が知りたいのは「仕組み」ではなく、「どう影響するか」のことが多い</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/4912f4efa2e2a5cd49d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-25T17:06:49+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-25T17:06:49+09:00&lt;br/&gt;Updated: 2026-08-25T17:06:49+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+技術的に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:edc03c11a477f5ecbfc2</id>
     <title>IT企業の面接、私服で本当に大丈夫？採用担当が考える「清潔感」のライン</title>
     <link rel="alternate" href="https://qiita.com/m__ikeda/items/edc03c11a477f5ecbfc2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1738,19 +1731,6 @@ Geminiでこんなプロンプトを入力すると...</summary>
     <updated>2026-07-10T12:34:58+09:00</updated>
     <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Koukyosyumei&quot;&gt;Koukyosyumei&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T12:34:58+09:00&lt;br/&gt;Updated: 2026-07-10T12:34:58+09:00&lt;br/&gt;こんにちは！コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。
 さて、読者のほとんどの方が Claude Code や Codex を使って開発をしていると思いますが、皆さんは「AIエージェントがシェルコマンドやネットワークアクセ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4912f4efa2e2a5cd49d5</id>
-    <title>文系上司が知りたいのは「仕組み」ではなく、「どう影響するか」のことが多い</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/4912f4efa2e2a5cd49d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-25T17:06:49+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-25T17:06:49+09:00&lt;br/&gt;Updated: 2026-08-25T17:06:49+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-技術的に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:001b49e080f580aea96b</id>
@@ -1842,16 +1822,6 @@ DB設計の勉強のために、以下の2冊を読みました。
 
 最近、技術書を読むときに意識していることがあります。
 それは「この内容をプロジェクトに活かせるか」とい...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a0fa9752528e2b3def71</id>
-    <title>AIにテストを書かせると、決まって同じ場所が抜ける</title>
-    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/a0fa9752528e2b3def71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-25T11:15:48+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-25T11:15:47+09:00&lt;br/&gt;Updated: 2026-08-25T11:15:48+09:00&lt;br/&gt;AI にテストを書かせると、AI は「問題ありません」と言います。
-そこで多くの人が次にやることは決まっています。別の AI にレビューさせることです。
-ただ、それは独立したレビューになっているのでしょうか。そして、そもそも何が抜けているのでしょうか。
-この記事では、AI ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a82fccf6d52c05156384</id>
@@ -2187,6 +2157,29 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 たとえば、Volatility3（メモリの中身を解析するツー...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2d938cedad3a143542af</id>
+    <title>「勉強してるのに作れない…」プログラミング学習の沼を脱出する“割り切り”のすすめ</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/2d938cedad3a143542af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-27T18:05:35+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T18:05:35+09:00&lt;br/&gt;Updated: 2026-08-27T18:05:35+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:95c018954c2b0cc9ebd8</id>
+    <title>マルチタスクをやめたら、完了までの体感時間が変わった</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/95c018954c2b0cc9ebd8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-27T18:02:05+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T18:02:05+09:00&lt;br/&gt;Updated: 2026-08-27T18:02:05+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+複数の実装...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:48d124a11623b4f9e7c6</id>
     <title>【コピペOK】CSSで作るモダンなUIアニメーション集</title>
     <link rel="alternate" href="https://qiita.com/nt_y-maeda112/items/48d124a11623b4f9e7c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2223,5 +2216,18 @@ identifying the error is distinct from generatin...</summary>
     <link rel="alternate" href="https://qiita.com/shirok/items/6a2a3e6992ab0eb93d7a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-07-29T21:24:22+09:00</updated>
     <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-07-28T06:55:38+09:00&lt;br/&gt;Updated: 2026-07-29T21:24:22+09:00&lt;br/&gt;oracle-ai-ready-data Skill 第1回では、サンプルのHRスキーマを対象にoracle-ai-ready-data SkillでAI Ready評価を行いました。HRスキーマはテーブル名やカラム名、主キー・外部キーなどが比較的分かりやすく整備されてい...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:74a96ce83dde5245407a</id>
+    <title>「最後に検証して」はもう書かなくていい — Claude Opus 5 でプロンプトの常識が逆転した4つのこと</title>
+    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/74a96ce83dde5245407a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-28T13:57:40+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-28T13:08:47+09:00&lt;br/&gt;Updated: 2026-07-28T13:57:40+09:00&lt;br/&gt;あなたのシステムプロンプトに、こんな一文が入っていませんか。
+
+最後に、出力内容を検証してください。
+
+Claude Opus 5 では、これは消したほうがいい一文になりました。
+「効かなくなった」のではありません。逆効果になったのです。
+同じように、これまで良かれと思って...</summary>
   </entry>
 </feed>
