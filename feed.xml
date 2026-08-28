@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-08-27T18:49:40+09:00</updated>
+  <updated>2026-08-28T16:28:35+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -941,6 +941,16 @@ Agent Toolkit for AWSの一部の方のAWS MCP Serverの話です。オープン
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ae3e9f9f0f5a4515f276</id>
+    <title>Antigravity for VS Code in GitHub Codespacesが便利すぎる件【サンドボックス / 脱GitHub Copilot】</title>
+    <link rel="alternate" href="https://qiita.com/yangguofu/items/ae3e9f9f0f5a4515f276?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-27T18:49:40+09:00</updated>
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yangguofu&quot;&gt;yangguofu&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T04:14:13+09:00&lt;br/&gt;Updated: 2026-08-27T18:49:40+09:00&lt;br/&gt;TL;DR
+
+2026年8月、Google Antigravityが公式のVS Code拡張機能として登場した。もう「Antigravityという別IDE」に引っ越す必要がない
+これをGitHub Codespacesの中にインストールすると、エージェントの実行環境...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e5065bd0e6daaf38ac62</id>
     <title>「これで進めますね」と自分から言ってしまうと、後で仕様がひっくり返る</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/e5065bd0e6daaf38ac62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1012,16 +1022,6 @@ X(Twitter)を見ていると怪しげな従量課金のゲームアセット生�
 
 作業手順を SKILL.md に明文化してエージェントに渡せば、AI が書いた通りに作業してくれます。
 一見とても便利で...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ae3e9f9f0f5a4515f276</id>
-    <title>Antigravity for VS Code in GitHub Codespacesが便利すぎる件【サンドボックス / 脱GitHub Copilot】</title>
-    <link rel="alternate" href="https://qiita.com/yangguofu/items/ae3e9f9f0f5a4515f276?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-27T18:49:40+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yangguofu&quot;&gt;yangguofu&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T04:14:13+09:00&lt;br/&gt;Updated: 2026-08-27T18:49:40+09:00&lt;br/&gt;TL;DR
-
-2026年8月、Google Antigravityが公式のVS Code拡張機能として登場した。もう「Antigravityという別IDE」に引っ越す必要がない
-これをGitHub Codespacesの中にインストールすると、エージェントの実行環境...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:639d401573c09ab24667</id>
@@ -1235,6 +1235,19 @@ MCPやAgent Skillsを導入している、または導入を検討している�
 AGENTS.m...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:61c644bfc4e49353a451</id>
+    <title>技術書を完璧にしても、答えのない判断には対応できない</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/61c644bfc4e49353a451?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-26T17:11:27+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T17:11:27+09:00&lt;br/&gt;Updated: 2026-08-26T17:11:27+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+技術書を...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ccd228bb1c33b2a918f5</id>
     <title>Claude Code の出力を35%短くしたら、情報がむしろ増えた</title>
     <link rel="alternate" href="https://qiita.com/jqit_suwa/items/ccd228bb1c33b2a918f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1271,19 +1284,6 @@ Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン
 シリーズで計算量やレースコンディションを書いてきましたが、今回は DBインデックス です 
 「indexを貼ると速くなる」は知っていても、なぜ速いのか／どこに貼るべきかまで説明できると強いので、そこをまとめてみました。
 興味ある方は読んでいただけると嬉しいで...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:61c644bfc4e49353a451</id>
-    <title>技術書を完璧にしても、答えのない判断には対応できない</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/61c644bfc4e49353a451?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-26T17:11:27+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T17:11:27+09:00&lt;br/&gt;Updated: 2026-08-26T17:11:27+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-技術書を...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a0fa9752528e2b3def71</id>
@@ -1536,6 +1536,16 @@ GitもDBもAPIも、仕事で触るたびに「これなんだっけ」となり
 今回は、調査...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2d938cedad3a143542af</id>
+    <title>「勉強してるのに作れない…」プログラミング学習の沼を脱出する“割り切り”のすすめ</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/2d938cedad3a143542af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-27T18:05:35+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T18:05:35+09:00&lt;br/&gt;Updated: 2026-08-27T18:05:35+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:76f8a1df75eb399ce58b</id>
     <title>スクール卒業＝即戦力じゃない。でも「自走力」があれば、うちは全然いける。</title>
     <link rel="alternate" href="https://qiita.com/m__ikeda/items/76f8a1df75eb399ce58b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1594,16 +1604,6 @@ OpenAIによるChatGPTの公開から、早くも3年以上の月日が経ちま
 眺...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:2d938cedad3a143542af</id>
-    <title>「勉強してるのに作れない…」プログラミング学習の沼を脱出する“割り切り”のすすめ</title>
-    <link rel="alternate" href="https://qiita.com/m__ikeda/items/2d938cedad3a143542af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-27T18:05:35+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T18:05:35+09:00&lt;br/&gt;Updated: 2026-08-27T18:05:35+09:00&lt;br/&gt;自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:95c018954c2b0cc9ebd8</id>
     <title>マルチタスクをやめたら、完了までの体感時間が変わった</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/95c018954c2b0cc9ebd8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1625,6 +1625,17 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 こんにちは。株式会社PRUMで採用広報を担当している池田です。
 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
 もしIT業界に興味があるけど、...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:001b49e080f580aea96b</id>
+    <title>新人エンジニア、先輩ごとに言う内容が違って「何が正解かわからない」</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/001b49e080f580aea96b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-25T17:04:59+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-25T17:04:59+09:00&lt;br/&gt;Updated: 2026-08-25T17:04:59+09:00&lt;br/&gt;はじめに
+
+プラ二郎先輩に言われた通りに書いたコードを、別の先輩に「それは違うよ」と言われて混乱していたぷらむんが気づいたのは、どちらかが間違っているわけではなかったということでした。
+
+会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:565588e1b1dc66012b79</id>
@@ -1684,15 +1695,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 5年後、AI...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:001b49e080f580aea96b</id>
-    <title>新人エンジニア、先輩ごとに言う内容が違って「何が正解かわからない」</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/001b49e080f580aea96b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-25T17:04:59+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-25T17:04:59+09:00&lt;br/&gt;Updated: 2026-08-25T17:04:59+09:00&lt;br/&gt;はじめに
+    <id>tag:qiita.com,2026:a86026cf72f4effc30f3</id>
+    <title>新人エンジニア、作業前に方向性を確認しとかないと後悔する</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/a86026cf72f4effc30f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-27T17:57:48+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T17:57:48+09:00&lt;br/&gt;Updated: 2026-08-27T17:57:48+09:00&lt;br/&gt;はじめに
 
-プラ二郎先輩に言われた通りに書いたコードを、別の先輩に「それは違うよ」と言われて混乱していたぷらむんが気づいたのは、どちらかが間違っているわけではなかったということでした。
+作業を終えて「できました!」と提出したのに、猫子先輩から「うーん、これじゃないんだよなあ」と言われてショックを受けたぷらむんが気づいたのは、直すべきだったのは作業の中身より前の段階だった、ということでした。
 
-会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです...</summary>
+会社で自称マスコットキャラをやってるのに、社内...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a99f0d9f0db6ebd87c00</id>
@@ -1739,17 +1750,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 「sh...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a86026cf72f4effc30f3</id>
-    <title>新人エンジニア、作業前に方向性を確認しとかないと後悔する</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/a86026cf72f4effc30f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-27T17:57:48+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T17:57:48+09:00&lt;br/&gt;Updated: 2026-08-27T17:57:48+09:00&lt;br/&gt;はじめに
-
-作業を終えて「できました!」と提出したのに、猫子先輩から「うーん、これじゃないんだよなあ」と言われてショックを受けたぷらむんが気づいたのは、直すべきだったのは作業の中身より前の段階だった、ということでした。
-
-会社で自称マスコットキャラをやってるのに、社内...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:edc03c11a477f5ecbfc2</id>
     <title>IT企業の面接、私服で本当に大丈夫？採用担当が考える「清潔感」のライン</title>
     <link rel="alternate" href="https://qiita.com/m__ikeda/items/edc03c11a477f5ecbfc2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1776,6 +1776,16 @@ Geminiでこんなプロンプトを入力すると...</summary>
     <updated>2026-07-10T12:34:58+09:00</updated>
     <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Koukyosyumei&quot;&gt;Koukyosyumei&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T12:34:58+09:00&lt;br/&gt;Updated: 2026-07-10T12:34:58+09:00&lt;br/&gt;こんにちは！コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。
 さて、読者のほとんどの方が Claude Code や Codex を使って開発をしていると思いますが、皆さんは「AIエージェントがシェルコマンドやネットワークアクセ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:44c6f3b78a6a1dce0d57</id>
+    <title>Vimのコマンドを丸暗記しないために、オペレータとモーションで整理してみた</title>
+    <link rel="alternate" href="https://qiita.com/AkiraTakasaki/items/44c6f3b78a6a1dce0d57?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-26T12:28:11+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/AkiraTakasaki&quot;&gt;AkiraTakasaki&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T12:28:10+09:00&lt;br/&gt;Updated: 2026-08-26T12:28:11+09:00&lt;br/&gt;こんにちは、ソーイ株式会社の髙﨑です。
+私は業務で時々、Vimを使ってファイルを編集することがあります。
+例えば、サーバー上のファイルを直接確認・修正するときなど、普段使っているエディタを使えない環境でVimを使うことがあります。
+ただ、Vimを使うたびに操作方法やコマンド...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0fd31bb4dfac9adfba95</id>
@@ -1856,6 +1866,19 @@ DB設計の勉強のために、以下の2冊を読みました。
 
 最近、技術書を読むときに意識していることがあります。
 それは「この内容をプロジェクトに活かせるか」とい...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5726c8769b487e118571</id>
+    <title>「AIに店長を任せてみた実験」からもらった、これからの働き方のヒント</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/5726c8769b487e118571?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-28T16:28:35+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T16:28:35+09:00&lt;br/&gt;Updated: 2026-08-28T16:28:35+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「AIに全...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a82fccf6d52c05156384</id>
@@ -2012,16 +2035,6 @@ Claude Code には /code-review、Codex 側には /codex:review と ...</summary
 そう考えている人は多いはずです。私もそうでした。ですが、Dockerでコンテナ化しているなら、その安心は半分しか正しくありません。.env をGitに上げていなくても、CO...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:44c6f3b78a6a1dce0d57</id>
-    <title>Vimのコマンドを丸暗記しないために、オペレータとモーションで整理してみた</title>
-    <link rel="alternate" href="https://qiita.com/AkiraTakasaki/items/44c6f3b78a6a1dce0d57?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-26T12:28:11+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/AkiraTakasaki&quot;&gt;AkiraTakasaki&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T12:28:10+09:00&lt;br/&gt;Updated: 2026-08-26T12:28:11+09:00&lt;br/&gt;こんにちは、ソーイ株式会社の髙﨑です。
-私は業務で時々、Vimを使ってファイルを編集することがあります。
-例えば、サーバー上のファイルを直接確認・修正するときなど、普段使っているエディタを使えない環境でVimを使うことがあります。
-ただ、Vimを使うたびに操作方法やコマンド...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:0f93dd0b38fda076174f</id>
     <title>Grill-me に丸コゲにされた俺は、もっと軽くて速いスキルを作った</title>
     <link rel="alternate" href="https://qiita.com/magicant/items/0f93dd0b38fda076174f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2069,6 +2082,17 @@ AIエージェントのコーディング環境として、Docker Sandboxesを�
 GitHub Copilotに毎回プロジェクト前提を説明している開発者
 CopilotやAI Agentの出力がリポジトリの暗黙知とズレることに困っている人
 README、設計...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d155a4ac10477d1eb41f</id>
+    <title>IT業界で皆知ってる「クラウド」「AWS」、分かったふりやめて先輩に聞いてみた</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/d155a4ac10477d1eb41f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-28T16:21:15+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T16:21:15+09:00&lt;br/&gt;Updated: 2026-08-28T16:21:15+09:00&lt;br/&gt;はじめに
+
+会社でしょっちゅう飛び交う「クラウド」という言葉に、分かったふりで相槌を打ち続けていたぷらむんが、思い切ってたぬき先輩に「クラウドって結局何なんですか?」と聞いてみたら、モヤモヤの正体がようやく整理できた話です。
+
+会社で自称マスコットキャラをやってるのに...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:acb61138c4550eef4803</id>
@@ -2191,14 +2215,14 @@ GMOコネクトの永田です。
 VPCがSDN（Software Defined Network）でできていて、他人の...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:8f99cc6fc97541a14b76</id>
-    <title>AIエージェントを“セキュリティのプロ”に変える817個のスキル集 — Claude Code / Codex / Cursor / Copilot対応OSSを読み解く</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/8f99cc6fc97541a14b76?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-26T10:50:21+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-06-26T10:50:21+09:00&lt;br/&gt;Updated: 2026-06-26T10:50:21+09:00&lt;br/&gt;はじめに
-「AIエージェントにペネトレーションテスト（侵入テスト）やインシデント対応を任せたい」。
-そう考える人は増えていますが、いざ任せてみると、エージェントが現場の細かい道具立てを知らないことに気づきます。
-たとえば、Volatility3（メモリの中身を解析するツー...</summary>
+    <id>tag:qiita.com,2026:b96813bc8a482b3d0074</id>
+    <title>面接で「前職への不満」を聞かれたら。無理にきれいな退職理由をつくらなくても大丈夫です</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/b96813bc8a482b3d0074?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-28T16:25:01+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T16:25:01+09:00&lt;br/&gt;Updated: 2026-08-28T16:25:01+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:48d124a11623b4f9e7c6</id>
@@ -2209,26 +2233,5 @@ VPCがSDN（Software Defined Network）でできていて、他人の...</summar
 フロントエンド開発をしていると、「押したくなるようなボタンにしたい」「ユーザーが直感的に操作できるようにしたい」と感じることがあります。
 そんなときに活用できるのが、CSSによるアニメーションです。
 transitionやtransformなどのCSSプロパティ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a50907007c868b807750</id>
-    <title>【PHP8.6】PHP8.6の新機能全部紹介するよ</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/a50907007c868b807750?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-10T20:18:02+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T20:12:11+09:00&lt;br/&gt;Updated: 2026-08-10T20:18:02+09:00&lt;br/&gt;PHP8.6 / PHP8.5 / PHP8.4 / PHP8.3 / PHP8.2
-2026/08/13、PHP8.6がフィーチャーフリーズしました。
-言語機能に関わるような機能の追加・変更が締め切られたということです。
-今後はデバッグを繰り返しながら完成度を高めていき、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:aefb1adac27a34646cf3</id>
-    <title>AI が原因を当てても、「思いついた」わけじゃない —— 推論の3分類で見分ける</title>
-    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/aefb1adac27a34646cf3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-06T09:29:04+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-06T09:29:03+09:00&lt;br/&gt;Updated: 2026-08-06T09:29:04+09:00&lt;br/&gt;AI にバグの原因を聞くと、けっこう当ててきます。
-でも、たまにとんでもなく的外れなことを言う。しかも自信満々で。
-この差が気になって論文を読んだら、こんな一文がありました。
-
-identifying the error is distinct from generatin...</summary>
   </entry>
 </feed>
