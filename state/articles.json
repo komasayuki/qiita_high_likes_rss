@@ -1425,8 +1425,20 @@
       "published": "2026-08-28T17:00:01+09:00",
       "updated": "2026-08-28T17:00:02+09:00",
       "author_name": "jqit_suwa",
-      "likes_count": 19,
-      "last_seen": "2026-08-29T18:22:29.000518399+00:00"
+      "likes_count": 21,
+      "last_seen": "2026-08-29T21:40:52.189837448+00:00"
+    },
+    {
+      "key": "4231026d13f7527c0f69",
+      "item_id": "4231026d13f7527c0f69",
+      "title": "AIの口癖を日本語記事で測ろうとして、3回とも失敗した",
+      "link": "https://qiita.com/jqit_suwa/items/4231026d13f7527c0f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "AI が書いた文章には、特徴的な語彙がある。 そういう分析が Hacker News で 663 ポイントを集めていました。\n面白かったので、自分の Qiita 記事30本で同じことをやろうとしました。\n3回とも失敗しました。 この記事は、その記録です。\n「日本語でも同じ手...",
+      "published": "2026-08-29T19:54:43+09:00",
+      "updated": "2026-08-29T19:54:44+09:00",
+      "author_name": "jqit_suwa",
+      "likes_count": 15,
+      "last_seen": "2026-08-29T21:40:52.189837448+00:00"
     },
     {
       "key": "42537e0b14b38797d218",
@@ -1439,18 +1451,6 @@
       "author_name": "tomada",
       "likes_count": 35,
       "last_seen": "2026-08-24T19:37:40.532622274+00:00"
-    },
-    {
-      "key": "42b090a12f4c52254292",
-      "item_id": "42b090a12f4c52254292",
-      "title": "VR向けテクスチャ縮小方式の考察とUnityにおけるArea Averagingの実装",
-      "link": "https://qiita.com/Sersz7/items/42b090a12f4c52254292?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nVRChat向けアバターを触っていると、テクスチャのVRAMサイズが気になってきます。\n魅せ方をある程度制御できる一般的なリアルタイムレンダリングベースのゲームと、信じられないほど至近距離まで近づくことのできるVRChatとでは、テクスチャに限らず3Dモデル自体...",
-      "published": "2026-06-28T23:58:48+09:00",
-      "updated": "2026-06-30T14:57:35+09:00",
-      "author_name": "Sersz7",
-      "likes_count": 18,
-      "last_seen": "2026-06-30T19:44:08.787045570+00:00"
     },
     {
       "key": "42b892805eb1d754109c",
@@ -1618,7 +1618,7 @@
       "updated": "2026-08-27T22:01:16+09:00",
       "author_name": "moritalous",
       "likes_count": 36,
-      "last_seen": "2026-08-29T18:22:29.000518399+00:00"
+      "last_seen": "2026-08-29T21:40:52.189837448+00:00"
     },
     {
       "key": "4b1502b6bcc69c459baa",
@@ -1813,18 +1813,6 @@
       "last_seen": "2026-07-15T06:24:41.120326749+00:00"
     },
     {
-      "key": "54d9dc3b81e2d59982bb",
-      "item_id": "54d9dc3b81e2d59982bb",
-      "title": "Rustによる開発で使うツールまとめ",
-      "link": "https://qiita.com/hyperfinitism/items/54d9dc3b81e2d59982bb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Rustにおけるバージョン管理，ライセンス管理，テスト，ドキュメンテーション，CI/CDのためのcrate，CLIツール，GitHub Actionなどについてまとめた．本記事では以下を扱う．\n\nCargoプロジェクトにおける Cargo.toml / Cargo.lock...",
-      "published": "2026-06-28T11:47:32+09:00",
-      "updated": "2026-06-28T22:02:04+09:00",
-      "author_name": "hyperfinitism",
-      "likes_count": 13,
-      "last_seen": "2026-06-30T19:44:08.787045570+00:00"
-    },
-    {
       "key": "565588e1b1dc66012b79",
       "item_id": "565588e1b1dc66012b79",
       "title": "オントロジーについて",
@@ -1845,8 +1833,8 @@
       "published": "2026-08-28T16:28:35+09:00",
       "updated": "2026-08-28T16:28:35+09:00",
       "author_name": "sumomoo",
-      "likes_count": 31,
-      "last_seen": "2026-08-29T18:22:29.000518399+00:00"
+      "likes_count": 32,
+      "last_seen": "2026-08-29T21:40:52.189837448+00:00"
     },
     {
       "key": "573178ed3b8a6a22ebb1",
@@ -2398,7 +2386,7 @@
       "updated": "2026-08-27T22:02:52+09:00",
       "author_name": "moritalous",
       "likes_count": 11,
-      "last_seen": "2026-08-29T18:22:29.000518399+00:00"
+      "last_seen": "2026-08-29T21:40:52.189837448+00:00"
     },
     {
       "key": "74212606fbf4f01d82dd",
@@ -3274,7 +3262,7 @@
       "updated": "2026-08-28T09:06:06+09:00",
       "author_name": "y-kojima-next",
       "likes_count": 13,
-      "last_seen": "2026-08-29T18:22:29.000518399+00:00"
+      "last_seen": "2026-08-29T21:40:52.189837448+00:00"
     },
     {
       "key": "9355c8e524df37243617",
@@ -3383,18 +3371,6 @@
       "author_name": "shige-h",
       "likes_count": 61,
       "last_seen": "2026-07-05T19:39:41.947269214+00:00"
-    },
-    {
-      "key": "989a527c54ba05414a6b",
-      "item_id": "989a527c54ba05414a6b",
-      "title": "友達に「エンジニア、もういらなくない？」と言われたので、本気で考えてみた",
-      "link": "https://qiita.com/skmtwork0/items/989a527c54ba05414a6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "最近よく聞く話題ですが、とうとう私にも質問が来たか、と思い、この記事を書かせてもらいます。\n\nきっかけ：友達の「もうエンジニアいらなくない？」\n先日、友人が「AIでアプリ作ったんだ」と見せてくれました。個人で使うWebアプリを、ほぼAIに作らせたらしい。ちゃんと動くし、それ...",
-      "published": "2026-06-27T17:03:08+09:00",
-      "updated": "2026-06-27T17:03:08+09:00",
-      "author_name": "skmtwork0",
-      "likes_count": 17,
-      "last_seen": "2026-06-30T19:44:08.787045570+00:00"
     },
     {
       "key": "99b4d7724053a3b0c3ce",
@@ -3741,8 +3717,8 @@
       "published": "2026-08-27T17:57:48+09:00",
       "updated": "2026-08-27T17:57:48+09:00",
       "author_name": "prumnn",
-      "likes_count": 32,
-      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
+      "likes_count": 34,
+      "last_seen": "2026-08-29T21:40:52.189837448+00:00"
     },
     {
       "key": "a898a395727022fa213f",
@@ -4117,18 +4093,6 @@
       "last_seen": "2026-07-10T18:41:54.956098067+00:00"
     },
     {
-      "key": "b78d9d8cd39967df4119",
-      "item_id": "b78d9d8cd39967df4119",
-      "title": "SDD（Spec-Driven Development）とLoop Engineeringの関係 ― superpowersは両者を統合したハーネスだった",
-      "link": "https://qiita.com/nogataka/items/b78d9d8cd39967df4119?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nAIコーディングの界隈で、2025年後半から2つの言葉がよく聞かれるようになりました。\nひとつが Spec-Driven Development（SDD / スペックドリブン開発） です。\nもうひとつが Loop Engineering（ループエンジニアリング）...",
-      "published": "2026-06-29T08:25:55+09:00",
-      "updated": "2026-06-29T08:25:55+09:00",
-      "author_name": "nogataka",
-      "likes_count": 12,
-      "last_seen": "2026-06-30T19:44:08.787045570+00:00"
-    },
-    {
       "key": "b7bfe27efae0231a09af",
       "item_id": "b7bfe27efae0231a09af",
       "title": "AI人材は２つに分かれる。あなたが目指すべきはどっち？",
@@ -4174,7 +4138,7 @@
       "updated": "2026-08-28T16:25:01+09:00",
       "author_name": "m__ikeda",
       "likes_count": 29,
-      "last_seen": "2026-08-29T18:22:29.000518399+00:00"
+      "last_seen": "2026-08-29T21:40:52.189837448+00:00"
     },
     {
       "key": "b9a128b0e71382979f08",
@@ -4630,7 +4594,7 @@
       "updated": "2026-08-28T16:21:15+09:00",
       "author_name": "prumnn",
       "likes_count": 28,
-      "last_seen": "2026-08-29T18:22:29.000518399+00:00"
+      "last_seen": "2026-08-29T21:40:52.189837448+00:00"
     },
     {
       "key": "d17ac3c49e568266123d",
@@ -4726,7 +4690,7 @@
       "updated": "2026-08-28T14:09:03+09:00",
       "author_name": "ssc-ksaitou",
       "likes_count": 10,
-      "last_seen": "2026-08-29T18:22:29.000518399+00:00"
+      "last_seen": "2026-08-29T21:40:52.189837448+00:00"
     },
     {
       "key": "d49739b934606d4abdbd",
@@ -5567,6 +5531,18 @@
       "author_name": "sean-kintone",
       "likes_count": 10,
       "last_seen": "2026-07-09T20:01:25.304758230+00:00"
+    },
+    {
+      "key": "fc7f964572190fb8a77a",
+      "item_id": "fc7f964572190fb8a77a",
+      "title": "環境変数でサブエージェントのモデルを固定できなくなった",
+      "link": "https://qiita.com/jqit_suwa/items/fc7f964572190fb8a77a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "CLAUDE_CODE_SUBAGENT_MODEL は、サブエージェントのモデルを指定する環境変数です。\nこれまでは全部を上書きしていました。 Claude Code 2.1.251 で、エージェント定義側が勝つように変わりました。\n手元で4通り試したら、はっきり分かれま...",
+      "published": "2026-08-29T19:54:28+09:00",
+      "updated": "2026-08-29T19:54:28+09:00",
+      "author_name": "jqit_suwa",
+      "likes_count": 15,
+      "last_seen": "2026-08-29T21:40:52.189837448+00:00"
     },
     {
       "key": "fd8f449f1dddcc9f31fe",
