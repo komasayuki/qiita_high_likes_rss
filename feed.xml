@@ -921,6 +921,15 @@ Agent Toolkit for AWSの一部の方のAWS MCP Serverの話です。オープン
 これをGitHub Codespacesの中にインストールすると、エージェントの実行環境...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:02b6b45e2ca7d34ad146</id>
+    <title>ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった</title>
+    <link rel="alternate" href="https://qiita.com/ktdatascience/items/02b6b45e2ca7d34ad146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-26T22:31:54+09:00</updated>
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T22:31:54+09:00&lt;br/&gt;Updated: 2026-08-26T22:31:54+09:00&lt;br/&gt;自分のレビューが薄い理由が分からなかった
+同じPRを見ているのに、自分は「LGTM」で終わり、隣の人は10件の的確な指摘を出してくる。何を見ればそうなるのか、聞いてみても「気になった箇所を見てるだけ」という答えしか返ってこない。同じ経験、ありませんか。
+それなら実物を数え...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e5065bd0e6daaf38ac62</id>
     <title>「これで進めますね」と自分から言ってしまうと、後で仕様がひっくり返る</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/e5065bd0e6daaf38ac62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1256,15 +1265,6 @@ Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン
 興味ある方は読んでいただけると嬉しいで...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:02b6b45e2ca7d34ad146</id>
-    <title>ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった</title>
-    <link rel="alternate" href="https://qiita.com/ktdatascience/items/02b6b45e2ca7d34ad146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-26T22:31:54+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T22:31:54+09:00&lt;br/&gt;Updated: 2026-08-26T22:31:54+09:00&lt;br/&gt;自分のレビューが薄い理由が分からなかった
-同じPRを見ているのに、自分は「LGTM」で終わり、隣の人は10件の的確な指摘を出してくる。何を見ればそうなるのか、聞いてみても「気になった箇所を見てるだけ」という答えしか返ってこない。同じ経験、ありませんか。
-それなら実物を数え...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:76e54fee4331e3d86f29</id>
     <title>先輩の「わからないならいい」に、新人エンジニアが振り回された話</title>
     <link rel="alternate" href="https://qiita.com/prumnn/items/76e54fee4331e3d86f29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1329,6 +1329,23 @@ Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン
 前回は計算量（Big-O）の話を書きましたが、今回はその流れで、探索アルゴリズムの基本 DFS（深さ優先探索） と BFS（幅優先探索） をまとめてみました 
 名前は難しそうですが、中身は 「スタックを使うか、キューを使うか」だけの違い です。
 興味ある方は...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4a70f0bee16d5d690a73</id>
+    <title>10年分ぐらいのQiitaの自分の投稿を蒸留したら、自分っぽい記事を書いてくれるようになったww</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/4a70f0bee16d5d690a73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-27T22:01:16+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T22:01:16+09:00&lt;br/&gt;Updated: 2026-08-27T22:01:16+09:00&lt;br/&gt;この投稿は、100%人間が書いています。
+
+さっき公開したこの記事、実は100%生成AI製です。
+（内容は実際に検証した結果なので、合ってると思います。）
+
+ただ、文体とか流れは、自分っぽい😁
+
+やり方（というか実施したプロンプト）です
+
+プロンプト
+まずは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:caac6a305b6f190676da</id>
@@ -1420,23 +1437,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 これまでいくつかの記事でも触れていますが、Copilot Studio では、自律型のエージェントを作成できます。ただ、改めて、何をもって自律型と位置づけられる？作成方法は？という点で少し混乱している方もいると思うので整理したいと思います。
 
 執筆時点で...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4a70f0bee16d5d690a73</id>
-    <title>10年分ぐらいのQiitaの自分の投稿を蒸留したら、自分っぽい記事を書いてくれるようになったww</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/4a70f0bee16d5d690a73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-27T22:01:16+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T22:01:16+09:00&lt;br/&gt;Updated: 2026-08-27T22:01:16+09:00&lt;br/&gt;この投稿は、100%人間が書いています。
-
-さっき公開したこの記事、実は100%生成AI製です。
-（内容は実際に検証した結果なので、合ってると思います。）
-
-ただ、文体とか流れは、自分っぽい😁
-
-やり方（というか実施したプロンプト）です
-
-プロンプト
-まずは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2d938cedad3a143542af</id>
@@ -1877,6 +1877,16 @@ DB設計の勉強のために、以下の2冊を読みました。
 それは「この内容をプロジェクトに活かせるか」とい...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b96813bc8a482b3d0074</id>
+    <title>面接で「前職への不満」を聞かれたら。無理にきれいな退職理由をつくらなくても大丈夫です</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/b96813bc8a482b3d0074?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-28T16:25:01+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T16:25:01+09:00&lt;br/&gt;Updated: 2026-08-28T16:25:01+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a82fccf6d52c05156384</id>
     <title>QAエンジニアの仕事が変わった——Claude CodeとPlaywrightで、テストからチケット管理まで全部AIに任せてみた話</title>
     <link rel="alternate" href="https://qiita.com/a_sato_JQIT/items/a82fccf6d52c05156384?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1942,6 +1952,17 @@ SQLを書く前に知っておきたい5つの基本ルール
 
 はじめに
 SQLはデータベースを扱ううえで欠かせない言語ですが...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d155a4ac10477d1eb41f</id>
+    <title>IT業界で皆知ってる「クラウド」「AWS」、分かったふりやめて先輩に聞いてみた</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/d155a4ac10477d1eb41f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-28T16:21:15+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T16:21:15+09:00&lt;br/&gt;Updated: 2026-08-28T16:21:15+09:00&lt;br/&gt;はじめに
+
+会社でしょっちゅう飛び交う「クラウド」という言葉に、分かったふりで相槌を打ち続けていたぷらむんが、思い切ってたぬき先輩に「クラウドって結局何なんですか?」と聞いてみたら、モヤモヤの正体がようやく整理できた話です。
+
+会社で自称マスコットキャラをやってるのに...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d09be87764a66c9077f0</id>
@@ -2012,27 +2033,6 @@ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-cu
 
 OpenAI公式の codex-plugin-cc を使うと、Claude Code のセッション内から Codex にコードレビューを依頼できる。
 Claude Code には /code-review、Codex 側には /codex:review と ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b96813bc8a482b3d0074</id>
-    <title>面接で「前職への不満」を聞かれたら。無理にきれいな退職理由をつくらなくても大丈夫です</title>
-    <link rel="alternate" href="https://qiita.com/m__ikeda/items/b96813bc8a482b3d0074?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-28T16:25:01+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T16:25:01+09:00&lt;br/&gt;Updated: 2026-08-28T16:25:01+09:00&lt;br/&gt;自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d155a4ac10477d1eb41f</id>
-    <title>IT業界で皆知ってる「クラウド」「AWS」、分かったふりやめて先輩に聞いてみた</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/d155a4ac10477d1eb41f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-28T16:21:15+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T16:21:15+09:00&lt;br/&gt;Updated: 2026-08-28T16:21:15+09:00&lt;br/&gt;はじめに
-
-会社でしょっちゅう飛び交う「クラウド」という言葉に、分かったふりで相槌を打ち続けていたぷらむんが、思い切ってたぬき先輩に「クラウドって結局何なんですか?」と聞いてみたら、モヤモヤの正体がようやく整理できた話です。
-
-会社で自称マスコットキャラをやってるのに...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0f93dd0b38fda076174f</id>
