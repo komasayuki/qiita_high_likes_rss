@@ -129,8 +129,8 @@
       "published": "2026-08-26T22:31:54+09:00",
       "updated": "2026-08-26T22:31:54+09:00",
       "author_name": "ktdatascience",
-      "likes_count": 32,
-      "last_seen": "2026-08-29T08:59:11.358569564+00:00"
+      "likes_count": 37,
+      "last_seen": "2026-08-29T14:25:20.309214773+00:00"
     },
     {
       "key": "03d5a65dd364c0fa5709",
@@ -1425,8 +1425,8 @@
       "published": "2026-08-28T17:00:01+09:00",
       "updated": "2026-08-28T17:00:02+09:00",
       "author_name": "jqit_suwa",
-      "likes_count": 17,
-      "last_seen": "2026-08-29T08:59:11.358569564+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-08-29T14:25:20.309214773+00:00"
     },
     {
       "key": "42537e0b14b38797d218",
@@ -1617,8 +1617,8 @@
       "published": "2026-08-27T22:01:16+09:00",
       "updated": "2026-08-27T22:01:16+09:00",
       "author_name": "moritalous",
-      "likes_count": 31,
-      "last_seen": "2026-08-29T08:59:11.358569564+00:00"
+      "likes_count": 35,
+      "last_seen": "2026-08-29T14:25:20.309214773+00:00"
     },
     {
       "key": "4b1502b6bcc69c459baa",
@@ -1845,8 +1845,8 @@
       "published": "2026-08-28T16:28:35+09:00",
       "updated": "2026-08-28T16:28:35+09:00",
       "author_name": "sumomoo",
-      "likes_count": 29,
-      "last_seen": "2026-08-29T08:59:11.358569564+00:00"
+      "likes_count": 31,
+      "last_seen": "2026-08-29T14:25:20.309214773+00:00"
     },
     {
       "key": "573178ed3b8a6a22ebb1",
@@ -2389,6 +2389,18 @@
       "last_seen": "2026-07-24T07:39:50.104245423+00:00"
     },
     {
+      "key": "728b20d34d36275c0a33",
+      "item_id": "728b20d34d36275c0a33",
+      "title": "Cloudflare Workersに「一時アカウント」機能が来たので、ログインなしでデプロイして、ついでにミニゲームも作ってみた",
+      "link": "https://qiita.com/moritalous/items/728b20d34d36275c0a33?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "Cloudflareのブログで、AIエージェント向けの新機能「Temporary Accounts」が発表されました。\n\n事前のアカウント登録もOAuthもMFAもAPIトークンのコピペも無し、wrangler deploy --temporary一発でWorkerをデ...",
+      "published": "2026-08-27T20:41:06+09:00",
+      "updated": "2026-08-27T22:02:52+09:00",
+      "author_name": "moritalous",
+      "likes_count": 10,
+      "last_seen": "2026-08-29T14:25:20.309214773+00:00"
+    },
+    {
       "key": "74212606fbf4f01d82dd",
       "item_id": "74212606fbf4f01d82dd",
       "title": "Claude Codeの dataviz スキルが凄かった",
@@ -2782,7 +2794,7 @@
       "updated": "2026-08-27T18:23:02+09:00",
       "author_name": "ssc-ksaitou",
       "likes_count": 12,
-      "last_seen": "2026-08-29T08:59:11.358569564+00:00"
+      "last_seen": "2026-08-29T14:25:20.309214773+00:00"
     },
     {
       "key": "80000bf7cf8bbe5b36ee",
@@ -2806,7 +2818,7 @@
       "updated": "2026-08-27T01:34:36+09:00",
       "author_name": "sp-n-taka",
       "likes_count": 11,
-      "last_seen": "2026-08-29T08:59:11.358569564+00:00"
+      "last_seen": "2026-08-29T14:25:20.309214773+00:00"
     },
     {
       "key": "82209a2a8b9cc603ec57",
@@ -3261,8 +3273,8 @@
       "published": "2026-08-28T09:06:04+09:00",
       "updated": "2026-08-28T09:06:06+09:00",
       "author_name": "y-kojima-next",
-      "likes_count": 12,
-      "last_seen": "2026-08-29T08:59:11.358569564+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-08-29T14:25:20.309214773+00:00"
     },
     {
       "key": "9355c8e524df37243617",
@@ -3358,7 +3370,7 @@
       "updated": "2026-08-27T18:02:05+09:00",
       "author_name": "sumomoo",
       "likes_count": 34,
-      "last_seen": "2026-08-29T08:59:11.358569564+00:00"
+      "last_seen": "2026-08-29T14:25:20.309214773+00:00"
     },
     {
       "key": "97d9d9b7ed0064f7433e",
@@ -4161,8 +4173,8 @@
       "published": "2026-08-28T16:25:01+09:00",
       "updated": "2026-08-28T16:25:01+09:00",
       "author_name": "m__ikeda",
-      "likes_count": 26,
-      "last_seen": "2026-08-29T08:59:11.358569564+00:00"
+      "likes_count": 27,
+      "last_seen": "2026-08-29T14:25:20.309214773+00:00"
     },
     {
       "key": "b9a128b0e71382979f08",
@@ -4558,7 +4570,7 @@
       "updated": "2026-08-28T10:49:20+09:00",
       "author_name": "tatsuya582",
       "likes_count": 17,
-      "last_seen": "2026-08-29T08:59:11.358569564+00:00"
+      "last_seen": "2026-08-29T14:25:20.309214773+00:00"
     },
     {
       "key": "cfe3c47453968b2d3c29",
@@ -4617,8 +4629,8 @@
       "published": "2026-08-28T16:21:15+09:00",
       "updated": "2026-08-28T16:21:15+09:00",
       "author_name": "prumnn",
-      "likes_count": 26,
-      "last_seen": "2026-08-29T08:59:11.358569564+00:00"
+      "likes_count": 27,
+      "last_seen": "2026-08-29T14:25:20.309214773+00:00"
     },
     {
       "key": "d17ac3c49e568266123d",
@@ -5086,7 +5098,7 @@
       "updated": "2026-08-26T20:11:57+09:00",
       "author_name": "sassssan68",
       "likes_count": 21,
-      "last_seen": "2026-08-29T08:59:11.358569564+00:00"
+      "last_seen": "2026-08-29T14:25:20.309214773+00:00"
     },
     {
       "key": "e2c51c2a783915b275a9",
