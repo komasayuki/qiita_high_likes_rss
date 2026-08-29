@@ -129,8 +129,8 @@
       "published": "2026-08-26T22:31:54+09:00",
       "updated": "2026-08-26T22:31:54+09:00",
       "author_name": "ktdatascience",
-      "likes_count": 22,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "likes_count": 28,
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "03d5a65dd364c0fa5709",
@@ -709,18 +709,6 @@
       "last_seen": "2026-08-13T06:25:18.534290606+00:00"
     },
     {
-      "key": "2783f25816699e8318cc",
-      "item_id": "2783f25816699e8318cc",
-      "title": "AIエージェントにサボらせないSkillsの書き方 — 7つの設計手法＋サボり度測定Skill付き",
-      "link": "https://qiita.com/nogataka/items/2783f25816699e8318cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nAIコーディングエージェントでスキルを実行して、出てきた成果物が「それっぽいけど詰めが甘い」と感じたことはないでしょうか。\n色や余白がだいたいで合わせてあります。正常系しか実装されていません。テストは緑なのに本番では動きません。エラーは握りつぶされ、肝心の分岐が...",
-      "published": "2026-06-26T17:12:56+09:00",
-      "updated": "2026-06-26T17:12:56+09:00",
-      "author_name": "nogataka",
-      "likes_count": 15,
-      "last_seen": "2026-06-29T19:44:07.520428409+00:00"
-    },
-    {
       "key": "283df4e144ad785ad99b",
       "item_id": "283df4e144ad785ad99b",
       "title": "Oracle AI Database Private Agent Factory を構築してみてみた",
@@ -897,8 +885,8 @@
       "published": "2026-08-27T18:05:35+09:00",
       "updated": "2026-08-27T18:05:35+09:00",
       "author_name": "m__ikeda",
-      "likes_count": 34,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "likes_count": 35,
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "2dee3e3d53080c3676a0",
@@ -1465,6 +1453,18 @@
       "last_seen": "2026-07-02T07:39:15.135368662+00:00"
     },
     {
+      "key": "4183a8e97738ba45f435",
+      "item_id": "4183a8e97738ba45f435",
+      "title": "Claude Code に制限モードが入った。自作スキル47本が0本になった",
+      "link": "https://qiita.com/jqit_suwa/items/4183a8e97738ba45f435?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "--restricted が Claude Code 2.1.248 で追加されました（測定に使ったのは 2.1.250）。\n公式の説明は「コマンド実行系のツールと WebFetch を外し、ファイル操作を作業ディレクトリに限定する」です。安全に使うためのモードという書き方...",
+      "published": "2026-08-28T17:00:01+09:00",
+      "updated": "2026-08-28T17:00:02+09:00",
+      "author_name": "jqit_suwa",
+      "likes_count": 16,
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
+    },
+    {
       "key": "42537e0b14b38797d218",
       "item_id": "42537e0b14b38797d218",
       "title": "AIコーディングの精度を劇的に向上させる Context7 MCP Server 完全ガイド",
@@ -1558,7 +1558,7 @@
       "updated": "2026-08-26T12:28:11+09:00",
       "author_name": "AkiraTakasaki",
       "likes_count": 30,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "45b66545bb7ea88e8403",
@@ -1653,8 +1653,8 @@
       "published": "2026-08-27T22:01:16+09:00",
       "updated": "2026-08-27T22:01:16+09:00",
       "author_name": "moritalous",
-      "likes_count": 20,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "likes_count": 28,
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "4b1502b6bcc69c459baa",
@@ -1882,7 +1882,7 @@
       "updated": "2026-08-28T16:28:35+09:00",
       "author_name": "sumomoo",
       "likes_count": 29,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "573178ed3b8a6a22ebb1",
@@ -2134,7 +2134,7 @@
       "updated": "2026-08-26T17:11:27+09:00",
       "author_name": "sumomoo",
       "likes_count": 38,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "6251b5727998ca29734c",
@@ -2506,7 +2506,7 @@
       "updated": "2026-08-28T09:51:31+09:00",
       "author_name": "qwertyhoge",
       "likes_count": 17,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "76ddb2e42beef1b7e49e",
@@ -2529,8 +2529,8 @@
       "published": "2026-08-26T17:10:54+09:00",
       "updated": "2026-08-26T17:10:54+09:00",
       "author_name": "prumnn",
-      "likes_count": 36,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "likes_count": 37,
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "76f8a1df75eb399ce58b",
@@ -2567,18 +2567,6 @@
       "author_name": "tomoki-miso",
       "likes_count": 14,
       "last_seen": "2026-06-30T07:35:28.409843652+00:00"
-    },
-    {
-      "key": "77361a0b1694ba629bec",
-      "item_id": "77361a0b1694ba629bec",
-      "title": "私がループエンジニアリングにあまり興味がない理由",
-      "link": "https://qiita.com/magicant/items/77361a0b1694ba629bec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "もう皆さんも LLM が吐き出した薄っぺらいスロップを読まされるのには飽き飽きしているでしょうから、最初に TL;DR を含むプロンプトを貼っておきます。\n\n以下の論旨に沿って、元の5倍程度の文章量で Qiita に投稿するための記事の完成版を書いてください。\n最近のコーデ...",
-      "published": "2026-06-26T18:50:07+09:00",
-      "updated": "2026-06-26T21:31:27+09:00",
-      "author_name": "magicant",
-      "likes_count": 72,
-      "last_seen": "2026-06-29T19:44:07.520428409+00:00"
     },
     {
       "key": "775bba713c91a571e462",
@@ -2866,7 +2854,7 @@
       "updated": "2026-08-27T18:23:02+09:00",
       "author_name": "ssc-ksaitou",
       "likes_count": 11,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "80000bf7cf8bbe5b36ee",
@@ -2890,7 +2878,7 @@
       "updated": "2026-08-27T01:34:36+09:00",
       "author_name": "sp-n-taka",
       "likes_count": 11,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "82209a2a8b9cc603ec57",
@@ -3358,7 +3346,7 @@
       "updated": "2026-08-26T11:24:07+09:00",
       "author_name": "KyosukeTakahagi",
       "likes_count": 21,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "93759be44b8548fa740b",
@@ -3430,7 +3418,7 @@
       "updated": "2026-08-27T18:02:05+09:00",
       "author_name": "sumomoo",
       "likes_count": 33,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "97d9d9b7ed0064f7433e",
@@ -3802,7 +3790,7 @@
       "updated": "2026-08-27T17:57:48+09:00",
       "author_name": "prumnn",
       "likes_count": 32,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "a898a395727022fa213f",
@@ -4225,18 +4213,6 @@
       "last_seen": "2026-08-26T19:14:45.793341272+00:00"
     },
     {
-      "key": "b859f1578191a1e15808",
-      "item_id": "b859f1578191a1e15808",
-      "title": "Claude Code を4ヶ月使ってわかった、おすすめコマンド・スキル 10 選",
-      "link": "https://qiita.com/wataru86/items/b859f1578191a1e15808?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n以前こんな記事を書きました。\n\nあれから4ヶ月以上使い込んで、ようやく使いこなせるようになってきた実感があります。\n使っていて思うのは、コードを書いたりツールや MCP を呼び出したり、いろんな作業を Claude にやらせている一方で、Claude Cod...",
-      "published": "2026-06-26T18:57:33+09:00",
-      "updated": "2026-06-26T18:57:33+09:00",
-      "author_name": "wataru86",
-      "likes_count": 71,
-      "last_seen": "2026-06-29T19:44:07.520428409+00:00"
-    },
-    {
       "key": "b919d0b4cdc0a26ec988",
       "item_id": "b919d0b4cdc0a26ec988",
       "title": "Claude Codeの新機能、\"仕事の引き継ぎ\"じゃありません — 公式ドキュメントで確認した3つのズレ",
@@ -4257,8 +4233,8 @@
       "published": "2026-08-28T16:25:01+09:00",
       "updated": "2026-08-28T16:25:01+09:00",
       "author_name": "m__ikeda",
-      "likes_count": 25,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "likes_count": 26,
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "b9a128b0e71382979f08",
@@ -4654,7 +4630,7 @@
       "updated": "2026-08-28T10:49:20+09:00",
       "author_name": "tatsuya582",
       "likes_count": 17,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "cfe3c47453968b2d3c29",
@@ -4714,7 +4690,7 @@
       "updated": "2026-08-28T16:21:15+09:00",
       "author_name": "prumnn",
       "likes_count": 26,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "d1601e07ba3a125bc714",
@@ -5158,7 +5134,7 @@
       "updated": "2026-08-27T09:23:29+09:00",
       "author_name": "jqit_suwa",
       "likes_count": 21,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "e12091867becb931bce0",
@@ -5193,8 +5169,8 @@
       "published": "2026-08-26T20:11:57+09:00",
       "updated": "2026-08-26T20:11:57+09:00",
       "author_name": "sassssan68",
-      "likes_count": 20,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "likes_count": 21,
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "e2c51c2a783915b275a9",
@@ -5326,7 +5302,7 @@
       "updated": "2026-08-28T14:15:39+09:00",
       "author_name": "inoyu-qiita",
       "likes_count": 11,
-      "last_seen": "2026-08-28T18:35:16.332074291+00:00"
+      "last_seen": "2026-08-29T02:06:14.103565903+00:00"
     },
     {
       "key": "e841e6c1ca8066ddcfb5",
@@ -5651,18 +5627,6 @@
       "author_name": "sean-kintone",
       "likes_count": 10,
       "last_seen": "2026-07-09T20:01:25.304758230+00:00"
-    },
-    {
-      "key": "fd13ea9436bbb3985dfc",
-      "item_id": "fd13ea9436bbb3985dfc",
-      "title": "あなたの.envはDockerイメージに焼き込まれ、誰でも抜き出せる",
-      "link": "https://qiita.com/kenimo49/items/fd13ea9436bbb3985dfc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": ".env は .gitignore に書いてある。Gitには上げていない。だから秘密は守れている。\nそう考えている人は多いはずです。私もそうでした。ですが、Dockerでコンテナ化しているなら、その安心は半分しか正しくありません。.env をGitに上げていなくても、CO...",
-      "published": "2026-06-26T22:30:00+09:00",
-      "updated": "2026-06-26T22:30:01+09:00",
-      "author_name": "kenimo49",
-      "likes_count": 28,
-      "last_seen": "2026-06-29T19:44:07.520428409+00:00"
     },
     {
       "key": "fd18304055a59e149aee",
