@@ -113,16 +113,6 @@ description: AI臭さを消す汎用執筆ガイド。ブログ・スライド�
 Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、AP...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a2d825e3ee3e3a4b6dbd</id>
-    <title>Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ</title>
-    <link rel="alternate" href="https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-28T18:51:39+09:00</updated>
-    <summary type="html">Likes: 147&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/YuukiYoshida&quot;&gt;YuukiYoshida&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T18:51:39+09:00&lt;br/&gt;Updated: 2026-06-28T18:51:39+09:00&lt;br/&gt;はじめに
-Gitは開発現場では欠かせないツールですが、「最近Gitって何か変わったの？」と聞かれると、意外と答えられない方も多いのではないでしょうか。
-現在も最新バージョンは2系ですが、Gitでは将来的なメジャーバージョンも見据えた改善が継続的に進められています。
-今回は...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:7ca90575c5fff758993e</id>
     <title>エンジニアがいつのまにか知っている知識・常識・文化 12本</title>
     <link rel="alternate" href="https://qiita.com/ko-he-8/items/7ca90575c5fff758993e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -497,20 +487,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 比較的今年の6月は涼しいですが、7月からはいつも通り暑くなるんですかね、、。
 そんな時は、部屋でエアコンをガンガンにきかせて、本でも読みましょう！
 涼しい地域の方は、風鈴のついた縁側で本を読むのも風流で...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3f0d61d0ff4f082479c0</id>
-    <title>「転職はまだ早い」と思っているあなたへ。私が一歩踏み出して学んだこと</title>
-    <link rel="alternate" href="https://qiita.com/hitomin_poke/items/3f0d61d0ff4f082479c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-29T09:54:36+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hitomin_poke&quot;&gt;hitomin_poke&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T09:54:11+09:00&lt;br/&gt;Updated: 2026-06-29T09:54:36+09:00&lt;br/&gt;はじめまして。エンジニアをしている人見です。
-未経験からエンジニアを目指していた頃、私はいつもこう思っていました。
-
-「まだ勉強が足りない。」
-「もっと資格を取ってから転職しよう。」
-「もう少しコードを書けるようになってから挑戦しよう。」
-
-きっと、同じように考えたことがあ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e54c70c90c6aa84d0f66</id>
@@ -1072,14 +1048,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 今日は現場の開発フロー全体を知り、実装前後の工程の意図を理解してから実装することで何が変わるのかを、エンジニア初心者向けに書いてみました。興味がある方は読んでいただけると嬉しいです。
 
 一つの機能ができるまでには5つのステッ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2f9ad10282775dcbd647</id>
-    <title>速報！！StreamlitがAWSにサーバーレスでホスティングできるようになった！！ #LambdaMicroVMs</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/2f9ad10282775dcbd647?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-29T07:08:23+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T07:08:23+09:00&lt;br/&gt;Updated: 2026-06-29T07:08:23+09:00&lt;br/&gt;きたきたきた～
-生成AIアプリのフロントエンドとして鉄板のStreamlitですが、AWSにデプロイするには諸々の制約があり、Fargateで行うのが一般的だと思います。Lambda Web Adapterでなんとかならないと、10回ぐらい試したのですが、WebSocket...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b4a550002ebf1e5b8af8</id>
@@ -2237,5 +2205,34 @@ identifying the error is distinct from generatin...</summary>
 Claude Opus 5 では、これは消したほうがいい一文になりました。
 「効かなくなった」のではありません。逆効果になったのです。
 同じように、これまで良かれと思って...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:2f38d32328996d826d48</id>
+    <title>コードを書かせるだけは、正直もったいない。Claude Codeを「先生」として使い倒す5つのプロンプト</title>
+    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/2f38d32328996d826d48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-15T08:29:02+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T08:29:02+09:00&lt;br/&gt;Updated: 2026-07-15T08:29:02+09:00&lt;br/&gt;はじめに
+Claude Code、コードを書かせるだけで使ってませんか？それ、正直めちゃくちゃもったいないです。
+Claude Code のすごいところは、手を動かしてくれる相棒であると同時に、隣に座ってる先生でもあること。実装を丸投げするんじゃなくて、「教えてもらう」「...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5e5ec4d5e96b12fbc75c</id>
+    <title>ナレッジ83件を2時間で作った。でも腐るのは、もっと速かった</title>
+    <link rel="alternate" href="https://qiita.com/yamada-iknow/items/5e5ec4d5e96b12fbc75c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-10T07:00:29+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamada-iknow&quot;&gt;yamada-iknow&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T07:00:29+09:00&lt;br/&gt;Updated: 2026-07-10T07:00:29+09:00&lt;br/&gt;TL;DR
+
+自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
+でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:1953d640bc0a7c0b16fc</id>
+    <title>Claude Codeに毎日3回「挨拶ハラスメント」して5時間の使用枠で作業を止まらなくするClaude活用術</title>
+    <link rel="alternate" href="https://qiita.com/inoyu-qiita/items/1953d640bc0a7c0b16fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-21T10:51:29+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inoyu-qiita&quot;&gt;inoyu-qiita&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T00:25:13+09:00&lt;br/&gt;Updated: 2026-08-21T10:51:29+09:00&lt;br/&gt;日頃からお世話になっている社内のUさん(@haru-qiita)と一緒に業務をしていて教えていただいた最強Claude活用術です！
+
+はじめに
+Claude Codeのクラウドルーティン（定期実行エージェント）で、平日の7時・12時・17時に「挨拶を返すだけ」の超軽量なジョ...</summary>
   </entry>
 </feed>
