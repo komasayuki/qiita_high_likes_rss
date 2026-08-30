@@ -378,16 +378,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 一応、本人（？）は「こんにちは」...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:39907f41be86431a58e7</id>
-    <title>おうちKubernetesを約3年運用してみた</title>
-    <link rel="alternate" href="https://qiita.com/takumiida1/items/39907f41be86431a58e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-28T10:01:22+09:00</updated>
-    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takumiida1&quot;&gt;takumiida1&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T10:01:22+09:00&lt;br/&gt;Updated: 2026-06-28T10:01:22+09:00&lt;br/&gt;Summary
-
-自宅・実家・クラウドの3拠点にまたがる分散Kubernetes環境を3年かけて構築・運用した際の気づきを共有
-Raspberry Pi単独構成から始まり、RAID崩壊・マスター消滅・NFSボトルネック・連鎖障害という痛い失敗を繰り返しながら、現在の安定...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:8d3c14dabff88d8f1901</id>
     <title>パスキーはなぜ「盗まれても意味がない」と言えるのか — 公開鍵暗号方式で理解する新しい認証</title>
     <link rel="alternate" href="https://qiita.com/gts/items/8d3c14dabff88d8f1901?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -831,6 +821,23 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 みなさん、2...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4a70f0bee16d5d690a73</id>
+    <title>10年分ぐらいのQiitaの自分の投稿を蒸留したら、自分っぽい記事を書いてくれるようになったww</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/4a70f0bee16d5d690a73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-27T22:01:16+09:00</updated>
+    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T22:01:16+09:00&lt;br/&gt;Updated: 2026-08-27T22:01:16+09:00&lt;br/&gt;この投稿は、100%人間が書いています。
+
+さっき公開したこの記事、実は100%生成AI製です。
+（内容は実際に検証した結果なので、合ってると思います。）
+
+ただ、文体とか流れは、自分っぽい😁
+
+やり方（というか実施したプロンプト）です
+
+プロンプト
+まずは...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:dab9765ffd6aae8f0c07</id>
     <title>社内IT推進で「作っても使われない」をゼロにするために、僕が現場で学んだ5つのこと</title>
     <link rel="alternate" href="https://qiita.com/rira__/items/dab9765ffd6aae8f0c07?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1075,23 +1082,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 生成AIアプリのフロントエンドとして鉄板のStreamlitですが、AWSにデプロイするには諸々の制約があり、Fargateで行うのが一般的だと思います。Lambda Web Adapterでなんとかならないと、10回ぐらい試したのですが、WebSocket...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:4a70f0bee16d5d690a73</id>
-    <title>10年分ぐらいのQiitaの自分の投稿を蒸留したら、自分っぽい記事を書いてくれるようになったww</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/4a70f0bee16d5d690a73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-27T22:01:16+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T22:01:16+09:00&lt;br/&gt;Updated: 2026-08-27T22:01:16+09:00&lt;br/&gt;この投稿は、100%人間が書いています。
-
-さっき公開したこの記事、実は100%生成AI製です。
-（内容は実際に検証した結果なので、合ってると思います。）
-
-ただ、文体とか流れは、自分っぽい😁
-
-やり方（というか実施したプロンプト）です
-
-プロンプト
-まずは...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b4a550002ebf1e5b8af8</id>
     <title>「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1229,6 +1219,19 @@ GitHub Copilot ChatやAgent modeを業務で使い始めた方
 MCPやAgent Skillsを導入している、または導入を検討している方
 
 AGENTS.m...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:95c018954c2b0cc9ebd8</id>
+    <title>マルチタスクをやめたら、完了までの体感時間が変わった</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/95c018954c2b0cc9ebd8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-27T18:02:05+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T18:02:05+09:00&lt;br/&gt;Updated: 2026-08-27T18:02:05+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+複数の実装...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:61c644bfc4e49353a451</id>
@@ -1542,19 +1545,6 @@ GitもDBもAPIも、仕事で触るたびに「これなんだっけ」となり
 今回は、調査...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:95c018954c2b0cc9ebd8</id>
-    <title>マルチタスクをやめたら、完了までの体感時間が変わった</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/95c018954c2b0cc9ebd8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-27T18:02:05+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T18:02:05+09:00&lt;br/&gt;Updated: 2026-08-27T18:02:05+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-複数の実装...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:a86026cf72f4effc30f3</id>
     <title>新人エンジニア、作業前に方向性を確認しとかないと後悔する</title>
     <link rel="alternate" href="https://qiita.com/prumnn/items/a86026cf72f4effc30f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1767,6 +1757,17 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 公式の説明は「コマンド実行系のツールと WebFetch を外し、ファイル操作を作業ディレクトリに限定する」です。安全に使うためのモードという書き方...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d155a4ac10477d1eb41f</id>
+    <title>IT業界で皆知ってる「クラウド」「AWS」、分かったふりやめて先輩に聞いてみた</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/d155a4ac10477d1eb41f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-28T16:21:15+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T16:21:15+09:00&lt;br/&gt;Updated: 2026-08-28T16:21:15+09:00&lt;br/&gt;はじめに
+
+会社でしょっちゅう飛び交う「クラウド」という言葉に、分かったふりで相槌を打ち続けていたぷらむんが、思い切ってたぬき先輩に「クラウドって結局何なんですか?」と聞いてみたら、モヤモヤの正体がようやく整理できた話です。
+
+会社で自称マスコットキャラをやってるのに...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:edc03c11a477f5ecbfc2</id>
     <title>IT企業の面接、私服で本当に大丈夫？採用担当が考える「清潔感」のライン</title>
     <link rel="alternate" href="https://qiita.com/m__ikeda/items/edc03c11a477f5ecbfc2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1793,17 +1794,6 @@ Geminiでこんなプロンプトを入力すると...</summary>
     <updated>2026-07-10T12:34:58+09:00</updated>
     <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Koukyosyumei&quot;&gt;Koukyosyumei&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T12:34:58+09:00&lt;br/&gt;Updated: 2026-07-10T12:34:58+09:00&lt;br/&gt;こんにちは！コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。
 さて、読者のほとんどの方が Claude Code や Codex を使って開発をしていると思いますが、皆さんは「AIエージェントがシェルコマンドやネットワークアクセ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d155a4ac10477d1eb41f</id>
-    <title>IT業界で皆知ってる「クラウド」「AWS」、分かったふりやめて先輩に聞いてみた</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/d155a4ac10477d1eb41f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-28T16:21:15+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T16:21:15+09:00&lt;br/&gt;Updated: 2026-08-28T16:21:15+09:00&lt;br/&gt;はじめに
-
-会社でしょっちゅう飛び交う「クラウド」という言葉に、分かったふりで相槌を打ち続けていたぷらむんが、思い切ってたぬき先輩に「クラウドって結局何なんですか?」と聞いてみたら、モヤモヤの正体がようやく整理できた話です。
-
-会社で自称マスコットキャラをやってるのに...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:44c6f3b78a6a1dce0d57</id>
@@ -1880,20 +1870,6 @@ TL;DR
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tie_rrific&quot;&gt;tie_rrific&lt;/a&gt;&lt;br/&gt;Published: 2026-07-21T11:07:37+09:00&lt;br/&gt;Updated: 2026-07-21T11:07:37+09:00&lt;br/&gt;はじめに
 最近では、GitHub CopilotやClaude CodeなどのAIエージェントにコードを書かせる開発スタイルが広がりつつあります。
 しかし、実際の開発業務には、要件や背景の把握、実装後の報告、知見のドキュメント化など、コードを書く以外にも多くの作業がありま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:dd2e5075ea0d59ee3a36</id>
-    <title>テーブル設計をskillsでレビューしてみませんか</title>
-    <link rel="alternate" href="https://qiita.com/kuma_3838/items/dd2e5075ea0d59ee3a36?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-29T09:17:05+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T09:17:05+09:00&lt;br/&gt;Updated: 2026-06-29T09:17:05+09:00&lt;br/&gt;はじめに
-DB設計の勉強のために、以下の2冊を読みました。
-
-『失敗から学ぶ RDBの正しい歩き方』（曽根壮大）
-『達人に学ぶDB設計 徹底指南書 第2版』（ミック）
-
-最近、技術書を読むときに意識していることがあります。
-それは「この内容をプロジェクトに活かせるか」とい...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b96813bc8a482b3d0074</id>
@@ -2241,5 +2217,25 @@ transitionやtransformなどのCSSプロパティ...</summary>
 この差が気になって論文を読んだら、こんな一文がありました。
 
 identifying the error is distinct from generatin...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:6a2a3e6992ab0eb93d7a</id>
+    <title>oracle-ai-ready-data Skill 第2回: Databaseのメタデータを整備してAI Readyスコアを0.22から0.97へ改善し、Select AIで確認してみてみた</title>
+    <link rel="alternate" href="https://qiita.com/shirok/items/6a2a3e6992ab0eb93d7a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-29T21:24:22+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-07-28T06:55:38+09:00&lt;br/&gt;Updated: 2026-07-29T21:24:22+09:00&lt;br/&gt;oracle-ai-ready-data Skill 第1回では、サンプルのHRスキーマを対象にoracle-ai-ready-data SkillでAI Ready評価を行いました。HRスキーマはテーブル名やカラム名、主キー・外部キーなどが比較的分かりやすく整備されてい...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:74a96ce83dde5245407a</id>
+    <title>「最後に検証して」はもう書かなくていい — Claude Opus 5 でプロンプトの常識が逆転した4つのこと</title>
+    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/74a96ce83dde5245407a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-28T13:57:40+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-28T13:08:47+09:00&lt;br/&gt;Updated: 2026-07-28T13:57:40+09:00&lt;br/&gt;あなたのシステムプロンプトに、こんな一文が入っていませんか。
+
+最後に、出力内容を検証してください。
+
+Claude Opus 5 では、これは消したほうがいい一文になりました。
+「効かなくなった」のではありません。逆効果になったのです。
+同じように、これまで良かれと思って...</summary>
   </entry>
 </feed>
