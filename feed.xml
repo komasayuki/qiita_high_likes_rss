@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-08-28T17:00:02+09:00</updated>
+  <updated>2026-08-31T16:18:00+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1320,16 +1320,6 @@ Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン
 レースコンディショ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:025683560974d762fa85</id>
-    <title>Railsで学ぶ DFS / BFS 入門 〜「深さ優先」と「幅優先」で木構造をたどる〜</title>
-    <link rel="alternate" href="https://qiita.com/akachiryo/items/025683560974d762fa85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-30T12:48:38+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T12:48:38+09:00&lt;br/&gt;Updated: 2026-06-30T12:48:38+09:00&lt;br/&gt;お疲れ様です！
-前回は計算量（Big-O）の話を書きましたが、今回はその流れで、探索アルゴリズムの基本 DFS（深さ優先探索） と BFS（幅優先探索） をまとめてみました 
-名前は難しそうですが、中身は 「スタックを使うか、キューを使うか」だけの違い です。
-興味ある方は...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:5726c8769b487e118571</id>
     <title>「AIに店長を任せてみた実験」からもらった、これからの働き方のヒント</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/5726c8769b487e118571?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1434,6 +1424,14 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 執筆時点で...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4183a8e97738ba45f435</id>
+    <title>Claude Code に制限モードが入った。自作スキル47本が0本になった</title>
+    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/4183a8e97738ba45f435?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-28T17:00:02+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T17:00:01+09:00&lt;br/&gt;Updated: 2026-08-28T17:00:02+09:00&lt;br/&gt;--restricted が Claude Code 2.1.248 で追加されました（測定に使ったのは 2.1.250）。
+公式の説明は「コマンド実行系のツールと WebFetch を外し、ファイル操作を作業ディレクトリに限定する」です。安全に使うためのモードという書き方...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:2d938cedad3a143542af</id>
     <title>「勉強してるのに作れない…」プログラミング学習の沼を脱出する“割り切り”のすすめ</title>
     <link rel="alternate" href="https://qiita.com/m__ikeda/items/2d938cedad3a143542af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1535,14 +1533,6 @@ GitもDBもAPIも、仕事で触るたびに「これなんだっけ」となり
     <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/AkiraTakasaki&quot;&gt;AkiraTakasaki&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T12:09:03+09:00&lt;br/&gt;Updated: 2026-07-14T12:09:04+09:00&lt;br/&gt;こんにちは、ソーイ株式会社の髙﨑です。
 最近、業務でIPアドレスによるアクセス制限機能に触れる機会がありました。調査を進める中で、ループバックアドレスやリンクローカルアドレスなど、普段あまり意識することのない特殊なIPアドレスが数多く存在することを知りました。
 今回は、調査...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4183a8e97738ba45f435</id>
-    <title>Claude Code に制限モードが入った。自作スキル47本が0本になった</title>
-    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/4183a8e97738ba45f435?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-28T17:00:02+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T17:00:01+09:00&lt;br/&gt;Updated: 2026-08-28T17:00:02+09:00&lt;br/&gt;--restricted が Claude Code 2.1.248 で追加されました（測定に使ったのは 2.1.250）。
-公式の説明は「コマンド実行系のツールと WebFetch を外し、ファイル操作を作業ディレクトリに限定する」です。安全に使うためのモードという書き方...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b96813bc8a482b3d0074</id>
@@ -1774,6 +1764,19 @@ Geminiでこんなプロンプトを入力すると...</summary>
 さて、読者のほとんどの方が Claude Code や Codex を使って開発をしていると思いますが、皆さんは「AIエージェントがシェルコマンドやネットワークアクセ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7bd7345600b1ed09d5a7</id>
+    <title>「いつもの一言」を置き換えるだけで、AIへの指示の精度はかなり変わる</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/7bd7345600b1ed09d5a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-31T16:18:00+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T16:18:00+09:00&lt;br/&gt;Updated: 2026-08-31T16:18:00+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「これっ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:44c6f3b78a6a1dce0d57</id>
     <title>Vimのコマンドを丸暗記しないために、オペレータとモーションで整理してみた</title>
     <link rel="alternate" href="https://qiita.com/AkiraTakasaki/items/44c6f3b78a6a1dce0d57?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1848,6 +1851,18 @@ TL;DR
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tie_rrific&quot;&gt;tie_rrific&lt;/a&gt;&lt;br/&gt;Published: 2026-07-21T11:07:37+09:00&lt;br/&gt;Updated: 2026-07-21T11:07:37+09:00&lt;br/&gt;はじめに
 最近では、GitHub CopilotやClaude CodeなどのAIエージェントにコードを書かせる開発スタイルが広がりつつあります。
 しかし、実際の開発業務には、要件や背景の把握、実装後の報告、知見のドキュメント化など、コードを書く以外にも多くの作業がありま...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:22dd373e882bf938ad1e</id>
+    <title>元ヤフーエンジニア社長が考える、20代のうちにやっておくべき3つのこと</title>
+    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/22dd373e882bf938ad1e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-31T16:16:17+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T16:16:17+09:00&lt;br/&gt;Updated: 2026-08-31T16:16:17+09:00&lt;br/&gt;20代の頑張りは、30代以降ずっと効いてくる
+
+こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
+https://prum.jp/
+「今の仕事、このままでいいのかな」「自分は何がやりたいんだろう」
+20代のメンバーから、こういう相談を本当に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a82fccf6d52c05156384</id>
@@ -1985,6 +2000,17 @@ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-cu
 
 OpenAI公式の codex-plugin-cc を使うと、Claude Code のセッション内から Codex にコードレビューを依頼できる。
 Claude Code には /code-review、Codex 側には /codex:review と ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:357c4c9e239d2b9427d1</id>
+    <title>新人エンジニア、「ラズベリーパイ」を美味しいパイだと思ってた話</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/357c4c9e239d2b9427d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-31T16:12:20+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T16:12:20+09:00&lt;br/&gt;Updated: 2026-08-31T16:12:20+09:00&lt;br/&gt;はじめに
+
+会社の昔の写真フォルダで見つけた「ラズベリーパイ部」の文字に、てっきりパイやタルトを食べ歩く同好会だと思い込んでいたぷらむんが、プラ美先輩に聞いてみたら、全然違うジャンルの話だった、という話です。
+
+会社で自称マスコットキャラをやってるのに、社内で一番空気...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0f93dd0b38fda076174f</id>
@@ -2156,6 +2182,16 @@ GMOコネクトの永田です。
 VPCがSDN（Software Defined Network）でできていて、他人の...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:668edf1abb33d35d5630</id>
+    <title>未経験からIT業界へ。「できるようになってから」じゃなくて大丈夫です</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/668edf1abb33d35d5630?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-31T16:14:13+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T16:14:13+09:00&lt;br/&gt;Updated: 2026-08-31T16:14:13+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:48d124a11623b4f9e7c6</id>
     <title>【コピペOK】CSSで作るモダンなUIアニメーション集</title>
     <link rel="alternate" href="https://qiita.com/nt_y-maeda112/items/48d124a11623b4f9e7c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2205,34 +2241,5 @@ identifying the error is distinct from generatin...</summary>
 Claude Opus 5 では、これは消したほうがいい一文になりました。
 「効かなくなった」のではありません。逆効果になったのです。
 同じように、これまで良かれと思って...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2f38d32328996d826d48</id>
-    <title>コードを書かせるだけは、正直もったいない。Claude Codeを「先生」として使い倒す5つのプロンプト</title>
-    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/2f38d32328996d826d48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-15T08:29:02+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T08:29:02+09:00&lt;br/&gt;Updated: 2026-07-15T08:29:02+09:00&lt;br/&gt;はじめに
-Claude Code、コードを書かせるだけで使ってませんか？それ、正直めちゃくちゃもったいないです。
-Claude Code のすごいところは、手を動かしてくれる相棒であると同時に、隣に座ってる先生でもあること。実装を丸投げするんじゃなくて、「教えてもらう」「...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5e5ec4d5e96b12fbc75c</id>
-    <title>ナレッジ83件を2時間で作った。でも腐るのは、もっと速かった</title>
-    <link rel="alternate" href="https://qiita.com/yamada-iknow/items/5e5ec4d5e96b12fbc75c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-10T07:00:29+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamada-iknow&quot;&gt;yamada-iknow&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T07:00:29+09:00&lt;br/&gt;Updated: 2026-07-10T07:00:29+09:00&lt;br/&gt;TL;DR
-
-自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
-でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1953d640bc0a7c0b16fc</id>
-    <title>Claude Codeに毎日3回「挨拶ハラスメント」して5時間の使用枠で作業を止まらなくするClaude活用術</title>
-    <link rel="alternate" href="https://qiita.com/inoyu-qiita/items/1953d640bc0a7c0b16fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-21T10:51:29+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inoyu-qiita&quot;&gt;inoyu-qiita&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T00:25:13+09:00&lt;br/&gt;Updated: 2026-08-21T10:51:29+09:00&lt;br/&gt;日頃からお世話になっている社内のUさん(@haru-qiita)と一緒に業務をしていて教えていただいた最強Claude活用術です！
-
-はじめに
-Claude Codeのクラウドルーティン（定期実行エージェント）で、平日の7時・12時・17時に「挨拶を返すだけ」の超軽量なジョ...</summary>
   </entry>
 </feed>
