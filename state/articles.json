@@ -409,6 +409,18 @@
       "last_seen": "2026-08-23T07:42:01.919344740+00:00"
     },
     {
+      "key": "1a599320ecb21cc4dd05",
+      "item_id": "1a599320ecb21cc4dd05",
+      "title": "API連携、つながればOK？ 回数の壁・仕様変更・障害情報を業務システム56件で調べてみた",
+      "link": "https://qiita.com/songchong/items/1a599320ecb21cc4dd05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "「一度作ってしまえば、あとは自動で動き続けますよね」\n連携の話をすると、だいたいこう言われます。そして見積書の「保守費」の欄を見て、「何を保守するんですか」と聞かれます。\n保守するものは、あります。 相手のシステムが変わるからです。\n日本の業務システム56件について、呼び出...",
+      "published": "2026-09-02T04:08:55+09:00",
+      "updated": "2026-09-02T04:10:13+09:00",
+      "author_name": "songchong",
+      "likes_count": 11,
+      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
+    },
+    {
       "key": "1cb40e25071475268431",
       "item_id": "1cb40e25071475268431",
       "title": "ガバメントクラウドAWS環境における統合監視・AIによる障害時自動調査について検討してみた",
@@ -561,8 +573,8 @@
       "published": "2026-08-31T16:16:17+09:00",
       "updated": "2026-08-31T16:16:17+09:00",
       "author_name": "ryoheiiwamoto",
-      "likes_count": 40,
-      "last_seen": "2026-09-01T18:24:11.462857526+00:00"
+      "likes_count": 41,
+      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
     },
     {
       "key": "22ef83c9c3a63c349bbd",
@@ -874,7 +886,7 @@
       "updated": "2026-09-01T12:56:42+09:00",
       "author_name": "sugumura",
       "likes_count": 11,
-      "last_seen": "2026-09-01T18:24:11.462857526+00:00"
+      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
     },
     {
       "key": "2f38d32328996d826d48",
@@ -1101,8 +1113,8 @@
       "published": "2026-08-31T16:12:20+09:00",
       "updated": "2026-08-31T16:12:20+09:00",
       "author_name": "prumnn",
-      "likes_count": 30,
-      "last_seen": "2026-09-01T18:24:11.462857526+00:00"
+      "likes_count": 31,
+      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
     },
     {
       "key": "35a8a7a3605412021fe1",
@@ -1185,8 +1197,8 @@
       "published": "2026-09-01T00:18:40+09:00",
       "updated": "2026-09-01T13:24:26+09:00",
       "author_name": "songchong",
-      "likes_count": 19,
-      "last_seen": "2026-09-01T18:24:11.462857526+00:00"
+      "likes_count": 20,
+      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
     },
     {
       "key": "3ace375e1b8aafd014a2",
@@ -1403,18 +1415,6 @@
       "author_name": "kizashi-labs",
       "likes_count": 11,
       "last_seen": "2026-08-18T19:35:07.723031528+00:00"
-    },
-    {
-      "key": "42ff4d8f736f45eb8c59",
-      "item_id": "42ff4d8f736f45eb8c59",
-      "title": "Railsで学ぶ レースコンディション 〜二重登録の罠〜",
-      "link": "https://qiita.com/akachiryo/items/42ff4d8f736f45eb8c59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "お疲れ様です！\nシリーズで並行性・パフォーマンスの話を書いてきましたが、今回は レースコンディション（競合状態） をまとめてみました \n「ローカルでは再現しないのに、本番でたまに二重登録される…」の正体です。\n興味ある方は読んでいただけると嬉しいです \n\nレースコンディショ...",
-      "published": "2026-07-01T12:38:36+09:00",
-      "updated": "2026-07-01T12:38:36+09:00",
-      "author_name": "akachiryo",
-      "likes_count": 37,
-      "last_seen": "2026-07-03T19:43:29.063046595+00:00"
     },
     {
       "key": "438336db3684cf662321",
@@ -1714,7 +1714,7 @@
       "updated": "2026-09-01T18:05:32+09:00",
       "author_name": "KYoshiyama",
       "likes_count": 35,
-      "last_seen": "2026-09-01T18:24:11.462857526+00:00"
+      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
     },
     {
       "key": "516da72f0627c3728fbe",
@@ -1727,18 +1727,6 @@
       "author_name": "sumomoo",
       "likes_count": 61,
       "last_seen": "2026-07-26T19:24:41.011387939+00:00"
-    },
-    {
-      "key": "5299101bce85b5970776",
-      "item_id": "5299101bce85b5970776",
-      "title": "RailsとDBインデックス 〜なぜ index があると速いのか〜",
-      "link": "https://qiita.com/akachiryo/items/5299101bce85b5970776?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "お疲れ様です！\nシリーズで計算量やレースコンディションを書いてきましたが、今回は DBインデックス です \n「indexを貼ると速くなる」は知っていても、なぜ速いのか／どこに貼るべきかまで説明できると強いので、そこをまとめてみました。\n興味ある方は読んでいただけると嬉しいで...",
-      "published": "2026-07-02T12:22:03+09:00",
-      "updated": "2026-07-02T12:22:03+09:00",
-      "author_name": "akachiryo",
-      "likes_count": 38,
-      "last_seen": "2026-07-03T19:43:29.063046595+00:00"
     },
     {
       "key": "535a697aeaea41515de9",
@@ -1942,7 +1930,7 @@
       "updated": "2026-09-01T09:03:07+09:00",
       "author_name": "jqit_suwa",
       "likes_count": 22,
-      "last_seen": "2026-09-01T18:24:11.462857526+00:00"
+      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
     },
     {
       "key": "6022101976268fa573c8",
@@ -2121,8 +2109,8 @@
       "published": "2026-08-31T16:14:13+09:00",
       "updated": "2026-08-31T16:14:13+09:00",
       "author_name": "m__ikeda",
-      "likes_count": 29,
-      "last_seen": "2026-09-01T18:24:11.462857526+00:00"
+      "likes_count": 30,
+      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
     },
     {
       "key": "674a5246577f47b972d2",
@@ -2589,8 +2577,8 @@
       "published": "2026-08-31T16:18:00+09:00",
       "updated": "2026-08-31T16:18:00+09:00",
       "author_name": "sumomoo",
-      "likes_count": 34,
-      "last_seen": "2026-09-01T18:24:11.462857526+00:00"
+      "likes_count": 35,
+      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
     },
     {
       "key": "7c124acc5b960e1df00e",
@@ -2603,18 +2591,6 @@
       "author_name": "zumax",
       "likes_count": 14,
       "last_seen": "2026-08-16T19:28:31.628750557+00:00"
-    },
-    {
-      "key": "7ca90575c5fff758993e",
-      "item_id": "7ca90575c5fff758993e",
-      "title": "エンジニアがいつのまにか知っている知識・常識・文化 12本",
-      "link": "https://qiita.com/ko-he-8/items/7ca90575c5fff758993e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "エンジニアをやっていると「いつ知ったかわからない」・「研修などでは特に教えられない」けど、みんな当たり前に知っている知識や文化がある気がします。この記事では、そういったエンジニアの暗黙の知識・文化みたいなものを思いつくままあげてみました。\nだいぶ個人の感想的な内容なので、他...",
-      "published": "2026-06-30T19:01:23+09:00",
-      "updated": "2026-06-30T19:01:23+09:00",
-      "author_name": "ko-he-8",
-      "likes_count": 145,
-      "last_seen": "2026-07-03T19:43:29.063046595+00:00"
     },
     {
       "key": "7ccb66fc5c149ac30702",
@@ -2782,7 +2758,7 @@
       "updated": "2026-08-31T08:35:16+09:00",
       "author_name": "jqit_suwa",
       "likes_count": 23,
-      "last_seen": "2026-09-01T18:24:11.462857526+00:00"
+      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
     },
     {
       "key": "82209a2a8b9cc603ec57",
@@ -3155,6 +3131,18 @@
       "author_name": "ryoji9702",
       "likes_count": 11,
       "last_seen": "2026-08-19T19:34:11.071786369+00:00"
+    },
+    {
+      "key": "90be6651d4d012c3f107",
+      "item_id": "90be6651d4d012c3f107",
+      "title": "GoFデザインパターンを実務で使うものに絞って解説する — Adapter, Facade, Strategy, Observer など",
+      "link": "https://qiita.com/kkkkkou/items/90be6651d4d012c3f107?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nGoF（Gang of Four）の Design Patterns（1994年）では23のデザインパターンが紹介されていますが、すべてを暗記する必要はありません。\nこの記事では、実務で特に使用頻度が高いパターンに絞って、「何を解決するのか」「どう使うのか」をコ...",
+      "published": "2026-08-31T11:27:38+09:00",
+      "updated": "2026-08-31T11:27:39+09:00",
+      "author_name": "kkkkkou",
+      "likes_count": 13,
+      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
     },
     {
       "key": "90f0c5866fb3516c909b",
@@ -3946,7 +3934,7 @@
       "updated": "2026-08-30T17:12:57+09:00",
       "author_name": "takahiro_honda",
       "likes_count": 41,
-      "last_seen": "2026-09-01T18:24:11.462857526+00:00"
+      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
     },
     {
       "key": "b4a550002ebf1e5b8af8",

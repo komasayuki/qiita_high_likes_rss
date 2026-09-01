@@ -98,14 +98,6 @@ description: AI臭さを消す汎用執筆ガイド。ブログ・スライド�
 Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、AP...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:7ca90575c5fff758993e</id>
-    <title>エンジニアがいつのまにか知っている知識・常識・文化 12本</title>
-    <link rel="alternate" href="https://qiita.com/ko-he-8/items/7ca90575c5fff758993e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-06-30T19:01:23+09:00</updated>
-    <summary type="html">Likes: 145&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ko-he-8&quot;&gt;ko-he-8&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T19:01:23+09:00&lt;br/&gt;Updated: 2026-06-30T19:01:23+09:00&lt;br/&gt;エンジニアをやっていると「いつ知ったかわからない」・「研修などでは特に教えられない」けど、みんな当たり前に知っている知識や文化がある気がします。この記事では、そういったエンジニアの暗黙の知識・文化みたいなものを思いつくままあげてみました。
-だいぶ個人の感想的な内容なので、他...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:6be2bf42e6b9751accc8</id>
     <title>【備忘録】AIで編集しやすいWBSの作り方 - 機能軸・工程軸で工数を集計するMarkdown表</title>
     <link rel="alternate" href="https://qiita.com/Tadataka_Takahashi/items/6be2bf42e6b9751accc8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1048,6 +1040,18 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 マルチリージョン構成でのDR（Disaster Recovery）や、ワークロードのレイテンシ要件から、東京リージョン（ap-northeast-1）と大阪リージョン（ap-northeast-3）のような同一パーティション内の複数リージョンをインターネッ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:22dd373e882bf938ad1e</id>
+    <title>元ヤフーエンジニア社長が考える、20代のうちにやっておくべき3つのこと</title>
+    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/22dd373e882bf938ad1e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-31T16:16:17+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T16:16:17+09:00&lt;br/&gt;Updated: 2026-08-31T16:16:17+09:00&lt;br/&gt;20代の頑張りは、30代以降ずっと効いてくる
+
+こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
+https://prum.jp/
+「今の仕事、このままでいいのかな」「自分は何がやりたいんだろう」
+20代のメンバーから、こういう相談を本当に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b44d4e2b526aa009f822</id>
     <title>【個人開発】MLBの試合日程をGoogleカレンダー・Appleカレンダーに自動同期するWebアプリを作りました【React/TypeScript/iCalendar】</title>
     <link rel="alternate" href="https://qiita.com/takahiro_honda/items/b44d4e2b526aa009f822?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1077,18 +1081,6 @@ MLB（メジャー・リーグ・ベースボール）の試合日程をGoogle�
     <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/e6f1678b41483943fc04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-08-05T12:51:16+09:00</updated>
     <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T07:24:09+09:00&lt;br/&gt;Updated: 2026-08-05T12:51:16+09:00&lt;br/&gt;※本記事は 2026/8 時点の公開情報（Copilot Studio 公式ブログ、Microsoft Learn、Copilot Credits Guide 2026年8月版）をベースに整理しています。今後変更される可能性があるため、契約や導入判断の際は必ず最新の公式情報...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:22dd373e882bf938ad1e</id>
-    <title>元ヤフーエンジニア社長が考える、20代のうちにやっておくべき3つのこと</title>
-    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/22dd373e882bf938ad1e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-31T16:16:17+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T16:16:17+09:00&lt;br/&gt;Updated: 2026-08-31T16:16:17+09:00&lt;br/&gt;20代の頑張りは、30代以降ずっと効いてくる
-
-こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
-https://prum.jp/
-「今の仕事、このままでいいのかな」「自分は何がやりたいんだろう」
-20代のメンバーから、こういう相談を本当に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6e1719b24f56d4166d2e</id>
@@ -1244,16 +1236,6 @@ Added a built-in &quot;Concise&quot; output style: Claude leads with result...</
 Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン security-guidance を公開しました（各メディアで紹介されたのは 5 月 27 日です）。全プランで利用でき、2026 年 6 月時点でベ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5299101bce85b5970776</id>
-    <title>RailsとDBインデックス 〜なぜ index があると速いのか〜</title>
-    <link rel="alternate" href="https://qiita.com/akachiryo/items/5299101bce85b5970776?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-02T12:22:03+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T12:22:03+09:00&lt;br/&gt;Updated: 2026-07-02T12:22:03+09:00&lt;br/&gt;お疲れ様です！
-シリーズで計算量やレースコンディションを書いてきましたが、今回は DBインデックス です 
-「indexを貼ると速くなる」は知っていても、なぜ速いのか／どこに貼るべきかまで説明できると強いので、そこをまとめてみました。
-興味ある方は読んでいただけると嬉しいで...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:76e54fee4331e3d86f29</id>
     <title>先輩の「わからないならいい」に、新人エンジニアが振り回された話</title>
     <link rel="alternate" href="https://qiita.com/prumnn/items/76e54fee4331e3d86f29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1296,18 +1278,6 @@ Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン
 
 会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
 最近...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:42ff4d8f736f45eb8c59</id>
-    <title>Railsで学ぶ レースコンディション 〜二重登録の罠〜</title>
-    <link rel="alternate" href="https://qiita.com/akachiryo/items/42ff4d8f736f45eb8c59?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-01T12:38:36+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-01T12:38:36+09:00&lt;br/&gt;Updated: 2026-07-01T12:38:36+09:00&lt;br/&gt;お疲れ様です！
-シリーズで並行性・パフォーマンスの話を書いてきましたが、今回は レースコンディション（競合状態） をまとめてみました 
-「ローカルでは再現しないのに、本番でたまに二重登録される…」の正体です。
-興味ある方は読んでいただけると嬉しいです 
-
-レースコンディショ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4183a8e97738ba45f435</id>
@@ -1436,6 +1406,19 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 レビュアーを、なるべく同じ人に...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7bd7345600b1ed09d5a7</id>
+    <title>「いつもの一言」を置き換えるだけで、AIへの指示の精度はかなり変わる</title>
+    <link rel="alternate" href="https://qiita.com/sumomoo/items/7bd7345600b1ed09d5a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-31T16:18:00+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T16:18:00+09:00&lt;br/&gt;Updated: 2026-08-31T16:18:00+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
+日々、プログラミング学習や実務の中で、つまずきやすいポイントや
+考え方を整理して発信しています。
+PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
+▶コーポレートサイト
+
+「これっ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:2d938cedad3a143542af</id>
     <title>「勉強してるのに作れない…」プログラミング学習の沼を脱出する“割り切り”のすすめ</title>
     <link rel="alternate" href="https://qiita.com/m__ikeda/items/2d938cedad3a143542af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1537,19 +1520,6 @@ GitもDBもAPIも、仕事で触るたびに「これなんだっけ」となり
     <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/AkiraTakasaki&quot;&gt;AkiraTakasaki&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T12:09:03+09:00&lt;br/&gt;Updated: 2026-07-14T12:09:04+09:00&lt;br/&gt;こんにちは、ソーイ株式会社の髙﨑です。
 最近、業務でIPアドレスによるアクセス制限機能に触れる機会がありました。調査を進める中で、ループバックアドレスやリンクローカルアドレスなど、普段あまり意識することのない特殊なIPアドレスが数多く存在することを知りました。
 今回は、調査...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7bd7345600b1ed09d5a7</id>
-    <title>「いつもの一言」を置き換えるだけで、AIへの指示の精度はかなり変わる</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/7bd7345600b1ed09d5a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-31T16:18:00+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T16:18:00+09:00&lt;br/&gt;Updated: 2026-08-31T16:18:00+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-「これっ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b96813bc8a482b3d0074</id>
@@ -1753,6 +1723,17 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 「sh...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:357c4c9e239d2b9427d1</id>
+    <title>新人エンジニア、「ラズベリーパイ」を美味しいパイだと思ってた話</title>
+    <link rel="alternate" href="https://qiita.com/prumnn/items/357c4c9e239d2b9427d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-31T16:12:20+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T16:12:20+09:00&lt;br/&gt;Updated: 2026-08-31T16:12:20+09:00&lt;br/&gt;はじめに
+
+会社の昔の写真フォルダで見つけた「ラズベリーパイ部」の文字に、てっきりパイやタルトを食べ歩く同好会だと思い込んでいたぷらむんが、プラ美先輩に聞いてみたら、全然違うジャンルの話だった、という話です。
+
+会社で自称マスコットキャラをやってるのに、社内で一番空気...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:edc03c11a477f5ecbfc2</id>
     <title>IT企業の面接、私服で本当に大丈夫？採用担当が考える「清潔感」のライン</title>
     <link rel="alternate" href="https://qiita.com/m__ikeda/items/edc03c11a477f5ecbfc2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1781,15 +1762,14 @@ Geminiでこんなプロンプトを入力すると...</summary>
 さて、読者のほとんどの方が Claude Code や Codex を使って開発をしていると思いますが、皆さんは「AIエージェントがシェルコマンドやネットワークアクセ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:357c4c9e239d2b9427d1</id>
-    <title>新人エンジニア、「ラズベリーパイ」を美味しいパイだと思ってた話</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/357c4c9e239d2b9427d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-31T16:12:20+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T16:12:20+09:00&lt;br/&gt;Updated: 2026-08-31T16:12:20+09:00&lt;br/&gt;はじめに
-
-会社の昔の写真フォルダで見つけた「ラズベリーパイ部」の文字に、てっきりパイやタルトを食べ歩く同好会だと思い込んでいたぷらむんが、プラ美先輩に聞いてみたら、全然違うジャンルの話だった、という話です。
-
-会社で自称マスコットキャラをやってるのに、社内で一番空気...</summary>
+    <id>tag:qiita.com,2026:668edf1abb33d35d5630</id>
+    <title>未経験からIT業界へ。「できるようになってから」じゃなくて大丈夫です</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/668edf1abb33d35d5630?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-31T16:14:13+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T16:14:13+09:00&lt;br/&gt;Updated: 2026-08-31T16:14:13+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:44c6f3b78a6a1dce0d57</id>
@@ -1866,16 +1846,6 @@ TL;DR
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tie_rrific&quot;&gt;tie_rrific&lt;/a&gt;&lt;br/&gt;Published: 2026-07-21T11:07:37+09:00&lt;br/&gt;Updated: 2026-07-21T11:07:37+09:00&lt;br/&gt;はじめに
 最近では、GitHub CopilotやClaude CodeなどのAIエージェントにコードを書かせる開発スタイルが広がりつつあります。
 しかし、実際の開発業務には、要件や背景の把握、実装後の報告、知見のドキュメント化など、コードを書く以外にも多くの作業がありま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:668edf1abb33d35d5630</id>
-    <title>未経験からIT業界へ。「できるようになってから」じゃなくて大丈夫です</title>
-    <link rel="alternate" href="https://qiita.com/m__ikeda/items/668edf1abb33d35d5630?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-31T16:14:13+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T16:14:13+09:00&lt;br/&gt;Updated: 2026-08-31T16:14:13+09:00&lt;br/&gt;自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a82fccf6d52c05156384</id>
@@ -2242,5 +2212,34 @@ Claude Opus 5 では、これは消したほうがいい一文になりました
     <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T08:29:02+09:00&lt;br/&gt;Updated: 2026-07-15T08:29:02+09:00&lt;br/&gt;はじめに
 Claude Code、コードを書かせるだけで使ってませんか？それ、正直めちゃくちゃもったいないです。
 Claude Code のすごいところは、手を動かしてくれる相棒であると同時に、隣に座ってる先生でもあること。実装を丸投げするんじゃなくて、「教えてもらう」「...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5e5ec4d5e96b12fbc75c</id>
+    <title>ナレッジ83件を2時間で作った。でも腐るのは、もっと速かった</title>
+    <link rel="alternate" href="https://qiita.com/yamada-iknow/items/5e5ec4d5e96b12fbc75c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-10T07:00:29+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamada-iknow&quot;&gt;yamada-iknow&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T07:00:29+09:00&lt;br/&gt;Updated: 2026-07-10T07:00:29+09:00&lt;br/&gt;TL;DR
+
+自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
+でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:1953d640bc0a7c0b16fc</id>
+    <title>Claude Codeに毎日3回「挨拶ハラスメント」して5時間の使用枠で作業を止まらなくするClaude活用術</title>
+    <link rel="alternate" href="https://qiita.com/inoyu-qiita/items/1953d640bc0a7c0b16fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-21T10:51:29+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inoyu-qiita&quot;&gt;inoyu-qiita&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T00:25:13+09:00&lt;br/&gt;Updated: 2026-08-21T10:51:29+09:00&lt;br/&gt;日頃からお世話になっている社内のUさん(@haru-qiita)と一緒に業務をしていて教えていただいた最強Claude活用術です！
+
+はじめに
+Claude Codeのクラウドルーティン（定期実行エージェント）で、平日の7時・12時・17時に「挨拶を返すだけ」の超軽量なジョ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9a8e6af3d545150c5a08</id>
+    <title>VisualStudio無しで.NET Framework→.NET 10移行を試したら、ツールそのものが世代交代していた話</title>
+    <link rel="alternate" href="https://qiita.com/inuta-one/items/9a8e6af3d545150c5a08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-11T17:15:03+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inuta-one&quot;&gt;inuta-one&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T09:24:08+09:00&lt;br/&gt;Updated: 2026-08-11T17:15:03+09:00&lt;br/&gt;はじめに
+C# で出来ること一覧 2026年版（.NET 10） という記事を読んで、後半で紹介されていた「.NET Frameworkから.NETへの移行」を実際に手を動かして試してみることにしました。
+自分は過去にVB6→C#移行の案件に関わったこともあり、この手の移...</summary>
   </entry>
 </feed>
