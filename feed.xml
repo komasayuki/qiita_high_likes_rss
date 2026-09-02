@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-09-02T10:47:20+09:00</updated>
+  <updated>2026-09-02T23:26:27+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -444,17 +444,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 「人にし...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:7d06434cf830df9c54ff</id>
-    <title>【ハンズオン】AgentCore最新機能でRAG &amp; AIエージェント構築に入門！</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/7d06434cf830df9c54ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-02T16:51:13+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T01:32:50+09:00&lt;br/&gt;Updated: 2026-07-02T16:51:13+09:00&lt;br/&gt;このイベント用のハンズオン手順ですが、どなたでも好きなときに試せます！（30分〜1時間目安）
-
-これをローコードでサクッと作ります。
-
-残念なことに最近、新規作成したばかりのAWSアカウント（特に会社契約でないもの）では、Bedrockのモデル呼び出しクォータが既定で0...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:e54c70c90c6aa84d0f66</id>
     <title>CLAUDE.md 設計パターン集──プロジェクト規模別に使い分ける7つのテンプレート</title>
     <link rel="alternate" href="https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -792,6 +781,19 @@ https://prum.jp/
 20代のメンバーから、こういう相談を本当に...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b44d4e2b526aa009f822</id>
+    <title>【個人開発】MLBの試合日程をGoogleカレンダー・Appleカレンダーに自動同期するWebアプリを作りました【React/TypeScript/iCalendar】</title>
+    <link rel="alternate" href="https://qiita.com/takahiro_honda/items/b44d4e2b526aa009f822?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-30T17:12:57+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takahiro_honda&quot;&gt;takahiro_honda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-30T17:00:11+09:00&lt;br/&gt;Updated: 2026-08-30T17:12:57+09:00&lt;br/&gt;はじめに
+MLB（メジャー・リーグ・ベースボール）の試合日程をGoogleカレンダー・Appleカレンダーに自動同期するWebアプリを作成しました。
+その感想を書いていきます。
+
+開発理由
+最近、大谷翔平選手の所属するドジャースの試合にめちゃくちゃどハマりしています！
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cea574550613de33a114</id>
     <title>CLAUDE.md は21セクションか、8行か — 公式ドキュメントで決着をつけた</title>
     <link rel="alternate" href="https://qiita.com/jqit_suwa/items/cea574550613de33a114?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -847,19 +849,6 @@ Agent Toolkit for AWSの一部の方のAWS MCP Serverの話です。オープン
 
 設定方法
 
-...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b44d4e2b526aa009f822</id>
-    <title>【個人開発】MLBの試合日程をGoogleカレンダー・Appleカレンダーに自動同期するWebアプリを作りました【React/TypeScript/iCalendar】</title>
-    <link rel="alternate" href="https://qiita.com/takahiro_honda/items/b44d4e2b526aa009f822?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-30T17:12:57+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takahiro_honda&quot;&gt;takahiro_honda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-30T17:00:11+09:00&lt;br/&gt;Updated: 2026-08-30T17:12:57+09:00&lt;br/&gt;はじめに
-MLB（メジャー・リーグ・ベースボール）の試合日程をGoogleカレンダー・Appleカレンダーに自動同期するWebアプリを作成しました。
-その感想を書いていきます。
-
-開発理由
-最近、大谷翔平選手の所属するドジャースの試合にめちゃくちゃどハマりしています！
 ...</summary>
   </entry>
   <entry>
@@ -1145,20 +1134,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 
 画面に表示されたエラーメッセージやダイアログ。コピーしたいのに、選択できない！
 オンライン会議の共有画面に映った、長...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d442ed23d24245b789a0</id>
-    <title>トークンをケチるな、設計しろ：GitHub Copilotを賢く使うコンテキスト戦略</title>
-    <link rel="alternate" href="https://qiita.com/ochtum/items/d442ed23d24245b789a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-02T02:03:35+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ochtum&quot;&gt;ochtum&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T01:59:06+09:00&lt;br/&gt;Updated: 2026-07-02T02:03:35+09:00&lt;br/&gt;※お役に立てたらストック、いいねをよろしくお願いします！！
-
-＜📝本記事のターゲット層＞
-
-GitHub Copilot ChatやAgent modeを業務で使い始めた方
-MCPやAgent Skillsを導入している、または導入を検討している方
-
-AGENTS.m...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d155a4ac10477d1eb41f</id>
@@ -1699,6 +1674,34 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 「sh...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:83783c6dd3b4b51fa77f</id>
+    <title>【JavaScript】usingがStage4になったので、ようやくリソース解放忘れから解放されるよ</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-02T23:26:27+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T20:53:39+09:00&lt;br/&gt;Updated: 2026-09-02T23:26:27+09:00&lt;br/&gt;だめ
+function hoge(){
+  const handle = exampleResource(); // なんかのリソース
+  /*
+    なんか長い処理
+  */
+  handle.release(); // リソース解放
+}
+
+hoge();
+
+うっか...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:1db92012f8477071e4b4</id>
+    <title>カジュアル面談で「特に質問ないです」が、実は一番もったいない理由</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/1db92012f8477071e4b4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-02T10:47:20+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-09-02T10:47:20+09:00&lt;br/&gt;Updated: 2026-09-02T10:47:20+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:668edf1abb33d35d5630</id>
     <title>未経験からIT業界へ。「できるようになってから」じゃなくて大丈夫です</title>
     <link rel="alternate" href="https://qiita.com/m__ikeda/items/668edf1abb33d35d5630?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1746,16 +1749,6 @@ Geminiでこんなプロンプトを入力すると...</summary>
     <updated>2026-07-10T12:34:58+09:00</updated>
     <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Koukyosyumei&quot;&gt;Koukyosyumei&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T12:34:58+09:00&lt;br/&gt;Updated: 2026-07-10T12:34:58+09:00&lt;br/&gt;こんにちは！コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。
 さて、読者のほとんどの方が Claude Code や Codex を使って開発をしていると思いますが、皆さんは「AIエージェントがシェルコマンドやネットワークアクセ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1db92012f8477071e4b4</id>
-    <title>カジュアル面談で「特に質問ないです」が、実は一番もったいない理由</title>
-    <link rel="alternate" href="https://qiita.com/m__ikeda/items/1db92012f8477071e4b4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-02T10:47:20+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-09-02T10:47:20+09:00&lt;br/&gt;Updated: 2026-09-02T10:47:20+09:00&lt;br/&gt;自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:44c6f3b78a6a1dce0d57</id>
@@ -1899,24 +1892,6 @@ SQLを書く前に知っておきたい5つの基本ルール
 
 はじめに
 SQLはデータベースを扱ううえで欠かせない言語ですが...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:83783c6dd3b4b51fa77f</id>
-    <title>【JavaScript】usingがStage4になったので、ようやくリソース解放忘れから解放されるよ</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-02T09:20:11+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T20:53:39+09:00&lt;br/&gt;Updated: 2026-09-02T09:20:11+09:00&lt;br/&gt;だめ
-function hoge(){
-  const handle = exampleResource(); // なんかのリソース
-  /*
-    なんか長い処理
-  */
-  handle.release(); // リソース解放
-}
-
-hoge();
-
-うっか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d09be87764a66c9077f0</id>
@@ -2244,5 +2219,31 @@ Claude Codeのクラウドルーティン（定期実行エージェント）で
     <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inuta-one&quot;&gt;inuta-one&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T09:24:08+09:00&lt;br/&gt;Updated: 2026-08-11T17:15:03+09:00&lt;br/&gt;はじめに
 C# で出来ること一覧 2026年版（.NET 10） という記事を読んで、後半で紹介されていた「.NET Frameworkから.NETへの移行」を実際に手を動かして試してみることにしました。
 自分は過去にVB6→C#移行の案件に関わったこともあり、この手の移...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ec8cd4dd183e12ac5781</id>
+    <title>鍵を渡さず・文脈を可視化する — マルチエージェント管理デスクトップアプリ「moeca」を個人開発している話</title>
+    <link rel="alternate" href="https://qiita.com/can-can/items/ec8cd4dd183e12ac5781?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-07T15:29:31+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/can-can&quot;&gt;can-can&lt;/a&gt;&lt;br/&gt;Published: 2026-08-07T15:29:29+09:00&lt;br/&gt;Updated: 2026-08-07T15:29:31+09:00&lt;br/&gt;「AI で業務効率化」が当たり前になった一方で、こんな経験はないでしょうか。
+
+思ったような出力をしてくれない…
+出力に、いらないデータが混ざっている…
+事実と異なる結果を、それっぽく返してくる…
+
+さらに、チームで使い始めると別の不安も出てきます。
+
+このエージェント、社...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9cf96baae4b01bbeb6d6</id>
+    <title>非エンジニアが気楽に始める仕様駆動開発</title>
+    <link rel="alternate" href="https://qiita.com/ynmc0214/items/9cf96baae4b01bbeb6d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-25T15:31:37+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ynmc0214&quot;&gt;ynmc0214&lt;/a&gt;&lt;br/&gt;Published: 2026-07-25T15:31:37+09:00&lt;br/&gt;Updated: 2026-07-25T15:31:37+09:00&lt;br/&gt;この記事はAIと壁打ちしながら人間が書きました。
+
+流行りの仕様駆動開発、とっつきづらく感じませんか？
+サービスデザイナーという肩書きで仕事している非エンジニアの僕には、正直ちょっと難しいと感じてました。
+理解を深めるために個人で仕様駆動開発にトライしてみたのですが、...</summary>
   </entry>
 </feed>
