@@ -1630,6 +1630,24 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 5年後、AI...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:83783c6dd3b4b51fa77f</id>
+    <title>【JavaScript】usingがStage4になったので、ようやくリソース解放忘れから解放されるよ</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-02T23:26:27+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T20:53:39+09:00&lt;br/&gt;Updated: 2026-09-02T23:26:27+09:00&lt;br/&gt;だめ
+function hoge(){
+  const handle = exampleResource(); // なんかのリソース
+  /*
+    なんか長い処理
+  */
+  handle.release(); // リソース解放
+}
+
+hoge();
+
+うっか...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a99f0d9f0db6ebd87c00</id>
     <title>わかったようでわからない非同期処理の完全理解①</title>
     <link rel="alternate" href="https://qiita.com/yuki_crossroad/items/a99f0d9f0db6ebd87c00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1672,24 +1690,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t-kurasawa&quot;&gt;t-kurasawa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-21T20:45:13+09:00&lt;br/&gt;Updated: 2026-07-21T20:45:14+09:00&lt;br/&gt;はじめに
 2026年7月、shadcn/ui の公式チェンジログに「Base UI as the Default」という一文が追加されました。新規プロジェクトを作成すると、これまでの Radix UI ではなく Base UI が標準の基盤になる、という内容です。
 「sh...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:83783c6dd3b4b51fa77f</id>
-    <title>【JavaScript】usingがStage4になったので、ようやくリソース解放忘れから解放されるよ</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-02T23:26:27+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T20:53:39+09:00&lt;br/&gt;Updated: 2026-09-02T23:26:27+09:00&lt;br/&gt;だめ
-function hoge(){
-  const handle = exampleResource(); // なんかのリソース
-  /*
-    なんか長い処理
-  */
-  handle.release(); // リソース解放
-}
-
-hoge();
-
-うっか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1db92012f8477071e4b4</id>
