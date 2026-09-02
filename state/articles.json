@@ -417,8 +417,8 @@
       "published": "2026-09-02T04:08:55+09:00",
       "updated": "2026-09-02T04:10:13+09:00",
       "author_name": "songchong",
-      "likes_count": 11,
-      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-09-02T00:01:48.155867750+00:00"
     },
     {
       "key": "1cb40e25071475268431",
@@ -573,8 +573,8 @@
       "published": "2026-08-31T16:16:17+09:00",
       "updated": "2026-08-31T16:16:17+09:00",
       "author_name": "ryoheiiwamoto",
-      "likes_count": 41,
-      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
+      "likes_count": 42,
+      "last_seen": "2026-09-02T00:01:48.155867750+00:00"
     },
     {
       "key": "22ef83c9c3a63c349bbd",
@@ -885,8 +885,8 @@
       "published": "2026-09-01T12:25:00+09:00",
       "updated": "2026-09-01T12:56:42+09:00",
       "author_name": "sugumura",
-      "likes_count": 11,
-      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
+      "likes_count": 12,
+      "last_seen": "2026-09-02T00:01:48.155867750+00:00"
     },
     {
       "key": "2f38d32328996d826d48",
@@ -1114,7 +1114,7 @@
       "updated": "2026-08-31T16:12:20+09:00",
       "author_name": "prumnn",
       "likes_count": 31,
-      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
+      "last_seen": "2026-09-02T00:01:48.155867750+00:00"
     },
     {
       "key": "35a8a7a3605412021fe1",
@@ -1197,8 +1197,8 @@
       "published": "2026-09-01T00:18:40+09:00",
       "updated": "2026-09-01T13:24:26+09:00",
       "author_name": "songchong",
-      "likes_count": 20,
-      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
+      "likes_count": 23,
+      "last_seen": "2026-09-02T00:01:48.155867750+00:00"
     },
     {
       "key": "3ace375e1b8aafd014a2",
@@ -1713,8 +1713,8 @@
       "published": "2026-09-01T11:11:47+09:00",
       "updated": "2026-09-01T18:05:32+09:00",
       "author_name": "KYoshiyama",
-      "likes_count": 35,
-      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
+      "likes_count": 36,
+      "last_seen": "2026-09-02T00:01:48.155867750+00:00"
     },
     {
       "key": "516da72f0627c3728fbe",
@@ -1930,7 +1930,7 @@
       "updated": "2026-09-01T09:03:07+09:00",
       "author_name": "jqit_suwa",
       "likes_count": 22,
-      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
+      "last_seen": "2026-09-02T00:01:48.155867750+00:00"
     },
     {
       "key": "6022101976268fa573c8",
@@ -2109,8 +2109,8 @@
       "published": "2026-08-31T16:14:13+09:00",
       "updated": "2026-08-31T16:14:13+09:00",
       "author_name": "m__ikeda",
-      "likes_count": 30,
-      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
+      "likes_count": 31,
+      "last_seen": "2026-09-02T00:01:48.155867750+00:00"
     },
     {
       "key": "674a5246577f47b972d2",
@@ -2389,6 +2389,18 @@
       "last_seen": "2026-08-04T19:50:29.416194224+00:00"
     },
     {
+      "key": "7650fe71fa0bca85a727",
+      "item_id": "7650fe71fa0bca85a727",
+      "title": "LLMが「1+1」を計算するとき、中で何が起きているのか",
+      "link": "https://qiita.com/nolanlover0527/items/7650fe71fa0bca85a727?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nChatGPTやClaudeに「1+1は？」と聞くと、当然のように「2」と返ってきます。\nこのとき、LLMの内部では電卓のような四則演算が行われているのでしょうか。\n実は、Anthropic社の研究により、LLMは計算問題を電卓とはまったく違う方法で解いているこ...",
+      "published": "2026-08-31T09:18:12+09:00",
+      "updated": "2026-08-31T09:18:12+09:00",
+      "author_name": "nolanlover0527",
+      "likes_count": 10,
+      "last_seen": "2026-09-02T00:01:48.155867750+00:00"
+    },
+    {
       "key": "76c9dc47a8c7993c6a23",
       "item_id": "76c9dc47a8c7993c6a23",
       "title": "読み取りと書き込みでモデルが別！？ - CQRS という概念",
@@ -2577,8 +2589,8 @@
       "published": "2026-08-31T16:18:00+09:00",
       "updated": "2026-08-31T16:18:00+09:00",
       "author_name": "sumomoo",
-      "likes_count": 35,
-      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
+      "likes_count": 36,
+      "last_seen": "2026-09-02T00:01:48.155867750+00:00"
     },
     {
       "key": "7c124acc5b960e1df00e",
@@ -2758,7 +2770,7 @@
       "updated": "2026-08-31T08:35:16+09:00",
       "author_name": "jqit_suwa",
       "likes_count": 23,
-      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
+      "last_seen": "2026-09-02T00:01:48.155867750+00:00"
     },
     {
       "key": "82209a2a8b9cc603ec57",
@@ -2795,6 +2807,18 @@
       "author_name": "sh-fukaya",
       "likes_count": 12,
       "last_seen": "2026-08-16T07:39:36.201494268+00:00"
+    },
+    {
+      "key": "83783c6dd3b4b51fa77f",
+      "item_id": "83783c6dd3b4b51fa77f",
+      "title": "【JavaScript】usingがStage4になったので、ようやくリソース解放忘れから解放されるよ",
+      "link": "https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "だめ\nfunction hoge(){\n  const handle = exampleResource(); // なんかのリソース\n  /*\n    なんか長い処理\n  */\n  handle.release(); // リソース解放\n}\n\nhoge();\n\nうっか...",
+      "published": "2026-08-31T20:53:39+09:00",
+      "updated": "2026-09-02T08:56:58+09:00",
+      "author_name": "rana_kualu",
+      "likes_count": 13,
+      "last_seen": "2026-09-02T00:01:48.155867750+00:00"
     },
     {
       "key": "8439fcee712184740608",
@@ -3141,8 +3165,8 @@
       "published": "2026-08-31T11:27:38+09:00",
       "updated": "2026-08-31T11:27:39+09:00",
       "author_name": "kkkkkou",
-      "likes_count": 13,
-      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-09-02T00:01:48.155867750+00:00"
     },
     {
       "key": "90f0c5866fb3516c909b",
@@ -3934,7 +3958,7 @@
       "updated": "2026-08-30T17:12:57+09:00",
       "author_name": "takahiro_honda",
       "likes_count": 41,
-      "last_seen": "2026-09-01T21:43:41.915403785+00:00"
+      "last_seen": "2026-09-02T00:01:48.155867750+00:00"
     },
     {
       "key": "b4a550002ebf1e5b8af8",
