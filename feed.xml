@@ -747,6 +747,18 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 みなさん、2...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:22dd373e882bf938ad1e</id>
+    <title>元ヤフーエンジニア社長が考える、20代のうちにやっておくべき3つのこと</title>
+    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/22dd373e882bf938ad1e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-31T16:16:17+09:00</updated>
+    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T16:16:17+09:00&lt;br/&gt;Updated: 2026-08-31T16:16:17+09:00&lt;br/&gt;20代の頑張りは、30代以降ずっと効いてくる
+
+こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
+https://prum.jp/
+「今の仕事、このままでいいのかな」「自分は何がやりたいんだろう」
+20代のメンバーから、こういう相談を本当に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:dab9765ffd6aae8f0c07</id>
     <title>社内IT推進で「作っても使われない」をゼロにするために、僕が現場で学んだ5つのこと</title>
     <link rel="alternate" href="https://qiita.com/rira__/items/dab9765ffd6aae8f0c07?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -767,18 +779,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 
 はじめに
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:22dd373e882bf938ad1e</id>
-    <title>元ヤフーエンジニア社長が考える、20代のうちにやっておくべき3つのこと</title>
-    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/22dd373e882bf938ad1e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-31T16:16:17+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T16:16:17+09:00&lt;br/&gt;Updated: 2026-08-31T16:16:17+09:00&lt;br/&gt;20代の頑張りは、30代以降ずっと効いてくる
-
-こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
-https://prum.jp/
-「今の仕事、このままでいいのかな」「自分は何がやりたいんだろう」
-20代のメンバーから、こういう相談を本当に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b44d4e2b526aa009f822</id>
@@ -1370,6 +1370,24 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 執筆時点で...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:83783c6dd3b4b51fa77f</id>
+    <title>【JavaScript】usingがStage4になったので、ようやくリソース解放忘れから解放されるよ</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-02T23:26:27+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T20:53:39+09:00&lt;br/&gt;Updated: 2026-09-02T23:26:27+09:00&lt;br/&gt;だめ
+function hoge(){
+  const handle = exampleResource(); // なんかのリソース
+  /*
+    なんか長い処理
+  */
+  handle.release(); // リソース解放
+}
+
+hoge();
+
+うっか...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:2d938cedad3a143542af</id>
     <title>「勉強してるのに作れない…」プログラミング学習の沼を脱出する“割り切り”のすすめ</title>
     <link rel="alternate" href="https://qiita.com/m__ikeda/items/2d938cedad3a143542af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1628,24 +1646,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 5年後、AI...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:83783c6dd3b4b51fa77f</id>
-    <title>【JavaScript】usingがStage4になったので、ようやくリソース解放忘れから解放されるよ</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-02T23:26:27+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T20:53:39+09:00&lt;br/&gt;Updated: 2026-09-02T23:26:27+09:00&lt;br/&gt;だめ
-function hoge(){
-  const handle = exampleResource(); // なんかのリソース
-  /*
-    なんか長い処理
-  */
-  handle.release(); // リソース解放
-}
-
-hoge();
-
-うっか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a99f0d9f0db6ebd87c00</id>
