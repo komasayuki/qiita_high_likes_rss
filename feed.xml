@@ -781,6 +781,20 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:50f50f39fd0da34e3dce</id>
+    <title>「いい感じに分けといて」と頼まれたので、「いい感じ」を定義してみた</title>
+    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/50f50f39fd0da34e3dce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-01T18:05:32+09:00</updated>
+    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-09-01T11:11:47+09:00&lt;br/&gt;Updated: 2026-09-01T18:05:32+09:00&lt;br/&gt;「いい感じに分けてくれない？」
+そう頼まれたことはないでしょうか。
+困るのは、その「いい感じ」を誰も定義していないことです。
+聞いてみると、だいたいこういう感じの回答が返ってきます。
+
+シフトを、なるべく公平に
+当番を、なるべく連続させずに
+レビュアーを、なるべく同じ人に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b44d4e2b526aa009f822</id>
     <title>【個人開発】MLBの試合日程をGoogleカレンダー・Appleカレンダーに自動同期するWebアプリを作りました【React/TypeScript/iCalendar】</title>
     <link rel="alternate" href="https://qiita.com/takahiro_honda/items/b44d4e2b526aa009f822?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -997,20 +1011,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:50f50f39fd0da34e3dce</id>
-    <title>「いい感じに分けといて」と頼まれたので、「いい感じ」を定義してみた</title>
-    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/50f50f39fd0da34e3dce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-01T18:05:32+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-09-01T11:11:47+09:00&lt;br/&gt;Updated: 2026-09-01T18:05:32+09:00&lt;br/&gt;「いい感じに分けてくれない？」
-そう頼まれたことはないでしょうか。
-困るのは、その「いい感じ」を誰も定義していないことです。
-聞いてみると、だいたいこういう感じの回答が返ってきます。
-
-シフトを、なるべく公平に
-当番を、なるべく連続させずに
-レビュアーを、なるべく同じ人に...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b4a550002ebf1e5b8af8</id>
     <title>「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1201,6 +1201,34 @@ Added a built-in &quot;Concise&quot; output style: Claude leads with result...</
 Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン security-guidance を公開しました（各メディアで紹介されたのは 5 月 27 日です）。全プランで利用でき、2026 年 6 月時点でベ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:83783c6dd3b4b51fa77f</id>
+    <title>【JavaScript】usingがStage4になったので、ようやくリソース解放忘れから解放されるよ</title>
+    <link rel="alternate" href="https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-02T23:26:27+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T20:53:39+09:00&lt;br/&gt;Updated: 2026-09-02T23:26:27+09:00&lt;br/&gt;だめ
+function hoge(){
+  const handle = exampleResource(); // なんかのリソース
+  /*
+    なんか長い処理
+  */
+  handle.release(); // リソース解放
+}
+
+hoge();
+
+うっか...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:1db92012f8477071e4b4</id>
+    <title>カジュアル面談で「特に質問ないです」が、実は一番もったいない理由</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/1db92012f8477071e4b4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-02T10:47:20+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-09-02T10:47:20+09:00&lt;br/&gt;Updated: 2026-09-02T10:47:20+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:76e54fee4331e3d86f29</id>
     <title>先輩の「わからないならいい」に、新人エンジニアが振り回された話</title>
     <link rel="alternate" href="https://qiita.com/prumnn/items/76e54fee4331e3d86f29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1243,24 +1271,6 @@ Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン
 
 会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
 最近...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:83783c6dd3b4b51fa77f</id>
-    <title>【JavaScript】usingがStage4になったので、ようやくリソース解放忘れから解放されるよ</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-02T23:26:27+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T20:53:39+09:00&lt;br/&gt;Updated: 2026-09-02T23:26:27+09:00&lt;br/&gt;だめ
-function hoge(){
-  const handle = exampleResource(); // なんかのリソース
-  /*
-    なんか長い処理
-  */
-  handle.release(); // リソース解放
-}
-
-hoge();
-
-うっか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7bd7345600b1ed09d5a7</id>
@@ -1692,16 +1702,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 「sh...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:1db92012f8477071e4b4</id>
-    <title>カジュアル面談で「特に質問ないです」が、実は一番もったいない理由</title>
-    <link rel="alternate" href="https://qiita.com/m__ikeda/items/1db92012f8477071e4b4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-02T10:47:20+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-09-02T10:47:20+09:00&lt;br/&gt;Updated: 2026-09-02T10:47:20+09:00&lt;br/&gt;自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:668edf1abb33d35d5630</id>
     <title>未経験からIT業界へ。「できるようになってから」じゃなくて大丈夫です</title>
     <link rel="alternate" href="https://qiita.com/m__ikeda/items/668edf1abb33d35d5630?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1894,6 +1894,15 @@ SQLを書く前に知っておきたい5つの基本ルール
 SQLはデータベースを扱ううえで欠かせない言語ですが...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5fe930eb46d064b3da06</id>
+    <title>Claude Code でモデルを切り替えると、そのターンだけ書き直しが287倍</title>
+    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/5fe930eb46d064b3da06?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-01T09:03:07+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-01T09:03:06+09:00&lt;br/&gt;Updated: 2026-09-01T09:03:07+09:00&lt;br/&gt;/model でモデルを切り替えるのは一瞬です。キャッシュが温かいうちなら確認も出ます（2.1.238以降）。では、そこで何を捨てているのか。
+Claude Code 2.1.251 でプロンプトキャッシュが数字で見えるようになったので、測ってみました。
+同じセッションを継...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d09be87764a66c9077f0</id>
     <title>コードレビューで身についた技術と、メンタルを守るための習慣</title>
     <link rel="alternate" href="https://qiita.com/NekoByte/items/d09be87764a66c9077f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1962,15 +1971,6 @@ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-cu
 
 OpenAI公式の codex-plugin-cc を使うと、Claude Code のセッション内から Codex にコードレビューを依頼できる。
 Claude Code には /code-review、Codex 側には /codex:review と ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5fe930eb46d064b3da06</id>
-    <title>Claude Code でモデルを切り替えると、そのターンだけ書き直しが287倍</title>
-    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/5fe930eb46d064b3da06?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-01T09:03:07+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-01T09:03:06+09:00&lt;br/&gt;Updated: 2026-09-01T09:03:07+09:00&lt;br/&gt;/model でモデルを切り替えるのは一瞬です。キャッシュが温かいうちなら確認も出ます（2.1.238以降）。では、そこで何を捨てているのか。
-Claude Code 2.1.251 でプロンプトキャッシュが数字で見えるようになったので、測ってみました。
-同じセッションを継...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0f93dd0b38fda076174f</id>
@@ -2202,6 +2202,18 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1fd4d4ef522f5b5d88f0</id>
+    <title>企業様に呼ばれて、1時間Copilotについて登壇してきました</title>
+    <link rel="alternate" href="https://qiita.com/sadabon444/items/1fd4d4ef522f5b5d88f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-01T10:45:24+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-09-01T10:45:24+09:00&lt;br/&gt;Updated: 2026-09-01T10:45:24+09:00&lt;br/&gt;企業様に呼ばれて、1時間Copilotについて登壇してきました。
+
+この記事で扱うCopilotは、企業向けのものを指します。
+具体的には、M365を導入している企業において利用できる以下を対象とします:
+
+Microsoft 365 Copilot（有料アドオンライセ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1953d640bc0a7c0b16fc</id>
     <title>Claude Codeに毎日3回「挨拶ハラスメント」して5時間の使用枠で作業を止まらなくするClaude活用術</title>
     <link rel="alternate" href="https://qiita.com/inoyu-qiita/items/1953d640bc0a7c0b16fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2234,16 +2246,5 @@ C# で出来ること一覧 2026年版（.NET 10） という記事を読んで�
 さらに、チームで使い始めると別の不安も出てきます。
 
 このエージェント、社...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9cf96baae4b01bbeb6d6</id>
-    <title>非エンジニアが気楽に始める仕様駆動開発</title>
-    <link rel="alternate" href="https://qiita.com/ynmc0214/items/9cf96baae4b01bbeb6d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-25T15:31:37+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ynmc0214&quot;&gt;ynmc0214&lt;/a&gt;&lt;br/&gt;Published: 2026-07-25T15:31:37+09:00&lt;br/&gt;Updated: 2026-07-25T15:31:37+09:00&lt;br/&gt;この記事はAIと壁打ちしながら人間が書きました。
-
-流行りの仕様駆動開発、とっつきづらく感じませんか？
-サービスデザイナーという肩書きで仕事している非エンジニアの僕には、正直ちょっと難しいと感じてました。
-理解を深めるために個人で仕様駆動開発にトライしてみたのですが、...</summary>
   </entry>
 </feed>
