@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-09-03T18:33:23+09:00</updated>
+  <updated>2026-09-04T11:56:14+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -246,17 +246,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 尊敬する...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cc3be5930b972130885d</id>
-    <title>バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと</title>
-    <link rel="alternate" href="https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-05T11:59:41+09:00</updated>
-    <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yutaka_kozuka&quot;&gt;yutaka_kozuka&lt;/a&gt;&lt;br/&gt;Published: 2026-07-03T12:06:16+09:00&lt;br/&gt;Updated: 2026-07-05T11:59:41+09:00&lt;br/&gt;TL;DR
-Q: バイブコーディングで本当にアプリをリリースできるのか？
-A: できました。ただし「商用・セキュア」という条件では、非エンジニアにはまだ厳しいと感じました。
-
-AI英語学習アプリをゼロから個人開発し、Web・iOS App Store の両方でリリースでき...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5f21adcca8aff1b0357a</id>
@@ -1199,6 +1188,15 @@ Added a built-in &quot;Concise&quot; output style: Claude leads with result...</
 Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン security-guidance を公開しました（各メディアで紹介されたのは 5 月 27 日です）。全プランで利用でき、2026 年 6 月時点でベ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:52aafd8c073b37749539</id>
+    <title>ネットワークフロー理論における「最小カット問題」の考え方を総整理！ 〜 カットの理論から現実への応用例まで 〜</title>
+    <link rel="alternate" href="https://qiita.com/drken/items/52aafd8c073b37749539?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-03T18:33:23+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/drken&quot;&gt;drken&lt;/a&gt;&lt;br/&gt;Published: 2026-09-02T20:26:46+09:00&lt;br/&gt;Updated: 2026-09-03T18:33:23+09:00&lt;br/&gt;お久しぶりです！
+NTT データ数理システムで顧問をしている大槻（けんちょん）です。好きなアルゴリズムは最小カットです。
+今回は、最小カット問題について書いていきます。最小カット問題は、情報系の大学では「アルゴリズムとデータ構造」の講義の終盤で少しだけ登場するマニアックな話...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:83783c6dd3b4b51fa77f</id>
     <title>【JavaScript】usingがStage4になったので、ようやくリソース解放忘れから解放されるよ</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1386,6 +1384,16 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 執筆時点で...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1960963c3c59591763ab</id>
+    <title>「在宅勤務って本当にラク？」未経験でIT業界を目指すなら知っておきたいリモートワークのこと</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/1960963c3c59591763ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-03T17:12:02+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-09-03T17:12:02+09:00&lt;br/&gt;Updated: 2026-09-03T17:12:02+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:2d938cedad3a143542af</id>
     <title>「勉強してるのに作れない…」プログラミング学習の沼を脱出する“割り切り”のすすめ</title>
     <link rel="alternate" href="https://qiita.com/m__ikeda/items/2d938cedad3a143542af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1487,16 +1495,6 @@ GitもDBもAPIも、仕事で触るたびに「これなんだっけ」となり
     <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/AkiraTakasaki&quot;&gt;AkiraTakasaki&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T12:09:03+09:00&lt;br/&gt;Updated: 2026-07-14T12:09:04+09:00&lt;br/&gt;こんにちは、ソーイ株式会社の髙﨑です。
 最近、業務でIPアドレスによるアクセス制限機能に触れる機会がありました。調査を進める中で、ループバックアドレスやリンクローカルアドレスなど、普段あまり意識することのない特殊なIPアドレスが数多く存在することを知りました。
 今回は、調査...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1960963c3c59591763ab</id>
-    <title>「在宅勤務って本当にラク？」未経験でIT業界を目指すなら知っておきたいリモートワークのこと</title>
-    <link rel="alternate" href="https://qiita.com/m__ikeda/items/1960963c3c59591763ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-03T17:12:02+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-09-03T17:12:02+09:00&lt;br/&gt;Updated: 2026-09-03T17:12:02+09:00&lt;br/&gt;自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b96813bc8a482b3d0074</id>
@@ -1654,15 +1652,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 5年後、AI...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:52aafd8c073b37749539</id>
-    <title>ネットワークフロー理論における「最小カット問題」の考え方を総整理！ 〜 カットの理論から現実への応用例まで 〜</title>
-    <link rel="alternate" href="https://qiita.com/drken/items/52aafd8c073b37749539?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-03T18:33:23+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/drken&quot;&gt;drken&lt;/a&gt;&lt;br/&gt;Published: 2026-09-02T20:26:46+09:00&lt;br/&gt;Updated: 2026-09-03T18:33:23+09:00&lt;br/&gt;お久しぶりです！
-NTT データ数理システムで顧問をしている大槻（けんちょん）です。好きなアルゴリズムは最小カットです。
-今回は、最小カット問題について書いていきます。最小カット問題は、情報系の大学では「アルゴリズムとデータ構造」の講義の終盤で少しだけ登場するマニアックな話...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a99f0d9f0db6ebd87c00</id>
@@ -1908,6 +1897,26 @@ SQLを書く前に知っておきたい5つの基本ルール
 
 はじめに
 SQLはデータベースを扱ううえで欠かせない言語ですが...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c8705ed320aa15dc9db0</id>
+    <title>IT面接で職務経歴書で見ているのは「すごい実績」だけではありません</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/c8705ed320aa15dc9db0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-04T11:56:14+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-09-04T11:56:14+09:00&lt;br/&gt;Updated: 2026-09-04T11:56:14+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:1c0f27da8eb685f6ba05</id>
+    <title>Anthropic がコマース用エージェントをオープンソース化した</title>
+    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/1c0f27da8eb685f6ba05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-03T08:39:20+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-03T08:39:19+09:00&lt;br/&gt;Updated: 2026-09-03T08:39:20+09:00&lt;br/&gt;9月2日、Anthropic が anthropics/commerce-agents を公開しました。Apache 2.0 です。
+「Claude でショッピングエージェントを作るときの参考実装」で、動くコードがそのまま入っています。 何が入っているのかを整理します。
+
+...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d09be87764a66c9077f0</id>
@@ -2229,15 +2238,5 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 
 自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。
 でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1c0f27da8eb685f6ba05</id>
-    <title>Anthropic がコマース用エージェントをオープンソース化した</title>
-    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/1c0f27da8eb685f6ba05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-03T08:39:20+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-03T08:39:19+09:00&lt;br/&gt;Updated: 2026-09-03T08:39:20+09:00&lt;br/&gt;9月2日、Anthropic が anthropics/commerce-agents を公開しました。Apache 2.0 です。
-「Claude でショッピングエージェントを作るときの参考実装」で、動くコードがそのまま入っています。 何が入っているのかを整理します。
-
-...</summary>
   </entry>
 </feed>
