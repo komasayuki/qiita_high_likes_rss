@@ -121,6 +121,18 @@
       "last_seen": "2026-07-12T19:19:39.414013489+00:00"
     },
     {
+      "key": "0bec9b5d0fedde9ab81b",
+      "item_id": "0bec9b5d0fedde9ab81b",
+      "title": "【JavaScript】基礎から学ぶ！イベントハンドラ／リスナと主要イベント一覧",
+      "link": "https://qiita.com/kasumi_sato/items/0bec9b5d0fedde9ab81b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "こんにちは！JavaScriptで「ボタンを押したらポップアップを出したい」「スクロールに合わせてアニメーションさせたい」と思ったことはありませんか？\nこれらWebサイトの「動き」を実現しているのが、今回解説する 「イベント」 の仕組みです！\nユーザーの操作に反応してページ...",
+      "published": "2026-09-04T09:59:04+09:00",
+      "updated": "2026-09-04T09:59:05+09:00",
+      "author_name": "kasumi_sato",
+      "likes_count": 11,
+      "last_seen": "2026-09-05T08:59:21.672492984+00:00"
+    },
+    {
       "key": "0bfbaffce6fae70be17f",
       "item_id": "0bfbaffce6fae70be17f",
       "title": "『Claude Code実践入門』を発売日に一気読みしたので感想をつらつらと",
@@ -213,8 +225,8 @@
       "published": "2026-09-03T23:38:15+09:00",
       "updated": "2026-09-03T23:38:16+09:00",
       "author_name": "hashiryu_",
-      "likes_count": 12,
-      "last_seen": "2026-09-05T04:16:44.785973434+00:00"
+      "likes_count": 15,
+      "last_seen": "2026-09-05T08:59:21.672492984+00:00"
     },
     {
       "key": "0fd31bb4dfac9adfba95",
@@ -417,8 +429,8 @@
       "published": "2026-09-03T17:12:02+09:00",
       "updated": "2026-09-03T17:12:02+09:00",
       "author_name": "m__ikeda",
-      "likes_count": 36,
-      "last_seen": "2026-09-05T04:16:44.785973434+00:00"
+      "likes_count": 37,
+      "last_seen": "2026-09-05T08:59:21.672492984+00:00"
     },
     {
       "key": "1a599320ecb21cc4dd05",
@@ -441,8 +453,8 @@
       "published": "2026-09-03T17:14:41+09:00",
       "updated": "2026-09-04T09:37:12+09:00",
       "author_name": "ssfujita",
-      "likes_count": 17,
-      "last_seen": "2026-09-05T04:16:44.785973434+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-09-05T08:59:21.672492984+00:00"
     },
     {
       "key": "1c0f27da8eb685f6ba05",
@@ -454,7 +466,7 @@
       "updated": "2026-09-03T08:39:20+09:00",
       "author_name": "suwa_nobu",
       "likes_count": 32,
-      "last_seen": "2026-09-05T04:16:44.785973434+00:00"
+      "last_seen": "2026-09-05T08:59:21.672492984+00:00"
     },
     {
       "key": "1cb40e25071475268431",
@@ -1177,6 +1189,18 @@
       "last_seen": "2026-07-11T06:23:42.662239616+00:00"
     },
     {
+      "key": "365a4437aad4c939d1cc",
+      "item_id": "365a4437aad4c939d1cc",
+      "title": "AIに設計を任せるときに気をつけたい。「正しく動く」と「増えても耐えられる」は別だった",
+      "link": "https://qiita.com/adgjmptw0/items/365a4437aad4c939d1cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "生成AIを使ってPush通知機能の設計を進めていたとき、性能面で気になる構造に気付きました。\n設計上、通知対象者1人を処理するために最大約11回、DBへ問い合わせる可能性がある状態でした。\n\n通知対象者\nDBへの問い合わせ\n\n1人\n約11回\n\n100人\n約1,1...",
+      "published": "2026-09-04T09:39:25+09:00",
+      "updated": "2026-09-04T09:39:25+09:00",
+      "author_name": "adgjmptw0",
+      "likes_count": 15,
+      "last_seen": "2026-09-05T08:59:21.672492984+00:00"
+    },
+    {
       "key": "37068142536443812690",
       "item_id": "37068142536443812690",
       "title": "コンピューターが動く裏側、５大装置を人に例えたら覚えやすかった【ITパスポート】",
@@ -1234,7 +1258,7 @@
       "updated": "2026-09-04T10:33:35+09:00",
       "author_name": "suwa_nobu",
       "likes_count": 18,
-      "last_seen": "2026-09-05T04:16:44.785973434+00:00"
+      "last_seen": "2026-09-05T08:59:21.672492984+00:00"
     },
     {
       "key": "3a2b7cba67f4d8e0a7c7",
@@ -1597,18 +1621,6 @@
       "last_seen": "2026-08-28T18:35:16.332074291+00:00"
     },
     {
-      "key": "4928640d01c78480962b",
-      "item_id": "4928640d01c78480962b",
-      "title": "「日本企業風GitHub」のパロディに学ぶ、なぜJTC業務システムは「警告と文字」で埋め尽くされるのか",
-      "link": "https://qiita.com/Shiro_Shihi/items/4928640d01c78480962b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n先日、Xで「日本企業がGitHubを構築した場合はこう」という画像を何気なく投稿しました。\n\nありがたいことに、これが信じられないくらい伸びまして。\nなんと数千件のリツイートに、2万を超えるいいね。インプレッションは400万回を超えました。\n次々に届く通知欄...",
-      "published": "2026-07-04T12:45:44+09:00",
-      "updated": "2026-07-04T12:45:44+09:00",
-      "author_name": "Shiro_Shihi",
-      "likes_count": 128,
-      "last_seen": "2026-07-07T05:03:01.689362782+00:00"
-    },
-    {
       "key": "4a70f0bee16d5d690a73",
       "item_id": "4a70f0bee16d5d690a73",
       "title": "10年分ぐらいのQiitaの自分の投稿を蒸留したら、自分っぽい記事を書いてくれるようになったww",
@@ -1797,8 +1809,8 @@
       "published": "2026-09-03T23:36:40+09:00",
       "updated": "2026-09-03T23:56:35+09:00",
       "author_name": "sh_fukatsu",
-      "likes_count": 28,
-      "last_seen": "2026-09-05T04:16:44.785973434+00:00"
+      "likes_count": 30,
+      "last_seen": "2026-09-05T08:59:21.672492984+00:00"
     },
     {
       "key": "52aafd8c073b37749539",
@@ -1809,8 +1821,8 @@
       "published": "2026-09-02T20:26:46+09:00",
       "updated": "2026-09-03T18:33:23+09:00",
       "author_name": "drken",
-      "likes_count": 44,
-      "last_seen": "2026-09-05T04:16:44.785973434+00:00"
+      "likes_count": 47,
+      "last_seen": "2026-09-05T08:59:21.672492984+00:00"
     },
     {
       "key": "535a697aeaea41515de9",
@@ -1835,6 +1847,18 @@
       "author_name": "sh_fukatsu",
       "likes_count": 42,
       "last_seen": "2026-07-15T06:24:41.120326749+00:00"
+    },
+    {
+      "key": "54762eaae03b84252a3f",
+      "item_id": "54762eaae03b84252a3f",
+      "title": "Rust + OpenTelemetryで分散トレーシング入門 ― ECS FargateからAWS X-Rayへ",
+      "link": "https://qiita.com/Ota1022/items/54762eaae03b84252a3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "この記事は「2026 Japan AWS Jr. Champions 真夏のQiitaリレー」の記事となります。\n過去の投稿は以下のリンク集からご覧ください。\n\nはじめに\nこんにちは。株式会社スリーシェイクの太田暢です。\n今回は分散トレーシング入門として、Ru...",
+      "published": "2026-09-04T10:15:06+09:00",
+      "updated": "2026-09-04T13:04:45+09:00",
+      "author_name": "Ota1022",
+      "likes_count": 10,
+      "last_seen": "2026-09-05T08:59:21.672492984+00:00"
     },
     {
       "key": "5539b47e0f66518ee30a",
@@ -3382,7 +3406,7 @@
       "updated": "2026-09-03T11:46:15+09:00",
       "author_name": "usui0623",
       "likes_count": 13,
-      "last_seen": "2026-09-05T04:16:44.785973434+00:00"
+      "last_seen": "2026-09-05T08:59:21.672492984+00:00"
     },
     {
       "key": "94b96d15c9c031e39b3f",
@@ -4329,8 +4353,8 @@
       "published": "2026-09-04T11:56:14+09:00",
       "updated": "2026-09-04T11:56:14+09:00",
       "author_name": "m__ikeda",
-      "likes_count": 32,
-      "last_seen": "2026-09-05T04:16:44.785973434+00:00"
+      "likes_count": 33,
+      "last_seen": "2026-09-05T08:59:21.672492984+00:00"
     },
     {
       "key": "c895155c8f63b3f574ac",
@@ -5145,8 +5169,8 @@
       "published": "2026-09-03T10:57:03+09:00",
       "updated": "2026-09-04T14:21:59+09:00",
       "author_name": "na0",
-      "likes_count": 10,
-      "last_seen": "2026-09-05T04:16:44.785973434+00:00"
+      "likes_count": 11,
+      "last_seen": "2026-09-05T08:59:21.672492984+00:00"
     },
     {
       "key": "e8315b7bf4acee70c164",
@@ -5317,6 +5341,18 @@
       "last_seen": "2026-07-27T00:10:34.872094504+00:00"
     },
     {
+      "key": "effb9105cf6267312d9e",
+      "item_id": "effb9105cf6267312d9e",
+      "title": "30代薬剤師が2ヶ月でITエンジニアをクビになって求職活動した",
+      "link": "https://qiita.com/kentyo0813/items/effb9105cf6267312d9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "こんにちは。\n今回は直近の離職～求職活動の話を書きます。\n\n要約\n2017年薬学部卒の30代男が1年でCCNAや基本情報や応用情報などを取得してITエンジニア転職をしたが、2ヶ月でクビになった。\n2026年8月に求職活動をはじめ、複数の企業から400万～550万のレンジで内...",
+      "published": "2026-09-04T10:43:28+09:00",
+      "updated": "2026-09-04T17:36:42+09:00",
+      "author_name": "kentyo0813",
+      "likes_count": 10,
+      "last_seen": "2026-09-05T08:59:21.672492984+00:00"
+    },
+    {
       "key": "f1d1993b15bf85acf2ca",
       "item_id": "f1d1993b15bf85acf2ca",
       "title": "モーター制御基板で考える、電流の流れと保護回路の基本",
@@ -5363,18 +5399,6 @@
       "author_name": "i-icc",
       "likes_count": 10,
       "last_seen": "2026-08-04T06:36:54.000846057+00:00"
-    },
-    {
-      "key": "f52f3ba38f28f6e2e838",
-      "item_id": "f52f3ba38f28f6e2e838",
-      "title": "AI作業員に「何でもできる権限」を渡さないために",
-      "link": "https://qiita.com/tacosdb/items/f52f3ba38f28f6e2e838?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nみなさん「タコス」食べていますか？\nこんにちは、tacosDB 開発責任者です。\nタコスが好きすぎてタコスに特化したサイト「tacos DB」を開発しています！\n\ntacos DB では、WordPress などは使用しておらず、タコスのお店や記事を管理するため...",
-      "published": "2026-07-05T21:50:07+09:00",
-      "updated": "2026-07-05T21:50:07+09:00",
-      "author_name": "tacosdb",
-      "likes_count": 10,
-      "last_seen": "2026-07-07T05:03:01.689362782+00:00"
     },
     {
       "key": "f60b7045c4cba9cc225b",
