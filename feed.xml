@@ -119,14 +119,6 @@ AIに渡そうとすると、まずCSVに書き出すところから始まる...
 この度、新卒として入社した会社でClaudeを使えるようになったので、自分用に調べたことをまとめてみました。せっかくなので記事として公開します。同じように「会社でClaude Code使えるようになったけど何...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:d1151389d17e50ad5564</id>
-    <title>1Passwordは、あなたのマスターパスワードを一度も受信していません</title>
-    <link rel="alternate" href="https://qiita.com/kenimo49/items/d1151389d17e50ad5564?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-07T02:14:53+09:00</updated>
-    <summary type="html">Likes: 122&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-07-05T20:51:26+09:00&lt;br/&gt;Updated: 2026-07-07T02:14:53+09:00&lt;br/&gt;1Password のログイン時、マスターパスワードは 1Password のサーバに一度も送信されていません。
-少し前まで、私はこれを知りませんでした。パスワードマネージャーなのだから、当然サーバがマスターパスワードを受け取るのだろうと思っていたのです。それで暗号化された...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:ced302095c8ddd3c8213</id>
     <title>「頑張ってます」はもう卒業。エンジニアが今日から使える『数値化の鬼』の思考法</title>
     <link rel="alternate" href="https://qiita.com/Nao52/items/ced302095c8ddd3c8213?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2244,5 +2236,14 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 
 はじめに
 Claude Codeのクラウドルーティン（定期実行エージェント）で、平日の7時・12時・17時に「挨拶を返すだけ」の超軽量なジョ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9a8e6af3d545150c5a08</id>
+    <title>VisualStudio無しで.NET Framework→.NET 10移行を試したら、ツールそのものが世代交代していた話</title>
+    <link rel="alternate" href="https://qiita.com/inuta-one/items/9a8e6af3d545150c5a08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-11T17:15:03+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inuta-one&quot;&gt;inuta-one&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T09:24:08+09:00&lt;br/&gt;Updated: 2026-08-11T17:15:03+09:00&lt;br/&gt;はじめに
+C# で出来ること一覧 2026年版（.NET 10） という記事を読んで、後半で紹介されていた「.NET Frameworkから.NETへの移行」を実際に手を動かして試してみることにしました。
+自分は過去にVB6→C#移行の案件に関わったこともあり、この手の移...</summary>
   </entry>
 </feed>
