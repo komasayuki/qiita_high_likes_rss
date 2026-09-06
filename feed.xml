@@ -1969,6 +1969,23 @@ OpenAI公式の codex-plugin-cc を使うと、Claude Code のセッション内
 Claude Code には /code-review、Codex 側には /codex:review と ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:365a4437aad4c939d1cc</id>
+    <title>AIに設計を任せるときに気をつけたい。「正しく動く」と「増えても耐えられる」は別だった</title>
+    <link rel="alternate" href="https://qiita.com/adgjmptw0/items/365a4437aad4c939d1cc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-04T09:39:25+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/adgjmptw0&quot;&gt;adgjmptw0&lt;/a&gt;&lt;br/&gt;Published: 2026-09-04T09:39:25+09:00&lt;br/&gt;Updated: 2026-09-04T09:39:25+09:00&lt;br/&gt;生成AIを使ってPush通知機能の設計を進めていたとき、性能面で気になる構造に気付きました。
+設計上、通知対象者1人を処理するために最大約11回、DBへ問い合わせる可能性がある状態でした。
+
+通知対象者
+DBへの問い合わせ
+
+1人
+約11回
+
+100人
+約1,1...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0f93dd0b38fda076174f</id>
     <title>Grill-me に丸コゲにされた俺は、もっと軽くて速いスキルを作った</title>
     <link rel="alternate" href="https://qiita.com/magicant/items/0f93dd0b38fda076174f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2016,23 +2033,6 @@ AIエージェントのコーディング環境として、Docker Sandboxesを�
 GitHub Copilotに毎回プロジェクト前提を説明している開発者
 CopilotやAI Agentの出力がリポジトリの暗黙知とズレることに困っている人
 README、設計...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:365a4437aad4c939d1cc</id>
-    <title>AIに設計を任せるときに気をつけたい。「正しく動く」と「増えても耐えられる」は別だった</title>
-    <link rel="alternate" href="https://qiita.com/adgjmptw0/items/365a4437aad4c939d1cc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-04T09:39:25+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/adgjmptw0&quot;&gt;adgjmptw0&lt;/a&gt;&lt;br/&gt;Published: 2026-09-04T09:39:25+09:00&lt;br/&gt;Updated: 2026-09-04T09:39:25+09:00&lt;br/&gt;生成AIを使ってPush通知機能の設計を進めていたとき、性能面で気になる構造に気付きました。
-設計上、通知対象者1人を処理するために最大約11回、DBへ問い合わせる可能性がある状態でした。
-
-通知対象者
-DBへの問い合わせ
-
-1人
-約11回
-
-100人
-約1,1...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:acb61138c4550eef4803</id>
