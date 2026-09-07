@@ -13,6 +13,18 @@
       "last_seen": "2026-08-28T18:35:16.332074291+00:00"
     },
     {
+      "key": "00cb0b8d61ca76769c88",
+      "item_id": "00cb0b8d61ca76769c88",
+      "title": "最近取り入れたClaude Codeの個人的tips 4選",
+      "link": "https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nここ最近取り入れた Claude Code の tips を4つ紹介します。1つだけツールの話です。\nどれも大がかりな仕組みではないので、気になったものだけ拾ってもらえればと思います。\n\nこの記事をざっくり図解\n\n1. セッション名を自動で付ける\n知っている方...",
+      "published": "2026-09-07T06:48:30+09:00",
+      "updated": "2026-09-07T06:48:30+09:00",
+      "author_name": "kuma_3838",
+      "likes_count": 17,
+      "last_seen": "2026-09-07T10:09:57.942463025+00:00"
+    },
+    {
       "key": "0127a7c5203f44507474",
       "item_id": "0127a7c5203f44507474",
       "title": "Mac mini（M4 Pro / 48GB）で「完全ローカル」のLLM + RAG環境を構築してみた",
@@ -527,6 +539,18 @@
       "author_name": "harupython",
       "likes_count": 12,
       "last_seen": "2026-08-21T07:52:27.393438196+00:00"
+    },
+    {
+      "key": "1fc232b42c344260021d",
+      "item_id": "1fc232b42c344260021d",
+      "title": "マジックリンクでログインできない原因はメールのURLスキャンだった",
+      "link": "https://qiita.com/kuma_3838/items/1fc232b42c344260021d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n本番環境で、マジックリンクでログインできないことがあるという報告を受けました。\nメールに届いたリンクを押すと「この認証リンクは使用済みまたは期限切れです」と表示され、ログインできないという内容です。\n利用者からは「メールのリンクを押すと一瞬 Cisco のリンク...",
+      "published": "2026-09-07T06:48:44+09:00",
+      "updated": "2026-09-07T06:48:44+09:00",
+      "author_name": "kuma_3838",
+      "likes_count": 17,
+      "last_seen": "2026-09-07T10:09:57.942463025+00:00"
     },
     {
       "key": "1fd4d4ef522f5b5d88f0",
@@ -1115,6 +1139,18 @@
       "author_name": "sakurada110",
       "likes_count": 26,
       "last_seen": "2026-07-18T06:14:34.997344082+00:00"
+    },
+    {
+      "key": "35441e4b0009aa128610",
+      "item_id": "35441e4b0009aa128610",
+      "title": "【AWS初心者向け】インフラ構成を図解で理解しよう！ALB・ECS・RDS・Lambda・NAT Gateway・VPCエンドポイントを一気に学ぶ",
+      "link": "https://qiita.com/Nao52/items/35441e4b0009aa128610?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "■ この記事はこんな人におすすめ\n\nAWSを勉強し始めたけど、サービスが多すぎて何から学べばいいか分からない人\nAWSの個々のサービスは知っているけど、全体の構成のイメージがつかめない人\nECS・Lambda・RDSなどの言葉を聞いたことはあるが、なぜそれを使うのか説明で...",
+      "published": "2026-09-07T07:40:31+09:00",
+      "updated": "2026-09-07T07:40:32+09:00",
+      "author_name": "Nao52",
+      "likes_count": 16,
+      "last_seen": "2026-09-07T10:09:57.942463025+00:00"
     },
     {
       "key": "3545af61b8f2e256c750",
@@ -1953,8 +1989,8 @@
       "published": "2026-09-04T22:45:51+09:00",
       "updated": "2026-09-04T22:45:51+09:00",
       "author_name": "yama3133",
-      "likes_count": 11,
-      "last_seen": "2026-09-07T04:25:39.925378448+00:00"
+      "likes_count": 12,
+      "last_seen": "2026-09-07T10:09:57.942463025+00:00"
     },
     {
       "key": "5da484e533d0d574045d",
@@ -2111,18 +2147,6 @@
       "author_name": "sumomoo",
       "likes_count": 38,
       "last_seen": "2026-08-29T02:06:14.103565903+00:00"
-    },
-    {
-      "key": "6251b5727998ca29734c",
-      "item_id": "6251b5727998ca29734c",
-      "title": "LLMのコスト暴走と情報漏洩を防ぐ社内Gateway設計: Azure/AWSガバナンスとLiteLLM実装(Phase1→Phase2)",
-      "link": "https://qiita.com/nogataka/items/6251b5727998ca29734c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n各社で開発用途・業務用途に Azure OpenAI、Microsoft Foundry、Amazon Bedrock、OpenAI、Anthropic などの LLM を利用するケースが増えています。利用が広がるほど、次のような課題が同時に持ち上がります。\n\n...",
-      "published": "2026-07-06T20:00:01+09:00",
-      "updated": "2026-07-06T20:00:01+09:00",
-      "author_name": "nogataka",
-      "likes_count": 10,
-      "last_seen": "2026-07-09T07:55:55.543920320+00:00"
     },
     {
       "key": "636c7c15cd666e987a90",
@@ -3213,8 +3237,8 @@
       "published": "2026-09-06T17:11:44+09:00",
       "updated": "2026-09-07T10:14:53+09:00",
       "author_name": "Sicut_study",
-      "likes_count": 17,
-      "last_seen": "2026-09-07T04:25:39.925378448+00:00"
+      "likes_count": 22,
+      "last_seen": "2026-09-07T10:09:57.942463025+00:00"
     },
     {
       "key": "8fdef34e0a55e7f4d558",
@@ -3415,10 +3439,10 @@
       "link": "https://qiita.com/songchong/items/94df4fbdeabaaf8f8ef5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "「AIに社内システムを触らせて、事故は起きないのか？」\n「エンジニア専用？ 一般業務にも使えるのか？」\n「操作ミスは戻せるのか？ 費用は青天井にならないか？」\n\n1. 業務視点での結論：AIエージェント 14製品の総合比較マトリクス\n\n「AIエージェントを導入すれば、毎...",
       "published": "2026-09-07T01:02:59+09:00",
-      "updated": "2026-09-07T08:36:07+09:00",
+      "updated": "2026-09-07T16:06:25+09:00",
       "author_name": "songchong",
-      "likes_count": 13,
-      "last_seen": "2026-09-07T04:25:39.925378448+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-09-07T10:09:57.942463025+00:00"
     },
     {
       "key": "95c018954c2b0cc9ebd8",
@@ -3669,8 +3693,8 @@
       "published": "2026-09-06T07:40:14+09:00",
       "updated": "2026-09-06T07:40:14+09:00",
       "author_name": "J-T_ky2g",
-      "likes_count": 10,
-      "last_seen": "2026-09-07T04:25:39.925378448+00:00"
+      "likes_count": 12,
+      "last_seen": "2026-09-07T10:09:57.942463025+00:00"
     },
     {
       "key": "a5c8d7625488a57c2303",
@@ -3755,18 +3779,6 @@
       "author_name": "prumnn",
       "likes_count": 34,
       "last_seen": "2026-08-30T06:32:55.508991756+00:00"
-    },
-    {
-      "key": "a8e097a488923360b03b",
-      "item_id": "a8e097a488923360b03b",
-      "title": "PL/SQLのバッチ処理をTemplate Methodパターンで共通化する",
-      "link": "https://qiita.com/take-yoda/items/a8e097a488923360b03b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。\n今回はPL/SQLの TYPE オブジェクトを使ってGoFの Template Methodパターン を実装し、複数のバッチ処理を共通の骨格に乗せるハンズオンをお届けします。\n...",
-      "published": "2026-07-07T13:07:41+09:00",
-      "updated": "2026-07-07T13:07:42+09:00",
-      "author_name": "take-yoda",
-      "likes_count": 13,
-      "last_seen": "2026-07-09T07:55:55.543920320+00:00"
     },
     {
       "key": "a91a87e22faf4b622640",
@@ -4618,7 +4630,7 @@
       "updated": "2026-09-06T21:21:17+09:00",
       "author_name": "songchong",
       "likes_count": 13,
-      "last_seen": "2026-09-07T04:25:39.925378448+00:00"
+      "last_seen": "2026-09-07T10:09:57.942463025+00:00"
     },
     {
       "key": "d23855d5634f528f796c",
@@ -4655,18 +4667,6 @@
       "author_name": "jqit-yukiono",
       "likes_count": 20,
       "last_seen": "2026-07-22T06:39:47.646680814+00:00"
-    },
-    {
-      "key": "d3c540c868c3413704b7",
-      "item_id": "d3c540c868c3413704b7",
-      "title": "「保守業務って地味…」と思っていた新人の自分へ",
-      "link": "https://qiita.com/masa20057/items/d3c540c868c3413704b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "こんにちは。\n株式会社PRUMのmasaです。\n新人エンジニアが最初に配属されやすい「保守・運用」の仕事について、現場のリアルな実態と、そこでしか身につかない成長の機会を紹介します。「保守は地味で成長できない仕事」というイメージを持っている方に、少し違う視点が届けば嬉しいで...",
-      "published": "2026-07-06T12:20:19+09:00",
-      "updated": "2026-07-06T12:20:20+09:00",
-      "author_name": "masa20057",
-      "likes_count": 102,
-      "last_seen": "2026-07-09T07:55:55.543920320+00:00"
     },
     {
       "key": "d44254523fdb260ae92d",
@@ -4773,8 +4773,8 @@
       "published": "2026-09-05T12:19:18+09:00",
       "updated": "2026-09-05T12:19:18+09:00",
       "author_name": "nogataka",
-      "likes_count": 32,
-      "last_seen": "2026-09-07T04:25:39.925378448+00:00"
+      "likes_count": 42,
+      "last_seen": "2026-09-07T10:09:57.942463025+00:00"
     },
     {
       "key": "d732b94ff0f68c5cd1ab",
@@ -4969,6 +4969,18 @@
       "last_seen": "2026-08-26T23:23:07.154619853+00:00"
     },
     {
+      "key": "dec5350f38c748cb5b6e",
+      "item_id": "dec5350f38c748cb5b6e",
+      "title": "「効率よく成長したい」は悪くない。でも、近道ばかり探してしまうと損をする。",
+      "link": "https://qiita.com/m__ikeda/items/dec5350f38c748cb5b6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "自己紹介\nこんにちは。株式会社PRUMで採用広報を担当している池田です。\n未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊\nもしIT業界に興味があるけど、...",
+      "published": "2026-09-07T11:19:40+09:00",
+      "updated": "2026-09-07T11:19:40+09:00",
+      "author_name": "m__ikeda",
+      "likes_count": 32,
+      "last_seen": "2026-09-07T10:09:57.942463025+00:00"
+    },
+    {
       "key": "df29e251165c3ad91487",
       "item_id": "df29e251165c3ad91487",
       "title": "shadcn/ui が Base UI をデフォルトに — 公式発表から読み解く移行の背景と実務対応",
@@ -5089,18 +5101,6 @@
       "last_seen": "2026-08-29T18:22:29.000518399+00:00"
     },
     {
-      "key": "e458d2a7969e8c92d9ba",
-      "item_id": "e458d2a7969e8c92d9ba",
-      "title": "New Relic MCPの回答精度を向上させるプロファイルのご紹介",
-      "link": "https://qiita.com/seamoooooo/items/e458d2a7969e8c92d9ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "先日、AI駆動型のソフトウェア開発を加速させるNew Relic と AI IDE Kiro との連携を発表させていただきました。今回は、Kiro 向けにリリースされた公式プラグインの New Relic kiro powerの公式リポジトリを確認しながら、Kiro と N...",
-      "published": "2026-07-06T23:37:22+09:00",
-      "updated": "2026-07-06T23:37:22+09:00",
-      "author_name": "seamoooooo",
-      "likes_count": 13,
-      "last_seen": "2026-07-09T07:55:55.543920320+00:00"
-    },
-    {
       "key": "e4ba31be43d518b9fdbc",
       "item_id": "e4ba31be43d518b9fdbc",
       "title": "AIP合格記：試験対策がてらBedrockを使って弱点特化した問題を作らせる学習システムを自作した",
@@ -5219,18 +5219,6 @@
       "author_name": "matsudai",
       "likes_count": 16,
       "last_seen": "2026-07-29T06:41:21.773163051+00:00"
-    },
-    {
-      "key": "e9ce46596969983cdb4e",
-      "item_id": "e9ce46596969983cdb4e",
-      "title": "【Windows標準OCR】窓キー + Shift + T キー押してますか？",
-      "link": "https://qiita.com/kaga-yasumitsu/items/e9ce46596969983cdb4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "写経、手でやる先入観にさよならを\n안녕하신게라！パナソニック コネクト株式会社クラウドソリューション部の加賀です。\n突然ですが、こんな経験ありませんか？\n\n画面に表示されたエラーメッセージやダイアログ。コピーしたいのに、選択できない！\nオンライン会議の共有画面に映った、長...",
-      "published": "2026-07-06T10:26:56+09:00",
-      "updated": "2026-07-09T12:28:30+09:00",
-      "author_name": "kaga-yasumitsu",
-      "likes_count": 39,
-      "last_seen": "2026-07-09T07:55:55.543920320+00:00"
     },
     {
       "key": "e9ee8e26cfdc40a8c2f9",
