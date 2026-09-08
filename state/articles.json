@@ -21,8 +21,8 @@
       "published": "2026-09-07T06:48:30+09:00",
       "updated": "2026-09-07T06:48:30+09:00",
       "author_name": "kuma_3838",
-      "likes_count": 35,
-      "last_seen": "2026-09-08T04:25:17.468836359+00:00"
+      "likes_count": 39,
+      "last_seen": "2026-09-08T09:34:04.730019914+00:00"
     },
     {
       "key": "0127a7c5203f44507474",
@@ -179,18 +179,6 @@
       "author_name": "akachiryo",
       "likes_count": 38,
       "last_seen": "2026-07-25T07:25:26.517740259+00:00"
-    },
-    {
-      "key": "0e42854634b2c5a371fa",
-      "item_id": "0e42854634b2c5a371fa",
-      "title": "売上は DB、ログは S3、契約書は SharePoint、バラバラなデータを AI で使う方法を調べてみてみた",
-      "link": "https://qiita.com/shirok/items/0e42854634b2c5a371fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "売上データは Database、ログは Object Storage に、契約書や仕様書は SharePoint に、分析用データは異なるクラウドに——。\n「データがあちこちに散らばっていて、AI に使いたくても使えない」\n\nデータ活用の世界では、長い間、Data Ware...",
-      "published": "2026-07-07T07:27:21+09:00",
-      "updated": "2026-07-08T09:17:56+09:00",
-      "author_name": "shirok",
-      "likes_count": 24,
-      "last_seen": "2026-07-10T07:49:47.289897827+00:00"
     },
     {
       "key": "0eceb428cb3f45bb7cfb",
@@ -549,8 +537,8 @@
       "published": "2026-09-07T06:48:44+09:00",
       "updated": "2026-09-07T06:48:44+09:00",
       "author_name": "kuma_3838",
-      "likes_count": 27,
-      "last_seen": "2026-09-08T04:25:17.468836359+00:00"
+      "likes_count": 28,
+      "last_seen": "2026-09-08T09:34:04.730019914+00:00"
     },
     {
       "key": "1fd4d4ef522f5b5d88f0",
@@ -705,8 +693,8 @@
       "published": "2026-09-07T08:56:41+09:00",
       "updated": "2026-09-07T08:56:41+09:00",
       "author_name": "nolanlover0527",
-      "likes_count": 18,
-      "last_seen": "2026-09-08T04:25:17.468836359+00:00"
+      "likes_count": 21,
+      "last_seen": "2026-09-08T09:34:04.730019914+00:00"
     },
     {
       "key": "25246542caf63d96c2c3",
@@ -1161,8 +1149,8 @@
       "published": "2026-09-07T07:40:31+09:00",
       "updated": "2026-09-07T07:40:32+09:00",
       "author_name": "Nao52",
-      "likes_count": 24,
-      "last_seen": "2026-09-08T04:25:17.468836359+00:00"
+      "likes_count": 27,
+      "last_seen": "2026-09-08T09:34:04.730019914+00:00"
     },
     {
       "key": "3545af61b8f2e256c750",
@@ -1825,6 +1813,18 @@
       "last_seen": "2026-09-05T18:11:24.904903093+00:00"
     },
     {
+      "key": "5323a12a6af0d8351b49",
+      "item_id": "5323a12a6af0d8351b49",
+      "title": "【未経験からITへ】「将来がなんとなく不安…」なあなたへ。キャリアの答えは、走りながら一緒に探せば大丈夫です",
+      "link": "https://qiita.com/m__ikeda/items/5323a12a6af0d8351b49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "自己紹介\nこんにちは。株式会社PRUMで採用広報を担当している池田です。\n未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊\nもしIT業界に興味があるけど、...",
+      "published": "2026-09-08T11:24:43+09:00",
+      "updated": "2026-09-08T11:24:43+09:00",
+      "author_name": "m__ikeda",
+      "likes_count": 25,
+      "last_seen": "2026-09-08T09:34:04.730019914+00:00"
+    },
+    {
       "key": "535a697aeaea41515de9",
       "item_id": "535a697aeaea41515de9",
       "title": "エラー対応理由考えてる？コピペしてAIに聞いてるでしょ",
@@ -2317,18 +2317,6 @@
       "last_seen": "2026-08-12T19:16:00.036207012+00:00"
     },
     {
-      "key": "6cf51ac079b9bfad2155",
-      "item_id": "6cf51ac079b9bfad2155",
-      "title": "SQL Indexing 用 AI エージェントスキル集",
-      "link": "https://qiita.com/TOMOSIA-HieuNT/items/6cf51ac079b9bfad2155?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "インデックスは馴染みのあるツールですが、設計を誤りやすいものです。「念のため」列を足す、SELECT * でカバリングを壊す、使われないインデックスが書き込みだけ遅くする——そんな失敗はよくあります。AI エージェントの時代では、SQL インデックスに関する明確なルールと...",
-      "published": "2026-07-07T13:35:16+09:00",
-      "updated": "2026-07-07T13:36:34+09:00",
-      "author_name": "TOMOSIA-HieuNT",
-      "likes_count": 14,
-      "last_seen": "2026-07-10T07:49:47.289897827+00:00"
-    },
-    {
       "key": "6d67f981b547f181d644",
       "item_id": "6d67f981b547f181d644",
       "title": "OCI Data Catalog 第4回：Data LakeとADBのRDBMS、Vector Storeを統合し、Select AIとRAGでLakehouseを検索してみた",
@@ -2351,18 +2339,6 @@
       "author_name": "prumnn",
       "likes_count": 42,
       "last_seen": "2026-07-20T19:02:55.474208917+00:00"
-    },
-    {
-      "key": "6dff7010af1b28e8c30a",
-      "item_id": "6dff7010af1b28e8c30a",
-      "title": "【実測比較】日本語RAGのOCR、結局どれを使う？ glm-ocr / dots.ocr / Unlimited-OCR / MinerU を社内ドライブの実データでガチ評価",
-      "link": "https://qiita.com/engchina/items/6dff7010af1b28e8c30a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nRAG（検索拡張生成）を「本当に業務で使う」段になると、いちばん地味で、いちばん効いてくるのがOCRです。\n社内ドライブには、テキスト層のあるきれいなPDFだけでなく、チャット画面のスクリーンショット、matplotlibで吐き出したチャート、テキスト層のない提...",
-      "published": "2026-07-07T11:28:41+09:00",
-      "updated": "2026-07-10T11:07:25+09:00",
-      "author_name": "engchina",
-      "likes_count": 15,
-      "last_seen": "2026-07-10T07:49:47.289897827+00:00"
     },
     {
       "key": "6e1719b24f56d4166d2e",
@@ -2423,6 +2399,18 @@
       "author_name": "infra365",
       "likes_count": 10,
       "last_seen": "2026-08-04T06:36:54.000846057+00:00"
+    },
+    {
+      "key": "710c03dbfc8ecf849496",
+      "item_id": "710c03dbfc8ecf849496",
+      "title": "【プロンプト公開】他のAIが3日後に知る情報を、Grokは「今」教えてくれる。Grok × Xで技術ニュース収集が完全無料で「週10分」に激変した話",
+      "link": "https://qiita.com/shinkai_/items/710c03dbfc8ecf849496?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nAI関連のニュースって、とにかく量が多いですよね。\n毎日のように新しいモデルが発表され、企業の動向がアップデートされ、セキュリティ関連の重大ニュースも次々に流れてきます。\nそして、そういった情報の「一次情報としての新鮮さ」で言うと、圧倒的に強いのはXです。ニュー...",
+      "published": "2026-09-07T07:49:27+09:00",
+      "updated": "2026-09-07T07:49:27+09:00",
+      "author_name": "shinkai_",
+      "likes_count": 10,
+      "last_seen": "2026-09-08T09:34:04.730019914+00:00"
     },
     {
       "key": "71e164e43cf3c9a96a06",
@@ -3226,7 +3214,7 @@
       "updated": "2026-09-08T09:32:48+09:00",
       "author_name": "Sicut_study",
       "likes_count": 35,
-      "last_seen": "2026-09-08T04:25:17.468836359+00:00"
+      "last_seen": "2026-09-08T09:34:04.730019914+00:00"
     },
     {
       "key": "8fdef34e0a55e7f4d558",
@@ -3677,12 +3665,12 @@
       "item_id": "a5b9a6acf097ade52c9f",
       "title": "【React】default exportは無名関数でコンポーネントを作っても動いてしまう",
       "link": "https://qiita.com/J-T_ky2g/items/a5b9a6acf097ade52c9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n\nたまたまIDEのコード補完で見つけた\nこういうのを一つ一つ拾ってアウトプットしていると色んな事と繋がって覚えられて良い\n\n内容\n\n以下のように定義できる\ndefault exportなので当然使う側で名前を決められる\nただ、名前空間を決める恩恵があるのでna...",
+      "summary": "はじめに\n\nこの記事は修正版です。教えて頂いた方々ありがとうございます \n\n無名関数でdefault exportしてコンポーネントを定義することが、ポジティブな便利機能のようにも受け取れる文章だったので全体的に修正しております\n\n問題\n\n極論、以下のようにしても動作し...",
       "published": "2026-09-06T07:40:14+09:00",
       "updated": "2026-09-07T23:53:37+09:00",
       "author_name": "J-T_ky2g",
       "likes_count": 15,
-      "last_seen": "2026-09-08T04:25:17.468836359+00:00"
+      "last_seen": "2026-09-08T09:34:04.730019914+00:00"
     },
     {
       "key": "a5c8d7625488a57c2303",
@@ -4965,8 +4953,8 @@
       "published": "2026-09-07T11:19:40+09:00",
       "updated": "2026-09-07T11:19:40+09:00",
       "author_name": "m__ikeda",
-      "likes_count": 36,
-      "last_seen": "2026-09-08T04:25:17.468836359+00:00"
+      "likes_count": 38,
+      "last_seen": "2026-09-08T09:34:04.730019914+00:00"
     },
     {
       "key": "df29e251165c3ad91487",
@@ -5373,8 +5361,8 @@
       "published": "2026-09-07T11:53:07+09:00",
       "updated": "2026-09-07T11:53:07+09:00",
       "author_name": "im_yoneda",
-      "likes_count": 19,
-      "last_seen": "2026-09-08T04:25:17.468836359+00:00"
+      "likes_count": 25,
+      "last_seen": "2026-09-08T09:34:04.730019914+00:00"
     },
     {
       "key": "f2da1003b168b52f5770",
