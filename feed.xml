@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-09-09T11:33:46+09:00</updated>
+  <updated>2026-09-09T11:51:18+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -52,7 +52,7 @@ AI に貼る。
     <title>AIっぽくない画像を作る画風プロンプト38種類＋テンプレート</title>
     <link rel="alternate" href="https://qiita.com/maeda-niku18/items/b633dda178c505461080?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-09-07T21:46:56+09:00</updated>
-    <summary type="html">Likes: 207&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/maeda-niku18&quot;&gt;maeda-niku18&lt;/a&gt;&lt;br/&gt;Published: 2026-09-07T21:46:56+09:00&lt;br/&gt;Updated: 2026-09-07T21:46:56+09:00&lt;br/&gt;AI画像生成の「AIっぽさ」を消すための画風プロンプト集（38スタイル＋テンプレート）
+    <summary type="html">Likes: 210&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/maeda-niku18&quot;&gt;maeda-niku18&lt;/a&gt;&lt;br/&gt;Published: 2026-09-07T21:46:56+09:00&lt;br/&gt;Updated: 2026-09-07T21:46:56+09:00&lt;br/&gt;AI画像生成の「AIっぽさ」を消すための画風プロンプト集（38スタイル＋テンプレート）
 ChatGPT（GPT Image）で資料やWebサイト用のイラストを作っていると、毎回同じところで引っかかります。
 線が均一すぎる、グラデーションが滑らかすぎる、顔が整いすぎている、...</summary>
   </entry>
@@ -1518,6 +1518,16 @@ GitもDBもAPIも、仕事で触るたびに「これなんだっけ」となり
 今回は、調査...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:bfd4639b3278a3f1c9ea</id>
+    <title>【採用担当の本音】入社1ヶ月目で「この人を採用して本当に良かった」と思われる人の特徴</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/bfd4639b3278a3f1c9ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-09T11:51:18+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-09-09T11:51:18+09:00&lt;br/&gt;Updated: 2026-09-09T11:51:18+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:35441e4b0009aa128610</id>
     <title>【AWS初心者向け】インフラ構成を図解で理解しよう！ALB・ECS・RDS・Lambda・NAT Gateway・VPCエンドポイントを一気に学ぶ</title>
     <link rel="alternate" href="https://qiita.com/Nao52/items/35441e4b0009aa128610?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2234,12 +2244,5 @@ transitionやtransformなどのCSSプロパティ...</summary>
 この差が気になって論文を読んだら、こんな一文がありました。
 
 identifying the error is distinct from generatin...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6a2a3e6992ab0eb93d7a</id>
-    <title>oracle-ai-ready-data Skill 第2回: Databaseのメタデータを整備してAI Readyスコアを0.22から0.97へ改善し、Select AIで確認してみてみた</title>
-    <link rel="alternate" href="https://qiita.com/shirok/items/6a2a3e6992ab0eb93d7a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-29T21:24:22+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-07-28T06:55:38+09:00&lt;br/&gt;Updated: 2026-07-29T21:24:22+09:00&lt;br/&gt;oracle-ai-ready-data Skill 第1回では、サンプルのHRスキーマを対象にoracle-ai-ready-data SkillでAI Ready評価を行いました。HRスキーマはテーブル名やカラム名、主キー・外部キーなどが比較的分かりやすく整備されてい...</summary>
   </entry>
 </feed>
