@@ -95,6 +95,16 @@ description: AI臭さを消す汎用執筆ガイド。ブログ・スライド�
 Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、AP...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:95147e22ed5ac542ba58</id>
+    <title>うっかり世界最強のWasmコンパイラを作ってしまった件</title>
+    <link rel="alternate" href="https://qiita.com/kanryu/items/95147e22ed5ac542ba58?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-09T16:52:55+09:00</updated>
+    <summary type="html">Likes: 141&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kanryu&quot;&gt;kanryu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-09T16:52:55+09:00&lt;br/&gt;Updated: 2026-09-09T16:52:55+09:00&lt;br/&gt;はじめに
+ブラウザで高速なバイナリ処理や計算ロジックを動かしたいとき、WebAssembly（Wasm）の導入を検討したことのあるWebエンジニアは多いはずです。しかし、いざ手を出そうとすると、常に過剰なトレードオフに突き当たります。
+
+C/C++（Emscripten...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6be2bf42e6b9751accc8</id>
     <title>【備忘録】AIで編集しやすいWBSの作り方 - 機能軸・工程軸で工数を集計するMarkdown表</title>
     <link rel="alternate" href="https://qiita.com/Tadataka_Takahashi/items/6be2bf42e6b9751accc8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -127,16 +137,6 @@ AIに渡そうとすると、まずCSVに書き出すところから始まる...
 実務未経験からエンジニアとして評価されたい人
 チームメンバーの成長を支援する立場になったばかりの人
 「気合い」と「根...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:95147e22ed5ac542ba58</id>
-    <title>うっかり世界最強のWasmコンパイラを作ってしまった件</title>
-    <link rel="alternate" href="https://qiita.com/kanryu/items/95147e22ed5ac542ba58?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-09T16:52:55+09:00</updated>
-    <summary type="html">Likes: 111&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kanryu&quot;&gt;kanryu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-09T16:52:55+09:00&lt;br/&gt;Updated: 2026-09-09T16:52:55+09:00&lt;br/&gt;はじめに
-ブラウザで高速なバイナリ処理や計算ロジックを動かしたいとき、WebAssembly（Wasm）の導入を検討したことのあるWebエンジニアは多いはずです。しかし、いざ手を出そうとすると、常に過剰なトレードオフに突き当たります。
-
-C/C++（Emscripten...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:24ee07122dd4d0523069</id>
@@ -646,6 +646,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 エラー対...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c9cccdd64e71a731a58d</id>
+    <title>パスキーでも被害に遭うデバイスコードフロー攻撃とは？ ～ Entra ID での防御と検証方法を解説</title>
+    <link rel="alternate" href="https://qiita.com/carol0226/items/c9cccdd64e71a731a58d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-10T19:48:41+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-09-09T02:38:46+09:00&lt;br/&gt;Updated: 2026-09-10T19:48:41+09:00&lt;br/&gt;はじめに
+私はパスキーに出会って以来、「これこそが本来あるべき認証の姿だ」と強く感じるようになり、それ以降、積極的にパスキーを推進してきました。
+そんな中、パスキーを利用していても攻撃を受ける可能性がある手法として、「デバイスコード フローを悪用したフィッシング攻撃」の存...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b431a74f1cde18d45ad3</id>
     <title># Railsで学ぶ データ構造入門 〜配列・ハッシュ・木・グラフは実は毎日使っている〜</title>
     <link rel="alternate" href="https://qiita.com/akachiryo/items/b431a74f1cde18d45ad3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -653,15 +662,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/akachiryo&quot;&gt;akachiryo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T14:11:17+09:00&lt;br/&gt;Updated: 2026-07-15T14:11:17+09:00&lt;br/&gt;お疲れ様です！ 
 前回は「暗号化とハッシュ」を扱いました。今回は少し戻って、コンピュータサイエンスの土台 データ構造 の総まとめです。
 というのも、これまでの「DFS / BFS」「計算量（Big-O）」「DBインデックス」——実はこの3記事、全部 データ構造 の話をしてい...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c9cccdd64e71a731a58d</id>
-    <title>パスキーでも被害に遭うデバイスコードフロー攻撃とは？ ～ Entra ID での防御と検証方法を解説</title>
-    <link rel="alternate" href="https://qiita.com/carol0226/items/c9cccdd64e71a731a58d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-10T19:48:41+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-09-09T02:38:46+09:00&lt;br/&gt;Updated: 2026-09-10T19:48:41+09:00&lt;br/&gt;はじめに
-私はパスキーに出会って以来、「これこそが本来あるべき認証の姿だ」と強く感じるようになり、それ以降、積極的にパスキーを推進してきました。
-そんな中、パスキーを利用していても攻撃を受ける可能性がある手法として、「デバイスコード フローを悪用したフィッシング攻撃」の存...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:224f55bc85b813930f61</id>
@@ -883,6 +883,16 @@ Agent Toolkit for AWSの一部の方のAWS MCP Serverの話です。オープン
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:26cc98906fbae40e4e71</id>
+    <title>【採用担当の本音】AI時代だからこそ、私たちが面接で「なぜ？」を繰り返す本当の理由</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/26cc98906fbae40e4e71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-10T12:33:53+09:00</updated>
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-09-10T12:33:53+09:00&lt;br/&gt;Updated: 2026-09-10T12:33:53+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8fa7302bbb5bc1c897bf</id>
     <title>【歴史】Next.jsが覇権を握り、そして直面した試練の物語【動画解説あり】</title>
     <link rel="alternate" href="https://qiita.com/Sicut_study/items/8fa7302bbb5bc1c897bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -971,16 +981,6 @@ SQLにはたくさんの構文がありますが、最初から...</summary>
     <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/archeleeds&quot;&gt;archeleeds&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T23:48:59+09:00&lt;br/&gt;Updated: 2026-07-15T00:08:46+09:00&lt;br/&gt;こんにちは、Liseと申します。
 みなさんはゲームのアセットをAIで作ろうとしたことはあるでしょうか？
 X(Twitter)を見ていると怪しげな従量課金のゲームアセット生成サービスがポコポコ流れてくるのですが、ワンショットのアセットならともかく、大量にキャラクターのアセット...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:26cc98906fbae40e4e71</id>
-    <title>【採用担当の本音】AI時代だからこそ、私たちが面接で「なぜ？」を繰り返す本当の理由</title>
-    <link rel="alternate" href="https://qiita.com/m__ikeda/items/26cc98906fbae40e4e71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-10T12:33:53+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-09-10T12:33:53+09:00&lt;br/&gt;Updated: 2026-09-10T12:33:53+09:00&lt;br/&gt;自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:639d401573c09ab24667</id>
@@ -1885,6 +1885,16 @@ TL;DR
 しかし、実際の開発業務には、要件や背景の把握、実装後の報告、知見のドキュメント化など、コードを書く以外にも多くの作業がありま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:134e4f90c60aeeff7194</id>
+    <title>「IT業界ってドライ？」社外でも助け合うエンジニアたちが、実は誰よりも「仲間」を大事にしている理由</title>
+    <link rel="alternate" href="https://qiita.com/m__ikeda/items/134e4f90c60aeeff7194?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-11T15:18:03+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-09-11T15:18:03+09:00&lt;br/&gt;Updated: 2026-09-11T15:18:03+09:00&lt;br/&gt;自己紹介
+こんにちは。株式会社PRUMで採用広報を担当している池田です。
+未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
+もしIT業界に興味があるけど、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1fc232b42c344260021d</id>
     <title>マジックリンクでログインできない原因はメールのURLスキャンだった</title>
     <link rel="alternate" href="https://qiita.com/kuma_3838/items/1fc232b42c344260021d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2020,16 +2030,6 @@ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-cu
     <updated>2026-07-27T12:43:52+09:00</updated>
     <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tkurume&quot;&gt;tkurume&lt;/a&gt;&lt;br/&gt;Published: 2026-07-27T12:43:51+09:00&lt;br/&gt;Updated: 2026-07-27T12:43:52+09:00&lt;br/&gt;照明制御（DMX512 / Art-Net）を45年やっている組込み屋です。自分のサイト tkurume.work を Vultr の VPS（1vCPU / 1GB / Ubuntu 24.04）で運用しています。
 1日の実訪問者は数人という、どこにでもある個人サイトです...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:134e4f90c60aeeff7194</id>
-    <title>「IT業界ってドライ？」社外でも助け合うエンジニアたちが、実は誰よりも「仲間」を大事にしている理由</title>
-    <link rel="alternate" href="https://qiita.com/m__ikeda/items/134e4f90c60aeeff7194?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-11T15:18:03+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-09-11T15:18:03+09:00&lt;br/&gt;Updated: 2026-09-11T15:18:03+09:00&lt;br/&gt;自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0f93dd0b38fda076174f</id>
