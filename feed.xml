@@ -99,7 +99,7 @@ Web API設計を調べると、検索上位に出てくる記事が2015〜2019�
     <title>うっかり世界最強のWasmコンパイラを作ってしまった件</title>
     <link rel="alternate" href="https://qiita.com/kanryu/items/95147e22ed5ac542ba58?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-09-09T16:52:55+09:00</updated>
-    <summary type="html">Likes: 153&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kanryu&quot;&gt;kanryu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-09T16:52:55+09:00&lt;br/&gt;Updated: 2026-09-09T16:52:55+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 159&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kanryu&quot;&gt;kanryu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-09T16:52:55+09:00&lt;br/&gt;Updated: 2026-09-09T16:52:55+09:00&lt;br/&gt;はじめに
 ブラウザで高速なバイナリ処理や計算ロジックを動かしたいとき、WebAssembly（Wasm）の導入を検討したことのあるWebエンジニアは多いはずです。しかし、いざ手を出そうとすると、常に過剰なトレードオフに突き当たります。
 
 C/C++（Emscripten...</summary>
@@ -277,6 +277,19 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 一方、私のようなジュニアエンジニアの場合、生成されたコードを理解するまでに時間がかかるため、 期待したほど開発全体は速く...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:0134c989bb86519eec2e</id>
+    <title>元ヤフーエンジニア社長が考える、AIに仕事が奪われないと思う理由</title>
+    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/0134c989bb86519eec2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-09T11:31:41+09:00</updated>
+    <summary type="html">Likes: 82&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-09-09T11:31:41+09:00&lt;br/&gt;Updated: 2026-09-09T11:31:41+09:00&lt;br/&gt;対象者
+・AIの進化を見ていて、正直この仕事を選んで大丈夫なのか不安な方
+・「AI時代、エンジニアってオワコンなのかな」と将来に迷っている方
+に読んでいただけると嬉しいです！
+
+こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
+https:...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ba228da40b5d2fd1b612</id>
     <title>ひとことで、言え。～スライドをAIで作り直したらわかりにくくなった話～</title>
     <link rel="alternate" href="https://qiita.com/WdknWdkn/items/ba228da40b5d2fd1b612?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -300,19 +313,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 動画生成...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0134c989bb86519eec2e</id>
-    <title>元ヤフーエンジニア社長が考える、AIに仕事が奪われないと思う理由</title>
-    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/0134c989bb86519eec2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-09T11:31:41+09:00</updated>
-    <summary type="html">Likes: 81&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-09-09T11:31:41+09:00&lt;br/&gt;Updated: 2026-09-09T11:31:41+09:00&lt;br/&gt;対象者
-・AIの進化を見ていて、正直この仕事を選んで大丈夫なのか不安な方
-・「AI時代、エンジニアってオワコンなのかな」と将来に迷っている方
-に読んでいただけると嬉しいです！
-
-こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
-https:...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f2da1003b168b52f5770</id>
@@ -2141,23 +2141,6 @@ AIエージェントに「このルールを守って作業して」と指示書
 「エンジニア...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3ce11ea5faed795d47fc</id>
-    <title>攻撃者はブラウザを開いて最初の5分で何を見るのか〜バグバウンティで認可不備（P1/P2）を報告してきた視点で書く、フロントエンドの実装防御ガイド〜</title>
-    <link rel="alternate" href="https://qiita.com/sei_official/items/3ce11ea5faed795d47fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-11T02:52:27+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sei_official&quot;&gt;sei_official&lt;/a&gt;&lt;br/&gt;Published: 2026-07-11T02:52:27+09:00&lt;br/&gt;Updated: 2026-07-11T02:52:27+09:00&lt;br/&gt;はじめに
-フロントエンドのセキュリティというと、
-
-XSS対策
-CSP
-HttpOnly Cookie
-CSRF対策
-
-などがよく挙げられます。どれも重要です。
-しかし、対策の名前だけを知っていても、「なぜそれが必要なのか」が腹落ちしていないと、実装はどこかで抜けます。
-...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:c0f5b86dfb8a3106cbaf</id>
     <title>Claude Fable 5.1、キャッシュ読みは4分の1。ただし tool_choice が400を返す</title>
     <link rel="alternate" href="https://qiita.com/suwa_nobu/items/c0f5b86dfb8a3106cbaf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2238,5 +2221,15 @@ Claude Opus 5 では、これは消したほうがいい一文になりました
     <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T08:29:02+09:00&lt;br/&gt;Updated: 2026-07-15T08:29:02+09:00&lt;br/&gt;はじめに
 Claude Code、コードを書かせるだけで使ってませんか？それ、正直めちゃくちゃもったいないです。
 Claude Code のすごいところは、手を動かしてくれる相棒であると同時に、隣に座ってる先生でもあること。実装を丸投げするんじゃなくて、「教えてもらう」「...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:1953d640bc0a7c0b16fc</id>
+    <title>Claude Codeに毎日3回「挨拶ハラスメント」して5時間の使用枠で作業を止まらなくするClaude活用術</title>
+    <link rel="alternate" href="https://qiita.com/inoyu-qiita/items/1953d640bc0a7c0b16fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-21T10:51:29+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inoyu-qiita&quot;&gt;inoyu-qiita&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T00:25:13+09:00&lt;br/&gt;Updated: 2026-08-21T10:51:29+09:00&lt;br/&gt;日頃からお世話になっている社内のUさん(@haru-qiita)と一緒に業務をしていて教えていただいた最強Claude活用術です！
+
+はじめに
+Claude Codeのクラウドルーティン（定期実行エージェント）で、平日の7時・12時・17時に「挨拶を返すだけ」の超軽量なジョ...</summary>
   </entry>
 </feed>
