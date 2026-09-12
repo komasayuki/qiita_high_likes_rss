@@ -1957,6 +1957,15 @@ SQLを書く前に知っておきたい5つの基本ルール
 SQLはデータベースを扱ううえで欠かせない言語ですが...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:92c094b554d090b54a17</id>
+    <title>terraform plan -minimal-refreshでplanを爆速にする</title>
+    <link rel="alternate" href="https://qiita.com/minamijoyo/items/92c094b554d090b54a17?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-11T14:50:48+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minamijoyo&quot;&gt;minamijoyo&lt;/a&gt;&lt;br/&gt;Published: 2026-09-11T10:46:51+09:00&lt;br/&gt;Updated: 2026-09-11T14:50:48+09:00&lt;br/&gt;はじめに
+terraformで管理しているリソースが増えてきて、tfstateが肥大化してくると、terraform planがどんどん遅くなり、待ってる間にインターネッツを眺めがちです。
+根本解決は、適度な粒度にtfstate分割ですが、もっとお手軽な小手先のテクニック...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d09be87764a66c9077f0</id>
     <title>コードレビューで身についた技術と、メンタルを守るための習慣</title>
     <link rel="alternate" href="https://qiita.com/NekoByte/items/d09be87764a66c9077f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2015,15 +2024,6 @@ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-cu
     <updated>2026-07-27T12:43:52+09:00</updated>
     <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tkurume&quot;&gt;tkurume&lt;/a&gt;&lt;br/&gt;Published: 2026-07-27T12:43:51+09:00&lt;br/&gt;Updated: 2026-07-27T12:43:52+09:00&lt;br/&gt;照明制御（DMX512 / Art-Net）を45年やっている組込み屋です。自分のサイト tkurume.work を Vultr の VPS（1vCPU / 1GB / Ubuntu 24.04）で運用しています。
 1日の実訪問者は数人という、どこにでもある個人サイトです...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:92c094b554d090b54a17</id>
-    <title>terraform plan -minimal-refreshでplanを爆速にする</title>
-    <link rel="alternate" href="https://qiita.com/minamijoyo/items/92c094b554d090b54a17?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-11T14:50:48+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minamijoyo&quot;&gt;minamijoyo&lt;/a&gt;&lt;br/&gt;Published: 2026-09-11T10:46:51+09:00&lt;br/&gt;Updated: 2026-09-11T14:50:48+09:00&lt;br/&gt;はじめに
-terraformで管理しているリソースが増えてきて、tfstateが肥大化してくると、terraform planがどんどん遅くなり、待ってる間にインターネッツを眺めがちです。
-根本解決は、適度な粒度にtfstate分割ですが、もっとお手軽な小手先のテクニック...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0f93dd0b38fda076174f</id>
