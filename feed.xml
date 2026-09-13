@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-09-11T15:18:03+09:00</updated>
+  <updated>2026-09-11T21:15:58+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1710,6 +1710,14 @@ We...</summary>
 「sh...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7affa2e2ef22ebf93fa6</id>
+    <title>アクセスログから不正アクセスの兆候を見つける7つの集計(nginx/Apache対応・コピペOK)</title>
+    <link rel="alternate" href="https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-11T07:30:00+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jiis-sasaki&quot;&gt;jiis-sasaki&lt;/a&gt;&lt;br/&gt;Published: 2026-09-11T07:30:00+09:00&lt;br/&gt;Updated: 2026-09-11T07:30:00+09:00&lt;br/&gt;「うちのサイト、攻撃されていませんか?」と聞かれたとき、答えはたいていサーバのアクセスログの中にあります。ただ生ログを tail で眺めても、1 日数万行の中から異常だけを拾うことはできません。
+この記事は、サーバに SSH で入れる Web 担当者・サイト運営者・制作会社...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:668edf1abb33d35d5630</id>
     <title>未経験からIT業界へ。「できるようになってから」じゃなくて大丈夫です</title>
     <link rel="alternate" href="https://qiita.com/m__ikeda/items/668edf1abb33d35d5630?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1939,6 +1947,14 @@ SQLを書く前に知っておきたい5つの基本ルール
 SQLはデータベースを扱ううえで欠かせない言語ですが...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:aa30a54fc6f0849385a7</id>
+    <title>AWSのインフラ導入でAIを使っている箇所と手でやっている箇所</title>
+    <link rel="alternate" href="https://qiita.com/infra365/items/aa30a54fc6f0849385a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-11T14:51:35+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/infra365&quot;&gt;infra365&lt;/a&gt;&lt;br/&gt;Published: 2026-09-11T14:51:35+09:00&lt;br/&gt;Updated: 2026-09-11T14:51:35+09:00&lt;br/&gt;はじめに
+「AIはボトルネックを解消するものではなく、ボトルネックを他の工程に移しているだけ」という話を聞きました。私はシステム導入の中でAIを使いこなせているわけではないのですが、当然一部にはAIを活用しているため、改めてどのようにシステム導入の工程を実施していて、どこ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d09be87764a66c9077f0</id>
     <title>コードレビューで身についた技術と、メンタルを守るための習慣</title>
     <link rel="alternate" href="https://qiita.com/NekoByte/items/d09be87764a66c9077f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2035,14 +2051,6 @@ AIエージェントのコーディング環境として、Docker Sandboxesを�
 本稿執筆時点ではまだExperimentalな扱いなので、まとめ記事を書くタイミングが難しいのだけど、とは言え「やってみた」以上の情報がまだまだWeb上に少なく、周りに勧...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:7affa2e2ef22ebf93fa6</id>
-    <title>アクセスログから不正アクセスの兆候を見つける7つの集計(nginx/Apache対応・コピペOK)</title>
-    <link rel="alternate" href="https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-11T07:30:00+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jiis-sasaki&quot;&gt;jiis-sasaki&lt;/a&gt;&lt;br/&gt;Published: 2026-09-11T07:30:00+09:00&lt;br/&gt;Updated: 2026-09-11T07:30:00+09:00&lt;br/&gt;「うちのサイト、攻撃されていませんか?」と聞かれたとき、答えはたいていサーバのアクセスログの中にあります。ただ生ログを tail で眺めても、1 日数万行の中から異常だけを拾うことはできません。
-この記事は、サーバに SSH で入れる Web 担当者・サイト運営者・制作会社...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:acb61138c4550eef4803</id>
     <title>14MBのAIモデルは本当に動いた — DLL 1個・RAM 37MB・1回0.5秒、ただし日本語は0/5</title>
     <link rel="alternate" href="https://qiita.com/jqit_suwa/items/acb61138c4550eef4803?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2114,6 +2122,15 @@ AIエージェントに「このルールを守って作業して」と指示書
 きのこカンファレンス 初参加
 「きのこカンファレンス」と聞くと、世界中のキノコの植生について語り合う生物学者のカンファレンスのように思えますが違います。
 「エンジニア...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:a031d4928ddb7caa0784</id>
+    <title>うっかり世界最強のWasmコンパイラに並行処理（マルチスレッド）を載せたら、なぜか1.46KBまで縮んだ件</title>
+    <link rel="alternate" href="https://qiita.com/kanryu/items/a031d4928ddb7caa0784?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-11T21:15:58+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kanryu&quot;&gt;kanryu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-11T20:50:10+09:00&lt;br/&gt;Updated: 2026-09-11T21:15:58+09:00&lt;br/&gt;はじめに
+先日投稿した「うっかり世界最強のWasmコンパイラを作ってしまった件」が、気づけば2万PVを超え、多くの反響やスターをいただきました。読んでくださった方、本当にありがとうございます。
+前回の記事では「Goライクな構文のまま、libcフリーでわずか2.56KBのW...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c0f5b86dfb8a3106cbaf</id>
@@ -2198,14 +2215,6 @@ Claude Code、コードを書かせるだけで使ってませんか？それ、
 Claude Code のすごいところは、手を動かしてくれる相棒であると同時に、隣に座ってる先生でもあること。実装を丸投げするんじゃなくて、「教えてもらう」「...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:aa30a54fc6f0849385a7</id>
-    <title>AWSのインフラ導入でAIを使っている箇所と手でやっている箇所</title>
-    <link rel="alternate" href="https://qiita.com/infra365/items/aa30a54fc6f0849385a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-11T14:51:35+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/infra365&quot;&gt;infra365&lt;/a&gt;&lt;br/&gt;Published: 2026-09-11T14:51:35+09:00&lt;br/&gt;Updated: 2026-09-11T14:51:35+09:00&lt;br/&gt;はじめに
-「AIはボトルネックを解消するものではなく、ボトルネックを他の工程に移しているだけ」という話を聞きました。私はシステム導入の中でAIを使いこなせているわけではないのですが、当然一部にはAIを活用しているため、改めてどのようにシステム導入の工程を実施していて、どこ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:1953d640bc0a7c0b16fc</id>
     <title>Claude Codeに毎日3回「挨拶ハラスメント」して5時間の使用枠で作業を止まらなくするClaude活用術</title>
     <link rel="alternate" href="https://qiita.com/inoyu-qiita/items/1953d640bc0a7c0b16fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2214,14 +2223,5 @@ Claude Code のすごいところは、手を動かしてくれる相棒であ�
 
 はじめに
 Claude Codeのクラウドルーティン（定期実行エージェント）で、平日の7時・12時・17時に「挨拶を返すだけ」の超軽量なジョ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9a8e6af3d545150c5a08</id>
-    <title>VisualStudio無しで.NET Framework→.NET 10移行を試したら、ツールそのものが世代交代していた話</title>
-    <link rel="alternate" href="https://qiita.com/inuta-one/items/9a8e6af3d545150c5a08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-11T17:15:03+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inuta-one&quot;&gt;inuta-one&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T09:24:08+09:00&lt;br/&gt;Updated: 2026-08-11T17:15:03+09:00&lt;br/&gt;はじめに
-C# で出来ること一覧 2026年版（.NET 10） という記事を読んで、後半で紹介されていた「.NET Frameworkから.NETへの移行」を実際に手を動かして試してみることにしました。
-自分は過去にVB6→C#移行の案件に関わったこともあり、この手の移...</summary>
   </entry>
 </feed>
