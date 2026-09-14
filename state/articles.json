@@ -1309,18 +1309,6 @@
       "last_seen": "2026-08-24T07:15:04.817345643+00:00"
     },
     {
-      "key": "3be907bb38b545cf4a9e",
-      "item_id": "3be907bb38b545cf4a9e",
-      "title": "AIにコードを書かせるなら技術スタックは何がいい？たどり着いたのはTypeScript中心＋必要な部分だけPython/Go",
-      "link": "https://qiita.com/nogataka/items/3be907bb38b545cf4a9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nこの記事では、AIエージェントにコードを書かせる「AI駆動開発」と相性の良い技術スタックを整理します。\n技術スタックの相性は、もちろん開発するアプリの仕様や実行環境、チーム体制などにもよります。\n今回はそのなかでも、あくまで「AI駆動開発との相性」を全面に置い...",
-      "published": "2026-07-14T09:22:30+09:00",
-      "updated": "2026-07-14T09:22:31+09:00",
-      "author_name": "nogataka",
-      "likes_count": 12,
-      "last_seen": "2026-07-16T20:08:46.111014327+00:00"
-    },
-    {
       "key": "3ca158f89a6e38d762aa",
       "item_id": "3ca158f89a6e38d762aa",
       "title": "なぜニチレイは、たった10日で復旧できたのか",
@@ -1486,7 +1474,7 @@
       "updated": "2026-09-12T17:31:06+09:00",
       "author_name": "o68606007",
       "likes_count": 12,
-      "last_seen": "2026-09-14T18:33:15.817247556+00:00"
+      "last_seen": "2026-09-14T22:26:01.658368625+00:00"
     },
     {
       "key": "438336db3684cf662321",
@@ -1883,18 +1871,6 @@
       "author_name": "Ikechom",
       "likes_count": 10,
       "last_seen": "2026-08-10T19:09:52.911392448+00:00"
-    },
-    {
-      "key": "5a1deaa541d70e11d85f",
-      "item_id": "5a1deaa541d70e11d85f",
-      "title": "Railsで学ぶ 暗号化とハッシュ 〜master.keyやDeviseは内部で何をしている？〜",
-      "link": "https://qiita.com/akachiryo/items/5a1deaa541d70e11d85f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "お疲れ様です！ \n前回までで「index」「レースコンディション（ユニーク制約）」あたりを扱ってきましたが、今回は 暗号化とハッシュ の話です。\nRailsを使っていると当たり前に出てくる master.key・credentials.yml.enc・Deviseのパスワー...",
-      "published": "2026-07-14T15:07:22+09:00",
-      "updated": "2026-07-14T15:07:22+09:00",
-      "author_name": "akachiryo",
-      "likes_count": 57,
-      "last_seen": "2026-07-16T20:08:46.111014327+00:00"
     },
     {
       "key": "5bfc4baad0c487475355",
@@ -2565,8 +2541,8 @@
       "published": "2026-09-13T22:27:30+09:00",
       "updated": "2026-09-13T22:27:31+09:00",
       "author_name": "kyamaz",
-      "likes_count": 19,
-      "last_seen": "2026-09-14T18:33:15.817247556+00:00"
+      "likes_count": 23,
+      "last_seen": "2026-09-14T22:26:01.658368625+00:00"
     },
     {
       "key": "7bd599311fd75227101f",
@@ -2842,7 +2818,7 @@
       "updated": "2026-09-14T15:27:42+09:00",
       "author_name": "m__ikeda",
       "likes_count": 32,
-      "last_seen": "2026-09-14T18:33:15.817247556+00:00"
+      "last_seen": "2026-09-14T22:26:01.658368625+00:00"
     },
     {
       "key": "86c54a078fefa954ce76",
@@ -2901,8 +2877,8 @@
       "published": "2026-09-13T18:55:25+09:00",
       "updated": "2026-09-13T18:55:25+09:00",
       "author_name": "iketani45664566",
-      "likes_count": 12,
-      "last_seen": "2026-09-14T18:33:15.817247556+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-09-14T22:26:01.658368625+00:00"
     },
     {
       "key": "89fcfd2702ecba65c74d",
@@ -3437,12 +3413,12 @@
       "item_id": "9dc9ee419d2764d2aa06",
       "title": "👍を押したらバレる？「学習させない」設定をしてもダメ？｜AIツール個人版ユーザーの防衛策🛡5手と、やっても残る3つ",
       "link": "https://qiita.com/songchong/items/9dc9ee419d2764d2aa06?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "法人契約が今すぐ通らないとき、個人版のまま打てる手は 5 つあります。まずは全体の流れを図解します。\n\n1. 👍 を押したら、何が起きるのか\n\n「学習に使わない」の学習OFFに設定していても、評価ボタンを押した会話だけは例外になります。\nClaude の規約は、2 つの...",
+      "summary": "以前の記事で 34 製品の利用規約を読み比べたところ、同じ製品名でも個人版と法人版で結論が逆になる製品が 10 件ありました。向きはおおむね一方向で、法人版は「学習に使わない」・個人版は「使う」か「設定しだい」と書き分けています（AI に入れたデータは学習に使われるのか —...",
       "published": "2026-09-14T04:31:57+09:00",
       "updated": "2026-09-14T10:29:53+09:00",
       "author_name": "songchong",
       "likes_count": 14,
-      "last_seen": "2026-09-14T18:33:15.817247556+00:00"
+      "last_seen": "2026-09-14T22:26:01.658368625+00:00"
     },
     {
       "key": "9dd91baaa89c919d0992",
@@ -4054,7 +4030,7 @@
       "updated": "2026-09-13T19:17:20+09:00",
       "author_name": "inakano_ojisan",
       "likes_count": 10,
-      "last_seen": "2026-09-14T18:33:15.817247556+00:00"
+      "last_seen": "2026-09-14T22:26:01.658368625+00:00"
     },
     {
       "key": "bb431a6bd37fb1ef0cd6",
@@ -4741,18 +4717,6 @@
       "last_seen": "2026-08-07T19:09:59.832549177+00:00"
     },
     {
-      "key": "dbabb5c130aae2566f0f",
-      "item_id": "dbabb5c130aae2566f0f",
-      "title": "「めっちゃカメレオン」が教えてくれた、アイディア力こそAI時代の最強武器",
-      "link": "https://qiita.com/prum_sumomo/items/dbabb5c130aae2566f0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや\n考え方を整理して発信しています。\n\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\n「めっち...",
-      "published": "2026-07-13T18:23:56+09:00",
-      "updated": "2026-07-16T11:59:17+09:00",
-      "author_name": "prum_sumomo",
-      "likes_count": 78,
-      "last_seen": "2026-07-16T20:08:46.111014327+00:00"
-    },
-    {
       "key": "dc75c6f3789348408f9b",
       "item_id": "dc75c6f3789348408f9b",
       "title": "【図解】AI・ChatGPT・RPA・iPaaS・n8n…業務自動化の言葉が多すぎる！66 製品を 6 役に例えたら、1 枚の工場イラスト図になった",
@@ -5013,8 +4977,8 @@
       "published": "2026-09-14T13:55:10+09:00",
       "updated": "2026-09-14T13:55:11+09:00",
       "author_name": "take-yoda",
-      "likes_count": 16,
-      "last_seen": "2026-09-14T18:33:15.817247556+00:00"
+      "likes_count": 22,
+      "last_seen": "2026-09-14T22:26:01.658368625+00:00"
     },
     {
       "key": "e60cb25d3b10d7a2f316",
@@ -5033,12 +4997,12 @@
       "item_id": "e630bf05f4adf0c16ce5",
       "title": "写真📷録音🎙PDF📄コード💻いいね👍｜私の情報はどこへ漏れていくのか？ AI製品36件の規約とプライバシーポリシーを形式別に調べてみた",
       "link": "https://qiita.com/songchong/items/e630bf05f4adf0c16ce5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "「会議の録音を AI に入れていいか」と聞かれたとき、規約のどこを読めば答えられるのか。 形式ごとに数えました。\n\n1. どの製品が、どの形式について書いているのか\n\n形式ごとの記述をいちばん多く持つのは Gemini で、6 形式のうち 4 つに記述があります。 しかも...",
+      "summary": "「会議の録音を AI で文字起こししたら、内容がバレる心配はないか？」\n以前の記事では、個人情報・機微情報・アイデアといったデータの「種類」から見た漏れ方をまとめました（どの情報なら AI に入れてよいか）。ですが、写真📷・録音🎙・PDF📄・コード💻・いいね👍といったデータ...",
       "published": "2026-09-14T04:32:07+09:00",
       "updated": "2026-09-14T16:13:05+09:00",
       "author_name": "songchong",
       "likes_count": 18,
-      "last_seen": "2026-09-14T18:33:15.817247556+00:00"
+      "last_seen": "2026-09-14T22:26:01.658368625+00:00"
     },
     {
       "key": "e6f1678b41483943fc04",
