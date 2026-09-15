@@ -925,18 +925,6 @@
       "last_seen": "2026-08-05T19:49:20.139469720+00:00"
     },
     {
-      "key": "2eafd347f90e80c46005",
-      "item_id": "2eafd347f90e80c46005",
-      "title": "Amazon S3の大量ログ分析、まずParquetに整えてから 〜 Autonomous AI Lakehouse の外部表・SQL・Vector Search・RAG使い分け",
-      "link": "https://qiita.com/shirok/items/2eafd347f90e80c46005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "AWS S3上に大量のログがあり、Amazon Athenaで検索・分析している環境に対して、Oracle Autonomous AI Lakehouseを使ってさらに AI分析できないか、という相談を受けることがあります。\nたとえば、S3上に以下のようなログがあるケース...",
-      "published": "2026-07-14T07:59:11+09:00",
-      "updated": "2026-07-17T07:30:27+09:00",
-      "author_name": "shirok",
-      "likes_count": 19,
-      "last_seen": "2026-07-17T07:26:19.244790279+00:00"
-    },
-    {
       "key": "2efad73069b54288deb4",
       "item_id": "2efad73069b54288deb4",
       "title": "ComfyUI × 動画生成AI × Codex で、ゲーム用スプライトアニメを量産するパイプラインを作った話",
@@ -959,18 +947,6 @@
       "author_name": "sugumura",
       "likes_count": 20,
       "last_seen": "2026-09-03T18:33:35.350676318+00:00"
-    },
-    {
-      "key": "2f38d32328996d826d48",
-      "item_id": "2f38d32328996d826d48",
-      "title": "コードを書かせるだけは、正直もったいない。Claude Codeを「先生」として使い倒す5つのプロンプト",
-      "link": "https://qiita.com/jqit_suwa/items/2f38d32328996d826d48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nClaude Code、コードを書かせるだけで使ってませんか？それ、正直めちゃくちゃもったいないです。\nClaude Code のすごいところは、手を動かしてくれる相棒であると同時に、隣に座ってる先生でもあること。実装を丸投げするんじゃなくて、「教えてもらう」「...",
-      "published": "2026-07-15T08:29:02+09:00",
-      "updated": "2026-07-15T08:29:02+09:00",
-      "author_name": "jqit_suwa",
-      "likes_count": 25,
-      "last_seen": "2026-07-17T07:26:19.244790279+00:00"
     },
     {
       "key": "2feffd2cc6c672717973",
@@ -1079,6 +1055,18 @@
       "author_name": "s_horikoshi",
       "likes_count": 11,
       "last_seen": "2026-08-21T07:52:27.393438196+00:00"
+    },
+    {
+      "key": "334ced1537fcdf0fe21a",
+      "item_id": "334ced1537fcdf0fe21a",
+      "title": "エラー対応設計: 例外と障害を区別しよう",
+      "link": "https://qiita.com/megmogmog1965/items/334ced1537fcdf0fe21a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nエラーの実装指針は難しく、特に近年は AI にコードを書かせる場面で一貫性のないエラー対処コードが散見されがちです。\nAI には直接指示をしたり、CLAUDE.md などを通じて指針を示すことができます。しかし、指針を決めるのは結局人間であり、決めるためには自身...",
+      "published": "2026-09-13T14:02:07+09:00",
+      "updated": "2026-09-15T15:13:19+09:00",
+      "author_name": "megmogmog1965",
+      "likes_count": 11,
+      "last_seen": "2026-09-15T07:38:25.319072434+00:00"
     },
     {
       "key": "3380b85d0b52ea01f449",
@@ -1474,7 +1462,7 @@
       "updated": "2026-09-12T17:31:06+09:00",
       "author_name": "o68606007",
       "likes_count": 12,
-      "last_seen": "2026-09-15T01:23:16.282624508+00:00"
+      "last_seen": "2026-09-15T07:38:25.319072434+00:00"
     },
     {
       "key": "438336db3684cf662321",
@@ -1775,18 +1763,6 @@
       "author_name": "m__ikeda",
       "likes_count": 34,
       "last_seen": "2026-09-10T18:21:10.363383543+00:00"
-    },
-    {
-      "key": "535a697aeaea41515de9",
-      "item_id": "535a697aeaea41515de9",
-      "title": "エラー対応理由考えてる？コピペしてAIに聞いてるでしょ",
-      "link": "https://qiita.com/prum_sumomo/items/535a697aeaea41515de9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや\n考え方を整理して発信しています。\n\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\nエラー対...",
-      "published": "2026-07-14T18:00:43+09:00",
-      "updated": "2026-07-14T18:00:43+09:00",
-      "author_name": "prum_sumomo",
-      "likes_count": 52,
-      "last_seen": "2026-07-17T07:26:19.244790279+00:00"
     },
     {
       "key": "54762eaae03b84252a3f",
@@ -2541,8 +2517,8 @@
       "published": "2026-09-13T22:27:30+09:00",
       "updated": "2026-09-15T09:35:32+09:00",
       "author_name": "kyamaz",
-      "likes_count": 31,
-      "last_seen": "2026-09-15T01:23:16.282624508+00:00"
+      "likes_count": 46,
+      "last_seen": "2026-09-15T07:38:25.319072434+00:00"
     },
     {
       "key": "7bd599311fd75227101f",
@@ -2818,7 +2794,7 @@
       "updated": "2026-09-14T15:27:42+09:00",
       "author_name": "m__ikeda",
       "likes_count": 34,
-      "last_seen": "2026-09-15T01:23:16.282624508+00:00"
+      "last_seen": "2026-09-15T07:38:25.319072434+00:00"
     },
     {
       "key": "86c54a078fefa954ce76",
@@ -2877,8 +2853,8 @@
       "published": "2026-09-13T18:55:25+09:00",
       "updated": "2026-09-13T18:55:25+09:00",
       "author_name": "iketani45664566",
-      "likes_count": 21,
-      "last_seen": "2026-09-15T01:23:16.282624508+00:00"
+      "likes_count": 24,
+      "last_seen": "2026-09-15T07:38:25.319072434+00:00"
     },
     {
       "key": "89fcfd2702ecba65c74d",
@@ -3418,7 +3394,7 @@
       "updated": "2026-09-14T10:29:53+09:00",
       "author_name": "songchong",
       "likes_count": 14,
-      "last_seen": "2026-09-15T01:23:16.282624508+00:00"
+      "last_seen": "2026-09-15T07:38:25.319072434+00:00"
     },
     {
       "key": "9dd91baaa89c919d0992",
@@ -4029,8 +4005,8 @@
       "published": "2026-09-13T11:41:13+09:00",
       "updated": "2026-09-13T19:17:20+09:00",
       "author_name": "inakano_ojisan",
-      "likes_count": 14,
-      "last_seen": "2026-09-15T01:23:16.282624508+00:00"
+      "likes_count": 23,
+      "last_seen": "2026-09-15T07:38:25.319072434+00:00"
     },
     {
       "key": "bb431a6bd37fb1ef0cd6",
@@ -4234,7 +4210,7 @@
       "updated": "2026-09-14T10:46:38+09:00",
       "author_name": "y_wakai",
       "likes_count": 10,
-      "last_seen": "2026-09-15T01:23:16.282624508+00:00"
+      "last_seen": "2026-09-15T07:38:25.319072434+00:00"
     },
     {
       "key": "c8705ed320aa15dc9db0",
@@ -4343,18 +4319,6 @@
       "author_name": "jqit_suwa",
       "likes_count": 38,
       "last_seen": "2026-08-24T07:15:04.817345643+00:00"
-    },
-    {
-      "key": "cd426dbd97a66dea11cd",
-      "item_id": "cd426dbd97a66dea11cd",
-      "title": "エンジニアが知っておくべきIPアドレスの話",
-      "link": "https://qiita.com/AkiraTakasaki/items/cd426dbd97a66dea11cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "こんにちは、ソーイ株式会社の髙﨑です。\n最近、業務でIPアドレスによるアクセス制限機能に触れる機会がありました。調査を進める中で、ループバックアドレスやリンクローカルアドレスなど、普段あまり意識することのない特殊なIPアドレスが数多く存在することを知りました。\n今回は、調査...",
-      "published": "2026-07-14T12:09:03+09:00",
-      "updated": "2026-07-14T12:09:04+09:00",
-      "author_name": "AkiraTakasaki",
-      "likes_count": 35,
-      "last_seen": "2026-07-17T07:26:19.244790279+00:00"
     },
     {
       "key": "cdf68a05d240d1031ccf",
@@ -4837,18 +4801,6 @@
       "last_seen": "2026-07-24T18:40:05.396703828+00:00"
     },
     {
-      "key": "df304e891fb2405a2d30",
-      "item_id": "df304e891fb2405a2d30",
-      "title": "ｳﾝ十台の検証環境の管理を1つのWebコンソールに統合した話 〜HTMX + サーバレスで月額50円運用〜",
-      "link": "https://qiita.com/morishio/items/df304e891fb2405a2d30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "こちらの記事は 「Medley Summer Tech Blog Relay」 の 3日目 の記事です \n\nはじめに\nこんにちは。株式会社メドレーの SRE グループ所属の森川です⚙️\n弊社が運営するサービス ジョブメドレー では開発者向けに「sb 環境」と呼ばれる検...",
-      "published": "2026-07-15T09:47:33+09:00",
-      "updated": "2026-07-15T09:47:34+09:00",
-      "author_name": "morishio",
-      "likes_count": 10,
-      "last_seen": "2026-07-17T07:26:19.244790279+00:00"
-    },
-    {
       "key": "dffb06c5e5cd1ef73463",
       "item_id": "dffb06c5e5cd1ef73463",
       "title": "わかったようでわからないアロー関数の完全理解",
@@ -4989,8 +4941,8 @@
       "published": "2026-09-14T13:55:10+09:00",
       "updated": "2026-09-14T13:55:11+09:00",
       "author_name": "take-yoda",
-      "likes_count": 39,
-      "last_seen": "2026-09-15T01:23:16.282624508+00:00"
+      "likes_count": 59,
+      "last_seen": "2026-09-15T07:38:25.319072434+00:00"
     },
     {
       "key": "e60cb25d3b10d7a2f316",
@@ -5014,7 +4966,7 @@
       "updated": "2026-09-14T16:13:05+09:00",
       "author_name": "songchong",
       "likes_count": 18,
-      "last_seen": "2026-09-15T01:23:16.282624508+00:00"
+      "last_seen": "2026-09-15T07:38:25.319072434+00:00"
     },
     {
       "key": "e6f1678b41483943fc04",
