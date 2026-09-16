@@ -129,8 +129,8 @@
       "published": "2026-09-14T09:52:44+09:00",
       "updated": "2026-09-14T09:52:45+09:00",
       "author_name": "suwa_nobu",
-      "likes_count": 23,
-      "last_seen": "2026-09-16T05:55:32.278200003+00:00"
+      "likes_count": 24,
+      "last_seen": "2026-09-16T11:24:13.602269161+00:00"
     },
     {
       "key": "0bec9b5d0fedde9ab81b",
@@ -661,18 +661,6 @@
       "last_seen": "2026-09-03T04:17:18.277961835+00:00"
     },
     {
-      "key": "22ef83c9c3a63c349bbd",
-      "item_id": "22ef83c9c3a63c349bbd",
-      "title": "SQLとNoSQLの違い、サクッと理解する",
-      "link": "https://qiita.com/nt_fujita/items/22ef83c9c3a63c349bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nSQL（リレーショナルデータベース）は「Structured Query Language」の略、\nNoSQL（非リレーショナルデータベース）は「Not Only SQL（Structured Query Language）」の略です。\nこれらは名前こそ似ていま...",
-      "published": "2026-07-16T13:44:47+09:00",
-      "updated": "2026-07-17T10:12:21+09:00",
-      "author_name": "nt_fujita",
-      "likes_count": 10,
-      "last_seen": "2026-07-18T06:14:34.997344082+00:00"
-    },
-    {
       "key": "236b7561460a2d2c4d7e",
       "item_id": "236b7561460a2d2c4d7e",
       "title": "【初心者必見】CSSとは？基本から書き方までわかりやすく解説　part1",
@@ -1103,18 +1091,6 @@
       "author_name": "M_Ozu",
       "likes_count": 18,
       "last_seen": "2026-08-16T07:39:36.201494268+00:00"
-    },
-    {
-      "key": "34a4486f6ab1b15211a9",
-      "item_id": "34a4486f6ab1b15211a9",
-      "title": "ぷよぷよプログラミング体験談",
-      "link": "https://qiita.com/sakurada110/items/34a4486f6ab1b15211a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "1. はじめに\n　オフィスの雑誌を漁っていたら「ぷよぷよプログラミング」という何とも興味深い雑誌を見つけました。ぷよぷよは小さい頃から家族と遊んでいたので、それをプログラミングで実装可能ならやってみたい！ということで、実際にぷよぷよプログラミングで遊んでみました。\n　そこ...",
-      "published": "2026-07-15T12:00:09+09:00",
-      "updated": "2026-07-15T12:00:10+09:00",
-      "author_name": "sakurada110",
-      "likes_count": 26,
-      "last_seen": "2026-07-18T06:14:34.997344082+00:00"
     },
     {
       "key": "35441e4b0009aa128610",
@@ -1681,6 +1657,18 @@
       "last_seen": "2026-09-04T04:21:27.918830378+00:00"
     },
     {
+      "key": "5145961004e38e2fe316",
+      "item_id": "5145961004e38e2fe316",
+      "title": "拒否ルールを全部消しても、Claude Code は eval を止めた。守っていたのは別の仕組みだった",
+      "link": "https://qiita.com/suwa_nobu/items/5145961004e38e2fe316?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "Claude Code 2.1.273（2026-09-15）の changelog に、こう書かれています。\n\nReverted a 2.1.268 change that checked Read and Edit deny rules on Bash lines th...",
+      "published": "2026-09-16T09:22:25+09:00",
+      "updated": "2026-09-16T09:22:25+09:00",
+      "author_name": "suwa_nobu",
+      "likes_count": 18,
+      "last_seen": "2026-09-16T11:24:13.602269161+00:00"
+    },
+    {
       "key": "516da72f0627c3728fbe",
       "item_id": "516da72f0627c3728fbe",
       "title": "「何から始めるか問題」で、結局何も始められなかった話",
@@ -1857,8 +1845,8 @@
       "published": "2026-09-15T09:38:28+09:00",
       "updated": "2026-09-15T09:38:28+09:00",
       "author_name": "fe1ix",
-      "likes_count": 31,
-      "last_seen": "2026-09-16T05:55:32.278200003+00:00"
+      "likes_count": 49,
+      "last_seen": "2026-09-16T11:24:13.602269161+00:00"
     },
     {
       "key": "5d9dab683e58e5396d47",
@@ -1929,8 +1917,8 @@
       "published": "2026-09-13T20:38:46+09:00",
       "updated": "2026-09-13T20:38:46+09:00",
       "author_name": "tofu_frontend",
-      "likes_count": 14,
-      "last_seen": "2026-09-16T05:55:32.278200003+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-09-16T11:24:13.602269161+00:00"
     },
     {
       "key": "5fe930eb46d064b3da06",
@@ -2218,7 +2206,7 @@
       "updated": "2026-09-14T09:54:13+09:00",
       "author_name": "fe1ix",
       "likes_count": 16,
-      "last_seen": "2026-09-16T05:55:32.278200003+00:00"
+      "last_seen": "2026-09-16T11:24:13.602269161+00:00"
     },
     {
       "key": "6d7dc1bed369c567df22",
@@ -2541,20 +2529,8 @@
       "published": "2026-09-13T22:27:30+09:00",
       "updated": "2026-09-15T09:35:32+09:00",
       "author_name": "kyamaz",
-      "likes_count": 57,
-      "last_seen": "2026-09-16T05:55:32.278200003+00:00"
-    },
-    {
-      "key": "7bd599311fd75227101f",
-      "item_id": "7bd599311fd75227101f",
-      "title": "コピペ最強｜UiverseのUI素材でプログラミング初心者の悩みが即解決した話",
-      "link": "https://qiita.com/prumnn/items/7bd599311fd75227101f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n\n「これ、一から試行錯誤するより、正解を見て覚えた方が早いかも」――TODOリストのチェックボックス作りにハマった新人ぷらむんが、そう気づいた話です。\n\n会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯\n最近ぷらむん、個人開...",
-      "published": "2026-07-15T17:13:40+09:00",
-      "updated": "2026-07-15T17:13:41+09:00",
-      "author_name": "prumnn",
-      "likes_count": 35,
-      "last_seen": "2026-07-18T06:14:34.997344082+00:00"
+      "likes_count": 60,
+      "last_seen": "2026-09-16T11:24:13.602269161+00:00"
     },
     {
       "key": "7bd7345600b1ed09d5a7",
@@ -2651,6 +2627,18 @@
       "author_name": "cvusk",
       "likes_count": 11,
       "last_seen": "2026-09-02T18:36:15.238833439+00:00"
+    },
+    {
+      "key": "7f388029f8821fc3ea6c",
+      "item_id": "7f388029f8821fc3ea6c",
+      "title": "元ヤフーエンジニア社長が考える、AI時代の採用基準",
+      "link": "https://qiita.com/ryoheiiwamoto/items/7f388029f8821fc3ea6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "スキルより先に見ているものがある\n\nこんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。\nhttps://prum.jp/\n面接だと、つい「スキルをどうアピールしよう」と考えてしまいますよね。\n確かに、スキルがあるに越したことはありません。\nで...",
+      "published": "2026-09-16T15:20:43+09:00",
+      "updated": "2026-09-16T15:20:43+09:00",
+      "author_name": "ryoheiiwamoto",
+      "likes_count": 30,
+      "last_seen": "2026-09-16T11:24:13.602269161+00:00"
     },
     {
       "key": "7f6bb159f7d65e53620d",
@@ -2817,8 +2805,8 @@
       "published": "2026-09-14T15:27:42+09:00",
       "updated": "2026-09-14T15:27:42+09:00",
       "author_name": "m__ikeda",
-      "likes_count": 40,
-      "last_seen": "2026-09-16T05:55:32.278200003+00:00"
+      "likes_count": 43,
+      "last_seen": "2026-09-16T11:24:13.602269161+00:00"
     },
     {
       "key": "86c54a078fefa954ce76",
@@ -3861,20 +3849,8 @@
       "published": "2026-09-15T09:01:26+09:00",
       "updated": "2026-09-15T20:33:25+09:00",
       "author_name": "shirok",
-      "likes_count": 10,
-      "last_seen": "2026-09-16T05:55:32.278200003+00:00"
-    },
-    {
-      "key": "b431a74f1cde18d45ad3",
-      "item_id": "b431a74f1cde18d45ad3",
-      "title": "# Railsで学ぶ データ構造入門 〜配列・ハッシュ・木・グラフは実は毎日使っている〜",
-      "link": "https://qiita.com/akachiryo/items/b431a74f1cde18d45ad3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "お疲れ様です！ \n前回は「暗号化とハッシュ」を扱いました。今回は少し戻って、コンピュータサイエンスの土台 データ構造 の総まとめです。\nというのも、これまでの「DFS / BFS」「計算量（Big-O）」「DBインデックス」——実はこの3記事、全部 データ構造 の話をしてい...",
-      "published": "2026-07-15T14:11:17+09:00",
-      "updated": "2026-07-15T14:11:17+09:00",
-      "author_name": "akachiryo",
-      "likes_count": 50,
-      "last_seen": "2026-07-18T06:14:34.997344082+00:00"
+      "likes_count": 12,
+      "last_seen": "2026-09-16T11:24:13.602269161+00:00"
     },
     {
       "key": "b44d4e2b526aa009f822",
@@ -3898,7 +3874,7 @@
       "updated": "2026-09-15T09:18:39+09:00",
       "author_name": "suwa_nobu",
       "likes_count": 23,
-      "last_seen": "2026-09-16T05:55:32.278200003+00:00"
+      "last_seen": "2026-09-16T11:24:13.602269161+00:00"
     },
     {
       "key": "b4a550002ebf1e5b8af8",
@@ -3959,18 +3935,6 @@
       "author_name": "maeda-niku18",
       "likes_count": 295,
       "last_seen": "2026-09-10T18:21:10.363383543+00:00"
-    },
-    {
-      "key": "b7bfe27efae0231a09af",
-      "item_id": "b7bfe27efae0231a09af",
-      "title": "AI人材は２つに分かれる。あなたが目指すべきはどっち？",
-      "link": "https://qiita.com/sumomoo/items/b7bfe27efae0231a09af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや\n考え方を整理して発信しています。\n\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\n「人にし...",
-      "published": "2026-07-15T16:47:14+09:00",
-      "updated": "2026-07-15T16:47:14+09:00",
-      "author_name": "sumomoo",
-      "likes_count": 64,
-      "last_seen": "2026-07-18T06:14:34.997344082+00:00"
     },
     {
       "key": "b80484406e839ee6507b",
@@ -4209,8 +4173,8 @@
       "published": "2026-09-14T10:44:21+09:00",
       "updated": "2026-09-14T10:44:23+09:00",
       "author_name": "yoshioterada",
-      "likes_count": 38,
-      "last_seen": "2026-09-16T05:55:32.278200003+00:00"
+      "likes_count": 44,
+      "last_seen": "2026-09-16T11:24:13.602269161+00:00"
     },
     {
       "key": "c507644c3eea9237fa44",
@@ -4369,18 +4333,6 @@
       "last_seen": "2026-08-24T07:15:04.817345643+00:00"
     },
     {
-      "key": "cdf68a05d240d1031ccf",
-      "item_id": "cdf68a05d240d1031ccf",
-      "title": "【Mac初心者向け】WindowsユーザーがMacを使い始めて最初に苦労したことまとめ",
-      "link": "https://qiita.com/NT_Kitaguchi/items/cdf68a05d240d1031ccf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nMacを使ってみたくなり、先日初めてMacBookを購入した。\nただ、実際に使い始めてみると、これまでWindowsしか使ってこなかった自分には想像以上に戸惑うことが多かった。\n「コピーできない…」\n「Deleteキーの動きが違う…」\n「Finderって何？」\n...",
-      "published": "2026-07-16T09:23:39+09:00",
-      "updated": "2026-07-16T09:23:39+09:00",
-      "author_name": "NT_Kitaguchi",
-      "likes_count": 15,
-      "last_seen": "2026-07-18T06:14:34.997344082+00:00"
-    },
-    {
       "key": "cea574550613de33a114",
       "item_id": "cea574550613de33a114",
       "title": "CLAUDE.md は21セクションか、8行か — 公式ドキュメントで決着をつけた",
@@ -4415,18 +4367,6 @@
       "author_name": "suwa_nobu",
       "likes_count": 20,
       "last_seen": "2026-09-12T05:39:54.073583710+00:00"
-    },
-    {
-      "key": "ced302095c8ddd3c8213",
-      "item_id": "ced302095c8ddd3c8213",
-      "title": "「頑張ってます」はもう卒業。エンジニアが今日から使える『数値化の鬼』の思考法",
-      "link": "https://qiita.com/Nao52/items/ced302095c8ddd3c8213?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "■ この記事はこんな人におすすめ\n\n評価面談で「頑張ってるのは分かるんだけどね…」と言われたことがある人\n自分の成長が正しい方向に向かっているのか不安な人\n実務未経験からエンジニアとして評価されたい人\nチームメンバーの成長を支援する立場になったばかりの人\n「気合い」と「根...",
-      "published": "2026-07-15T09:07:13+09:00",
-      "updated": "2026-07-17T16:51:46+09:00",
-      "author_name": "Nao52",
-      "likes_count": 120,
-      "last_seen": "2026-07-18T06:14:34.997344082+00:00"
     },
     {
       "key": "ced6a0aa744379d338b6",
@@ -4977,8 +4917,8 @@
       "published": "2026-09-14T13:55:10+09:00",
       "updated": "2026-09-14T13:55:11+09:00",
       "author_name": "take-yoda",
-      "likes_count": 138,
-      "last_seen": "2026-09-16T05:55:32.278200003+00:00"
+      "likes_count": 162,
+      "last_seen": "2026-09-16T11:24:13.602269161+00:00"
     },
     {
       "key": "e60cb25d3b10d7a2f316",
@@ -5289,20 +5229,20 @@
       "published": "2026-09-14T21:34:39+09:00",
       "updated": "2026-09-14T21:34:39+09:00",
       "author_name": "rana_kualu",
-      "likes_count": 13,
-      "last_seen": "2026-09-16T05:55:32.278200003+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-09-16T11:24:13.602269161+00:00"
     },
     {
       "key": "f856f09d7bf23cdd0ae6",
       "item_id": "f856f09d7bf23cdd0ae6",
       "title": "SQL構文は日本語で例えると理解しやすい",
       "link": "https://qiita.com/nolanlover0527/items/f856f09d7bf23cdd0ae6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "SQLの基本構文\nまずは基本形です。\nSELECT カラム名\nFROM テーブル名\nWHERE 条件\nGROUP BY カラム名\nHAVING 条件\nORDER BY カラム名\nLIMIT 件数\n\nこれを見て「何が何やら」となった方も多いと思います。順番に日本語へ変換して...",
+      "summary": "SQLの基本構文\nまずは基本形です。\nSELECT カラム名\nFROM テーブル名\nWHERE 条件\nGROUP BY カラム名\nHAVING 条件\nORDER BY カラム名\nLIMIT 件数\n\nこれを見て「何が何やら」となった方も多いと思います。順番に日本語へ変...",
       "published": "2026-09-15T09:05:46+09:00",
       "updated": "2026-09-16T08:57:13+09:00",
       "author_name": "nolanlover0527",
-      "likes_count": 11,
-      "last_seen": "2026-09-16T05:55:32.278200003+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-09-16T11:24:13.602269161+00:00"
     },
     {
       "key": "f8eaad0ddba954e2ebb6",
