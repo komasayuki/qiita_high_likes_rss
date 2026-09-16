@@ -162,6 +162,14 @@ ssh を3回叩いたら、TCP 接続は3本になりますか
 最近暇なので、マルチエージェントLLMに関する40本の論文で提案されているワークフローを再実装してみました。論文で報告されているベンチマーク結果を再現するというよりは、それぞれの...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e5d9ce6618523af1ffc5</id>
+    <title>生成AIが書いたドキュメントを読みたくない</title>
+    <link rel="alternate" href="https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-14T13:55:11+09:00</updated>
+    <summary type="html">Likes: 95&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-09-14T13:55:10+09:00&lt;br/&gt;Updated: 2026-09-14T13:55:11+09:00&lt;br/&gt;株式会社ブレインパッドプロダクト開発部でRtoaster GenAIの開発をしている依田です。
+Claude CodeにDesign docやPRを書かせていて、「情報量は多いのに、何を決めたのかがなかなか頭に入ってこない」と感じたことはないでしょうか。私は何度もあります。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0127a7c5203f44507474</id>
     <title>Mac mini（M4 Pro / 48GB）で「完全ローカル」のLLM + RAG環境を構築してみた</title>
     <link rel="alternate" href="https://qiita.com/y-okayama-tb/items/0127a7c5203f44507474?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -245,14 +253,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 私は新卒でエンジニアになって1年が経ちました。
 生成AIに実装を依頼すると、コードを書く時間そのものは大きく短縮できることを実感しています。
 一方、私のようなジュニアエンジニアの場合、生成されたコードを理解するまでに時間がかかるため、 期待したほど開発全体は速く...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e5d9ce6618523af1ffc5</id>
-    <title>生成AIが書いたドキュメントを読みたくない</title>
-    <link rel="alternate" href="https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-14T13:55:11+09:00</updated>
-    <summary type="html">Likes: 82&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/take-yoda&quot;&gt;take-yoda&lt;/a&gt;&lt;br/&gt;Published: 2026-09-14T13:55:10+09:00&lt;br/&gt;Updated: 2026-09-14T13:55:11+09:00&lt;br/&gt;株式会社ブレインパッドプロダクト開発部でRtoaster GenAIの開発をしている依田です。
-Claude CodeにDesign docやPRを書かせていて、「情報量は多いのに、何を決めたのかがなかなか頭に入ってこない」と感じたことはないでしょうか。私は何度もあります。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0134c989bb86519eec2e</id>
@@ -2007,6 +2007,13 @@ AIエージェントのコーディング環境として、Docker Sandboxesを�
 本稿執筆時点ではまだExperimentalな扱いなので、まとめ記事を書くタイミングが難しいのだけど、とは言え「やってみた」以上の情報がまだまだWeb上に少なく、周りに勧...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c42534895d5ca89b91b1</id>
+    <title>2026年9月時点 Microsoft の AI 戦略について</title>
+    <link rel="alternate" href="https://qiita.com/yoshioterada/items/c42534895d5ca89b91b1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-14T10:44:23+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yoshioterada&quot;&gt;yoshioterada&lt;/a&gt;&lt;br/&gt;Published: 2026-09-14T10:44:21+09:00&lt;br/&gt;Updated: 2026-09-14T10:44:23+09:00&lt;br/&gt;Microsoft の AI に関連するサービスは非常に多くあります。今まで私は開発中心だったため、M365関連を含む全体的な知識のアップデートが必要で、できるだけ早急にさまざまな技術やサービスをキャッチアップしたいと考えています。元々この資料は自分自身で理解するために、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:acb61138c4550eef4803</id>
     <title>14MBのAIモデルは本当に動いた — DLL 1個・RAM 37MB・1回0.5秒、ただし日本語は0/5</title>
     <link rel="alternate" href="https://qiita.com/jqit_suwa/items/acb61138c4550eef4803?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2203,17 +2210,5 @@ C# で出来ること一覧 2026年版（.NET 10） という記事を読んで�
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-15T09:06:10+09:00&lt;br/&gt;Updated: 2026-09-15T09:18:39+09:00&lt;br/&gt;Claude Code 2.1.271（2026-09-14）の changelog に、こう書かれています。
 
 Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom and pl...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:522f0bcac1532e23048d</id>
-    <title>【体験談】1年目、バッチ実装で3ヶ月溶かした話 — 『世界一流エンジニアの思考法』で振り返る</title>
-    <link rel="alternate" href="https://qiita.com/suneo46/items/522f0bcac1532e23048d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-10T13:47:07+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suneo46&quot;&gt;suneo46&lt;/a&gt;&lt;br/&gt;Published: 2026-09-10T13:47:07+09:00&lt;br/&gt;Updated: 2026-09-10T13:47:07+09:00&lt;br/&gt;はじめに
-エンジニアになって4年目になりました。
-1年目の頃、あるバッチ処理の実装を行ったことがあります。
-見積もりは1週間でした。しかし実際は、完成するまでに3ヶ月かかりました。
-原因は、技術的に難しかったからではありません。
-「何をすればいいか分からない」「何が分から...</summary>
   </entry>
 </feed>
