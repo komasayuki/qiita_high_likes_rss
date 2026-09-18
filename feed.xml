@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-09-18T01:50:45+09:00</updated>
+  <updated>2026-09-18T16:02:13+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -114,6 +114,16 @@ WBS（作業分解構成図）をスプレッドシートで管理している�
 AIに渡そうとすると、まずCSVに書き出すところから始まる...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:44f20ed515b9734afb26</id>
+    <title>Jevとは何か？ 従来型LLMやAIエージェントとの違いを理解する</title>
+    <link rel="alternate" href="https://qiita.com/nasuvitz/items/44f20ed515b9734afb26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-18T01:50:45+09:00</updated>
+    <summary type="html">Likes: 114&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nasuvitz&quot;&gt;nasuvitz&lt;/a&gt;&lt;br/&gt;Published: 2026-09-17T22:26:18+09:00&lt;br/&gt;Updated: 2026-09-18T01:50:45+09:00&lt;br/&gt;はじめに
+Jevは、文章や業務データを読み取り、分類・採点・条件判定の結果を確率付きで返すAIモデルです。
+モデルが返す結果は、アプリケーションが処理を分岐する場面に利用することが想定されています。プログラムは条件を明確に判定し、複雑な制御に応用することが可能です。
+この...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:24ee07122dd4d0523069</id>
     <title>Docker環境をガチで軽量化するための鉄板設定まとめ</title>
     <link rel="alternate" href="https://qiita.com/nolanlover0527/items/24ee07122dd4d0523069?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -159,14 +169,6 @@ ssh を3回叩いたら、TCP 接続は3本になりますか
 全部説明...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:e9ee8e26cfdc40a8c2f9</id>
-    <title>マルチエージェントに関する論文を40本再実装してみて分かったこと</title>
-    <link rel="alternate" href="https://qiita.com/Koukyosyumei/items/e9ee8e26cfdc40a8c2f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-20T03:45:51+09:00</updated>
-    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Koukyosyumei&quot;&gt;Koukyosyumei&lt;/a&gt;&lt;br/&gt;Published: 2026-07-17T07:54:35+09:00&lt;br/&gt;Updated: 2026-07-20T03:45:51+09:00&lt;br/&gt;コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。
-最近暇なので、マルチエージェントLLMに関する40本の論文で提案されているワークフローを再実装してみました。論文で報告されているベンチマーク結果を再現するというよりは、それぞれの...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:0127a7c5203f44507474</id>
     <title>Mac mini（M4 Pro / 48GB）で「完全ローカル」のLLM + RAG環境を構築してみた</title>
     <link rel="alternate" href="https://qiita.com/y-okayama-tb/items/0127a7c5203f44507474?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -198,16 +200,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 尊敬する...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:44f20ed515b9734afb26</id>
-    <title>Jevとは何か？ 従来型LLMやAIエージェントとの違いを理解する</title>
-    <link rel="alternate" href="https://qiita.com/nasuvitz/items/44f20ed515b9734afb26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-18T01:50:45+09:00</updated>
-    <summary type="html">Likes: 88&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nasuvitz&quot;&gt;nasuvitz&lt;/a&gt;&lt;br/&gt;Published: 2026-09-17T22:26:18+09:00&lt;br/&gt;Updated: 2026-09-18T01:50:45+09:00&lt;br/&gt;はじめに
-Jevは、文章や業務データを読み取り、分類・採点・条件判定の結果を確率付きで返すAIモデルです。
-モデルが返す結果は、アプリケーションが処理を分岐する場面に利用することが想定されています。プログラムは条件を明確に判定し、複雑な制御に応用することが可能です。
-この...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5f21adcca8aff1b0357a</id>
@@ -458,6 +450,19 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 新人のうち...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7f388029f8821fc3ea6c</id>
+    <title>元ヤフーエンジニア社長が考える、AI時代の採用基準</title>
+    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/7f388029f8821fc3ea6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-16T15:20:43+09:00</updated>
+    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-09-16T15:20:43+09:00&lt;br/&gt;Updated: 2026-09-16T15:20:43+09:00&lt;br/&gt;スキルより先に見ているものがある
+
+こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
+https://prum.jp/
+面接だと、つい「スキルをどうアピールしよう」と考えてしまいますよね。
+確かに、スキルがあるに越したことはありません。
+で...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ff38655fed51a2920910</id>
     <title>コードベースのナレッジ化なら、LLM Wikiで十分かもしれない</title>
     <link rel="alternate" href="https://qiita.com/Syoitu/items/ff38655fed51a2920910?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -526,19 +531,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 はじめに...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7f388029f8821fc3ea6c</id>
-    <title>元ヤフーエンジニア社長が考える、AI時代の採用基準</title>
-    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/7f388029f8821fc3ea6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-16T15:20:43+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-09-16T15:20:43+09:00&lt;br/&gt;Updated: 2026-09-16T15:20:43+09:00&lt;br/&gt;スキルより先に見ているものがある
-
-こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
-https://prum.jp/
-面接だと、つい「スキルをどうアピールしよう」と考えてしまいますよね。
-確かに、スキルがあるに越したことはありません。
-で...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2aff0b2b40b9d0bfda91</id>
@@ -1830,36 +1822,6 @@ iPhoneのアップデート通知で見る「iOS 26」。あの「OS」って結
 こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:d732b94ff0f68c5cd1ab</id>
-    <title>バイブコーディング(笑) と言われないための考え方</title>
-    <link rel="alternate" href="https://qiita.com/fallout/items/d732b94ff0f68c5cd1ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-19T16:57:13+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fallout&quot;&gt;fallout&lt;/a&gt;&lt;br/&gt;Published: 2026-07-17T16:56:50+09:00&lt;br/&gt;Updated: 2026-07-19T16:57:13+09:00&lt;br/&gt;「(笑)」を最初に付けたのは Karpathy 本人
-2025年2月2日の Andrej Karpathy のポスト（原文）:
-
-I &quot;Accept All&quot; always, I don&apos;t read the diffs anymore.  (...) It&apos;s not ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3ace375e1b8aafd014a2</id>
-    <title>そのSQL、本当に大丈夫？実務で意識したい5つの基本ルール</title>
-    <link rel="alternate" href="https://qiita.com/T-furukubo/items/3ace375e1b8aafd014a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-17T10:25:39+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/T-furukubo&quot;&gt;T-furukubo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-17T10:25:37+09:00&lt;br/&gt;Updated: 2026-07-17T10:25:39+09:00&lt;br/&gt;目次
-
-はじめに
-SELECT * を多用しない
-WHERE句を意識する
-ORDER BYを書こう
-NULLの扱いを理解する
-エイリアスを活用する
-まとめ
-
-SQLを書く前に知っておきたい5つの基本ルール
-
-はじめに
-SQLはデータベースを扱ううえで欠かせない言語ですが...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:d09be87764a66c9077f0</id>
     <title>コードレビューで身についた技術と、メンタルを守るための習慣</title>
     <link rel="alternate" href="https://qiita.com/NekoByte/items/d09be87764a66c9077f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1963,6 +1925,18 @@ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-cu
     <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minamijoyo&quot;&gt;minamijoyo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-17T19:25:00+09:00&lt;br/&gt;Updated: 2026-07-18T15:37:49+09:00&lt;br/&gt;はじめに
 AIエージェントのコーディング環境として、Docker Sandboxesを使っています。
 本稿執筆時点ではまだExperimentalな扱いなので、まとめ記事を書くタイミングが難しいのだけど、とは言え「やってみた」以上の情報がまだまだWeb上に少なく、周りに勧...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b5805321eaef46b75459</id>
+    <title>元ヤフーエンジニア社長が考える、AIを使いこなす人と使えない人の決定的な差</title>
+    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/b5805321eaef46b75459?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-18T16:02:13+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T16:02:13+09:00&lt;br/&gt;Updated: 2026-09-18T16:02:13+09:00&lt;br/&gt;「一部だけ任せる」か「全部任せられないか考える」か
+
+こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
+▶ PRUM採用ページはこちら
+「AI使ってますか?」と聞かれたら、たぶん今はほとんどの人が「はい」と答えると思います。
+でも僕は、AI...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:acb61138c4550eef4803</id>
@@ -2190,5 +2164,24 @@ Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom and pl
     <updated>2026-08-31T08:35:16+09:00</updated>
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T08:35:15+09:00&lt;br/&gt;Updated: 2026-08-31T08:35:16+09:00&lt;br/&gt;GitHub Trending に、スター 60,480 の Agent Skill が上がっていました。
 Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横断して調べ、upvote や likes といった実際の反応で...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:575cc42b5dafe8697447</id>
+    <title>skills.shのおすすめスキルまとめ</title>
+    <link rel="alternate" href="https://qiita.com/hokutoh/items/575cc42b5dafe8697447?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-22T15:31:24+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hokutoh&quot;&gt;hokutoh&lt;/a&gt;&lt;br/&gt;Published: 2026-07-19T15:19:46+09:00&lt;br/&gt;Updated: 2026-07-22T15:31:24+09:00&lt;br/&gt;はじめに
+「skillsが便利らしい」こう聞いて「じゃあ入れようかでも何をどうやって？」で止まっている人もいらっしゃるのではないでしょうか。
+そこでskillsがたくさん置いてあるskills.shの登場です。
+・・・とか言われましても「超たくさんあるんだけど、結局どれ入...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ed946cd5d87d2ae0ec03</id>
+    <title>AIとともに、ふりかえりの総合サイト hurikaeri.jp を作りました（手法カタログ144種・全無料）</title>
+    <link rel="alternate" href="https://qiita.com/viva_tweet_x/items/ed946cd5d87d2ae0ec03?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-07-21T17:18:23+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/viva_tweet_x&quot;&gt;viva_tweet_x&lt;/a&gt;&lt;br/&gt;Published: 2026-07-21T08:22:25+09:00&lt;br/&gt;Updated: 2026-07-21T17:18:23+09:00&lt;br/&gt;ふりかえりの総合サイト hurikaeri.jp を作りました（手法カタログ144種・全無料）
+こんにちは、びば（森一樹）です。「ふりかえりガイドブック」「ふりかえり読本」シリーズの執筆や、ふりかえりカンファレンスの主催をしています。
+このたび、ふりかえりの総合サイトを公...</summary>
   </entry>
 </feed>
