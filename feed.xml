@@ -118,7 +118,7 @@ AIに渡そうとすると、まずCSVに書き出すところから始まる...
     <title>Jevとは何か？ 従来型LLMやAIエージェントとの違いを理解する</title>
     <link rel="alternate" href="https://qiita.com/nasuvitz/items/44f20ed515b9734afb26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-09-18T01:50:45+09:00</updated>
-    <summary type="html">Likes: 114&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nasuvitz&quot;&gt;nasuvitz&lt;/a&gt;&lt;br/&gt;Published: 2026-09-17T22:26:18+09:00&lt;br/&gt;Updated: 2026-09-18T01:50:45+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 129&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nasuvitz&quot;&gt;nasuvitz&lt;/a&gt;&lt;br/&gt;Published: 2026-09-17T22:26:18+09:00&lt;br/&gt;Updated: 2026-09-18T01:50:45+09:00&lt;br/&gt;はじめに
 Jevは、文章や業務データを読み取り、分類・採点・条件判定の結果を確率付きで返すAIモデルです。
 モデルが返す結果は、アプリケーションが処理を分岐する場面に利用することが想定されています。プログラムは条件を明確に判定し、複雑な制御に応用することが可能です。
 この...</summary>
@@ -454,7 +454,7 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <title>元ヤフーエンジニア社長が考える、AI時代の採用基準</title>
     <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/7f388029f8821fc3ea6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-09-16T15:20:43+09:00</updated>
-    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-09-16T15:20:43+09:00&lt;br/&gt;Updated: 2026-09-16T15:20:43+09:00&lt;br/&gt;スキルより先に見ているものがある
+    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-09-16T15:20:43+09:00&lt;br/&gt;Updated: 2026-09-16T15:20:43+09:00&lt;br/&gt;スキルより先に見ているものがある
 
 こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
 https://prum.jp/
@@ -1766,6 +1766,18 @@ TL;DR
 しかし、実際の開発業務には、要件や背景の把握、実装後の報告、知見のドキュメント化など、コードを書く以外にも多くの作業がありま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b5805321eaef46b75459</id>
+    <title>元ヤフーエンジニア社長が考える、AIを使いこなす人と使えない人の決定的な差</title>
+    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/b5805321eaef46b75459?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-18T16:02:13+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T16:02:13+09:00&lt;br/&gt;Updated: 2026-09-18T16:02:13+09:00&lt;br/&gt;「一部だけ任せる」か「全部任せられないか考える」か
+
+こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
+▶ PRUM採用ページはこちら
+「AI使ってますか?」と聞かれたら、たぶん今はほとんどの人が「はい」と答えると思います。
+でも僕は、AI...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:92c094b554d090b54a17</id>
     <title>terraform plan -minimal-refreshでplanを爆速にする</title>
     <link rel="alternate" href="https://qiita.com/minamijoyo/items/92c094b554d090b54a17?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1925,18 +1937,6 @@ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-cu
     <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minamijoyo&quot;&gt;minamijoyo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-17T19:25:00+09:00&lt;br/&gt;Updated: 2026-07-18T15:37:49+09:00&lt;br/&gt;はじめに
 AIエージェントのコーディング環境として、Docker Sandboxesを使っています。
 本稿執筆時点ではまだExperimentalな扱いなので、まとめ記事を書くタイミングが難しいのだけど、とは言え「やってみた」以上の情報がまだまだWeb上に少なく、周りに勧...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b5805321eaef46b75459</id>
-    <title>元ヤフーエンジニア社長が考える、AIを使いこなす人と使えない人の決定的な差</title>
-    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/b5805321eaef46b75459?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-18T16:02:13+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T16:02:13+09:00&lt;br/&gt;Updated: 2026-09-18T16:02:13+09:00&lt;br/&gt;「一部だけ任せる」か「全部任せられないか考える」か
-
-こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
-▶ PRUM採用ページはこちら
-「AI使ってますか?」と聞かれたら、たぶん今はほとんどの人が「はい」と答えると思います。
-でも僕は、AI...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:acb61138c4550eef4803</id>
