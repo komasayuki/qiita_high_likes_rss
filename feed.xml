@@ -79,7 +79,7 @@ C/C++（Emscripten...</summary>
     <title>Jevとは何か？ 従来型LLMやAIエージェントとの違いを理解する</title>
     <link rel="alternate" href="https://qiita.com/nasuvitz/items/44f20ed515b9734afb26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-09-18T01:50:45+09:00</updated>
-    <summary type="html">Likes: 179&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nasuvitz&quot;&gt;nasuvitz&lt;/a&gt;&lt;br/&gt;Published: 2026-09-17T22:26:18+09:00&lt;br/&gt;Updated: 2026-09-18T01:50:45+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 180&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nasuvitz&quot;&gt;nasuvitz&lt;/a&gt;&lt;br/&gt;Published: 2026-09-17T22:26:18+09:00&lt;br/&gt;Updated: 2026-09-18T01:50:45+09:00&lt;br/&gt;はじめに
 Jevは、文章や業務データを読み取り、分類・採点・条件判定の結果を確率付きで返すAIモデルです。
 モデルが返す結果は、アプリケーションが処理を分岐する場面に利用することが想定されています。プログラムは条件を明確に判定し、複雑な制御に応用することが可能です。
 この...</summary>
@@ -826,15 +826,6 @@ B「8行で十分。増やすより削るほうが効く」
     <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/musenmai&quot;&gt;musenmai&lt;/a&gt;&lt;br/&gt;Published: 2026-07-25T19:28:39+09:00&lt;br/&gt;Updated: 2026-07-25T19:28:39+09:00&lt;br/&gt;つい先日、プロジェクト内に点在するハードコーディングを滅ぼすタスクを行っていました。
 滅ぼしながらも「ハードコーディングが許されるパターンはないのか？」ということが気になり、調べてみました。
 簡単にいうと、大事なのは、ハードコーディングされた値の意味・変更理由・影響範囲がコ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:42b892805eb1d754109c</id>
-    <title>【徹底解説】文系でもわかる！機械学習に入門しよう</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/42b892805eb1d754109c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-18T17:14:07+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-07-18T17:14:07+09:00&lt;br/&gt;Updated: 2026-07-18T17:14:07+09:00&lt;br/&gt;はじめに
-こんばんは、元ゴリゴリ文系（ゴリ文）のmirukyです。
-機械学習、と聞くと「うげっ」と拒否反応を示す半年前の自分がいました。大学でCS（コンピューターサイエンス）を専攻している人の領分だという勝手なイメージと、複雑な数式が無限に出てくる先入観があったためです...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:26cc98906fbae40e4e71</id>
@@ -2187,5 +2178,18 @@ Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/viva_tweet_x&quot;&gt;viva_tweet_x&lt;/a&gt;&lt;br/&gt;Published: 2026-07-21T08:22:25+09:00&lt;br/&gt;Updated: 2026-07-21T17:18:23+09:00&lt;br/&gt;ふりかえりの総合サイト hurikaeri.jp を作りました（手法カタログ144種・全無料）
 こんにちは、びば（森一樹）です。「ふりかえりガイドブック」「ふりかえり読本」シリーズの執筆や、ふりかえりカンファレンスの主催をしています。
 このたび、ふりかえりの総合サイトを公...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d49739b934606d4abdbd</id>
+    <title>Claude Code の設定でハマる箇所まとめ</title>
+    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/d49739b934606d4abdbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-20T09:31:57+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-20T09:31:56+09:00&lt;br/&gt;Updated: 2026-08-20T09:31:57+09:00&lt;br/&gt;Claude Code を使っていて、こういう目に遭ったことはないでしょうか。
+
+公式に「既定でON」と書いてある機能が、なぜか使えない
+昨日まで出ていたタスクリストが、いつの間にか出なくなった
+設定を書いたのに、何も起きない。エラーも出ない
+
+原因の多くは、公式ドキュメン...</summary>
   </entry>
 </feed>
