@@ -79,7 +79,7 @@ C/C++（Emscripten...</summary>
     <title>Jevとは何か？ 従来型LLMやAIエージェントとの違いを理解する</title>
     <link rel="alternate" href="https://qiita.com/nasuvitz/items/44f20ed515b9734afb26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-09-18T01:50:45+09:00</updated>
-    <summary type="html">Likes: 180&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nasuvitz&quot;&gt;nasuvitz&lt;/a&gt;&lt;br/&gt;Published: 2026-09-17T22:26:18+09:00&lt;br/&gt;Updated: 2026-09-18T01:50:45+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 181&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nasuvitz&quot;&gt;nasuvitz&lt;/a&gt;&lt;br/&gt;Published: 2026-09-17T22:26:18+09:00&lt;br/&gt;Updated: 2026-09-18T01:50:45+09:00&lt;br/&gt;はじめに
 Jevは、文章や業務データを読み取り、分類・採点・条件判定の結果を確率付きで返すAIモデルです。
 モデルが返す結果は、アプリケーションが処理を分岐する場面に利用することが想定されています。プログラムは条件を明確に判定し、複雑な制御に応用することが可能です。
 この...</summary>
@@ -594,6 +594,18 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 APIの料金体系、利用条件...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b5805321eaef46b75459</id>
+    <title>元ヤフーエンジニア社長が考える、AIを使いこなす人と使えない人の決定的な差</title>
+    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/b5805321eaef46b75459?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-18T16:02:13+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T16:02:13+09:00&lt;br/&gt;Updated: 2026-09-18T16:02:13+09:00&lt;br/&gt;「一部だけ任せる」か「全部任せられないか考える」か
+
+こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
+▶ PRUM採用ページはこちら
+「AI使ってますか?」と聞かれたら、たぶん今はほとんどの人が「はい」と答えると思います。
+でも僕は、AI...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a031d4928ddb7caa0784</id>
     <title>うっかり世界最強のWasmコンパイラに並行処理（マルチスレッド）を載せたら、なぜか1.46KBまで縮んだ件</title>
     <link rel="alternate" href="https://qiita.com/kanryu/items/a031d4928ddb7caa0784?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -601,18 +613,6 @@ APIの料金体系、利用条件...</summary>
     <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kanryu&quot;&gt;kanryu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-11T20:50:10+09:00&lt;br/&gt;Updated: 2026-09-11T21:15:58+09:00&lt;br/&gt;はじめに
 先日投稿した「うっかり世界最強のWasmコンパイラを作ってしまった件」が、気づけば2万PVを超え、多くの反響やスターをいただきました。読んでくださった方、本当にありがとうございます。
 前回の記事では「Goライクな構文のまま、libcフリーでわずか2.56KBのW...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b5805321eaef46b75459</id>
-    <title>元ヤフーエンジニア社長が考える、AIを使いこなす人と使えない人の決定的な差</title>
-    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/b5805321eaef46b75459?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-18T16:02:13+09:00</updated>
-    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T16:02:13+09:00&lt;br/&gt;Updated: 2026-09-18T16:02:13+09:00&lt;br/&gt;「一部だけ任せる」か「全部任せられないか考える」か
-
-こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
-▶ PRUM採用ページはこちら
-「AI使ってますか?」と聞かれたら、たぶん今はほとんどの人が「はい」と答えると思います。
-でも僕は、AI...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:224f55bc85b813930f61</id>
@@ -974,6 +974,19 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ータスクを...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:472325ce548da370ed5d</id>
+    <title>話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説</title>
+    <link rel="alternate" href="https://qiita.com/yushibats/items/472325ce548da370ed5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-18T22:07:53+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T14:21:55+09:00&lt;br/&gt;Updated: 2026-09-18T22:07:53+09:00&lt;br/&gt;はじめに
+Jevが話題ですね。
+文章を書かないAIと紹介されていますが、では代わりに何を返すんでしょうか。
+この記事は、Jevが何をするものかの解像度を上げるために自分なりに整理したものです。
+
+ざっくりまとめ
+Jevは、文章で書かれた状況を読み、あらかじめ用意された選択...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:dec5350f38c748cb5b6e</id>
     <title>「効率よく成長したい」は悪くない。でも、近道ばかり探してしまうと損をする。</title>
     <link rel="alternate" href="https://qiita.com/m__ikeda/items/dec5350f38c748cb5b6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1126,19 +1139,6 @@ Added a built-in &quot;Concise&quot; output style: Claude leads with result...</
 「Rubyってインタプリタ言語だから、1行ずつ翻訳しながら実行してるんでしょ？」と思っていませんか？（私は思っていました🫣）
 ……実は現代のRubyでは不正確なんです 😱
 実行モデルを一から調べ直したところ、rails s の裏側で何が起きているのかまで一本...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:472325ce548da370ed5d</id>
-    <title>話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説</title>
-    <link rel="alternate" href="https://qiita.com/yushibats/items/472325ce548da370ed5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-18T22:07:53+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T14:21:55+09:00&lt;br/&gt;Updated: 2026-09-18T22:07:53+09:00&lt;br/&gt;はじめに
-Jevが話題ですね。
-文章を書かないAIと紹介されていますが、では代わりに何を返すんでしょうか。
-この記事は、Jevが何をするものかの解像度を上げるために自分なりに整理したものです。
-
-ざっくりまとめ
-Jevは、文章で書かれた状況を読み、あらかじめ用意された選択...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1960963c3c59591763ab</id>
@@ -1557,6 +1557,18 @@ We...</summary>
 本記事では、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6b4e0a5e4946d1a941ac</id>
+    <title>実はコミュニティ運営をやめようと思っていました</title>
+    <link rel="alternate" href="https://qiita.com/sadabon444/items/6b4e0a5e4946d1a941ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-19T08:59:36+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T08:51:25+09:00&lt;br/&gt;Updated: 2026-09-19T08:59:36+09:00&lt;br/&gt;おそらく初めて打ち明けることですが、コミュニティ運営をやめようと思っていました。
+
+運営している社外コミュニティ
+Copilotを学ぶ「なんでもCopilot」に加えて、AWSユーザーグループの「JAWS-UG Sales」の運営メンバーです。
+
+別件と重なり続け...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:aa30a54fc6f0849385a7</id>
     <title>AWSのインフラ導入でAIを使っている箇所と手でやっている箇所</title>
     <link rel="alternate" href="https://qiita.com/infra365/items/aa30a54fc6f0849385a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1617,18 +1629,6 @@ We...</summary>
     <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t-kurasawa&quot;&gt;t-kurasawa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-21T20:45:13+09:00&lt;br/&gt;Updated: 2026-07-21T20:45:14+09:00&lt;br/&gt;はじめに
 2026年7月、shadcn/ui の公式チェンジログに「Base UI as the Default」という一文が追加されました。新規プロジェクトを作成すると、これまでの Radix UI ではなく Base UI が標準の基盤になる、という内容です。
 「sh...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6b4e0a5e4946d1a941ac</id>
-    <title>実はコミュニティ運営をやめようと思っていました</title>
-    <link rel="alternate" href="https://qiita.com/sadabon444/items/6b4e0a5e4946d1a941ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-19T08:59:36+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T08:51:25+09:00&lt;br/&gt;Updated: 2026-09-19T08:59:36+09:00&lt;br/&gt;おそらく初めて打ち明けることですが、コミュニティ運営をやめようと思っていました。
-
-運営している社外コミュニティ
-Copilotを学ぶ「なんでもCopilot」に加えて、AWSユーザーグループの「JAWS-UG Sales」の運営メンバーです。
-
-別件と重なり続け...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:668edf1abb33d35d5630</id>
