@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-09-19T10:51:19+09:00</updated>
+  <updated>2026-09-20T14:51:52+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -33,14 +33,6 @@ ChatGPT（GPT Image）で資料やWebサイト用のイラストを作ってい�
 線が均一すぎる、グラデーションが滑らかすぎる、顔が整いすぎている、...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:16fd0b847aa68c152e00</id>
-    <title>セキュリティの勉強になるサイト138選(2026年版)</title>
-    <link rel="alternate" href="https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-19T13:44:39+09:00</updated>
-    <summary type="html">Likes: 293&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nakanishi_RareTECH&quot;&gt;Nakanishi_RareTECH&lt;/a&gt;&lt;br/&gt;Published: 2026-07-19T13:36:00+09:00&lt;br/&gt;Updated: 2026-07-19T13:44:39+09:00&lt;br/&gt;セキュリティを独学するときに役立つサイトを、Webアプリ・クラウド・CTF・マルウェア解析・資格まで分野ごとにまとめました。ほとんどが無料で、ブラウザだけ、あるいはDockerで自分のマシンに立てればすぐ試せます。
-全部で138本。リンクはすべて2026年7月17日に到達を...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:65f7824679ddf171a93d</id>
     <title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした</title>
     <link rel="alternate" href="https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -65,6 +57,16 @@ AI に貼る。
 Claude CodeにDesign docやPRを書かせていて、「情報量は多いのに、何を決めたのかがなかなか頭に入ってこない」と感じたことはないでしょうか。私は何度もあります。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:44f20ed515b9734afb26</id>
+    <title>Jevとは何か？ 従来型LLMやAIエージェントとの違いを理解する</title>
+    <link rel="alternate" href="https://qiita.com/nasuvitz/items/44f20ed515b9734afb26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-18T01:50:45+09:00</updated>
+    <summary type="html">Likes: 194&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nasuvitz&quot;&gt;nasuvitz&lt;/a&gt;&lt;br/&gt;Published: 2026-09-17T22:26:18+09:00&lt;br/&gt;Updated: 2026-09-18T01:50:45+09:00&lt;br/&gt;はじめに
+Jevは、文章や業務データを読み取り、分類・採点・条件判定の結果を確率付きで返すAIモデルです。
+モデルが返す結果は、アプリケーションが処理を分岐する場面に利用することが想定されています。プログラムは条件を明確に判定し、複雑な制御に応用することが可能です。
+この...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:95147e22ed5ac542ba58</id>
     <title>うっかり世界最強のWasmコンパイラを作ってしまった件</title>
     <link rel="alternate" href="https://qiita.com/kanryu/items/95147e22ed5ac542ba58?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -73,16 +75,6 @@ Claude CodeにDesign docやPRを書かせていて、「情報量は多いのに
 ブラウザで高速なバイナリ処理や計算ロジックを動かしたいとき、WebAssembly（Wasm）の導入を検討したことのあるWebエンジニアは多いはずです。しかし、いざ手を出そうとすると、常に過剰なトレードオフに突き当たります。
 
 C/C++（Emscripten...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:44f20ed515b9734afb26</id>
-    <title>Jevとは何か？ 従来型LLMやAIエージェントとの違いを理解する</title>
-    <link rel="alternate" href="https://qiita.com/nasuvitz/items/44f20ed515b9734afb26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-18T01:50:45+09:00</updated>
-    <summary type="html">Likes: 187&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nasuvitz&quot;&gt;nasuvitz&lt;/a&gt;&lt;br/&gt;Published: 2026-09-17T22:26:18+09:00&lt;br/&gt;Updated: 2026-09-18T01:50:45+09:00&lt;br/&gt;はじめに
-Jevは、文章や業務データを読み取り、分類・採点・条件判定の結果を確率付きで返すAIモデルです。
-モデルが返す結果は、アプリケーションが処理を分岐する場面に利用することが想定されています。プログラムは条件を明確に判定し、複雑な制御に応用することが可能です。
-この...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fe4b1810f45e4b6df166</id>
@@ -480,17 +472,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yoshioterada&quot;&gt;yoshioterada&lt;/a&gt;&lt;br/&gt;Published: 2026-09-14T10:44:21+09:00&lt;br/&gt;Updated: 2026-09-14T10:44:23+09:00&lt;br/&gt;Microsoft の AI に関連するサービスは非常に多くあります。今まで私は開発中心だったため、M365関連を含む全体的な知識のアップデートが必要で、できるだけ早急にさまざまな技術やサービスをキャッチアップしたいと考えています。元々この資料は自分自身で理解するために、...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3e4597bc50695fa9bf79</id>
-    <title>白って1600色あんねん！</title>
-    <link rel="alternate" href="https://qiita.com/ishi720/items/3e4597bc50695fa9bf79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-19T09:04:40+09:00</updated>
-    <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ishi720&quot;&gt;ishi720&lt;/a&gt;&lt;br/&gt;Published: 2026-07-19T09:02:52+09:00&lt;br/&gt;Updated: 2026-07-19T09:04:40+09:00&lt;br/&gt;はじめに
-「白って200色あんねん」というアンミカさんが残したミームがありますが、200色って少なくないかと思い、本当に白が200色なのか調べてみることにしました。
-
-200色の白の範囲
-RGBそれぞれを256階調(0~255)とした場合の色の数は、16,777,216 ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:8d2dace07c9c7a9d0453</id>
     <title>AIのアウトプットをそのまま出すだけの人にならないために</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -498,6 +479,15 @@ RGBそれぞれを256階調(0~255)とした場合の色の数は、16,777,216 ..
     <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-08-01T15:25:03+09:00&lt;br/&gt;Updated: 2026-08-01T15:25:03+09:00&lt;br/&gt;はじめに
 自分はエンジニアとして4年です。いまは Claude Code と Codex を毎日並列で走らせて仕事をしています。
 この記事は、仕事のかなりの部分をエージェントに渡してみて痛感した「それでも人間に残る仕事は何か」を、自分の失敗込みで整理したポエムです。あなた...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c795cf89d0fd4091c9cb</id>
+    <title>Claude Code が AGENTS.md を読むようになった。ただし1回目のセッションでは読まれない</title>
+    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/c795cf89d0fd4091c9cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-19T10:51:19+09:00</updated>
+    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T10:51:19+09:00&lt;br/&gt;Updated: 2026-09-19T10:51:19+09:00&lt;br/&gt;Claude Code 2.1.277（2026-09-18）の changelog に、こう書かれています。
+
+Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENT...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ced6a0aa744379d338b6</id>
@@ -533,13 +523,13 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 はじめに...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c795cf89d0fd4091c9cb</id>
-    <title>Claude Code が AGENTS.md を読むようになった。ただし1回目のセッションでは読まれない</title>
-    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/c795cf89d0fd4091c9cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-19T10:51:19+09:00</updated>
-    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T10:51:19+09:00&lt;br/&gt;Updated: 2026-09-19T10:51:19+09:00&lt;br/&gt;Claude Code 2.1.277（2026-09-18）の changelog に、こう書かれています。
+    <id>tag:qiita.com,2026:e867493a5cbcdfaa40c9</id>
+    <title>Write() で拒否しても、Claude Code は12回とも書き込んだ。効いていたのは Edit() だけだった</title>
+    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/e867493a5cbcdfaa40c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-18T08:43:55+09:00</updated>
+    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T08:43:54+09:00&lt;br/&gt;Updated: 2026-09-18T08:43:55+09:00&lt;br/&gt;Claude Code 2.1.275（2026-09-17）の changelog に、こう書かれています。
 
-Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENT...</summary>
+Fixed /update-config writing Write(path) permission rules, which file permission...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2aff0b2b40b9d0bfda91</id>
@@ -574,6 +564,18 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b5805321eaef46b75459</id>
+    <title>元ヤフーエンジニア社長が考える、AIを使いこなす人と使えない人の決定的な差</title>
+    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/b5805321eaef46b75459?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-18T16:02:13+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T16:02:13+09:00&lt;br/&gt;Updated: 2026-09-18T16:02:13+09:00&lt;br/&gt;「一部だけ任せる」か「全部任せられないか考える」か
+
+こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
+▶ PRUM採用ページはこちら
+「AI使ってますか?」と聞かれたら、たぶん今はほとんどの人が「はい」と答えると思います。
+でも僕は、AI...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7affa2e2ef22ebf93fa6</id>
     <title>アクセスログから不正アクセスの兆候を見つける7つの集計(nginx/Apache対応・コピペOK)</title>
     <link rel="alternate" href="https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -601,18 +603,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 
 ※本記事の情報は2026年8月時点のものです。
 APIの料金体系、利用条件...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b5805321eaef46b75459</id>
-    <title>元ヤフーエンジニア社長が考える、AIを使いこなす人と使えない人の決定的な差</title>
-    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/b5805321eaef46b75459?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-18T16:02:13+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T16:02:13+09:00&lt;br/&gt;Updated: 2026-09-18T16:02:13+09:00&lt;br/&gt;「一部だけ任せる」か「全部任せられないか考える」か
-
-こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
-▶ PRUM採用ページはこちら
-「AI使ってますか?」と聞かれたら、たぶん今はほとんどの人が「はい」と答えると思います。
-でも僕は、AI...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a031d4928ddb7caa0784</id>
@@ -928,6 +918,19 @@ SQLにはたくさんの構文がありますが、最初から...</summary>
 最近、少しでもエンジニアらしく...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:472325ce548da370ed5d</id>
+    <title>話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説</title>
+    <link rel="alternate" href="https://qiita.com/yushibats/items/472325ce548da370ed5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-18T22:07:53+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T14:21:55+09:00&lt;br/&gt;Updated: 2026-09-18T22:07:53+09:00&lt;br/&gt;はじめに
+Jevが話題ですね。
+文章を書かないAIと紹介されていますが、では代わりに何を返すんでしょうか。
+この記事は、Jevが何をするものかの解像度を上げるために自分なりに整理したものです。
+
+ざっくりまとめ
+Jevは、文章で書かれた状況を読み、あらかじめ用意された選択...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:639d401573c09ab24667</id>
     <title>Cursor Originを触った。第一印象は「Cursor版GitHub」</title>
     <link rel="alternate" href="https://qiita.com/Kinopee/items/639d401573c09ab24667?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -970,6 +973,20 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 転職するか...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8ec3f5fe18c20fab1b2a</id>
+    <title>5分でJev入門（すぐ使う）</title>
+    <link rel="alternate" href="https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-20T14:51:52+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ninagawa123&quot;&gt;Ninagawa123&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T23:29:27+09:00&lt;br/&gt;Updated: 2026-09-20T14:51:52+09:00&lt;br/&gt;せっかちな人むけのコンパクト記事
+
+やること
+Jevをちょっと触ってみます。
+Jevは超短い回答だけを超速で返してくれるAIです。
+その他の凄さや可能性などはプロ驚き屋さんの動画などでどうぞ。
+ここでは本当にちょっと使うところだけやります。
+(※2026年09月19日現在...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b4a550002ebf1e5b8af8</id>
     <title>「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位</title>
     <link rel="alternate" href="https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -981,19 +998,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 ータスクを...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:472325ce548da370ed5d</id>
-    <title>話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説</title>
-    <link rel="alternate" href="https://qiita.com/yushibats/items/472325ce548da370ed5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-18T22:07:53+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T14:21:55+09:00&lt;br/&gt;Updated: 2026-09-18T22:07:53+09:00&lt;br/&gt;はじめに
-Jevが話題ですね。
-文章を書かないAIと紹介されていますが、では代わりに何を返すんでしょうか。
-この記事は、Jevが何をするものかの解像度を上げるために自分なりに整理したものです。
-
-ざっくりまとめ
-Jevは、文章で書かれた状況を読み、あらかじめ用意された選択...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:dec5350f38c748cb5b6e</id>
@@ -1148,6 +1152,18 @@ Added a built-in &quot;Concise&quot; output style: Claude leads with result...</
 「Rubyってインタプリタ言語だから、1行ずつ翻訳しながら実行してるんでしょ？」と思っていませんか？（私は思っていました🫣）
 ……実は現代のRubyでは不正確なんです 😱
 実行モデルを一から調べ直したところ、rails s の裏側で何が起きているのかまで一本...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:6b4e0a5e4946d1a941ac</id>
+    <title>実はコミュニティ運営をやめようと思っていました</title>
+    <link rel="alternate" href="https://qiita.com/sadabon444/items/6b4e0a5e4946d1a941ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-19T08:59:36+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T08:51:25+09:00&lt;br/&gt;Updated: 2026-09-19T08:59:36+09:00&lt;br/&gt;おそらく初めて打ち明けることですが、コミュニティ運営をやめようと思っていました。
+
+運営している社外コミュニティ
+Copilotを学ぶ「なんでもCopilot」に加えて、AWSユーザーグループの「JAWS-UG Sales」の運営メンバーです。
+
+別件と重なり続け...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1960963c3c59591763ab</id>
@@ -1322,18 +1338,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 
 こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
 参考書を読み進めていると、ふと手が止まるこ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6b4e0a5e4946d1a941ac</id>
-    <title>実はコミュニティ運営をやめようと思っていました</title>
-    <link rel="alternate" href="https://qiita.com/sadabon444/items/6b4e0a5e4946d1a941ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-19T08:59:36+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T08:51:25+09:00&lt;br/&gt;Updated: 2026-09-19T08:59:36+09:00&lt;br/&gt;おそらく初めて打ち明けることですが、コミュニティ運営をやめようと思っていました。
-
-運営している社外コミュニティ
-Copilotを学ぶ「なんでもCopilot」に加えて、AWSユーザーグループの「JAWS-UG Sales」の運営メンバーです。
-
-別件と重なり続け...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2d938cedad3a143542af</id>
@@ -2170,16 +2174,6 @@ Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom and pl
 Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横断して調べ、upvote や likes といった実際の反応で...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:575cc42b5dafe8697447</id>
-    <title>skills.shのおすすめスキルまとめ</title>
-    <link rel="alternate" href="https://qiita.com/hokutoh/items/575cc42b5dafe8697447?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-22T15:31:24+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hokutoh&quot;&gt;hokutoh&lt;/a&gt;&lt;br/&gt;Published: 2026-07-19T15:19:46+09:00&lt;br/&gt;Updated: 2026-07-22T15:31:24+09:00&lt;br/&gt;はじめに
-「skillsが便利らしい」こう聞いて「じゃあ入れようかでも何をどうやって？」で止まっている人もいらっしゃるのではないでしょうか。
-そこでskillsがたくさん置いてあるskills.shの登場です。
-・・・とか言われましても「超たくさんあるんだけど、結局どれ入...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:ed946cd5d87d2ae0ec03</id>
     <title>AIとともに、ふりかえりの総合サイト hurikaeri.jp を作りました（手法カタログ144種・全無料）</title>
     <link rel="alternate" href="https://qiita.com/viva_tweet_x/items/ed946cd5d87d2ae0ec03?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2187,5 +2181,18 @@ Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/viva_tweet_x&quot;&gt;viva_tweet_x&lt;/a&gt;&lt;br/&gt;Published: 2026-07-21T08:22:25+09:00&lt;br/&gt;Updated: 2026-07-21T17:18:23+09:00&lt;br/&gt;ふりかえりの総合サイト hurikaeri.jp を作りました（手法カタログ144種・全無料）
 こんにちは、びば（森一樹）です。「ふりかえりガイドブック」「ふりかえり読本」シリーズの執筆や、ふりかえりカンファレンスの主催をしています。
 このたび、ふりかえりの総合サイトを公...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d49739b934606d4abdbd</id>
+    <title>Claude Code の設定でハマる箇所まとめ</title>
+    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/d49739b934606d4abdbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-20T09:31:57+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-20T09:31:56+09:00&lt;br/&gt;Updated: 2026-08-20T09:31:57+09:00&lt;br/&gt;Claude Code を使っていて、こういう目に遭ったことはないでしょうか。
+
+公式に「既定でON」と書いてある機能が、なぜか使えない
+昨日まで出ていたタスクリストが、いつの間にか出なくなった
+設定を書いたのに、何も起きない。エラーも出ない
+
+原因の多くは、公式ドキュメン...</summary>
   </entry>
 </feed>
