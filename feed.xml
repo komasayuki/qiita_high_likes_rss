@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-09-21T08:07:07+09:00</updated>
+  <updated>2026-09-21T11:56:53+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -146,6 +146,22 @@ Claude CodeやCodexのようなAIコーディングエージェントは、コ�
 一方、数十〜...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8ec3f5fe18c20fab1b2a</id>
+    <title>5分でJev入門（すぐ使う）</title>
+    <link rel="alternate" href="https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-21T08:07:07+09:00</updated>
+    <summary type="html">Likes: 105&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ninagawa123&quot;&gt;Ninagawa123&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T23:29:27+09:00&lt;br/&gt;Updated: 2026-09-21T08:07:07+09:00&lt;br/&gt;せっかちな人むけのコンパクト記事
+
+やること
+Jevをちょっと触ってみます。
+Jevは超短い回答だけを超速で返してくれるAIです。
+その他の凄さや可能性などはプロ驚き屋さんの動画などでどうぞ。
+ここでは本当にちょっと使うところだけやります。
+
+補足
+※2026年09月19...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:91115760e4bd66f7995a</id>
     <title>わかるようでわからないssh接続について</title>
     <link rel="alternate" href="https://qiita.com/hrfm1623/items/91115760e4bd66f7995a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -234,20 +250,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <summary type="html">Likes: 87&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/h-nabata&quot;&gt;h-nabata&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T02:34:14+09:00&lt;br/&gt;Updated: 2026-08-24T02:34:14+09:00&lt;br/&gt;はじめに
 先週、LLMCが大規模言語モデル「LLM-jp-4 33B」を公開した。これは約332億パラメーターのDense型のモデルで、今年4月に公開されたMoE型のモデルのDense版に対応する。
 以前、性能比較検証に関してLLMCが以下のような声明を発表している。確か...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8ec3f5fe18c20fab1b2a</id>
-    <title>5分でJev入門（すぐ使う）</title>
-    <link rel="alternate" href="https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-21T08:07:07+09:00</updated>
-    <summary type="html">Likes: 85&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ninagawa123&quot;&gt;Ninagawa123&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T23:29:27+09:00&lt;br/&gt;Updated: 2026-09-21T08:07:07+09:00&lt;br/&gt;せっかちな人むけのコンパクト記事
-
-やること
-Jevをちょっと触ってみます。
-Jevは超短い回答だけを超速で返してくれるAIです。
-その他の凄さや可能性などはプロ驚き屋さんの動画などでどうぞ。
-ここでは本当にちょっと使うところだけやります。
-(※2026年09月19日現在...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f27e52d2f852ba017a7e</id>
@@ -399,14 +401,6 @@ AIで記事を効率的に書くこと自体も素晴らしいのですが、私
 今回は、そんな...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:e54c70c90c6aa84d0f66</id>
-    <title>CLAUDE.md 設計パターン集──プロジェクト規模別に使い分ける7つのテンプレート</title>
-    <link rel="alternate" href="https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-20T10:01:57+09:00</updated>
-    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hikariclaude01&quot;&gt;hikariclaude01&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T10:01:57+09:00&lt;br/&gt;Updated: 2026-07-20T10:01:57+09:00&lt;br/&gt;結論：Claude Code の出力品質を最も左右するのはプロンプトでもモデルでもなく、CLAUDE.md の書き方だった。
-Claude Code を導入したチームの中で「期待通りのコードが出る」チームと「毎回手直しが必要」なチームの差を調べると、CLAUDE.md の...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:7f388029f8821fc3ea6c</id>
     <title>元ヤフーエンジニア社長が考える、AI時代の採用基準</title>
     <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/7f388029f8821fc3ea6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -486,6 +480,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yoshioterada&quot;&gt;yoshioterada&lt;/a&gt;&lt;br/&gt;Published: 2026-09-14T10:44:21+09:00&lt;br/&gt;Updated: 2026-09-14T10:44:23+09:00&lt;br/&gt;Microsoft の AI に関連するサービスは非常に多くあります。今まで私は開発中心だったため、M365関連を含む全体的な知識のアップデートが必要で、できるだけ早急にさまざまな技術やサービスをキャッチアップしたいと考えています。元々この資料は自分自身で理解するために、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c795cf89d0fd4091c9cb</id>
+    <title>Claude Code が AGENTS.md を読むようになった。ただし1回目のセッションでは読まれない</title>
+    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/c795cf89d0fd4091c9cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-19T10:51:19+09:00</updated>
+    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T10:51:19+09:00&lt;br/&gt;Updated: 2026-09-19T10:51:19+09:00&lt;br/&gt;Claude Code 2.1.277（2026-09-18）の changelog に、こう書かれています。
+
+Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENT...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8d2dace07c9c7a9d0453</id>
     <title>AIのアウトプットをそのまま出すだけの人にならないために</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -493,15 +496,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-08-01T15:25:03+09:00&lt;br/&gt;Updated: 2026-08-01T15:25:03+09:00&lt;br/&gt;はじめに
 自分はエンジニアとして4年です。いまは Claude Code と Codex を毎日並列で走らせて仕事をしています。
 この記事は、仕事のかなりの部分をエージェントに渡してみて痛感した「それでも人間に残る仕事は何か」を、自分の失敗込みで整理したポエムです。あなた...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c795cf89d0fd4091c9cb</id>
-    <title>Claude Code が AGENTS.md を読むようになった。ただし1回目のセッションでは読まれない</title>
-    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/c795cf89d0fd4091c9cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-19T10:51:19+09:00</updated>
-    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T10:51:19+09:00&lt;br/&gt;Updated: 2026-09-19T10:51:19+09:00&lt;br/&gt;Claude Code 2.1.277（2026-09-18）の changelog に、こう書かれています。
-
-Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENT...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ced6a0aa744379d338b6</id>
@@ -745,6 +739,18 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 みなさん、2...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6b4e0a5e4946d1a941ac</id>
+    <title>実はコミュニティ運営をやめようと思っていました</title>
+    <link rel="alternate" href="https://qiita.com/sadabon444/items/6b4e0a5e4946d1a941ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-19T08:59:36+09:00</updated>
+    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T08:51:25+09:00&lt;br/&gt;Updated: 2026-09-19T08:59:36+09:00&lt;br/&gt;おそらく初めて打ち明けることですが、コミュニティ運営をやめようと思っていました。
+
+運営している社外コミュニティ
+Copilotを学ぶ「なんでもCopilot」に加えて、AWSユーザーグループの「JAWS-UG Sales」の運営メンバーです。
+
+別件と重なり続け...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:86a44010e433b1d0081c</id>
     <title>【未経験】勉強する時間がない。それでも今の仕事の中で、ITにつながる経験はつくれる</title>
     <link rel="alternate" href="https://qiita.com/m__ikeda/items/86a44010e433b1d0081c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -852,18 +858,6 @@ B「8行で十分。増やすより削るほうが効く」
     <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/musenmai&quot;&gt;musenmai&lt;/a&gt;&lt;br/&gt;Published: 2026-07-25T19:28:39+09:00&lt;br/&gt;Updated: 2026-07-25T19:28:39+09:00&lt;br/&gt;つい先日、プロジェクト内に点在するハードコーディングを滅ぼすタスクを行っていました。
 滅ぼしながらも「ハードコーディングが許されるパターンはないのか？」ということが気になり、調べてみました。
 簡単にいうと、大事なのは、ハードコーディングされた値の意味・変更理由・影響範囲がコ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6b4e0a5e4946d1a941ac</id>
-    <title>実はコミュニティ運営をやめようと思っていました</title>
-    <link rel="alternate" href="https://qiita.com/sadabon444/items/6b4e0a5e4946d1a941ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-19T08:59:36+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T08:51:25+09:00&lt;br/&gt;Updated: 2026-09-19T08:59:36+09:00&lt;br/&gt;おそらく初めて打ち明けることですが、コミュニティ運営をやめようと思っていました。
-
-運営している社外コミュニティ
-Copilotを学ぶ「なんでもCopilot」に加えて、AWSユーザーグループの「JAWS-UG Sales」の運営メンバーです。
-
-別件と重なり続け...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:26cc98906fbae40e4e71</id>
@@ -1164,6 +1158,18 @@ Added a built-in &quot;Concise&quot; output style: Claude leads with result...</
 「Rubyってインタプリタ言語だから、1行ずつ翻訳しながら実行してるんでしょ？」と思っていませんか？（私は思っていました🫣）
 ……実は現代のRubyでは不正確なんです 😱
 実行モデルを一から調べ直したところ、rails s の裏側で何が起きているのかまで一本...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ed4c760f616cf3c0a958</id>
+    <title>みのるん式 登壇資料の作成ノウハウをスキルとして公開しました！</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/ed4c760f616cf3c0a958?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-21T11:56:53+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-09-21T11:29:12+09:00&lt;br/&gt;Updated: 2026-09-21T11:56:53+09:00&lt;br/&gt;こんにちは、Claude Codeです。普段から、みのるんの登壇資料づくりを手伝っています。
+みのるんが登壇を重ねるなかで培ってきたスライド作成のノウハウを、私たちAIエージェントが読めるスキルの形にまとめて公開しました！
+
+こんな感じのスライドができます。
+
+何が入...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1960963c3c59591763ab</id>
@@ -1573,15 +1579,6 @@ We...</summary>
 こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:dc7a18f58eb5a2c8a6e7</id>
-    <title>SSL/TLS証明書って何？なぜ必要で、誰が発行して誰が使うのかを整理する</title>
-    <link rel="alternate" href="https://qiita.com/mame_hiro416/items/dc7a18f58eb5a2c8a6e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-20T09:06:34+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mame_hiro416&quot;&gt;mame_hiro416&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T09:06:34+09:00&lt;br/&gt;Updated: 2026-07-20T09:06:34+09:00&lt;br/&gt;はじめに
-サーバーをHTTPSで公開しようとすると必ず出てくるのが「証明書」です。ブラウザで鍵マークが表示されるあの仕組みですが、「なぜ必要なのか」「誰が発行しているのか」「誰が何のために使うのか」を順を追って説明できる人は意外と少ないのではないでしょうか。
-本記事では、...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:aa30a54fc6f0849385a7</id>
     <title>AWSのインフラ導入でAIを使っている箇所と手でやっている箇所</title>
     <link rel="alternate" href="https://qiita.com/infra365/items/aa30a54fc6f0849385a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1938,6 +1935,14 @@ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-cu
 公式リリースノートでは、Agents window 内で Markdown を表示・...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cbd1d7bb724676a3b686</id>
+    <title>生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方</title>
+    <link rel="alternate" href="https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-20T22:05:37+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kf_webdev&quot;&gt;kf_webdev&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T16:56:25+09:00&lt;br/&gt;Updated: 2026-09-20T22:05:37+09:00&lt;br/&gt;はじめに
+現在、Webエンジニアを目指して学習を進める中で、AI駆動開発についても学んでいます。今回は、Happiness Chainのカリキュラムで生成AIセキュリティについて学ぶ機会があり、Prompt InjectionやJailbreak、情報漏洩、RAGのセキュ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:acb61138c4550eef4803</id>
     <title>14MBのAIモデルは本当に動いた — DLL 1個・RAM 37MB・1回0.5秒、ただし日本語は0/5</title>
     <link rel="alternate" href="https://qiita.com/jqit_suwa/items/acb61138c4550eef4803?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2064,14 +2069,6 @@ Claude Opus 5 では、これは消したほうがいい一文になりました
 同じように、これまで良かれと思って...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:cbd1d7bb724676a3b686</id>
-    <title>生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方</title>
-    <link rel="alternate" href="https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-20T22:05:37+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kf_webdev&quot;&gt;kf_webdev&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T16:56:25+09:00&lt;br/&gt;Updated: 2026-09-20T22:05:37+09:00&lt;br/&gt;はじめに
-現在、Webエンジニアを目指して学習を進める中で、AI駆動開発についても学んでいます。今回は、Happiness Chainのカリキュラムで生成AIセキュリティについて学ぶ機会があり、Prompt InjectionやJailbreak、情報漏洩、RAGのセキュ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:61994be44d61c76716d3</id>
     <title>「LLMじゃないAI」が来た! TypeSafe AI「Jev」はなぜ文字列生成を捨てたのか</title>
     <link rel="alternate" href="https://qiita.com/shinkai_/items/61994be44d61c76716d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2190,5 +2187,18 @@ Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/viva_tweet_x&quot;&gt;viva_tweet_x&lt;/a&gt;&lt;br/&gt;Published: 2026-07-21T08:22:25+09:00&lt;br/&gt;Updated: 2026-07-21T17:18:23+09:00&lt;br/&gt;ふりかえりの総合サイト hurikaeri.jp を作りました（手法カタログ144種・全無料）
 こんにちは、びば（森一樹）です。「ふりかえりガイドブック」「ふりかえり読本」シリーズの執筆や、ふりかえりカンファレンスの主催をしています。
 このたび、ふりかえりの総合サイトを公...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d49739b934606d4abdbd</id>
+    <title>Claude Code の設定でハマる箇所まとめ</title>
+    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/d49739b934606d4abdbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-20T09:31:57+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-20T09:31:56+09:00&lt;br/&gt;Updated: 2026-08-20T09:31:57+09:00&lt;br/&gt;Claude Code を使っていて、こういう目に遭ったことはないでしょうか。
+
+公式に「既定でON」と書いてある機能が、なぜか使えない
+昨日まで出ていたタスクリストが、いつの間にか出なくなった
+設定を書いたのに、何も起きない。エラーも出ない
+
+原因の多くは、公式ドキュメン...</summary>
   </entry>
 </feed>
