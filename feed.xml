@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-09-21T12:52:23+09:00</updated>
+  <updated>2026-09-22T01:28:42+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -120,7 +120,7 @@ AIに渡そうとすると、まずCSVに書き出すところから始まる...
     <title>5分でJev入門（すぐ使う）</title>
     <link rel="alternate" href="https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-09-21T08:07:07+09:00</updated>
-    <summary type="html">Likes: 125&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ninagawa123&quot;&gt;Ninagawa123&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T23:29:27+09:00&lt;br/&gt;Updated: 2026-09-21T08:07:07+09:00&lt;br/&gt;せっかちな人むけのコンパクト記事
+    <summary type="html">Likes: 127&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Ninagawa123&quot;&gt;Ninagawa123&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T23:29:27+09:00&lt;br/&gt;Updated: 2026-09-21T08:07:07+09:00&lt;br/&gt;せっかちな人むけのコンパクト記事
 
 やること
 Jevをちょっと触ってみます。
@@ -1488,6 +1488,16 @@ ECS・Lambda・RDSなどの言葉を聞いたことはあるが、なぜそれ�
 実は最近まで、「資格なんて実...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b2ef2f7a6ee0dbbf0001</id>
+    <title>エンジニア不要論の真実！AIの進化と具体抽象から完全解説</title>
+    <link rel="alternate" href="https://qiita.com/Sicut_study/items/b2ef2f7a6ee0dbbf0001?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-21T12:52:23+09:00</updated>
+    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-09-21T12:52:23+09:00&lt;br/&gt;Updated: 2026-09-21T12:52:23+09:00&lt;br/&gt;はじめに　　
+こんにちは、Watanabe Jin(@Sicut_study)です。
+AIエージェントが開発を行うようになり、多くのエンジニアがClaude Codeなどを利用して仕事を進められるようになりました。
+しかし、便利になったと感じると同時に、こんな瞬間は...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5da484e533d0d574045d</id>
     <title>プロも毎日ググっている。エラーで固まらないための「検索力」の話</title>
     <link rel="alternate" href="https://qiita.com/m__ikeda/items/5da484e533d0d574045d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1595,25 +1605,6 @@ We...</summary>
     <link rel="alternate" href="https://qiita.com/NekoByte/items/efa81aaa8a61d3478568?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-07-26T01:56:11+09:00</updated>
     <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NekoByte&quot;&gt;NekoByte&lt;/a&gt;&lt;br/&gt;Published: 2026-07-26T01:56:11+09:00&lt;br/&gt;Updated: 2026-07-26T01:56:11+09:00&lt;br/&gt;「もう一度同じ作業をやり直し...」と画面を眺めながら、あの時は本当に何度もエラーに悩まされました。Gitのコミットログをたどるたびに「これ、毎回手で打つの大変だよな」と感じていた私が、ついにCLIツールに出会った瞬間、開発のスピードが劇的に変わったのを感じました。もし同じ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:df29e251165c3ad91487</id>
-    <title>shadcn/ui が Base UI をデフォルトに — 公式発表から読み解く移行の背景と実務対応</title>
-    <link rel="alternate" href="https://qiita.com/t-kurasawa/items/df29e251165c3ad91487?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-21T20:45:14+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/t-kurasawa&quot;&gt;t-kurasawa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-21T20:45:13+09:00&lt;br/&gt;Updated: 2026-07-21T20:45:14+09:00&lt;br/&gt;はじめに
-2026年7月、shadcn/ui の公式チェンジログに「Base UI as the Default」という一文が追加されました。新規プロジェクトを作成すると、これまでの Radix UI ではなく Base UI が標準の基盤になる、という内容です。
-「sh...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b2ef2f7a6ee0dbbf0001</id>
-    <title>エンジニア不要論の真実！AIの進化と具体抽象から完全解説</title>
-    <link rel="alternate" href="https://qiita.com/Sicut_study/items/b2ef2f7a6ee0dbbf0001?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-21T12:52:23+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-09-21T12:52:23+09:00&lt;br/&gt;Updated: 2026-09-21T12:52:23+09:00&lt;br/&gt;はじめに　　
-こんにちは、Watanabe Jin(@Sicut_study)です。
-AIエージェントが開発を行うようになり、多くのエンジニアがClaude Codeなどを利用して仕事を進められるようになりました。
-しかし、便利になったと感じると同時に、こんな瞬間は...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:668edf1abb33d35d5630</id>
@@ -1758,6 +1749,19 @@ TL;DR
 20...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:41c9402a5dd9d80fc7a9</id>
+    <title>ローカル動作するJevっぽいものを調べてたら、なんとマルチモーダル対応もできてた！</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-21T11:47:44+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-09-21T11:47:44+09:00&lt;br/&gt;Updated: 2026-09-21T11:47:44+09:00&lt;br/&gt;Jevが大流行してますね。
+すごいなーと思いつつ、ローカルでもできるのかなーと思ってたら、すでに試されてる方がいました！
+早い！！
+
+ソースコード公開されているので、これをそのまま使えばいいのですが、せっかくなので、どういう仕組なのか調べてみました。
+
+きしださんが公...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:92c094b554d090b54a17</id>
     <title>terraform plan -minimal-refreshでplanを爆速にする</title>
     <link rel="alternate" href="https://qiita.com/minamijoyo/items/92c094b554d090b54a17?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1883,19 +1887,6 @@ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-cu
 1日の実訪問者は数人という、どこにでもある個人サイトです...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:41c9402a5dd9d80fc7a9</id>
-    <title>ローカル動作するJevっぽいものを調べてたら、なんとマルチモーダル対応もできてた！</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-21T11:47:44+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-09-21T11:47:44+09:00&lt;br/&gt;Updated: 2026-09-21T11:47:44+09:00&lt;br/&gt;Jevが大流行してますね。
-すごいなーと思いつつ、ローカルでもできるのかなーと思ってたら、すでに試されてる方がいました！
-早い！！
-
-ソースコード公開されているので、これをそのまま使えばいいのですが、せっかくなので、どういう仕組なのか調べてみました。
-
-きしださんが公...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:cbd1d7bb724676a3b686</id>
     <title>生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方</title>
     <link rel="alternate" href="https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1982,6 +1973,22 @@ TL;DR
 これ、何の数字だと思いますか。
 AIエージェントに「このルールを守って作業して」と指示書を渡したとき、実際にちゃんと守れた割合です。しかも、これが一番マシだったモデルのスコア。ほとんどのモデルは25%を下回りました。
 2026年7月28日に arXiv に上が...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:2be9091b328d8b844640</id>
+    <title>JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた</title>
+    <link rel="alternate" href="https://qiita.com/kikuziro/items/2be9091b328d8b844640?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-21T09:02:09+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-09-21T08:45:56+09:00&lt;br/&gt;Updated: 2026-09-21T09:02:09+09:00&lt;br/&gt;👋 はじめに
+RAGのあちこちにJevを差し込んでどこがどう変わるのか測ってみました！
+
+🎯 対象購読者
+
+ぶっちゃけJevってRAG検索に使えるの？と思っている方
+RAG検索を愛している方
+
+⚡ Jevってなに？
+JevはTypeSafe AIが2026年9月15日に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c0f5b86dfb8a3106cbaf</id>
@@ -2168,6 +2175,15 @@ Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom and pl
 Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横断して調べ、upvote や likes といった実際の反応で...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4d27833640ff36b5d8c5</id>
+    <title>AWSの最軽量LLM「Amazon Nova Micro」がJevの代わりとなるか検証してみた</title>
+    <link rel="alternate" href="https://qiita.com/nasuvitz/items/4d27833640ff36b5d8c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-22T01:28:42+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nasuvitz&quot;&gt;nasuvitz&lt;/a&gt;&lt;br/&gt;Published: 2026-09-20T21:47:53+09:00&lt;br/&gt;Updated: 2026-09-22T01:28:42+09:00&lt;br/&gt;はじめに
+判断や評価を確率として返すAIモデル「Jev」が注目を集めています。Jevは、用途を絞ることで、高速なレスポンスを実現している点も特徴です。
+一方、エンタープライズ用途で外部サービスを利用する場合、データ送信に伴う社内審査やセキュリティルールの確認が必要になりま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d49739b934606d4abdbd</id>
     <title>Claude Code の設定でハマる箇所まとめ</title>
     <link rel="alternate" href="https://qiita.com/jqit_suwa/items/d49739b934606d4abdbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2191,17 +2207,5 @@ Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横
 それはさておき、私はこの4月に入社し4ヶ月ほど経ちました。
 現在、データエンジニアとしてデータ基盤構築の業務に奮闘する毎日を送っています。
 業務を進める中で、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:82209a2a8b9cc603ec57</id>
-    <title>AWSで作った洗濯botを2ヶ月使い続けた話</title>
-    <link rel="alternate" href="https://qiita.com/SakiFukutani/items/82209a2a8b9cc603ec57?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-03T09:34:29+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/SakiFukutani&quot;&gt;SakiFukutani&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T09:34:28+09:00&lt;br/&gt;Updated: 2026-08-03T09:34:29+09:00&lt;br/&gt;本記事は、BIPROGY / ユニアデックス社内AWSコミュニティ「BIPROGY AWS SPARK」の定期投稿企画第6回目の記事です。他の定期投稿企画の記事は、インデックスページをご覧ください。
-
-この記事について
-こんな方に読んでいただけたら嬉しいです。
-
-A...</summary>
   </entry>
 </feed>

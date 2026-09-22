@@ -789,8 +789,8 @@
       "published": "2026-09-21T08:45:56+09:00",
       "updated": "2026-09-21T09:02:09+09:00",
       "author_name": "kikuziro",
-      "likes_count": 20,
-      "last_seen": "2026-09-22T14:43:16.476396467+00:00"
+      "likes_count": 25,
+      "last_seen": "2026-09-22T18:47:37.652348600+00:00"
     },
     {
       "key": "2c2ad3d8d7398b89aee8",
@@ -1233,8 +1233,8 @@
       "published": "2026-09-21T11:47:44+09:00",
       "updated": "2026-09-21T11:47:44+09:00",
       "author_name": "moritalous",
-      "likes_count": 27,
-      "last_seen": "2026-09-22T14:43:16.476396467+00:00"
+      "likes_count": 29,
+      "last_seen": "2026-09-22T18:47:37.652348600+00:00"
     },
     {
       "key": "4231026d13f7527c0f69",
@@ -1485,8 +1485,8 @@
       "published": "2026-09-20T21:47:53+09:00",
       "updated": "2026-09-22T01:28:42+09:00",
       "author_name": "nasuvitz",
-      "likes_count": 21,
-      "last_seen": "2026-09-22T14:43:16.476396467+00:00"
+      "likes_count": 22,
+      "last_seen": "2026-09-22T18:47:37.652348600+00:00"
     },
     {
       "key": "4da8a4aa027730db23e0",
@@ -2925,8 +2925,8 @@
       "published": "2026-09-19T23:29:27+09:00",
       "updated": "2026-09-21T08:07:07+09:00",
       "author_name": "Ninagawa123",
-      "likes_count": 125,
-      "last_seen": "2026-09-22T14:43:16.476396467+00:00"
+      "likes_count": 127,
+      "last_seen": "2026-09-22T18:47:37.652348600+00:00"
     },
     {
       "key": "8f439ca399b08a925cba",
@@ -3178,7 +3178,7 @@
       "updated": "2026-09-19T18:32:10+09:00",
       "author_name": "kamo-shika",
       "likes_count": 16,
-      "last_seen": "2026-09-22T14:43:16.476396467+00:00"
+      "last_seen": "2026-09-22T18:47:37.652348600+00:00"
     },
     {
       "key": "99c589264a006658a15a",
@@ -3430,7 +3430,7 @@
       "updated": "2026-09-20T10:48:33+09:00",
       "author_name": "btncon",
       "likes_count": 14,
-      "last_seen": "2026-09-22T14:43:16.476396467+00:00"
+      "last_seen": "2026-09-22T18:47:37.652348600+00:00"
     },
     {
       "key": "a800739c02eadff68c70",
@@ -3527,6 +3527,18 @@
       "author_name": "infra365",
       "likes_count": 32,
       "last_seen": "2026-09-14T06:07:26.097009737+00:00"
+    },
+    {
+      "key": "aaa257c199fd094ae31e",
+      "item_id": "aaa257c199fd094ae31e",
+      "title": "終わってるエンジニアの転職その後 〜1年経ってどうなったか〜",
+      "link": "https://qiita.com/bridgebook1125/items/aaa257c199fd094ae31e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nお久しぶりです、bridge bookです。\n以前、終わってるエンジニアの転職履歴という記事を書きました。\n無職の状態で2か月間転職活動をして、なんとか自社開発企業に転職した、という内容です。\n\nありがたいことに思っていたよりも多くの方に読んでいただき、「転...",
+      "published": "2026-09-21T03:47:34+09:00",
+      "updated": "2026-09-21T04:27:23+09:00",
+      "author_name": "bridgebook1125",
+      "likes_count": 11,
+      "last_seen": "2026-09-22T18:47:37.652348600+00:00"
     },
     {
       "key": "aae2c66e38bb9498d82d",
@@ -3717,8 +3729,8 @@
       "published": "2026-09-21T12:52:23+09:00",
       "updated": "2026-09-21T12:52:23+09:00",
       "author_name": "Sicut_study",
-      "likes_count": 31,
-      "last_seen": "2026-09-22T14:43:16.476396467+00:00"
+      "likes_count": 33,
+      "last_seen": "2026-09-22T18:47:37.652348600+00:00"
     },
     {
       "key": "b3302efec6a8d8b50197",
@@ -3838,7 +3850,7 @@
       "updated": "2026-09-19T20:10:39+09:00",
       "author_name": "miso_taku",
       "likes_count": 10,
-      "last_seen": "2026-09-22T14:43:16.476396467+00:00"
+      "last_seen": "2026-09-22T18:47:37.652348600+00:00"
     },
     {
       "key": "b633dda178c505461080",
@@ -4633,18 +4645,6 @@
       "last_seen": "2026-09-09T18:30:44.220736533+00:00"
     },
     {
-      "key": "df29e251165c3ad91487",
-      "item_id": "df29e251165c3ad91487",
-      "title": "shadcn/ui が Base UI をデフォルトに — 公式発表から読み解く移行の背景と実務対応",
-      "link": "https://qiita.com/t-kurasawa/items/df29e251165c3ad91487?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n2026年7月、shadcn/ui の公式チェンジログに「Base UI as the Default」という一文が追加されました。新規プロジェクトを作成すると、これまでの Radix UI ではなく Base UI が標準の基盤になる、という内容です。\n「sh...",
-      "published": "2026-07-21T20:45:13+09:00",
-      "updated": "2026-07-21T20:45:14+09:00",
-      "author_name": "t-kurasawa",
-      "likes_count": 32,
-      "last_seen": "2026-07-24T18:40:05.396703828+00:00"
-    },
-    {
       "key": "dffb06c5e5cd1ef73463",
       "item_id": "dffb06c5e5cd1ef73463",
       "title": "わかったようでわからないアロー関数の完全理解",
@@ -4894,7 +4894,7 @@
       "updated": "2026-09-21T11:56:53+09:00",
       "author_name": "minorun365",
       "likes_count": 73,
-      "last_seen": "2026-09-22T14:43:16.476396467+00:00"
+      "last_seen": "2026-09-22T18:47:37.652348600+00:00"
     },
     {
       "key": "ed5423f7f6a13fb9c2d0",
