@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-09-22T01:28:42+09:00</updated>
+  <updated>2026-09-22T17:18:34+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1648,6 +1648,19 @@ We...</summary>
 Geminiでこんなプロンプトを入力すると...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:41c9402a5dd9d80fc7a9</id>
+    <title>ローカル動作するJevっぽいものを調べてたら、なんとマルチモーダル対応もできてた！</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-21T11:47:44+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-09-21T11:47:44+09:00&lt;br/&gt;Updated: 2026-09-21T11:47:44+09:00&lt;br/&gt;Jevが大流行してますね。
+すごいなーと思いつつ、ローカルでもできるのかなーと思ってたら、すでに試されてる方がいました！
+早い！！
+
+ソースコード公開されているので、これをそのまま使えばいいのですが、せっかくなので、どういう仕組なのか調べてみました。
+
+きしださんが公...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fdb57313458c2aa1bcdc</id>
     <title>新言語「Hike」をシステムに採用したらバイナリ99.8%削減・ネットワークも実働処理も爆速になった話</title>
     <link rel="alternate" href="https://qiita.com/kinop3/items/fdb57313458c2aa1bcdc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1747,19 +1760,6 @@ K⁺oji Na⁺kamura
 TL;DR
 
 20...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:41c9402a5dd9d80fc7a9</id>
-    <title>ローカル動作するJevっぽいものを調べてたら、なんとマルチモーダル対応もできてた！</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-21T11:47:44+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-09-21T11:47:44+09:00&lt;br/&gt;Updated: 2026-09-21T11:47:44+09:00&lt;br/&gt;Jevが大流行してますね。
-すごいなーと思いつつ、ローカルでもできるのかなーと思ってたら、すでに試されてる方がいました！
-早い！！
-
-ソースコード公開されているので、これをそのまま使えばいいのですが、せっかくなので、どういう仕組なのか調べてみました。
-
-きしださんが公...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:92c094b554d090b54a17</id>
@@ -1887,6 +1887,22 @@ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-cu
 1日の実訪問者は数人という、どこにでもある個人サイトです...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2be9091b328d8b844640</id>
+    <title>JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた</title>
+    <link rel="alternate" href="https://qiita.com/kikuziro/items/2be9091b328d8b844640?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-21T09:02:09+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-09-21T08:45:56+09:00&lt;br/&gt;Updated: 2026-09-21T09:02:09+09:00&lt;br/&gt;👋 はじめに
+RAGのあちこちにJevを差し込んでどこがどう変わるのか測ってみました！
+
+🎯 対象購読者
+
+ぶっちゃけJevってRAG検索に使えるの？と思っている方
+RAG検索を愛している方
+
+⚡ Jevってなに？
+JevはTypeSafe AIが2026年9月15日に...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cbd1d7bb724676a3b686</id>
     <title>生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方</title>
     <link rel="alternate" href="https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1975,20 +1991,13 @@ AIエージェントに「このルールを守って作業して」と指示書
 2026年7月28日に arXiv に上が...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:2be9091b328d8b844640</id>
-    <title>JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた</title>
-    <link rel="alternate" href="https://qiita.com/kikuziro/items/2be9091b328d8b844640?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-21T09:02:09+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-09-21T08:45:56+09:00&lt;br/&gt;Updated: 2026-09-21T09:02:09+09:00&lt;br/&gt;👋 はじめに
-RAGのあちこちにJevを差し込んでどこがどう変わるのか測ってみました！
-
-🎯 対象購読者
-
-ぶっちゃけJevってRAG検索に使えるの？と思っている方
-RAG検索を愛している方
-
-⚡ Jevってなに？
-JevはTypeSafe AIが2026年9月15日に...</summary>
+    <id>tag:qiita.com,2026:b381ccf563d6d8e96ce9</id>
+    <title>50代プログラミング未経験者が7年かけてAtCoderで入緑した話</title>
+    <link rel="alternate" href="https://qiita.com/rinrion/items/b381ccf563d6d8e96ce9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-22T17:18:34+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rinrion&quot;&gt;rinrion&lt;/a&gt;&lt;br/&gt;Published: 2026-09-22T17:18:33+09:00&lt;br/&gt;Updated: 2026-09-22T17:18:34+09:00&lt;br/&gt;こんにちは！AtCoderユーザーの rinrion です。
+2026年9月19日に行われたJIJプログラミングコンテスト 2026（AtCoder Beginner Contest 476）にて、アルゴリズムレートで入緑することができました。
+AtCoder歴7年4か月、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c0f5b86dfb8a3106cbaf</id>
@@ -2195,17 +2204,5 @@ Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横
 設定を書いたのに、何も起きない。エラーも出ない
 
 原因の多くは、公式ドキュメン...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a837b6706911d1a0b33a</id>
-    <title>【初心者向け】「セキュリティを担保できてる？」とは何なのか</title>
-    <link rel="alternate" href="https://qiita.com/sai029/items/a837b6706911d1a0b33a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-05T18:57:52+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sai029&quot;&gt;sai029&lt;/a&gt;&lt;br/&gt;Published: 2026-08-05T18:57:52+09:00&lt;br/&gt;Updated: 2026-08-05T18:57:52+09:00&lt;br/&gt;はじめに
-こんにちは。とまと🍅好きのエンジニアです。
-最近育ててるトマトが赤くなってきて夏だなーと感じています。
-それはさておき、私はこの4月に入社し4ヶ月ほど経ちました。
-現在、データエンジニアとしてデータ基盤構築の業務に奮闘する毎日を送っています。
-業務を進める中で、...</summary>
   </entry>
 </feed>
