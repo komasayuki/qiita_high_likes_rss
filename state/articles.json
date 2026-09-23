@@ -193,18 +193,6 @@
       "last_seen": "2026-08-24T07:15:04.817345643+00:00"
     },
     {
-      "key": "0fe99e9afff2c9f79fcd",
-      "item_id": "0fe99e9afff2c9f79fcd",
-      "title": "先輩の「なぜこうしたの？」に毎回パニックになってたけど、整理するだけで上手に話せるようになった",
-      "link": "https://qiita.com/prumnn/items/0fe99e9afff2c9f79fcd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n\n先輩に「なぜこうしたの？」と聞かれてパニックになった新人エンジニアぷらむんが気づいたのは、\"考えていない\"んじゃなく\"考えを整理していない\"だけだったということでした。\n\n会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯...",
-      "published": "2026-07-22T17:01:40+09:00",
-      "updated": "2026-07-22T17:01:40+09:00",
-      "author_name": "prumnn",
-      "likes_count": 67,
-      "last_seen": "2026-07-25T19:22:29.554804901+00:00"
-    },
-    {
       "key": "1002367721b1650fcdf3",
       "item_id": "1002367721b1650fcdf3",
       "title": "攻撃者の視点でセキュリティを理解したいエンジニアへ。bashで学ぶ侵入技術の実践書",
@@ -213,8 +201,8 @@
       "published": "2026-09-23T08:56:43+09:00",
       "updated": "2026-09-23T08:56:43+09:00",
       "author_name": "yasu1109",
-      "likes_count": 12,
-      "last_seen": "2026-09-23T16:47:53.281062785+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-09-23T20:13:40.393074258+00:00"
     },
     {
       "key": "11358e8e8966d5e48a09",
@@ -778,7 +766,7 @@
       "updated": "2026-09-21T09:02:09+09:00",
       "author_name": "kikuziro",
       "likes_count": 49,
-      "last_seen": "2026-09-23T16:47:53.281062785+00:00"
+      "last_seen": "2026-09-23T20:13:40.393074258+00:00"
     },
     {
       "key": "2c2ad3d8d7398b89aee8",
@@ -1222,7 +1210,7 @@
       "updated": "2026-09-21T11:47:44+09:00",
       "author_name": "moritalous",
       "likes_count": 37,
-      "last_seen": "2026-09-23T16:47:53.281062785+00:00"
+      "last_seen": "2026-09-23T20:13:40.393074258+00:00"
     },
     {
       "key": "4231026d13f7527c0f69",
@@ -2173,18 +2161,6 @@
       "last_seen": "2026-08-03T04:39:45.236491872+00:00"
     },
     {
-      "key": "700e37b3240717217b37",
-      "item_id": "700e37b3240717217b37",
-      "title": "個人開発に活かせる、動画生成AIで需要を確かめてから作成するという発想",
-      "link": "https://qiita.com/sumomoo/items/700e37b3240717217b37?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや\n考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\n動画生成...",
-      "published": "2026-07-22T17:16:40+09:00",
-      "updated": "2026-07-22T17:16:40+09:00",
-      "author_name": "sumomoo",
-      "likes_count": 82,
-      "last_seen": "2026-07-25T19:22:29.554804901+00:00"
-    },
-    {
       "key": "704f8f380fee205e06d1",
       "item_id": "704f8f380fee205e06d1",
       "title": "Data Catalog 第3回：Object Storage上のOracle DatabaseマニュアルPDFでSelect AI with RAGを構築してみてみた",
@@ -2242,7 +2218,7 @@
       "updated": "2026-09-23T16:45:44+09:00",
       "author_name": "songchong",
       "likes_count": 14,
-      "last_seen": "2026-09-23T16:47:53.281062785+00:00"
+      "last_seen": "2026-09-23T20:13:40.393074258+00:00"
     },
     {
       "key": "745df317fc4778e8a5fb",
@@ -2735,6 +2711,18 @@
       "author_name": "y-vectorfield",
       "likes_count": 13,
       "last_seen": "2026-08-11T11:00:20.883850135+00:00"
+    },
+    {
+      "key": "89175eaa7a30f71d0351",
+      "item_id": "89175eaa7a30f71d0351",
+      "title": "MCP サーバーと繋いだだけで情報漏洩？ 危険の4パターンと事前に確認すべき7つのことをまとめてみた",
+      "link": "https://qiita.com/songchong/items/89175eaa7a30f71d0351?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "MCP（Model Context Protocol）を使うとき、利用者は Claude・Codex・Antigravity などの AI エージェントに頼めば（あるいは簡単な設定をすれば）、AI エージェントが MCP サーバーのツールを呼び出せるようになります。\n簡単...",
+      "published": "2026-09-24T00:06:57+09:00",
+      "updated": "2026-09-24T00:06:57+09:00",
+      "author_name": "songchong",
+      "likes_count": 13,
+      "last_seen": "2026-09-23T20:13:40.393074258+00:00"
     },
     {
       "key": "8944ef8b521517f92da0",
@@ -3718,7 +3706,7 @@
       "updated": "2026-09-21T12:52:23+09:00",
       "author_name": "Sicut_study",
       "likes_count": 41,
-      "last_seen": "2026-09-23T16:47:53.281062785+00:00"
+      "last_seen": "2026-09-23T20:13:40.393074258+00:00"
     },
     {
       "key": "b3302efec6a8d8b50197",
@@ -3754,7 +3742,7 @@
       "updated": "2026-09-22T17:18:34+09:00",
       "author_name": "rinrion",
       "likes_count": 59,
-      "last_seen": "2026-09-23T16:47:53.281062785+00:00"
+      "last_seen": "2026-09-23T20:13:40.393074258+00:00"
     },
     {
       "key": "b44d4e2b526aa009f822",
@@ -4249,18 +4237,6 @@
       "last_seen": "2026-08-02T06:41:59.381638011+00:00"
     },
     {
-      "key": "ceb0f115dfe9459315bf",
-      "item_id": "ceb0f115dfe9459315bf",
-      "title": "新人エンジニアは\"忘れる前提\"で仕事をするのがベストだと気がついた",
-      "link": "https://qiita.com/prumnn/items/ceb0f115dfe9459315bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n\n先輩に「それ、前教えたじゃん！」と言われてへこんでいた新人エンジニアぷらむんが気づいたのは、忘れるのは当然、でも思い出す回数を増やせば対策できるということでした。\n\n会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯\n最近...",
-      "published": "2026-07-23T18:33:25+09:00",
-      "updated": "2026-07-23T18:33:25+09:00",
-      "author_name": "prumnn",
-      "likes_count": 37,
-      "last_seen": "2026-07-25T19:22:29.554804901+00:00"
-    },
-    {
       "key": "cec37ce5a6141bb3eefc",
       "item_id": "cec37ce5a6141bb3eefc",
       "title": "3万スターの Claude Code スキルを入れたら、出力が43%短くなった",
@@ -4657,18 +4633,6 @@
       "last_seen": "2026-08-11T19:15:30.656173484+00:00"
     },
     {
-      "key": "dffe9beac195e23fb589",
-      "item_id": "dffe9beac195e23fb589",
-      "title": "【数理最適化】1週間映画館生活　コスパよく映画を楽しむには",
-      "link": "https://qiita.com/akimasanishida/items/dffe9beac195e23fb589?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "あなたは Mr. 〇〇 の YouTube 動画『1週間映画館生活！　成功すれば賞金1万ドル！』に出演することになりました．ここには，食料もトイレもあります．もちろん映画という娯楽もあります．1週間映画館に居続けることができれば，賞金1万ドルを獲得することができます！\n👨...",
-      "published": "2026-07-23T10:21:51+09:00",
-      "updated": "2026-07-23T10:21:53+09:00",
-      "author_name": "akimasanishida",
-      "likes_count": 20,
-      "last_seen": "2026-07-25T19:22:29.554804901+00:00"
-    },
-    {
       "key": "e0e1ca2287fb4da46852",
       "item_id": "e0e1ca2287fb4da46852",
       "title": "Claude Code のサブエージェント、モデルの固定手段が4日で戻ってきた",
@@ -4858,7 +4822,7 @@
       "updated": "2026-09-22T13:23:52+09:00",
       "author_name": "taihong",
       "likes_count": 12,
-      "last_seen": "2026-09-23T16:47:53.281062785+00:00"
+      "last_seen": "2026-09-23T20:13:40.393074258+00:00"
     },
     {
       "key": "e94acdcd34f52a1bc5f1",
@@ -4906,7 +4870,7 @@
       "updated": "2026-09-21T11:56:53+09:00",
       "author_name": "minorun365",
       "likes_count": 89,
-      "last_seen": "2026-09-23T16:47:53.281062785+00:00"
+      "last_seen": "2026-09-23T20:13:40.393074258+00:00"
     },
     {
       "key": "ed5423f7f6a13fb9c2d0",
