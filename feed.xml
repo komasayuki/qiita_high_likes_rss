@@ -177,6 +177,15 @@ ssh を3回叩いたら、TCP 接続は3本になりますか
 全部説明...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b381ccf563d6d8e96ce9</id>
+    <title>50代プログラミング未経験者が7年かけてAtCoderで入緑した話</title>
+    <link rel="alternate" href="https://qiita.com/rinrion/items/b381ccf563d6d8e96ce9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-22T17:18:34+09:00</updated>
+    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rinrion&quot;&gt;rinrion&lt;/a&gt;&lt;br/&gt;Published: 2026-09-22T17:18:33+09:00&lt;br/&gt;Updated: 2026-09-22T17:18:34+09:00&lt;br/&gt;こんにちは！AtCoderユーザーの rinrion です。
+2026年9月19日に行われたJIJプログラミングコンテスト 2026（AtCoder Beginner Contest 476）にて、アルゴリズムレートで入緑することができました。
+AtCoder歴7年4か月、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ed4c760f616cf3c0a958</id>
     <title>みのるん式 登壇資料の作成ノウハウをスキルとして公開しました！</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/ed4c760f616cf3c0a958?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -262,15 +271,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
     <summary type="html">Likes: 87&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/h-nabata&quot;&gt;h-nabata&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T02:34:14+09:00&lt;br/&gt;Updated: 2026-08-24T02:34:14+09:00&lt;br/&gt;はじめに
 先週、LLMCが大規模言語モデル「LLM-jp-4 33B」を公開した。これは約332億パラメーターのDense型のモデルで、今年4月に公開されたMoE型のモデルのDense版に対応する。
 以前、性能比較検証に関してLLMCが以下のような声明を発表している。確か...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b381ccf563d6d8e96ce9</id>
-    <title>50代プログラミング未経験者が7年かけてAtCoderで入緑した話</title>
-    <link rel="alternate" href="https://qiita.com/rinrion/items/b381ccf563d6d8e96ce9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-22T17:18:34+09:00</updated>
-    <summary type="html">Likes: 86&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rinrion&quot;&gt;rinrion&lt;/a&gt;&lt;br/&gt;Published: 2026-09-22T17:18:33+09:00&lt;br/&gt;Updated: 2026-09-22T17:18:34+09:00&lt;br/&gt;こんにちは！AtCoderユーザーの rinrion です。
-2026年9月19日に行われたJIJプログラミングコンテスト 2026（AtCoder Beginner Contest 476）にて、アルゴリズムレートで入緑することができました。
-AtCoder歴7年4か月、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f27e52d2f852ba017a7e</id>
@@ -1405,6 +1405,13 @@ GitもDBもAPIも、仕事で触るたびに「これなんだっけ」となり
 先輩たちが「これ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1002367721b1650fcdf3</id>
+    <title>攻撃者の視点でセキュリティを理解したいエンジニアへ。bashで学ぶ侵入技術の実践書</title>
+    <link rel="alternate" href="https://qiita.com/yasu1109/items/1002367721b1650fcdf3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-23T08:56:43+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yasu1109&quot;&gt;yasu1109&lt;/a&gt;&lt;br/&gt;Published: 2026-09-23T08:56:43+09:00&lt;br/&gt;Updated: 2026-09-23T08:56:43+09:00&lt;br/&gt;脆弱性診断のレポートを読んでも、どういう手順で攻撃者がそこにたどり着くのか実感が湧かない。守る側の知識だけを積み上げていると、対策の優先順位を誤ってしまうことがある。『侵入技術入門 ―bashで学ぶ攻撃者の技法』は、あえて攻撃者の手順を追体験させることでその感覚のズレを埋め...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f8f00a1330b249830a3d</id>
     <title>AI時代にコードの理解を「習慣にする」ために1日5問の学習アプリを作った話</title>
     <link rel="alternate" href="https://qiita.com/kitagawa_sapeet/items/f8f00a1330b249830a3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1961,13 +1968,6 @@ TL;DR
 これ、何の数字だと思いますか。
 AIエージェントに「このルールを守って作業して」と指示書を渡したとき、実際にちゃんと守れた割合です。しかも、これが一番マシだったモデルのスコア。ほとんどのモデルは25%を下回りました。
 2026年7月28日に arXiv に上が...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1002367721b1650fcdf3</id>
-    <title>攻撃者の視点でセキュリティを理解したいエンジニアへ。bashで学ぶ侵入技術の実践書</title>
-    <link rel="alternate" href="https://qiita.com/yasu1109/items/1002367721b1650fcdf3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-23T08:56:43+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yasu1109&quot;&gt;yasu1109&lt;/a&gt;&lt;br/&gt;Published: 2026-09-23T08:56:43+09:00&lt;br/&gt;Updated: 2026-09-23T08:56:43+09:00&lt;br/&gt;脆弱性診断のレポートを読んでも、どういう手順で攻撃者がそこにたどり着くのか実感が湧かない。守る側の知識だけを積み上げていると、対策の優先順位を誤ってしまうことがある。『侵入技術入門 ―bashで学ぶ攻撃者の技法』は、あえて攻撃者の手順を追体験させることでその感覚のズレを埋め...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c0f5b86dfb8a3106cbaf</id>
