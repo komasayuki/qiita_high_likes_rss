@@ -202,7 +202,7 @@
       "updated": "2026-09-23T08:56:43+09:00",
       "author_name": "yasu1109",
       "likes_count": 34,
-      "last_seen": "2026-09-24T19:03:05.126077826+00:00"
+      "last_seen": "2026-09-24T22:16:09.402507848+00:00"
     },
     {
       "key": "11358e8e8966d5e48a09",
@@ -527,18 +527,6 @@
       "author_name": "yakumo_09",
       "likes_count": 11,
       "last_seen": "2026-08-10T19:09:52.911392448+00:00"
-    },
-    {
-      "key": "21c54529410ba960c388",
-      "item_id": "21c54529410ba960c388",
-      "title": "JenkinsでGitHub Copilot CLIにPRを自動レビューさせる ― E2BIG・プロンプトインジェクション・トークン地獄との戦い",
-      "link": "https://qiita.com/jqit-yukiono/items/21c54529410ba960c388?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "PR が来るたびに @github/copilot で差分を自動レビューし、結果を PR コメントに\n貼る Jenkins パイプラインを作りました。\n「Copilot CLI を -p で叩くだけでしょ?」と思って始めたら、Linux の argv サイズ上限、\nプロンプ...",
-      "published": "2026-07-25T07:20:08+09:00",
-      "updated": "2026-07-25T07:20:09+09:00",
-      "author_name": "jqit-yukiono",
-      "likes_count": 16,
-      "last_seen": "2026-07-26T19:24:41.011387939+00:00"
     },
     {
       "key": "21da0b9fad77240eed49",
@@ -1573,18 +1561,6 @@
       "last_seen": "2026-09-17T07:34:06.139210818+00:00"
     },
     {
-      "key": "516da72f0627c3728fbe",
-      "item_id": "516da72f0627c3728fbe",
-      "title": "「何から始めるか問題」で、結局何も始められなかった話",
-      "link": "https://qiita.com/sumomoo/items/516da72f0627c3728fbe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや\n考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\n「何から始...",
-      "published": "2026-07-23T18:19:17+09:00",
-      "updated": "2026-07-23T18:19:17+09:00",
-      "author_name": "sumomoo",
-      "likes_count": 61,
-      "last_seen": "2026-07-26T19:24:41.011387939+00:00"
-    },
-    {
       "key": "522f0bcac1532e23048d",
       "item_id": "522f0bcac1532e23048d",
       "title": "【体験談】1年目、バッチ実装で3ヶ月溶かした話 — 『世界一流エンジニアの思考法』で振り返る",
@@ -1714,7 +1690,7 @@
       "updated": "2026-09-22T15:09:50+09:00",
       "author_name": "imazatooo",
       "likes_count": 11,
-      "last_seen": "2026-09-24T19:03:05.126077826+00:00"
+      "last_seen": "2026-09-24T22:16:09.402507848+00:00"
     },
     {
       "key": "5aa4bc07279ea271909a",
@@ -1726,7 +1702,7 @@
       "updated": "2026-09-25T03:04:59+09:00",
       "author_name": "songchong",
       "likes_count": 13,
-      "last_seen": "2026-09-24T19:03:05.126077826+00:00"
+      "last_seen": "2026-09-24T22:16:09.402507848+00:00"
     },
     {
       "key": "5bfc4baad0c487475355",
@@ -1739,18 +1715,6 @@
       "author_name": "ichiken26",
       "likes_count": 11,
       "last_seen": "2026-07-28T18:23:38.322593376+00:00"
-    },
-    {
-      "key": "5d2c29a949a82eea6020",
-      "item_id": "5d2c29a949a82eea6020",
-      "title": "`&&` は「かつ」ではない",
-      "link": "https://qiita.com/mameshivaa/items/5d2c29a949a82eea6020?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "&amp;&amp; はなぜ言語によって「Boolean」を返したり「オペランドの値」を返したりするのか — 歴史的経緯の調査\na &amp;&amp; b という式の値は、言語ファミリーによって異なる。\n\nC / Java 系: 真偽値を返す。C では int の 1 か 0、Java では boo...",
-      "published": "2026-07-23T19:41:09+09:00",
-      "updated": "2026-07-23T19:41:09+09:00",
-      "author_name": "mameshivaa",
-      "likes_count": 12,
-      "last_seen": "2026-07-26T19:24:41.011387939+00:00"
     },
     {
       "key": "5d733c267370e0e06661",
@@ -2746,7 +2710,7 @@
       "updated": "2026-09-24T00:06:57+09:00",
       "author_name": "songchong",
       "likes_count": 20,
-      "last_seen": "2026-09-24T19:03:05.126077826+00:00"
+      "last_seen": "2026-09-24T22:16:09.402507848+00:00"
     },
     {
       "key": "8944ef8b521517f92da0",
@@ -3373,6 +3337,18 @@
       "last_seen": "2026-08-09T07:10:23.772151508+00:00"
     },
     {
+      "key": "a5f34349c0b6ba8f3f62",
+      "item_id": "a5f34349c0b6ba8f3f62",
+      "title": "OpenAI APIキーをOCI VaultとResource PrincipalでセキュアにしてSelect AIしてみてみた",
+      "link": "https://qiita.com/shirok/items/a5f34349c0b6ba8f3f62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "以前、Autonomous AI DatabaseのSelect AIからOpenAI APIを呼び出し、自然言語でデータベースへ問い合わせてみました。\n\nOpenAI APIを使用して自然言語でSelect AIしてみてみた\n\n前回は、OpenAI APIを使ってSe...",
+      "published": "2026-09-24T06:54:03+09:00",
+      "updated": "2026-09-24T15:18:11+09:00",
+      "author_name": "shirok",
+      "likes_count": 10,
+      "last_seen": "2026-09-24T22:16:09.402507848+00:00"
+    },
+    {
       "key": "a63285193c854a3b19da",
       "item_id": "a63285193c854a3b19da",
       "title": "「AI があればプログラマーはいらない」という風潮が危険な理由",
@@ -3395,18 +3371,6 @@
       "author_name": "kasumi_sato",
       "likes_count": 13,
       "last_seen": "2026-08-17T07:11:55.967702044+00:00"
-    },
-    {
-      "key": "a784d74541fac33f6814",
-      "item_id": "a784d74541fac33f6814",
-      "title": "AI-DLC V2を導入し、その構成要素を組織に最適化させる",
-      "link": "https://qiita.com/Syoitu/items/a784d74541fac33f6814?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "前書き\nAI-DLC V2の仕様、みなさんはもう読まれたでしょうか\n\n2026年7月22日にAI-DLC V2がGAされ、V1の公開からおよそ1年が経過しました。\nこの間に成熟してきたAIエコシステムに合わせて、様々なアップデートが行われています。\nこの記事では、AI...",
-      "published": "2026-07-24T19:14:47+09:00",
-      "updated": "2026-07-24T19:14:47+09:00",
-      "author_name": "Syoitu",
-      "likes_count": 10,
-      "last_seen": "2026-07-26T19:24:41.011387939+00:00"
     },
     {
       "key": "a79f056fab859293e0b3",
@@ -3753,8 +3717,8 @@
       "published": "2026-09-22T17:18:33+09:00",
       "updated": "2026-09-22T17:18:34+09:00",
       "author_name": "rinrion",
-      "likes_count": 99,
-      "last_seen": "2026-09-24T19:03:05.126077826+00:00"
+      "likes_count": 100,
+      "last_seen": "2026-09-24T22:16:09.402507848+00:00"
     },
     {
       "key": "b44d4e2b526aa009f822",
@@ -4833,8 +4797,8 @@
       "published": "2026-09-22T13:23:52+09:00",
       "updated": "2026-09-22T13:23:52+09:00",
       "author_name": "taihong",
-      "likes_count": 18,
-      "last_seen": "2026-09-24T19:03:05.126077826+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-09-24T22:16:09.402507848+00:00"
     },
     {
       "key": "e94acdcd34f52a1bc5f1",
