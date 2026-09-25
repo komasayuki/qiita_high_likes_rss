@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-09-25T18:23:52+09:00</updated>
+  <updated>2026-09-25T20:39:47+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -418,7 +418,7 @@ JevはTypeSafe AIが2026年9月15日に...</summary>
     <title>Claude Code の拒否ルールを7つの形で測った。最新版でまだ4つ残っている</title>
     <link rel="alternate" href="https://qiita.com/suwa_nobu/items/d21ff35b9329eecc6143?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-09-25T10:29:41+09:00</updated>
-    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-25T10:29:40+09:00&lt;br/&gt;Updated: 2026-09-25T10:29:41+09:00&lt;br/&gt;permissions.deny に書いたルールが、書いたとおりに効かないことがあります。
+    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-25T10:29:40+09:00&lt;br/&gt;Updated: 2026-09-25T10:29:41+09:00&lt;br/&gt;permissions.deny に書いたルールが、書いたとおりに効かないことがあります。
 2026-09-11 から 09-24 までの2週間で、Claude Code の権限まわりの修正が7つの版に出ました
 （2.1.269 / 271 / 273 / 274 / 27...</summary>
   </entry>
@@ -446,24 +446,11 @@ https://prum.jp/
 2026年9月8日、生成AI が数学分野で有名なミレニアム懸賞問題のひとつ、ナビエ・ストークス方程式の存在と滑らかさに関する問題（の一部）を解決したという発表がありました。...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:d8c22cb512d9ba036154</id>
-    <title>AI時代のポートフォリオ、転職で本当に見られているのは「言語化力」</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/d8c22cb512d9ba036154?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-24T17:14:32+09:00</updated>
-    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-07-24T17:14:32+09:00&lt;br/&gt;Updated: 2026-07-24T17:14:32+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-転職活動で...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:92d4de34077b9ae02fca</id>
     <title>許可ルールを settings.json に書いても効かなかった。分かれ目はフォルダを信頼したかどうか</title>
     <link rel="alternate" href="https://qiita.com/suwa_nobu/items/92d4de34077b9ae02fca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-09-25T10:29:26+09:00</updated>
-    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-25T10:29:25+09:00&lt;br/&gt;Updated: 2026-09-25T10:29:26+09:00&lt;br/&gt;permissions.allow に書いたルールが効かないことがあります。
+    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-25T10:29:25+09:00&lt;br/&gt;Updated: 2026-09-25T10:29:26+09:00&lt;br/&gt;permissions.allow に書いたルールが効かないことがあります。
 同じルールを --allowedTools で渡すと効きます。 56回測って、分かれ目が分かりました。
 未信頼のフォルダ   .claude/settings.json に書いた許可ルール   0...</summary>
   </entry>
@@ -512,6 +499,13 @@ Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENT
 この記事は、仕事のかなりの部分をエージェントに渡してみて痛感した「それでも人間に残る仕事は何か」を、自分の失敗込みで整理したポエムです。あなた...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1002367721b1650fcdf3</id>
+    <title>攻撃者の視点でセキュリティを理解したいエンジニアへ。bashで学ぶ侵入技術の実践書</title>
+    <link rel="alternate" href="https://qiita.com/yasu1109/items/1002367721b1650fcdf3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-23T08:56:43+09:00</updated>
+    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yasu1109&quot;&gt;yasu1109&lt;/a&gt;&lt;br/&gt;Published: 2026-09-23T08:56:43+09:00&lt;br/&gt;Updated: 2026-09-23T08:56:43+09:00&lt;br/&gt;脆弱性診断のレポートを読んでも、どういう手順で攻撃者がそこにたどり着くのか実感が湧かない。守る側の知識だけを積み上げていると、対策の優先順位を誤ってしまうことがある。『侵入技術入門 ―bashで学ぶ攻撃者の技法』は、あえて攻撃者の手順を追体験させることでその感覚のズレを埋め...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ced6a0aa744379d338b6</id>
     <title>AIセキュリティ何から勉強すりゃええの？</title>
     <link rel="alternate" href="https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -555,13 +549,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 参考になる方がいれば幸いです。
 今回は【管理】での【教育】について
 実際に一緒に働く時のコミュニケーションな事は前回の①でお話しましたが、今回は【教育】について記載いたしま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1002367721b1650fcdf3</id>
-    <title>攻撃者の視点でセキュリティを理解したいエンジニアへ。bashで学ぶ侵入技術の実践書</title>
-    <link rel="alternate" href="https://qiita.com/yasu1109/items/1002367721b1650fcdf3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-23T08:56:43+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yasu1109&quot;&gt;yasu1109&lt;/a&gt;&lt;br/&gt;Published: 2026-09-23T08:56:43+09:00&lt;br/&gt;Updated: 2026-09-23T08:56:43+09:00&lt;br/&gt;脆弱性診断のレポートを読んでも、どういう手順で攻撃者がそこにたどり着くのか実感が湧かない。守る側の知識だけを積み上げていると、対策の優先順位を誤ってしまうことがある。『侵入技術入門 ―bashで学ぶ攻撃者の技法』は、あえて攻撃者の手順を追体験させることでその感覚のズレを埋め...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:e867493a5cbcdfaa40c9</id>
@@ -617,6 +604,16 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8acd9b94dfe56fefc0dc</id>
+    <title>AI生成そのままのスライドを使った登壇が多すぎてちょっと食傷気味なんだよォーーーッ！！！</title>
+    <link rel="alternate" href="https://qiita.com/shimagaji/items/8acd9b94dfe56fefc0dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-24T23:40:45+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shimagaji&quot;&gt;shimagaji&lt;/a&gt;&lt;br/&gt;Published: 2026-09-24T23:40:45+09:00&lt;br/&gt;Updated: 2026-09-24T23:40:45+09:00&lt;br/&gt;ちいかわは未履修です。
+
+本記事は「カンファレンスなどでAI生成のスライドをそのまま使った登壇が多すぎてしんどい」という主張を、「それってあなたの感想ですよね」となるべく言われないように可能な限り補強したものです。裏付けが正直弱いのでポエムとしてお読みください。
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7affa2e2ef22ebf93fa6</id>
     <title>アクセスログから不正アクセスの兆候を見つける7つの集計(nginx/Apache対応・コピペOK)</title>
     <link rel="alternate" href="https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -646,14 +643,20 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 APIの料金体系、利用条件...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:8acd9b94dfe56fefc0dc</id>
-    <title>AI生成そのままのスライドを使った登壇が多すぎてちょっと食傷気味なんだよォーーーッ！！！</title>
-    <link rel="alternate" href="https://qiita.com/shimagaji/items/8acd9b94dfe56fefc0dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-24T23:40:45+09:00</updated>
-    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shimagaji&quot;&gt;shimagaji&lt;/a&gt;&lt;br/&gt;Published: 2026-09-24T23:40:45+09:00&lt;br/&gt;Updated: 2026-09-24T23:40:45+09:00&lt;br/&gt;ちいかわは未履修です。
-
-本記事は「カンファレンスなどでAI生成のスライドをそのまま使った登壇が多すぎてしんどい」という主張を、「それってあなたの感想ですよね」となるべく言われないように可能な限り補強したものです。裏付けが正直弱いのでポエムとしてお読みください。
-...</summary>
+    <id>tag:qiita.com,2026:8675266928f574677d9e</id>
+    <title>JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI</title>
+    <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/8675266928f574677d9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-25T20:39:47+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit-yukiono&quot;&gt;jqit-yukiono&lt;/a&gt;&lt;br/&gt;Published: 2026-09-25T20:39:46+09:00&lt;br/&gt;Updated: 2026-09-25T20:39:47+09:00&lt;br/&gt;JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI
+これまでに、GitHub Actionsの失敗を自己修復するパイプラインと、JenkinsでGitHub Copilot CLIにPRを自動レ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:21973aaa1c605b34c174</id>
+    <title>個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故</title>
+    <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/21973aaa1c605b34c174?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-25T20:38:44+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit-yukiono&quot;&gt;jqit-yukiono&lt;/a&gt;&lt;br/&gt;Published: 2026-09-25T20:38:43+09:00&lt;br/&gt;Updated: 2026-09-25T20:38:44+09:00&lt;br/&gt;個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故
+前回の記事で、iOS（UIKit）+ FastAPI + Kubernetesで作ったMinecraftサーバー監視アプリ「MineWatch」が3回のリジェクトを...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a031d4928ddb7caa0784</id>
@@ -1520,19 +1523,6 @@ ECS・Lambda・RDSなどの言葉を聞いたことはあるが、なぜそれ�
 「開発者にとってCopili...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b5b8a10713e2a96a2861</id>
-    <title>ITパスポートと基本情報の違いは？どちらを勉強すべき？</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/b5b8a10713e2a96a2861?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-24T17:11:36+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-07-24T17:10:54+09:00&lt;br/&gt;Updated: 2026-07-24T17:11:36+09:00&lt;br/&gt;はじめに
-
-実務で使うわけじゃないし、資格の勉強なんて後回しでいい。そう思っていたぷらむんですが、先輩に話を聞いて、資格勉強と向き合うことにしました。
-
-会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
-
-実は最近まで、「資格なんて実...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:5da484e533d0d574045d</id>
     <title>プロも毎日ググっている。エラーで固まらないための「検索力」の話</title>
     <link rel="alternate" href="https://qiita.com/m__ikeda/items/5da484e533d0d574045d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1676,6 +1666,14 @@ We...</summary>
 Geminiでこんなプロンプトを入力すると...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:89175eaa7a30f71d0351</id>
+    <title>MCP サーバーと繋いだだけで情報漏洩？ 危険の4パターンと事前に確認すべき7つのことをまとめてみた</title>
+    <link rel="alternate" href="https://qiita.com/songchong/items/89175eaa7a30f71d0351?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-25T18:23:52+09:00</updated>
+    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-24T00:06:57+09:00&lt;br/&gt;Updated: 2026-09-25T18:23:52+09:00&lt;br/&gt;MCP（Model Context Protocol）を使うとき、利用者は Claude・Codex・Antigravity などの AI エージェントに頼めば（あるいは簡単な設定をすれば）、AI エージェントが MCP サーバーのツールを呼び出せるようになります。
+簡単...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fdb57313458c2aa1bcdc</id>
     <title>新言語「Hike」をシステムに採用したらバイナリ99.8%削減・ネットワークも実働処理も爆速になった話</title>
     <link rel="alternate" href="https://qiita.com/kinop3/items/fdb57313458c2aa1bcdc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1775,14 +1773,6 @@ K⁺oji Na⁺kamura
 TL;DR
 
 20...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:89175eaa7a30f71d0351</id>
-    <title>MCP サーバーと繋いだだけで情報漏洩？ 危険の4パターンと事前に確認すべき7つのことをまとめてみた</title>
-    <link rel="alternate" href="https://qiita.com/songchong/items/89175eaa7a30f71d0351?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-25T18:23:52+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-24T00:06:57+09:00&lt;br/&gt;Updated: 2026-09-25T18:23:52+09:00&lt;br/&gt;MCP（Model Context Protocol）を使うとき、利用者は Claude・Codex・Antigravity などの AI エージェントに頼めば（あるいは簡単な設定をすれば）、AI エージェントが MCP サーバーのツールを呼び出せるようになります。
-簡単...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:92c094b554d090b54a17</id>

@@ -201,8 +201,8 @@
       "published": "2026-09-23T08:56:43+09:00",
       "updated": "2026-09-23T08:56:43+09:00",
       "author_name": "yasu1109",
-      "likes_count": 55,
-      "last_seen": "2026-09-25T18:30:16.980408160+00:00"
+      "likes_count": 56,
+      "last_seen": "2026-09-25T22:14:00.355812649+00:00"
     },
     {
       "key": "11358e8e8966d5e48a09",
@@ -505,18 +505,6 @@
       "last_seen": "2026-09-11T04:29:05.674977251+00:00"
     },
     {
-      "key": "207bf475d3bf2757afe6",
-      "item_id": "207bf475d3bf2757afe6",
-      "title": "2TパラメータのLLMはいつ100GBに収まるか ― LLM推論のメモリ階層管理はCPUマイクロアーキテクチャ史を再演している",
-      "link": "https://qiita.com/sukimaengineer/items/207bf475d3bf2757afe6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "本記事の執筆には Anthropic の Claude Fable 5 とそのリサーチ機能を使用しています。会話で組み立てた論旨に対して、リサーチ機能で一次情報(arXiv論文・公式ブログ・技術報道)の収集と全数値のファクトチェックを行い、判明した誤りを訂正しています。...",
-      "published": "2026-07-24T21:41:24+09:00",
-      "updated": "2026-07-25T09:20:51+09:00",
-      "author_name": "sukimaengineer",
-      "likes_count": 13,
-      "last_seen": "2026-07-27T19:48:19.798360870+00:00"
-    },
-    {
       "key": "210e60518b5bb7dbc4e0",
       "item_id": "210e60518b5bb7dbc4e0",
       "title": "【AWS】Bedrock MantleがAPI キーレスで使えるっぽいのでやってみた",
@@ -527,6 +515,18 @@
       "author_name": "yakumo_09",
       "likes_count": 11,
       "last_seen": "2026-08-10T19:09:52.911392448+00:00"
+    },
+    {
+      "key": "21973aaa1c605b34c174",
+      "item_id": "21973aaa1c605b34c174",
+      "title": "個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故",
+      "link": "https://qiita.com/jqit-yukiono/items/21973aaa1c605b34c174?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故\n前回の記事で、iOS（UIKit）+ FastAPI + Kubernetesで作ったMinecraftサーバー監視アプリ「MineWatch」が3回のリジェクトを...",
+      "published": "2026-09-25T20:38:43+09:00",
+      "updated": "2026-09-25T20:38:44+09:00",
+      "author_name": "jqit-yukiono",
+      "likes_count": 50,
+      "last_seen": "2026-09-25T22:14:00.355812649+00:00"
     },
     {
       "key": "21da0b9fad77240eed49",
@@ -1293,8 +1293,8 @@
       "published": "2026-09-24T00:11:53+09:00",
       "updated": "2026-09-24T00:39:18+09:00",
       "author_name": "ast-24",
-      "likes_count": 19,
-      "last_seen": "2026-09-25T18:30:16.980408160+00:00"
+      "likes_count": 22,
+      "last_seen": "2026-09-25T22:14:00.355812649+00:00"
     },
     {
       "key": "4591be7133e2f9d1d3cd",
@@ -1306,7 +1306,7 @@
       "updated": "2026-09-25T09:16:54+09:00",
       "author_name": "wawasaki2468",
       "likes_count": 55,
-      "last_seen": "2026-09-25T18:30:16.980408160+00:00"
+      "last_seen": "2026-09-25T22:14:00.355812649+00:00"
     },
     {
       "key": "45b66545bb7ea88e8403",
@@ -1545,8 +1545,8 @@
       "published": "2026-09-24T08:24:54+09:00",
       "updated": "2026-09-24T11:31:56+09:00",
       "author_name": "Takashi_Masumori",
-      "likes_count": 18,
-      "last_seen": "2026-09-25T18:30:16.980408160+00:00"
+      "likes_count": 21,
+      "last_seen": "2026-09-25T22:14:00.355812649+00:00"
     },
     {
       "key": "50d638e7a3c2d76e0531",
@@ -1835,18 +1835,6 @@
       "author_name": "suwa_nobu",
       "likes_count": 30,
       "last_seen": "2026-09-04T04:21:27.918830378+00:00"
-    },
-    {
-      "key": "6022101976268fa573c8",
-      "item_id": "6022101976268fa573c8",
-      "title": "なぜ私はPyCharmを使い続けるのか",
-      "link": "https://qiita.com/harupython/items/6022101976268fa573c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "この記事は 「JetBrainsを使い倒す」シリーズ の記事です。\nPyCharmをはじめとするJetBrains製品をレビューしたり情報を発信しています。\n\nハッカソンに参加すると、いつも同じことが起きる。\n「エディタ何使ってます？」という話題になる。\n「PyCha...",
-      "published": "2026-07-24T18:58:31+09:00",
-      "updated": "2026-07-24T18:58:31+09:00",
-      "author_name": "harupython",
-      "likes_count": 15,
-      "last_seen": "2026-07-27T19:48:19.798360870+00:00"
     },
     {
       "key": "60cc8e04d60bbfcf7fa7",
@@ -2665,6 +2653,18 @@
       "last_seen": "2026-08-15T19:29:33.579621953+00:00"
     },
     {
+      "key": "8675266928f574677d9e",
+      "item_id": "8675266928f574677d9e",
+      "title": "JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI",
+      "link": "https://qiita.com/jqit-yukiono/items/8675266928f574677d9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI\nこれまでに、GitHub Actionsの失敗を自己修復するパイプラインと、JenkinsでGitHub Copilot CLIにPRを自動レ...",
+      "published": "2026-09-25T20:39:46+09:00",
+      "updated": "2026-09-25T20:39:47+09:00",
+      "author_name": "jqit-yukiono",
+      "likes_count": 50,
+      "last_seen": "2026-09-25T22:14:00.355812649+00:00"
+    },
+    {
       "key": "86a44010e433b1d0081c",
       "item_id": "86a44010e433b1d0081c",
       "title": "【未経験】勉強する時間がない。それでも今の仕事の中で、ITにつながる経験はつくれる",
@@ -2698,7 +2698,7 @@
       "updated": "2026-09-25T10:29:12+09:00",
       "author_name": "suwa_nobu",
       "likes_count": 59,
-      "last_seen": "2026-09-25T18:30:16.980408160+00:00"
+      "last_seen": "2026-09-25T22:14:00.355812649+00:00"
     },
     {
       "key": "880a89f6cd25a3f115b5",
@@ -2733,8 +2733,8 @@
       "published": "2026-09-24T00:06:57+09:00",
       "updated": "2026-09-25T18:23:52+09:00",
       "author_name": "songchong",
-      "likes_count": 29,
-      "last_seen": "2026-09-25T18:30:16.980408160+00:00"
+      "likes_count": 30,
+      "last_seen": "2026-09-25T22:14:00.355812649+00:00"
     },
     {
       "key": "8944ef8b521517f92da0",
@@ -2781,8 +2781,8 @@
       "published": "2026-09-24T23:40:45+09:00",
       "updated": "2026-09-24T23:40:45+09:00",
       "author_name": "shimagaji",
-      "likes_count": 50,
-      "last_seen": "2026-09-25T18:30:16.980408160+00:00"
+      "likes_count": 52,
+      "last_seen": "2026-09-25T22:14:00.355812649+00:00"
     },
     {
       "key": "8ae6739d0bb525e1b41b",
@@ -3033,8 +3033,8 @@
       "published": "2026-09-25T10:29:25+09:00",
       "updated": "2026-09-25T10:29:26+09:00",
       "author_name": "suwa_nobu",
-      "likes_count": 59,
-      "last_seen": "2026-09-25T18:30:16.980408160+00:00"
+      "likes_count": 60,
+      "last_seen": "2026-09-25T22:14:00.355812649+00:00"
     },
     {
       "key": "93342baa7c3339b435bd",
@@ -3394,7 +3394,7 @@
       "updated": "2026-09-24T15:18:11+09:00",
       "author_name": "shirok",
       "likes_count": 11,
-      "last_seen": "2026-09-25T18:30:16.980408160+00:00"
+      "last_seen": "2026-09-25T22:14:00.355812649+00:00"
     },
     {
       "key": "a63285193c854a3b19da",
@@ -3841,18 +3841,6 @@
       "last_seen": "2026-09-21T06:12:12.143280899+00:00"
     },
     {
-      "key": "b5b8a10713e2a96a2861",
-      "item_id": "b5b8a10713e2a96a2861",
-      "title": "ITパスポートと基本情報の違いは？どちらを勉強すべき？",
-      "link": "https://qiita.com/prumnn/items/b5b8a10713e2a96a2861?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n\n実務で使うわけじゃないし、資格の勉強なんて後回しでいい。そう思っていたぷらむんですが、先輩に話を聞いて、資格勉強と向き合うことにしました。\n\n会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯\n\n実は最近まで、「資格なんて実...",
-      "published": "2026-07-24T17:10:54+09:00",
-      "updated": "2026-07-24T17:11:36+09:00",
-      "author_name": "prumnn",
-      "likes_count": 34,
-      "last_seen": "2026-07-27T19:48:19.798360870+00:00"
-    },
-    {
       "key": "b5e2150055933b51fba3",
       "item_id": "b5e2150055933b51fba3",
       "title": "Jevで要件定義書をレビューするアプリを作った",
@@ -3982,7 +3970,7 @@
       "updated": "2026-09-25T13:30:33+09:00",
       "author_name": "1nori_",
       "likes_count": 13,
-      "last_seen": "2026-09-25T18:30:16.980408160+00:00"
+      "last_seen": "2026-09-25T22:14:00.355812649+00:00"
     },
     {
       "key": "bdcf0f87abb04047da6f",
@@ -4377,8 +4365,8 @@
       "published": "2026-09-25T10:29:40+09:00",
       "updated": "2026-09-25T10:29:41+09:00",
       "author_name": "suwa_nobu",
-      "likes_count": 61,
-      "last_seen": "2026-09-25T18:30:16.980408160+00:00"
+      "likes_count": 62,
+      "last_seen": "2026-09-25T22:14:00.355812649+00:00"
     },
     {
       "key": "d23855d5634f528f796c",
@@ -4523,18 +4511,6 @@
       "author_name": "teppei19980914",
       "likes_count": 17,
       "last_seen": "2026-08-12T06:22:59.842565958+00:00"
-    },
-    {
-      "key": "d8c22cb512d9ba036154",
-      "item_id": "d8c22cb512d9ba036154",
-      "title": "AI時代のポートフォリオ、転職で本当に見られているのは「言語化力」",
-      "link": "https://qiita.com/sumomoo/items/d8c22cb512d9ba036154?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや\n考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\n転職活動で...",
-      "published": "2026-07-24T17:14:32+09:00",
-      "updated": "2026-07-24T17:14:32+09:00",
-      "author_name": "sumomoo",
-      "likes_count": 61,
-      "last_seen": "2026-07-27T19:48:19.798360870+00:00"
     },
     {
       "key": "da1cd811a3a7408472d2",
