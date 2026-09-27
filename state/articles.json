@@ -145,18 +145,6 @@
       "last_seen": "2026-07-31T08:06:54.208807569+00:00"
     },
     {
-      "key": "0eceb428cb3f45bb7cfb",
-      "item_id": "0eceb428cb3f45bb7cfb",
-      "title": "自治体におけるインターネット分離10年の総括 —— 技術類型・運用の現実・ゼロトラストへの道",
-      "link": "https://qiita.com/k2_naka/items/0eceb428cb3f45bb7cfb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "筆者\n\n役割\n担当\n\n課題提示\nK⁺oji Na⁺kamura\n\n原案作成\nClaude Fable 5,GPT-5.6 Sol\n\n出典確認支援・加筆\nGPT-5.6 Sol\n\n技術面のチェック\nK⁺oji Na⁺kamura\n\nTL;DR\n\n20...",
-      "published": "2026-07-26T15:11:27+09:00",
-      "updated": "2026-07-27T21:03:03+09:00",
-      "author_name": "k2_naka",
-      "likes_count": 30,
-      "last_seen": "2026-07-29T06:41:21.773163051+00:00"
-    },
-    {
       "key": "0f93dd0b38fda076174f",
       "item_id": "0f93dd0b38fda076174f",
       "title": "Grill-me に丸コゲにされた俺は、もっと軽くて速いスキルを作った",
@@ -827,18 +815,6 @@
       "author_name": "y0us91",
       "likes_count": 319,
       "last_seen": "2026-08-14T19:54:02.626974896+00:00"
-    },
-    {
-      "key": "308919aca9e9770b0643",
-      "item_id": "308919aca9e9770b0643",
-      "title": "その質問に、そのまま答えていいのか",
-      "link": "https://qiita.com/sgrs38/items/308919aca9e9770b0643?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "たとえば、こんなやり取りがあるとします。仕事で使っているAIツールのコストの話です。\nAさん「使う人数が増えると、そのぶんコストも増えますか。できれば節約もしたいので」\nBさん「はい、人数に比例して増えます。減らせそうなところは、こちらでも調べてみます」\n事実として、何も間...",
-      "published": "2026-07-27T15:17:16+09:00",
-      "updated": "2026-07-27T15:17:16+09:00",
-      "author_name": "sgrs38",
-      "likes_count": 10,
-      "last_seen": "2026-07-29T06:41:21.773163051+00:00"
     },
     {
       "key": "311622a5fc6ab82dbfcb",
@@ -1521,8 +1497,8 @@
       "published": "2026-09-24T08:24:54+09:00",
       "updated": "2026-09-24T11:31:56+09:00",
       "author_name": "Takashi_Masumori",
-      "likes_count": 26,
-      "last_seen": "2026-09-27T01:20:20.745175920+00:00"
+      "likes_count": 29,
+      "last_seen": "2026-09-27T08:01:34.685095881+00:00"
     },
     {
       "key": "50d638e7a3c2d76e0531",
@@ -2133,8 +2109,8 @@
       "published": "2026-09-26T16:36:58+09:00",
       "updated": "2026-09-26T19:02:57+09:00",
       "author_name": "Takashi_Masumori",
-      "likes_count": 16,
-      "last_seen": "2026-09-27T01:20:20.745175920+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-09-27T08:01:34.685095881+00:00"
     },
     {
       "key": "6f7c7f85155a993e2c86",
@@ -2757,8 +2733,8 @@
       "published": "2026-09-24T23:40:45+09:00",
       "updated": "2026-09-24T23:40:45+09:00",
       "author_name": "shimagaji",
-      "likes_count": 89,
-      "last_seen": "2026-09-27T01:20:20.745175920+00:00"
+      "likes_count": 123,
+      "last_seen": "2026-09-27T08:01:34.685095881+00:00"
     },
     {
       "key": "8ae6739d0bb525e1b41b",
@@ -3898,7 +3874,7 @@
       "updated": "2026-09-25T13:30:33+09:00",
       "author_name": "1nori_",
       "likes_count": 17,
-      "last_seen": "2026-09-27T01:20:20.745175920+00:00"
+      "last_seen": "2026-09-27T08:01:34.685095881+00:00"
     },
     {
       "key": "bdcf0f87abb04047da6f",
@@ -4705,6 +4681,18 @@
       "last_seen": "2026-09-15T07:38:25.319072434+00:00"
     },
     {
+      "key": "e6518a0d494006fac712",
+      "item_id": "e6518a0d494006fac712",
+      "title": "Lambda 関数 URL で Condition 句による IP アドレス制限が可能になったか検証する",
+      "link": "https://qiita.com/hayao_k/items/e6518a0d494006fac712?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n2026/8/25 のアップデートで AWS Lambda 関数が IAM のリソースベースポリシーの全機能をサポートするようになりました。\n\nLambda function URLs (関数 URL) では、リクエストの認証タイプに AWS_IAM を選択...",
+      "published": "2026-09-25T14:14:33+09:00",
+      "updated": "2026-09-25T15:57:26+09:00",
+      "author_name": "hayao_k",
+      "likes_count": 10,
+      "last_seen": "2026-09-27T08:01:34.685095881+00:00"
+    },
+    {
       "key": "e6f1678b41483943fc04",
       "item_id": "e6f1678b41483943fc04",
       "title": "新しい Copilot Studio が GA したので「ハーネス」とクレジット課金体系を改めて整理してみる",
@@ -4775,18 +4763,6 @@
       "author_name": "taihong",
       "likes_count": 20,
       "last_seen": "2026-09-25T07:40:40.546092579+00:00"
-    },
-    {
-      "key": "e94acdcd34f52a1bc5f1",
-      "item_id": "e94acdcd34f52a1bc5f1",
-      "title": "RTX PRO 6000 BlackwellでAITuberを作りたい",
-      "link": "https://qiita.com/matsudai/items/e94acdcd34f52a1bc5f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "概要\nこちらの記事は「MEDLEY Summer Tech Blog Relay」の10日目の記事です。\n\nRTX PRO 6000 Blackwellの実用的な使い方を探るべく、ローカルAI配信者を実装しました。本記事では、技術選定の背景、システム構成、および実測し...",
-      "published": "2026-07-27T07:54:24+09:00",
-      "updated": "2026-07-27T07:54:24+09:00",
-      "author_name": "matsudai",
-      "likes_count": 16,
-      "last_seen": "2026-07-29T06:41:21.773163051+00:00"
     },
     {
       "key": "ec8cd4dd183e12ac5781",
@@ -4893,8 +4869,8 @@
       "published": "2026-09-25T21:57:18+09:00",
       "updated": "2026-09-25T21:57:18+09:00",
       "author_name": "sagochiko",
-      "likes_count": 33,
-      "last_seen": "2026-09-27T01:20:20.745175920+00:00"
+      "likes_count": 37,
+      "last_seen": "2026-09-27T08:01:34.685095881+00:00"
     },
     {
       "key": "efa52e124c1b4ef3dbff",
