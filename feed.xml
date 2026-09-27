@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-09-26T19:02:57+09:00</updated>
+  <updated>2026-09-26T23:24:10+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -388,6 +388,15 @@ AIで記事を効率的に書くこと自体も素晴らしいのですが、私
 今回は、そんな...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d21ff35b9329eecc6143</id>
+    <title>Claude Code の拒否ルールを7つの形で測った。最新版でまだ4つ残っている</title>
+    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/d21ff35b9329eecc6143?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-25T10:29:41+09:00</updated>
+    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-25T10:29:40+09:00&lt;br/&gt;Updated: 2026-09-25T10:29:41+09:00&lt;br/&gt;permissions.deny に書いたルールが、書いたとおりに効かないことがあります。
+2026-09-11 から 09-24 までの2週間で、Claude Code の権限まわりの修正が7つの版に出ました
+（2.1.269 / 271 / 273 / 274 / 27...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:2be9091b328d8b844640</id>
     <title>JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた</title>
     <link rel="alternate" href="https://qiita.com/kikuziro/items/2be9091b328d8b844640?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -402,15 +411,6 @@ RAG検索を愛している方
 
 ⚡ Jevってなに？
 JevはTypeSafe AIが2026年9月15日に...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d21ff35b9329eecc6143</id>
-    <title>Claude Code の拒否ルールを7つの形で測った。最新版でまだ4つ残っている</title>
-    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/d21ff35b9329eecc6143?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-25T10:29:41+09:00</updated>
-    <summary type="html">Likes: 62&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-25T10:29:40+09:00&lt;br/&gt;Updated: 2026-09-25T10:29:41+09:00&lt;br/&gt;permissions.deny に書いたルールが、書いたとおりに効かないことがあります。
-2026-09-11 から 09-24 までの2週間で、Claude Code の権限まわりの修正が7つの版に出ました
-（2.1.269 / 271 / 273 / 274 / 27...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7f388029f8821fc3ea6c</id>
@@ -648,6 +648,16 @@ APIの料金体系、利用条件...</summary>
 前回の記事では「Goライクな構文のまま、libcフリーでわずか2.56KBのW...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ef77b084ff2dee1f859c</id>
+    <title>AI感のないAWS構成図をAIエージェントに描かせたい！</title>
+    <link rel="alternate" href="https://qiita.com/sagochiko/items/ef77b084ff2dee1f859c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-25T21:57:18+09:00</updated>
+    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sagochiko&quot;&gt;sagochiko&lt;/a&gt;&lt;br/&gt;Published: 2026-09-25T21:57:18+09:00&lt;br/&gt;Updated: 2026-09-25T21:57:18+09:00&lt;br/&gt;みなさんが過去にClaudeやCodex（今後はまとめて「AIエージェント」と呼びます）に作成してもらった構成図ってこんな感じの構成図じゃなかったですか？
+
+アイコンやサブネットの角が丸っぽくてAI感ありますよね。「これじゃ自分で書いたほうがいいや」となっちゃいます。
+コー...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:472325ce548da370ed5d</id>
     <title>話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説</title>
     <link rel="alternate" href="https://qiita.com/yushibats/items/472325ce548da370ed5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -659,16 +669,6 @@ Jevが話題ですね。
 
 ざっくりまとめ
 Jevは、文章で書かれた状況を読み、あらかじめ用意された選択...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ef77b084ff2dee1f859c</id>
-    <title>AI感のないAWS構成図をAIエージェントに描かせたい！</title>
-    <link rel="alternate" href="https://qiita.com/sagochiko/items/ef77b084ff2dee1f859c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-25T21:57:18+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sagochiko&quot;&gt;sagochiko&lt;/a&gt;&lt;br/&gt;Published: 2026-09-25T21:57:18+09:00&lt;br/&gt;Updated: 2026-09-25T21:57:18+09:00&lt;br/&gt;みなさんが過去にClaudeやCodex（今後はまとめて「AIエージェント」と呼びます）に作成してもらった構成図ってこんな感じの構成図じゃなかったですか？
-
-アイコンやサブネットの角が丸っぽくてAI感ありますよね。「これじゃ自分で書いたほうがいいや」となっちゃいます。
-コー...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:224f55bc85b813930f61</id>
@@ -1502,18 +1502,6 @@ ECS・Lambda・RDSなどの言葉を聞いたことはあるが、なぜそれ�
 もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c5daff368bc75c79e7b0</id>
-    <title>「え！！Microsoft 365 Copilotでアプリ作成を！？」「出来らぁ！」</title>
-    <link rel="alternate" href="https://qiita.com/Oyu3m/items/c5daff368bc75c79e7b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-27T01:38:09+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Oyu3m&quot;&gt;Oyu3m&lt;/a&gt;&lt;br/&gt;Published: 2026-07-27T01:32:33+09:00&lt;br/&gt;Updated: 2026-07-27T01:38:09+09:00&lt;br/&gt;前提
-この記事は2026/7/25時点での公開情報や動作を私なりにまとめたものとなります。
-正確な情報はご自身でご確認もしくは Microsoft へお問い合わせください。
-
-え！！Microsoft 365 Copilotでアプリ作成を！？
-「開発者にとってCopili...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:89175eaa7a30f71d0351</id>
     <title>MCP サーバーと繋いだだけで情報漏洩？ 危険の4パターンと事前に確認すべき7つのことをまとめてみた</title>
     <link rel="alternate" href="https://qiita.com/songchong/items/89175eaa7a30f71d0351?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1910,6 +1898,17 @@ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-cu
 公式リリースノートでは、Agents window 内で Markdown を表示・...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:44664e57e2738614fccf</id>
+    <title>自分の頭で考えることって重要だよなと改めて思わされた話</title>
+    <link rel="alternate" href="https://qiita.com/ike_s_muramatsu/items/44664e57e2738614fccf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-26T12:37:47+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ike_s_muramatsu&quot;&gt;ike_s_muramatsu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-26T12:37:47+09:00&lt;br/&gt;Updated: 2026-09-26T12:37:47+09:00&lt;br/&gt;Who am I?
+都内のSIerに勤務する社会人6年目になったインフラエンジニアです。
+今年からOJTを担当するようになりました。
+人材育成を専門にしているわけでも、これまで何人もの新人を育ててきたわけでもありません。
+本記事はあくまで、初めてOJTを担当したり、複数名...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4d27833640ff36b5d8c5</id>
     <title>AWSの最軽量LLM「Amazon Nova Micro」がJevの代わりとなるか検証してみた</title>
     <link rel="alternate" href="https://qiita.com/nasuvitz/items/4d27833640ff36b5d8c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1970,17 +1969,6 @@ TL;DR
 これ、何の数字だと思いますか。
 AIエージェントに「このルールを守って作業して」と指示書を渡したとき、実際にちゃんと守れた割合です。しかも、これが一番マシだったモデルのスコア。ほとんどのモデルは25%を下回りました。
 2026年7月28日に arXiv に上が...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:44664e57e2738614fccf</id>
-    <title>自分の頭で考えることって重要だよなと改めて思わされた話</title>
-    <link rel="alternate" href="https://qiita.com/ike_s_muramatsu/items/44664e57e2738614fccf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-26T12:37:47+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ike_s_muramatsu&quot;&gt;ike_s_muramatsu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-26T12:37:47+09:00&lt;br/&gt;Updated: 2026-09-26T12:37:47+09:00&lt;br/&gt;Who am I?
-都内のSIerに勤務する社会人6年目になったインフラエンジニアです。
-今年からOJTを担当するようになりました。
-人材育成を専門にしているわけでも、これまで何人もの新人を育ててきたわけでもありません。
-本記事はあくまで、初めてOJTを担当したり、複数名...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c0f5b86dfb8a3106cbaf</id>
@@ -2056,6 +2044,27 @@ Claude Opus 5 では、これは消したほうがいい一文になりました
 同じように、これまで良かれと思って...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7123aef3db7d1ba91fc3</id>
+    <title>2026年9月25日に発表された新しい Microsoft Copilot についての整理</title>
+    <link rel="alternate" href="https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-26T23:24:10+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yoshioterada&quot;&gt;yoshioterada&lt;/a&gt;&lt;br/&gt;Published: 2026-09-26T17:19:44+09:00&lt;br/&gt;Updated: 2026-09-26T23:24:10+09:00&lt;br/&gt;はじめに
+2026年9月25日、Microsoft は Copilot の大規模アップデートを発表しました。
+Introducing the new Copilot with Home, Code and Autopilot
+今回の発表を一言でまとめると、
+
+Micros...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:6f65c23e580dd454d4c7</id>
+    <title>新しい Copilot（Home・Code・Autopilot）と料金体系を整理し、大企業で広く展開する際の課題を考えてみる</title>
+    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/6f65c23e580dd454d4c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-26T19:02:57+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-09-26T16:36:58+09:00&lt;br/&gt;Updated: 2026-09-26T19:02:57+09:00&lt;br/&gt;はじめに
+2026年9月25日、Microsoft から「新しい Copilot」が発表されました。Copilot アプリそのものの形が変わる大きな発表で、あわせて料金体系も「ユーザー単位のライセンス」と「利用量に応じた課金」の2本立てに整理されています。
+発表の内容自体...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:aaa257c199fd094ae31e</id>
     <title>終わってるエンジニアの転職履歴〜その後1年経ってどうなったか〜</title>
     <link rel="alternate" href="https://qiita.com/bridgebook1125/items/aaa257c199fd094ae31e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2120,15 +2129,6 @@ C# で出来ること一覧 2026年版（.NET 10） という記事を読んで�
 さらに、チームで使い始めると別の不安も出てきます。
 
 このエージェント、社...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6f65c23e580dd454d4c7</id>
-    <title>新しい Copilot（Home・Code・Autopilot）と料金体系を整理し、大企業で広く展開する際の課題を考えてみる</title>
-    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/6f65c23e580dd454d4c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-26T19:02:57+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-09-26T16:36:58+09:00&lt;br/&gt;Updated: 2026-09-26T19:02:57+09:00&lt;br/&gt;はじめに
-2026年9月25日、Microsoft から「新しい Copilot」が発表されました。Copilot アプリそのものの形が変わる大きな発表で、あわせて料金体系も「ユーザー単位のライセンス」と「利用量に応じた課金」の2本立てに整理されています。
-発表の内容自体...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b465ef863f8d8608f497</id>
