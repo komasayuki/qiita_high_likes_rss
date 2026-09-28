@@ -25,18 +25,6 @@
       "last_seen": "2026-09-10T04:35:19.250856815+00:00"
     },
     {
-      "key": "0127a7c5203f44507474",
-      "item_id": "0127a7c5203f44507474",
-      "title": "Mac mini（M4 Pro / 48GB）で「完全ローカル」のLLM + RAG環境を構築してみた",
-      "link": "https://qiita.com/y-okayama-tb/items/0127a7c5203f44507474?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nこんにちは。\nトライベック株式会社の岡山です。\nローカルでLLM + RAGを検証したく、最近 Mac mini（M4 Pro / メモリ48GB）を購入しました。\n「mini」なのは筐体だけで、価格は全くminiではありませんでしたが。\nそもそもの動機は、クラ...",
-      "published": "2026-07-27T13:22:48+09:00",
-      "updated": "2026-07-27T13:22:49+09:00",
-      "author_name": "y-okayama-tb",
-      "likes_count": 94,
-      "last_seen": "2026-07-30T06:37:18.541368200+00:00"
-    },
-    {
       "key": "0134c989bb86519eec2e",
       "item_id": "0134c989bb86519eec2e",
       "title": "元ヤフーエンジニア社長が考える、AIに仕事が奪われないと思う理由",
@@ -805,6 +793,18 @@
       "last_seen": "2026-09-03T18:33:35.350676318+00:00"
     },
     {
+      "key": "2f781a33643a2cbd0853",
+      "item_id": "2f781a33643a2cbd0853",
+      "title": "AI は善意？悪意？過失？ AI サイバー攻撃は誰のせい？ AI Alignment 最新動向から読み取る AI 活用のリスクと対策",
+      "link": "https://qiita.com/songchong/items/2f781a33643a2cbd0853?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "「AI が暴走して他社を攻撃した」「作戦の 80〜90% を AI が実行した」\n2025 年から 2026 年にかけて、AI とサイバー攻撃の見出しが相次ぎました。こうした見出しを見ると、AI に悪意が生まれたのか、使った人の悪意なのか、それとも誰かの過失なのか、という...",
+      "published": "2026-09-28T04:06:27+09:00",
+      "updated": "2026-09-28T04:06:27+09:00",
+      "author_name": "songchong",
+      "likes_count": 14,
+      "last_seen": "2026-09-28T06:42:35.659624102+00:00"
+    },
+    {
       "key": "2feffd2cc6c672717973",
       "item_id": "2feffd2cc6c672717973",
       "title": "AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証",
@@ -1057,18 +1057,6 @@
       "last_seen": "2026-08-24T07:15:04.817345643+00:00"
     },
     {
-      "key": "3ca158f89a6e38d762aa",
-      "item_id": "3ca158f89a6e38d762aa",
-      "title": "なぜニチレイは、たった10日で復旧できたのか",
-      "link": "https://qiita.com/harupython/items/3ca158f89a6e38d762aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "この記事は 「誰でもわかるセキュリティの話」シリーズ の記事です。\nPython歴5年以上、セキュリティにも興味がある変態が書いています。\n\nランサムウェアに攻撃された企業の末路は、だいたい決まっている。\n数ヶ月止まる。売上が壊滅する。信頼を失う。\n同じ攻撃者(Ran...",
-      "published": "2026-07-27T14:29:26+09:00",
-      "updated": "2026-07-27T14:29:41+09:00",
-      "author_name": "harupython",
-      "likes_count": 11,
-      "last_seen": "2026-07-30T06:37:18.541368200+00:00"
-    },
-    {
       "key": "3cb311b037a975739948",
       "item_id": "3cb311b037a975739948",
       "title": "NL2SQL: Select AIが Metadataから SQLを生成する仕組みと AI Ready Dataを整理してみてみた",
@@ -1115,18 +1103,6 @@
       "author_name": "RyoWakabayashi",
       "likes_count": 12,
       "last_seen": "2026-08-03T19:50:55.054472820+00:00"
-    },
-    {
-      "key": "41402861e5c2924989a6",
-      "item_id": "41402861e5c2924989a6",
-      "title": "1日数人の個人サイトが1か月で33万回攻撃されていた — ログを数えて塞ぐまで",
-      "link": "https://qiita.com/tkurume/items/41402861e5c2924989a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "照明制御（DMX512 / Art-Net）を45年やっている組込み屋です。自分のサイト tkurume.work を Vultr の VPS（1vCPU / 1GB / Ubuntu 24.04）で運用しています。\n1日の実訪問者は数人という、どこにでもある個人サイトです...",
-      "published": "2026-07-27T12:43:51+09:00",
-      "updated": "2026-07-27T12:43:52+09:00",
-      "author_name": "tkurume",
-      "likes_count": 28,
-      "last_seen": "2026-07-30T06:37:18.541368200+00:00"
     },
     {
       "key": "4183a8e97738ba45f435",
@@ -1233,8 +1209,8 @@
       "published": "2026-09-26T12:37:47+09:00",
       "updated": "2026-09-26T12:37:47+09:00",
       "author_name": "ike_s_muramatsu",
-      "likes_count": 36,
-      "last_seen": "2026-09-28T00:35:34.885568202+00:00"
+      "likes_count": 64,
+      "last_seen": "2026-09-28T06:42:35.659624102+00:00"
     },
     {
       "key": "44c6f3b78a6a1dce0d57",
@@ -1585,6 +1561,18 @@
       "last_seen": "2026-09-10T18:21:10.363383543+00:00"
     },
     {
+      "key": "53b294aa9c288ace8c59",
+      "item_id": "53b294aa9c288ace8c59",
+      "title": "インシデントが起きた瞬間、自分が何をすべきか分からない人へ。CSIRTの動き方まで見渡せる教科書",
+      "link": "https://qiita.com/yasu1109/items/53b294aa9c288ace8c59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "アラートが鳴った、あるいは「不正アクセスかもしれない」という一報が入った。その瞬間、自分が何を確認し、誰に連絡し、どこまでを自分の判断で動いていいのかが分からない。そのまま指示待ちで動けずにいると、初動が遅れて被害が広がる。『改訂新版 セキュリティエンジニアの教科書』は、そ...",
+      "published": "2026-09-26T09:18:17+09:00",
+      "updated": "2026-09-26T09:18:17+09:00",
+      "author_name": "yasu1109",
+      "likes_count": 10,
+      "last_seen": "2026-09-28T06:42:35.659624102+00:00"
+    },
+    {
       "key": "54762eaae03b84252a3f",
       "item_id": "54762eaae03b84252a3f",
       "title": "Rust + OpenTelemetryで分散トレーシング入門 ― ECS FargateからAWS X-Rayへ",
@@ -1689,8 +1677,8 @@
       "published": "2026-09-26T11:36:22+09:00",
       "updated": "2026-09-26T11:36:23+09:00",
       "author_name": "carol0226",
-      "likes_count": 14,
-      "last_seen": "2026-09-28T00:35:34.885568202+00:00"
+      "likes_count": 15,
+      "last_seen": "2026-09-28T06:42:35.659624102+00:00"
     },
     {
       "key": "5d733c267370e0e06661",
@@ -1847,18 +1835,6 @@
       "author_name": "shinkai_",
       "likes_count": 24,
       "last_seen": "2026-09-21T06:12:12.143280899+00:00"
-    },
-    {
-      "key": "61add79614eff347cec9",
-      "item_id": "61add79614eff347cec9",
-      "title": "SAAで4か月遠回りした私が、過去の自分に教えたい勉強法",
-      "link": "https://qiita.com/MiuIseki/items/61add79614eff347cec9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "本記事は、BIPROGY / ユニアデックス社内AWSコミュニティ「BIPROGY AWS SPARK」の定期投稿企画第2回目の記事です。他の定期投稿企画の記事は、インデックスページをご覧ください。\n\nはじめに\nこれまでにCLF・AIFを取得し、「SAAも2か月くら...",
-      "published": "2026-07-28T08:59:43+09:00",
-      "updated": "2026-07-28T11:21:27+09:00",
-      "author_name": "MiuIseki",
-      "likes_count": 11,
-      "last_seen": "2026-07-30T06:37:18.541368200+00:00"
     },
     {
       "key": "61c644bfc4e49353a451",
@@ -2121,8 +2097,8 @@
       "published": "2026-09-26T16:36:58+09:00",
       "updated": "2026-09-26T19:02:57+09:00",
       "author_name": "Takashi_Masumori",
-      "likes_count": 27,
-      "last_seen": "2026-09-28T00:35:34.885568202+00:00"
+      "likes_count": 32,
+      "last_seen": "2026-09-28T06:42:35.659624102+00:00"
     },
     {
       "key": "6f7c7f85155a993e2c86",
@@ -2181,8 +2157,8 @@
       "published": "2026-09-26T17:19:44+09:00",
       "updated": "2026-09-26T23:24:10+09:00",
       "author_name": "yoshioterada",
-      "likes_count": 34,
-      "last_seen": "2026-09-28T00:35:34.885568202+00:00"
+      "likes_count": 48,
+      "last_seen": "2026-09-28T06:42:35.659624102+00:00"
     },
     {
       "key": "728b20d34d36275c0a33",
@@ -2941,6 +2917,18 @@
       "last_seen": "2026-08-19T19:34:11.071786369+00:00"
     },
     {
+      "key": "906d86684fbcb92eedbd",
+      "item_id": "906d86684fbcb92eedbd",
+      "title": "業務DBを読み取り専用MCPにしてClaudeから参照する",
+      "link": "https://qiita.com/TechStudioLab/items/906d86684fbcb92eedbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nAIから社内データを参照できるようにすると、「未対応のタスクを確認して」「この顧客の状態を調べて」といった自然文から業務データを扱えるようになります。\n一方、業務DBへAIをつなぐときに気になるのが権限です。便利だからといって、SQLを自由に実行できる接続をその...",
+      "published": "2026-09-26T11:33:48+09:00",
+      "updated": "2026-09-26T11:33:48+09:00",
+      "author_name": "TechStudioLab",
+      "likes_count": 10,
+      "last_seen": "2026-09-28T06:42:35.659624102+00:00"
+    },
+    {
       "key": "90be6651d4d012c3f107",
       "item_id": "90be6651d4d012c3f107",
       "title": "GoFデザインパターンを実務で使うものに絞って解説する — Adapter, Facade, Strategy, Observer など",
@@ -2986,7 +2974,7 @@
       "updated": "2026-09-27T20:08:12+09:00",
       "author_name": "songchong",
       "likes_count": 14,
-      "last_seen": "2026-09-28T00:35:34.885568202+00:00"
+      "last_seen": "2026-09-28T06:42:35.659624102+00:00"
     },
     {
       "key": "92a59e7a464fac9731da",
@@ -3154,7 +3142,7 @@
       "updated": "2026-09-28T00:06:26+09:00",
       "author_name": "songchong",
       "likes_count": 12,
-      "last_seen": "2026-09-28T00:35:34.885568202+00:00"
+      "last_seen": "2026-09-28T06:42:35.659624102+00:00"
     },
     {
       "key": "99b4d7724053a3b0c3ce",
@@ -3479,18 +3467,6 @@
       "author_name": "yuki_crossroad",
       "likes_count": 32,
       "last_seen": "2026-08-25T07:53:13.488088665+00:00"
-    },
-    {
-      "key": "a9a50da72a79d9e91a6e",
-      "item_id": "a9a50da72a79d9e91a6e",
-      "title": "【AWS CDK】「IaCにすれば工数削減」は本当か？ AWS CDKの再利用性を整理してみた【概念編】",
-      "link": "https://qiita.com/toyoday_8/items/a9a50da72a79d9e91a6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "本記事は、BIPROGY / ユニアデックス社内AWSコミュニティ「BIPROGY AWS SPARK」の定期投稿企画第1回目の記事です。\n他の定期投稿企画の記事はインデックスページをご覧ください。\n\n1. はじめに\nBIPROGYの豊田です。\n今回は、AWS S...",
-      "published": "2026-07-27T09:37:49+09:00",
-      "updated": "2026-07-28T23:07:37+09:00",
-      "author_name": "toyoday_8",
-      "likes_count": 11,
-      "last_seen": "2026-07-30T06:37:18.541368200+00:00"
     },
     {
       "key": "aa30a54fc6f0849385a7",
@@ -4299,14 +4275,14 @@
     {
       "key": "d21ff35b9329eecc6143",
       "item_id": "d21ff35b9329eecc6143",
-      "title": "Claude Code の拒否ルールを7つの形で測った。最新版でまだ4つ残っている",
+      "title": "Claude Code の拒否ルールを7つの形で測った。最新版でまだ3つ残っている",
       "link": "https://qiita.com/suwa_nobu/items/d21ff35b9329eecc6143?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "permissions.deny に書いたルールが、書いたとおりに効かないことがあります。\n2026-09-11 から 09-24 までの2週間で、Claude Code の権限まわりの修正が7つの版に出ました\n（2.1.269 / 271 / 273 / 274 / 27...",
       "published": "2026-09-25T10:29:40+09:00",
-      "updated": "2026-09-25T10:29:41+09:00",
+      "updated": "2026-09-28T11:28:10+09:00",
       "author_name": "suwa_nobu",
       "likes_count": 63,
-      "last_seen": "2026-09-28T00:35:34.885568202+00:00"
+      "last_seen": "2026-09-28T06:42:35.659624102+00:00"
     },
     {
       "key": "d23855d5634f528f796c",
@@ -4905,8 +4881,8 @@
       "published": "2026-09-25T21:57:18+09:00",
       "updated": "2026-09-25T21:57:18+09:00",
       "author_name": "sagochiko",
-      "likes_count": 54,
-      "last_seen": "2026-09-28T00:35:34.885568202+00:00"
+      "likes_count": 71,
+      "last_seen": "2026-09-28T06:42:35.659624102+00:00"
     },
     {
       "key": "efa52e124c1b4ef3dbff",
