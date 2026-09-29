@@ -517,15 +517,6 @@ Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENT
 この記事は、仕事のかなりの部分をエージェントに渡してみて痛感した「それでも人間に残る仕事は何か」を、自分の失敗込みで整理したポエムです。あなた...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:ae5a8c1609c794a74a25</id>
-    <title>Claude Code の新しい監査コマンドは、そのままでは自分のスキル49本を見なかった</title>
-    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/ae5a8c1609c794a74a25?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-28T09:32:09+09:00</updated>
-    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-28T09:32:08+09:00&lt;br/&gt;Updated: 2026-09-28T09:32:09+09:00&lt;br/&gt;Claude Code 2.1.283（2026-09-25）の changelog に、こう書かれています。
-
-Added /doctor prompt-audit (also /checkup prompt-audit) to audit your CLAUDE.md ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:ced6a0aa744379d338b6</id>
     <title>AIセキュリティ何から勉強すりゃええの？</title>
     <link rel="alternate" href="https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2143,5 +2134,13 @@ Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom and pl
 見積もりは1週間でした。しかし実際は、完成するまでに3ヶ月かかりました。
 原因は、技術的に難しかったからではありません。
 「何をすればいいか分からない」「何が分から...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3abbc43f0d7c471e6688</id>
+    <title>ChatGPT・Gemini・Claude…データはAIの学習に使われるのか？情報漏洩のリスクは？　34製品の利用規約を読み比べてみた</title>
+    <link rel="alternate" href="https://qiita.com/songchong/items/3abbc43f0d7c471e6688?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-01T13:24:26+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-01T00:18:40+09:00&lt;br/&gt;Updated: 2026-09-01T13:24:26+09:00&lt;br/&gt;「このAIに入れた内容、バレませんか」
+社内で AI を使い始めるとき、いちばん多い質問だと思います。聞かれる側は「たぶん法人版なら大丈夫です」と答えがちで、私もそうでした。曖昧にしか答えられないのが気になったので、AI チャット・AI エージェント・AI-OCR・iPaa...</summary>
   </entry>
 </feed>
