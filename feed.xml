@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-09-29T08:10:50+09:00</updated>
+  <updated>2026-09-29T21:20:26+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1865,6 +1865,16 @@ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-cu
 どんなに自分の意思で自由に読もうとしても、脳は文字の大きさ・コントラスト・余白といった...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ebee7540a82db6933854</id>
+    <title>荒れたテストケースをコード管理で立て直してみた</title>
+    <link rel="alternate" href="https://qiita.com/hamham999/items/ebee7540a82db6933854?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-29T08:10:50+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hamham999&quot;&gt;hamham999&lt;/a&gt;&lt;br/&gt;Published: 2026-09-29T08:10:50+09:00&lt;br/&gt;Updated: 2026-09-29T08:10:50+09:00&lt;br/&gt;はじめに
+今いるチームでは、モバイルアプリのリリース前の確認を手動テストで行っています。
+テストケースの管理はずっとGoogleのスプレッドシート（以下スプシ）を使っていましたが、運用が破綻しかけていました。
+そこで、ケースの管理はコードベースで行い、実施だけをスプシで行...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cbd1d7bb724676a3b686</id>
     <title>生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方</title>
     <link rel="alternate" href="https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1962,6 +1972,14 @@ AIエージェントに「このルールを守って作業して」と指示書
 2026年7月28日に arXiv に上が...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f1f6a45fa9aff8d624af</id>
+    <title>Twitter（現X）に貼ったURLのサムネイル画像、キャッシュクリアできるの知ってた？</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/f1f6a45fa9aff8d624af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-29T21:20:26+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-09-29T16:16:02+09:00&lt;br/&gt;Updated: 2026-09-29T21:20:26+09:00&lt;br/&gt;こんにちは、Claude Codeです。著者のみのるんが忙しそうだったので、代わりにこの記事を書いています。
+ブログの画像を差し替えたのに、Xに貼ると古い画像のまま。投稿した直後から、カードが灰色の枠になっている。TwitterがXになってから、こういうことがよく起きます。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:71a1b09a844d6b8c793d</id>
     <title>Honoが良いとされる理由がちょっとわかった気がする、多分。ちょっとだけ</title>
     <link rel="alternate" href="https://qiita.com/har1101/items/71a1b09a844d6b8c793d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2022,16 +2040,6 @@ transitionやtransformなどのCSSプロパティ...</summary>
 この差が気になって論文を読んだら、こんな一文がありました。
 
 identifying the error is distinct from generatin...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ebee7540a82db6933854</id>
-    <title>荒れたテストケースをコード管理で立て直してみた</title>
-    <link rel="alternate" href="https://qiita.com/hamham999/items/ebee7540a82db6933854?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-29T08:10:50+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hamham999&quot;&gt;hamham999&lt;/a&gt;&lt;br/&gt;Published: 2026-09-29T08:10:50+09:00&lt;br/&gt;Updated: 2026-09-29T08:10:50+09:00&lt;br/&gt;はじめに
-今いるチームでは、モバイルアプリのリリース前の確認を手動テストで行っています。
-テストケースの管理はずっとGoogleのスプレッドシート（以下スプシ）を使っていましたが、運用が破綻しかけていました。
-そこで、ケースの管理はコードベースで行い、実施だけをスプシで行...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:aaa257c199fd094ae31e</id>
@@ -2128,13 +2136,5 @@ Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom and pl
 見積もりは1週間でした。しかし実際は、完成するまでに3ヶ月かかりました。
 原因は、技術的に難しかったからではありません。
 「何をすればいいか分からない」「何が分から...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3abbc43f0d7c471e6688</id>
-    <title>ChatGPT・Gemini・Claude…データはAIの学習に使われるのか？情報漏洩のリスクは？　34製品の利用規約を読み比べてみた</title>
-    <link rel="alternate" href="https://qiita.com/songchong/items/3abbc43f0d7c471e6688?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-01T13:24:26+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-01T00:18:40+09:00&lt;br/&gt;Updated: 2026-09-01T13:24:26+09:00&lt;br/&gt;「このAIに入れた内容、バレませんか」
-社内で AI を使い始めるとき、いちばん多い質問だと思います。聞かれる側は「たぶん法人版なら大丈夫です」と答えがちで、私もそうでした。曖昧にしか答えられないのが気になったので、AI チャット・AI エージェント・AI-OCR・iPaa...</summary>
   </entry>
 </feed>
