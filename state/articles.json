@@ -1069,18 +1069,6 @@
       "last_seen": "2026-09-11T04:29:05.674977251+00:00"
     },
     {
-      "key": "3f1084b5ba416ea0bc49",
-      "item_id": "3f1084b5ba416ea0bc49",
-      "title": "個人的な資格の受かり方~Java Gold SE 17~",
-      "link": "https://qiita.com/t_tsuru/items/3f1084b5ba416ea0bc49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "1. はじめに\n今回はJava Gold SE 17（正式名称は\"Oracle Certified Java Programmer Gold SE 17\"）に合格してきたので、使用した参考書や勉強方法などをまとめておきたいと思います。\nこれから受験する方の参考になればと思...",
-      "published": "2026-07-30T17:52:08+09:00",
-      "updated": "2026-07-30T17:52:08+09:00",
-      "author_name": "t_tsuru",
-      "likes_count": 10,
-      "last_seen": "2026-08-02T19:23:45.255792339+00:00"
-    },
-    {
       "key": "4095d86be797008d799e",
       "item_id": "4095d86be797008d799e",
       "title": "Elixir 製 LLM 推論エンジン Llamex を Livebook で動かす",
@@ -1163,6 +1151,18 @@
       "author_name": "o68606007",
       "likes_count": 12,
       "last_seen": "2026-09-15T07:38:25.319072434+00:00"
+    },
+    {
+      "key": "43beaaabc2c0ef2dcb1c",
+      "item_id": "43beaaabc2c0ef2dcb1c",
+      "title": "AI生成コードを全部同じ密度で読む必要はある？―レビューを契約とテストで絞る設計",
+      "link": "https://qiita.com/masashige0904/items/43beaaabc2c0ef2dcb1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "この記事はこんな人におすすめ\n\nAIが生成したコードをどこまでレビューすべきか迷っている\nAIによって実装は速くなったが、レビュー負担も増えたと感じている\nAI時代に設計やテストを学ぶ意味を考えたい\n\nこの記事で得られること\nこの記事では、次の考え方を整理します。\n\n契...",
+      "published": "2026-09-30T22:08:39+09:00",
+      "updated": "2026-09-30T22:08:39+09:00",
+      "author_name": "masashige0904",
+      "likes_count": 19,
+      "last_seen": "2026-10-01T23:05:56.255064125+00:00"
     },
     {
       "key": "44664e57e2738614fccf",
@@ -1882,7 +1882,7 @@
       "updated": "2026-09-30T01:00:06+09:00",
       "author_name": "miruky",
       "likes_count": 27,
-      "last_seen": "2026-10-01T18:49:00.106838243+00:00"
+      "last_seen": "2026-10-01T23:05:56.255064125+00:00"
     },
     {
       "key": "65f7824679ddf171a93d",
@@ -2291,6 +2291,18 @@
       "author_name": "songchong",
       "likes_count": 13,
       "last_seen": "2026-09-04T18:19:19.405843822+00:00"
+    },
+    {
+      "key": "7a062c2ed9b82571f91f",
+      "item_id": "7a062c2ed9b82571f91f",
+      "title": "AWSの新認定試験「AI Business Strategist」に宇宙最速(未遂)で合格しました！",
+      "link": "https://qiita.com/ry-harada/items/7a062c2ed9b82571f91f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "どうも、AWS認定宇宙最速(未遂)受験芸人のあるけみーです。最寄りの試験会場が10時開始の回しか選べず地の利がありません。9時からやってる会場を選べと言われたらその通りです。\nGenerative AI Developer - Professional(AIP)で宇宙最速(...",
+      "published": "2026-10-01T08:49:01+09:00",
+      "updated": "2026-10-01T08:49:01+09:00",
+      "author_name": "ry-harada",
+      "likes_count": 10,
+      "last_seen": "2026-10-01T23:05:56.255064125+00:00"
     },
     {
       "key": "7a8bf8214f6d4f70de17",
@@ -3718,7 +3730,7 @@
       "updated": "2026-09-30T17:51:35+09:00",
       "author_name": "Pigeon_gate",
       "likes_count": 38,
-      "last_seen": "2026-10-01T18:49:00.106838243+00:00"
+      "last_seen": "2026-10-01T23:05:56.255064125+00:00"
     },
     {
       "key": "b359aa1a55342c280840",
@@ -3957,8 +3969,8 @@
       "published": "2026-10-01T10:24:15+09:00",
       "updated": "2026-10-01T13:38:05+09:00",
       "author_name": "PDC-Kurashinak",
-      "likes_count": 17,
-      "last_seen": "2026-10-01T18:49:00.106838243+00:00"
+      "likes_count": 20,
+      "last_seen": "2026-10-01T23:05:56.255064125+00:00"
     },
     {
       "key": "bec57a9a20c7f9e60f79",
@@ -4414,7 +4426,7 @@
       "updated": "2026-09-30T12:01:21+09:00",
       "author_name": "Seria_GovCloud",
       "likes_count": 10,
-      "last_seen": "2026-10-01T18:49:00.106838243+00:00"
+      "last_seen": "2026-10-01T23:05:56.255064125+00:00"
     },
     {
       "key": "d6a54f3694726b9141f3",
@@ -4438,7 +4450,7 @@
       "updated": "2026-09-30T12:27:29+09:00",
       "author_name": "shirok",
       "likes_count": 14,
-      "last_seen": "2026-10-01T18:49:00.106838243+00:00"
+      "last_seen": "2026-10-01T23:05:56.255064125+00:00"
     },
     {
       "key": "d8c00eff5cbf870c606c",
@@ -4834,7 +4846,7 @@
       "updated": "2026-09-29T08:10:50+09:00",
       "author_name": "hamham999",
       "likes_count": 30,
-      "last_seen": "2026-10-01T18:49:00.106838243+00:00"
+      "last_seen": "2026-10-01T23:05:56.255064125+00:00"
     },
     {
       "key": "ec8cd4dd183e12ac5781",
@@ -4990,7 +5002,7 @@
       "updated": "2026-09-29T21:20:26+09:00",
       "author_name": "minorun365",
       "likes_count": 39,
-      "last_seen": "2026-10-01T18:49:00.106838243+00:00"
+      "last_seen": "2026-10-01T23:05:56.255064125+00:00"
     },
     {
       "key": "f27e52d2f852ba017a7e",
@@ -5158,7 +5170,7 @@
       "updated": "2026-09-29T20:48:07+09:00",
       "author_name": "riz3f7",
       "likes_count": 21,
-      "last_seen": "2026-10-01T18:49:00.106838243+00:00"
+      "last_seen": "2026-10-01T23:05:56.255064125+00:00"
     },
     {
       "key": "fe5975104ffefa49f632",
