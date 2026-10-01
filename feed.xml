@@ -482,16 +482,6 @@ Our tests show that at default settings it will cost 40% less than Opus 5 on typ
     <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yasu1109&quot;&gt;yasu1109&lt;/a&gt;&lt;br/&gt;Published: 2026-09-23T08:56:43+09:00&lt;br/&gt;Updated: 2026-09-23T08:56:43+09:00&lt;br/&gt;脆弱性診断のレポートを読んでも、どういう手順で攻撃者がそこにたどり着くのか実感が湧かない。守る側の知識だけを積み上げていると、対策の優先順位を誤ってしまうことがある。『侵入技術入門 ―bashで学ぶ攻撃者の技法』は、あえて攻撃者の手順を追体験させることでその感覚のズレを埋め...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:ff38655fed51a2920910</id>
-    <title>コードベースのナレッジ化なら、LLM Wikiで十分かもしれない</title>
-    <link rel="alternate" href="https://qiita.com/Syoitu/items/ff38655fed51a2920910?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-30T15:24:02+09:00</updated>
-    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T15:24:02+09:00&lt;br/&gt;Updated: 2026-07-30T15:24:02+09:00&lt;br/&gt;前書き
-コーディングエージェントに改修を依頼するたびに、「この修正はどこまで影響するんだろう」と、同じ調査を何度もやり直させた経験はないでしょうか
-社内の仕様書や設計ドキュメントをベクトルDBに入れて、エージェントに検索させる構成を組んでいる方も多いと思います。
-ドキュメ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:c42534895d5ca89b91b1</id>
     <title>2026年9月時点 Microsoft の AI 戦略について</title>
     <link rel="alternate" href="https://qiita.com/yoshioterada/items/c42534895d5ca89b91b1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -927,19 +917,6 @@ MLB（メジャー・リーグ・ベースボール）の試合日程をGoogle�
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:cea574550613de33a114</id>
-    <title>CLAUDE.md は21セクションか、8行か — 公式ドキュメントで決着をつけた</title>
-    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/cea574550613de33a114?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-07-30T09:47:06+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T09:47:06+09:00&lt;br/&gt;Updated: 2026-07-30T09:47:06+09:00&lt;br/&gt;CLAUDE.md の書き方を調べていたら、正反対の主張に行き当たりました。
-
-A「20項目以上のテンプレートを用意して、役割・規約・テスト戦略・セキュリティまで網羅すべき」
-
-B「8行で十分。増やすより削るほうが効く」
-
-どちらも自信を持って書かれています。両方試したう...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b2ef2f7a6ee0dbbf0001</id>
     <title>エンジニア不要論の真実！AIの進化と具体抽象から完全解説</title>
     <link rel="alternate" href="https://qiita.com/Sicut_study/items/b2ef2f7a6ee0dbbf0001?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1167,6 +1144,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 本屋の技術書コーナーでよく見かける「〇〇アーキテクチャ」というタイトルの本。なんとなくスルーしていたぷらむんが、ITパスポートの勉強中についに「アーキテクチャ」の文字に出会って、調べずにいられなくなった話です。
 
 こんにちわ、会社で自称マスコットキャラをや...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b33b4e337c15dddae20a</id>
+    <title>0から学ぶセキュリティの基礎　〜CSRF編〜</title>
+    <link rel="alternate" href="https://qiita.com/Pigeon_gate/items/b33b4e337c15dddae20a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-30T17:51:35+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Pigeon_gate&quot;&gt;Pigeon_gate&lt;/a&gt;&lt;br/&gt;Published: 2026-09-30T09:50:37+09:00&lt;br/&gt;Updated: 2026-09-30T17:51:35+09:00&lt;br/&gt;はじめに
+未経験から実務に飛び込んだ私にとって、開発に携わる工程のうち、全く想像だにしていなかった領域がある。それがWebシステムのセキュリティだ。
+オリジナルアプリを作る上では微塵も考慮していなかったセキュリティ面がいざ自身の関わるプロダクトで問題として立ち上がってきた...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f1f6a45fa9aff8d624af</id>
@@ -1669,15 +1655,6 @@ We...</summary>
 もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b33b4e337c15dddae20a</id>
-    <title>0から学ぶセキュリティの基礎　〜CSRF編〜</title>
-    <link rel="alternate" href="https://qiita.com/Pigeon_gate/items/b33b4e337c15dddae20a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-30T17:51:35+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Pigeon_gate&quot;&gt;Pigeon_gate&lt;/a&gt;&lt;br/&gt;Published: 2026-09-30T09:50:37+09:00&lt;br/&gt;Updated: 2026-09-30T17:51:35+09:00&lt;br/&gt;はじめに
-未経験から実務に飛び込んだ私にとって、開発に携わる工程のうち、全く想像だにしていなかった領域がある。それがWebシステムのセキュリティだ。
-オリジナルアプリを作る上では微塵も考慮していなかったセキュリティ面がいざ自身の関わるプロダクトで問題として立ち上がってきた...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:ebee7540a82db6933854</id>
     <title>荒れたテストケースをコード管理で立て直してみた</title>
     <link rel="alternate" href="https://qiita.com/hamham999/items/ebee7540a82db6933854?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1917,6 +1894,20 @@ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-cu
 公式リリースノートでは、Agents window 内で Markdown を表示・...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6577a57b9b62c8f97e11</id>
+    <title>【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察</title>
+    <link rel="alternate" href="https://qiita.com/miruky/items/6577a57b9b62c8f97e11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-30T01:00:06+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-09-30T01:00:06+09:00&lt;br/&gt;Updated: 2026-09-30T01:00:06+09:00&lt;br/&gt;はじめに
+
+※本メールは、タイムズカー会員様のうち、本人確認書類情報の漏えいが確認された方へお送りしております。
+
+メール史上トップクラスに恐ろしい冒頭文の通り、はい、個人情報いかれました。
+
+しかも免許証画像、いかれました（アウトー！）。
+ということで今回は、偶然にも...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4d27833640ff36b5d8c5</id>
     <title>AWSの最軽量LLM「Amazon Nova Micro」がJevの代わりとなるか検証してみた</title>
     <link rel="alternate" href="https://qiita.com/nasuvitz/items/4d27833640ff36b5d8c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2041,20 +2032,6 @@ transitionやtransformなどのCSSプロパティ...</summary>
 identifying the error is distinct from generatin...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:6577a57b9b62c8f97e11</id>
-    <title>【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察</title>
-    <link rel="alternate" href="https://qiita.com/miruky/items/6577a57b9b62c8f97e11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-30T01:00:06+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/miruky&quot;&gt;miruky&lt;/a&gt;&lt;br/&gt;Published: 2026-09-30T01:00:06+09:00&lt;br/&gt;Updated: 2026-09-30T01:00:06+09:00&lt;br/&gt;はじめに
-
-※本メールは、タイムズカー会員様のうち、本人確認書類情報の漏えいが確認された方へお送りしております。
-
-メール史上トップクラスに恐ろしい冒頭文の通り、はい、個人情報いかれました。
-
-しかも免許証画像、いかれました（アウトー！）。
-ということで今回は、偶然にも...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:aaa257c199fd094ae31e</id>
     <title>終わってるエンジニアの転職履歴〜その後1年経ってどうなったか〜</title>
     <link rel="alternate" href="https://qiita.com/bridgebook1125/items/aaa257c199fd094ae31e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2137,5 +2114,25 @@ Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom and pl
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fe1ix&quot;&gt;fe1ix&lt;/a&gt;&lt;br/&gt;Published: 2026-09-14T09:54:13+09:00&lt;br/&gt;Updated: 2026-09-14T09:54:13+09:00&lt;br/&gt;はじめに
 新人リーダーになったばかりの頃、後輩のPRに「このロジックだと将来バグります。設計から見直したほうがいいです」ってコメントしたことがあるんですよね。
 技術的には間違ってなかったと思うんです。実際そのロジックには穴があって、指摘自体は妥当でした。でも次の日から、そ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:522f0bcac1532e23048d</id>
+    <title>【体験談】1年目、バッチ実装で3ヶ月溶かした話 — 『世界一流エンジニアの思考法』で振り返る</title>
+    <link rel="alternate" href="https://qiita.com/suneo46/items/522f0bcac1532e23048d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-10T13:47:07+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suneo46&quot;&gt;suneo46&lt;/a&gt;&lt;br/&gt;Published: 2026-09-10T13:47:07+09:00&lt;br/&gt;Updated: 2026-09-10T13:47:07+09:00&lt;br/&gt;はじめに
+エンジニアになって4年目になりました。
+1年目の頃、あるバッチ処理の実装を行ったことがあります。
+見積もりは1週間でした。しかし実際は、完成するまでに3ヶ月かかりました。
+原因は、技術的に難しかったからではありません。
+「何をすればいいか分からない」「何が分から...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3abbc43f0d7c471e6688</id>
+    <title>ChatGPT・Gemini・Claude…データはAIの学習に使われるのか？情報漏洩のリスクは？　34製品の利用規約を読み比べてみた</title>
+    <link rel="alternate" href="https://qiita.com/songchong/items/3abbc43f0d7c471e6688?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-01T13:24:26+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-01T00:18:40+09:00&lt;br/&gt;Updated: 2026-09-01T13:24:26+09:00&lt;br/&gt;「このAIに入れた内容、バレませんか」
+社内で AI を使い始めるとき、いちばん多い質問だと思います。聞かれる側は「たぶん法人版なら大丈夫です」と答えがちで、私もそうでした。曖昧にしか答えられないのが気になったので、AI チャット・AI エージェント・AI-OCR・iPaa...</summary>
   </entry>
 </feed>
