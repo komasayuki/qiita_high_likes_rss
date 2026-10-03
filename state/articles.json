@@ -201,8 +201,8 @@
       "published": "2026-10-01T22:03:12+09:00",
       "updated": "2026-10-01T22:11:31+09:00",
       "author_name": "inoyu-qiita",
-      "likes_count": 103,
-      "last_seen": "2026-10-03T17:12:13.995514911+00:00"
+      "likes_count": 105,
+      "last_seen": "2026-10-03T21:08:23.194746029+00:00"
     },
     {
       "key": "1002367721b1650fcdf3",
@@ -310,7 +310,7 @@
       "updated": "2026-10-02T22:45:04+09:00",
       "author_name": "konaito",
       "likes_count": 13,
-      "last_seen": "2026-10-03T17:12:13.995514911+00:00"
+      "last_seen": "2026-10-03T21:08:23.194746029+00:00"
     },
     {
       "key": "176042e94c8ef63a1517",
@@ -1102,7 +1102,7 @@
       "updated": "2026-10-02T10:48:02+09:00",
       "author_name": "ayanonn",
       "likes_count": 17,
-      "last_seen": "2026-10-03T17:12:13.995514911+00:00"
+      "last_seen": "2026-10-03T21:08:23.194746029+00:00"
     },
     {
       "key": "4183a8e97738ba45f435",
@@ -1269,8 +1269,8 @@
       "published": "2026-10-02T22:28:45+09:00",
       "updated": "2026-10-03T01:27:07+09:00",
       "author_name": "square1001",
-      "likes_count": 32,
-      "last_seen": "2026-10-03T17:12:13.995514911+00:00"
+      "likes_count": 33,
+      "last_seen": "2026-10-03T21:08:23.194746029+00:00"
     },
     {
       "key": "472325ce548da370ed5d",
@@ -2197,18 +2197,6 @@
       "last_seen": "2026-09-30T19:08:34.421521300+00:00"
     },
     {
-      "key": "74e0d6802dafeda4a7b1",
-      "item_id": "74e0d6802dafeda4a7b1",
-      "title": "ガバメント AI 源内（genai-web）を Entra ID シングルサインオン + カスタムドメインで運用する",
-      "link": "https://qiita.com/takeda_h/items/74e0d6802dafeda4a7b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "ガバメント AI 源内の AI インターフェース（genai-web）は、ユーザー認証に Cognito を使っており、デフォルトではメールアドレスを使ったパスワード認証をするようになっています。\ngenai-web は SAML で外部 IdP からシングルサインオンでき...",
-      "published": "2026-08-01T22:27:50+09:00",
-      "updated": "2026-08-02T00:04:13+09:00",
-      "author_name": "takeda_h",
-      "likes_count": 14,
-      "last_seen": "2026-08-04T19:50:29.416194224+00:00"
-    },
-    {
       "key": "7650fe71fa0bca85a727",
       "item_id": "7650fe71fa0bca85a727",
       "title": "LLMが「1+1」を計算するとき、中で何が起きているのか",
@@ -2314,7 +2302,7 @@
       "updated": "2026-10-01T08:49:01+09:00",
       "author_name": "ry-harada",
       "likes_count": 23,
-      "last_seen": "2026-10-03T17:12:13.995514911+00:00"
+      "last_seen": "2026-10-03T21:08:23.194746029+00:00"
     },
     {
       "key": "7a8bf8214f6d4f70de17",
@@ -2662,7 +2650,7 @@
       "updated": "2026-10-02T01:33:37+09:00",
       "author_name": "chomado",
       "likes_count": 15,
-      "last_seen": "2026-10-03T17:12:13.995514911+00:00"
+      "last_seen": "2026-10-03T21:08:23.194746029+00:00"
     },
     {
       "key": "889eef420b9224f5421a",
@@ -2770,7 +2758,7 @@
       "updated": "2026-10-02T20:20:01+09:00",
       "author_name": "moritalous",
       "likes_count": 13,
-      "last_seen": "2026-10-03T17:12:13.995514911+00:00"
+      "last_seen": "2026-10-03T21:08:23.194746029+00:00"
     },
     {
       "key": "8b7ac7751411f79a41d7",
@@ -3982,7 +3970,7 @@
       "updated": "2026-10-01T13:38:05+09:00",
       "author_name": "PDC-Kurashinak",
       "likes_count": 66,
-      "last_seen": "2026-10-03T17:12:13.995514911+00:00"
+      "last_seen": "2026-10-03T21:08:23.194746029+00:00"
     },
     {
       "key": "bec57a9a20c7f9e60f79",
@@ -4129,18 +4117,6 @@
       "last_seen": "2026-08-23T19:30:18.759809916+00:00"
     },
     {
-      "key": "c97f3e6aafdc63b7ac17",
-      "item_id": "c97f3e6aafdc63b7ac17",
-      "title": "DeepSeek V4 Flash 0731 のロスレスMXFP4版をSSDストリーミングで動かしてみた",
-      "link": "https://qiita.com/sukimaengineer/items/c97f3e6aafdc63b7ac17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "本記事の調査・検証の設計にはAnthropic Claude（リサーチ機能）を、環境構築と計測の実作業にはClaude Codeを利用しています。記載の数値は2026年8月2日時点・手元環境での単発測定であり、ブランチは活発に開発中のため、お試しの際は最新のREADMEと...",
-      "published": "2026-08-02T11:15:12+09:00",
-      "updated": "2026-08-02T14:46:41+09:00",
-      "author_name": "sukimaengineer",
-      "likes_count": 13,
-      "last_seen": "2026-08-04T19:50:29.416194224+00:00"
-    },
-    {
       "key": "c9cccdd64e71a731a58d",
       "item_id": "c9cccdd64e71a731a58d",
       "title": "パスキーでも被害に遭うデバイスコードフロー攻撃とは？ ～ Entra ID での防御と検証方法を解説",
@@ -4210,7 +4186,7 @@
       "updated": "2026-10-01T09:02:00+09:00",
       "author_name": "suwa_nobu",
       "likes_count": 11,
-      "last_seen": "2026-10-03T17:12:13.995514911+00:00"
+      "last_seen": "2026-10-03T21:08:23.194746029+00:00"
     },
     {
       "key": "ccd228bb1c33b2a918f5",
