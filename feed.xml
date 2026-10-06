@@ -304,25 +304,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 https:...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:f2da1003b168b52f5770</id>
-    <title>50音を全部作って繋いだのに、（　´∀｀）になった話</title>
-    <link rel="alternate" href="https://qiita.com/taguchi_sapeet/items/f2da1003b168b52f5770?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-04T10:15:18+09:00</updated>
-    <summary type="html">Likes: 80&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/taguchi_sapeet&quot;&gt;taguchi_sapeet&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T10:11:44+09:00&lt;br/&gt;Updated: 2026-08-04T10:15:18+09:00&lt;br/&gt;まず、これを聴いてください
-音声①：自作したTTSで「こんにちは」
-
-聞き覚えのある感じ、しませんか。
-
-　 ∧＿∧
-　（　´∀｀）　＜　こんにちは
-　（　　　　）
-　　｜ ｜　｜
-　（_＿）＿）
-
-そう、モナーです。
-一応、本人（？）は「こんにちは」...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:8d3c14dabff88d8f1901</id>
     <title>パスキーはなぜ「盗まれても意味がない」と言えるのか — 公開鍵暗号方式で理解する新しい認証</title>
     <link rel="alternate" href="https://qiita.com/gts/items/8d3c14dabff88d8f1901?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -556,6 +537,17 @@ Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENT
     <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T08:43:54+09:00&lt;br/&gt;Updated: 2026-09-18T08:43:55+09:00&lt;br/&gt;Claude Code 2.1.275（2026-09-17）の changelog に、こう書かれています。
 
 Fixed /update-config writing Write(path) permission rules, which file permission...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ee7565d212fd3ae1adcb</id>
+    <title>最近プロジェクトマネジメントで感じたこと</title>
+    <link rel="alternate" href="https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-04T13:05:42+09:00</updated>
+    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirakurak&quot;&gt;shirakurak&lt;/a&gt;&lt;br/&gt;Published: 2026-10-04T13:05:42+09:00&lt;br/&gt;Updated: 2026-10-04T13:05:42+09:00&lt;br/&gt;最近のプロジェクトマネジメント業務を振り返って、学びの言語化をします。3つ大事だと思ったことを書きます。
+この記事は、AI を使っていません（AI 使ってたら、もっとそれっぽいタイトルになる）。
+
+1. 大きな問題を防ぐために、小さな問題を出し続ける
+プロジェクトでは、あ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2aff0b2b40b9d0bfda91</id>
@@ -1007,6 +999,16 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 最近「AI...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f1a15a199d9f91fe6080</id>
+    <title>文章で要件定義するのをやめた。AIでモックを先に作ったら、認識ズレが実装前に全部見つかった</title>
+    <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/f1a15a199d9f91fe6080?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-05T16:31:17+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kazuki_ogawa&quot;&gt;kazuki_ogawa&lt;/a&gt;&lt;br/&gt;Published: 2026-10-05T16:31:16+09:00&lt;br/&gt;Updated: 2026-10-05T16:31:17+09:00&lt;br/&gt;はじめに
+社内 SaaS に「アプリ内アンケート機能」を追加しました。質問を作るのはビジネス側の責任者、箱を作るのは開発側という分担です。
+要件のすり合わせ開始から、実装完了（PR 3本マージ）までは 2 日でした。
+速かった理由は、AI の実装力ではありません。要件定義...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:454fc975b095230565c7</id>
     <title>高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜</title>
     <link rel="alternate" href="https://qiita.com/ast-24/items/454fc975b095230565c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1061,13 +1063,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむん...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:e6f1678b41483943fc04</id>
-    <title>新しい Copilot Studio が GA したので「ハーネス」とクレジット課金体系を改めて整理してみる</title>
-    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/e6f1678b41483943fc04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-05T12:51:16+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T07:24:09+09:00&lt;br/&gt;Updated: 2026-08-05T12:51:16+09:00&lt;br/&gt;※本記事は 2026/8 時点の公開情報（Copilot Studio 公式ブログ、Microsoft Learn、Copilot Credits Guide 2026年8月版）をベースに整理しています。今後変更される可能性があるため、契約や導入判断の際は必ず最新の公式情報...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:6e1719b24f56d4166d2e</id>
     <title>彼女の誕生日に、2人だけのSNS「Sync」を作った話</title>
     <link rel="alternate" href="https://qiita.com/dayaa/items/6e1719b24f56d4166d2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1079,17 +1074,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 はじめに
 彼女の誕生日に、何か形に残るものを贈りたかった。
 写...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ee7565d212fd3ae1adcb</id>
-    <title>最近プロジェクトマネジメントで感じたこと</title>
-    <link rel="alternate" href="https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-04T13:05:42+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirakurak&quot;&gt;shirakurak&lt;/a&gt;&lt;br/&gt;Published: 2026-10-04T13:05:42+09:00&lt;br/&gt;Updated: 2026-10-04T13:05:42+09:00&lt;br/&gt;最近のプロジェクトマネジメント業務を振り返って、学びの言語化をします。3つ大事だと思ったことを書きます。
-この記事は、AI を使っていません（AI 使ってたら、もっとそれっぽいタイトルになる）。
-
-1. 大きな問題を防ぐために、小さな問題を出し続ける
-プロジェクトでは、あ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f1f6a45fa9aff8d624af</id>
@@ -1586,16 +1570,6 @@ We...</summary>
 先輩に「大丈夫...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:f1a15a199d9f91fe6080</id>
-    <title>文章で要件定義するのをやめた。AIでモックを先に作ったら、認識ズレが実装前に全部見つかった</title>
-    <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/f1a15a199d9f91fe6080?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-05T16:31:17+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kazuki_ogawa&quot;&gt;kazuki_ogawa&lt;/a&gt;&lt;br/&gt;Published: 2026-10-05T16:31:16+09:00&lt;br/&gt;Updated: 2026-10-05T16:31:17+09:00&lt;br/&gt;はじめに
-社内 SaaS に「アプリ内アンケート機能」を追加しました。質問を作るのはビジネス側の責任者、箱を作るのは開発側という分担です。
-要件のすり合わせ開始から、実装完了（PR 3本マージ）までは 2 日でした。
-速かった理由は、AI の実装力ではありません。要件定義...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:ebee7540a82db6933854</id>
     <title>荒れたテストケースをコード管理で立て直してみた</title>
     <link rel="alternate" href="https://qiita.com/hamham999/items/ebee7540a82db6933854?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2014,6 +1988,19 @@ transitionやtransformなどのCSSプロパティ...</summary>
 identifying the error is distinct from generatin...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8d90b7320bcd1c8aba9e</id>
+    <title>結局、Looped Transformerってなんや？</title>
+    <link rel="alternate" href="https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-04T21:59:23+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sakai1250&quot;&gt;sakai1250&lt;/a&gt;&lt;br/&gt;Published: 2026-10-04T21:59:22+09:00&lt;br/&gt;Updated: 2026-10-04T21:59:23+09:00&lt;br/&gt;何かと最近見かける Looped Transformer。
+仕組み自体はかなり単純です。しかし、論文を追ってみると「同じTransformerを何回も使う」だけでは終わりません。
+少なくとも僕は、名前だけ見て
+
+Transformerの同じ層を何回か通すやつでしょ
+
+くらい...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:aaa257c199fd094ae31e</id>
     <title>終わってるエンジニアの転職履歴〜その後1年経ってどうなったか〜</title>
     <link rel="alternate" href="https://qiita.com/bridgebook1125/items/aaa257c199fd094ae31e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2080,19 +2067,6 @@ C# で出来ること一覧 2026年版（.NET 10） という記事を読んで�
 このエージェント、社...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:8d90b7320bcd1c8aba9e</id>
-    <title>結局、Looped Transformerってなんや？</title>
-    <link rel="alternate" href="https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-04T21:59:23+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sakai1250&quot;&gt;sakai1250&lt;/a&gt;&lt;br/&gt;Published: 2026-10-04T21:59:22+09:00&lt;br/&gt;Updated: 2026-10-04T21:59:23+09:00&lt;br/&gt;何かと最近見かける Looped Transformer。
-仕組み自体はかなり単純です。しかし、論文を追ってみると「同じTransformerを何回も使う」だけでは終わりません。
-少なくとも僕は、名前だけ見て
-
-Transformerの同じ層を何回か通すやつでしょ
-
-くらい...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:7a062c2ed9b82571f91f</id>
     <title>AWSの新認定試験「AI Business Strategist」に宇宙最速(未遂)で合格しました！</title>
     <link rel="alternate" href="https://qiita.com/ry-harada/items/7a062c2ed9b82571f91f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2129,5 +2103,21 @@ Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom and pl
 見積もりは1週間でした。しかし実際は、完成するまでに3ヶ月かかりました。
 原因は、技術的に難しかったからではありません。
 「何をすればいいか分からない」「何が分から...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3abbc43f0d7c471e6688</id>
+    <title>ChatGPT・Gemini・Claude…データはAIの学習に使われるのか？情報漏洩のリスクは？　34製品の利用規約を読み比べてみた</title>
+    <link rel="alternate" href="https://qiita.com/songchong/items/3abbc43f0d7c471e6688?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-01T13:24:26+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-01T00:18:40+09:00&lt;br/&gt;Updated: 2026-09-01T13:24:26+09:00&lt;br/&gt;「このAIに入れた内容、バレませんか」
+社内で AI を使い始めるとき、いちばん多い質問だと思います。聞かれる側は「たぶん法人版なら大丈夫です」と答えがちで、私もそうでした。曖昧にしか答えられないのが気になったので、AI チャット・AI エージェント・AI-OCR・iPaa...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:817a26e02cd1f08c7edd</id>
+    <title>スター6万のAgent Skillを入れたら、呼ぶたびに9万トークン必要だった</title>
+    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/817a26e02cd1f08c7edd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-31T08:35:16+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T08:35:15+09:00&lt;br/&gt;Updated: 2026-08-31T08:35:16+09:00&lt;br/&gt;GitHub Trending に、スター 60,480 の Agent Skill が上がっていました。
+Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横断して調べ、upvote や likes といった実際の反応で...</summary>
   </entry>
 </feed>
