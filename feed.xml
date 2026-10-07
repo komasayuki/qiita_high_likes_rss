@@ -387,6 +387,27 @@ Anthropic は 2026年7月24日のブログで、Claude Opus 5 / Fable 5 向け�
 理由は「制約の多くは...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f1a15a199d9f91fe6080</id>
+    <title>文章で要件定義するのをやめた。AIでモックを先に作ったら、認識ズレが実装前に全部見つかった</title>
+    <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/f1a15a199d9f91fe6080?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-05T16:31:17+09:00</updated>
+    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kazuki_ogawa&quot;&gt;kazuki_ogawa&lt;/a&gt;&lt;br/&gt;Published: 2026-10-05T16:31:16+09:00&lt;br/&gt;Updated: 2026-10-05T16:31:17+09:00&lt;br/&gt;はじめに
+社内 SaaS に「アプリ内アンケート機能」を追加しました。質問を作るのはビジネス側の責任者、箱を作るのは開発側という分担です。
+要件のすり合わせ開始から、実装完了（PR 3本マージ）までは 2 日でした。
+速かった理由は、AI の実装力ではありません。要件定義...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ee7565d212fd3ae1adcb</id>
+    <title>最近プロジェクトマネジメントで感じたこと</title>
+    <link rel="alternate" href="https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-04T13:05:42+09:00</updated>
+    <summary type="html">Likes: 67&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirakurak&quot;&gt;shirakurak&lt;/a&gt;&lt;br/&gt;Published: 2026-10-04T13:05:42+09:00&lt;br/&gt;Updated: 2026-10-04T13:05:42+09:00&lt;br/&gt;最近のプロジェクトマネジメント業務を振り返って、学びの言語化をします。3つ大事だと思ったことを書きます。
+この記事は、AI を使っていません（AI 使ってたら、もっとそれっぽいタイトルになる）。
+
+1. 大きな問題を防ぐために、小さな問題を出し続ける
+プロジェクトでは、あ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7123aef3db7d1ba91fc3</id>
     <title>2026年9月25日に発表された新しい Microsoft Copilot についての整理</title>
     <link rel="alternate" href="https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -457,17 +478,6 @@ https://prum.jp/
 2026年9月8日、生成AI が数学分野で有名なミレニアム懸賞問題のひとつ、ナビエ・ストークス方程式の存在と滑らかさに関する問題（の一部）を解決したという発表がありました。...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:ee7565d212fd3ae1adcb</id>
-    <title>最近プロジェクトマネジメントで感じたこと</title>
-    <link rel="alternate" href="https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-04T13:05:42+09:00</updated>
-    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirakurak&quot;&gt;shirakurak&lt;/a&gt;&lt;br/&gt;Published: 2026-10-04T13:05:42+09:00&lt;br/&gt;Updated: 2026-10-04T13:05:42+09:00&lt;br/&gt;最近のプロジェクトマネジメント業務を振り返って、学びの言語化をします。3つ大事だと思ったことを書きます。
-この記事は、AI を使っていません（AI 使ってたら、もっとそれっぽいタイトルになる）。
-
-1. 大きな問題を防ぐために、小さな問題を出し続ける
-プロジェクトでは、あ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:92d4de34077b9ae02fca</id>
     <title>許可ルールを settings.json に書いても効かなかった。分かれ目はフォルダを信頼したかどうか</title>
     <link rel="alternate" href="https://qiita.com/suwa_nobu/items/92d4de34077b9ae02fca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -498,16 +508,6 @@ Our tests show that at default settings it will cost 40% less than Opus 5 on typ
     <link rel="alternate" href="https://qiita.com/yoshioterada/items/c42534895d5ca89b91b1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-09-14T10:44:23+09:00</updated>
     <summary type="html">Likes: 58&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yoshioterada&quot;&gt;yoshioterada&lt;/a&gt;&lt;br/&gt;Published: 2026-09-14T10:44:21+09:00&lt;br/&gt;Updated: 2026-09-14T10:44:23+09:00&lt;br/&gt;Microsoft の AI に関連するサービスは非常に多くあります。今まで私は開発中心だったため、M365関連を含む全体的な知識のアップデートが必要で、できるだけ早急にさまざまな技術やサービスをキャッチアップしたいと考えています。元々この資料は自分自身で理解するために、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f1a15a199d9f91fe6080</id>
-    <title>文章で要件定義するのをやめた。AIでモックを先に作ったら、認識ズレが実装前に全部見つかった</title>
-    <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/f1a15a199d9f91fe6080?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-05T16:31:17+09:00</updated>
-    <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kazuki_ogawa&quot;&gt;kazuki_ogawa&lt;/a&gt;&lt;br/&gt;Published: 2026-10-05T16:31:16+09:00&lt;br/&gt;Updated: 2026-10-05T16:31:17+09:00&lt;br/&gt;はじめに
-社内 SaaS に「アプリ内アンケート機能」を追加しました。質問を作るのはビジネス側の責任者、箱を作るのは開発側という分担です。
-要件のすり合わせ開始から、実装完了（PR 3本マージ）までは 2 日でした。
-速かった理由は、AI の実装力ではありません。要件定義...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c795cf89d0fd4091c9cb</id>
@@ -880,6 +880,15 @@ MLB（メジャー・リーグ・ベースボール）の試合日程をGoogle�
 開発理由
 最近、大谷翔平選手の所属するドジャースの試合にめちゃくちゃどハマりしています！
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:65fba77555a13af6b8a5</id>
+    <title>最近サイバー攻撃多いから、基本対策を見直そう</title>
+    <link rel="alternate" href="https://qiita.com/HIsui0921/items/65fba77555a13af6b8a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-05T23:29:59+09:00</updated>
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/HIsui0921&quot;&gt;HIsui0921&lt;/a&gt;&lt;br/&gt;Published: 2026-10-05T23:28:32+09:00&lt;br/&gt;Updated: 2026-10-05T23:29:59+09:00&lt;br/&gt;こんにちは、翡翠です。
+去年セキュリティ業界へ入ったばかりの新人です。まだまだ勉強中の身なので至らない点もあるかと思いますが、今わかること・できることを自分なりにまとめたいと思います。
+2026年9月下旬以降、大手企業などで不正アクセスや情報漏洩などのニュースが一気に増えた...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b33b4e337c15dddae20a</id>
@@ -1557,6 +1566,14 @@ We...</summary>
 先輩に「大丈夫...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:02672765fe53f911a1a0</id>
+    <title>API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた</title>
+    <link rel="alternate" href="https://qiita.com/songchong/items/02672765fe53f911a1a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-05T09:13:39+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-10-05T02:13:59+09:00&lt;br/&gt;Updated: 2026-10-05T09:13:39+09:00&lt;br/&gt;「API キーが漏れた」と聞くと、悪意のある誰かに盗まれた場面を思い浮かべがちです。実際に多いのは、鍵を置いた場所が思ったより広く見えていた、という漏れ方です。
+この記事では、公開されている報告と事例、そして私たちのサイトに実際に届いたアクセスの記録から、API キーが漏...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ebee7540a82db6933854</id>
     <title>荒れたテストケースをコード管理で立て直してみた</title>
     <link rel="alternate" href="https://qiita.com/hamham999/items/ebee7540a82db6933854?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1665,13 +1682,17 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 一見、どう...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:65fba77555a13af6b8a5</id>
-    <title>最近サイバー攻撃多いから、基本対策を見直そう</title>
-    <link rel="alternate" href="https://qiita.com/HIsui0921/items/65fba77555a13af6b8a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-05T23:29:59+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/HIsui0921&quot;&gt;HIsui0921&lt;/a&gt;&lt;br/&gt;Published: 2026-10-05T23:28:32+09:00&lt;br/&gt;Updated: 2026-10-05T23:29:59+09:00&lt;br/&gt;こんにちは、翡翠です。
-去年セキュリティ業界へ入ったばかりの新人です。まだまだ勉強中の身なので至らない点もあるかと思いますが、今わかること・できることを自分なりにまとめたいと思います。
-2026年9月下旬以降、大手企業などで不正アクセスや情報漏洩などのニュースが一気に増えた...</summary>
+    <id>tag:qiita.com,2026:8d90b7320bcd1c8aba9e</id>
+    <title>結局、Looped Transformerってなんや？</title>
+    <link rel="alternate" href="https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-04T21:59:23+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sakai1250&quot;&gt;sakai1250&lt;/a&gt;&lt;br/&gt;Published: 2026-10-04T21:59:22+09:00&lt;br/&gt;Updated: 2026-10-04T21:59:23+09:00&lt;br/&gt;何かと最近見かける Looped Transformer。
+仕組み自体はかなり単純です。しかし、論文を追ってみると「同じTransformerを何回も使う」だけでは終わりません。
+少なくとも僕は、名前だけ見て
+
+Transformerの同じ層を何回か通すやつでしょ
+
+くらい...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4fbf6144f4cab3f00123</id>
@@ -1740,14 +1761,6 @@ iPhoneのアップデート通知で見る「iOS 26」。あの「OS」って結
 こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:02672765fe53f911a1a0</id>
-    <title>API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた</title>
-    <link rel="alternate" href="https://qiita.com/songchong/items/02672765fe53f911a1a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-05T09:13:39+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-10-05T02:13:59+09:00&lt;br/&gt;Updated: 2026-10-05T09:13:39+09:00&lt;br/&gt;「API キーが漏れた」と聞くと、悪意のある誰かに盗まれた場面を思い浮かべがちです。実際に多いのは、鍵を置いた場所が思ったより広く見えていた、という漏れ方です。
-この記事では、公開されている報告と事例、そして私たちのサイトに実際に届いたアクセスの記録から、API キーが漏...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:666a82fcdf3dc4af00d7</id>
     <title>なぜSMS認証は弱いと言われるのか</title>
     <link rel="alternate" href="https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1807,19 +1820,6 @@ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-cu
 いかがでしょうか？
 順番通りに読んでしまっていた方が多いのではないでしょうか。
 どんなに自分の意思で自由に読もうとしても、脳は文字の大きさ・コントラスト・余白といった...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8d90b7320bcd1c8aba9e</id>
-    <title>結局、Looped Transformerってなんや？</title>
-    <link rel="alternate" href="https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-04T21:59:23+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sakai1250&quot;&gt;sakai1250&lt;/a&gt;&lt;br/&gt;Published: 2026-10-04T21:59:22+09:00&lt;br/&gt;Updated: 2026-10-04T21:59:23+09:00&lt;br/&gt;何かと最近見かける Looped Transformer。
-仕組み自体はかなり単純です。しかし、論文を追ってみると「同じTransformerを何回も使う」だけでは終わりません。
-少なくとも僕は、名前だけ見て
-
-Transformerの同じ層を何回か通すやつでしょ
-
-くらい...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cbd1d7bb724676a3b686</id>
