@@ -81,8 +81,8 @@
       "published": "2026-10-06T14:19:43+09:00",
       "updated": "2026-10-06T14:19:43+09:00",
       "author_name": "yama3133",
-      "likes_count": 46,
-      "last_seen": "2026-10-08T01:49:48.908147013+00:00"
+      "likes_count": 69,
+      "last_seen": "2026-10-08T08:50:30.748846811+00:00"
     },
     {
       "key": "0788ebd25ea6400df81e",
@@ -777,8 +777,8 @@
       "published": "2026-10-05T20:20:37+09:00",
       "updated": "2026-10-05T20:20:37+09:00",
       "author_name": "rana_kualu",
-      "likes_count": 11,
-      "last_seen": "2026-10-08T01:49:48.908147013+00:00"
+      "likes_count": 12,
+      "last_seen": "2026-10-08T08:50:30.748846811+00:00"
     },
     {
       "key": "3266fc95d8e135f6f1cf",
@@ -1305,8 +1305,8 @@
       "published": "2026-10-07T08:02:40+09:00",
       "updated": "2026-10-07T16:15:45+09:00",
       "author_name": "shinkai_",
-      "likes_count": 20,
-      "last_seen": "2026-10-08T01:49:48.908147013+00:00"
+      "likes_count": 34,
+      "last_seen": "2026-10-08T08:50:30.748846811+00:00"
     },
     {
       "key": "4d27833640ff36b5d8c5",
@@ -1845,8 +1845,8 @@
       "published": "2026-10-05T23:28:32+09:00",
       "updated": "2026-10-05T23:29:59+09:00",
       "author_name": "HIsui0921",
-      "likes_count": 64,
-      "last_seen": "2026-10-08T01:49:48.908147013+00:00"
+      "likes_count": 69,
+      "last_seen": "2026-10-08T08:50:30.748846811+00:00"
     },
     {
       "key": "666a82fcdf3dc4af00d7",
@@ -2293,18 +2293,6 @@
       "last_seen": "2026-08-16T19:28:31.628750557+00:00"
     },
     {
-      "key": "7e57897f62b84ee9c662",
-      "item_id": "7e57897f62b84ee9c662",
-      "title": "「Cookie」はお店の会員カードみたいなもの【ITパスポート】",
-      "link": "https://qiita.com/prumnn/items/7e57897f62b84ee9c662?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n\n「Cookieの使用に同意しますか？」という通知、毎回なんとなく「同意する」を押していたぷらむんが、ITパスポートの勉強中にその正体を調べてみた話です。\n\nこんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯\nWe...",
-      "published": "2026-08-06T16:28:48+09:00",
-      "updated": "2026-08-06T16:28:48+09:00",
-      "author_name": "prumnn",
-      "likes_count": 33,
-      "last_seen": "2026-08-09T07:10:23.772151508+00:00"
-    },
-    {
       "key": "7ecdfc6067e09aed00a1",
       "item_id": "7ecdfc6067e09aed00a1",
       "title": "/model を1度でも押すと ANTHROPIC_DEFAULT_MODEL は効きません",
@@ -2531,18 +2519,6 @@
       "author_name": "songchong",
       "likes_count": 25,
       "last_seen": "2026-10-08T01:49:48.908147013+00:00"
-    },
-    {
-      "key": "880a89f6cd25a3f115b5",
-      "item_id": "880a89f6cd25a3f115b5",
-      "title": "AWS検証環境の削除し忘れ対策を、簡易的に自動化してみた！",
-      "link": "https://qiita.com/KoheiMaeno/items/880a89f6cd25a3f115b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "本記事は、BIPROGY / ユニアデックス社内AWSコミュニティ「BIPROGY AWS SPARK」の定期投稿企画第10回目の記事です。\n他の定期投稿企画の記事は、インデックスページをご覧ください\n\n目次\n\nはじめに\nやりたいこと\n全体アーキテクチャ\n実装の全体...",
-      "published": "2026-08-07T09:34:59+09:00",
-      "updated": "2026-08-07T09:35:01+09:00",
-      "author_name": "KoheiMaeno",
-      "likes_count": 11,
-      "last_seen": "2026-08-09T07:10:23.772151508+00:00"
     },
     {
       "key": "8830d0e9f4b75a7ea2a5",
@@ -3073,6 +3049,18 @@
       "last_seen": "2026-08-18T19:35:07.723031528+00:00"
     },
     {
+      "key": "9c9cbb97df7e4a631660",
+      "item_id": "9c9cbb97df7e4a631660",
+      "title": "CORSエラーに遭遇したので、そもそもCORSとは何なのか理解する",
+      "link": "https://qiita.com/megumi_i/items/9c9cbb97df7e4a631660?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n開発中、APIへのリクエストでCORSエラーに遭遇しました。\n原因を調べて、リクエスト元が「許可するオリジン」として登録されていなかったことが分かったので、 https://example.com を許可設定に追加し、無事エラー解消！！\n...と思いきや、今度は...",
+      "published": "2026-10-06T21:14:09+09:00",
+      "updated": "2026-10-06T21:14:09+09:00",
+      "author_name": "megumi_i",
+      "likes_count": 11,
+      "last_seen": "2026-10-08T08:50:30.748846811+00:00"
+    },
+    {
       "key": "9cf8152a99b1d178a4fd",
       "item_id": "9cf8152a99b1d178a4fd",
       "title": "スキルの採点ツールは、書いてある内容が正しいかを見ていない",
@@ -3203,18 +3191,6 @@
       "author_name": "J-T_ky2g",
       "likes_count": 16,
       "last_seen": "2026-09-08T18:34:24.073401225+00:00"
-    },
-    {
-      "key": "a5c8d7625488a57c2303",
-      "item_id": "a5c8d7625488a57c2303",
-      "title": "AI僧侶ロボット「ブッダロイド」が見せた、\"代行\"というフィジカルAIの伸びしろ",
-      "link": "https://qiita.com/sumomoo/items/a5c8d7625488a57c2303?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや\n考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\n「AI僧侶...",
-      "published": "2026-08-06T16:31:37+09:00",
-      "updated": "2026-08-06T16:31:37+09:00",
-      "author_name": "sumomoo",
-      "likes_count": 36,
-      "last_seen": "2026-08-09T07:10:23.772151508+00:00"
     },
     {
       "key": "a5f34349c0b6ba8f3f62",
@@ -4063,10 +4039,10 @@
       "link": "https://qiita.com/har1101/items/cf5e734358e09f2410d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "このイベント用のハンズオン手順です。どなたでも好きなときに試せます！(環境構築を含めて1.5時間目安)\n\n2026/10/1、AWSから発表されたStrands Deciderを動かすハンズオンです。\n\nStrands Deciderは文章を生成せず、用意した選択肢...",
       "published": "2026-10-07T14:25:40+09:00",
-      "updated": "2026-10-08T00:36:59+09:00",
+      "updated": "2026-10-08T12:35:17+09:00",
       "author_name": "har1101",
-      "likes_count": 11,
-      "last_seen": "2026-10-08T01:49:48.908147013+00:00"
+      "likes_count": 15,
+      "last_seen": "2026-10-08T08:50:30.748846811+00:00"
     },
     {
       "key": "cf74c9b6fc9c370e67e6",
@@ -4127,6 +4103,18 @@
       "author_name": "songchong",
       "likes_count": 13,
       "last_seen": "2026-09-08T04:25:17.468836359+00:00"
+    },
+    {
+      "key": "d1f17a1dd4f050dbfd7f",
+      "item_id": "d1f17a1dd4f050dbfd7f",
+      "title": "Amazon S3+vsftpdでFTPサーバを構築する",
+      "link": "https://qiita.com/naoaki-yzrh/items/d1f17a1dd4f050dbfd7f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "当初はAWS Transfer Family for FTPで構築していましたが、あまりにもコストが高いのでEC2上に別途FTPサーバを構築した際のメモです\n\nAWS Transfer Familyとは\n\nAWS Transfer Familyを使用するとS3・EFSに...",
+      "published": "2026-10-06T13:35:12+09:00",
+      "updated": "2026-10-06T13:35:12+09:00",
+      "author_name": "naoaki-yzrh",
+      "likes_count": 13,
+      "last_seen": "2026-10-08T08:50:30.748846811+00:00"
     },
     {
       "key": "d21ff35b9329eecc6143",
