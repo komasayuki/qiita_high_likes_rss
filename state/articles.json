@@ -442,7 +442,7 @@
       "updated": "2026-10-07T17:07:42+09:00",
       "author_name": "shibuya-ys",
       "likes_count": 14,
-      "last_seen": "2026-10-09T08:54:15.130780993+00:00"
+      "last_seen": "2026-10-09T16:06:55.859109186+00:00"
     },
     {
       "key": "1db92012f8477071e4b4",
@@ -622,7 +622,7 @@
       "updated": "2026-10-07T08:36:17+09:00",
       "author_name": "shirok",
       "likes_count": 12,
-      "last_seen": "2026-10-09T08:54:15.130780993+00:00"
+      "last_seen": "2026-10-09T16:06:55.859109186+00:00"
     },
     {
       "key": "283df4e144ad785ad99b",
@@ -1329,8 +1329,8 @@
       "published": "2026-10-07T08:02:40+09:00",
       "updated": "2026-10-07T16:15:45+09:00",
       "author_name": "shinkai_",
-      "likes_count": 68,
-      "last_seen": "2026-10-09T08:54:15.130780993+00:00"
+      "likes_count": 77,
+      "last_seen": "2026-10-09T16:06:55.859109186+00:00"
     },
     {
       "key": "4d27833640ff36b5d8c5",
@@ -1753,6 +1753,18 @@
       "last_seen": "2026-08-19T19:34:11.071786369+00:00"
     },
     {
+      "key": "6191b5ad83520d181f38",
+      "item_id": "6191b5ad83520d181f38",
+      "title": "判断特化型GraphRAGをJevを使って構築してみた（ベクトル未使用）",
+      "link": "https://qiita.com/kikuziro/items/6191b5ad83520d181f38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "この記事のチャンクデータには名探偵コナンのデータを登録しています（ほかにONE PIECEと名探偵プリキュア!も少し）。 名探偵コナンを知らない方はアニメまたは単行本全巻読破してからこの記事を読むことをおすすめします。\n\nみなさんGraphRAGの判断を全部LLMにや...",
+      "published": "2026-10-09T02:49:14+09:00",
+      "updated": "2026-10-09T06:07:56+09:00",
+      "author_name": "kikuziro",
+      "likes_count": 12,
+      "last_seen": "2026-10-09T16:06:55.859109186+00:00"
+    },
+    {
       "key": "61994be44d61c76716d3",
       "item_id": "61994be44d61c76716d3",
       "title": "「LLMじゃないAI」が来た! TypeSafe AI「Jev」はなぜ文字列生成を捨てたのか",
@@ -2145,8 +2157,8 @@
       "published": "2026-10-07T23:19:19+09:00",
       "updated": "2026-10-07T23:23:01+09:00",
       "author_name": "kotowazaman",
-      "likes_count": 51,
-      "last_seen": "2026-10-09T08:54:15.130780993+00:00"
+      "likes_count": 77,
+      "last_seen": "2026-10-09T16:06:55.859109186+00:00"
     },
     {
       "key": "7650fe71fa0bca85a727",
@@ -3081,8 +3093,8 @@
       "published": "2026-10-06T21:14:09+09:00",
       "updated": "2026-10-06T21:14:09+09:00",
       "author_name": "megumi_i",
-      "likes_count": 13,
-      "last_seen": "2026-10-09T08:54:15.130780993+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-10-09T16:06:55.859109186+00:00"
     },
     {
       "key": "9cf8152a99b1d178a4fd",
@@ -3105,8 +3117,8 @@
       "published": "2026-10-07T12:00:41+09:00",
       "updated": "2026-10-07T12:00:41+09:00",
       "author_name": "Oyu3m",
-      "likes_count": 12,
-      "last_seen": "2026-10-09T08:54:15.130780993+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-10-09T16:06:55.859109186+00:00"
     },
     {
       "key": "9d8a5b91dbe3b81cb1b2",
@@ -4065,8 +4077,8 @@
       "published": "2026-10-07T14:25:40+09:00",
       "updated": "2026-10-08T12:35:17+09:00",
       "author_name": "har1101",
-      "likes_count": 27,
-      "last_seen": "2026-10-09T08:54:15.130780993+00:00"
+      "likes_count": 28,
+      "last_seen": "2026-10-09T16:06:55.859109186+00:00"
     },
     {
       "key": "cf74c9b6fc9c370e67e6",
@@ -4919,6 +4931,18 @@
       "author_name": "tamashiro_nobuyuki",
       "likes_count": 10,
       "last_seen": "2026-08-17T07:11:55.967702044+00:00"
+    },
+    {
+      "key": "ff26fe2e239e23305f26",
+      "item_id": "ff26fe2e239e23305f26",
+      "title": "OpenAI の Decisions API を触ってみた",
+      "link": "https://qiita.com/hiroshi_ito9854/items/ff26fe2e239e23305f26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n少し前に、TypeSafe AIのjevが話題になりました。文章を生成せず、決められた型の答えと確信度だけを返すモデルで、LLMより桁違いに速くて安いとうたわれています。\n同じ発想のAPIとして、OpenAIが2026年10月6日、Decisions APIを全...",
+      "published": "2026-10-08T20:23:41+09:00",
+      "updated": "2026-10-09T17:17:40+09:00",
+      "author_name": "hiroshi_ito9854",
+      "likes_count": 10,
+      "last_seen": "2026-10-09T16:06:55.859109186+00:00"
     }
   ]
 }
