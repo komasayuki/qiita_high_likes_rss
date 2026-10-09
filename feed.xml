@@ -205,6 +205,15 @@ ssh を3回叩いたら、TCP 接続は3本になりますか
 速かった理由は、AI の実装力ではありません。要件定義...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:071119dfea9ed24d0948</id>
+    <title>2026年の情報漏洩を手口で分類してみた</title>
+    <link rel="alternate" href="https://qiita.com/yama3133/items/071119dfea9ed24d0948?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-06T14:19:43+09:00</updated>
+    <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yama3133&quot;&gt;yama3133&lt;/a&gt;&lt;br/&gt;Published: 2026-10-06T14:19:43+09:00&lt;br/&gt;Updated: 2026-10-06T14:19:43+09:00&lt;br/&gt;はじめに
+2026年に入って、国内外で大きな情報漏洩が続いています。特に6月から10月初旬には、タイムズカー(約660万アカウント)、焼肉きんぐ(約1,079万件)、アフラック生命(約440万人)、デンマークの住民登録簿(約880万人)などが公表されました。
+この記事では...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ed4c760f616cf3c0a958</id>
     <title>みのるん式 登壇資料の作成ノウハウをスキルとして公開しました！</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/ed4c760f616cf3c0a958?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -234,15 +243,6 @@ ssh を3回叩いたら、TCP 接続は3本になりますか
     <updated>2026-08-22T17:28:15+09:00</updated>
     <summary type="html">Likes: 93&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/gts&quot;&gt;gts&lt;/a&gt;&lt;br/&gt;Published: 2026-08-22T17:28:15+09:00&lt;br/&gt;Updated: 2026-08-22T17:28:15+09:00&lt;br/&gt;「個人開発したアプリがバズって、会社に辞表を叩きつけるんだ…！」——そんな夢を見たことがある人は、私だけではないはずです。
 結論から言います。個人開発、半年やってみたけど、勝てる気が全くしません。AI時代到来でアプリ開発は「ちょろい」と思っていたのに、実際にぶつかったのはア...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:071119dfea9ed24d0948</id>
-    <title>2026年の情報漏洩を手口で分類してみた</title>
-    <link rel="alternate" href="https://qiita.com/yama3133/items/071119dfea9ed24d0948?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-06T14:19:43+09:00</updated>
-    <summary type="html">Likes: 90&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yama3133&quot;&gt;yama3133&lt;/a&gt;&lt;br/&gt;Published: 2026-10-06T14:19:43+09:00&lt;br/&gt;Updated: 2026-10-06T14:19:43+09:00&lt;br/&gt;はじめに
-2026年に入って、国内外で大きな情報漏洩が続いています。特に6月から10月初旬には、タイムズカー(約660万アカウント)、焼肉きんぐ(約1,079万件)、アフラック生命(約440万人)、デンマークの住民登録簿(約880万人)などが公表されました。
-この記事では...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:eed2707e22d8ba940871</id>
@@ -576,6 +576,18 @@ Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENT
     <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T08:43:54+09:00&lt;br/&gt;Updated: 2026-09-18T08:43:55+09:00&lt;br/&gt;Claude Code 2.1.275（2026-09-17）の changelog に、こう書かれています。
 
 Fixed /update-config writing Write(path) permission rules, which file permission...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4c6c12324e115a125621</id>
+    <title>【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか</title>
+    <link rel="alternate" href="https://qiita.com/shinkai_/items/4c6c12324e115a125621?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-07T16:15:45+09:00</updated>
+    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinkai_&quot;&gt;shinkai_&lt;/a&gt;&lt;br/&gt;Published: 2026-10-07T08:02:40+09:00&lt;br/&gt;Updated: 2026-10-07T16:15:45+09:00&lt;br/&gt;はじめに
+最近、個人情報漏えいのニュースが多すぎないでしょうか。
+スマホを開くと、また誰でも知っている会社の名前が出ている。
+そう感じているエンジニアも多いんじゃないかと思います。
+ここ最近で特にインパクトが大きかったのがタイムズカーの件です。
+運転免許証の画像まで漏えい...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:2aff0b2b40b9d0bfda91</id>
@@ -1016,18 +1028,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 ータスクを...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4c6c12324e115a125621</id>
-    <title>【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか</title>
-    <link rel="alternate" href="https://qiita.com/shinkai_/items/4c6c12324e115a125621?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-07T16:15:45+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinkai_&quot;&gt;shinkai_&lt;/a&gt;&lt;br/&gt;Published: 2026-10-07T08:02:40+09:00&lt;br/&gt;Updated: 2026-10-07T16:15:45+09:00&lt;br/&gt;はじめに
-最近、個人情報漏えいのニュースが多すぎないでしょうか。
-スマホを開くと、また誰でも知っている会社の名前が出ている。
-そう感じているエンジニアも多いんじゃないかと思います。
-ここ最近で特にインパクトが大きかったのがタイムズカーの件です。
-運転免許証の画像まで漏えい...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:dec5350f38c748cb5b6e</id>
@@ -1850,6 +1850,17 @@ TL;DR
 そこでこの記事では、現時点の自分の Claude C...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cf5e734358e09f2410d0</id>
+    <title>Strands Deciderハンズオン！</title>
+    <link rel="alternate" href="https://qiita.com/har1101/items/cf5e734358e09f2410d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-08T12:35:17+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/har1101&quot;&gt;har1101&lt;/a&gt;&lt;br/&gt;Published: 2026-10-07T14:25:40+09:00&lt;br/&gt;Updated: 2026-10-08T12:35:17+09:00&lt;br/&gt;このイベント用のハンズオン手順です。どなたでも好きなときに試せます！(環境構築を含めて1.5時間目安)
+
+2026/10/1、AWSから発表されたStrands Deciderを動かすハンズオンです。
+
+Strands Deciderは文章を生成せず、用意した選択肢...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:873b4f14d26296176cfd</id>
     <title>AI エージェントに API キーを渡しても大丈夫か？ 対話文・.env・環境変数・MCP・OAuth — 6 つの渡し方を Claude Code・Codex・Gemini CLI・Copilot・Cursor で調べてみた</title>
     <link rel="alternate" href="https://qiita.com/songchong/items/873b4f14d26296176cfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1934,15 +1945,13 @@ transitionやtransformなどのCSSプロパティ...</summary>
 今後はデバッグを繰り返しながら完成度を高めていき、...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:cf5e734358e09f2410d0</id>
-    <title>Strands Deciderハンズオン！</title>
-    <link rel="alternate" href="https://qiita.com/har1101/items/cf5e734358e09f2410d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-08T12:35:17+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/har1101&quot;&gt;har1101&lt;/a&gt;&lt;br/&gt;Published: 2026-10-07T14:25:40+09:00&lt;br/&gt;Updated: 2026-10-08T12:35:17+09:00&lt;br/&gt;このイベント用のハンズオン手順です。どなたでも好きなときに試せます！(環境構築を含めて1.5時間目安)
-
-2026/10/1、AWSから発表されたStrands Deciderを動かすハンズオンです。
-
-Strands Deciderは文章を生成せず、用意した選択肢...</summary>
+    <id>tag:qiita.com,2026:74621592ace2ff968670</id>
+    <title>すでにWEBデザイナーの8割は不要である</title>
+    <link rel="alternate" href="https://qiita.com/kotowazaman/items/74621592ace2ff968670?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-07T23:23:01+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kotowazaman&quot;&gt;kotowazaman&lt;/a&gt;&lt;br/&gt;Published: 2026-10-07T23:19:19+09:00&lt;br/&gt;Updated: 2026-10-07T23:23:01+09:00&lt;br/&gt;はじめに
+タイトルは煽りではなく、ここ2〜3年の現場で私が実際に感じていることです。
+この記事で言う「WEBデザイナー」は、FigmaやPhotoshopで画面を作る人全般を指します。業務システムのUIを作る人も、LPを作る人も、いったん同じ括りで話します。そのうえで、残...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:aaa257c199fd094ae31e</id>
@@ -2098,14 +2107,5 @@ AI時代に設計やテストを学ぶ意味を考えたい
 GitHub Copilot や Claude Code などの AI コーディングツールが、開発者の身近な存在になってきました。
 「アイデアがあり、それを AI に正しく伝えられれば、形にできる」
 この考え方は、たしかに一面では真実です。以前なら何日もかかって...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e11d49c9bb7eb7aaea37</id>
-    <title>AIに作らせたコードを、まっさらな環境で動かしてみた</title>
-    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/e11d49c9bb7eb7aaea37?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-27T09:23:29+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T09:23:28+09:00&lt;br/&gt;Updated: 2026-08-27T09:23:29+09:00&lt;br/&gt;AI に作らせたコードは、手元では動きます。 では、まっさらな環境に置いたらどうなるか。
-OS だけの環境に移して、AI が「これが要る」と書いた依存だけを入れて動かす。 これを 300 プロジェクトでやった論文があります。動いたのは 68.3% でした。
-同じことを手元で...</summary>
   </entry>
 </feed>
