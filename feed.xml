@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-10-09T06:07:56+09:00</updated>
+  <updated>2026-10-09T07:11:35+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1364,6 +1364,15 @@ GitもDBもAPIも、仕事で触るたびに「これなんだっけ」となり
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6191b5ad83520d181f38</id>
+    <title>判断特化型GraphRAGをJevを使って構築してみた（ベクトル未使用）</title>
+    <link rel="alternate" href="https://qiita.com/kikuziro/items/6191b5ad83520d181f38?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-09T06:07:56+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-10-09T02:49:14+09:00&lt;br/&gt;Updated: 2026-10-09T06:07:56+09:00&lt;br/&gt;この記事のチャンクデータには名探偵コナンのデータを登録しています（ほかにONE PIECEと名探偵プリキュア!も少し）。 名探偵コナンを知らない方はアニメまたは単行本全巻読破してからこの記事を読むことをおすすめします。
+
+みなさんGraphRAGの判断を全部LLMにや...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f8f00a1330b249830a3d</id>
     <title>AI時代にコードの理解を「習慣にする」ために1日5問の学習アプリを作った話</title>
     <link rel="alternate" href="https://qiita.com/kitagawa_sapeet/items/f8f00a1330b249830a3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1471,15 +1480,6 @@ ECS・Lambda・RDSなどの言葉を聞いたことはあるが、なぜそれ�
 生成AIを社内文書へ接続すると、最初のデモはたいていうまくいく。
 規程を要約し、議事録を探し、過去の提案書から似た事例を見つけられるからだ。
 ところが、利用者が「この顧客に適用される契約...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6191b5ad83520d181f38</id>
-    <title>判断特化型GraphRAGをJevを使って構築してみた（ベクトル未使用）</title>
-    <link rel="alternate" href="https://qiita.com/kikuziro/items/6191b5ad83520d181f38?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-09T06:07:56+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-10-09T02:49:14+09:00&lt;br/&gt;Updated: 2026-10-09T06:07:56+09:00&lt;br/&gt;この記事のチャンクデータには名探偵コナンのデータを登録しています（ほかにONE PIECEと名探偵プリキュア!も少し）。 名探偵コナンを知らない方はアニメまたは単行本全巻読破してからこの記事を読むことをおすすめします。
-
-みなさんGraphRAGの判断を全部LLMにや...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:aa30a54fc6f0849385a7</id>
@@ -2034,6 +2034,14 @@ Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横
 原因の多くは、公式ドキュメン...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8aaa44ff15a3b404fd8b</id>
+    <title>攻撃者はWebアプリのどこを狙う？ 初心者でも今すぐできるセキュリティチェックリスト</title>
+    <link rel="alternate" href="https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-09T07:11:35+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Koukyosyumei&quot;&gt;Koukyosyumei&lt;/a&gt;&lt;br/&gt;Published: 2026-10-09T07:11:35+09:00&lt;br/&gt;Updated: 2026-10-09T07:11:35+09:00&lt;br/&gt;こんにちは。コロンビア大学の博士課程でシステムセキュリティを研究しているKoukyosyumeiです。
+ここ数日、セキュリティインシデントに関するニュースを目にする機会が増えています。こうしたニュースを見ると、「自分のWebサービスは大丈夫だろうか？」と考える方も多いのでは...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:411fc08854b9fe4c9be7</id>
     <title>非エンジニアの私が、社内エンジニアと業務効率化ツールを作ってみた件</title>
     <link rel="alternate" href="https://qiita.com/ayanonn/items/411fc08854b9fe4c9be7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2089,16 +2097,5 @@ OS だけの環境に移して、AI が「これが要る」と書いた依存�
 一度 aws configure で設定すれば、あとはずっと使えます。
 でも、この便利さの裏に、ちょっとこわい話があります。
 漏らせば高額な請求、情報流出、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:936906d276fbba11ba02</id>
-    <title>【AWS】複数人でリアルタイム描画できるお絵描きアプリを作ってみた</title>
-    <link rel="alternate" href="https://qiita.com/KyosukeTakahagi/items/936906d276fbba11ba02?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-26T11:24:07+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KyosukeTakahagi&quot;&gt;KyosukeTakahagi&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T11:24:07+09:00&lt;br/&gt;Updated: 2026-08-26T11:24:07+09:00&lt;br/&gt;この記事は「2026 Japan AWS Jr. Champions 真夏のQiitaリレー」の26日目の記事となります。
-過去の投稿（リンク集）は以下リンクからご覧ください。
-
-はじめに
-AWSの勉強をするとき、テキストを読んだり問題を解いたりするだけだと、...</summary>
   </entry>
 </feed>
