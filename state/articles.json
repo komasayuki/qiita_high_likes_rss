@@ -549,8 +549,8 @@
       "published": "2026-10-11T15:13:37+09:00",
       "updated": "2026-10-11T15:13:37+09:00",
       "author_name": "leolui2004",
-      "likes_count": 21,
-      "last_seen": "2026-10-12T00:27:48.361968105+00:00"
+      "likes_count": 28,
+      "last_seen": "2026-10-12T07:16:35.643810158+00:00"
     },
     {
       "key": "22dd373e882bf938ad1e",
@@ -599,18 +599,6 @@
       "author_name": "m__ikeda",
       "likes_count": 44,
       "last_seen": "2026-09-12T19:12:31.430824390+00:00"
-    },
-    {
-      "key": "2708b7d559c70697e105",
-      "item_id": "2708b7d559c70697e105",
-      "title": "LLMの計算はほぼ全部 GEMM (General Matrix Multiply) である",
-      "link": "https://qiita.com/sukimaengineer/items/2708b7d559c70697e105?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "本記事は2026年8月10日時点の公開情報を整理したものです。前編「M7 Max の本命は ブロックスケール MXFP4 演算器ではないか」の続編にあたります。確認済みの事実、報道、そこから導く仮説を分けて記述します。\n\nはじめに\n前回の記事では、M5 Maxでオープ...",
-      "published": "2026-08-10T11:28:32+09:00",
-      "updated": "2026-08-12T07:16:34+09:00",
-      "author_name": "sukimaengineer",
-      "likes_count": 11,
-      "last_seen": "2026-08-13T06:25:18.534290606+00:00"
     },
     {
       "key": "281689da5d9ee8c39540",
@@ -790,7 +778,7 @@
       "updated": "2026-10-09T17:57:29+09:00",
       "author_name": "Yuzuki-ki",
       "likes_count": 10,
-      "last_seen": "2026-10-12T00:27:48.361968105+00:00"
+      "last_seen": "2026-10-12T07:16:35.643810158+00:00"
     },
     {
       "key": "320b4230c0b0c169ba13",
@@ -995,6 +983,18 @@
       "author_name": "suwa_nobu",
       "likes_count": 18,
       "last_seen": "2026-09-05T18:11:24.904903093+00:00"
+    },
+    {
+      "key": "3a82a47b39bacf7f02d7",
+      "item_id": "3a82a47b39bacf7f02d7",
+      "title": "AI時代の開発費は「お客さんが自分でやったらいくら？」で決まる",
+      "link": "https://qiita.com/kotowazaman/items/3a82a47b39bacf7f02d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "人月見積もりで食べてきた皆さんは今、「AI時代に、この見積もり詐欺なんじゃないか？」と悩まされているのではないでしょうか。\n実装も設計書の執筆もAIがやるようになると、人月で積み上げるものがなくなります。\nでは開発費は何で決まるのか。よく出てくるのは「顧客が得る利益の何%か...",
+      "published": "2026-10-10T21:16:28+09:00",
+      "updated": "2026-10-10T21:24:53+09:00",
+      "author_name": "kotowazaman",
+      "likes_count": 11,
+      "last_seen": "2026-10-12T07:16:35.643810158+00:00"
     },
     {
       "key": "3abbc43f0d7c471e6688",
@@ -2413,18 +2413,6 @@
       "last_seen": "2026-09-03T18:33:35.350676318+00:00"
     },
     {
-      "key": "8479e60c6fad019fdecb",
-      "item_id": "8479e60c6fad019fdecb",
-      "title": "読書だけでは分からなかった、PMOを経験して腹落ちした3つの学び",
-      "link": "https://qiita.com/hgoto-gxp/items/8479e60c6fad019fdecb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "グロースエクスパートナーズグループのリレーブログ企画4日目担当の後藤です。\n前回の記事は「GitHub Copilotのコスト管理（AIクレジット対応版）」でした。\nまだご覧になっていない方は、ぜひそちらもチェックしてみてください！\n\nはじめに\n私は元看護師としてヘ...",
-      "published": "2026-08-10T06:27:08+09:00",
-      "updated": "2026-08-10T06:27:08+09:00",
-      "author_name": "hgoto-gxp",
-      "likes_count": 14,
-      "last_seen": "2026-08-13T06:25:18.534290606+00:00"
-    },
-    {
       "key": "85c1fa4100e5898d1a55",
       "item_id": "85c1fa4100e5898d1a55",
       "title": ".NET 11 でジェネリック仮想メソッドを高速化してみた",
@@ -2565,8 +2553,8 @@
       "published": "2026-10-09T07:11:35+09:00",
       "updated": "2026-10-09T07:11:35+09:00",
       "author_name": "Koukyosyumei",
-      "likes_count": 49,
-      "last_seen": "2026-10-12T00:27:48.361968105+00:00"
+      "likes_count": 59,
+      "last_seen": "2026-10-12T07:16:35.643810158+00:00"
     },
     {
       "key": "8acd9b94dfe56fefc0dc",
@@ -3487,22 +3475,10 @@
       "link": "https://qiita.com/kotowazaman/items/b2f2d50f0a5c74d09348?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "チンパンジーに失礼なタイトルです。先に謝罪しておきます。\n\nチンパンジーだらけに見えるのは、人のせいではなく場の設計のせい\nYouTubeでもXでもヤフコメでも、コメント欄を開けば同じ光景です。\n本文を読んでいないとしか思えない断定、罵るためだけの短文、毎回現れるマウント。...",
       "published": "2026-10-09T17:28:24+09:00",
-      "updated": "2026-10-09T17:28:24+09:00",
+      "updated": "2026-10-12T10:18:35+09:00",
       "author_name": "kotowazaman",
-      "likes_count": 10,
-      "last_seen": "2026-10-12T00:27:48.361968105+00:00"
-    },
-    {
-      "key": "b3302efec6a8d8b50197",
-      "item_id": "b3302efec6a8d8b50197",
-      "title": "新人エンジニア、AIがないと役に立たないハリボテ人間にならないか不安",
-      "link": "https://qiita.com/prumnn/items/b3302efec6a8d8b50197?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n\nエラーが出たら、考える前にまずAIにコピペする。それが当たり前になっていたぷらむんが、AIが数十分使えなくなった日に、急に自分の実力が不安になった話です。\n\nこんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯\n...",
-      "published": "2026-08-10T14:46:52+09:00",
-      "updated": "2026-08-10T14:46:52+09:00",
-      "author_name": "prumnn",
-      "likes_count": 77,
-      "last_seen": "2026-08-13T06:25:18.534290606+00:00"
+      "likes_count": 11,
+      "last_seen": "2026-10-12T07:16:35.643810158+00:00"
     },
     {
       "key": "b33b4e337c15dddae20a",
@@ -3563,18 +3539,6 @@
       "author_name": "suwa_nobu",
       "likes_count": 23,
       "last_seen": "2026-09-16T20:01:56.404342375+00:00"
-    },
-    {
-      "key": "b4a550002ebf1e5b8af8",
-      "item_id": "b4a550002ebf1e5b8af8",
-      "title": "「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位",
-      "link": "https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや\n考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\nータスクを...",
-      "published": "2026-08-10T14:47:47+09:00",
-      "updated": "2026-08-10T14:47:47+09:00",
-      "author_name": "sumomoo",
-      "likes_count": 42,
-      "last_seen": "2026-08-13T06:25:18.534290606+00:00"
     },
     {
       "key": "b4b0072073d6edcb0907",
@@ -3741,8 +3705,8 @@
       "published": "2026-10-10T16:41:11+09:00",
       "updated": "2026-10-10T16:41:11+09:00",
       "author_name": "carol0226",
-      "likes_count": 14,
-      "last_seen": "2026-10-12T00:27:48.361968105+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-10-12T07:16:35.643810158+00:00"
     },
     {
       "key": "bde0e380eeb04fa28f40",
