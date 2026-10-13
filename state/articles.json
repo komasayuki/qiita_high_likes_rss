@@ -153,8 +153,8 @@
       "published": "2026-10-13T04:10:12+09:00",
       "updated": "2026-10-13T04:10:12+09:00",
       "author_name": "songchong",
-      "likes_count": 12,
-      "last_seen": "2026-10-13T07:38:38.145571551+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-10-13T15:53:19.940315302+00:00"
     },
     {
       "key": "0f7d52531f4370484101",
@@ -285,8 +285,8 @@
       "published": "2026-10-11T13:10:09+09:00",
       "updated": "2026-10-11T13:14:02+09:00",
       "author_name": "ys05181406",
-      "likes_count": 10,
-      "last_seen": "2026-10-13T07:38:38.145571551+00:00"
+      "likes_count": 11,
+      "last_seen": "2026-10-13T15:53:19.940315302+00:00"
     },
     {
       "key": "156d782818f30a3b563e",
@@ -347,6 +347,18 @@
       "author_name": "zawawa21",
       "likes_count": 13,
       "last_seen": "2026-09-30T19:08:34.421521300+00:00"
+    },
+    {
+      "key": "184e06cd9744f94d4f3e",
+      "item_id": "184e06cd9744f94d4f3e",
+      "title": "JS初心者が『非同期』を理解してみた",
+      "link": "https://qiita.com/koxrtx/items/184e06cd9744f94d4f3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "1. はじめに\n非同期とはなんか裏で重たい処理をいい感じにしてくれてるくらいで非同期が何をしているかあまり理解できてませんでした。\n「なんで非同期で書かないといけないの？」と聞かれても、「非同期じゃないと処理が終わるまで画面が表示されなくて、重くなるから」くらいしか答えら...",
+      "published": "2026-10-13T07:17:02+09:00",
+      "updated": "2026-10-13T14:04:51+09:00",
+      "author_name": "koxrtx",
+      "likes_count": 18,
+      "last_seen": "2026-10-13T15:53:19.940315302+00:00"
     },
     {
       "key": "1953d640bc0a7c0b16fc",
@@ -573,8 +585,8 @@
       "published": "2026-10-11T15:13:37+09:00",
       "updated": "2026-10-11T15:13:37+09:00",
       "author_name": "leolui2004",
-      "likes_count": 97,
-      "last_seen": "2026-10-13T07:38:38.145571551+00:00"
+      "likes_count": 115,
+      "last_seen": "2026-10-13T15:53:19.940315302+00:00"
     },
     {
       "key": "22dd373e882bf938ad1e",
@@ -943,10 +955,10 @@
       "link": "https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "はじめに\n\nWhyを問うているつもりでいつの間にか、具体的なことを考えている時があるので気をつけることをメモする\n\n芯をくっていると楽\n\n抽象度高いところがずれていないと楽\nキャリアハック、ブラックハットSEO、グレーゾーンを攻めるなどは本質的な価値をあげず、具体を緻密...",
       "published": "2026-10-11T05:02:27+09:00",
-      "updated": "2026-10-12T12:55:41+09:00",
+      "updated": "2026-10-13T20:24:27+09:00",
       "author_name": "J-T_ky2g",
-      "likes_count": 20,
-      "last_seen": "2026-10-13T07:38:38.145571551+00:00"
+      "likes_count": 23,
+      "last_seen": "2026-10-13T15:53:19.940315302+00:00"
     },
     {
       "key": "37068142536443812690",
@@ -1018,7 +1030,7 @@
       "updated": "2026-10-12T18:44:23+09:00",
       "author_name": "kotowazaman",
       "likes_count": 18,
-      "last_seen": "2026-10-13T07:38:38.145571551+00:00"
+      "last_seen": "2026-10-13T15:53:19.940315302+00:00"
     },
     {
       "key": "3abbc43f0d7c471e6688",
@@ -2026,7 +2038,7 @@
       "updated": "2026-10-11T22:00:14+09:00",
       "author_name": "yakumo_09",
       "likes_count": 14,
-      "last_seen": "2026-10-13T07:38:38.145571551+00:00"
+      "last_seen": "2026-10-13T15:53:19.940315302+00:00"
     },
     {
       "key": "6f65c23e580dd454d4c7",
@@ -3625,6 +3637,18 @@
       "last_seen": "2026-09-16T05:55:32.278200003+00:00"
     },
     {
+      "key": "bab0634ef6e52f1de33f",
+      "item_id": "bab0634ef6e52f1de33f",
+      "title": "【Oracle × Snowflake】ADB の Iceberg テーブルを AICAT経由で Snowflake から参照する",
+      "link": "https://qiita.com/yushibats/items/bab0634ef6e52f1de33f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "Oracle Database にあるデータを、Snowflake のような別の分析基盤からも読みたい場面があります。\nAutonomous AI Database には Oracle AI Data Catalog という Iceberg REST カタログが用意されて...",
+      "published": "2026-10-13T01:11:56+09:00",
+      "updated": "2026-10-13T09:12:37+09:00",
+      "author_name": "yushibats",
+      "likes_count": 11,
+      "last_seen": "2026-10-13T15:53:19.940315302+00:00"
+    },
+    {
       "key": "bb7788d1db6df66446b4",
       "item_id": "bb7788d1db6df66446b4",
       "title": "Power AutomateとPower Appsを活用し、セキュリティ担当者の月次確認業務を50％削減！",
@@ -3767,6 +3791,18 @@
       "author_name": "nt-izumi",
       "likes_count": 15,
       "last_seen": "2026-08-17T07:11:55.967702044+00:00"
+    },
+    {
+      "key": "c78381bfe83e93e75893",
+      "item_id": "c78381bfe83e93e75893",
+      "title": "AIで作ったらオリジナルじゃないらしい。んなわけあるか。",
+      "link": "https://qiita.com/kentawata/items/c78381bfe83e93e75893?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "AIをあまり使ってない友人と話した\n最近AIで音楽とかゲームとか作ってるんだよね、と友人に話した。\nそしたら「でもそれってオリジナルなの？」「学習元があるんだから、コピーとか模倣を作ってるだけなんじゃないの」と言われた。\nあー、なるほど。そう見えてるのか。\n僕はAIをめち...",
+      "published": "2026-10-13T14:25:53+09:00",
+      "updated": "2026-10-13T14:45:30+09:00",
+      "author_name": "kentawata",
+      "likes_count": 10,
+      "last_seen": "2026-10-13T15:53:19.940315302+00:00"
     },
     {
       "key": "c795939c85cc23c5e74e",
@@ -3933,8 +3969,8 @@
       "published": "2026-10-12T18:15:31+09:00",
       "updated": "2026-10-12T18:15:31+09:00",
       "author_name": "shioccii",
-      "likes_count": 10,
-      "last_seen": "2026-10-13T07:38:38.145571551+00:00"
+      "likes_count": 11,
+      "last_seen": "2026-10-13T15:53:19.940315302+00:00"
     },
     {
       "key": "cf5e734358e09f2410d0",
@@ -4641,8 +4677,8 @@
       "published": "2026-10-12T19:42:15+09:00",
       "updated": "2026-10-13T04:48:51+09:00",
       "author_name": "songchong",
-      "likes_count": 14,
-      "last_seen": "2026-10-13T07:38:38.145571551+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-10-13T15:53:19.940315302+00:00"
     },
     {
       "key": "f82f870ef8481d9b1f0b",

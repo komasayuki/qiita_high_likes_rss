@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-10-13T11:56:40+09:00</updated>
+  <updated>2026-10-13T20:24:27+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -140,6 +140,15 @@ Jevは超短い回答だけを超速で返してくれるAIです。
 ※2026年09月19...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:226062f17e55202e8c47</id>
+    <title>サイバーセキュリティを勉強するなら今？おすすめリソース紹介</title>
+    <link rel="alternate" href="https://qiita.com/leolui2004/items/226062f17e55202e8c47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-11T15:13:37+09:00</updated>
+    <summary type="html">Likes: 115&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/leolui2004&quot;&gt;leolui2004&lt;/a&gt;&lt;br/&gt;Published: 2026-10-11T15:13:37+09:00&lt;br/&gt;Updated: 2026-10-11T15:13:37+09:00&lt;br/&gt;概要
+インシデントが毎日のように発生する時代になり、政府機関や銀行、クラウドプロバイダーですら避けられない状況になっています。「AIのせいで仕事がなくなる」と心配するより、このタイミングでサイバーセキュリティを勉強しておけば、絶対に仕事に困らないのではないでしょうか？
+と...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:74621592ace2ff968670</id>
     <title>すでにWEBデザイナーの8割は不要である</title>
     <link rel="alternate" href="https://qiita.com/kotowazaman/items/74621592ace2ff968670?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -186,15 +195,6 @@ Docker環境が重すぎて頭を抱えている人は多いのではないで�
     <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yama3133&quot;&gt;yama3133&lt;/a&gt;&lt;br/&gt;Published: 2026-10-06T14:19:43+09:00&lt;br/&gt;Updated: 2026-10-06T14:19:43+09:00&lt;br/&gt;はじめに
 2026年に入って、国内外で大きな情報漏洩が続いています。特に6月から10月初旬には、タイムズカー(約660万アカウント)、焼肉きんぐ(約1,079万件)、アフラック生命(約440万人)、デンマークの住民登録簿(約880万人)などが公表されました。
 この記事では...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:226062f17e55202e8c47</id>
-    <title>サイバーセキュリティを勉強するなら今？おすすめリソース紹介</title>
-    <link rel="alternate" href="https://qiita.com/leolui2004/items/226062f17e55202e8c47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-11T15:13:37+09:00</updated>
-    <summary type="html">Likes: 97&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/leolui2004&quot;&gt;leolui2004&lt;/a&gt;&lt;br/&gt;Published: 2026-10-11T15:13:37+09:00&lt;br/&gt;Updated: 2026-10-11T15:13:37+09:00&lt;br/&gt;概要
-インシデントが毎日のように発生する時代になり、政府機関や銀行、クラウドプロバイダーですら避けられない状況になっています。「AIのせいで仕事がなくなる」と心配するより、このタイミングでサイバーセキュリティを勉強しておけば、絶対に仕事に困らないのではないでしょうか？
-と...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ed4c760f616cf3c0a958</id>
@@ -1909,6 +1909,20 @@ transitionやtransformなどのCSSプロパティ...</summary>
 Claude Codeのクラウドルーティン（定期実行エージェント）で、平日の7時・12時・17時に「挨拶を返すだけ」の超軽量なジョ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:36aaf36d9eef97672c3d</id>
+    <title>抽象的なことを考える時、無意識に具体化しないためのメモ</title>
+    <link rel="alternate" href="https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-13T20:24:27+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/J-T_ky2g&quot;&gt;J-T_ky2g&lt;/a&gt;&lt;br/&gt;Published: 2026-10-11T05:02:27+09:00&lt;br/&gt;Updated: 2026-10-13T20:24:27+09:00&lt;br/&gt;はじめに
+
+Whyを問うているつもりでいつの間にか、具体的なことを考えている時があるので気をつけることをメモする
+
+芯をくっていると楽
+
+抽象度高いところがずれていないと楽
+キャリアハック、ブラックハットSEO、グレーゾーンを攻めるなどは本質的な価値をあげず、具体を緻密...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7a062c2ed9b82571f91f</id>
     <title>AWSの新認定試験「AI Business Strategist」に宇宙最速(未遂)で合格しました！</title>
     <link rel="alternate" href="https://qiita.com/ry-harada/items/7a062c2ed9b82571f91f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2050,20 +2064,6 @@ AWSの勉強をするとき、テキストを読んだり問題を解いたり�
     <updated>2026-08-24T09:33:20+09:00</updated>
     <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T09:33:19+09:00&lt;br/&gt;Updated: 2026-08-24T09:33:20+09:00&lt;br/&gt;Claude Code には、自分の別セッションにメッセージを送る cross-session messaging という機能があります。ターミナルを2枚開いて並行作業しているとき、片方の変更をもう片方に伝えるやつです。
 これ、「Windowsでは使えない」と思っている人が...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:36aaf36d9eef97672c3d</id>
-    <title>抽象的なことを考える時、無意識に具体化しないためのメモ</title>
-    <link rel="alternate" href="https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-12T12:55:41+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/J-T_ky2g&quot;&gt;J-T_ky2g&lt;/a&gt;&lt;br/&gt;Published: 2026-10-11T05:02:27+09:00&lt;br/&gt;Updated: 2026-10-12T12:55:41+09:00&lt;br/&gt;はじめに
-
-Whyを問うているつもりでいつの間にか、具体的なことを考えている時があるので気をつけることをメモする
-
-芯をくっていると楽
-
-抽象度高いところがずれていないと楽
-キャリアハック、ブラックハットSEO、グレーゾーンを攻めるなどは本質的な価値をあげず、具体を緻密...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a2f89a94d243b1b715cb</id>
