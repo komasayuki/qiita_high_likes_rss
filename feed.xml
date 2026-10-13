@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-10-12T19:23:25+09:00</updated>
+  <updated>2026-10-13T11:56:40+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -188,6 +188,15 @@ Docker環境が重すぎて頭を抱えている人は多いのではないで�
 この記事では...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:226062f17e55202e8c47</id>
+    <title>サイバーセキュリティを勉強するなら今？おすすめリソース紹介</title>
+    <link rel="alternate" href="https://qiita.com/leolui2004/items/226062f17e55202e8c47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-11T15:13:37+09:00</updated>
+    <summary type="html">Likes: 97&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/leolui2004&quot;&gt;leolui2004&lt;/a&gt;&lt;br/&gt;Published: 2026-10-11T15:13:37+09:00&lt;br/&gt;Updated: 2026-10-11T15:13:37+09:00&lt;br/&gt;概要
+インシデントが毎日のように発生する時代になり、政府機関や銀行、クラウドプロバイダーですら避けられない状況になっています。「AIのせいで仕事がなくなる」と心配するより、このタイミングでサイバーセキュリティを勉強しておけば、絶対に仕事に困らないのではないでしょうか？
+と...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ed4c760f616cf3c0a958</id>
     <title>みのるん式 登壇資料の作成ノウハウをスキルとして公開しました！</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/ed4c760f616cf3c0a958?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -348,15 +357,6 @@ https:...</summary>
     <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yama3133&quot;&gt;yama3133&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T13:10:47+09:00&lt;br/&gt;Updated: 2026-08-18T14:09:09+09:00&lt;br/&gt;今、AWS環境でYouTube的な動画配信サービスがどこまで作れるかを検証している。
 動画のアップロード、トランスコード、配信基盤あたりはEC2やS3、CloudFrontを組み合わせれば技術的には普通に動く。
 ところがコメント欄やユーザー間のDM機能を足そうとしたところで...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:226062f17e55202e8c47</id>
-    <title>サイバーセキュリティを勉強するなら今？おすすめリソース紹介</title>
-    <link rel="alternate" href="https://qiita.com/leolui2004/items/226062f17e55202e8c47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-11T15:13:37+09:00</updated>
-    <summary type="html">Likes: 71&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/leolui2004&quot;&gt;leolui2004&lt;/a&gt;&lt;br/&gt;Published: 2026-10-11T15:13:37+09:00&lt;br/&gt;Updated: 2026-10-11T15:13:37+09:00&lt;br/&gt;概要
-インシデントが毎日のように発生する時代になり、政府機関や銀行、クラウドプロバイダーですら避けられない状況になっています。「AIのせいで仕事がなくなる」と心配するより、このタイミングでサイバーセキュリティを勉強しておけば、絶対に仕事に困らないのではないでしょうか？
-と...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:65fba77555a13af6b8a5</id>
@@ -1444,6 +1444,16 @@ ECS・Lambda・RDSなどの言葉を聞いたことはあるが、なぜそれ�
 ところが、利用者が「この顧客に適用される契約...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:bdb16dbd5c16a2c43ad5</id>
+    <title>Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス</title>
+    <link rel="alternate" href="https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-13T11:56:40+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-10-10T16:41:11+09:00&lt;br/&gt;Updated: 2026-10-13T11:56:40+09:00&lt;br/&gt;はじめに
+2026年9月下旬以降、国内でもサイバー攻撃による被害が相次いで報道されています。
+その侵入経路は、ネットワーク機器の脆弱性を突くものや、フィッシングメールなど、さまざまです。
+また今後は、利用者自身だけでなく、AI エージェントが外部のコンテンツやサービスへア...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:aa30a54fc6f0849385a7</id>
     <title>AWSのインフラ導入でAIを使っている箇所と手でやっている箇所</title>
     <link rel="alternate" href="https://qiita.com/infra365/items/aa30a54fc6f0849385a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1601,16 +1611,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 一見、どう...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:bdb16dbd5c16a2c43ad5</id>
-    <title>Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス</title>
-    <link rel="alternate" href="https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-12T19:23:25+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-10-10T16:41:11+09:00&lt;br/&gt;Updated: 2026-10-12T19:23:25+09:00&lt;br/&gt;はじめに
-2026年9月下旬以降、国内でもサイバー攻撃による被害が相次いで報道されています。
-その侵入経路は、ネットワーク機器の脆弱性を突くものや、フィッシングメールなど、さまざまです。
-また今後は、利用者自身だけでなく、AI エージェントが外部のコンテンツやサービスへア...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4fbf6144f4cab3f00123</id>
@@ -1909,15 +1909,6 @@ transitionやtransformなどのCSSプロパティ...</summary>
 Claude Codeのクラウドルーティン（定期実行エージェント）で、平日の7時・12時・17時に「挨拶を返すだけ」の超軽量なジョ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:9a8e6af3d545150c5a08</id>
-    <title>VisualStudio無しで.NET Framework→.NET 10移行を試したら、ツールそのものが世代交代していた話</title>
-    <link rel="alternate" href="https://qiita.com/inuta-one/items/9a8e6af3d545150c5a08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-11T17:15:03+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inuta-one&quot;&gt;inuta-one&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T09:24:08+09:00&lt;br/&gt;Updated: 2026-08-11T17:15:03+09:00&lt;br/&gt;はじめに
-C# で出来ること一覧 2026年版（.NET 10） という記事を読んで、後半で紹介されていた「.NET Frameworkから.NETへの移行」を実際に手を動かして試してみることにしました。
-自分は過去にVB6→C#移行の案件に関わったこともあり、この手の移...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:7a062c2ed9b82571f91f</id>
     <title>AWSの新認定試験「AI Business Strategist」に宇宙最速(未遂)で合格しました！</title>
     <link rel="alternate" href="https://qiita.com/ry-harada/items/7a062c2ed9b82571f91f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2059,6 +2050,20 @@ AWSの勉強をするとき、テキストを読んだり問題を解いたり�
     <updated>2026-08-24T09:33:20+09:00</updated>
     <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T09:33:19+09:00&lt;br/&gt;Updated: 2026-08-24T09:33:20+09:00&lt;br/&gt;Claude Code には、自分の別セッションにメッセージを送る cross-session messaging という機能があります。ターミナルを2枚開いて並行作業しているとき、片方の変更をもう片方に伝えるやつです。
 これ、「Windowsでは使えない」と思っている人が...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:36aaf36d9eef97672c3d</id>
+    <title>抽象的なことを考える時、無意識に具体化しないためのメモ</title>
+    <link rel="alternate" href="https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-12T12:55:41+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/J-T_ky2g&quot;&gt;J-T_ky2g&lt;/a&gt;&lt;br/&gt;Published: 2026-10-11T05:02:27+09:00&lt;br/&gt;Updated: 2026-10-12T12:55:41+09:00&lt;br/&gt;はじめに
+
+Whyを問うているつもりでいつの間にか、具体的なことを考えている時があるので気をつけることをメモする
+
+芯をくっていると楽
+
+抽象度高いところがずれていないと楽
+キャリアハック、ブラックハットSEO、グレーゾーンを攻めるなどは本質的な価値をあげず、具体を緻密...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a2f89a94d243b1b715cb</id>
