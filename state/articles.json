@@ -369,8 +369,8 @@
       "published": "2026-10-13T07:17:02+09:00",
       "updated": "2026-10-13T14:04:51+09:00",
       "author_name": "koxrtx",
-      "likes_count": 36,
-      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
+      "likes_count": 40,
+      "last_seen": "2026-10-15T13:20:14.016264503+00:00"
     },
     {
       "key": "1953d640bc0a7c0b16fc",
@@ -865,18 +865,6 @@
       "last_seen": "2026-08-26T23:23:07.154619853+00:00"
     },
     {
-      "key": "346f6c8ab4b662a08f3e",
-      "item_id": "346f6c8ab4b662a08f3e",
-      "title": "AIに同じ質問をしたら、部署ごとに違う数字が返ってきた　― いま「オントロジー」と呼ばれているもの ―",
-      "link": "https://qiita.com/M_Ozu/items/346f6c8ab4b662a08f3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "同じ質問を投げたのに、部署ごとに違う数字が返ってくる。しかも、どちらのAIも間違ってない。\n生成AIを業務に入れた組織で、いま静かに起きている現象です。この記事では、その正体を解きほぐしたうえで、2025年くらいから主要ベンダーが揃って使い始めた「オントロジー」という言葉が...",
-      "published": "2026-08-13T10:29:43+09:00",
-      "updated": "2026-08-13T11:34:44+09:00",
-      "author_name": "M_Ozu",
-      "likes_count": 18,
-      "last_seen": "2026-08-16T07:39:36.201494268+00:00"
-    },
-    {
       "key": "35408d94ae1ed6fdde0a",
       "item_id": "35408d94ae1ed6fdde0a",
       "title": "カードショップ(flat-工房)の社内DXがすげえ",
@@ -943,10 +931,10 @@
       "link": "https://qiita.com/shirok/items/3661216f00cc9f5629cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "Select AIを使うと、日本語などの自然言語からSQLを生成し、Oracle Databaseのデータを調べることができます。\nただ、実際に使ってみると、いろいろ気になってきます。\n「日本語以外でも問い合わせできるのか？」\n「AIは、どのテーブルを使うか、どの列でJO...",
       "published": "2026-10-14T08:23:07+09:00",
-      "updated": "2026-10-15T07:16:33+09:00",
+      "updated": "2026-10-15T16:55:15+09:00",
       "author_name": "shirok",
-      "likes_count": 12,
-      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-10-15T13:20:14.016264503+00:00"
     },
     {
       "key": "36aaf36d9eef97672c3d",
@@ -1521,8 +1509,8 @@
       "published": "2026-10-12T22:07:07+09:00",
       "updated": "2026-10-13T09:08:12+09:00",
       "author_name": "kikuziro",
-      "likes_count": 13,
-      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-10-15T13:20:14.016264503+00:00"
     },
     {
       "key": "53b294aa9c288ace8c59",
@@ -1787,6 +1775,18 @@
       "author_name": "nolanlover0527",
       "likes_count": 17,
       "last_seen": "2026-09-12T05:39:54.073583710+00:00"
+    },
+    {
+      "key": "6337f9c909fe0f60e7c2",
+      "item_id": "6337f9c909fe0f60e7c2",
+      "title": "重複率0%でも安心できない？Cucumberのステップ定義に潜む重複を見つける",
+      "link": "https://qiita.com/figueiredoluiz/items/6337f9c909fe0f60e7c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nCukeDedupは、Cucumber/Gherkinプロジェクトのステップ定義を静的解析し、重複や曖昧さ、再利用の可能性、未使用の定義を見つける CLI ツールです。Rust で書いていて、MITライセンスで GitHub に公開しています。\n設定ファイルは不...",
+      "published": "2026-10-15T08:08:15+09:00",
+      "updated": "2026-10-15T20:07:53+09:00",
+      "author_name": "figueiredoluiz",
+      "likes_count": 11,
+      "last_seen": "2026-10-15T13:20:14.016264503+00:00"
     },
     {
       "key": "639d401573c09ab24667",
@@ -2401,18 +2401,6 @@
       "last_seen": "2026-09-02T04:20:30.409811855+00:00"
     },
     {
-      "key": "82ebbf176a12965a8e16",
-      "item_id": "82ebbf176a12965a8e16",
-      "title": "整えるな。とにかくたくさん吐き出せ。~AIとの「1ターン」を大きく前進させる仮説~",
-      "link": "https://qiita.com/sh-fukaya/items/82ebbf176a12965a8e16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "背景\n\nいつものAIとのやり取りを思い浮かべてください\nAIと仕事をするとき、一発で完璧な答えが返ってくることは、まずありませんよね。\n何かを頼んで、返ってきたものを見て、「ここはこう」「それは違う」と伝えて、また返してもらう。\nたいていは、この往復を何度も繰り返しながら...",
-      "published": "2026-08-13T18:07:36+09:00",
-      "updated": "2026-08-13T18:19:24+09:00",
-      "author_name": "sh-fukaya",
-      "likes_count": 12,
-      "last_seen": "2026-08-16T07:39:36.201494268+00:00"
-    },
-    {
       "key": "83349e8b4cdf07b97cd1",
       "item_id": "83349e8b4cdf07b97cd1",
       "title": "生成AI送信前にPythonで個人情報をマスキングする",
@@ -2651,18 +2639,6 @@
       "author_name": "jqit-yukiono",
       "likes_count": 51,
       "last_seen": "2026-09-29T08:21:18.204529534+00:00"
-    },
-    {
-      "key": "8d3c14dabff88d8f1901",
-      "item_id": "8d3c14dabff88d8f1901",
-      "title": "パスキーはなぜ「盗まれても意味がない」と言えるのか — 公開鍵暗号方式で理解する新しい認証",
-      "link": "https://qiita.com/gts/items/8d3c14dabff88d8f1901?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "パスワードを使い回している自覚はある。それでも「まあ自分は大丈夫だろう」と思いながら、今日もどこかのサービスに8文字のパスワードを打ち込んでいる。そういう人は、案外多いのではないだろうか。\n最近、GoogleやApple、主要なECサービスなどで「パスキーでログイン」という...",
-      "published": "2026-08-13T07:10:37+09:00",
-      "updated": "2026-08-13T23:42:12+09:00",
-      "author_name": "gts",
-      "likes_count": 79,
-      "last_seen": "2026-08-16T07:39:36.201494268+00:00"
     },
     {
       "key": "8d90b7320bcd1c8aba9e",
@@ -2986,7 +2962,7 @@
       "updated": "2026-10-14T11:48:28+09:00",
       "author_name": "nuco_d",
       "likes_count": 53,
-      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
+      "last_seen": "2026-10-15T13:20:14.016264503+00:00"
     },
     {
       "key": "9d68313e74aecac103bd",
@@ -3035,6 +3011,18 @@
       "author_name": "kanryu",
       "likes_count": 50,
       "last_seen": "2026-09-14T18:33:15.817247556+00:00"
+    },
+    {
+      "key": "a06805eccc0febc2f5a5",
+      "item_id": "a06805eccc0febc2f5a5",
+      "title": "【お、君（kimi）いいぞ！】サイドバーの項目がやけに多いAI「Kimi」。Claude使いの新人エンジニアが全機能を整理してみた",
+      "link": "https://qiita.com/kaichan_dot/items/a06805eccc0febc2f5a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "普段はClaudeばっかり使ってる新人エンジニアです。\n昨今、フロンティアモデルの動向が激しいですね。meta社も新しく水準の高いモデルを出したりしていますね（2026/10/13時点）。そんな中で、案外kimiに注目してみるのもいいかもしれません。\nある日Kimi（読み...",
+      "published": "2026-10-13T13:00:26+09:00",
+      "updated": "2026-10-13T13:19:05+09:00",
+      "author_name": "kaichan_dot",
+      "likes_count": 10,
+      "last_seen": "2026-10-15T13:20:14.016264503+00:00"
     },
     {
       "key": "a0fa9752528e2b3def71",
@@ -3298,7 +3286,7 @@
       "updated": "2026-10-14T15:00:07+09:00",
       "author_name": "yuji-arakawa",
       "likes_count": 10,
-      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
+      "last_seen": "2026-10-15T13:20:14.016264503+00:00"
     },
     {
       "key": "acb61138c4550eef4803",
@@ -3777,8 +3765,8 @@
       "published": "2026-10-13T14:25:53+09:00",
       "updated": "2026-10-13T14:45:30+09:00",
       "author_name": "kentawata",
-      "likes_count": 46,
-      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
+      "likes_count": 52,
+      "last_seen": "2026-10-15T13:20:14.016264503+00:00"
     },
     {
       "key": "c795939c85cc23c5e74e",
@@ -3898,7 +3886,7 @@
       "updated": "2026-10-14T07:54:16+09:00",
       "author_name": "ry-harada",
       "likes_count": 10,
-      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
+      "last_seen": "2026-10-15T13:20:14.016264503+00:00"
     },
     {
       "key": "ccd228bb1c33b2a918f5",
@@ -3958,7 +3946,7 @@
       "updated": "2026-10-12T18:15:31+09:00",
       "author_name": "shioccii",
       "likes_count": 18,
-      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
+      "last_seen": "2026-10-15T13:20:14.016264503+00:00"
     },
     {
       "key": "cf5e734358e09f2410d0",
@@ -4714,7 +4702,7 @@
       "updated": "2026-10-14T00:07:13+09:00",
       "author_name": "maskot1977",
       "likes_count": 10,
-      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
+      "last_seen": "2026-10-15T13:20:14.016264503+00:00"
     },
     {
       "key": "fc7f964572190fb8a77a",
