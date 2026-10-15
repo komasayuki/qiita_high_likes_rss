@@ -369,8 +369,8 @@
       "published": "2026-10-13T07:17:02+09:00",
       "updated": "2026-10-13T14:04:51+09:00",
       "author_name": "koxrtx",
-      "likes_count": 33,
-      "last_seen": "2026-10-15T01:24:26.144046761+00:00"
+      "likes_count": 36,
+      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
     },
     {
       "key": "1953d640bc0a7c0b16fc",
@@ -934,7 +934,7 @@
       "updated": "2026-10-13T08:52:37+09:00",
       "author_name": "suwa_nobu",
       "likes_count": 10,
-      "last_seen": "2026-10-15T01:24:26.144046761+00:00"
+      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
     },
     {
       "key": "3661216f00cc9f5629cb",
@@ -945,8 +945,8 @@
       "published": "2026-10-14T08:23:07+09:00",
       "updated": "2026-10-15T07:16:33+09:00",
       "author_name": "shirok",
-      "likes_count": 10,
-      "last_seen": "2026-10-15T01:24:26.144046761+00:00"
+      "likes_count": 12,
+      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
     },
     {
       "key": "36aaf36d9eef97672c3d",
@@ -1522,7 +1522,7 @@
       "updated": "2026-10-13T09:08:12+09:00",
       "author_name": "kikuziro",
       "likes_count": 13,
-      "last_seen": "2026-10-15T01:24:26.144046761+00:00"
+      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
     },
     {
       "key": "53b294aa9c288ace8c59",
@@ -2985,8 +2985,8 @@
       "published": "2026-10-14T11:48:28+09:00",
       "updated": "2026-10-14T11:48:28+09:00",
       "author_name": "nuco_d",
-      "likes_count": 52,
-      "last_seen": "2026-10-15T01:24:26.144046761+00:00"
+      "likes_count": 53,
+      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
     },
     {
       "key": "9d68313e74aecac103bd",
@@ -3287,6 +3287,18 @@
       "author_name": "songchong",
       "likes_count": 16,
       "last_seen": "2026-10-01T05:40:55.248883995+00:00"
+    },
+    {
+      "key": "ac606c89728cb4dc2454",
+      "item_id": "ac606c89728cb4dc2454",
+      "title": "Private Agent Factory 26.7 の Custom Flow を A2A（Agent2Agent） で呼び出してみた",
+      "link": "https://qiita.com/yuji-arakawa/items/ac606c89728cb4dc2454?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに（A2A で呼び出すとは？）\nPrivate Agent Factory（以下、PAF）で作った Custom Flow（エージェント） は、A2A（Agent2Agent）プロトコルを使って別のエージェントから呼び出して利用できます。ある PAF で用意した検索...",
+      "published": "2026-10-13T23:18:01+09:00",
+      "updated": "2026-10-14T15:00:07+09:00",
+      "author_name": "yuji-arakawa",
+      "likes_count": 10,
+      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
     },
     {
       "key": "acb61138c4550eef4803",
@@ -3765,8 +3777,8 @@
       "published": "2026-10-13T14:25:53+09:00",
       "updated": "2026-10-13T14:45:30+09:00",
       "author_name": "kentawata",
-      "likes_count": 34,
-      "last_seen": "2026-10-15T01:24:26.144046761+00:00"
+      "likes_count": 46,
+      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
     },
     {
       "key": "c795939c85cc23c5e74e",
@@ -3877,6 +3889,18 @@
       "last_seen": "2026-10-04T06:46:28.139125622+00:00"
     },
     {
+      "key": "cca2012374f26773e4fb",
+      "item_id": "cca2012374f26773e4fb",
+      "title": "GitHub Issueの優先度と領域をJevに判定させて、GitHub Actionsでラベルを付ける",
+      "link": "https://qiita.com/ry-harada/items/cca2012374f26773e4fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n個人開発のダッシュボードアプリで、Todoの管理をGitHub Issueでやっています。各Issueには「変更の種類」「対応優先度」「変更が必要な対象（バックエンド、フロントエンドなど）領域」の3観点でラベルを付けています。変更の種類はIssueテンプレートが...",
+      "published": "2026-10-14T07:54:15+09:00",
+      "updated": "2026-10-14T07:54:16+09:00",
+      "author_name": "ry-harada",
+      "likes_count": 10,
+      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
+    },
+    {
       "key": "ccd228bb1c33b2a918f5",
       "item_id": "ccd228bb1c33b2a918f5",
       "title": "Claude Code の出力を35%短くしたら、情報がむしろ増えた",
@@ -3933,8 +3957,8 @@
       "published": "2026-10-12T18:15:31+09:00",
       "updated": "2026-10-12T18:15:31+09:00",
       "author_name": "shioccii",
-      "likes_count": 17,
-      "last_seen": "2026-10-15T01:24:26.144046761+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
     },
     {
       "key": "cf5e734358e09f2410d0",
@@ -4630,7 +4654,7 @@
       "updated": "2026-10-13T04:48:51+09:00",
       "author_name": "songchong",
       "likes_count": 18,
-      "last_seen": "2026-10-15T01:24:26.144046761+00:00"
+      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
     },
     {
       "key": "f82f870ef8481d9b1f0b",
@@ -4690,7 +4714,7 @@
       "updated": "2026-10-14T00:07:13+09:00",
       "author_name": "maskot1977",
       "likes_count": 10,
-      "last_seen": "2026-10-15T01:24:26.144046761+00:00"
+      "last_seen": "2026-10-15T07:20:04.555773508+00:00"
     },
     {
       "key": "fc7f964572190fb8a77a",
