@@ -961,18 +961,6 @@
       "last_seen": "2026-08-20T07:51:10.750419055+00:00"
     },
     {
-      "key": "390b3558be49c30f85a7",
-      "item_id": "390b3558be49c30f85a7",
-      "title": "【ローカルLLM】Qwen3.8-27Bの推論性能をテストする（WSL2 + Ollama + RTX 5070 Ti）",
-      "link": "https://qiita.com/h-nabata/items/390b3558be49c30f85a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Qwen3.8-27Bが公開されたのでローカルLinux環境で動かしてみる。\n\nHugging FaceからもQwen3.8-27B-GGUF:Q4_K_Mが出ているが、Ollama上で動作した際のThinkモードでの出力の切り分けに問題があったため、ここでは利用しな...",
-      "published": "2026-08-16T02:58:03+09:00",
-      "updated": "2026-08-16T12:24:38+09:00",
-      "author_name": "h-nabata",
-      "likes_count": 20,
-      "last_seen": "2026-08-18T19:35:07.723031528+00:00"
-    },
-    {
       "key": "390d20b6c6e3eef92f45",
       "item_id": "390d20b6c6e3eef92f45",
       "title": "Claude Coworkの定期タスクが4回止まった。原因は全部承認の設定だった話",
@@ -1054,7 +1042,7 @@
       "updated": "2026-10-15T13:51:49+09:00",
       "author_name": "ymd65536",
       "likes_count": 25,
-      "last_seen": "2026-10-17T19:15:53.565746498+00:00"
+      "last_seen": "2026-10-17T22:12:47.734511425+00:00"
     },
     {
       "key": "3cb311b037a975739948",
@@ -1127,18 +1115,6 @@
       "author_name": "tomada",
       "likes_count": 35,
       "last_seen": "2026-08-24T19:37:40.532622274+00:00"
-    },
-    {
-      "key": "42bac3515d11144ce07b",
-      "item_id": "42bac3515d11144ce07b",
-      "title": "【OSS】現場で使える軽量な脅威検知・監視基盤「kizashi」を個人開発してみた（設計・実装の全記録）",
-      "link": "https://qiita.com/kizashi-labs/items/42bac3515d11144ce07b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nセキュリティ監視や脅威検知を現場レベルで運用しようとすると、商用製品のコストの高さや、既存オープンソースの導入・運用負荷の高さに直面することが多々あります。\nそこで今回、「軽量・低負荷・Docker一発起動」 で本格的な監視・テレメトリ収集・ログ分析を行えるOS...",
-      "published": "2026-08-15T22:38:44+09:00",
-      "updated": "2026-08-15T22:38:44+09:00",
-      "author_name": "kizashi-labs",
-      "likes_count": 11,
-      "last_seen": "2026-08-18T19:35:07.723031528+00:00"
     },
     {
       "key": "43200787b2b2231a6fa3",
@@ -2881,18 +2857,6 @@
       "last_seen": "2026-09-03T04:17:18.277961835+00:00"
     },
     {
-      "key": "9c540e06512631ca0b39",
-      "item_id": "9c540e06512631ca0b39",
-      "title": "cdk-nagが良さそうなので使ってみる",
-      "link": "https://qiita.com/yakumo_09/items/9c540e06512631ca0b39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nCDKでインフラを書いていて、「これ、セキュリティ的に大丈夫なんだろうか...」と不安になることがよくあります。\nレビューをお願いするにしても、レビュワーがAWSに詳しくないと判断が難しいんですよね。\nそこで前から気になっていた cdk-nag を試してみました...",
-      "published": "2026-08-16T23:01:50+09:00",
-      "updated": "2026-08-16T23:01:50+09:00",
-      "author_name": "yakumo_09",
-      "likes_count": 11,
-      "last_seen": "2026-08-18T19:35:07.723031528+00:00"
-    },
-    {
       "key": "9c9cbb97df7e4a631660",
       "item_id": "9c9cbb97df7e4a631660",
       "title": "CORSエラーに遭遇したので、そもそもCORSとは何なのか理解する",
@@ -3034,7 +2998,7 @@
       "updated": "2026-10-15T16:23:06+09:00",
       "author_name": "acsuzuki",
       "likes_count": 13,
-      "last_seen": "2026-10-17T19:15:53.565746498+00:00"
+      "last_seen": "2026-10-17T22:12:47.734511425+00:00"
     },
     {
       "key": "a2f89a94d243b1b715cb",
@@ -3681,8 +3645,8 @@
       "published": "2026-10-15T18:13:53+09:00",
       "updated": "2026-10-15T18:18:14+09:00",
       "author_name": "kikuziro",
-      "likes_count": 67,
-      "last_seen": "2026-10-17T19:15:53.565746498+00:00"
+      "likes_count": 69,
+      "last_seen": "2026-10-17T22:12:47.734511425+00:00"
     },
     {
       "key": "c1e2f6d696ea88854186",
@@ -3694,7 +3658,7 @@
       "updated": "2026-10-17T12:44:39+09:00",
       "author_name": "Eitaro_dotlog",
       "likes_count": 14,
-      "last_seen": "2026-10-17T19:15:53.565746498+00:00"
+      "last_seen": "2026-10-17T22:12:47.734511425+00:00"
     },
     {
       "key": "c40eaabbe4a283f706e0",
@@ -4102,7 +4066,7 @@
       "updated": "2026-10-15T16:54:28+09:00",
       "author_name": "redwings_a",
       "likes_count": 16,
-      "last_seen": "2026-10-17T19:15:53.565746498+00:00"
+      "last_seen": "2026-10-17T22:12:47.734511425+00:00"
     },
     {
       "key": "da5f2c127b305b6b1ee6",
@@ -4666,7 +4630,7 @@
       "updated": "2026-10-17T20:19:24+09:00",
       "author_name": "k2_naka",
       "likes_count": 25,
-      "last_seen": "2026-10-17T19:15:53.565746498+00:00"
+      "last_seen": "2026-10-17T22:12:47.734511425+00:00"
     },
     {
       "key": "fc7f964572190fb8a77a",
