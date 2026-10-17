@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-10-15T18:18:14+09:00</updated>
+  <updated>2026-10-17T20:19:24+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -355,6 +355,16 @@ Anthropic は 2026年7月24日のブログで、Claude Opus 5 / Fable 5 向け�
 プロジェクトでは、あ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c1b47d4bfaa64960ca18</id>
+    <title>Jevにウォーリーを探させたら0.4秒で見つけやがった!!</title>
+    <link rel="alternate" href="https://qiita.com/kikuziro/items/c1b47d4bfaa64960ca18?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-15T18:18:14+09:00</updated>
+    <summary type="html">Likes: 66&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-10-15T18:13:53+09:00&lt;br/&gt;Updated: 2026-10-15T18:18:14+09:00&lt;br/&gt;先にタイトル詐欺についてお詫び申し上げます。正確には&quot;ウォーリーを探せ&quot;ではなく&quot;ウォーリーを探せっぽい画像&quot;から探させた検証になります。実際の&quot;ウォーリーをさがせ&quot;はもっと難しいので同じ結果にはならないかもしれません
+
+📸 Jevの画像対応
+Jevで画像入力が使え...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7123aef3db7d1ba91fc3</id>
     <title>2026年9月25日に発表された新しい Microsoft Copilot についての整理</title>
     <link rel="alternate" href="https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -365,16 +375,6 @@ Introducing the new Copilot with Home, Code and Autopilot
 今回の発表を一言でまとめると、
 
 Micros...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c1b47d4bfaa64960ca18</id>
-    <title>Jevにウォーリーを探させたら0.4秒で見つけやがった!!</title>
-    <link rel="alternate" href="https://qiita.com/kikuziro/items/c1b47d4bfaa64960ca18?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-15T18:18:14+09:00</updated>
-    <summary type="html">Likes: 64&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-10-15T18:13:53+09:00&lt;br/&gt;Updated: 2026-10-15T18:18:14+09:00&lt;br/&gt;先にタイトル詐欺についてお詫び申し上げます。正確には&quot;ウォーリーを探せ&quot;ではなく&quot;ウォーリーを探せっぽい画像&quot;から探させた検証になります。実際の&quot;ウォーリーをさがせ&quot;はもっと難しいので同じ結果にはならないかもしれません
-
-📸 Jevの画像対応
-Jevで画像入力が使え...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3380b85d0b52ea01f449</id>
@@ -1703,6 +1703,16 @@ TL;DR
 そこでこの記事では、現時点の自分の Claude C...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3bc00ba77b87808bda9b</id>
+    <title>【AWS】AWS Lambda Web Functionsから考えるAWS Lambdaとは何なのか</title>
+    <link rel="alternate" href="https://qiita.com/ymd65536/items/3bc00ba77b87808bda9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-15T13:51:49+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ymd65536&quot;&gt;ymd65536&lt;/a&gt;&lt;br/&gt;Published: 2026-10-15T10:52:51+09:00&lt;br/&gt;Updated: 2026-10-15T13:51:49+09:00&lt;br/&gt;記事のポイント
+
+AWS Lambdaはイベント駆動のFaaSとして登場し、AWSのサービス同士をつなぐコンポーネントとしても利用されてきた
+Lambda Web FunctionsやMicroVMsの登場により、AWS Lambdaは関数だけでなくHTTPサーバーや独立...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:36aaf36d9eef97672c3d</id>
     <title>抽象的なことを考える時、無意識に具体化しないためのメモ</title>
     <link rel="alternate" href="https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1823,16 +1833,6 @@ Microsoft 365 Copilot（有料アドオンライセ...</summary>
 Claude Codeのクラウドルーティン（定期実行エージェント）で、平日の7時・12時・17時に「挨拶を返すだけ」の超軽量なジョ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3bc00ba77b87808bda9b</id>
-    <title>【AWS】AWS Lambda Web Functionsから考えるAWS Lambdaとは何なのか</title>
-    <link rel="alternate" href="https://qiita.com/ymd65536/items/3bc00ba77b87808bda9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-15T13:51:49+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ymd65536&quot;&gt;ymd65536&lt;/a&gt;&lt;br/&gt;Published: 2026-10-15T10:52:51+09:00&lt;br/&gt;Updated: 2026-10-15T13:51:49+09:00&lt;br/&gt;記事のポイント
-
-AWS Lambdaはイベント駆動のFaaSとして登場し、AWSのサービス同士をつなぐコンポーネントとしても利用されてきた
-Lambda Web FunctionsやMicroVMsの登場により、AWS Lambdaは関数だけでなくHTTPサーバーや独立...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:7a062c2ed9b82571f91f</id>
     <title>AWSの新認定試験「AI Business Strategist」に宇宙最速(未遂)で合格しました！</title>
     <link rel="alternate" href="https://qiita.com/ry-harada/items/7a062c2ed9b82571f91f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1885,6 +1885,28 @@ Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom and pl
     <updated>2026-08-31T08:35:16+09:00</updated>
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T08:35:15+09:00&lt;br/&gt;Updated: 2026-08-31T08:35:16+09:00&lt;br/&gt;GitHub Trending に、スター 60,480 の Agent Skill が上がっていました。
 Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横断して調べ、upvote や likes といった実際の反応で...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:fa87685231377f15e7e3</id>
+    <title>CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性</title>
+    <link rel="alternate" href="https://qiita.com/k2_naka/items/fa87685231377f15e7e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-17T20:19:24+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/k2_naka&quot;&gt;k2_naka&lt;/a&gt;&lt;br/&gt;Published: 2026-10-16T21:48:39+09:00&lt;br/&gt;Updated: 2026-10-17T20:19:24+09:00&lt;br/&gt;工程
+担当
+
+課題提示・取捨選択・内容チェック
+筆者
+
+原案作成・編成
+Claude Fable 5.1
+
+事実検証（検証メモ）
+GPT-6 Astra
+
+一次資料照合・最終稿
+Claude Fable 5.1
+
+本稿は筆者個人の分析であり、所属組織や...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d49739b934606d4abdbd</id>
@@ -2063,16 +2085,5 @@ SELECT AI RUNSQL
 こんにちは、事業会社で働いているデータサイエンティストです。
 
 専門は政治学方法論と計量経済学です。因果推論については大学院生の頃から勉強していて、単なる相関ではなく、興味のある変数がアウトカムに与える因果効果を厳密に議論できるところに大きな魅力を感じていま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:655665c108a1972f04ca</id>
-    <title>AIにアンケートの生データを丸投げしたら、対応表を読んで前処理を一瞬で終わらせてくれた話</title>
-    <link rel="alternate" href="https://qiita.com/IkuyaM/items/655665c108a1972f04ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-02T10:02:55+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/IkuyaM&quot;&gt;IkuyaM&lt;/a&gt;&lt;br/&gt;Published: 2026-09-02T10:02:55+09:00&lt;br/&gt;Updated: 2026-09-02T10:02:55+09:00&lt;br/&gt;「アンケートの回答データ、集計できる形にしておいてもらえますか」
-先日そう頼まれて、送られてきたCSVを開いた瞬間、正直うんざりしました。
-
-列名は SC1 SC2 SC3、その先は Q1 Q2 と続きます。値は 1 2 3。列を見ても値を見ても、何のことか分かりません。
-...</summary>
   </entry>
 </feed>
