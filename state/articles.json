@@ -2989,6 +2989,18 @@
       "last_seen": "2026-09-29T15:42:12.959695916+00:00"
     },
     {
+      "key": "a4719b247a0ec489e4c3",
+      "item_id": "a4719b247a0ec489e4c3",
+      "title": "画像アップロードAPIのセキュリティ対策を、実装レベルで振り返る",
+      "link": "https://qiita.com/vaon-luandv/items/a4719b247a0ec489e4c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "アップロードされた画像を受け取るAPIで、最低限入れておきたい入口の対策をチェックリストにしました。各項目は「何を確かめるか、どの攻撃を想定するか、コード、失敗時に返すステータス」の順で書いています。全部を入れる必要はないと思うので、気になる項目だけ拾ってもらえれば十分です...",
+      "published": "2026-10-17T12:50:32+09:00",
+      "updated": "2026-10-17T12:50:32+09:00",
+      "author_name": "vaon-luandv",
+      "likes_count": 11,
+      "last_seen": "2026-10-18T14:30:47.537998194+00:00"
+    },
+    {
       "key": "a5b9a6acf097ade52c9f",
       "item_id": "a5b9a6acf097ade52c9f",
       "title": "【React】default exportは無名関数でコンポーネントを作っても動いてしまう",
@@ -3070,7 +3082,7 @@
       "updated": "2026-10-17T23:43:13+09:00",
       "author_name": "Un_titled",
       "likes_count": 10,
-      "last_seen": "2026-10-18T10:55:11.908403786+00:00"
+      "last_seen": "2026-10-18T14:30:47.537998194+00:00"
     },
     {
       "key": "a8d8177d02cc4f7f2553",
@@ -3609,8 +3621,8 @@
       "published": "2026-10-15T18:13:53+09:00",
       "updated": "2026-10-15T18:18:14+09:00",
       "author_name": "kikuziro",
-      "likes_count": 77,
-      "last_seen": "2026-10-18T10:55:11.908403786+00:00"
+      "likes_count": 78,
+      "last_seen": "2026-10-18T14:30:47.537998194+00:00"
     },
     {
       "key": "c1e2f6d696ea88854186",
@@ -3622,7 +3634,7 @@
       "updated": "2026-10-17T12:44:39+09:00",
       "author_name": "Eitaro_dotlog",
       "likes_count": 14,
-      "last_seen": "2026-10-18T10:55:11.908403786+00:00"
+      "last_seen": "2026-10-18T14:30:47.537998194+00:00"
     },
     {
       "key": "c40eaabbe4a283f706e0",
@@ -4567,10 +4579,10 @@
       "link": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "工程\n担当\n\n課題提示・取捨選択・内容チェック\n筆者\n\n原案作成・編成\nClaude Fable 5.1\n\n事実検証（検証メモ）\nGPT-6 Astra\n\n一次資料照合・最終稿\nClaude Fable 5.1\n\n本稿は筆者個人の分析であり、所属組織や...",
       "published": "2026-10-16T21:48:39+09:00",
-      "updated": "2026-10-17T20:19:24+09:00",
+      "updated": "2026-10-18T21:09:56+09:00",
       "author_name": "k2_naka",
-      "likes_count": 36,
-      "last_seen": "2026-10-18T10:55:11.908403786+00:00"
+      "likes_count": 37,
+      "last_seen": "2026-10-18T14:30:47.537998194+00:00"
     },
     {
       "key": "fc7f964572190fb8a77a",
