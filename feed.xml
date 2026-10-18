@@ -906,18 +906,6 @@ SQLって何から覚えればいいの？
 SQLにはたくさんの構文がありますが、最初から...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:ab629ef2296563691957</id>
-    <title>新人エンジニア、長時間考える体力がなさすぎて全然集中が続かない</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/ab629ef2296563691957?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-17T16:27:57+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-17T16:27:57+09:00&lt;br/&gt;Updated: 2026-08-17T16:27:57+09:00&lt;br/&gt;はじめに
-
-難しい課題に向き合うと、30分もしないうちに脳が疲れて集中が切れてしまうぷらむんが、先輩たちの底なしの集中力を見て落ち込んだ話です。
-
-こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯
-最近、難しいタスクに向...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:184e06cd9744f94d4f3e</id>
     <title>JS初心者が『非同期』を理解してみた</title>
     <link rel="alternate" href="https://qiita.com/koxrtx/items/184e06cd9744f94d4f3e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -995,19 +983,6 @@ GPT-6 Astra
 Claude Fable 5.1
 
 本稿は筆者個人の分析であり、所属組織や...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6e1719b24f56d4166d2e</id>
-    <title>彼女の誕生日に、2人だけのSNS「Sync」を作った話</title>
-    <link rel="alternate" href="https://qiita.com/dayaa/items/6e1719b24f56d4166d2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-16T20:36:36+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/dayaa&quot;&gt;dayaa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-16T20:35:44+09:00&lt;br/&gt;Updated: 2026-08-16T20:36:36+09:00&lt;br/&gt;これは、彼女の誕生日プレゼントとして作った、二人専用SNS「Sync」の開発記録です。
-完成した機能だけでなく、本番環境でログインできなくなった失敗や、写真表示を約96%軽量化した改善までまとめます。
- 
-
-はじめに
-彼女の誕生日に、何か形に残るものを贈りたかった。
-写...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f1f6a45fa9aff8d624af</id>
@@ -2089,5 +2064,30 @@ WordPress を新しく立ち上げるとき、「まずサイトを公開して�
 
 これが、この記事で答えたい問いです。
 このうち業務の判断に関係する...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3906db61d153fe8691aa</id>
+    <title>Mermaidで書いた過去記事の図を、話題の図解スキルに食わせてみた — 色指定が全部捨てられた</title>
+    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/3906db61d153fe8691aa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-20T08:10:56+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-17T16:26:51+09:00&lt;br/&gt;Updated: 2026-08-20T08:10:56+09:00&lt;br/&gt;Qiita で Mermaid を使うと、日本語で崩れます。
+
+ノードのラベルが変な位置で折り返される
+ダークテーマで文字が見えなくなる
+
+subgraph のラベルが枠を突き抜ける
+
+自分は毎回これを踏んでいて、対策として  で改行位置を指定したり、color:...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3126a7ff8d626f220202</id>
+    <title>TransformerのKVキャッシュを用いたDecode処理を理解する</title>
+    <link rel="alternate" href="https://qiita.com/kenmatsu4/items/3126a7ff8d626f220202?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-18T20:08:45+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenmatsu4&quot;&gt;kenmatsu4&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T20:08:45+09:00&lt;br/&gt;Updated: 2026-08-18T20:08:45+09:00&lt;br/&gt;こんにちは、DeNAでデータサイエンティストをやっているまつけんです。
+今回は、TransformerのKVキャッシュを用いたDecode処理について解説していきたいと思います。
+Transformerの推論処理には以下のように２段階あります。
+
+Prefill: 入力トー...</summary>
   </entry>
 </feed>
