@@ -937,13 +937,6 @@ SQLにはたくさんの構文がありますが、最初から...</summary>
 「なんで非同期で書かないといけないの？」と聞かれても、「非同期じゃないと処理が終わるまで画面が表示されなくて、重くなるから」くらいしか答えら...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:639d401573c09ab24667</id>
-    <title>Cursor Originを触った。第一印象は「Cursor版GitHub」</title>
-    <link rel="alternate" href="https://qiita.com/Kinopee/items/639d401573c09ab24667?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-18T02:59:50+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Kinopee&quot;&gt;Kinopee&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T02:44:41+09:00&lt;br/&gt;Updated: 2026-08-18T02:59:50+09:00&lt;br/&gt;Cursor Originは、Cursorが出しているGitホスティングです。リポジトリを置いて、レビューして、マージする。GitHubやGitLabと同じ役割です。公式のコピーは &quot;A git forge for the agentic era&quot;。人間が1本ずつPull ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:454fc975b095230565c7</id>
     <title>高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜</title>
     <link rel="alternate" href="https://qiita.com/ast-24/items/454fc975b095230565c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1650,15 +1643,6 @@ TL;DR
 ② 頂上に目的があるから登る人...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:1668e67b8d3cf43c4e0a</id>
-    <title>【雑記】自分のClaude Code運用の全体像</title>
-    <link rel="alternate" href="https://qiita.com/ryu-ki/items/1668e67b8d3cf43c4e0a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-17T22:43:18+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryu-ki&quot;&gt;ryu-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-08-17T20:53:22+09:00&lt;br/&gt;Updated: 2026-08-17T22:43:18+09:00&lt;br/&gt;はじめに
-先日、Claude Code のセッションをスマホから触る方法（Remote Control など）を調べる機会がありました。調べながらふと、自分の Claude Code の使い方を振り返りたくなりました。
-そこでこの記事では、現時点の自分の Claude C...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:3bc00ba77b87808bda9b</id>
     <title>【AWS】AWS Lambda Web Functionsから考えるAWS Lambdaとは何なのか</title>
     <link rel="alternate" href="https://qiita.com/ymd65536/items/3bc00ba77b87808bda9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2086,5 +2070,25 @@ Prefill: 入力トー...</summary>
 「会話を続けていたら、トークンが急に増えて、使用量制限に達してしまった」
 
 Claude Code・Code...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:f7c44c74e437875b1399</id>
+    <title>テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた</title>
+    <link rel="alternate" href="https://qiita.com/ebichan_88/items/f7c44c74e437875b1399?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-17T22:25:24+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ebichan_88&quot;&gt;ebichan_88&lt;/a&gt;&lt;br/&gt;Published: 2026-10-17T18:15:15+09:00&lt;br/&gt;Updated: 2026-10-17T22:25:24+09:00&lt;br/&gt;はじめに
+テーブル定義書・ER図を自動生成し、AIにテーブル構造を答えさせるツール「dbxray」を作成したので紹介します。
+業務であまり詳しくないサブシステムのテーブル構造をキャッチアップするため、過去に作成したテーブル定義書の出力ツールを改良しました。
+
+以前【Po...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ac268db56f92b991970b</id>
+    <title>AIを業務改善につなげるための5ステップ ― サービスデザインを活用した要件定義</title>
+    <link rel="alternate" href="https://qiita.com/TamakiSeki/items/ac268db56f92b991970b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-30T17:34:14+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TamakiSeki&quot;&gt;TamakiSeki&lt;/a&gt;&lt;br/&gt;Published: 2026-09-30T17:34:13+09:00&lt;br/&gt;Updated: 2026-09-30T17:34:14+09:00&lt;br/&gt;はじめに
+生成AIやAIエージェントを業務に活用しようとすると、「どの業務に適用するか」「人とAIの役割をどう分けるか」で迷うことがあります。
+文章作成や要約など個人単位の作業にはAIを導入しやすい一方、AIエージェントを作ること自体が目的になると、個別タスクの効率化にと...</summary>
   </entry>
 </feed>

@@ -313,18 +313,6 @@
       "last_seen": "2026-08-26T19:14:45.793341272+00:00"
     },
     {
-      "key": "1668e67b8d3cf43c4e0a",
-      "item_id": "1668e67b8d3cf43c4e0a",
-      "title": "【雑記】自分のClaude Code運用の全体像",
-      "link": "https://qiita.com/ryu-ki/items/1668e67b8d3cf43c4e0a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n先日、Claude Code のセッションをスマホから触る方法（Remote Control など）を調べる機会がありました。調べながらふと、自分の Claude Code の使い方を振り返りたくなりました。\nそこでこの記事では、現時点の自分の Claude C...",
-      "published": "2026-08-17T20:53:22+09:00",
-      "updated": "2026-08-17T22:43:18+09:00",
-      "author_name": "ryu-ki",
-      "likes_count": 26,
-      "last_seen": "2026-08-20T19:39:04.153179734+00:00"
-    },
-    {
       "key": "16a6d2c5da7d144efe95",
       "item_id": "16a6d2c5da7d144efe95",
       "title": "日本企業「ハッキングされないでくれ」ランキング",
@@ -850,7 +838,7 @@
       "updated": "2026-10-19T14:02:21+09:00",
       "author_name": "songchong",
       "likes_count": 19,
-      "last_seen": "2026-10-19T14:36:35.271480823+00:00"
+      "last_seen": "2026-10-19T20:32:24.265293822+00:00"
     },
     {
       "key": "35408d94ae1ed6fdde0a",
@@ -1457,12 +1445,12 @@
       "item_id": "542892c6d4c569c9c15f",
       "title": "重要な指示は最初か最後か？ AI 大手 3 社の助言が異なるので、資料→命令→指示の並び方を 8 通り試してみた",
       "link": "https://qiita.com/songchong/items/542892c6d4c569c9c15f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "長い資料を AI に渡して仕事を頼むとき、守らせたい指示は資料の前に書くべきか、後に書くべきか。Anthropic・Google・OpenAI の 3 社の手引きを読むと、この答えが会社によって異なります。\nそこで IT連携マップ編集部は、資料・命令・指示の 3 つを 8...",
+      "summary": "長い資料を AI に渡して仕事を頼むとき、守らせたい指示は資料の前に書くべきか、後に書くべきか。Anthropic・Google・OpenAI の 3 社の手引きを読むと、この答えが会社によって異なります。\nそこで IT連携マップ編集部は、4 つのモデルで 3 つの実験を...",
       "published": "2026-10-19T03:30:44+09:00",
       "updated": "2026-10-19T13:25:17+09:00",
       "author_name": "songchong",
       "likes_count": 14,
-      "last_seen": "2026-10-19T14:36:35.271480823+00:00"
+      "last_seen": "2026-10-19T20:32:24.265293822+00:00"
     },
     {
       "key": "54762eaae03b84252a3f",
@@ -1533,8 +1521,8 @@
       "published": "2026-10-18T21:49:25+09:00",
       "updated": "2026-10-19T13:33:13+09:00",
       "author_name": "yakumo_09",
-      "likes_count": 15,
-      "last_seen": "2026-10-19T14:36:35.271480823+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-10-19T20:32:24.265293822+00:00"
     },
     {
       "key": "5aa4bc07279ea271909a",
@@ -1739,18 +1727,6 @@
       "author_name": "figueiredoluiz",
       "likes_count": 12,
       "last_seen": "2026-10-16T07:03:42.048968915+00:00"
-    },
-    {
-      "key": "639d401573c09ab24667",
-      "item_id": "639d401573c09ab24667",
-      "title": "Cursor Originを触った。第一印象は「Cursor版GitHub」",
-      "link": "https://qiita.com/Kinopee/items/639d401573c09ab24667?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Cursor Originは、Cursorが出しているGitホスティングです。リポジトリを置いて、レビューして、マージする。GitHubやGitLabと同じ役割です。公式のコピーは \"A git forge for the agentic era\"。人間が1本ずつPull ...",
-      "published": "2026-08-18T02:44:41+09:00",
-      "updated": "2026-08-18T02:59:50+09:00",
-      "author_name": "Kinopee",
-      "likes_count": 43,
-      "last_seen": "2026-08-20T19:39:04.153179734+00:00"
     },
     {
       "key": "64a8710cffb39963c2b3",
@@ -2665,18 +2641,6 @@
       "last_seen": "2026-09-06T04:26:51.532526187+00:00"
     },
     {
-      "key": "94b96d15c9c031e39b3f",
-      "item_id": "94b96d15c9c031e39b3f",
-      "title": "Claude Code に spellcheck が付いた — 日本語だと9割に下線が引かれる",
-      "link": "https://qiita.com/jqit_suwa/items/94b96d15c9c031e39b3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Claude Code 2.1.235 に spellcheck 設定が付きました。changelog の1行がこれです。\n\nAdded an optional spellcheck setting that underlines misspelled words in t...",
-      "published": "2026-08-19T19:01:37+09:00",
-      "updated": "2026-08-20T08:11:59+09:00",
-      "author_name": "jqit_suwa",
-      "likes_count": 16,
-      "last_seen": "2026-08-20T19:39:04.153179734+00:00"
-    },
-    {
       "key": "94df4fbdeabaaf8f8ef5",
       "item_id": "94df4fbdeabaaf8f8ef5",
       "title": "AIエージェント14製品を徹底比較｜暴走せず社内業務を任せられるのは？ Claude・Cursor・Devin・Manus…【中小企業の導入判断ガイド】",
@@ -2818,7 +2782,7 @@
       "updated": "2026-10-19T10:03:57+09:00",
       "author_name": "figueiredoluiz",
       "likes_count": 10,
-      "last_seen": "2026-10-19T14:36:35.271480823+00:00"
+      "last_seen": "2026-10-19T20:32:24.265293822+00:00"
     },
     {
       "key": "9dc9ee419d2764d2aa06",
@@ -3022,7 +2986,7 @@
       "updated": "2026-10-17T23:43:13+09:00",
       "author_name": "Un_titled",
       "likes_count": 13,
-      "last_seen": "2026-10-19T14:36:35.271480823+00:00"
+      "last_seen": "2026-10-19T20:32:24.265293822+00:00"
     },
     {
       "key": "a8d8177d02cc4f7f2553",
@@ -3973,18 +3937,6 @@
       "last_seen": "2026-09-13T05:59:53.141995725+00:00"
     },
     {
-      "key": "dda364cfccd770e110d6",
-      "item_id": "dda364cfccd770e110d6",
-      "title": "Claude Code のタスクリストが出ない — 原因は環境変数 ENABLE_TASKS=0 だった",
-      "link": "https://qiita.com/jqit_suwa/items/dda364cfccd770e110d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "複数手順の作業を頼むと、Claude Code は進捗をチェックリストで見せてくれます。\nその TodoWrite が、手元の環境ではツールごと存在しない状態でした。\n2.1.233 の changelog にこうあります。\n\nTodo/task-tracking tool...",
-      "published": "2026-08-19T18:37:52+09:00",
-      "updated": "2026-08-20T08:10:56+09:00",
-      "author_name": "jqit_suwa",
-      "likes_count": 18,
-      "last_seen": "2026-08-20T19:39:04.153179734+00:00"
-    },
-    {
       "key": "de8732a3d1ebc441af10",
       "item_id": "de8732a3d1ebc441af10",
       "title": "Oracle AI Database Private Agent Factory 26.4 を 26.7 へ Upgrade してみてみた",
@@ -4067,6 +4019,18 @@
       "author_name": "ryu-ki",
       "likes_count": 11,
       "last_seen": "2026-09-20T06:06:10.685070258+00:00"
+    },
+    {
+      "key": "e4cde327a910b5beba11",
+      "item_id": "e4cde327a910b5beba11",
+      "title": "AWS初心者がエンジニアを辞めた話",
+      "link": "https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこんにちは。Tsukasaです！\nタイトルにある通りエンジニアを辞めました！\n今日は今までのキャリアの振り返りと何故エンジニアになったのか？そして何故辞めたのか？について振り返りたいと思います。\n\n今までのキャリア\n私は国際学部国際学科出身の正真正銘の文系です。...",
+      "published": "2026-10-19T18:42:28+09:00",
+      "updated": "2026-10-19T18:42:28+09:00",
+      "author_name": "tks_1128",
+      "likes_count": 17,
+      "last_seen": "2026-10-19T20:32:24.265293822+00:00"
     },
     {
       "key": "e5065bd0e6daaf38ac62",
@@ -4401,8 +4365,8 @@
       "published": "2026-10-17T18:15:15+09:00",
       "updated": "2026-10-17T22:25:24+09:00",
       "author_name": "ebichan_88",
-      "likes_count": 18,
-      "last_seen": "2026-10-19T14:36:35.271480823+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-10-19T20:32:24.265293822+00:00"
     },
     {
       "key": "f80fad42b5a134fa3c14",
@@ -4510,7 +4474,7 @@
       "updated": "2026-10-19T15:13:39+09:00",
       "author_name": "vivi-koh",
       "likes_count": 27,
-      "last_seen": "2026-10-19T14:36:35.271480823+00:00"
+      "last_seen": "2026-10-19T20:32:24.265293822+00:00"
     },
     {
       "key": "fdb57313458c2aa1bcdc",
