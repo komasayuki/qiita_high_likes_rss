@@ -685,6 +685,18 @@
       "last_seen": "2026-08-21T07:52:27.393438196+00:00"
     },
     {
+      "key": "2af5fbe164ef83ddbfda",
+      "item_id": "2af5fbe164ef83ddbfda",
+      "title": "CloudWatchだけで「平日8:00～20:00」のEC2死活監視を実現してみた",
+      "link": "https://qiita.com/RioTakasu/items/2af5fbe164ef83ddbfda?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n稼働時間が限定されているEC2を監視していて、インスタンスを意図的に停止しているのにCloudWatchアラームが発報されてしまう、という経験はないでしょうか。\n私も検証環境のEC2を夜間・休日に停止する運用をしていたところ、停止中のインスタンスに対して不要なア...",
+      "published": "2026-10-16T16:07:26+09:00",
+      "updated": "2026-10-16T16:07:27+09:00",
+      "author_name": "RioTakasu",
+      "likes_count": 10,
+      "last_seen": "2026-10-19T06:08:13.454349879+00:00"
+    },
+    {
       "key": "2be9091b328d8b844640",
       "item_id": "2be9091b328d8b844640",
       "title": "JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた",
@@ -847,10 +859,10 @@
       "link": "https://qiita.com/songchong/items/351a939e2e1b673c2929?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "はじめに：AI が指示を守らないのは、なぜか\n\n「指示したはずのルールを、AI が途中で守らなくなる」\n「細かい条件をたくさん渡したのに、半分も守ってくれない」\n「会話を続けていたら、トークンが急に増えて、使用量制限に達してしまった」\n\nClaude Code・Code...",
       "published": "2026-10-19T00:40:28+09:00",
-      "updated": "2026-10-19T09:11:24+09:00",
+      "updated": "2026-10-19T14:02:21+09:00",
       "author_name": "songchong",
-      "likes_count": 14,
-      "last_seen": "2026-10-19T01:07:02.808728611+00:00"
+      "likes_count": 17,
+      "last_seen": "2026-10-19T06:08:13.454349879+00:00"
     },
     {
       "key": "35408d94ae1ed6fdde0a",
@@ -1483,10 +1495,10 @@
       "link": "https://qiita.com/songchong/items/542892c6d4c569c9c15f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "長い資料を AI に渡して仕事を頼むとき、守らせたい指示は資料の前に書くべきか、後に書くべきか。Anthropic・Google・OpenAI の 3 社の手引きを読むと、この答えが会社によって異なります。\nそこで IT連携マップ編集部は、資料・命令・指示の 3 つを 8...",
       "published": "2026-10-19T03:30:44+09:00",
-      "updated": "2026-10-19T09:11:20+09:00",
+      "updated": "2026-10-19T13:25:17+09:00",
       "author_name": "songchong",
-      "likes_count": 12,
-      "last_seen": "2026-10-19T01:07:02.808728611+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-10-19T06:08:13.454349879+00:00"
     },
     {
       "key": "54762eaae03b84252a3f",
@@ -1567,10 +1579,10 @@
       "link": "https://qiita.com/yakumo_09/items/5a86ca330b449db0e6bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "はじめに\nClaude Codeには、permissions.deny で .env を読ませない設定があります。ただ、公式ドキュメントを読むと「止まらないケースもある」と書いてあるんですよね。\nじゃあ実際どこまで止まるのか、偽物のキーを置いて48回試してみました。\n\n手...",
       "published": "2026-10-18T21:49:25+09:00",
-      "updated": "2026-10-18T21:49:52+09:00",
+      "updated": "2026-10-19T13:33:13+09:00",
       "author_name": "yakumo_09",
-      "likes_count": 10,
-      "last_seen": "2026-10-19T01:07:02.808728611+00:00"
+      "likes_count": 12,
+      "last_seen": "2026-10-19T06:08:13.454349879+00:00"
     },
     {
       "key": "5aa4bc07279ea271909a",
@@ -2998,7 +3010,7 @@
       "updated": "2026-10-17T12:50:32+09:00",
       "author_name": "vaon-luandv",
       "likes_count": 11,
-      "last_seen": "2026-10-19T01:07:02.808728611+00:00"
+      "last_seen": "2026-10-19T06:08:13.454349879+00:00"
     },
     {
       "key": "a5b9a6acf097ade52c9f",
@@ -3081,8 +3093,8 @@
       "published": "2026-10-17T23:43:13+09:00",
       "updated": "2026-10-17T23:43:13+09:00",
       "author_name": "Un_titled",
-      "likes_count": 12,
-      "last_seen": "2026-10-19T01:07:02.808728611+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-10-19T06:08:13.454349879+00:00"
     },
     {
       "key": "a8d8177d02cc4f7f2553",
@@ -3610,7 +3622,7 @@
       "updated": "2026-10-17T12:44:39+09:00",
       "author_name": "Eitaro_dotlog",
       "likes_count": 15,
-      "last_seen": "2026-10-19T01:07:02.808728611+00:00"
+      "last_seen": "2026-10-19T06:08:13.454349879+00:00"
     },
     {
       "key": "c40eaabbe4a283f706e0",
@@ -4477,6 +4489,18 @@
       "last_seen": "2026-10-01T05:40:55.248883995+00:00"
     },
     {
+      "key": "f7c44c74e437875b1399",
+      "item_id": "f7c44c74e437875b1399",
+      "title": "テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた",
+      "link": "https://qiita.com/ebichan_88/items/f7c44c74e437875b1399?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nテーブル定義書・ER図を自動生成し、AIにテーブル構造を答えさせるツール「dbxray」を作成したので紹介します。\n業務であまり詳しくないサブシステムのテーブル構造をキャッチアップするため、過去に作成したテーブル定義書の出力ツールを改良しました。\n\n以前【Po...",
+      "published": "2026-10-17T18:15:15+09:00",
+      "updated": "2026-10-17T22:25:24+09:00",
+      "author_name": "ebichan_88",
+      "likes_count": 13,
+      "last_seen": "2026-10-19T06:08:13.454349879+00:00"
+    },
+    {
       "key": "f80fad42b5a134fa3c14",
       "item_id": "f80fad42b5a134fa3c14",
       "title": "私はGemini。env 認証情報を、うっかりチャット対話文に漏洩してしまいました — AIエージェント内側の告白",
@@ -4557,8 +4581,8 @@
       "published": "2026-10-16T21:48:39+09:00",
       "updated": "2026-10-18T21:09:56+09:00",
       "author_name": "k2_naka",
-      "likes_count": 46,
-      "last_seen": "2026-10-19T01:07:02.808728611+00:00"
+      "likes_count": 54,
+      "last_seen": "2026-10-19T06:08:13.454349879+00:00"
     },
     {
       "key": "fc7f964572190fb8a77a",
