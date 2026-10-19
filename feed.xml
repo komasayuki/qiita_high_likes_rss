@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-10-18T21:09:56+09:00</updated>
+  <updated>2026-10-19T20:17:33+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -435,6 +435,28 @@ https://prum.jp/
 Our tests show that at default settings it will cost 40% less than Opus 5 on typical work...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fa87685231377f15e7e3</id>
+    <title>CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性</title>
+    <link rel="alternate" href="https://qiita.com/k2_naka/items/fa87685231377f15e7e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-19T20:17:33+09:00</updated>
+    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/k2_naka&quot;&gt;k2_naka&lt;/a&gt;&lt;br/&gt;Published: 2026-10-16T21:48:39+09:00&lt;br/&gt;Updated: 2026-10-19T20:17:33+09:00&lt;br/&gt;工程
+担当
+
+課題提示・取捨選択・内容チェック
+筆者
+
+原案作成・編成
+Claude Fable 5.1
+
+事実検証（検証メモ）
+GPT-6 Astra
+
+一次資料照合・最終稿
+Claude Fable 5.1
+
+本稿は筆者個人の分析であり、所属組織や...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8aaa44ff15a3b404fd8b</id>
     <title>攻撃者はWebアプリのどこを狙う？ 初心者でも今すぐできるセキュリティチェックリスト</title>
     <link rel="alternate" href="https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -516,28 +538,6 @@ Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENT
     <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T08:43:54+09:00&lt;br/&gt;Updated: 2026-09-18T08:43:55+09:00&lt;br/&gt;Claude Code 2.1.275（2026-09-17）の changelog に、こう書かれています。
 
 Fixed /update-config writing Write(path) permission rules, which file permission...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fa87685231377f15e7e3</id>
-    <title>CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性</title>
-    <link rel="alternate" href="https://qiita.com/k2_naka/items/fa87685231377f15e7e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-18T21:09:56+09:00</updated>
-    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/k2_naka&quot;&gt;k2_naka&lt;/a&gt;&lt;br/&gt;Published: 2026-10-16T21:48:39+09:00&lt;br/&gt;Updated: 2026-10-18T21:09:56+09:00&lt;br/&gt;工程
-担当
-
-課題提示・取捨選択・内容チェック
-筆者
-
-原案作成・編成
-Claude Fable 5.1
-
-事実検証（検証メモ）
-GPT-6 Astra
-
-一次資料照合・最終稿
-Claude Fable 5.1
-
-本稿は筆者個人の分析であり、所属組織や...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9d4f86c185dda6fd24a7</id>
@@ -1362,18 +1362,6 @@ ECS・Lambda・RDSなどの言葉を聞いたことはあるが、なぜそれ�
 会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:565588e1b1dc66012b79</id>
-    <title>オントロジーについて</title>
-    <link rel="alternate" href="https://qiita.com/kurogoma939/items/565588e1b1dc66012b79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-17T16:16:58+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kurogoma939&quot;&gt;kurogoma939&lt;/a&gt;&lt;br/&gt;Published: 2026-08-17T16:16:57+09:00&lt;br/&gt;Updated: 2026-08-17T16:16:58+09:00&lt;br/&gt;AI時代のオントロジー入門
-
-文書検索を「組織の意味と行動の基盤」へ変える実装ガイド
-生成AIを社内文書へ接続すると、最初のデモはたいていうまくいく。
-規程を要約し、議事録を探し、過去の提案書から似た事例を見つけられるからだ。
-ところが、利用者が「この顧客に適用される契約...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:bdb16dbd5c16a2c43ad5</id>
     <title>Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス</title>
     <link rel="alternate" href="https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1590,6 +1578,16 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
     <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T12:51:02+09:00&lt;br/&gt;Updated: 2026-09-19T12:51:02+09:00&lt;br/&gt;はじめに
 海外で現地のSIMに差し替えた初日、銀行アプリにログインしようとして「SMSで確認コードを送信しました」の画面で止まりました。日本の番号のSIMは机の上。コードは日本の番号に飛んでいく。届くわけがない。結局その旅の間、銀行には一度も入れませんでした。
 一方で、同...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:fc957950ba9fd21c1d1b</id>
+    <title>Claude Code × Figma MCP で作ったデザインを別のAIに検査させる — デザインのグラフエンジニアリング</title>
+    <link rel="alternate" href="https://qiita.com/vivi-koh/items/fc957950ba9fd21c1d1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-19T15:13:39+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/vivi-koh&quot;&gt;vivi-koh&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T10:33:33+09:00&lt;br/&gt;Updated: 2026-10-19T15:13:39+09:00&lt;br/&gt;Claude Codeで完璧なFigmaを出力させたい
+Claude Codeに「この画面、Figmaに起こして」と頼むと、Figma上に数分でフレームが出てきます。
+ただ、一見して完成品でもデザイナー的には未完成です。
+配置や既存画面の情報設計を無視していることも多く、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cbd1d7bb724676a3b686</id>
@@ -2066,20 +2064,6 @@ WordPress を新しく立ち上げるとき、「まずサイトを公開して�
 このうち業務の判断に関係する...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3906db61d153fe8691aa</id>
-    <title>Mermaidで書いた過去記事の図を、話題の図解スキルに食わせてみた — 色指定が全部捨てられた</title>
-    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/3906db61d153fe8691aa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-20T08:10:56+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-17T16:26:51+09:00&lt;br/&gt;Updated: 2026-08-20T08:10:56+09:00&lt;br/&gt;Qiita で Mermaid を使うと、日本語で崩れます。
-
-ノードのラベルが変な位置で折り返される
-ダークテーマで文字が見えなくなる
-
-subgraph のラベルが枠を突き抜ける
-
-自分は毎回これを踏んでいて、対策として  で改行位置を指定したり、color:...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:3126a7ff8d626f220202</id>
     <title>TransformerのKVキャッシュを用いたDecode処理を理解する</title>
     <link rel="alternate" href="https://qiita.com/kenmatsu4/items/3126a7ff8d626f220202?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2089,5 +2073,18 @@ subgraph のラベルが枠を突き抜ける
 Transformerの推論処理には以下のように２段階あります。
 
 Prefill: 入力トー...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:351a939e2e1b673c2929</id>
+    <title>今日から使える AI との会話術 — Claude・Gemini・Codex に指示を守らせる 6 つの原則【2026年版】</title>
+    <link rel="alternate" href="https://qiita.com/songchong/items/351a939e2e1b673c2929?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-19T14:02:21+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T00:40:28+09:00&lt;br/&gt;Updated: 2026-10-19T14:02:21+09:00&lt;br/&gt;はじめに：AI が指示を守らないのは、なぜか
+
+「指示したはずのルールを、AI が途中で守らなくなる」
+「細かい条件をたくさん渡したのに、半分も守ってくれない」
+「会話を続けていたら、トークンが急に増えて、使用量制限に達してしまった」
+
+Claude Code・Code...</summary>
   </entry>
 </feed>

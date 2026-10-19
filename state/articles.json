@@ -253,18 +253,6 @@
       "last_seen": "2026-10-17T19:15:53.565746498+00:00"
     },
     {
-      "key": "11f46a9fc9cb429ceaf5",
-      "item_id": "11f46a9fc9cb429ceaf5",
-      "title": "Claude Code の fork、既定ONのはずが使えなかった — 環境変数1つで決まっていた",
-      "link": "https://qiita.com/jqit_suwa/items/11f46a9fc9cb429ceaf5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Claude Code 2.1.232 で、サブエージェントの fork が既定で有効になりました。\nfork は、親の会話をまるごと引き継ぐサブエージェントです。前提を説明し直さずに作業を投げられます。\n使ってみようとしたら、こうなりました。\nAgent type 'fo...",
-      "published": "2026-08-19T08:56:07+09:00",
-      "updated": "2026-08-20T08:10:56+09:00",
-      "author_name": "jqit_suwa",
-      "likes_count": 15,
-      "last_seen": "2026-08-20T07:51:10.750419055+00:00"
-    },
-    {
       "key": "134e4f90c60aeeff7194",
       "item_id": "134e4f90c60aeeff7194",
       "title": "「IT業界ってドライ？」社外でも助け合うエンジニアたちが、実は誰よりも「仲間」を大事にしている理由",
@@ -861,8 +849,8 @@
       "published": "2026-10-19T00:40:28+09:00",
       "updated": "2026-10-19T14:02:21+09:00",
       "author_name": "songchong",
-      "likes_count": 17,
-      "last_seen": "2026-10-19T06:08:13.454349879+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-10-19T14:36:35.271480823+00:00"
     },
     {
       "key": "35408d94ae1ed6fdde0a",
@@ -947,18 +935,6 @@
       "author_name": "J-T_ky2g",
       "likes_count": 25,
       "last_seen": "2026-10-14T07:29:19.321696712+00:00"
-    },
-    {
-      "key": "3906db61d153fe8691aa",
-      "item_id": "3906db61d153fe8691aa",
-      "title": "Mermaidで書いた過去記事の図を、話題の図解スキルに食わせてみた — 色指定が全部捨てられた",
-      "link": "https://qiita.com/jqit_suwa/items/3906db61d153fe8691aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Qiita で Mermaid を使うと、日本語で崩れます。\n\nノードのラベルが変な位置で折り返される\nダークテーマで文字が見えなくなる\n\nsubgraph のラベルが枠を突き抜ける\n\n自分は毎回これを踏んでいて、対策として  で改行位置を指定したり、color:...",
-      "published": "2026-08-17T16:26:51+09:00",
-      "updated": "2026-08-20T08:10:56+09:00",
-      "author_name": "jqit_suwa",
-      "likes_count": 20,
-      "last_seen": "2026-08-20T07:51:10.750419055+00:00"
     },
     {
       "key": "390d20b6c6e3eef92f45",
@@ -1357,18 +1333,6 @@
       "last_seen": "2026-09-24T04:36:15.074337027+00:00"
     },
     {
-      "key": "4f561e8ad7c069c71001",
-      "item_id": "4f561e8ad7c069c71001",
-      "title": "生成AIによる処理結果をTP/FP/TN/FN×信頼区間でテストする",
-      "link": "https://qiita.com/take-yoda/items/4f561e8ad7c069c71001?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "株式会社ブレインパッドプロダクト開発部でRtoaster GenAIの開発をしている依田です。\n今回は生成AI機能の「信頼性」をどうテストするかというテーマで、ECサイトの予算抽出機能を題材にしたハンズオンをお届けします。\n\nはじめに\n生成AIを組み込んだ機能を作っていると...",
-      "published": "2026-08-18T13:17:10+09:00",
-      "updated": "2026-08-18T13:17:11+09:00",
-      "author_name": "take-yoda",
-      "likes_count": 16,
-      "last_seen": "2026-08-20T07:51:10.750419055+00:00"
-    },
-    {
       "key": "4fbf6144f4cab3f00123",
       "item_id": "4fbf6144f4cab3f00123",
       "title": "その仕事、本当に「Skills」で再現できるのか考えてみる",
@@ -1498,7 +1462,7 @@
       "updated": "2026-10-19T13:25:17+09:00",
       "author_name": "songchong",
       "likes_count": 14,
-      "last_seen": "2026-10-19T06:08:13.454349879+00:00"
+      "last_seen": "2026-10-19T14:36:35.271480823+00:00"
     },
     {
       "key": "54762eaae03b84252a3f",
@@ -1537,18 +1501,6 @@
       "last_seen": "2026-09-04T04:21:27.918830378+00:00"
     },
     {
-      "key": "565588e1b1dc66012b79",
-      "item_id": "565588e1b1dc66012b79",
-      "title": "オントロジーについて",
-      "link": "https://qiita.com/kurogoma939/items/565588e1b1dc66012b79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "AI時代のオントロジー入門\n\n文書検索を「組織の意味と行動の基盤」へ変える実装ガイド\n生成AIを社内文書へ接続すると、最初のデモはたいていうまくいく。\n規程を要約し、議事録を探し、過去の提案書から似た事例を見つけられるからだ。\nところが、利用者が「この顧客に適用される契約...",
-      "published": "2026-08-17T16:16:57+09:00",
-      "updated": "2026-08-17T16:16:58+09:00",
-      "author_name": "kurogoma939",
-      "likes_count": 33,
-      "last_seen": "2026-08-20T07:51:10.750419055+00:00"
-    },
-    {
       "key": "5726c8769b487e118571",
       "item_id": "5726c8769b487e118571",
       "title": "「AIに店長を任せてみた実験」からもらった、これからの働き方のヒント",
@@ -1581,8 +1533,8 @@
       "published": "2026-10-18T21:49:25+09:00",
       "updated": "2026-10-19T13:33:13+09:00",
       "author_name": "yakumo_09",
-      "likes_count": 12,
-      "last_seen": "2026-10-19T06:08:13.454349879+00:00"
+      "likes_count": 15,
+      "last_seen": "2026-10-19T14:36:35.271480823+00:00"
     },
     {
       "key": "5aa4bc07279ea271909a",
@@ -1873,18 +1825,6 @@
       "last_seen": "2026-09-02T18:36:15.238833439+00:00"
     },
     {
-      "key": "674a5246577f47b972d2",
-      "item_id": "674a5246577f47b972d2",
-      "title": "「作って終わり」のAIエージェントは死ぬ",
-      "link": "https://qiita.com/ta-ito0611/items/674a5246577f47b972d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nこんにちは！KDDIアイレットの伊藤です。\n「AI エージェントを開発したいが、どう設計すればいいかわからない」「いざ作ってみたものの、思ったほど成果が出ていない」「動き始めてから追加の構成が次々に必要になり、うまく回らなくなった」— そんな悩みはありませんか?...",
-      "published": "2026-08-18T10:36:38+09:00",
-      "updated": "2026-08-18T10:36:38+09:00",
-      "author_name": "ta-ito0611",
-      "likes_count": 13,
-      "last_seen": "2026-08-20T07:51:10.750419055+00:00"
-    },
-    {
       "key": "67f3c26a441a35676c0e",
       "item_id": "67f3c26a441a35676c0e",
       "title": "UUIDとは？「ただのランダムな文字列」だと思っていたUUIDをまとめてみる",
@@ -1955,18 +1895,6 @@
       "author_name": "Minotaurasu",
       "likes_count": 12,
       "last_seen": "2026-09-13T05:59:53.141995725+00:00"
-    },
-    {
-      "key": "6d67f981b547f181d644",
-      "item_id": "6d67f981b547f181d644",
-      "title": "OCI Data Catalog 第4回：Data LakeとADBのRDBMS、Vector Storeを統合し、Select AIとRAGでLakehouseを検索してみた",
-      "link": "https://qiita.com/shirok/items/6d67f981b547f181d644?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "■ はじめに\nこんにちは。\nOCI Data Catalogシリーズとして、これまで次の内容を実施しました。\n\n回\n内容\n\n第1回\nObject Storage上のCSV、ParquetファイルをOCI Data Catalogへハーベスト\n\n第2回\nOra...",
-      "published": "2026-08-18T06:29:14+09:00",
-      "updated": "2026-08-19T17:32:30+09:00",
-      "author_name": "shirok",
-      "likes_count": 13,
-      "last_seen": "2026-08-20T07:51:10.750419055+00:00"
     },
     {
       "key": "6d78460c9be9cacc1fce",
@@ -2641,18 +2569,6 @@
       "last_seen": "2026-09-03T04:17:18.277961835+00:00"
     },
     {
-      "key": "90f0c5866fb3516c909b",
-      "item_id": "90f0c5866fb3516c909b",
-      "title": "Claude Code をやめて Codex で続きから作業できた — ただし引き継がれたのは要約ではなかった",
-      "link": "https://qiita.com/jqit_suwa/items/90f0c5866fb3516c909b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "AI エージェントを乗り換えると、前提の説明をやり直すことになります。\nClaude Code で「このプロジェクトは Node 18 では動かない」「認証は Cognito」と伝えてから、\n別の理由で Codex に移ると、また同じ説明から始まります。\nこれを解決するとい...",
-      "published": "2026-08-19T08:33:08+09:00",
-      "updated": "2026-08-20T08:10:56+09:00",
-      "author_name": "jqit_suwa",
-      "likes_count": 16,
-      "last_seen": "2026-08-20T07:51:10.750419055+00:00"
-    },
-    {
       "key": "9122c8a264ff07cc2d83",
       "item_id": "9122c8a264ff07cc2d83",
       "title": "Claudeによる攻撃作戦？Geminiが実在企業に侵入？AIサイバー攻撃 5 種類の事件と 7 種類の対策",
@@ -2893,6 +2809,18 @@
       "last_seen": "2026-09-29T08:21:18.204529534+00:00"
     },
     {
+      "key": "9dae44b202aec123d7c4",
+      "item_id": "9dae44b202aec123d7c4",
+      "title": "AIが書いた139件のテストは本当に別物か、Vitestの重複を静的解析で調べた",
+      "link": "https://qiita.com/figueiredoluiz/items/9dae44b202aec123d7c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nコーディングエージェントに頼めば、コーヒーを飲み終える前に100件のテストが通る状態になります。テスト件数は増え、カバレッジは緑になり、プルリクエストは丁寧に見えます。ただ、そのうち何件がほかのテストと違うことを確認しているのかは、誰も教えてくれません。\n私はV...",
+      "published": "2026-10-19T10:03:57+09:00",
+      "updated": "2026-10-19T10:03:57+09:00",
+      "author_name": "figueiredoluiz",
+      "likes_count": 10,
+      "last_seen": "2026-10-19T14:36:35.271480823+00:00"
+    },
+    {
       "key": "9dc9ee419d2764d2aa06",
       "item_id": "9dc9ee419d2764d2aa06",
       "title": "👍を押したらバレる？「学習させない」設定をしてもダメ？｜AIツール個人版ユーザーの防衛策🛡5手と、やっても残る3つ",
@@ -3010,7 +2938,7 @@
       "updated": "2026-10-17T12:50:32+09:00",
       "author_name": "vaon-luandv",
       "likes_count": 11,
-      "last_seen": "2026-10-19T06:08:13.454349879+00:00"
+      "last_seen": "2026-10-19T14:36:35.271480823+00:00"
     },
     {
       "key": "a5b9a6acf097ade52c9f",
@@ -3094,7 +3022,7 @@
       "updated": "2026-10-17T23:43:13+09:00",
       "author_name": "Un_titled",
       "likes_count": 13,
-      "last_seen": "2026-10-19T06:08:13.454349879+00:00"
+      "last_seen": "2026-10-19T14:36:35.271480823+00:00"
     },
     {
       "key": "a8d8177d02cc4f7f2553",
@@ -3107,18 +3035,6 @@
       "author_name": "jqit-yukiono",
       "likes_count": 52,
       "last_seen": "2026-09-29T08:21:18.204529534+00:00"
-    },
-    {
-      "key": "a91a87e22faf4b622640",
-      "item_id": "a91a87e22faf4b622640",
-      "title": "学習メモ：Findyと考える「個人を超えたAIの生産性をどう測定するか」 #oreilly_chomado_findy",
-      "link": "https://qiita.com/chomado/items/a91a87e22faf4b622640?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "イベント概要\nオライリーさんの月例イベント「Tech Leadership Tuesday」は、\n人事およびテクノロジー領域のリーダーを対象としたライブイベントで、毎月色んな方をホストに呼んでいらっしゃって、\n私たちは今月の分に呼んでいただきました！\n内田さんのお話がとて...",
-      "published": "2026-08-18T12:57:21+09:00",
-      "updated": "2026-08-19T12:23:51+09:00",
-      "author_name": "chomado",
-      "likes_count": 14,
-      "last_seen": "2026-08-20T07:51:10.750419055+00:00"
     },
     {
       "key": "a99f0d9f0db6ebd87c00",
@@ -3503,18 +3419,6 @@
       "author_name": "AyakoYamada",
       "likes_count": 13,
       "last_seen": "2026-09-07T04:25:39.925378448+00:00"
-    },
-    {
-      "key": "bd7d11ec543d7cb68c75",
-      "item_id": "bd7d11ec543d7cb68c75",
-      "title": "ドキュメント生成とAIとの向き合い方について",
-      "link": "https://qiita.com/kurogoma939/items/bd7d11ec543d7cb68c75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nAI がドキュメント生成を劇的に効率化してくれる時代になりました。しかし「全部AIに任せればいい」という考え方には大きな落とし穴があります。\n本記事では、私が実践している「人間が骨子を決め、音声で意図を吹き込み、LLMで仕上げる」ハイブリッド方式について紹介しま...",
-      "published": "2026-08-17T16:15:56+09:00",
-      "updated": "2026-08-17T16:15:57+09:00",
-      "author_name": "kurogoma939",
-      "likes_count": 16,
-      "last_seen": "2026-08-20T07:51:10.750419055+00:00"
     },
     {
       "key": "bd8052e938a343c82555",
@@ -4497,8 +4401,8 @@
       "published": "2026-10-17T18:15:15+09:00",
       "updated": "2026-10-17T22:25:24+09:00",
       "author_name": "ebichan_88",
-      "likes_count": 13,
-      "last_seen": "2026-10-19T06:08:13.454349879+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-10-19T14:36:35.271480823+00:00"
     },
     {
       "key": "f80fad42b5a134fa3c14",
@@ -4579,10 +4483,10 @@
       "link": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "工程\n担当\n\n課題提示・取捨選択・内容チェック\n筆者\n\n原案作成・編成\nClaude Fable 5.1\n\n事実検証（検証メモ）\nGPT-6 Astra\n\n一次資料照合・最終稿\nClaude Fable 5.1\n\n本稿は筆者個人の分析であり、所属組織や...",
       "published": "2026-10-16T21:48:39+09:00",
-      "updated": "2026-10-18T21:09:56+09:00",
+      "updated": "2026-10-19T20:17:33+09:00",
       "author_name": "k2_naka",
-      "likes_count": 54,
-      "last_seen": "2026-10-19T06:08:13.454349879+00:00"
+      "likes_count": 59,
+      "last_seen": "2026-10-19T14:36:35.271480823+00:00"
     },
     {
       "key": "fc7f964572190fb8a77a",
@@ -4595,6 +4499,18 @@
       "author_name": "jqit_suwa",
       "likes_count": 15,
       "last_seen": "2026-08-30T17:22:31.782555720+00:00"
+    },
+    {
+      "key": "fc957950ba9fd21c1d1b",
+      "item_id": "fc957950ba9fd21c1d1b",
+      "title": "Claude Code × Figma MCP で作ったデザインを別のAIに検査させる — デザインのグラフエンジニアリング",
+      "link": "https://qiita.com/vivi-koh/items/fc957950ba9fd21c1d1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "Claude Codeで完璧なFigmaを出力させたい\nClaude Codeに「この画面、Figmaに起こして」と頼むと、Figma上に数分でフレームが出てきます。\nただ、一見して完成品でもデザイナー的には未完成です。\n配置や既存画面の情報設計を無視していることも多く、...",
+      "published": "2026-10-19T10:33:33+09:00",
+      "updated": "2026-10-19T15:13:39+09:00",
+      "author_name": "vivi-koh",
+      "likes_count": 27,
+      "last_seen": "2026-10-19T14:36:35.271480823+00:00"
     },
     {
       "key": "fdb57313458c2aa1bcdc",
