@@ -288,15 +288,6 @@ Jevで画像入力が使え...</summary>
 知っている方...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:e60cb25d3b10d7a2f316</id>
-    <title>AWSでYouTube的サービスを検証してたら、電気通信事業法と著作権法の壁にぶつかった話</title>
-    <link rel="alternate" href="https://qiita.com/yama3133/items/e60cb25d3b10d7a2f316?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-18T14:09:09+09:00</updated>
-    <summary type="html">Likes: 72&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yama3133&quot;&gt;yama3133&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T13:10:47+09:00&lt;br/&gt;Updated: 2026-08-18T14:09:09+09:00&lt;br/&gt;今、AWS環境でYouTube的な動画配信サービスがどこまで作れるかを検証している。
-動画のアップロード、トランスコード、配信基盤あたりはEC2やS3、CloudFrontを組み合わせれば技術的には普通に動く。
-ところがコメント欄やユーザー間のDM機能を足そうとしたところで...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:65fba77555a13af6b8a5</id>
     <title>最近サイバー攻撃多いから、基本対策を見直そう</title>
     <link rel="alternate" href="https://qiita.com/HIsui0921/items/65fba77555a13af6b8a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -497,6 +488,19 @@ Claude Fable 5.1
     <summary type="html">Likes: 57&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T10:51:19+09:00&lt;br/&gt;Updated: 2026-09-19T10:51:19+09:00&lt;br/&gt;Claude Code 2.1.277（2026-09-18）の changelog に、こう書かれています。
 
 Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENT...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e4cde327a910b5beba11</id>
+    <title>AWS初心者がエンジニアを辞めた話</title>
+    <link rel="alternate" href="https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-19T18:42:28+09:00</updated>
+    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tks_1128&quot;&gt;tks_1128&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T18:42:28+09:00&lt;br/&gt;Updated: 2026-10-19T18:42:28+09:00&lt;br/&gt;はじめに
+こんにちは。Tsukasaです！
+タイトルにある通りエンジニアを辞めました！
+今日は今までのキャリアの振り返りと何故エンジニアになったのか？そして何故辞めたのか？について振り返りたいと思います。
+
+今までのキャリア
+私は国際学部国際学科出身の正真正銘の文系です。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ced6a0aa744379d338b6</id>
@@ -716,19 +720,6 @@ Jevが話題ですね。
 
 ざっくりまとめ
 Jevは、文章で書かれた状況を読み、あらかじめ用意された選択...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e4cde327a910b5beba11</id>
-    <title>AWS初心者がエンジニアを辞めた話</title>
-    <link rel="alternate" href="https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-19T18:42:28+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tks_1128&quot;&gt;tks_1128&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T18:42:28+09:00&lt;br/&gt;Updated: 2026-10-19T18:42:28+09:00&lt;br/&gt;はじめに
-こんにちは。Tsukasaです！
-タイトルにある通りエンジニアを辞めました！
-今日は今までのキャリアの振り返りと何故エンジニアになったのか？そして何故辞めたのか？について振り返りたいと思います。
-
-今までのキャリア
-私は国際学部国際学科出身の正真正銘の文系です。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c8705ed320aa15dc9db0</id>
@@ -1416,6 +1407,16 @@ ECS・Lambda・RDSなどの言葉を聞いたことはあるが、なぜそれ�
 先輩に「大丈夫...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fc957950ba9fd21c1d1b</id>
+    <title>Claude Code × Figma MCP で作ったデザインを別のAIに検査させる — デザインのグラフエンジニアリング</title>
+    <link rel="alternate" href="https://qiita.com/vivi-koh/items/fc957950ba9fd21c1d1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-19T15:13:39+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/vivi-koh&quot;&gt;vivi-koh&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T10:33:33+09:00&lt;br/&gt;Updated: 2026-10-19T15:13:39+09:00&lt;br/&gt;Claude Codeで完璧なFigmaを出力させたい
+Claude Codeに「この画面、Figmaに起こして」と頼むと、Figma上に数分でフレームが出てきます。
+ただ、一見して完成品でもデザイナー的には未完成です。
+配置や既存画面の情報設計を無視していることも多く、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8d90b7320bcd1c8aba9e</id>
     <title>結局、Looped Transformerってなんや？</title>
     <link rel="alternate" href="https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1524,6 +1525,19 @@ Claude Code 2.1.251 でプロンプトキャッシュが数字で見えるよう
 もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:351a939e2e1b673c2929</id>
+    <title>今日から使える AI との会話術 — Claude・Gemini・Codex に指示を守らせる 6 つの原則【2026年版】</title>
+    <link rel="alternate" href="https://qiita.com/songchong/items/351a939e2e1b673c2929?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-20T09:38:06+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T00:40:28+09:00&lt;br/&gt;Updated: 2026-10-20T09:38:06+09:00&lt;br/&gt;はじめに：AI が指示を守らないのは、なぜか
+
+「指示したはずのルールを、AI が途中で守らなくなる」
+「細かい条件をたくさん渡したのに、半分も守ってくれない」
+「会話を続けていたら、トークンが急に増えて、使用量制限に達してしまった」
+
+Claude Code・Code...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4fbf6144f4cab3f00123</id>
     <title>その仕事、本当に「Skills」で再現できるのか考えてみる</title>
     <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/4fbf6144f4cab3f00123?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1564,29 +1578,6 @@ terraformで管理しているリソースが増えてきて、tfstateが肥大�
 私にはあります。しかも、ほんの少し前の話です。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:351a939e2e1b673c2929</id>
-    <title>今日から使える AI との会話術 — Claude・Gemini・Codex に指示を守らせる 6 つの原則【2026年版】</title>
-    <link rel="alternate" href="https://qiita.com/songchong/items/351a939e2e1b673c2929?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-20T09:38:06+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T00:40:28+09:00&lt;br/&gt;Updated: 2026-10-20T09:38:06+09:00&lt;br/&gt;はじめに：AI が指示を守らないのは、なぜか
-
-「指示したはずのルールを、AI が途中で守らなくなる」
-「細かい条件をたくさん渡したのに、半分も守ってくれない」
-「会話を続けていたら、トークンが急に増えて、使用量制限に達してしまった」
-
-Claude Code・Code...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fc957950ba9fd21c1d1b</id>
-    <title>Claude Code × Figma MCP で作ったデザインを別のAIに検査させる — デザインのグラフエンジニアリング</title>
-    <link rel="alternate" href="https://qiita.com/vivi-koh/items/fc957950ba9fd21c1d1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-19T15:13:39+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/vivi-koh&quot;&gt;vivi-koh&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T10:33:33+09:00&lt;br/&gt;Updated: 2026-10-19T15:13:39+09:00&lt;br/&gt;Claude Codeで完璧なFigmaを出力させたい
-Claude Codeに「この画面、Figmaに起こして」と頼むと、Figma上に数分でフレームが出てきます。
-ただ、一見して完成品でもデザイナー的には未完成です。
-配置や既存画面の情報設計を無視していることも多く、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cf5e734358e09f2410d0</id>
@@ -1643,15 +1634,6 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
     <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nasuvitz&quot;&gt;nasuvitz&lt;/a&gt;&lt;br/&gt;Published: 2026-09-20T21:47:53+09:00&lt;br/&gt;Updated: 2026-09-22T01:28:42+09:00&lt;br/&gt;はじめに
 判断や評価を確率として返すAIモデル「Jev」が注目を集めています。Jevは、用途を絞ることで、高速なレスポンスを実現している点も特徴です。
 一方、エンタープライズ用途で外部サービスを利用する場合、データ送信に伴う社内審査やセキュリティルールの確認が必要になりま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:acb61138c4550eef4803</id>
-    <title>14MBのAIモデルは本当に動いた — DLL 1個・RAM 37MB・1回0.5秒、ただし日本語は0/5</title>
-    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/acb61138c4550eef4803?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-20T08:10:56+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T14:03:10+09:00&lt;br/&gt;Updated: 2026-08-20T08:10:56+09:00&lt;br/&gt;GitHub Trending に「14MB のモデル」が来ていました。
-Cactus Compute の Needle 2 です。45M パラメータで、ツール呼び出しに特化しています。週で +3,627 スター伸びていました。
-14MB というのは、画像1枚くらいのサイズ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:dd81ec692840a3bb6303</id>
@@ -1757,6 +1739,17 @@ Honoってあるじゃないですか。TypeScriptのWebフレームワークで
 Microsoft 365 Copilot（有料アドオンライセ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f7c44c74e437875b1399</id>
+    <title>テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた</title>
+    <link rel="alternate" href="https://qiita.com/ebichan_88/items/f7c44c74e437875b1399?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-17T22:25:24+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ebichan_88&quot;&gt;ebichan_88&lt;/a&gt;&lt;br/&gt;Published: 2026-10-17T18:15:15+09:00&lt;br/&gt;Updated: 2026-10-17T22:25:24+09:00&lt;br/&gt;はじめに
+テーブル定義書・ER図を自動生成し、AIにテーブル構造を答えさせるツール「dbxray」を作成したので紹介します。
+業務であまり詳しくないサブシステムのテーブル構造をキャッチアップするため、過去に作成したテーブル定義書の出力ツールを改良しました。
+
+以前【Po...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:aaa257c199fd094ae31e</id>
     <title>終わってるエンジニアの転職履歴〜その後1年経ってどうなったか〜</title>
     <link rel="alternate" href="https://qiita.com/bridgebook1125/items/aaa257c199fd094ae31e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1851,17 +1844,6 @@ Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom and pl
     <updated>2026-08-31T08:35:16+09:00</updated>
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T08:35:15+09:00&lt;br/&gt;Updated: 2026-08-31T08:35:16+09:00&lt;br/&gt;GitHub Trending に、スター 60,480 の Agent Skill が上がっていました。
 Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横断して調べ、upvote や likes といった実際の反応で...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f7c44c74e437875b1399</id>
-    <title>テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた</title>
-    <link rel="alternate" href="https://qiita.com/ebichan_88/items/f7c44c74e437875b1399?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-17T22:25:24+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ebichan_88&quot;&gt;ebichan_88&lt;/a&gt;&lt;br/&gt;Published: 2026-10-17T18:15:15+09:00&lt;br/&gt;Updated: 2026-10-17T22:25:24+09:00&lt;br/&gt;はじめに
-テーブル定義書・ER図を自動生成し、AIにテーブル構造を答えさせるツール「dbxray」を作成したので紹介します。
-業務であまり詳しくないサブシステムのテーブル構造をキャッチアップするため、過去に作成したテーブル定義書の出力ツールを改良しました。
-
-以前【Po...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:d49739b934606d4abdbd</id>
@@ -2094,5 +2076,22 @@ WordPress を新しく立ち上げるとき、「まずサイトを公開して�
 
 これが、この記事で答えたい問いです。
 このうち業務の判断に関係する...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:ac268db56f92b991970b</id>
+    <title>AIを業務改善につなげるための5ステップ ― サービスデザインを活用した要件定義</title>
+    <link rel="alternate" href="https://qiita.com/TamakiSeki/items/ac268db56f92b991970b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-30T17:34:14+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TamakiSeki&quot;&gt;TamakiSeki&lt;/a&gt;&lt;br/&gt;Published: 2026-09-30T17:34:13+09:00&lt;br/&gt;Updated: 2026-09-30T17:34:14+09:00&lt;br/&gt;はじめに
+生成AIやAIエージェントを業務に活用しようとすると、「どの業務に適用するか」「人とAIの役割をどう分けるか」で迷うことがあります。
+文章作成や要約など個人単位の作業にはAIを導入しやすい一方、AIエージェントを作ること自体が目的になると、個別タスクの効率化にと...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:8ae6739d0bb525e1b41b</id>
+    <title>Claude Fable 5.1、2ターン目のキャッシュに12回中8回乗り損ねた</title>
+    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/8ae6739d0bb525e1b41b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-02T09:40:45+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-02T09:40:44+09:00&lt;br/&gt;Updated: 2026-09-02T09:40:45+09:00&lt;br/&gt;9月1日に Claude Fable 5.1 が出ました。キャッシュ読みが $0.25/M で、入力が半額の Opus 5（$0.50/M）より安い、という珍しい価格です。
+長いセッションほど得なはずだと思って測ったら、2ターン目にキャッシュへ乗るかどうかが安定しませんでし...</summary>
   </entry>
 </feed>
