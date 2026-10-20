@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-10-19T20:17:33+09:00</updated>
+  <updated>2026-10-20T09:38:06+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -716,6 +716,19 @@ Jevが話題ですね。
 
 ざっくりまとめ
 Jevは、文章で書かれた状況を読み、あらかじめ用意された選択...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e4cde327a910b5beba11</id>
+    <title>AWS初心者がエンジニアを辞めた話</title>
+    <link rel="alternate" href="https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-19T18:42:28+09:00</updated>
+    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tks_1128&quot;&gt;tks_1128&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T18:42:28+09:00&lt;br/&gt;Updated: 2026-10-19T18:42:28+09:00&lt;br/&gt;はじめに
+こんにちは。Tsukasaです！
+タイトルにある通りエンジニアを辞めました！
+今日は今までのキャリアの振り返りと何故エンジニアになったのか？そして何故辞めたのか？について振り返りたいと思います。
+
+今までのキャリア
+私は国際学部国際学科出身の正真正銘の文系です。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c8705ed320aa15dc9db0</id>
@@ -1553,17 +1566,27 @@ terraformで管理しているリソースが増えてきて、tfstateが肥大�
 ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:e4cde327a910b5beba11</id>
-    <title>AWS初心者がエンジニアを辞めた話</title>
-    <link rel="alternate" href="https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-19T18:42:28+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tks_1128&quot;&gt;tks_1128&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T18:42:28+09:00&lt;br/&gt;Updated: 2026-10-19T18:42:28+09:00&lt;br/&gt;はじめに
-こんにちは。Tsukasaです！
-タイトルにある通りエンジニアを辞めました！
-今日は今までのキャリアの振り返りと何故エンジニアになったのか？そして何故辞めたのか？について振り返りたいと思います。
+    <id>tag:qiita.com,2026:351a939e2e1b673c2929</id>
+    <title>今日から使える AI との会話術 — Claude・Gemini・Codex に指示を守らせる 6 つの原則【2026年版】</title>
+    <link rel="alternate" href="https://qiita.com/songchong/items/351a939e2e1b673c2929?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-20T09:38:06+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T00:40:28+09:00&lt;br/&gt;Updated: 2026-10-20T09:38:06+09:00&lt;br/&gt;はじめに：AI が指示を守らないのは、なぜか
 
-今までのキャリア
-私は国際学部国際学科出身の正真正銘の文系です。...</summary>
+「指示したはずのルールを、AI が途中で守らなくなる」
+「細かい条件をたくさん渡したのに、半分も守ってくれない」
+「会話を続けていたら、トークンが急に増えて、使用量制限に達してしまった」
+
+Claude Code・Code...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:fc957950ba9fd21c1d1b</id>
+    <title>Claude Code × Figma MCP で作ったデザインを別のAIに検査させる — デザインのグラフエンジニアリング</title>
+    <link rel="alternate" href="https://qiita.com/vivi-koh/items/fc957950ba9fd21c1d1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-19T15:13:39+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/vivi-koh&quot;&gt;vivi-koh&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T10:33:33+09:00&lt;br/&gt;Updated: 2026-10-19T15:13:39+09:00&lt;br/&gt;Claude Codeで完璧なFigmaを出力させたい
+Claude Codeに「この画面、Figmaに起こして」と頼むと、Figma上に数分でフレームが出てきます。
+ただ、一見して完成品でもデザイナー的には未完成です。
+配置や既存画面の情報設計を無視していることも多く、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cf5e734358e09f2410d0</id>
@@ -1584,16 +1607,6 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
     <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T12:51:02+09:00&lt;br/&gt;Updated: 2026-09-19T12:51:02+09:00&lt;br/&gt;はじめに
 海外で現地のSIMに差し替えた初日、銀行アプリにログインしようとして「SMSで確認コードを送信しました」の画面で止まりました。日本の番号のSIMは机の上。コードは日本の番号に飛んでいく。届くわけがない。結局その旅の間、銀行には一度も入れませんでした。
 一方で、同...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fc957950ba9fd21c1d1b</id>
-    <title>Claude Code × Figma MCP で作ったデザインを別のAIに検査させる — デザインのグラフエンジニアリング</title>
-    <link rel="alternate" href="https://qiita.com/vivi-koh/items/fc957950ba9fd21c1d1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-19T15:13:39+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/vivi-koh&quot;&gt;vivi-koh&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T10:33:33+09:00&lt;br/&gt;Updated: 2026-10-19T15:13:39+09:00&lt;br/&gt;Claude Codeで完璧なFigmaを出力させたい
-Claude Codeに「この画面、Figmaに起こして」と頼むと、Figma上に数分でフレームが出てきます。
-ただ、一見して完成品でもデザイナー的には未完成です。
-配置や既存画面の情報設計を無視していることも多く、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cbd1d7bb724676a3b686</id>
@@ -1654,19 +1667,6 @@ TL;DR
 
 ① 登らないと危険が迫るから登る人
 ② 頂上に目的があるから登る人...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:351a939e2e1b673c2929</id>
-    <title>今日から使える AI との会話術 — Claude・Gemini・Codex に指示を守らせる 6 つの原則【2026年版】</title>
-    <link rel="alternate" href="https://qiita.com/songchong/items/351a939e2e1b673c2929?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-19T14:02:21+09:00</updated>
-    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T00:40:28+09:00&lt;br/&gt;Updated: 2026-10-19T14:02:21+09:00&lt;br/&gt;はじめに：AI が指示を守らないのは、なぜか
-
-「指示したはずのルールを、AI が途中で守らなくなる」
-「細かい条件をたくさん渡したのに、半分も守ってくれない」
-「会話を続けていたら、トークンが急に増えて、使用量制限に達してしまった」
-
-Claude Code・Code...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3bc00ba77b87808bda9b</id>
@@ -1853,6 +1853,17 @@ Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom and pl
 Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横断して調べ、upvote や likes といった実際の反応で...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:f7c44c74e437875b1399</id>
+    <title>テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた</title>
+    <link rel="alternate" href="https://qiita.com/ebichan_88/items/f7c44c74e437875b1399?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-17T22:25:24+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ebichan_88&quot;&gt;ebichan_88&lt;/a&gt;&lt;br/&gt;Published: 2026-10-17T18:15:15+09:00&lt;br/&gt;Updated: 2026-10-17T22:25:24+09:00&lt;br/&gt;はじめに
+テーブル定義書・ER図を自動生成し、AIにテーブル構造を答えさせるツール「dbxray」を作成したので紹介します。
+業務であまり詳しくないサブシステムのテーブル構造をキャッチアップするため、過去に作成したテーブル定義書の出力ツールを改良しました。
+
+以前【Po...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d49739b934606d4abdbd</id>
     <title>Claude Code の設定でハマる箇所まとめ</title>
     <link rel="alternate" href="https://qiita.com/jqit_suwa/items/d49739b934606d4abdbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1864,6 +1875,17 @@ Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横
 設定を書いたのに、何も起きない。エラーも出ない
 
 原因の多くは、公式ドキュメン...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5a86ca330b449db0e6bc</id>
+    <title>Claude Codeの.envを読ませない設定がどこまで効くのか試してみた</title>
+    <link rel="alternate" href="https://qiita.com/yakumo_09/items/5a86ca330b449db0e6bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-19T13:33:13+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yakumo_09&quot;&gt;yakumo_09&lt;/a&gt;&lt;br/&gt;Published: 2026-10-18T21:49:25+09:00&lt;br/&gt;Updated: 2026-10-19T13:33:13+09:00&lt;br/&gt;はじめに
+Claude Codeには、permissions.deny で .env を読ませない設定があります。ただ、公式ドキュメントを読むと「止まらないケースもある」と書いてあるんですよね。
+じゃあ実際どこまで止まるのか、偽物のキーを置いて48回試してみました。
+
+手...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:411fc08854b9fe4c9be7</id>
@@ -1940,17 +1962,6 @@ AWSの勉強をするとき、テキストを読んだり問題を解いたり�
     <updated>2026-08-24T09:33:20+09:00</updated>
     <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T09:33:19+09:00&lt;br/&gt;Updated: 2026-08-24T09:33:20+09:00&lt;br/&gt;Claude Code には、自分の別セッションにメッセージを送る cross-session messaging という機能があります。ターミナルを2枚開いて並行作業しているとき、片方の変更をもう片方に伝えるやつです。
 これ、「Windowsでは使えない」と思っている人が...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f7c44c74e437875b1399</id>
-    <title>テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた</title>
-    <link rel="alternate" href="https://qiita.com/ebichan_88/items/f7c44c74e437875b1399?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-17T22:25:24+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ebichan_88&quot;&gt;ebichan_88&lt;/a&gt;&lt;br/&gt;Published: 2026-10-17T18:15:15+09:00&lt;br/&gt;Updated: 2026-10-17T22:25:24+09:00&lt;br/&gt;はじめに
-テーブル定義書・ER図を自動生成し、AIにテーブル構造を答えさせるツール「dbxray」を作成したので紹介します。
-業務であまり詳しくないサブシステムのテーブル構造をキャッチアップするため、過去に作成したテーブル定義書の出力ツールを改良しました。
-
-以前【Po...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a2f89a94d243b1b715cb</id>
@@ -2083,16 +2094,5 @@ WordPress を新しく立ち上げるとき、「まずサイトを公開して�
 
 これが、この記事で答えたい問いです。
 このうち業務の判断に関係する...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3126a7ff8d626f220202</id>
-    <title>TransformerのKVキャッシュを用いたDecode処理を理解する</title>
-    <link rel="alternate" href="https://qiita.com/kenmatsu4/items/3126a7ff8d626f220202?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-18T20:08:45+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenmatsu4&quot;&gt;kenmatsu4&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T20:08:45+09:00&lt;br/&gt;Updated: 2026-08-18T20:08:45+09:00&lt;br/&gt;こんにちは、DeNAでデータサイエンティストをやっているまつけんです。
-今回は、TransformerのKVキャッシュを用いたDecode処理について解説していきたいと思います。
-Transformerの推論処理には以下のように２段階あります。
-
-Prefill: 入力トー...</summary>
   </entry>
 </feed>
