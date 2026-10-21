@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-10-21T08:08:58+09:00</updated>
+  <updated>2026-10-21T18:07:55+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -42,15 +42,6 @@ Jevは、文章や業務データを読み取り、分類・採点・条件判�
 ブラウザで高速なバイナリ処理や計算ロジックを動かしたいとき、WebAssembly（Wasm）の導入を検討したことのあるWebエンジニアは多いはずです。しかし、いざ手を出そうとすると、常に過剰なトレードオフに突き当たります。
 
 C/C++（Emscripten...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fe4b1810f45e4b6df166</id>
-    <title>新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）</title>
-    <link rel="alternate" href="https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-20T14:59:32+09:00</updated>
-    <summary type="html">Likes: 178&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/WdknWdkn&quot;&gt;WdknWdkn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T23:48:07+09:00&lt;br/&gt;Updated: 2026-08-20T14:59:32+09:00&lt;br/&gt;はじめに
-いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
-去年、新人にAIを一時的に禁止した話を書きました。1週間で1,000行持ってきたのに「なぜこう書いたか」が「AIがそう言ったので」で、コメント800件を超えても理解が進まず、一旦止めて...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5d733c267370e0e06661</id>
@@ -154,6 +145,19 @@ Docker環境が重すぎて頭を抱えている人は多いのではないで�
 この記事では...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e4cde327a910b5beba11</id>
+    <title>AWS初心者がエンジニアを辞めた話</title>
+    <link rel="alternate" href="https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-19T18:42:28+09:00</updated>
+    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tks_1128&quot;&gt;tks_1128&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T18:42:28+09:00&lt;br/&gt;Updated: 2026-10-19T18:42:28+09:00&lt;br/&gt;はじめに
+こんにちは。Tsukasaです！
+タイトルにある通りエンジニアを辞めました！
+今日は今までのキャリアの振り返りと何故エンジニアになったのか？そして何故辞めたのか？について振り返りたいと思います。
+
+今までのキャリア
+私は国際学部国際学科出身の正真正銘の文系です。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ed4c760f616cf3c0a958</id>
     <title>みのるん式 登壇資料の作成ノウハウをスキルとして公開しました！</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/ed4c760f616cf3c0a958?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -164,19 +168,6 @@ Docker環境が重すぎて頭を抱えている人は多いのではないで�
 こんな感じのスライドができます。
 
 何が入...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e4cde327a910b5beba11</id>
-    <title>AWS初心者がエンジニアを辞めた話</title>
-    <link rel="alternate" href="https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-19T18:42:28+09:00</updated>
-    <summary type="html">Likes: 95&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tks_1128&quot;&gt;tks_1128&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T18:42:28+09:00&lt;br/&gt;Updated: 2026-10-19T18:42:28+09:00&lt;br/&gt;はじめに
-こんにちは。Tsukasaです！
-タイトルにある通りエンジニアを辞めました！
-今日は今までのキャリアの振り返りと何故エンジニアになったのか？そして何故辞めたのか？について振り返りたいと思います。
-
-今までのキャリア
-私は国際学部国際学科出身の正真正銘の文系です。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:44664e57e2738614fccf</id>
@@ -1097,17 +1088,6 @@ hoge();
 この記事では、AI ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:8f439ca399b08a925cba</id>
-    <title>基本情報｜科目B「アルゴリズム問題」、パズルが好きな人はたぶん好き</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/8f439ca399b08a925cba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-20T15:40:25+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-20T15:40:25+09:00&lt;br/&gt;Updated: 2026-08-20T15:40:25+09:00&lt;br/&gt;はじめに
-
-基本情報の必須出題範囲「疑似言語（アルゴリズム問題）」という響きを聞いただけで身構えていたぷらむんですが、実は科目Bで覚えるべきルールは拍子抜けするくらいシンプルでした。
-
-こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:fc957950ba9fd21c1d1b</id>
     <title>Claude Code × Figma MCP で作ったデザインを別のAIに検査させる — デザインのグラフエンジニアリング</title>
     <link rel="alternate" href="https://qiita.com/vivi-koh/items/fc957950ba9fd21c1d1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1349,6 +1329,15 @@ ECS・Lambda・RDSなどの言葉を聞いたことはあるが、なぜそれ�
 会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:6d5b58ad0cb832d2a4c5</id>
+    <title>AI時代の開発プロセスとチームのあり方を考える</title>
+    <link rel="alternate" href="https://qiita.com/kizuku_tabata/items/6d5b58ad0cb832d2a4c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-20T13:15:48+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kizuku_tabata&quot;&gt;kizuku_tabata&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T13:15:47+09:00&lt;br/&gt;Updated: 2026-10-20T13:15:48+09:00&lt;br/&gt;はじめに
+最近、Claude CodeやCodexといったAIコーディングツールを、ツール開発や提案用のPoC（概念実証）開発で活用する機会が増えてきました。
+また、Google Apps Script（GAS）を使ったちょっとした業務改善などでも、AIを活用することがあ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:351a939e2e1b673c2929</id>
     <title>今日から使える AI との会話術 — Claude・Gemini・Codex に指示を守らせる 6 つの原則【2026年版】</title>
     <link rel="alternate" href="https://qiita.com/songchong/items/351a939e2e1b673c2929?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1410,15 +1399,6 @@ Claude Code・Code...</summary>
 先輩に「大丈夫...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:6d5b58ad0cb832d2a4c5</id>
-    <title>AI時代の開発プロセスとチームのあり方を考える</title>
-    <link rel="alternate" href="https://qiita.com/kizuku_tabata/items/6d5b58ad0cb832d2a4c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-20T13:15:48+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kizuku_tabata&quot;&gt;kizuku_tabata&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T13:15:47+09:00&lt;br/&gt;Updated: 2026-10-20T13:15:48+09:00&lt;br/&gt;はじめに
-最近、Claude CodeやCodexといったAIコーディングツールを、ツール開発や提案用のPoC（概念実証）開発で活用する機会が増えてきました。
-また、Google Apps Script（GAS）を使ったちょっとした業務改善などでも、AIを活用することがあ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:8d90b7320bcd1c8aba9e</id>
     <title>結局、Looped Transformerってなんや？</title>
     <link rel="alternate" href="https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1461,16 +1441,6 @@ Transformerの同じ層を何回か通すやつでしょ
 会社の昔の写真フォルダで見つけた「ラズベリーパイ部」の文字に、てっきりパイやタルトを食べ歩く同好会だと思い込んでいたぷらむんが、プラ美先輩に聞いてみたら、全然違うジャンルの話だった、という話です。
 
 会社で自称マスコットキャラをやってるのに、社内で一番空気...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:edc03c11a477f5ecbfc2</id>
-    <title>IT企業の面接、私服で本当に大丈夫？採用担当が考える「清潔感」のライン</title>
-    <link rel="alternate" href="https://qiita.com/m__ikeda/items/edc03c11a477f5ecbfc2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-20T15:46:11+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-20T15:46:11+09:00&lt;br/&gt;Updated: 2026-08-20T15:46:11+09:00&lt;br/&gt;自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fdb57313458c2aa1bcdc</id>
@@ -1587,6 +1557,17 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
     <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T12:51:02+09:00&lt;br/&gt;Updated: 2026-09-19T12:51:02+09:00&lt;br/&gt;はじめに
 海外で現地のSIMに差し替えた初日、銀行アプリにログインしようとして「SMSで確認コードを送信しました」の画面で止まりました。日本の番号のSIMは机の上。コードは日本の番号に飛んでいく。届くわけがない。結局その旅の間、銀行には一度も入れませんでした。
 一方で、同...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b6a0743b070d7320c36d</id>
+    <title>「ドパ資料」の作り方</title>
+    <link rel="alternate" href="https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-21T18:07:55+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T18:04:32+09:00&lt;br/&gt;Updated: 2026-10-21T18:07:55+09:00&lt;br/&gt;この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのためにこの記事ではドパ資料の作り方を書いていきます。
+
+👀 対象読者
+
+技術記事を...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cbd1d7bb724676a3b686</id>
@@ -1835,6 +1816,16 @@ Claude Codeには、permissions.deny で .env を読ませない設定があり�
 手...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d78130c065835a6343a5</id>
+    <title>古くさいと思っていた報連相を、PMになってから今一度考えた話</title>
+    <link rel="alternate" href="https://qiita.com/fe1ix/items/d78130c065835a6343a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-20T10:03:59+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fe1ix&quot;&gt;fe1ix&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T10:03:59+09:00&lt;br/&gt;Updated: 2026-10-20T10:03:59+09:00&lt;br/&gt;はじめに
+報連相。報告・連絡・相談。
+正直に言うと、僕はこの言葉がちょっと苦手でした。新人研修で最初に習うやつ。部下が上司に気をつかって、こまめに顔色をうかがうためのやつ。そんなイメージがあったんです。
+チームの若手から「報連相って、もう古いですよね」と言われたときも、内...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:411fc08854b9fe4c9be7</id>
     <title>非エンジニアの私が、社内エンジニアと業務効率化ツールを作ってみた件</title>
     <link rel="alternate" href="https://qiita.com/ayanonn/items/411fc08854b9fe4c9be7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1919,16 +1910,6 @@ AWSの勉強をするとき、テキストを読んだり問題を解いたり�
 パスワード管理ツールはなんとなく安全なんだろうなぐらいの認識だったので、どういう仕組みなのかを調べてみました。
 この記事で扱うパスワード管理ツールは、1PasswordとBitwardenです。
 パスワードを管理している仕組みや、Googleパスワードマネージャ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d78130c065835a6343a5</id>
-    <title>古くさいと思っていた報連相を、PMになってから今一度考えた話</title>
-    <link rel="alternate" href="https://qiita.com/fe1ix/items/d78130c065835a6343a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-20T10:03:59+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fe1ix&quot;&gt;fe1ix&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T10:03:59+09:00&lt;br/&gt;Updated: 2026-10-20T10:03:59+09:00&lt;br/&gt;はじめに
-報連相。報告・連絡・相談。
-正直に言うと、僕はこの言葉がちょっと苦手でした。新人研修で最初に習うやつ。部下が上司に気をつかって、こまめに顔色をうかがうためのやつ。そんなイメージがあったんです。
-チームの若手から「報連相って、もう古いですよね」と言われたときも、内...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a2f89a94d243b1b715cb</id>
@@ -2078,5 +2059,22 @@ WordPress を新しく立ち上げるとき、「まずサイトを公開して�
     <updated>2026-09-02T09:40:45+09:00</updated>
     <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-02T09:40:44+09:00&lt;br/&gt;Updated: 2026-09-02T09:40:45+09:00&lt;br/&gt;9月1日に Claude Fable 5.1 が出ました。キャッシュ読みが $0.25/M で、入力が半額の Opus 5（$0.50/M）より安い、という珍しい価格です。
 長いセッションほど得なはずだと思って測ったら、2ターン目にキャッシュへ乗るかどうかが安定しませんでし...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:e0e1ca2287fb4da46852</id>
+    <title>Claude Code のサブエージェント、モデルの固定手段が4日で戻ってきた</title>
+    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/e0e1ca2287fb4da46852?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-02T09:40:28+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-02T09:40:27+09:00&lt;br/&gt;Updated: 2026-09-02T09:40:28+09:00&lt;br/&gt;8月28日、Claude Code 2.1.251 で CLAUDE_CODE_SUBAGENT_MODEL の挙動が変わりました。全部を上書きしていたのが、エージェント定義の model: に負けるようになった。それを記事にしました。
+9月1日、2.1.257 で上書き手...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:90be6651d4d012c3f107</id>
+    <title>GoFデザインパターンを実務で使うものに絞って解説する — Adapter, Facade, Strategy, Observer など</title>
+    <link rel="alternate" href="https://qiita.com/kkkkkou/items/90be6651d4d012c3f107?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-31T11:27:39+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kkkkkou&quot;&gt;kkkkkou&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T11:27:38+09:00&lt;br/&gt;Updated: 2026-08-31T11:27:39+09:00&lt;br/&gt;はじめに
+GoF（Gang of Four）の Design Patterns（1994年）では23のデザインパターンが紹介されていますが、すべてを暗記する必要はありません。
+この記事では、実務で特に使用頻度が高いパターンに絞って、「何を解決するのか」「どう使うのか」をコ...</summary>
   </entry>
 </feed>
