@@ -465,8 +465,8 @@
       "published": "2026-10-21T16:34:12+09:00",
       "updated": "2026-10-22T10:40:13+09:00",
       "author_name": "yuji-arakawa",
-      "likes_count": 12,
-      "last_seen": "2026-10-22T15:07:13.932359637+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-10-22T19:12:03.710925383+00:00"
     },
     {
       "key": "1e4e49b69f18f35a13c2",
@@ -693,8 +693,8 @@
       "published": "2026-10-22T02:15:15+09:00",
       "updated": "2026-10-22T12:19:12+09:00",
       "author_name": "kenimo49",
-      "likes_count": 32,
-      "last_seen": "2026-10-22T15:07:13.932359637+00:00"
+      "likes_count": 33,
+      "last_seen": "2026-10-22T19:12:03.710925383+00:00"
     },
     {
       "key": "311622a5fc6ab82dbfcb",
@@ -886,7 +886,7 @@
       "updated": "2026-10-22T17:37:55+09:00",
       "author_name": "shirok",
       "likes_count": 12,
-      "last_seen": "2026-10-22T15:07:13.932359637+00:00"
+      "last_seen": "2026-10-22T19:12:03.710925383+00:00"
     },
     {
       "key": "3a135f5db9d53257a9e4",
@@ -1846,7 +1846,7 @@
       "updated": "2026-10-20T13:15:48+09:00",
       "author_name": "kizuku_tabata",
       "likes_count": 38,
-      "last_seen": "2026-10-22T15:07:13.932359637+00:00"
+      "last_seen": "2026-10-22T19:12:03.710925383+00:00"
     },
     {
       "key": "6d78460c9be9cacc1fce",
@@ -2482,7 +2482,7 @@
       "updated": "2026-10-22T11:34:34+09:00",
       "author_name": "akimasanishida",
       "likes_count": 30,
-      "last_seen": "2026-10-22T15:07:13.932359637+00:00"
+      "last_seen": "2026-10-22T19:12:03.710925383+00:00"
     },
     {
       "key": "8dd19291f959da310c99",
@@ -2494,7 +2494,7 @@
       "updated": "2026-10-22T13:38:11+09:00",
       "author_name": "shirok",
       "likes_count": 11,
-      "last_seen": "2026-10-22T15:07:13.932359637+00:00"
+      "last_seen": "2026-10-22T19:12:03.710925383+00:00"
     },
     {
       "key": "8ec3f5fe18c20fab1b2a",
@@ -3034,7 +3034,7 @@
       "updated": "2026-10-22T12:58:02+09:00",
       "author_name": "kotowazaman",
       "likes_count": 10,
-      "last_seen": "2026-10-22T15:07:13.932359637+00:00"
+      "last_seen": "2026-10-22T19:12:03.710925383+00:00"
     },
     {
       "key": "aba1d118446e00cef5ae",
@@ -3321,8 +3321,8 @@
       "published": "2026-10-21T18:04:32+09:00",
       "updated": "2026-10-21T18:07:55+09:00",
       "author_name": "kikuziro",
-      "likes_count": 154,
-      "last_seen": "2026-10-22T15:07:13.932359637+00:00"
+      "likes_count": 157,
+      "last_seen": "2026-10-22T19:12:03.710925383+00:00"
     },
     {
       "key": "b791f8cd3885816e2b4c",
@@ -3370,7 +3370,7 @@
       "updated": "2026-10-20T21:39:49+09:00",
       "author_name": "kobori_slj",
       "likes_count": 17,
-      "last_seen": "2026-10-22T15:07:13.932359637+00:00"
+      "last_seen": "2026-10-22T19:12:03.710925383+00:00"
     },
     {
       "key": "baa529a57648b2a364fe",
@@ -3817,6 +3817,18 @@
       "last_seen": "2026-08-26T23:23:07.154619853+00:00"
     },
     {
+      "key": "d52a567f7450b5539665",
+      "item_id": "d52a567f7450b5539665",
+      "title": "MCPサーバーとは？ 仕組みの基本と、Firestore を AIエージェントから調べられるようにした話",
+      "link": "https://qiita.com/sugumura/items/d52a567f7450b5539665?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n業務で保守しているプロダクトに、Firestore を使っているアプリケーションがあります。保守ではログを出力したり、何か起きたときにデータを調べたりする作業が日常的に発生します。この調査を AIエージェントに手伝ってもらいたいと考えました。\nCSV などにエク...",
+      "published": "2026-10-22T12:19:25+09:00",
+      "updated": "2026-10-22T12:19:26+09:00",
+      "author_name": "sugumura",
+      "likes_count": 10,
+      "last_seen": "2026-10-22T19:12:03.710925383+00:00"
+    },
+    {
       "key": "d55d3b9cfdc38a07034d",
       "item_id": "d55d3b9cfdc38a07034d",
       "title": "Azure無料枠を意識してWindows Server 2022を構築してみた",
@@ -3874,7 +3886,7 @@
       "updated": "2026-10-20T10:03:59+09:00",
       "author_name": "fe1ix",
       "likes_count": 55,
-      "last_seen": "2026-10-22T15:07:13.932359637+00:00"
+      "last_seen": "2026-10-22T19:12:03.710925383+00:00"
     },
     {
       "key": "d794f229ba4e97b541fc",
@@ -4030,7 +4042,7 @@
       "updated": "2026-10-19T18:42:28+09:00",
       "author_name": "tks_1128",
       "likes_count": 108,
-      "last_seen": "2026-10-22T15:07:13.932359637+00:00"
+      "last_seen": "2026-10-22T19:12:03.710925383+00:00"
     },
     {
       "key": "e5065bd0e6daaf38ac62",
@@ -4282,7 +4294,7 @@
       "updated": "2026-10-20T11:12:08+09:00",
       "author_name": "giganticsaki_A",
       "likes_count": 30,
-      "last_seen": "2026-10-22T15:07:13.932359637+00:00"
+      "last_seen": "2026-10-22T19:12:03.710925383+00:00"
     },
     {
       "key": "f1a15a199d9f91fe6080",
