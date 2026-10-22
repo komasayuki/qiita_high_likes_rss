@@ -126,6 +126,19 @@ Docker環境が重すぎて頭を抱えている人は多いのではないで�
 今回は、ローカルのDocker環境（Windows）を軽量化するための方法について、実際に...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e4cde327a910b5beba11</id>
+    <title>AWS初心者がエンジニアを辞めた話</title>
+    <link rel="alternate" href="https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-19T18:42:28+09:00</updated>
+    <summary type="html">Likes: 101&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tks_1128&quot;&gt;tks_1128&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T18:42:28+09:00&lt;br/&gt;Updated: 2026-10-19T18:42:28+09:00&lt;br/&gt;はじめに
+こんにちは。Tsukasaです！
+タイトルにある通りエンジニアを辞めました！
+今日は今までのキャリアの振り返りと何故エンジニアになったのか？そして何故辞めたのか？について振り返りたいと思います。
+
+今までのキャリア
+私は国際学部国際学科出身の正真正銘の文系です。...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f1a15a199d9f91fe6080</id>
     <title>文章で要件定義するのをやめた。AIでモックを先に作ったら、認識ズレが実装前に全部見つかった</title>
     <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/f1a15a199d9f91fe6080?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -143,19 +156,6 @@ Docker環境が重すぎて頭を抱えている人は多いのではないで�
     <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yama3133&quot;&gt;yama3133&lt;/a&gt;&lt;br/&gt;Published: 2026-10-06T14:19:43+09:00&lt;br/&gt;Updated: 2026-10-06T14:19:43+09:00&lt;br/&gt;はじめに
 2026年に入って、国内外で大きな情報漏洩が続いています。特に6月から10月初旬には、タイムズカー(約660万アカウント)、焼肉きんぐ(約1,079万件)、アフラック生命(約440万人)、デンマークの住民登録簿(約880万人)などが公表されました。
 この記事では...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e4cde327a910b5beba11</id>
-    <title>AWS初心者がエンジニアを辞めた話</title>
-    <link rel="alternate" href="https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-19T18:42:28+09:00</updated>
-    <summary type="html">Likes: 96&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tks_1128&quot;&gt;tks_1128&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T18:42:28+09:00&lt;br/&gt;Updated: 2026-10-19T18:42:28+09:00&lt;br/&gt;はじめに
-こんにちは。Tsukasaです！
-タイトルにある通りエンジニアを辞めました！
-今日は今までのキャリアの振り返りと何故エンジニアになったのか？そして何故辞めたのか？について振り返りたいと思います。
-
-今までのキャリア
-私は国際学部国際学科出身の正真正銘の文系です。...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ed4c760f616cf3c0a958</id>
@@ -243,6 +243,17 @@ https://prum.jp/
 私は新卒でエンジニアになって1年が経ちました。
 生成AIに実装を依頼すると、コードを書く時間そのものは大きく短縮できることを実感しています。
 一方、私のようなジュニアエンジニアの場合、生成されたコードを理解するまでに時間がかかるため、 期待したほど開発全体は速く...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b6a0743b070d7320c36d</id>
+    <title>「ドパ資料」の作り方</title>
+    <link rel="alternate" href="https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-21T18:07:55+09:00</updated>
+    <summary type="html">Likes: 83&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T18:04:32+09:00&lt;br/&gt;Updated: 2026-10-21T18:07:55+09:00&lt;br/&gt;この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのためにこの記事ではドパ資料の作り方を書いていきます。
+
+👀 対象読者
+
+技術記事を...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0134c989bb86519eec2e</id>
@@ -912,6 +923,16 @@ SQLにはたくさんの構文がありますが、最初から...</summary>
 「なんで非同期で書かないといけないの？」と聞かれても、「非同期じゃないと処理が終わるまで画面が表示されなくて、重くなるから」くらいしか答えら...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:d78130c065835a6343a5</id>
+    <title>古くさいと思っていた報連相を、PMになってから今一度考えた話</title>
+    <link rel="alternate" href="https://qiita.com/fe1ix/items/d78130c065835a6343a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-20T10:03:59+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fe1ix&quot;&gt;fe1ix&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T10:03:59+09:00&lt;br/&gt;Updated: 2026-10-20T10:03:59+09:00&lt;br/&gt;はじめに
+報連相。報告・連絡・相談。
+正直に言うと、僕はこの言葉がちょっと苦手でした。新人研修で最初に習うやつ。部下が上司に気をつかって、こまめに顔色をうかがうためのやつ。そんなイメージがあったんです。
+チームの若手から「報連相って、もう古いですよね」と言われたときも、内...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:454fc975b095230565c7</id>
     <title>高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜</title>
     <link rel="alternate" href="https://qiita.com/ast-24/items/454fc975b095230565c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1030,6 +1051,16 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 Added a built-in &quot;Concise&quot; output style: Claude leads with result...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fc957950ba9fd21c1d1b</id>
+    <title>Claude Code × Figma MCP で作ったデザインを別のAIに検査させる — デザインのグラフエンジニアリング</title>
+    <link rel="alternate" href="https://qiita.com/vivi-koh/items/fc957950ba9fd21c1d1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-19T15:13:39+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/vivi-koh&quot;&gt;vivi-koh&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T10:33:33+09:00&lt;br/&gt;Updated: 2026-10-19T15:13:39+09:00&lt;br/&gt;Claude Codeで完璧なFigmaを出力させたい
+Claude Codeに「この画面、Figmaに起こして」と頼むと、Figma上に数分でフレームが出てきます。
+ただ、一見して完成品でもデザイナー的には未完成です。
+配置や既存画面の情報設計を無視していることも多く、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9fed3e53191b2b2604a5</id>
     <title>個人開発で月17万稼いでみたので生々しいスクショとともに振り返る</title>
     <link rel="alternate" href="https://qiita.com/fuga-if/items/9fed3e53191b2b2604a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1086,16 +1117,6 @@ hoge();
 そこで多くの人が次にやることは決まっています。別の AI にレビューさせることです。
 ただ、それは独立したレビューになっているのでしょうか。そして、そもそも何が抜けているのでしょうか。
 この記事では、AI ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fc957950ba9fd21c1d1b</id>
-    <title>Claude Code × Figma MCP で作ったデザインを別のAIに検査させる — デザインのグラフエンジニアリング</title>
-    <link rel="alternate" href="https://qiita.com/vivi-koh/items/fc957950ba9fd21c1d1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-19T15:13:39+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/vivi-koh&quot;&gt;vivi-koh&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T10:33:33+09:00&lt;br/&gt;Updated: 2026-10-19T15:13:39+09:00&lt;br/&gt;Claude Codeで完璧なFigmaを出力させたい
-Claude Codeに「この画面、Figmaに起こして」と頼むと、Figma上に数分でフレームが出てきます。
-ただ、一見して完成品でもデザイナー的には未完成です。
-配置や既存画面の情報設計を無視していることも多く、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:16a6d2c5da7d144efe95</id>
@@ -1171,6 +1192,15 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 褒め言葉よ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:6d5b58ad0cb832d2a4c5</id>
+    <title>AI時代の開発プロセスとチームのあり方を考える</title>
+    <link rel="alternate" href="https://qiita.com/kizuku_tabata/items/6d5b58ad0cb832d2a4c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-20T13:15:48+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kizuku_tabata&quot;&gt;kizuku_tabata&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T13:15:47+09:00&lt;br/&gt;Updated: 2026-10-20T13:15:48+09:00&lt;br/&gt;はじめに
+最近、Claude CodeやCodexといったAIコーディングツールを、ツール開発や提案用のPoC（概念実証）開発で活用する機会が増えてきました。
+また、Google Apps Script（GAS）を使ったちょっとした業務改善などでも、AIを活用することがあ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6577a57b9b62c8f97e11</id>
@@ -1327,15 +1357,6 @@ ECS・Lambda・RDSなどの言葉を聞いたことはあるが、なぜそれ�
 プラ二郎先輩に言われた通りに書いたコードを、別の先輩に「それは違うよ」と言われて混乱していたぷらむんが気づいたのは、どちらかが間違っているわけではなかったということでした。
 
 会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:6d5b58ad0cb832d2a4c5</id>
-    <title>AI時代の開発プロセスとチームのあり方を考える</title>
-    <link rel="alternate" href="https://qiita.com/kizuku_tabata/items/6d5b58ad0cb832d2a4c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-20T13:15:48+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kizuku_tabata&quot;&gt;kizuku_tabata&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T13:15:47+09:00&lt;br/&gt;Updated: 2026-10-20T13:15:48+09:00&lt;br/&gt;はじめに
-最近、Claude CodeやCodexといったAIコーディングツールを、ツール開発や提案用のPoC（概念実証）開発で活用する機会が増えてきました。
-また、Google Apps Script（GAS）を使ったちょっとした業務改善などでも、AIを活用することがあ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:351a939e2e1b673c2929</id>
@@ -1559,15 +1580,18 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
 一方で、同...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b6a0743b070d7320c36d</id>
-    <title>「ドパ資料」の作り方</title>
-    <link rel="alternate" href="https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-21T18:07:55+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T18:04:32+09:00&lt;br/&gt;Updated: 2026-10-21T18:07:55+09:00&lt;br/&gt;この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのためにこの記事ではドパ資料の作り方を書いていきます。
-
-👀 対象読者
-
-技術記事を...</summary>
+    <id>tag:qiita.com,2026:f0ed9ec5cff12106978e</id>
+    <title>怠惰の化身が資格取得するための勉強の習慣を身につけるまで</title>
+    <link rel="alternate" href="https://qiita.com/giganticsaki_A/items/f0ed9ec5cff12106978e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-20T11:12:08+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/giganticsaki_A&quot;&gt;giganticsaki_A&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T11:12:07+09:00&lt;br/&gt;Updated: 2026-10-20T11:12:08+09:00&lt;br/&gt;はじめに
+私は勉強が嫌いです。
+一生分の「勉強に使える集中力」は学生時代に使い果たしました。
+仕事が終わったら酒を飲みたい。
+できれば何もしたくない。
+休みの日は寝たい。
+そもそも勉強が嫌いなので、仕事以外の時間まで勉強したくない。
+とはいえ、エンジニアとして働いている以...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cbd1d7bb724676a3b686</id>
@@ -1595,20 +1619,6 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
 この記事の内容は筆者自身の開発スタイルに基づくものです。効果・効能には個人差があります。スキルは各自が自分のためにカスタマイズすることを推奨します!
 
 しばらく前にコーディングエージェントに何かを実装させる前に gr...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f0ed9ec5cff12106978e</id>
-    <title>怠惰の化身が資格取得するための勉強の習慣を身につけるまで</title>
-    <link rel="alternate" href="https://qiita.com/giganticsaki_A/items/f0ed9ec5cff12106978e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-20T11:12:08+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/giganticsaki_A&quot;&gt;giganticsaki_A&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T11:12:07+09:00&lt;br/&gt;Updated: 2026-10-20T11:12:08+09:00&lt;br/&gt;はじめに
-私は勉強が嫌いです。
-一生分の「勉強に使える集中力」は学生時代に使い果たしました。
-仕事が終わったら酒を飲みたい。
-できれば何もしたくない。
-休みの日は寝たい。
-そもそも勉強が嫌いなので、仕事以外の時間まで勉強したくない。
-とはいえ、エンジニアとして働いている以...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f7c44c74e437875b1399</id>
@@ -1814,16 +1824,6 @@ Claude Codeには、permissions.deny で .env を読ませない設定があり�
 じゃあ実際どこまで止まるのか、偽物のキーを置いて48回試してみました。
 
 手...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d78130c065835a6343a5</id>
-    <title>古くさいと思っていた報連相を、PMになってから今一度考えた話</title>
-    <link rel="alternate" href="https://qiita.com/fe1ix/items/d78130c065835a6343a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-20T10:03:59+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fe1ix&quot;&gt;fe1ix&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T10:03:59+09:00&lt;br/&gt;Updated: 2026-10-20T10:03:59+09:00&lt;br/&gt;はじめに
-報連相。報告・連絡・相談。
-正直に言うと、僕はこの言葉がちょっと苦手でした。新人研修で最初に習うやつ。部下が上司に気をつかって、こまめに顔色をうかがうためのやつ。そんなイメージがあったんです。
-チームの若手から「報連相って、もう古いですよね」と言われたときも、内...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:411fc08854b9fe4c9be7</id>
