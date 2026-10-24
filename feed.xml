@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-10-23T09:11:29+09:00</updated>
+  <updated>2026-10-23T18:22:07+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -20,7 +20,7 @@ ChatGPT（GPT Image）で資料やWebサイト用のイラストを作ってい�
     <title>「ドパ資料」の作り方</title>
     <link rel="alternate" href="https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-10-21T18:07:55+09:00</updated>
-    <summary type="html">Likes: 287&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T18:04:32+09:00&lt;br/&gt;Updated: 2026-10-21T18:07:55+09:00&lt;br/&gt;この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのためにこの記事ではドパ資料の作り方を書いていきます。
+    <summary type="html">Likes: 293&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T18:04:32+09:00&lt;br/&gt;Updated: 2026-10-21T18:07:55+09:00&lt;br/&gt;この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのためにこの記事ではドパ資料の作り方を書いていきます。
 
 👀 対象読者
 
@@ -97,7 +97,7 @@ Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「
     <title>PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃</title>
     <link rel="alternate" href="https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-10-22T12:19:12+09:00</updated>
-    <summary type="html">Likes: 142&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-10-22T02:15:15+09:00&lt;br/&gt;Updated: 2026-10-22T12:19:12+09:00&lt;br/&gt;2026 年 10 月 21 日 21 時 55 分、高市総理が X にこう投稿しました。
+    <summary type="html">Likes: 143&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-10-22T02:15:15+09:00&lt;br/&gt;Updated: 2026-10-22T12:19:12+09:00&lt;br/&gt;2026 年 10 月 21 日 21 時 55 分、高市総理が X にこう投稿しました。
 
 修正パッチを速やかに適用することが困難な場合は、例えばウェブサイト等を一時的に停止させることも、リスクを低減させるための有効策の一つと考えられます。
 (高市早苗 on X)
@@ -2009,6 +2009,18 @@ GoF（Gang of Four）の Design Patterns（1994年）では23のデザインパ�
 この記事では、実務で特に使用頻度が高いパターンに絞って、「何を解決するのか」「どう使うのか」をコ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7fac93e8a7ad6015b0b0</id>
+    <title>3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介</title>
+    <link rel="alternate" href="https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-23T18:22:07+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T18:11:47+09:00&lt;br/&gt;Updated: 2026-10-23T18:22:07+09:00&lt;br/&gt;Pyxel作者です。
+ちょっとした出来心で、3KBしか使えない、小さなゲームエンジンを作ってみました。
+
+名前は「Playload（プレイロード）」。
+GitHubにてオープンソースとして公開中です。ぜひスターで応援をよろしくお願いします。
+Playloadの基本仕様は以下...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f80fad42b5a134fa3c14</id>
     <title>私はGemini。env 認証情報を、うっかりチャット対話文に漏洩してしまいました — AIエージェント内側の告白</title>
     <link rel="alternate" href="https://qiita.com/songchong/items/f80fad42b5a134fa3c14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2047,14 +2059,5 @@ Cloudflare無料プランで運用している静的サイトのセキュリテ�
 
 AIとエンジニアについて〜
 ワーク①...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5145961004e38e2fe316</id>
-    <title>拒否ルールを全部消しても、Claude Code は eval を止めた。守っていたのは別の仕組みだった</title>
-    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/5145961004e38e2fe316?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-16T09:22:25+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-16T09:22:25+09:00&lt;br/&gt;Updated: 2026-09-16T09:22:25+09:00&lt;br/&gt;Claude Code 2.1.273（2026-09-15）の changelog に、こう書かれています。
-
-Reverted a 2.1.268 change that checked Read and Edit deny rules on Bash lines th...</summary>
   </entry>
 </feed>
