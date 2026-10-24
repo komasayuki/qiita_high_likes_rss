@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-10-22T12:58:02+09:00</updated>
+  <updated>2026-10-23T09:11:29+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -20,7 +20,7 @@ ChatGPT（GPT Image）で資料やWebサイト用のイラストを作ってい�
     <title>「ドパ資料」の作り方</title>
     <link rel="alternate" href="https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-10-21T18:07:55+09:00</updated>
-    <summary type="html">Likes: 279&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T18:04:32+09:00&lt;br/&gt;Updated: 2026-10-21T18:07:55+09:00&lt;br/&gt;この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのためにこの記事ではドパ資料の作り方を書いていきます。
+    <summary type="html">Likes: 287&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T18:04:32+09:00&lt;br/&gt;Updated: 2026-10-21T18:07:55+09:00&lt;br/&gt;この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのためにこの記事ではドパ資料の作り方を書いていきます。
 
 👀 対象読者
 
@@ -97,7 +97,7 @@ Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「
     <title>PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃</title>
     <link rel="alternate" href="https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-10-22T12:19:12+09:00</updated>
-    <summary type="html">Likes: 137&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-10-22T02:15:15+09:00&lt;br/&gt;Updated: 2026-10-22T12:19:12+09:00&lt;br/&gt;2026 年 10 月 21 日 21 時 55 分、高市総理が X にこう投稿しました。
+    <summary type="html">Likes: 142&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kenimo49&quot;&gt;kenimo49&lt;/a&gt;&lt;br/&gt;Published: 2026-10-22T02:15:15+09:00&lt;br/&gt;Updated: 2026-10-22T12:19:12+09:00&lt;br/&gt;2026 年 10 月 21 日 21 時 55 分、高市総理が X にこう投稿しました。
 
 修正パッチを速やかに適用することが困難な場合は、例えばウェブサイト等を一時的に停止させることも、リスクを低減させるための有効策の一つと考えられます。
 (高市早苗 on X)
@@ -1967,6 +1967,14 @@ WordPress を新しく立ち上げるとき、「まずサイトを公開して�
 このうち業務の判断に関係する...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c559b0291db39b2169c1</id>
+    <title>Copilot の Agent Builder が凄く進化した。何ができるようになったか、Copilot Studio（GitHub Copilot ハーネス）との違いも整理してみる</title>
+    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/c559b0291db39b2169c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-23T09:11:29+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T09:11:28+09:00&lt;br/&gt;Updated: 2026-10-23T09:11:29+09:00&lt;br/&gt;はじめに
+Microsoft 365 Copilot のエージェントビルダーに「スキル」を追加できるようになりました。SKILL.md と、テンプレートやスクリプトなどの同梱ファイルを ZIP でまとめてアップロードすると、エージェントがその手順に従って作業してくれる仕組...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ac268db56f92b991970b</id>
     <title>AIを業務改善につなげるための5ステップ ― サービスデザインを活用した要件定義</title>
     <link rel="alternate" href="https://qiita.com/TamakiSeki/items/ac268db56f92b991970b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2048,22 +2056,5 @@ AIとエンジニアについて〜
     <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-16T09:22:25+09:00&lt;br/&gt;Updated: 2026-09-16T09:22:25+09:00&lt;br/&gt;Claude Code 2.1.273（2026-09-15）の changelog に、こう書かれています。
 
 Reverted a 2.1.268 change that checked Read and Edit deny rules on Bash lines th...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f856f09d7bf23cdd0ae6</id>
-    <title>SQL構文は日本語で例えると理解しやすい</title>
-    <link rel="alternate" href="https://qiita.com/nolanlover0527/items/f856f09d7bf23cdd0ae6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-16T08:57:13+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nolanlover0527&quot;&gt;nolanlover0527&lt;/a&gt;&lt;br/&gt;Published: 2026-09-15T09:05:46+09:00&lt;br/&gt;Updated: 2026-09-16T08:57:13+09:00&lt;br/&gt;SQLの基本構文
-まずは基本形です。
-SELECT カラム名
-FROM テーブル名
-WHERE 条件
-GROUP BY カラム名
-HAVING 条件
-ORDER BY カラム名
-LIMIT 件数
-
-これを見て「何が何やら」となった方も多いと思います。順番に日本語へ変...</summary>
   </entry>
 </feed>
