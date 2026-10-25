@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-10-23T18:22:07+09:00</updated>
+  <updated>2026-10-25T02:05:12+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -558,6 +558,18 @@ Fixed /update-config writing Write(path) permission rules, which file permission
 もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7fac93e8a7ad6015b0b0</id>
+    <title>3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介</title>
+    <link rel="alternate" href="https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-23T18:22:07+09:00</updated>
+    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T18:11:47+09:00&lt;br/&gt;Updated: 2026-10-23T18:22:07+09:00&lt;br/&gt;Pyxel作者です。
+ちょっとした出来心で、3KBしか使えない、小さなゲームエンジンを作ってみました。
+
+名前は「Playload（プレイロード）」。
+GitHubにてオープンソースとして公開中です。ぜひスターで応援をよろしくお願いします。
+Playloadの基本仕様は以下...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a8d8177d02cc4f7f2553</id>
     <title>個人開発のMinecraft監視アプリに負荷試験をしてみた ― 読み取り専用のAPIが、実は毎回DBへ書き込んでいた</title>
     <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/a8d8177d02cc4f7f2553?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -897,18 +909,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 「これで進...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7fac93e8a7ad6015b0b0</id>
-    <title>3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介</title>
-    <link rel="alternate" href="https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-23T18:22:07+09:00</updated>
-    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T18:11:47+09:00&lt;br/&gt;Updated: 2026-10-23T18:22:07+09:00&lt;br/&gt;Pyxel作者です。
-ちょっとした出来心で、3KBしか使えない、小さなゲームエンジンを作ってみました。
-
-名前は「Playload（プレイロード）」。
-GitHubにてオープンソースとして公開中です。ぜひスターで応援をよろしくお願いします。
-Playloadの基本仕様は以下...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:184e06cd9744f94d4f3e</id>
@@ -1530,6 +1530,14 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
 ここまでの回は「アプリの中身」を見てきました。SQL の書き方、層の分け方、トークンの検証。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ef99b5791fe799a4ca66</id>
+    <title>eMudhra事件でWebアプリ開発者が点検すべきこと</title>
+    <link rel="alternate" href="https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-25T02:05:12+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/autotaker1984&quot;&gt;autotaker1984&lt;/a&gt;&lt;br/&gt;Published: 2026-10-25T01:45:38+09:00&lt;br/&gt;Updated: 2026-10-25T02:05:12+09:00&lt;br/&gt;2026年10月、認証局eMudhraの中間CA秘密鍵が極端に弱く、公開情報から復元できる問題が明らかになりました。復元した秘密鍵を用いて攻撃者が他人のドメインの証明書を偽造できるため、インターネットの信頼基盤が揺らぐ事件です。
+ただし、この事件を正しく理解することはなかな...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f7c44c74e437875b1399</id>
     <title>テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた</title>
     <link rel="alternate" href="https://qiita.com/ebichan_88/items/f7c44c74e437875b1399?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1732,6 +1740,24 @@ Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom and pl
 Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横断して調べ、upvote や likes といった実際の反応で...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:81e6a6737b2254bdc6ed</id>
+    <title>【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた</title>
+    <link rel="alternate" href="https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-23T16:54:48+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shahin0809&quot;&gt;shahin0809&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T15:50:22+09:00&lt;br/&gt;Updated: 2026-10-23T16:54:48+09:00&lt;br/&gt;はじめに
+常に VS Code / GitHub Copilot の動向を追っている、Microsoft Student Ambassador 兼 GitHub Copilot User Group Japan（Gh-CUG）運営のロホマン シャヒンです！
+
+この記事が...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c559b0291db39b2169c1</id>
+    <title>Copilot の Agent Builder が凄く進化した。何ができるようになったか、Copilot Studio（GitHub Copilot ハーネス）との違いも整理してみる</title>
+    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/c559b0291db39b2169c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-23T09:11:29+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T09:11:28+09:00&lt;br/&gt;Updated: 2026-10-23T09:11:29+09:00&lt;br/&gt;はじめに
+Microsoft 365 Copilot のエージェントビルダーに「スキル」を追加できるようになりました。SKILL.md と、テンプレートやスクリプトなどの同梱ファイルを ZIP でまとめてアップロードすると、エージェントがその手順に従って作業してくれる仕組...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8cad27487cd0e67d088c</id>
     <title>【緊急】Node.jsの重大脆弱性に対応するセキュリティアップデートを安全に適用する方法</title>
     <link rel="alternate" href="https://qiita.com/superdora-cloud/items/8cad27487cd0e67d088c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1752,14 +1778,6 @@ Claude Codeには、permissions.deny で .env を読ませない設定があり�
 じゃあ実際どこまで止まるのか、偽物のキーを置いて48回試してみました。
 
 手...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c559b0291db39b2169c1</id>
-    <title>Copilot の Agent Builder が凄く進化した。何ができるようになったか、Copilot Studio（GitHub Copilot ハーネス）との違いも整理してみる</title>
-    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/c559b0291db39b2169c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-23T09:11:29+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T09:11:28+09:00&lt;br/&gt;Updated: 2026-10-23T09:11:29+09:00&lt;br/&gt;はじめに
-Microsoft 365 Copilot のエージェントビルダーに「スキル」を追加できるようになりました。SKILL.md と、テンプレートやスクリプトなどの同梱ファイルを ZIP でまとめてアップロードすると、エージェントがその手順に従って作業してくれる仕組...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:411fc08854b9fe4c9be7</id>
@@ -2041,30 +2059,5 @@ AIとエンジニアについて〜
     <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-16T09:22:25+09:00&lt;br/&gt;Updated: 2026-09-16T09:22:25+09:00&lt;br/&gt;Claude Code 2.1.273（2026-09-15）の changelog に、こう書かれています。
 
 Reverted a 2.1.268 change that checked Read and Edit deny rules on Bash lines th...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:f856f09d7bf23cdd0ae6</id>
-    <title>SQL構文は日本語で例えると理解しやすい</title>
-    <link rel="alternate" href="https://qiita.com/nolanlover0527/items/f856f09d7bf23cdd0ae6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-16T08:57:13+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nolanlover0527&quot;&gt;nolanlover0527&lt;/a&gt;&lt;br/&gt;Published: 2026-09-15T09:05:46+09:00&lt;br/&gt;Updated: 2026-09-16T08:57:13+09:00&lt;br/&gt;SQLの基本構文
-まずは基本形です。
-SELECT カラム名
-FROM テーブル名
-WHERE 条件
-GROUP BY カラム名
-HAVING 条件
-ORDER BY カラム名
-LIMIT 件数
-
-これを見て「何が何やら」となった方も多いと思います。順番に日本語へ変...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e630bf05f4adf0c16ce5</id>
-    <title>写真📷録音🎙PDF📄コード💻いいね👍｜私の情報はどこへ漏れていくのか？ AI製品36件の規約とプライバシーポリシーを形式別に調べてみた</title>
-    <link rel="alternate" href="https://qiita.com/songchong/items/e630bf05f4adf0c16ce5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-14T16:13:05+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-14T04:32:07+09:00&lt;br/&gt;Updated: 2026-09-14T16:13:05+09:00&lt;br/&gt;「会議の録音を AI で文字起こししたら、内容がバレる心配はないか？」
-以前の記事では、個人情報・機微情報・アイデアといったデータの「種類」から見た漏れ方をまとめました（どの情報なら AI に入れてよいか）。ですが、写真📷・録音🎙・PDF📄・コード💻・いいね👍といったデータ...</summary>
   </entry>
 </feed>

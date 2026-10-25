@@ -433,18 +433,6 @@
       "last_seen": "2026-10-23T19:06:12.795874384+00:00"
     },
     {
-      "key": "1e4e49b69f18f35a13c2",
-      "item_id": "1e4e49b69f18f35a13c2",
-      "title": "【AIエージェント初心者向け】Codex CLI、どこまでやってくれる？Java開発環境をゼロから作ってみた",
-      "link": "https://qiita.com/hashiryu_/items/1e4e49b69f18f35a13c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "1. はじめに\n\n1-1. 今回やってみたこと\n今回、次のプロジェクトに向けて、少しブランクのあるJava / Spring Bootを基本的なところから復習することになりました。\nせっかく復習するのであれば、実際に手を動かしながら簡単なアプリケーションを作ってみたい。さ...",
-      "published": "2026-08-24T13:32:35+09:00",
-      "updated": "2026-08-24T13:32:37+09:00",
-      "author_name": "hashiryu_",
-      "likes_count": 10,
-      "last_seen": "2026-08-26T07:54:43.110012702+00:00"
-    },
-    {
       "key": "1fc232b42c344260021d",
       "item_id": "1fc232b42c344260021d",
       "title": "マジックリンクでログインできない原因はメールのURLスキャンだった",
@@ -2029,18 +2017,6 @@
       "last_seen": "2026-10-21T19:16:46.058922719+00:00"
     },
     {
-      "key": "7ecdfc6067e09aed00a1",
-      "item_id": "7ecdfc6067e09aed00a1",
-      "title": "/model を1度でも押すと ANTHROPIC_DEFAULT_MODEL は効きません",
-      "link": "https://qiita.com/jqit_suwa/items/7ecdfc6067e09aed00a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Claude Code v2.1.236 に ANTHROPIC_DEFAULT_MODEL という環境変数が入りました。新しいセッションが開始するモデルを決めるものです。\nチームで初期モデルを揃えたくて設定したんですが、まったく効きませんでした。\nANTHROPIC_DE...",
-      "published": "2026-08-25T08:59:39+09:00",
-      "updated": "2026-08-25T08:59:39+09:00",
-      "author_name": "jqit_suwa",
-      "likes_count": 18,
-      "last_seen": "2026-08-26T07:54:43.110012702+00:00"
-    },
-    {
       "key": "7f149b4ef5e1e71dd039",
       "item_id": "7f149b4ef5e1e71dd039",
       "title": "Claudeのキャッシュを使い倒す",
@@ -2085,8 +2061,8 @@
       "published": "2026-10-23T18:11:47+09:00",
       "updated": "2026-10-23T18:22:07+09:00",
       "author_name": "kitao",
-      "likes_count": 43,
-      "last_seen": "2026-10-25T06:01:05.333930869+00:00"
+      "likes_count": 52,
+      "last_seen": "2026-10-25T11:15:21.470365989+00:00"
     },
     {
       "key": "7ff4596a3a7707890a05",
@@ -2133,8 +2109,8 @@
       "published": "2026-10-23T15:50:22+09:00",
       "updated": "2026-10-23T16:54:48+09:00",
       "author_name": "shahin0809",
-      "likes_count": 17,
-      "last_seen": "2026-10-25T06:01:05.333930869+00:00"
+      "likes_count": 22,
+      "last_seen": "2026-10-25T11:15:21.470365989+00:00"
     },
     {
       "key": "83349e8b4cdf07b97cd1",
@@ -3465,8 +3441,8 @@
       "published": "2026-10-23T09:11:28+09:00",
       "updated": "2026-10-23T09:11:29+09:00",
       "author_name": "Takashi_Masumori",
-      "likes_count": 21,
-      "last_seen": "2026-10-25T06:01:05.333930869+00:00"
+      "likes_count": 22,
+      "last_seen": "2026-10-25T11:15:21.470365989+00:00"
     },
     {
       "key": "c78381bfe83e93e75893",
@@ -4103,6 +4079,18 @@
       "author_name": "sagochiko",
       "likes_count": 78,
       "last_seen": "2026-09-28T15:19:41.791193799+00:00"
+    },
+    {
+      "key": "ef99b5791fe799a4ca66",
+      "item_id": "ef99b5791fe799a4ca66",
+      "title": "eMudhra事件でWebアプリ開発者が点検すべきこと",
+      "link": "https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "2026年10月、認証局eMudhraの中間CA秘密鍵が極端に弱く、公開情報から復元できる問題が明らかになりました。復元した秘密鍵を用いて攻撃者が他人のドメインの証明書を偽造できるため、インターネットの信頼基盤が揺らぐ事件です。\nただし、この事件を正しく理解することはなかな...",
+      "published": "2026-10-25T01:45:38+09:00",
+      "updated": "2026-10-25T02:05:12+09:00",
+      "author_name": "autotaker1984",
+      "likes_count": 26,
+      "last_seen": "2026-10-25T11:15:21.470365989+00:00"
     },
     {
       "key": "efa52e124c1b4ef3dbff",
