@@ -527,6 +527,18 @@ Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENT
 Fixed /update-config writing Write(path) permission rules, which file permission...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7fac93e8a7ad6015b0b0</id>
+    <title>3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介</title>
+    <link rel="alternate" href="https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-23T18:22:07+09:00</updated>
+    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T18:11:47+09:00&lt;br/&gt;Updated: 2026-10-23T18:22:07+09:00&lt;br/&gt;Pyxel作者です。
+ちょっとした出来心で、3KBしか使えない、小さなゲームエンジンを作ってみました。
+
+名前は「Playload（プレイロード）」。
+GitHubにてオープンソースとして公開中です。ぜひスターで応援をよろしくお願いします。
+Playloadの基本仕様は以下...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9d4f86c185dda6fd24a7</id>
     <title>【2026年10月 最新版】AIモデル徹底比較 | GPT-6.1 Sol  / Claude Opus 5.5  / Claude Sonnet 5.5 / Gemini 4 Argon</title>
     <link rel="alternate" href="https://qiita.com/nuco_d/items/9d4f86c185dda6fd24a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -556,18 +568,6 @@ Fixed /update-config writing Write(path) permission rules, which file permission
 こんにちは。株式会社PRUMで採用広報を担当している池田です。
 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
 もしIT業界に興味があるけど、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7fac93e8a7ad6015b0b0</id>
-    <title>3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介</title>
-    <link rel="alternate" href="https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-23T18:22:07+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T18:11:47+09:00&lt;br/&gt;Updated: 2026-10-23T18:22:07+09:00&lt;br/&gt;Pyxel作者です。
-ちょっとした出来心で、3KBしか使えない、小さなゲームエンジンを作ってみました。
-
-名前は「Playload（プレイロード）」。
-GitHubにてオープンソースとして公開中です。ぜひスターで応援をよろしくお願いします。
-Playloadの基本仕様は以下...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a8d8177d02cc4f7f2553</id>
@@ -1106,6 +1106,14 @@ hoge();
 この記事では、AI ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ef99b5791fe799a4ca66</id>
+    <title>eMudhra事件でWebアプリ開発者が点検すべきこと</title>
+    <link rel="alternate" href="https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-25T02:05:12+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/autotaker1984&quot;&gt;autotaker1984&lt;/a&gt;&lt;br/&gt;Published: 2026-10-25T01:45:38+09:00&lt;br/&gt;Updated: 2026-10-25T02:05:12+09:00&lt;br/&gt;2026年10月、認証局eMudhraの中間CA秘密鍵が極端に弱く、公開情報から復元できる問題が明らかになりました。復元した秘密鍵を用いて攻撃者が他人のドメインの証明書を偽造できるため、インターネットの信頼基盤が揺らぐ事件です。
+ただし、この事件を正しく理解することはなかな...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:16a6d2c5da7d144efe95</id>
     <title>日本企業「ハッキングされないでくれ」ランキング</title>
     <link rel="alternate" href="https://qiita.com/konaito/items/16a6d2c5da7d144efe95?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1483,6 +1491,16 @@ terraformで管理しているリソースが増えてきて、tfstateが肥大�
 利用者からは「メールのリンクを押すと一瞬 Cisco のリンク...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:81e6a6737b2254bdc6ed</id>
+    <title>【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた</title>
+    <link rel="alternate" href="https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-23T16:54:48+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shahin0809&quot;&gt;shahin0809&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T15:50:22+09:00&lt;br/&gt;Updated: 2026-10-23T16:54:48+09:00&lt;br/&gt;はじめに
+常に VS Code / GitHub Copilot の動向を追っている、Microsoft Student Ambassador 兼 GitHub Copilot User Group Japan（Gh-CUG）運営のロホマン シャヒンです！
+
+この記事が...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b9683ce90f4c26a6e7ae</id>
     <title>【2026年版】AIを駆使した開発手法をざっくりまとめてみた</title>
     <link rel="alternate" href="https://qiita.com/kobori_slj/items/b9683ce90f4c26a6e7ae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1528,14 +1546,6 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
     <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/iketani45664566&quot;&gt;iketani45664566&lt;/a&gt;&lt;br/&gt;Published: 2026-09-13T18:55:25+09:00&lt;br/&gt;Updated: 2026-09-13T18:55:25+09:00&lt;br/&gt;この記事で学ぶこと
 #25 から #31 まで、認証認可を土台から作り込みました。Part 5 はこれで完結です。今日から Part 6、Webアプリ全体を設計する編に入ります。
 ここまでの回は「アプリの中身」を見てきました。SQL の書き方、層の分け方、トークンの検証。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ef99b5791fe799a4ca66</id>
-    <title>eMudhra事件でWebアプリ開発者が点検すべきこと</title>
-    <link rel="alternate" href="https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-25T02:05:12+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/autotaker1984&quot;&gt;autotaker1984&lt;/a&gt;&lt;br/&gt;Published: 2026-10-25T01:45:38+09:00&lt;br/&gt;Updated: 2026-10-25T02:05:12+09:00&lt;br/&gt;2026年10月、認証局eMudhraの中間CA秘密鍵が極端に弱く、公開情報から復元できる問題が明らかになりました。復元した秘密鍵を用いて攻撃者が他人のドメインの証明書を偽造できるため、インターネットの信頼基盤が揺らぐ事件です。
-ただし、この事件を正しく理解することはなかな...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f7c44c74e437875b1399</id>
@@ -1738,16 +1748,6 @@ Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom and pl
     <updated>2026-08-31T08:35:16+09:00</updated>
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T08:35:15+09:00&lt;br/&gt;Updated: 2026-08-31T08:35:16+09:00&lt;br/&gt;GitHub Trending に、スター 60,480 の Agent Skill が上がっていました。
 Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横断して調べ、upvote や likes といった実際の反応で...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:81e6a6737b2254bdc6ed</id>
-    <title>【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた</title>
-    <link rel="alternate" href="https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-23T16:54:48+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shahin0809&quot;&gt;shahin0809&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T15:50:22+09:00&lt;br/&gt;Updated: 2026-10-23T16:54:48+09:00&lt;br/&gt;はじめに
-常に VS Code / GitHub Copilot の動向を追っている、Microsoft Student Ambassador 兼 GitHub Copilot User Group Japan（Gh-CUG）運営のロホマン シャヒンです！
-
-この記事が...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c559b0291db39b2169c1</id>
