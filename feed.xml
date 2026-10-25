@@ -961,6 +961,14 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむん...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ef99b5791fe799a4ca66</id>
+    <title>eMudhra事件でWebアプリ開発者が点検すべきこと</title>
+    <link rel="alternate" href="https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-25T02:05:12+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/autotaker1984&quot;&gt;autotaker1984&lt;/a&gt;&lt;br/&gt;Published: 2026-10-25T01:45:38+09:00&lt;br/&gt;Updated: 2026-10-25T02:05:12+09:00&lt;br/&gt;2026年10月、認証局eMudhraの中間CA秘密鍵が極端に弱く、公開情報から復元できる問題が明らかになりました。復元した秘密鍵を用いて攻撃者が他人のドメインの証明書を偽造できるため、インターネットの信頼基盤が揺らぐ事件です。
+ただし、この事件を正しく理解することはなかな...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f1f6a45fa9aff8d624af</id>
     <title>Twitter（現X）に貼ったURLのサムネイル画像、キャッシュクリアできるの知ってた？</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/f1f6a45fa9aff8d624af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1104,14 +1112,6 @@ hoge();
 そこで多くの人が次にやることは決まっています。別の AI にレビューさせることです。
 ただ、それは独立したレビューになっているのでしょうか。そして、そもそも何が抜けているのでしょうか。
 この記事では、AI ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ef99b5791fe799a4ca66</id>
-    <title>eMudhra事件でWebアプリ開発者が点検すべきこと</title>
-    <link rel="alternate" href="https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-25T02:05:12+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/autotaker1984&quot;&gt;autotaker1984&lt;/a&gt;&lt;br/&gt;Published: 2026-10-25T01:45:38+09:00&lt;br/&gt;Updated: 2026-10-25T02:05:12+09:00&lt;br/&gt;2026年10月、認証局eMudhraの中間CA秘密鍵が極端に弱く、公開情報から復元できる問題が明らかになりました。復元した秘密鍵を用いて攻撃者が他人のドメインの証明書を偽造できるため、インターネットの信頼基盤が揺らぐ事件です。
-ただし、この事件を正しく理解することはなかな...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:16a6d2c5da7d144efe95</id>
@@ -1462,6 +1462,16 @@ Claude Code 2.1.251 でプロンプトキャッシュが数字で見えるよう
 ただ、Vimを使うたびに操作方法やコマンド...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:81e6a6737b2254bdc6ed</id>
+    <title>【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた</title>
+    <link rel="alternate" href="https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-23T16:54:48+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shahin0809&quot;&gt;shahin0809&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T15:50:22+09:00&lt;br/&gt;Updated: 2026-10-23T16:54:48+09:00&lt;br/&gt;はじめに
+常に VS Code / GitHub Copilot の動向を追っている、Microsoft Student Ambassador 兼 GitHub Copilot User Group Japan（Gh-CUG）運営のロホマン シャヒンです！
+
+この記事が...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4fbf6144f4cab3f00123</id>
     <title>その仕事、本当に「Skills」で再現できるのか考えてみる</title>
     <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/4fbf6144f4cab3f00123?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1489,16 +1499,6 @@ terraformで管理しているリソースが増えてきて、tfstateが肥大�
 本番環境で、マジックリンクでログインできないことがあるという報告を受けました。
 メールに届いたリンクを押すと「この認証リンクは使用済みまたは期限切れです」と表示され、ログインできないという内容です。
 利用者からは「メールのリンクを押すと一瞬 Cisco のリンク...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:81e6a6737b2254bdc6ed</id>
-    <title>【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた</title>
-    <link rel="alternate" href="https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-23T16:54:48+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shahin0809&quot;&gt;shahin0809&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T15:50:22+09:00&lt;br/&gt;Updated: 2026-10-23T16:54:48+09:00&lt;br/&gt;はじめに
-常に VS Code / GitHub Copilot の動向を追っている、Microsoft Student Ambassador 兼 GitHub Copilot User Group Japan（Gh-CUG）運営のロホマン シャヒンです！
-
-この記事が...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b9683ce90f4c26a6e7ae</id>
