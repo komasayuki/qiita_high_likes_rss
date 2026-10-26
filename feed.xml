@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-10-26T15:59:08+09:00</updated>
+  <updated>2026-10-27T00:35:46+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -204,6 +204,18 @@ Docker環境が重すぎて頭を抱えている人は多いのではないで�
 本記事はあくまで、初めてOJTを担当したり、複数名...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:7fac93e8a7ad6015b0b0</id>
+    <title>3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介</title>
+    <link rel="alternate" href="https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-27T00:35:46+09:00</updated>
+    <summary type="html">Likes: 87&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T18:11:47+09:00&lt;br/&gt;Updated: 2026-10-27T00:35:46+09:00&lt;br/&gt;Pyxel作者です。
+ちょっとした出来心で、3KBしか使えない、小さなゲームエンジンを作ってみました。
+
+名前は「Playload（プレイロード）」。
+GitHubにてオープンソースとして公開中です。ぜひスターで応援をよろしくお願いします。
+Playloadの基本仕様は以下...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4c6c12324e115a125621</id>
     <title>【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか</title>
     <link rel="alternate" href="https://qiita.com/shinkai_/items/4c6c12324e115a125621?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -226,23 +238,11 @@ Docker環境が重すぎて頭を抱えている人は多いのではないで�
 一方、私のようなジュニアエンジニアの場合、生成されたコードを理解するまでに時間がかかるため、 期待したほど開発全体は速く...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:7fac93e8a7ad6015b0b0</id>
-    <title>3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介</title>
-    <link rel="alternate" href="https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-26T15:59:08+09:00</updated>
-    <summary type="html">Likes: 83&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T18:11:47+09:00&lt;br/&gt;Updated: 2026-10-26T15:59:08+09:00&lt;br/&gt;Pyxel作者です。
-ちょっとした出来心で、3KBしか使えない、小さなゲームエンジンを作ってみました。
-
-名前は「Playload（プレイロード）」。
-GitHubにてオープンソースとして公開中です。ぜひスターで応援をよろしくお願いします。
-Playloadの基本仕様は以下...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:ef99b5791fe799a4ca66</id>
     <title>eMudhra事件でWebアプリ開発者が点検すべきこと</title>
     <link rel="alternate" href="https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-10-25T02:05:12+09:00</updated>
-    <summary type="html">Likes: 82&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/autotaker1984&quot;&gt;autotaker1984&lt;/a&gt;&lt;br/&gt;Published: 2026-10-25T01:45:38+09:00&lt;br/&gt;Updated: 2026-10-25T02:05:12+09:00&lt;br/&gt;2026年10月、認証局eMudhraの中間CA秘密鍵が極端に弱く、公開情報から復元できる問題が明らかになりました。復元した秘密鍵を用いて攻撃者が他人のドメインの証明書を偽造できるため、インターネットの信頼基盤が揺らぐ事件です。
+    <summary type="html">Likes: 83&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/autotaker1984&quot;&gt;autotaker1984&lt;/a&gt;&lt;br/&gt;Published: 2026-10-25T01:45:38+09:00&lt;br/&gt;Updated: 2026-10-25T02:05:12+09:00&lt;br/&gt;2026年10月、認証局eMudhraの中間CA秘密鍵が極端に弱く、公開情報から復元できる問題が明らかになりました。復元した秘密鍵を用いて攻撃者が他人のドメインの証明書を偽造できるため、インターネットの信頼基盤が揺らぐ事件です。
 ただし、この事件を正しく理解することはなかな...</summary>
   </entry>
   <entry>
@@ -1503,6 +1503,17 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
 一方、エンタープライズ用途で外部サービスを利用する場合、データ送信に伴う社内審査やセキュリティルールの確認が必要になりま...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3c1995d2a3f1695a18a7</id>
+    <title>【解説】クリーンアーキテクチャとは何か？ 炎上議論はなぜ起きるのか？</title>
+    <link rel="alternate" href="https://qiita.com/Sicut_study/items/3c1995d2a3f1695a18a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-25T22:58:38+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-10-25T22:54:38+09:00&lt;br/&gt;Updated: 2026-10-25T22:58:38+09:00&lt;br/&gt;はじめに
+こんにちは、Watanabe Jin(@Sicut_study)です。
+2026年8月末、クリーンアーキテクチャでコードが汚くなったというYouTube動画が投稿されました。
+公開から間もなく2.3万回再生され、コメント欄には議論が集まりました。
+Xでもそこか...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:aab621d31a8501617eb4</id>
     <title>「PHPなんて使ってるやつが悪い」と言っている輩が一番危ない</title>
     <link rel="alternate" href="https://qiita.com/kotowazaman/items/aab621d31a8501617eb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2043,15 +2054,5 @@ Oracle Private AI Services Containerは、こうしたニー...</summary>
 ChatGPTやClaudeに「1+1は？」と聞くと、当然のように「2」と返ってきます。
 このとき、LLMの内部では電卓のような四則演算が行われているのでしょうか。
 実は、Anthropic社の研究により、LLMは計算問題を電卓とはまったく違う方法で解いているこ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4231026d13f7527c0f69</id>
-    <title>AIの口癖を日本語記事で測ろうとして、3回とも失敗した</title>
-    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/4231026d13f7527c0f69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-29T19:54:44+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-29T19:54:43+09:00&lt;br/&gt;Updated: 2026-08-29T19:54:44+09:00&lt;br/&gt;AI が書いた文章には、特徴的な語彙がある。 そういう分析が Hacker News で 663 ポイントを集めていました。
-面白かったので、自分の Qiita 記事30本で同じことをやろうとしました。
-3回とも失敗しました。 この記事は、その記録です。
-「日本語でも同じ手...</summary>
   </entry>
 </feed>
