@@ -97,18 +97,6 @@
       "last_seen": "2026-10-09T02:02:12.736743400+00:00"
     },
     {
-      "key": "0788ebd25ea6400df81e",
-      "item_id": "0788ebd25ea6400df81e",
-      "title": "「両方にAPIがあれば繋がる」は本当か調べてみた｜純正連携・iPaaS とデータ変換の話",
-      "link": "https://qiita.com/songchong/items/0788ebd25ea6400df81e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "「うちのシステムにもAPIがあります。相手にもAPIがあります。だから繋がりますよね？」\n繋がりません、とまでは言いませんが、その2つが揃っただけでは足りません。\n理由は2つあります。1つは間に変換が要ること。もう1つは、そもそも変換もAPIも要らない道が用意されていること...",
-      "published": "2026-08-26T00:02:21+09:00",
-      "updated": "2026-08-26T00:02:21+09:00",
-      "author_name": "songchong",
-      "likes_count": 10,
-      "last_seen": "2026-08-26T23:23:07.154619853+00:00"
-    },
-    {
       "key": "08e3bd535dbc79e0c738",
       "item_id": "08e3bd535dbc79e0c738",
       "title": "Claude Code のスキルを47本運用して測った、7つのこと",
@@ -499,10 +487,10 @@
       "link": "https://qiita.com/songchong/items/235bed0f8c72f268477e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "我々が運営する IT連携マップの技術ガイド（プロンプトキャッシュとは など）では、「前のやり取りと先頭が同じ部分はキャッシュから読まれ、料金が大きく下がる」という仕組みを解説してきました。プロンプトキャッシュは、AI エージェントと AI サービス側（Anthropic ...",
       "published": "2026-10-26T04:00:21+09:00",
-      "updated": "2026-10-26T04:00:21+09:00",
+      "updated": "2026-10-26T08:07:34+09:00",
       "author_name": "songchong",
       "likes_count": 13,
-      "last_seen": "2026-10-25T21:40:36.905331848+00:00"
+      "last_seen": "2026-10-26T00:10:04.566677584+00:00"
     },
     {
       "key": "24ee07122dd4d0523069",
@@ -637,18 +625,6 @@
       "last_seen": "2026-10-24T18:04:12.428821422+00:00"
     },
     {
-      "key": "311622a5fc6ab82dbfcb",
-      "item_id": "311622a5fc6ab82dbfcb",
-      "title": "量子耐性の鍵は「暗号を選び直せること」〜Account Abstractionの役割と運用設計〜",
-      "link": "https://qiita.com/can-can/items/311622a5fc6ab82dbfcb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n2026年8月時点、量子コンピュータ対策はブロックチェーン領域では将来的な課題ではなく、具体的なプロトコル設計段階に入っています。Ethereum Foundationは2026年1月にPost-Quantum Security専任チームを設立し、Bitcoin...",
-      "published": "2026-08-26T10:38:16+09:00",
-      "updated": "2026-08-26T10:38:16+09:00",
-      "author_name": "can-can",
-      "likes_count": 16,
-      "last_seen": "2026-08-26T23:23:07.154619853+00:00"
-    },
-    {
       "key": "31b98cf32c1db2d561d7",
       "item_id": "31b98cf32c1db2d561d7",
       "title": "コード検索で使える正規表現の基本メタ文字まとめ",
@@ -695,18 +671,6 @@
       "author_name": "megmogmog1965",
       "likes_count": 13,
       "last_seen": "2026-09-16T05:55:32.278200003+00:00"
-    },
-    {
-      "key": "3380b85d0b52ea01f449",
-      "item_id": "3380b85d0b52ea01f449",
-      "title": "※この記事は人の手で書かれています",
-      "link": "https://qiita.com/kyuko/items/3380b85d0b52ea01f449?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "こんにちは！ひさふるです。\n最近、QiitaでもAIを使って書かれた記事が増えてきましたね。\nAIで記事を効率的に書くこと自体も素晴らしいのですが、私としては、特に新卒で会社に入られた方などには「ぜひ自分の手で記事を書いてもらいたい！」と想うことも多く...\n今回は、そんな...",
-      "published": "2026-08-24T12:14:53+09:00",
-      "updated": "2026-08-24T12:14:53+09:00",
-      "author_name": "kyuko",
-      "likes_count": 64,
-      "last_seen": "2026-08-26T23:23:07.154619853+00:00"
     },
     {
       "key": "351a939e2e1b673c2929",
@@ -1489,18 +1453,6 @@
       "last_seen": "2026-10-06T02:54:19.078336771+00:00"
     },
     {
-      "key": "5f21adcca8aff1b0357a",
-      "item_id": "5f21adcca8aff1b0357a",
-      "title": "元ヤフーエンジニア社長が考える、AI時代のエンジニアに必要な3つのスキル",
-      "link": "https://qiita.com/ryoheiiwamoto/items/5f21adcca8aff1b0357a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "AIを使いこなす力だけでは、生き残れない\n\nこんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。\nhttps://prum.jp/\n「AIを使いこなせれば、この先も食っていける」と思っている人、結構多いと思います。\nでも僕は、それだけでは足りな...",
-      "published": "2026-08-24T16:31:36+09:00",
-      "updated": "2026-08-24T16:31:36+09:00",
-      "author_name": "ryoheiiwamoto",
-      "likes_count": 88,
-      "last_seen": "2026-08-26T23:23:07.154619853+00:00"
-    },
-    {
       "key": "5f594cf3d150f17f8bbd",
       "item_id": "5f594cf3d150f17f8bbd",
       "title": ":has()で不要になったJavaScript 10選",
@@ -2061,8 +2013,8 @@
       "published": "2026-10-23T18:11:47+09:00",
       "updated": "2026-10-23T18:22:07+09:00",
       "author_name": "kitao",
-      "likes_count": 54,
-      "last_seen": "2026-10-25T21:40:36.905331848+00:00"
+      "likes_count": 59,
+      "last_seen": "2026-10-26T00:10:04.566677584+00:00"
     },
     {
       "key": "7ff4596a3a7707890a05",
@@ -2109,8 +2061,8 @@
       "published": "2026-10-23T15:50:22+09:00",
       "updated": "2026-10-23T16:54:48+09:00",
       "author_name": "shahin0809",
-      "likes_count": 29,
-      "last_seen": "2026-10-25T21:40:36.905331848+00:00"
+      "likes_count": 30,
+      "last_seen": "2026-10-26T00:10:04.566677584+00:00"
     },
     {
       "key": "83349e8b4cdf07b97cd1",
@@ -2447,18 +2399,6 @@
       "author_name": "songchong",
       "likes_count": 17,
       "last_seen": "2026-09-28T15:19:41.791193799+00:00"
-    },
-    {
-      "key": "92a59e7a464fac9731da",
-      "item_id": "92a59e7a464fac9731da",
-      "title": "AIの思考ログは、暗号化されているから安全ではなかった",
-      "link": "https://qiita.com/jqit_suwa/items/92a59e7a464fac9731da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "手元の Claude Code のログを数えたら、読めない文字列が 19.6 MB 積まれていました。\nthinking ブロック : 5,419 件（全件に signature つき）\nsignature の合計  : 19.6 MB\n最大の1ブロック   : 318,4...",
-      "published": "2026-08-26T08:52:06+09:00",
-      "updated": "2026-08-26T08:52:06+09:00",
-      "author_name": "jqit_suwa",
-      "likes_count": 17,
-      "last_seen": "2026-08-26T23:23:07.154619853+00:00"
     },
     {
       "key": "92c094b554d090b54a17",
@@ -2927,18 +2867,6 @@
       "author_name": "kotowazaman",
       "likes_count": 25,
       "last_seen": "2026-10-24T18:04:12.428821422+00:00"
-    },
-    {
-      "key": "aba1d118446e00cef5ae",
-      "item_id": "aba1d118446e00cef5ae",
-      "title": "【2026年8月調査】「APIあります」の実態を調べてみた｜日本の業務システム56件を2軸（公開度 × 契約条件）で分類した",
-      "link": "https://qiita.com/songchong/items/aba1d118446e00cef5ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "公式サイトに「API連携に対応」と書いてあった。だから大丈夫だと思って稟議を通したら、実際には上位プランの契約が必要だった——という話を、何度か聞きました。\n「API連携できます」という一文は、実は何通りにも読めます。日本の業務システム56件を、公開度（誰に開かれているのか...",
-      "published": "2026-08-25T00:21:33+09:00",
-      "updated": "2026-08-25T11:11:22+09:00",
-      "author_name": "songchong",
-      "likes_count": 16,
-      "last_seen": "2026-08-26T23:23:07.154619853+00:00"
     },
     {
       "key": "ac268db56f92b991970b",
@@ -3429,8 +3357,8 @@
       "published": "2026-10-23T09:11:28+09:00",
       "updated": "2026-10-23T09:11:29+09:00",
       "author_name": "Takashi_Masumori",
-      "likes_count": 22,
-      "last_seen": "2026-10-25T21:40:36.905331848+00:00"
+      "likes_count": 23,
+      "last_seen": "2026-10-26T00:10:04.566677584+00:00"
     },
     {
       "key": "c78381bfe83e93e75893",
@@ -3661,18 +3589,6 @@
       "last_seen": "2026-08-31T05:22:54.299412253+00:00"
     },
     {
-      "key": "d4f6eba82ea6df36f8c3",
-      "item_id": "d4f6eba82ea6df36f8c3",
-      "title": "候補者のコードがAI製か見抜けなくなったので、「AI禁止」のコーディングテストをやめたい",
-      "link": "https://qiita.com/kskg4/items/d4f6eba82ea6df36f8c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n最近、自社のエンジニア採用で、技術面接に関わらせてもらえることになった。\nFlutterエンジニアとして現場で開発してきた自分が、初めて「選ぶ側」に回る。\n選考フローについて部長やチームリーダーと話していたとき、コーディングテストを巡って、こんな議論になった。\n...",
-      "published": "2026-08-24T09:56:34+09:00",
-      "updated": "2026-08-25T20:28:07+09:00",
-      "author_name": "kskg4",
-      "likes_count": 15,
-      "last_seen": "2026-08-26T23:23:07.154619853+00:00"
-    },
-    {
       "key": "d52a567f7450b5539665",
       "item_id": "d52a567f7450b5539665",
       "title": "MCPサーバーとは？ 仕組みの基本と、Firestore を AIエージェントから調べられるようにした話",
@@ -3793,18 +3709,6 @@
       "last_seen": "2026-09-13T05:59:53.141995725+00:00"
     },
     {
-      "key": "de8732a3d1ebc441af10",
-      "item_id": "de8732a3d1ebc441af10",
-      "title": "Oracle AI Database Private Agent Factory 26.4 を 26.7 へ Upgrade してみてみた",
-      "link": "https://qiita.com/shirok/items/de8732a3d1ebc441af10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Oracle AI Database Private Agent Factory（PAF）26.7 がリリースされました。\n\nリリース 26.7 の主な新機能\n\nエージェント間（A2A）コラボレーション：承認済みの外部エージェントをエージェント・ビルダーのワークフローに...",
-      "published": "2026-08-25T06:20:13+09:00",
-      "updated": "2026-08-25T19:50:47+09:00",
-      "author_name": "shirok",
-      "likes_count": 20,
-      "last_seen": "2026-08-26T23:23:07.154619853+00:00"
-    },
-    {
       "key": "dec5350f38c748cb5b6e",
       "item_id": "dec5350f38c748cb5b6e",
       "title": "「効率よく成長したい」は悪くない。でも、近道ばかり探してしまうと損をする。",
@@ -3887,18 +3791,6 @@
       "author_name": "tks_1128",
       "likes_count": 108,
       "last_seen": "2026-10-22T19:12:03.710925383+00:00"
-    },
-    {
-      "key": "e5065bd0e6daaf38ac62",
-      "item_id": "e5065bd0e6daaf38ac62",
-      "title": "「これで進めますね」と自分から言ってしまうと、後で仕様がひっくり返る",
-      "link": "https://qiita.com/sumomoo/items/e5065bd0e6daaf38ac62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや\n考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\n「これで進...",
-      "published": "2026-08-24T16:16:23+09:00",
-      "updated": "2026-08-24T16:16:23+09:00",
-      "author_name": "sumomoo",
-      "likes_count": 44,
-      "last_seen": "2026-08-26T23:23:07.154619853+00:00"
     },
     {
       "key": "e5d9ce6618523af1ffc5",
@@ -4065,8 +3957,8 @@
       "published": "2026-10-25T01:45:38+09:00",
       "updated": "2026-10-25T02:05:12+09:00",
       "author_name": "autotaker1984",
-      "likes_count": 40,
-      "last_seen": "2026-10-25T21:40:36.905331848+00:00"
+      "likes_count": 45,
+      "last_seen": "2026-10-26T00:10:04.566677584+00:00"
     },
     {
       "key": "efc0e2b10bb1aa0a3792",
