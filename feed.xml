@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-10-27T00:35:46+09:00</updated>
+  <updated>2026-10-27T16:46:23+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -181,6 +181,14 @@ Docker環境が重すぎて頭を抱えている人は多いのではないで�
 この記事では...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ef99b5791fe799a4ca66</id>
+    <title>eMudhra事件でWebアプリ開発者が点検すべきこと</title>
+    <link rel="alternate" href="https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-25T02:05:12+09:00</updated>
+    <summary type="html">Likes: 98&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/autotaker1984&quot;&gt;autotaker1984&lt;/a&gt;&lt;br/&gt;Published: 2026-10-25T01:45:38+09:00&lt;br/&gt;Updated: 2026-10-25T02:05:12+09:00&lt;br/&gt;2026年10月、認証局eMudhraの中間CA秘密鍵が極端に弱く、公開情報から復元できる問題が明らかになりました。復元した秘密鍵を用いて攻撃者が他人のドメインの証明書を偽造できるため、インターネットの信頼基盤が揺らぐ事件です。
+ただし、この事件を正しく理解することはなかな...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ed4c760f616cf3c0a958</id>
     <title>みのるん式 登壇資料の作成ノウハウをスキルとして公開しました！</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/ed4c760f616cf3c0a958?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -191,14 +199,6 @@ Docker環境が重すぎて頭を抱えている人は多いのではないで�
 こんな感じのスライドができます。
 
 何が入...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ef99b5791fe799a4ca66</id>
-    <title>eMudhra事件でWebアプリ開発者が点検すべきこと</title>
-    <link rel="alternate" href="https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-25T02:05:12+09:00</updated>
-    <summary type="html">Likes: 95&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/autotaker1984&quot;&gt;autotaker1984&lt;/a&gt;&lt;br/&gt;Published: 2026-10-25T01:45:38+09:00&lt;br/&gt;Updated: 2026-10-25T02:05:12+09:00&lt;br/&gt;2026年10月、認証局eMudhraの中間CA秘密鍵が極端に弱く、公開情報から復元できる問題が明らかになりました。復元した秘密鍵を用いて攻撃者が他人のドメインの証明書を偽造できるため、インターネットの信頼基盤が揺らぐ事件です。
-ただし、この事件を正しく理解することはなかな...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:44664e57e2738614fccf</id>
@@ -523,6 +523,19 @@ Fixed /update-config writing Write(path) permission rules, which file permission
     <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nuco_d&quot;&gt;nuco_d&lt;/a&gt;&lt;br/&gt;Published: 2026-10-14T11:48:28+09:00&lt;br/&gt;Updated: 2026-10-14T11:48:28+09:00&lt;br/&gt;はじめに
 本記事では、Gemini 4 Argon、GPT-6.1 Sol、Claude Opus 5.5、Claude Sonnet 5.5 の4モデルを、スペック・公式ベンチマーク・料金の3つの観点で比較します。
 記載している数値は、すべて2026年10月13日時点の...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:a13a3fc940c2cd384063</id>
+    <title>エンジニア歴数か月の私「理論上、理解できない物事はない」</title>
+    <link rel="alternate" href="https://qiita.com/Minotaurasu/items/a13a3fc940c2cd384063?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-27T16:46:23+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Minotaurasu&quot;&gt;Minotaurasu&lt;/a&gt;&lt;br/&gt;Published: 2026-10-26T10:50:31+09:00&lt;br/&gt;Updated: 2026-10-27T16:46:23+09:00&lt;br/&gt;そろそろ研修期間に終わりが見えてきた、エンジニア歴数か月の私。
+まだ広い世界を知らない私が、改めて大事にしたいと思ったマインドについて書きます。
+
+この記事の目的は「知的な成長」ではなく「ドーパミンの摂取」です。
+
+ 難しい物事を理解するとドパれるんだよと言いたい。
+...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b5805321eaef46b75459</id>
@@ -1049,29 +1062,6 @@ hoge();
 会社で自称マスコットキャラをやっ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a0fa9752528e2b3def71</id>
-    <title>AIにテストを書かせると、決まって同じ場所が抜ける</title>
-    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/a0fa9752528e2b3def71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-25T11:15:48+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-25T11:15:47+09:00&lt;br/&gt;Updated: 2026-08-25T11:15:48+09:00&lt;br/&gt;AI にテストを書かせると、AI は「問題ありません」と言います。
-そこで多くの人が次にやることは決まっています。別の AI にレビューさせることです。
-ただ、それは独立したレビューになっているのでしょうか。そして、そもそも何が抜けているのでしょうか。
-この記事では、AI ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a13a3fc940c2cd384063</id>
-    <title>エンジニア歴数か月の私「理論上、理解できない物事はない」</title>
-    <link rel="alternate" href="https://qiita.com/Minotaurasu/items/a13a3fc940c2cd384063?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-26T10:50:32+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Minotaurasu&quot;&gt;Minotaurasu&lt;/a&gt;&lt;br/&gt;Published: 2026-10-26T10:50:31+09:00&lt;br/&gt;Updated: 2026-10-26T10:50:32+09:00&lt;br/&gt;そろそろ研修期間に終わりが見えてきた、エンジニア歴数か月の私。
-まだ広い世界を知らない私が、改めて大事にしたいと思ったマインドについて書きます。
-
-この記事の目的は「知的な成長」ではなく「ドーパミンの摂取」です。
-
- 難しい物事を理解するとドパれるんだよと言いたい。
-...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:81e6a6737b2254bdc6ed</id>
     <title>【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた</title>
     <link rel="alternate" href="https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1132,6 +1122,17 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 ▶コーポレートサイト
 
 「AIに全...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3c1995d2a3f1695a18a7</id>
+    <title>【解説】クリーンアーキテクチャとは何か？ 炎上議論はなぜ起きるのか？</title>
+    <link rel="alternate" href="https://qiita.com/Sicut_study/items/3c1995d2a3f1695a18a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-25T22:58:38+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-10-25T22:54:38+09:00&lt;br/&gt;Updated: 2026-10-25T22:58:38+09:00&lt;br/&gt;はじめに
+こんにちは、Watanabe Jin(@Sicut_study)です。
+2026年8月末、クリーンアーキテクチャでコードが汚くなったというYouTube動画が投稿されました。
+公開から間もなく2.3万回再生され、コメント欄には議論が集まりました。
+Xでもそこか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6577a57b9b62c8f97e11</id>
@@ -1221,16 +1222,6 @@ ECS・Lambda・RDSなどの言葉を聞いたことはあるが、なぜそれ�
 会社で自称マスコットキャラをやってるのに、社内...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:76f8a1df75eb399ce58b</id>
-    <title>スクール卒業＝即戦力じゃない。でも「自走力」があれば、うちは全然いける。</title>
-    <link rel="alternate" href="https://qiita.com/m__ikeda/items/76f8a1df75eb399ce58b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-26T17:12:50+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T17:12:50+09:00&lt;br/&gt;Updated: 2026-08-26T17:12:50+09:00&lt;br/&gt;自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:f0ed9ec5cff12106978e</id>
     <title>怠惰の化身が資格取得するための勉強の習慣を身につけるまで</title>
     <link rel="alternate" href="https://qiita.com/giganticsaki_A/items/f0ed9ec5cff12106978e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1261,16 +1252,6 @@ ECS・Lambda・RDSなどの言葉を聞いたことはあるが、なぜそれ�
 簡単...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5da484e533d0d574045d</id>
-    <title>プロも毎日ググっている。エラーで固まらないための「検索力」の話</title>
-    <link rel="alternate" href="https://qiita.com/m__ikeda/items/5da484e533d0d574045d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-25T17:08:11+09:00</updated>
-    <summary type="html">Likes: 33&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-25T17:08:11+09:00&lt;br/&gt;Updated: 2026-08-25T17:08:11+09:00&lt;br/&gt;自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:001b49e080f580aea96b</id>
     <title>新人エンジニア、先輩ごとに言う内容が違って「何が正解かわからない」</title>
     <link rel="alternate" href="https://qiita.com/prumnn/items/001b49e080f580aea96b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1280,17 +1261,6 @@ ECS・Lambda・RDSなどの言葉を聞いたことはあるが、なぜそれ�
 プラ二郎先輩に言われた通りに書いたコードを、別の先輩に「それは違うよ」と言われて混乱していたぷらむんが気づいたのは、どちらかが間違っているわけではなかったということでした。
 
 会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3c1995d2a3f1695a18a7</id>
-    <title>【解説】クリーンアーキテクチャとは何か？ 炎上議論はなぜ起きるのか？</title>
-    <link rel="alternate" href="https://qiita.com/Sicut_study/items/3c1995d2a3f1695a18a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-25T22:58:38+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-10-25T22:54:38+09:00&lt;br/&gt;Updated: 2026-10-25T22:58:38+09:00&lt;br/&gt;はじめに
-こんにちは、Watanabe Jin(@Sicut_study)です。
-2026年8月末、クリーンアーキテクチャでコードが汚くなったというYouTube動画が投稿されました。
-公開から間もなく2.3万回再生され、コメント欄には議論が集まりました。
-Xでもそこか...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:351a939e2e1b673c2929</id>
@@ -1623,6 +1593,16 @@ Honoってあるじゃないですか。TypeScriptのWebフレームワークで
 Microsoft 365 Copilot（有料アドオンライセ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:987c0ea8afdb5cd045e8</id>
+    <title>記憶に頼るな。Claudeセッションの記録を取ろう</title>
+    <link rel="alternate" href="https://qiita.com/qwertyhoge/items/987c0ea8afdb5cd045e8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-27T11:19:51+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/qwertyhoge&quot;&gt;qwertyhoge&lt;/a&gt;&lt;br/&gt;Published: 2026-10-26T19:51:04+09:00&lt;br/&gt;Updated: 2026-10-27T11:19:51+09:00&lt;br/&gt;1. AIをどう使ったか、覚えていますか？
+普段、Claude CodeなどのコーディングAIを使って開発をしている皆さんに質問です。
+「自分が適切にコーディングAIを使えているかどうか、事例を挙げて具体的に説明することができますか？」
+私の場合、提出する人事評価の材料と...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:aaa257c199fd094ae31e</id>
     <title>終わってるエンジニアの転職履歴〜その後1年経ってどうなったか〜</title>
     <link rel="alternate" href="https://qiita.com/bridgebook1125/items/aaa257c199fd094ae31e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1805,6 +1785,14 @@ OS だけの環境に移して、AI が「これが要る」と書いた依存�
 
 はじめに
 AWSの勉強をするとき、テキストを読んだり問題を解いたりするだけだと、...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:59783841e48f5467594f</id>
+    <title>目指せClaude全冠！4つの試験を全部受けたので攻略法を紹介します</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/59783841e48f5467594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-27T10:16:41+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-10-27T10:03:56+09:00&lt;br/&gt;Updated: 2026-10-27T10:16:41+09:00&lt;br/&gt;こんにちは、Claude Codeです。著者のみのるんが忙しそうだったので、代わりにこの記事を書いています。
+Claude認定（Claude Certified）はAnthropicの公式資格で、Claude Partner Networkに加盟している企業の人が受験できま...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:534ca5aadd59bfd1f6b3</id>
@@ -2057,5 +2045,15 @@ Oracle Private AI Services Containerは、こうしたニー...</summary>
     <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/_shin_&quot;&gt;_shin_&lt;/a&gt;&lt;br/&gt;Published: 2026-08-29T22:22:25+09:00&lt;br/&gt;Updated: 2026-08-31T23:00:35+09:00&lt;br/&gt;はじめに
 最近、ESP32を使った電子工作にハマったので、いくつかガラクタを作ってみた経験をもとに、ESP32を使ったおおまかな電子工作のやり方を紹介しようと思う。
 今回は回路設計/基板設計に絞った内容だが、その後の環境構築、実機動作に関する内容は以下に後編としてまとめた...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:7650fe71fa0bca85a727</id>
+    <title>LLMが「1+1」を計算するとき、中で何が起きているのか</title>
+    <link rel="alternate" href="https://qiita.com/nolanlover0527/items/7650fe71fa0bca85a727?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-31T09:18:12+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nolanlover0527&quot;&gt;nolanlover0527&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T09:18:12+09:00&lt;br/&gt;Updated: 2026-08-31T09:18:12+09:00&lt;br/&gt;はじめに
+ChatGPTやClaudeに「1+1は？」と聞くと、当然のように「2」と返ってきます。
+このとき、LLMの内部では電卓のような四則演算が行われているのでしょうか。
+実は、Anthropic社の研究により、LLMは計算問題を電卓とはまったく違う方法で解いているこ...</summary>
   </entry>
 </feed>
