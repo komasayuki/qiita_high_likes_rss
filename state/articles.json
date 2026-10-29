@@ -129,8 +129,8 @@
       "published": "2026-10-28T23:53:27+09:00",
       "updated": "2026-10-28T23:53:27+09:00",
       "author_name": "jinxin4869",
-      "likes_count": 25,
-      "last_seen": "2026-10-29T14:08:47.612019928+00:00"
+      "likes_count": 27,
+      "last_seen": "2026-10-29T20:12:55.741556190+00:00"
     },
     {
       "key": "0f7d52531f4370484101",
@@ -233,12 +233,12 @@
       "item_id": "147bf8e5fdb1b04f6d54",
       "title": "研修中の僕がSlackに海外のIT情報を運ぶbotを作ったら、だいたい何が起きたか",
       "link": "https://qiita.com/EricYu/items/147bf8e5fdb1b04f6d54?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n僕がその会社に入って、二ヶ月が経とうとしていた。まだ研修中の身で、言ってみれば水槽に放り込まれたばかりの魚のようなものだ。泳ぎ方はわかっているが、どこに餌があるのかはまだわからない。\n社内のSlackには rss-qiita-zenn というボットがいた。おかげ...",
+      "summary": "海外のIT情報を日本語要約つきでSlackに流すbotを、研修中に作って二ヶ月運用した。使ったのはTypeScript、GitHub Actions、Claude Haiku（Bedrock）で、月百円未満で動いている。この記事は、その構成の紹介が半分、「動くけれど読まれな...",
       "published": "2026-10-28T11:44:24+09:00",
       "updated": "2026-10-29T19:08:54+09:00",
       "author_name": "EricYu",
-      "likes_count": 10,
-      "last_seen": "2026-10-29T14:08:47.612019928+00:00"
+      "likes_count": 11,
+      "last_seen": "2026-10-29T20:12:55.741556190+00:00"
     },
     {
       "key": "14b41ca99c3ae857f2d0",
@@ -286,7 +286,7 @@
       "updated": "2026-10-29T10:10:25+09:00",
       "author_name": "kuma_3838",
       "likes_count": 23,
-      "last_seen": "2026-10-29T14:08:47.612019928+00:00"
+      "last_seen": "2026-10-29T20:12:55.741556190+00:00"
     },
     {
       "key": "184e06cd9744f94d4f3e",
@@ -1069,18 +1069,6 @@
       "last_seen": "2026-09-01T18:24:11.462857526+00:00"
     },
     {
-      "key": "4a70f0bee16d5d690a73",
-      "item_id": "4a70f0bee16d5d690a73",
-      "title": "10年分ぐらいのQiitaの自分の投稿を蒸留したら、自分っぽい記事を書いてくれるようになったww",
-      "link": "https://qiita.com/moritalous/items/4a70f0bee16d5d690a73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "この投稿は、100%人間が書いています。\n\nさっき公開したこの記事、実は100%生成AI製です。\n（内容は実際に検証した結果なので、合ってると思います。）\n\nただ、文体とか流れは、自分っぽい😁\n\nやり方（というか実施したプロンプト）です\n\nプロンプト\nまずは...",
-      "published": "2026-08-27T22:01:16+09:00",
-      "updated": "2026-08-27T22:01:16+09:00",
-      "author_name": "moritalous",
-      "likes_count": 47,
-      "last_seen": "2026-08-30T17:22:31.782555720+00:00"
-    },
-    {
       "key": "4bf77973ab94453a2699",
       "item_id": "4bf77973ab94453a2699",
       "title": "【JavaScript】Promise.resolveはPromiseでないオブジェクトもresolveするしそのせいで脆弱性がたくさんある",
@@ -1161,8 +1149,8 @@
       "published": "2026-10-27T19:06:53+09:00",
       "updated": "2026-10-29T12:22:54+09:00",
       "author_name": "inoyu-qiita",
-      "likes_count": 23,
-      "last_seen": "2026-10-29T14:08:47.612019928+00:00"
+      "likes_count": 25,
+      "last_seen": "2026-10-29T20:12:55.741556190+00:00"
     },
     {
       "key": "50d638e7a3c2d76e0531",
@@ -1353,8 +1341,8 @@
       "published": "2026-10-27T10:03:56+09:00",
       "updated": "2026-10-27T10:16:41+09:00",
       "author_name": "minorun365",
-      "likes_count": 89,
-      "last_seen": "2026-10-29T14:08:47.612019928+00:00"
+      "likes_count": 94,
+      "last_seen": "2026-10-29T20:12:55.741556190+00:00"
     },
     {
       "key": "599e317de305d18c41a1",
@@ -1801,18 +1789,6 @@
       "last_seen": "2026-10-01T05:40:55.248883995+00:00"
     },
     {
-      "key": "728b20d34d36275c0a33",
-      "item_id": "728b20d34d36275c0a33",
-      "title": "Cloudflare Workersに「一時アカウント」機能が来たので、ログインなしでデプロイして、ついでにミニゲームも作ってみた",
-      "link": "https://qiita.com/moritalous/items/728b20d34d36275c0a33?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Cloudflareのブログで、AIエージェント向けの新機能「Temporary Accounts」が発表されました。\n\n事前のアカウント登録もOAuthもMFAもAPIトークンのコピペも無し、wrangler deploy --temporary一発でWorkerをデ...",
-      "published": "2026-08-27T20:41:06+09:00",
-      "updated": "2026-08-27T22:02:52+09:00",
-      "author_name": "moritalous",
-      "likes_count": 14,
-      "last_seen": "2026-08-30T17:22:31.782555720+00:00"
-    },
-    {
       "key": "7306e0b1a9207e08d86e",
       "item_id": "7306e0b1a9207e08d86e",
       "title": "生成AI を使ったら著作権侵害になる？ — 4 大リスクと対策を LLM のメカニズム・法務・補償条項から整理してみた",
@@ -2062,7 +2038,7 @@
       "updated": "2026-10-27T23:30:49+09:00",
       "author_name": "minorun365",
       "likes_count": 22,
-      "last_seen": "2026-10-29T14:08:47.612019928+00:00"
+      "last_seen": "2026-10-29T20:12:55.741556190+00:00"
     },
     {
       "key": "8675266928f574677d9e",
@@ -2447,18 +2423,6 @@
       "author_name": "kanryu",
       "likes_count": 191,
       "last_seen": "2026-09-12T05:39:54.073583710+00:00"
-    },
-    {
-      "key": "95c018954c2b0cc9ebd8",
-      "item_id": "95c018954c2b0cc9ebd8",
-      "title": "マルチタスクをやめたら、完了までの体感時間が変わった",
-      "link": "https://qiita.com/sumomoo/items/95c018954c2b0cc9ebd8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや\n考え方を整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶コーポレートサイト\n\n複数の実装...",
-      "published": "2026-08-27T18:02:05+09:00",
-      "updated": "2026-08-27T18:02:05+09:00",
-      "author_name": "sumomoo",
-      "likes_count": 38,
-      "last_seen": "2026-08-30T17:22:31.782555720+00:00"
     },
     {
       "key": "9746c5c262f994c1548c",
@@ -3085,6 +3049,18 @@
       "last_seen": "2026-10-11T01:48:14.909101580+00:00"
     },
     {
+      "key": "b8bca096170d087e271d",
+      "item_id": "b8bca096170d087e271d",
+      "title": "AIはどれくらい動画編集ができるのか!? Claude CodeでYouTube動画編集した話",
+      "link": "https://qiita.com/tsukasa_japan/items/b8bca096170d087e271d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nこんにちは！株式会社Sapeetでアルゴリズムエンジニアとして働いている堀ノ内です。\nこれまでSapeetではClaude DesignをテーマにYouTube Liveを行ったりしてきましたが、もっと世の中にSapeetのことを知ってもらいたい！という想いから...",
+      "published": "2026-10-29T17:11:44+09:00",
+      "updated": "2026-10-29T17:11:45+09:00",
+      "author_name": "tsukasa_japan",
+      "likes_count": 10,
+      "last_seen": "2026-10-29T20:12:55.741556190+00:00"
+    },
+    {
       "key": "b96813bc8a482b3d0074",
       "item_id": "b96813bc8a482b3d0074",
       "title": "面接で「前職への不満」を聞かれたら。無理にきれいな退職理由をつくらなくても大丈夫です",
@@ -3394,7 +3370,7 @@
       "updated": "2026-10-28T17:17:50+09:00",
       "author_name": "saematsu",
       "likes_count": 11,
-      "last_seen": "2026-10-29T14:08:47.612019928+00:00"
+      "last_seen": "2026-10-29T20:12:55.741556190+00:00"
     },
     {
       "key": "cbd1d7bb724676a3b686",
@@ -4091,18 +4067,6 @@
       "author_name": "softbase",
       "likes_count": 14,
       "last_seen": "2026-10-27T16:27:16.888620654+00:00"
-    },
-    {
-      "key": "fc7f964572190fb8a77a",
-      "item_id": "fc7f964572190fb8a77a",
-      "title": "環境変数でサブエージェントのモデルを固定できなくなった",
-      "link": "https://qiita.com/jqit_suwa/items/fc7f964572190fb8a77a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "CLAUDE_CODE_SUBAGENT_MODEL は、サブエージェントのモデルを指定する環境変数です。\nこれまでは全部を上書きしていました。 Claude Code 2.1.251 で、エージェント定義側が勝つように変わりました。\n手元で4通り試したら、はっきり分かれま...",
-      "published": "2026-08-29T19:54:28+09:00",
-      "updated": "2026-08-29T19:54:28+09:00",
-      "author_name": "jqit_suwa",
-      "likes_count": 15,
-      "last_seen": "2026-08-30T17:22:31.782555720+00:00"
     },
     {
       "key": "fc957950ba9fd21c1d1b",
