@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-10-29T12:22:54+09:00</updated>
+  <updated>2026-10-30T10:25:24+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -175,6 +175,14 @@ Docker環境が重すぎて頭を抱えている人は多いのではないで�
 今回は、ローカルのDocker環境（Windows）を軽量化するための方法について、実際に...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:59783841e48f5467594f</id>
+    <title>目指せClaude全冠！4つの試験を全部受けたので攻略法を紹介します</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/59783841e48f5467594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-27T10:16:41+09:00</updated>
+    <summary type="html">Likes: 104&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-10-27T10:03:56+09:00&lt;br/&gt;Updated: 2026-10-27T10:16:41+09:00&lt;br/&gt;こんにちは、Claude Codeです。著者のみのるんが忙しそうだったので、代わりにこの記事を書いています。
+Claude認定（Claude Certified）はAnthropicの公式資格で、Claude Partner Networkに加盟している企業の人が受験できま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f1a15a199d9f91fe6080</id>
     <title>文章で要件定義するのをやめた。AIでモックを先に作ったら、認識ズレが実装前に全部見つかった</title>
     <link rel="alternate" href="https://qiita.com/kazuki_ogawa/items/f1a15a199d9f91fe6080?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -200,14 +208,6 @@ Docker環境が重すぎて頭を抱えている人は多いのではないで�
     <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yama3133&quot;&gt;yama3133&lt;/a&gt;&lt;br/&gt;Published: 2026-10-06T14:19:43+09:00&lt;br/&gt;Updated: 2026-10-06T14:19:43+09:00&lt;br/&gt;はじめに
 2026年に入って、国内外で大きな情報漏洩が続いています。特に6月から10月初旬には、タイムズカー(約660万アカウント)、焼肉きんぐ(約1,079万件)、アフラック生命(約440万人)、デンマークの住民登録簿(約880万人)などが公表されました。
 この記事では...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:59783841e48f5467594f</id>
-    <title>目指せClaude全冠！4つの試験を全部受けたので攻略法を紹介します</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/59783841e48f5467594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-27T10:16:41+09:00</updated>
-    <summary type="html">Likes: 97&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-10-27T10:03:56+09:00&lt;br/&gt;Updated: 2026-10-27T10:16:41+09:00&lt;br/&gt;こんにちは、Claude Codeです。著者のみのるんが忙しそうだったので、代わりにこの記事を書いています。
-Claude認定（Claude Certified）はAnthropicの公式資格で、Claude Partner Networkに加盟している企業の人が受験できま...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ed4c760f616cf3c0a958</id>
@@ -950,15 +950,13 @@ AIエージェントが開発を行うようになり、多くのエンジニア
 もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:d155a4ac10477d1eb41f</id>
-    <title>IT業界で皆知ってる「クラウド」「AWS」、分かったふりやめて先輩に聞いてみた</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/d155a4ac10477d1eb41f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-28T16:21:15+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T16:21:15+09:00&lt;br/&gt;Updated: 2026-08-28T16:21:15+09:00&lt;br/&gt;はじめに
-
-会社でしょっちゅう飛び交う「クラウド」という言葉に、分かったふりで相槌を打ち続けていたぷらむんが、思い切ってたぬき先輩に「クラウドって結局何なんですか?」と聞いてみたら、モヤモヤの正体がようやく整理できた話です。
-
-会社で自称マスコットキャラをやってるのに...</summary>
+    <id>tag:qiita.com,2026:0e72c0b925b75f1c28c9</id>
+    <title>「AIっぽいデザイン」はなぜ消えないのか ── Impeccableを読み解いて、同じ依頼で4通り作って比べてみた</title>
+    <link rel="alternate" href="https://qiita.com/jinxin4869/items/0e72c0b925b75f1c28c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-30T10:25:24+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jinxin4869&quot;&gt;jinxin4869&lt;/a&gt;&lt;br/&gt;Published: 2026-10-28T23:53:27+09:00&lt;br/&gt;Updated: 2026-10-30T10:25:24+09:00&lt;br/&gt;はじめに
+今のAIにランディングページのデザインを頼むと、数分で整ったページが出てきます。配色も余白も悪くない。でも、なんか見慣れた感じがする。そんな経験はないでしょうか。
+この記事では、AIが作るデザインから「AIっぽさ」を取り除くためのスキルImpeccableを取り...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fc957950ba9fd21c1d1b</id>
@@ -1057,19 +1055,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 公式の説明は「コマンド実行系のツールと WebFetch を外し、ファイル操作を作業ディレクトリに限定する」です。安全に使うためのモードという書き方...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5726c8769b487e118571</id>
-    <title>「AIに店長を任せてみた実験」からもらった、これからの働き方のヒント</title>
-    <link rel="alternate" href="https://qiita.com/sumomoo/items/5726c8769b487e118571?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-28T16:28:35+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sumomoo&quot;&gt;sumomoo&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T16:28:35+09:00&lt;br/&gt;Updated: 2026-08-28T16:28:35+09:00&lt;br/&gt;はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です
-日々、プログラミング学習や実務の中で、つまずきやすいポイントや
-考え方を整理して発信しています。
-PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-
-「AIに全...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:6577a57b9b62c8f97e11</id>
     <title>【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/6577a57b9b62c8f97e11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1082,6 +1067,16 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 
 しかも免許証画像、いかれました（アウトー！）。
 ということで今回は、偶然にも...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4fc91ba7f67d6763960e</id>
+    <title>Xで話題の、原文をたどってドメイン知識を集めるスキル「imozuru」を普通のAI検索と比べてみた</title>
+    <link rel="alternate" href="https://qiita.com/inoyu-qiita/items/4fc91ba7f67d6763960e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-29T12:22:54+09:00</updated>
+    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inoyu-qiita&quot;&gt;inoyu-qiita&lt;/a&gt;&lt;br/&gt;Published: 2026-10-27T19:06:53+09:00&lt;br/&gt;Updated: 2026-10-29T12:22:54+09:00&lt;br/&gt;はじめに
+Xのこちらの投稿で、Claude Codeのスキルimozuruが話題になっていました。知らない分野のドメイン知識を、原文から芋づる式に集められるスキルです。
+一方、普通にAIに「この分野を調べて」と頼むと、数十秒できれいな答えが返ってきます。
+でも、何かの資料...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:987c0ea8afdb5cd045e8</id>
@@ -1121,16 +1116,6 @@ PRUMについて気になった方は、コーポレートサイトもぜひご�
 AWSを勉強し始めたけど、サービスが多すぎて何から学べばいいか分からない人
 AWSの個々のサービスは知っているけど、全体の構成のイメージがつかめない人
 ECS・Lambda・RDSなどの言葉を聞いたことはあるが、なぜそれを使うのか説明で...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b96813bc8a482b3d0074</id>
-    <title>面接で「前職への不満」を聞かれたら。無理にきれいな退職理由をつくらなくても大丈夫です</title>
-    <link rel="alternate" href="https://qiita.com/m__ikeda/items/b96813bc8a482b3d0074?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-28T16:25:01+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T16:25:01+09:00&lt;br/&gt;Updated: 2026-08-28T16:25:01+09:00&lt;br/&gt;自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f0ed9ec5cff12106978e</id>
@@ -1302,15 +1287,6 @@ Claude Code 2.1.251 でプロンプトキャッシュが数字で見えるよう
 同じセッションを継...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:0e72c0b925b75f1c28c9</id>
-    <title>「AIっぽいデザイン」はなぜ消えないのか ── Impeccableを読み解いて、同じ依頼で4通り作って比べた</title>
-    <link rel="alternate" href="https://qiita.com/jinxin4869/items/0e72c0b925b75f1c28c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-28T23:53:27+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jinxin4869&quot;&gt;jinxin4869&lt;/a&gt;&lt;br/&gt;Published: 2026-10-28T23:53:27+09:00&lt;br/&gt;Updated: 2026-10-28T23:53:27+09:00&lt;br/&gt;はじめに
-今のAIにランディングページのデザインを頼むと、数分で整ったページが出てきます。配色も余白も悪くない。でも、なんか見慣れた感じがする。そんな経験はないでしょうか。
-この記事では、AIが作るデザインから「AIっぽさ」を取り除くためのスキルImpeccableを取り...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:4fbf6144f4cab3f00123</id>
     <title>その仕事、本当に「Skills」で再現できるのか考えてみる</title>
     <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/4fbf6144f4cab3f00123?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1370,14 +1346,13 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
 一方で、同...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:4fc91ba7f67d6763960e</id>
-    <title>Xで話題の、原文をたどってドメイン知識を集めるスキル「imozuru」を普通のAI検索と比べてみた</title>
-    <link rel="alternate" href="https://qiita.com/inoyu-qiita/items/4fc91ba7f67d6763960e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-29T12:22:54+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inoyu-qiita&quot;&gt;inoyu-qiita&lt;/a&gt;&lt;br/&gt;Published: 2026-10-27T19:06:53+09:00&lt;br/&gt;Updated: 2026-10-29T12:22:54+09:00&lt;br/&gt;はじめに
-Xのこちらの投稿で、Claude Codeのスキルimozuruが話題になっていました。知らない分野のドメイン知識を、原文から芋づる式に集められるスキルです。
-一方、普通にAIに「この分野を調べて」と頼むと、数十秒できれいな答えが返ってきます。
-でも、何かの資料...</summary>
+    <id>tag:qiita.com,2026:1781531150821e2f0491</id>
+    <title>パスキーはなぜ偽サイトに強い？登録とログインの流れを図で追う</title>
+    <link rel="alternate" href="https://qiita.com/kuma_3838/items/1781531150821e2f0491?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-29T10:10:25+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-10-29T09:59:26+09:00&lt;br/&gt;Updated: 2026-10-29T10:10:25+09:00&lt;br/&gt;はじめに
+弊社の代表から、セキュリティの高いログイン方式であるパスキーについて学んでほしい、と声がかかりました。セキュリティへの意識が高い会社として、取り組みを外にも伝えていきたいという話もありました。
+私はそれまで、パスキーの存在は知っていたものの、どういうものかを知り...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cbd1d7bb724676a3b686</id>
@@ -1395,15 +1370,6 @@ Xのこちらの投稿で、Claude Codeのスキルimozuruが話題になって�
     <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/iketani45664566&quot;&gt;iketani45664566&lt;/a&gt;&lt;br/&gt;Published: 2026-09-13T18:55:25+09:00&lt;br/&gt;Updated: 2026-09-13T18:55:25+09:00&lt;br/&gt;この記事で学ぶこと
 #25 から #31 まで、認証認可を土台から作り込みました。Part 5 はこれで完結です。今日から Part 6、Webアプリ全体を設計する編に入ります。
 ここまでの回は「アプリの中身」を見てきました。SQL の書き方、層の分け方、トークンの検証。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1781531150821e2f0491</id>
-    <title>パスキーはなぜ偽サイトに強い？登録とログインの流れを図で追う</title>
-    <link rel="alternate" href="https://qiita.com/kuma_3838/items/1781531150821e2f0491?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-29T10:10:25+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-10-29T09:59:26+09:00&lt;br/&gt;Updated: 2026-10-29T10:10:25+09:00&lt;br/&gt;はじめに
-弊社の代表から、セキュリティの高いログイン方式であるパスキーについて学んでほしい、と声がかかりました。セキュリティへの意識が高い会社として、取り組みを外にも伝えていきたいという話もありました。
-私はそれまで、パスキーの存在は知っていたものの、どういうものかを知り...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f7c44c74e437875b1399</id>
@@ -1971,29 +1937,6 @@ ChatGPTやClaudeに「1+1は？」と聞くと、当然のように「2」と返
 実は、Anthropic社の研究により、LLMは計算問題を電卓とはまったく違う方法で解いているこ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:4231026d13f7527c0f69</id>
-    <title>AIの口癖を日本語記事で測ろうとして、3回とも失敗した</title>
-    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/4231026d13f7527c0f69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-29T19:54:44+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-29T19:54:43+09:00&lt;br/&gt;Updated: 2026-08-29T19:54:44+09:00&lt;br/&gt;AI が書いた文章には、特徴的な語彙がある。 そういう分析が Hacker News で 663 ポイントを集めていました。
-面白かったので、自分の Qiita 記事30本で同じことをやろうとしました。
-3回とも失敗しました。 この記事は、その記録です。
-「日本語でも同じ手...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d48a62b87545a0e7d2c7</id>
-    <title>【ポエム】2026年 AIコーディングプログラマの心象風景</title>
-    <link rel="alternate" href="https://qiita.com/ssc-ksaitou/items/d48a62b87545a0e7d2c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-28T14:09:03+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssc-ksaitou&quot;&gt;ssc-ksaitou&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T14:09:03+09:00&lt;br/&gt;Updated: 2026-08-28T14:09:03+09:00&lt;br/&gt;はじめに
-2026年現在、AIコーディングエージェントを使ってプログラミングしている時に、私がどういうメンタルモデルで作業しているかメモしておきます。
-
-ハーネスについての考え方
-
-制約がなければ出力は無限にある
-AIコーディングエージェントを何も制約のない状態で動かし...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:46f00fbe8b5bac009c1c</id>
     <title>Amazon Linux 2023 の PHP を CVE-2026-109618 修正版へ先行ビルドする</title>
     <link rel="alternate" href="https://qiita.com/amu-kuroneko/items/46f00fbe8b5bac009c1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2030,5 +1973,58 @@ AIコーディングエージェントを何も制約のない状態で動かし
 こんにちは。KDDIアジャイル開発センターの溝渕です。
 ここ 2 か月ほど、Claude Code での個人開発を進めながら、精度を極力下げずにトークンの消費を抑える仕組みづくりと効果の計測に挑戦してました。
 8月の約 1 か月の計測で、かなりトークン消費を抑え...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:62ec43fbe3b4da83795d</id>
+    <title>なぜ配列の1番目は「0」なのか？ プログラマーなら一度は疑問に思う話</title>
+    <link rel="alternate" href="https://qiita.com/nolanlover0527/items/62ec43fbe3b4da83795d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-10T16:09:10+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nolanlover0527&quot;&gt;nolanlover0527&lt;/a&gt;&lt;br/&gt;Published: 2026-09-09T13:29:44+09:00&lt;br/&gt;Updated: 2026-09-10T16:09:10+09:00&lt;br/&gt;1からじゃダメなの?という素朴な疑問
+プログラミングを始めたばかりの頃、配列やリストの要素が0番目からカウントされることに違和感を覚えた方は多いと思います。
+const fruits = [&quot;apple&quot;, &quot;banana&quot;, &quot;orange&quot;];
+console.log...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:86c54a078fefa954ce76</id>
+    <title>日本初日本発AWS GameDayで優勝して思ったこと</title>
+    <link rel="alternate" href="https://qiita.com/takano0131/items/86c54a078fefa954ce76?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-10T08:05:30+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takano0131&quot;&gt;takano0131&lt;/a&gt;&lt;br/&gt;Published: 2026-09-10T08:05:30+09:00&lt;br/&gt;Updated: 2026-09-10T08:05:30+09:00&lt;br/&gt;2026/9/6の日本初・日本発 GameDayで優勝してきました。
+
+乳児の夜泣き（月齢2ヶ月）対応を優先しながらGameDayを遊ぶという暴挙でした。優勝が嬉しいので感想を記載します。
+
+今回のGameDayは
+AWS GameDayは、チーム対抗でリアルなA...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:af5c80bebd4eb7d2eef9</id>
+    <title>AI駆動開発ライフサイクル（AI-DLC）の日本語版Skill Builderが公開されたので体験してみた</title>
+    <link rel="alternate" href="https://qiita.com/news_it_enj/items/af5c80bebd4eb7d2eef9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-31T23:06:58+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/news_it_enj&quot;&gt;news_it_enj&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T21:57:20+09:00&lt;br/&gt;Updated: 2026-08-31T23:06:58+09:00&lt;br/&gt;先日公開されたAI-DLC Skill Builderコースの日本語版を受けてみました。
+もともとは英語版があるようなのですが、日本語用として撮り直されたようです。めちゃくちゃありがたいです。
+AI 駆動開発ライフサイクル (AI-DLC) ナレッジバッチ
+
+これは2026...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d55d3b9cfdc38a07034d</id>
+    <title>Azure無料枠を意識してWindows Server 2022を構築してみた</title>
+    <link rel="alternate" href="https://qiita.com/NoguchiHikaru/items/d55d3b9cfdc38a07034d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-29T23:54:20+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/NoguchiHikaru&quot;&gt;NoguchiHikaru&lt;/a&gt;&lt;br/&gt;Published: 2026-08-29T23:54:20+09:00&lt;br/&gt;Updated: 2026-08-29T23:54:20+09:00&lt;br/&gt;はじめに
+前回の記事では、Azure上でWindows Serverを構築する際に考えておきたいポイントを、インフラ目線で整理しました。
+今回はその実践編として、実際にAzure Portalを操作しながらWindows Serverを1台構築してみます。
+今回のゴールは...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3661216f00cc9f5629cb</id>
+    <title>Select AI入門：多言語からAI Ready Data、SQL＋RAGまで整理してみてみた</title>
+    <link rel="alternate" href="https://qiita.com/shirok/items/3661216f00cc9f5629cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-16T14:20:34+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-10-14T08:23:07+09:00&lt;br/&gt;Updated: 2026-10-16T14:20:34+09:00&lt;br/&gt;Select AIを使うと、日本語などの自然言語からSQLを生成し、Oracle Databaseのデータを調べることができます。
+ただ、実際に使ってみると、いろいろ気になってきます。
+「日本語以外でも問い合わせできるのか？」
+「AIは、どのテーブルを使うか、どの列でJO...</summary>
   </entry>
 </feed>
