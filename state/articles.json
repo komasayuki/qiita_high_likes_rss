@@ -1045,18 +1045,6 @@
       "last_seen": "2026-09-21T06:12:12.143280899+00:00"
     },
     {
-      "key": "47bc69006f6467d79e91",
-      "item_id": "47bc69006f6467d79e91",
-      "title": "ESP32 シリーズを使ってイチから電子工作まとめ　 (回路設計/基板設計編)",
-      "link": "https://qiita.com/_shin_/items/47bc69006f6467d79e91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n最近、ESP32を使った電子工作にハマったので、いくつかガラクタを作ってみた経験をもとに、ESP32を使ったおおまかな電子工作のやり方を紹介しようと思う。\n今回は回路設計/基板設計に絞った内容だが、その後の環境構築、実機動作に関する内容は以下に後編としてまとめた...",
-      "published": "2026-08-29T22:22:25+09:00",
-      "updated": "2026-08-31T23:00:35+09:00",
-      "author_name": "_shin_",
-      "likes_count": 18,
-      "last_seen": "2026-09-01T18:24:11.462857526+00:00"
-    },
-    {
       "key": "4bf77973ab94453a2699",
       "item_id": "4bf77973ab94453a2699",
       "title": "【JavaScript】Promise.resolveはPromiseでないオブジェクトもresolveするしそのせいで脆弱性がたくさんある",
@@ -1525,6 +1513,18 @@
       "last_seen": "2026-10-16T07:03:42.048968915+00:00"
     },
     {
+      "key": "636c519c0b1d347c79b7",
+      "item_id": "636c519c0b1d347c79b7",
+      "title": "AIにありがちな「イマイチなコードコメント」9パターン",
+      "link": "https://qiita.com/jnchito/items/636c519c0b1d347c79b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n「コードはAIに書いてもらう」という人が増えてきました。\n僕もそんなエンジニアの一人ですが、AIにコードを書かせていると「アプリケーション側のコードはまだいいが、コードコメントとテストコードはなんかイマイチだな」と思うことが多いです。\nまた、コードレビューをして...",
+      "published": "2026-10-31T16:17:19+09:00",
+      "updated": "2026-10-31T19:54:35+09:00",
+      "author_name": "jnchito",
+      "likes_count": 10,
+      "last_seen": "2026-10-31T21:26:01.268092250+00:00"
+    },
+    {
       "key": "64a8710cffb39963c2b3",
       "item_id": "64a8710cffb39963c2b3",
       "title": "MCP vs. API（REST・SOAP・GraphQL・gRPC）どれが使える？ 日本の業務システム 56 件を調べてみた",
@@ -1726,7 +1726,7 @@
       "updated": "2026-10-30T15:39:47+09:00",
       "author_name": "j-yasukawa",
       "likes_count": 10,
-      "last_seen": "2026-10-31T17:39:39.595996581+00:00"
+      "last_seen": "2026-10-31T21:26:01.268092250+00:00"
     },
     {
       "key": "710c03dbfc8ecf849496",
@@ -3034,7 +3034,7 @@
       "updated": "2026-10-29T17:11:45+09:00",
       "author_name": "tsukasa_japan",
       "likes_count": 23,
-      "last_seen": "2026-10-31T17:39:39.595996581+00:00"
+      "last_seen": "2026-10-31T21:26:01.268092250+00:00"
     },
     {
       "key": "b9683ce90f4c26a6e7ae",
@@ -3119,18 +3119,6 @@
       "author_name": "PDC-Kurashinak",
       "likes_count": 70,
       "last_seen": "2026-10-04T06:46:28.139125622+00:00"
-    },
-    {
-      "key": "bec57a9a20c7f9e60f79",
-      "item_id": "bec57a9a20c7f9e60f79",
-      "title": "【AWS DevOps Agent】コードレビューと自動検証テストの検証",
-      "link": "https://qiita.com/aliean/items/bec57a9a20c7f9e60f79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "この記事は「2026 Japan AWS Jr. Champions 真夏のQiitaリレー」の29日目の記事となります。\n過去の投稿（リンク集）は以下リンクからご覧ください。\n\nはじめに\n開発が進むにつれて提出される Pull Request（PR）。\n気づ...",
-      "published": "2026-08-29T23:48:38+09:00",
-      "updated": "2026-08-29T23:59:25+09:00",
-      "author_name": "aliean",
-      "likes_count": 16,
-      "last_seen": "2026-09-01T18:24:11.462857526+00:00"
     },
     {
       "key": "bf4a3a2185db2d28eee5",
@@ -3469,18 +3457,6 @@
       "last_seen": "2026-10-23T19:06:12.795874384+00:00"
     },
     {
-      "key": "d55d3b9cfdc38a07034d",
-      "item_id": "d55d3b9cfdc38a07034d",
-      "title": "Azure無料枠を意識してWindows Server 2022を構築してみた",
-      "link": "https://qiita.com/NoguchiHikaru/items/d55d3b9cfdc38a07034d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n前回の記事では、Azure上でWindows Serverを構築する際に考えておきたいポイントを、インフラ目線で整理しました。\n今回はその実践編として、実際にAzure Portalを操作しながらWindows Serverを1台構築してみます。\n今回のゴールは...",
-      "published": "2026-08-29T23:54:20+09:00",
-      "updated": "2026-08-29T23:54:20+09:00",
-      "author_name": "NoguchiHikaru",
-      "likes_count": 17,
-      "last_seen": "2026-09-01T18:24:11.462857526+00:00"
-    },
-    {
       "key": "d65af248f67b85784ed2",
       "item_id": "d65af248f67b85784ed2",
       "title": "AWS Certified AI Business Strategist (ベータ試験)を受験してきました",
@@ -3501,8 +3477,8 @@
       "published": "2026-10-29T07:15:00+09:00",
       "updated": "2026-10-29T07:51:21+09:00",
       "author_name": "nisshii0",
-      "likes_count": 13,
-      "last_seen": "2026-10-31T05:24:39.459802405+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-10-31T21:26:01.268092250+00:00"
     },
     {
       "key": "d6a54f3694726b9141f3",
