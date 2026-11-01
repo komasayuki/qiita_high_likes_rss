@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-11-01T13:34:25+09:00</updated>
+  <updated>2026-11-01T17:06:32+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -867,6 +867,16 @@ AIエージェントが開発を行うようになり、多くのエンジニア
 今日、私たちが当たり前のように使っているReactフレームワーク「Next.js」。 Netflix、Uber、OpenAIなど、世界中の巨大企業が採用し、日常的に利用するサービスの多くが...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:636c519c0b1d347c79b7</id>
+    <title>AIにありがちな「イマイチなコードコメント」9パターン</title>
+    <link rel="alternate" href="https://qiita.com/jnchito/items/636c519c0b1d347c79b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-01T13:34:25+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jnchito&quot;&gt;jnchito&lt;/a&gt;&lt;br/&gt;Published: 2026-10-31T16:17:19+09:00&lt;br/&gt;Updated: 2026-11-01T13:34:25+09:00&lt;br/&gt;はじめに
+「コードはAIに書いてもらう」という人が増えてきました。
+僕もそんなエンジニアの一人ですが、AIにコードを書かせていると「アプリケーション側のコードはまだいいが、コードコメントとテストコードはなんかイマイチだな」と思うことが多いです。
+また、コードレビューをして...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:184e06cd9744f94d4f3e</id>
     <title>JS初心者が『非同期』を理解してみた</title>
     <link rel="alternate" href="https://qiita.com/koxrtx/items/184e06cd9744f94d4f3e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -922,16 +932,6 @@ Xのこちらの投稿で、Claude Codeのスキルimozuruが話題になって�
     <updated>2026-09-29T21:20:26+09:00</updated>
     <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-09-29T16:16:02+09:00&lt;br/&gt;Updated: 2026-09-29T21:20:26+09:00&lt;br/&gt;こんにちは、Claude Codeです。著者のみのるんが忙しそうだったので、代わりにこの記事を書いています。
 ブログの画像を差し替えたのに、Xに貼ると古い画像のまま。投稿した直後から、カードが灰色の枠になっている。TwitterがXになってから、こういうことがよく起きます。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:636c519c0b1d347c79b7</id>
-    <title>AIにありがちな「イマイチなコードコメント」9パターン</title>
-    <link rel="alternate" href="https://qiita.com/jnchito/items/636c519c0b1d347c79b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-01T13:34:25+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jnchito&quot;&gt;jnchito&lt;/a&gt;&lt;br/&gt;Published: 2026-10-31T16:17:19+09:00&lt;br/&gt;Updated: 2026-11-01T13:34:25+09:00&lt;br/&gt;はじめに
-「コードはAIに書いてもらう」という人が増えてきました。
-僕もそんなエンジニアの一人ですが、AIにコードを書かせていると「アプリケーション側のコードはまだいいが、コードコメントとテストコードはなんかイマイチだな」と思うことが多いです。
-また、コードレビューをして...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6d5b58ad0cb832d2a4c5</id>
@@ -1775,6 +1775,21 @@ WordPress を新しく立ち上げるとき、「まずサイトを公開して�
 しかし、現在では公開初日から攻撃の対象になります。Patchstack の「State of WordPress Security In ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3a1a9d1ba2b289b23244</id>
+    <title>AIに証明を書かせてセキュアに開発する言語 Tauto をリリースしました！</title>
+    <link rel="alternate" href="https://qiita.com/ryo33/items/3a1a9d1ba2b289b23244?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-01T17:06:32+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryo33&quot;&gt;ryo33&lt;/a&gt;&lt;br/&gt;Published: 2026-11-01T17:06:32+09:00&lt;br/&gt;Updated: 2026-11-01T17:06:32+09:00&lt;br/&gt;はじめに
+AIにコードを書いてもらうのが当たり前になってきました。
+でも、こんなモヤモヤはありませんか？
+
+AIが書いたコード、差分を全部読むのはもう限界
+
+テストは通っている。でも テストを書いていないケースは大丈夫？
+
+AIに「なぜ正しいの？」と聞いても、その説明が正...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:147bf8e5fdb1b04f6d54</id>
     <title>研修中の僕がSlackに海外のIT情報を運ぶbotを作ったら、だいたい何が起きたか</title>
     <link rel="alternate" href="https://qiita.com/EricYu/items/147bf8e5fdb1b04f6d54?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2013,13 +2028,5 @@ AI 駆動開発ライフサイクル (AI-DLC) ナレッジバッチ
 そんな時、あなたは大体どのタイミングで食べ終わりますか？
 私は最後に食べ終わることが多いです。
 咀嚼が特別遅いわけではありません。話題を振って、相...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cca2012374f26773e4fb</id>
-    <title>GitHub Issueの優先度と領域をJevに判定させて、GitHub Actionsでラベルを付ける</title>
-    <link rel="alternate" href="https://qiita.com/ry-harada/items/cca2012374f26773e4fb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-14T07:54:16+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ry-harada&quot;&gt;ry-harada&lt;/a&gt;&lt;br/&gt;Published: 2026-10-14T07:54:15+09:00&lt;br/&gt;Updated: 2026-10-14T07:54:16+09:00&lt;br/&gt;はじめに
-個人開発のダッシュボードアプリで、Todoの管理をGitHub Issueでやっています。各Issueには「変更の種類」「対応優先度」「変更が必要な対象（バックエンド、フロントエンドなど）領域」の3観点でラベルを付けています。変更の種類はIssueテンプレートが...</summary>
   </entry>
 </feed>
