@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-10-30T12:58:43+09:00</updated>
+  <updated>2026-11-01T13:34:25+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1234,17 +1234,6 @@ Transformerの同じ層を何回か通すやつでしょ
 もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:357c4c9e239d2b9427d1</id>
-    <title>新人エンジニア、「ラズベリーパイ」を美味しいパイだと思ってた話</title>
-    <link rel="alternate" href="https://qiita.com/prumnn/items/357c4c9e239d2b9427d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-31T16:12:20+09:00</updated>
-    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/prumnn&quot;&gt;prumnn&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T16:12:20+09:00&lt;br/&gt;Updated: 2026-08-31T16:12:20+09:00&lt;br/&gt;はじめに
-
-会社の昔の写真フォルダで見つけた「ラズベリーパイ部」の文字に、てっきりパイやタルトを食べ歩く同好会だと思い込んでいたぷらむんが、プラ美先輩に聞いてみたら、全然違うジャンルの話だった、という話です。
-
-会社で自称マスコットキャラをやってるのに、社内で一番空気...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:fdb57313458c2aa1bcdc</id>
     <title>新言語「Hike」をシステムに採用したらバイナリ99.8%削減・ネットワークも実働処理も爆速になった話</title>
     <link rel="alternate" href="https://qiita.com/kinop3/items/fdb57313458c2aa1bcdc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1306,6 +1295,16 @@ terraformで管理しているリソースが増えてきて、tfstateが肥大�
 本番環境で、マジックリンクでログインできないことがあるという報告を受けました。
 メールに届いたリンクを押すと「この認証リンクは使用済みまたは期限切れです」と表示され、ログインできないという内容です。
 利用者からは「メールのリンクを押すと一瞬 Cisco のリンク...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:636c519c0b1d347c79b7</id>
+    <title>AIにありがちな「イマイチなコードコメント」9パターン</title>
+    <link rel="alternate" href="https://qiita.com/jnchito/items/636c519c0b1d347c79b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-01T13:34:25+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jnchito&quot;&gt;jnchito&lt;/a&gt;&lt;br/&gt;Published: 2026-10-31T16:17:19+09:00&lt;br/&gt;Updated: 2026-11-01T13:34:25+09:00&lt;br/&gt;はじめに
+「コードはAIに書いてもらう」という人が増えてきました。
+僕もそんなエンジニアの一人ですが、AIにコードを書かせていると「アプリケーション側のコードはまだいいが、コードコメントとテストコードはなんかイマイチだな」と思うことが多いです。
+また、コードレビューをして...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1781531150821e2f0491</id>
@@ -1596,14 +1595,6 @@ Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom and pl
     <updated>2026-09-01T13:24:26+09:00</updated>
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-01T00:18:40+09:00&lt;br/&gt;Updated: 2026-09-01T13:24:26+09:00&lt;br/&gt;「このAIに入れた内容、バレませんか」
 社内で AI を使い始めるとき、いちばん多い質問だと思います。聞かれる側は「たぶん法人版なら大丈夫です」と答えがちで、私もそうでした。曖昧にしか答えられないのが気になったので、AI チャット・AI エージェント・AI-OCR・iPaa...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:817a26e02cd1f08c7edd</id>
-    <title>スター6万のAgent Skillを入れたら、呼ぶたびに9万トークン必要だった</title>
-    <link rel="alternate" href="https://qiita.com/jqit_suwa/items/817a26e02cd1f08c7edd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-08-31T08:35:16+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit_suwa&quot;&gt;jqit_suwa&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T08:35:15+09:00&lt;br/&gt;Updated: 2026-08-31T08:35:16+09:00&lt;br/&gt;GitHub Trending に、スター 60,480 の Agent Skill が上がっていました。
-Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横断して調べ、upvote や likes といった実際の反応で...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3ce4e1c1a39db64c5c32</id>
@@ -2026,5 +2017,16 @@ console.log...</summary>
 
 今回のGameDayは
 AWS GameDayは、チーム対抗でリアルなA...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:af5c80bebd4eb7d2eef9</id>
+    <title>AI駆動開発ライフサイクル（AI-DLC）の日本語版Skill Builderが公開されたので体験してみた</title>
+    <link rel="alternate" href="https://qiita.com/news_it_enj/items/af5c80bebd4eb7d2eef9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-08-31T23:06:58+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/news_it_enj&quot;&gt;news_it_enj&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T21:57:20+09:00&lt;br/&gt;Updated: 2026-08-31T23:06:58+09:00&lt;br/&gt;先日公開されたAI-DLC Skill Builderコースの日本語版を受けてみました。
+もともとは英語版があるようなのですが、日本語用として撮り直されたようです。めちゃくちゃありがたいです。
+AI 駆動開発ライフサイクル (AI-DLC) ナレッジバッチ
+
+これは2026...</summary>
   </entry>
 </feed>
