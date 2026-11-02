@@ -565,18 +565,6 @@
       "last_seen": "2026-09-13T19:22:10.684320202+00:00"
     },
     {
-      "key": "2f32c69f11bbc97b2fd9",
-      "item_id": "2f32c69f11bbc97b2fd9",
-      "title": "2026年今から WordPress を立ち上げるなら — AWS Lightsail + Cloudflare WAF を使った構築手順",
-      "link": "https://qiita.com/sugumura/items/2f32c69f11bbc97b2fd9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "1. はじめに\nWordPress を新しく立ち上げるとき、「まずサイトを公開して、セキュリティは後から」という順番になりがちです。\nしかし、現在では公開初日から攻撃の対象になります。Patchstack の「State of WordPress Security In ...",
-      "published": "2026-09-01T12:25:00+09:00",
-      "updated": "2026-09-01T12:56:42+09:00",
-      "author_name": "sugumura",
-      "likes_count": 20,
-      "last_seen": "2026-09-03T18:33:35.350676318+00:00"
-    },
-    {
       "key": "2f781a33643a2cbd0853",
       "item_id": "2f781a33643a2cbd0853",
       "title": "AI は善意？悪意？過失？ AI サイバー攻撃は誰のせい？ AI Alignment 最新動向から読み取る AI 活用のリスクと対策",
@@ -777,8 +765,8 @@
       "published": "2026-11-01T17:06:32+09:00",
       "updated": "2026-11-02T13:10:57+09:00",
       "author_name": "ryo33",
-      "likes_count": 32,
-      "last_seen": "2026-11-02T15:36:18.321433819+00:00"
+      "likes_count": 33,
+      "last_seen": "2026-11-02T23:26:31.183698738+00:00"
     },
     {
       "key": "3a82a47b39bacf7f02d7",
@@ -1510,7 +1498,7 @@
       "updated": "2026-11-01T13:34:25+09:00",
       "author_name": "jnchito",
       "likes_count": 65,
-      "last_seen": "2026-11-02T15:36:18.321433819+00:00"
+      "last_seen": "2026-11-02T23:26:31.183698738+00:00"
     },
     {
       "key": "64a8710cffb39963c2b3",
@@ -1546,7 +1534,7 @@
       "updated": "2026-10-31T14:39:28+09:00",
       "author_name": "tetsuro731",
       "likes_count": 14,
-      "last_seen": "2026-11-02T15:36:18.321433819+00:00"
+      "last_seen": "2026-11-02T23:26:31.183698738+00:00"
     },
     {
       "key": "6577a57b9b62c8f97e11",
@@ -1967,18 +1955,6 @@
       "author_name": "TechStudioLab",
       "likes_count": 10,
       "last_seen": "2026-09-28T15:19:41.791193799+00:00"
-    },
-    {
-      "key": "83783c6dd3b4b51fa77f",
-      "item_id": "83783c6dd3b4b51fa77f",
-      "title": "【JavaScript】usingがStage4になったので、ようやくリソース解放忘れから解放されるよ",
-      "link": "https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "だめ\nfunction hoge(){\n  const handle = exampleResource(); // なんかのリソース\n  /*\n    なんか長い処理\n  */\n  handle.release(); // リソース解放\n}\n\nhoge();\n\nうっか...",
-      "published": "2026-08-31T20:53:39+09:00",
-      "updated": "2026-09-02T23:26:27+09:00",
-      "author_name": "rana_kualu",
-      "likes_count": 37,
-      "last_seen": "2026-09-03T18:33:35.350676318+00:00"
     },
     {
       "key": "84cd50fda97df62cff88",
@@ -2734,7 +2710,7 @@
       "updated": "2026-11-02T04:51:46+09:00",
       "author_name": "songchong",
       "likes_count": 16,
-      "last_seen": "2026-11-02T15:36:18.321433819+00:00"
+      "last_seen": "2026-11-02T23:26:31.183698738+00:00"
     },
     {
       "key": "ad31bbbecc661f0a5876",
@@ -2759,18 +2735,6 @@
       "author_name": "suwa_nobu",
       "likes_count": 11,
       "last_seen": "2026-09-30T06:37:21.682892672+00:00"
-    },
-    {
-      "key": "af5c80bebd4eb7d2eef9",
-      "item_id": "af5c80bebd4eb7d2eef9",
-      "title": "AI駆動開発ライフサイクル（AI-DLC）の日本語版Skill Builderが公開されたので体験してみた",
-      "link": "https://qiita.com/news_it_enj/items/af5c80bebd4eb7d2eef9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "先日公開されたAI-DLC Skill Builderコースの日本語版を受けてみました。\nもともとは英語版があるようなのですが、日本語用として撮り直されたようです。めちゃくちゃありがたいです。\nAI 駆動開発ライフサイクル (AI-DLC) ナレッジバッチ\n\nこれは2026...",
-      "published": "2026-08-31T21:57:20+09:00",
-      "updated": "2026-08-31T23:06:58+09:00",
-      "author_name": "news_it_enj",
-      "likes_count": 17,
-      "last_seen": "2026-09-03T18:33:35.350676318+00:00"
     },
     {
       "key": "b019a99daaca6687cdf7",
@@ -2806,7 +2770,7 @@
       "updated": "2026-11-01T12:30:43+09:00",
       "author_name": "river0525",
       "likes_count": 11,
-      "last_seen": "2026-11-02T15:36:18.321433819+00:00"
+      "last_seen": "2026-11-02T23:26:31.183698738+00:00"
     },
     {
       "key": "b2ef2f7a6ee0dbbf0001",
@@ -2997,8 +2961,8 @@
       "published": "2026-11-01T17:41:55+09:00",
       "updated": "2026-11-01T22:19:29+09:00",
       "author_name": "Sicut_study",
-      "likes_count": 22,
-      "last_seen": "2026-11-02T15:36:18.321433819+00:00"
+      "likes_count": 26,
+      "last_seen": "2026-11-02T23:26:31.183698738+00:00"
     },
     {
       "key": "baa529a57648b2a364fe",
@@ -3405,8 +3369,8 @@
       "published": "2026-10-31T22:58:17+09:00",
       "updated": "2026-11-02T08:28:18+09:00",
       "author_name": "araidon",
-      "likes_count": 15,
-      "last_seen": "2026-11-02T15:36:18.321433819+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-11-02T23:26:31.183698738+00:00"
     },
     {
       "key": "d52a567f7450b5539665",
@@ -3514,7 +3478,7 @@
       "updated": "2026-10-31T09:07:52+09:00",
       "author_name": "NoguchiHikaru",
       "likes_count": 11,
-      "last_seen": "2026-11-02T15:36:18.321433819+00:00"
+      "last_seen": "2026-11-02T23:26:31.183698738+00:00"
     },
     {
       "key": "dd8295164f2d84c9bf61",
