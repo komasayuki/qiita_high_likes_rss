@@ -721,18 +721,6 @@
       "last_seen": "2026-10-23T04:36:36.304429430+00:00"
     },
     {
-      "key": "3a135f5db9d53257a9e4",
-      "item_id": "3a135f5db9d53257a9e4",
-      "title": "Claude Code のキャッシュ、ツールを使ったターンだけ乗るようになった",
-      "link": "https://qiita.com/suwa_nobu/items/3a135f5db9d53257a9e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "9月2日に、Claude Fable 5.1 が2ターン目のキャッシュに乗ったり乗らなかったりすると書きました。18回測って13回外れ、原因は分かりませんでした。\n翌9月3日の 2.1.260 に、Fable 5.1 のキャッシュ修正が3件入りました。測り直したらこうなりま...",
-      "published": "2026-09-04T10:33:35+09:00",
-      "updated": "2026-09-04T10:33:35+09:00",
-      "author_name": "suwa_nobu",
-      "likes_count": 18,
-      "last_seen": "2026-09-05T18:11:24.904903093+00:00"
-    },
-    {
       "key": "3a1a9d1ba2b289b23244",
       "item_id": "3a1a9d1ba2b289b23244",
       "title": "AIに証明を書かせてセキュアに開発できる言語 Tauto をリリースしました！",
@@ -814,7 +802,7 @@
       "updated": "2026-11-02T08:53:16+09:00",
       "author_name": "Takashi_Masumori",
       "likes_count": 37,
-      "last_seen": "2026-11-04T17:06:39.684922912+00:00"
+      "last_seen": "2026-11-04T22:35:30.423160560+00:00"
     },
     {
       "key": "3cb311b037a975739948",
@@ -886,7 +874,7 @@
       "updated": "2026-11-04T15:13:13+09:00",
       "author_name": "figueiredoluiz",
       "likes_count": 10,
-      "last_seen": "2026-11-04T17:06:39.684922912+00:00"
+      "last_seen": "2026-11-04T22:35:30.423160560+00:00"
     },
     {
       "key": "411fc08854b9fe4c9be7",
@@ -1165,18 +1153,6 @@
       "last_seen": "2026-09-06T19:04:33.377112983+00:00"
     },
     {
-      "key": "52aafd8c073b37749539",
-      "item_id": "52aafd8c073b37749539",
-      "title": "ネットワークフロー理論における「最小カット問題」の考え方を総整理！ 〜 カットの理論から現実への応用例まで 〜",
-      "link": "https://qiita.com/drken/items/52aafd8c073b37749539?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "お久しぶりです！\nNTT データ数理システムで顧問をしている大槻（けんちょん）です。好きなアルゴリズムは最小カットです。\n今回は、最小カット問題について書いていきます。最小カット問題は、情報系の大学では「アルゴリズムとデータ構造」の講義の終盤で少しだけ登場するマニアックな話...",
-      "published": "2026-09-02T20:26:46+09:00",
-      "updated": "2026-09-03T18:33:23+09:00",
-      "author_name": "drken",
-      "likes_count": 47,
-      "last_seen": "2026-09-05T18:11:24.904903093+00:00"
-    },
-    {
       "key": "5323a12a6af0d8351b49",
       "item_id": "5323a12a6af0d8351b49",
       "title": "【未経験からITへ】「将来がなんとなく不安…」なあなたへ。キャリアの答えは、走りながら一緒に探せば大丈夫です",
@@ -1342,7 +1318,7 @@
       "updated": "2026-11-02T17:58:48+09:00",
       "author_name": "saito_next",
       "likes_count": 12,
-      "last_seen": "2026-11-04T17:06:39.684922912+00:00"
+      "last_seen": "2026-11-04T22:35:30.423160560+00:00"
     },
     {
       "key": "5d733c267370e0e06661",
@@ -1438,7 +1414,7 @@
       "updated": "2026-11-03T21:41:16+09:00",
       "author_name": "ssfujita",
       "likes_count": 11,
-      "last_seen": "2026-11-04T17:06:39.684922912+00:00"
+      "last_seen": "2026-11-04T22:35:30.423160560+00:00"
     },
     {
       "key": "62ec43fbe3b4da83795d",
@@ -1918,7 +1894,7 @@
       "updated": "2026-11-03T13:13:45+09:00",
       "author_name": "sadabon444",
       "likes_count": 31,
-      "last_seen": "2026-11-04T17:06:39.684922912+00:00"
+      "last_seen": "2026-11-04T22:35:30.423160560+00:00"
     },
     {
       "key": "84cd50fda97df62cff88",
@@ -2233,16 +2209,28 @@
       "last_seen": "2026-09-26T19:47:32.989195455+00:00"
     },
     {
+      "key": "9364a0a175893bb15219",
+      "item_id": "9364a0a175893bb15219",
+      "title": "AI駆動開発の次の段階: ソフトウェアファクトリー",
+      "link": "https://qiita.com/Syoitu/items/9364a0a175893bb15219?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "前書き\n最近、Claude Codeの開発者であるFelix Riesebergさんの記事『AIモデルを扱う人類のための「志を高く持つ」チュートリアル』を読みました。その考え方に刺激を受けたので、少し引用して紹介します。\n\n記事によると、Claudeは最近、新しい惑星...",
+      "published": "2026-11-04T20:38:50+09:00",
+      "updated": "2026-11-04T20:43:31+09:00",
+      "author_name": "Syoitu",
+      "likes_count": 12,
+      "last_seen": "2026-11-04T22:35:30.423160560+00:00"
+    },
+    {
       "key": "945479177d4dcbb80f69",
       "item_id": "945479177d4dcbb80f69",
       "title": "「⚪︎⚪︎はしないで」は効かない？AI Agent の危険行動を制限する 5 つの方法と守られる強さで比べた",
       "link": "https://qiita.com/songchong/items/945479177d4dcbb80f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "AI エージェントに「⚪︎⚪︎はしないで」と書けば、その通りにしてくれるのでしょうか。\n答えは、🔴 問題: 「しないで」と禁止だけを頼むと、守られないことがありました、です。IT連携マップ編集部は、AI エージェント（Claude Code・Antigravity CLI・...",
+      "summary": "AI エージェントに「⚪︎⚪︎はしないで」と書けば、その通りにしてくれるのでしょうか。\n答えは、🔴 危険: 「しないで」と禁止だけを頼むと、守られないことがありました、です。IT連携マップ編集部は、AI エージェント（Claude Code・Antigravity CLI・...",
       "published": "2026-11-04T04:35:02+09:00",
       "updated": "2026-11-04T08:51:28+09:00",
       "author_name": "songchong",
       "likes_count": 15,
-      "last_seen": "2026-11-04T17:06:39.684922912+00:00"
+      "last_seen": "2026-11-04T22:35:30.423160560+00:00"
     },
     {
       "key": "94661f31fcc95117bfc7",
@@ -2338,7 +2326,7 @@
       "updated": "2026-11-04T00:57:56+09:00",
       "author_name": "kikuziro",
       "likes_count": 14,
-      "last_seen": "2026-11-04T17:06:39.684922912+00:00"
+      "last_seen": "2026-11-04T22:35:30.423160560+00:00"
     },
     {
       "key": "9c9cbb97df7e4a631660",
@@ -3082,7 +3070,7 @@
       "updated": "2026-11-02T16:24:46+09:00",
       "author_name": "xiaoy",
       "likes_count": 10,
-      "last_seen": "2026-11-04T17:06:39.684922912+00:00"
+      "last_seen": "2026-11-04T22:35:30.423160560+00:00"
     },
     {
       "key": "c559b0291db39b2169c1",
@@ -3826,7 +3814,7 @@
       "updated": "2026-11-04T14:39:19+09:00",
       "author_name": "nakata-sapeet",
       "likes_count": 19,
-      "last_seen": "2026-11-04T17:06:39.684922912+00:00"
+      "last_seen": "2026-11-04T22:35:30.423160560+00:00"
     },
     {
       "key": "f8eaad0ddba954e2ebb6",

@@ -743,15 +743,6 @@ Jevは、文章で書かれた状況を読み、あらかじめ用意された�
 もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:52aafd8c073b37749539</id>
-    <title>ネットワークフロー理論における「最小カット問題」の考え方を総整理！ 〜 カットの理論から現実への応用例まで 〜</title>
-    <link rel="alternate" href="https://qiita.com/drken/items/52aafd8c073b37749539?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-03T18:33:23+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/drken&quot;&gt;drken&lt;/a&gt;&lt;br/&gt;Published: 2026-09-02T20:26:46+09:00&lt;br/&gt;Updated: 2026-09-03T18:33:23+09:00&lt;br/&gt;お久しぶりです！
-NTT データ数理システムで顧問をしている大槻（けんちょん）です。好きなアルゴリズムは最小カットです。
-今回は、最小カット問題について書いていきます。最小カット問題は、情報系の大学では「アルゴリズムとデータ構造」の講義の終盤で少しだけ登場するマニアックな話...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:6b4e0a5e4946d1a941ac</id>
     <title>実はコミュニティ運営をやめようと思っていました</title>
     <link rel="alternate" href="https://qiita.com/sadabon444/items/6b4e0a5e4946d1a941ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1852,14 +1843,6 @@ LIMIT 件数
 以前の記事では、個人情報・機微情報・アイデアといったデータの「種類」から見た漏れ方をまとめました（どの情報なら AI に入れてよいか）。ですが、写真📷・録音🎙・PDF📄・コード💻・いいね👍といったデータ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3a135f5db9d53257a9e4</id>
-    <title>Claude Code のキャッシュ、ツールを使ったターンだけ乗るようになった</title>
-    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/3a135f5db9d53257a9e4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-04T10:33:35+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-04T10:33:35+09:00&lt;br/&gt;Updated: 2026-09-04T10:33:35+09:00&lt;br/&gt;9月2日に、Claude Fable 5.1 が2ターン目のキャッシュに乗ったり乗らなかったりすると書きました。18回測って13回外れ、原因は分かりませんでした。
-翌9月3日の 2.1.260 に、Fable 5.1 のキャッシュ修正が3件入りました。測り直したらこうなりま...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:1b902f20dfc2c64ad44f</id>
     <title>トークン課金を気にせず生成AIを使いたい！OpenAI互換APIで“社内生成AI”を構築できるOracle Private AI Services Containerを試してみた</title>
     <link rel="alternate" href="https://qiita.com/ssfujita/items/1b902f20dfc2c64ad44f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2023,5 +2006,26 @@ async fu...</summary>
     <updated>2026-09-28T16:06:27+09:00</updated>
     <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-28T16:06:27+09:00&lt;br/&gt;Updated: 2026-09-28T16:06:27+09:00&lt;br/&gt;「AI を使ったサイバー攻撃が急増」という見出しや、「攻撃の速さは人の能力を超えた」というセキュリティ製品の発表を見ると、守る側も AI を入れなければ間に合わないのでは、と考えるのは自然です。
 ただ、先に知りたいのは、AI で攻撃の何が変わったのか、それに合わせて守りの...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:99b9a1e6213857126c66</id>
+    <title>ｽﾀｯｸﾁｬﾝの会話の判断を Jev に任せてみた</title>
+    <link rel="alternate" href="https://qiita.com/kamo-shika/items/99b9a1e6213857126c66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-19T18:32:10+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamo-shika&quot;&gt;kamo-shika&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T18:01:19+09:00&lt;br/&gt;Updated: 2026-09-19T18:32:10+09:00&lt;br/&gt;はじめに
+最近ｽﾀｯｸﾁｬﾝと Fitbit Air を買いました。Databricks も合わせて、自分の健康データをいろいろ収集・集計して遊んでいます。
+いま実装しているのは、以下の機能です。
+
+朝・昼・晩に、健康データをもとにｽﾀｯｸﾁｬﾝから報告させる
+本体を軽く...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5f594cf3d150f17f8bbd</id>
+    <title>:has()で不要になったJavaScript 10選</title>
+    <link rel="alternate" href="https://qiita.com/tofu_frontend/items/5f594cf3d150f17f8bbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-13T20:38:46+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tofu_frontend&quot;&gt;tofu_frontend&lt;/a&gt;&lt;br/&gt;Published: 2026-09-13T20:38:46+09:00&lt;br/&gt;Updated: 2026-09-13T20:38:46+09:00&lt;br/&gt;:has() が全モダンブラウザで使えるようになって（Baseline widely available / 2023年12月〜）、そろそろ3年が経ちました。
+それなのに、現場のコードにはまだこういうJavaScriptが残っています。
+// 入力エラーになったら親要素にク...</summary>
   </entry>
 </feed>
