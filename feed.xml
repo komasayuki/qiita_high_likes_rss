@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-11-03T14:06:57+09:00</updated>
+  <updated>2026-11-04T14:39:19+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -803,16 +803,6 @@ Xでもそこか...</summary>
 みなさんGraphRAGの判断を全部LLMにや...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:1db92012f8477071e4b4</id>
-    <title>カジュアル面談で「特に質問ないです」が、実は一番もったいない理由</title>
-    <link rel="alternate" href="https://qiita.com/m__ikeda/items/1db92012f8477071e4b4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-02T10:47:20+09:00</updated>
-    <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-09-02T10:47:20+09:00&lt;br/&gt;Updated: 2026-09-02T10:47:20+09:00&lt;br/&gt;自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b33b4e337c15dddae20a</id>
     <title>0から学ぶセキュリティの基礎　〜CSRF編〜</title>
     <link rel="alternate" href="https://qiita.com/Pigeon_gate/items/b33b4e337c15dddae20a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -940,6 +930,21 @@ Xのこちらの投稿で、Claude Codeのスキルimozuruが話題になって�
 もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3a1a9d1ba2b289b23244</id>
+    <title>AIに証明を書かせてセキュアに開発できる言語 Tauto をリリースしました！</title>
+    <link rel="alternate" href="https://qiita.com/ryo33/items/3a1a9d1ba2b289b23244?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-02T13:10:57+09:00</updated>
+    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryo33&quot;&gt;ryo33&lt;/a&gt;&lt;br/&gt;Published: 2026-11-01T17:06:32+09:00&lt;br/&gt;Updated: 2026-11-02T13:10:57+09:00&lt;br/&gt;はじめに
+AIにコードを書いてもらうのが当たり前になってきました。
+でも、こんなモヤモヤはありませんか？
+
+AIが書いたコード、差分を全部読むのはもう限界
+
+テストは通っている。でも テストを書いていないケースは大丈夫？
+
+AIに「なぜ正しいの？」と聞いても、その説明が正...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:fc957950ba9fd21c1d1b</id>
     <title>Claude Code × Figma MCP で作ったデザインを別のAIに検査させる — デザインのグラフエンジニアリング</title>
     <link rel="alternate" href="https://qiita.com/vivi-koh/items/fc957950ba9fd21c1d1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -969,6 +974,25 @@ Claude Codeに「この画面、Figmaに起こして」と頼むと、Figma上�
 もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cc82e6e4e4c215eac99f</id>
+    <title>新しいRAG「Decision RAG」は速い！安い！上手い！🍜</title>
+    <link rel="alternate" href="https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-02T10:19:12+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-11-01T23:05:25+09:00&lt;br/&gt;Updated: 2026-11-02T10:19:12+09:00&lt;br/&gt;⚖️ はじめに
+最近Jevをはじめとした判断特化型のモデルが続々と出てきていますよね。文章は書かずに「はい」の確からしさだけを返してくれるモデルです。この判断モデルをRAGの検索に使う「DecisionRAG」という論文が出ていたので自分なりに噛み砕いてみました。後半は通...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b9e38c0584d4aa720d31</id>
+    <title>【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方</title>
+    <link rel="alternate" href="https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-01T22:19:29+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-11-01T17:41:55+09:00&lt;br/&gt;Updated: 2026-11-01T22:19:29+09:00&lt;br/&gt;はじめに
+こんにちは、Watanabe Jin(@Sicut_study)です。
+AIエージェントによる開発が当たり前になり、多くの現場でスピードを求められるようになりました。
+しかし、便利になったと感じると同時に、こんな瞬間はありませんでしたか？
+「一年前と比べて、ス...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:81e6a6737b2254bdc6ed</id>
     <title>【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた</title>
     <link rel="alternate" href="https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -995,32 +1019,6 @@ Claude Codeに「この画面、Figmaに起こして」と頼むと、Figma上�
     <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-09-26T16:36:58+09:00&lt;br/&gt;Updated: 2026-09-26T19:02:57+09:00&lt;br/&gt;はじめに
 2026年9月25日、Microsoft から「新しい Copilot」が発表されました。Copilot アプリそのものの形が変わる大きな発表で、あわせて料金体系も「ユーザー単位のライセンス」と「利用量に応じた課金」の2本立てに整理されています。
 発表の内容自体...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3a1a9d1ba2b289b23244</id>
-    <title>AIに証明を書かせてセキュアに開発できる言語 Tauto をリリースしました！</title>
-    <link rel="alternate" href="https://qiita.com/ryo33/items/3a1a9d1ba2b289b23244?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-02T13:10:57+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryo33&quot;&gt;ryo33&lt;/a&gt;&lt;br/&gt;Published: 2026-11-01T17:06:32+09:00&lt;br/&gt;Updated: 2026-11-02T13:10:57+09:00&lt;br/&gt;はじめに
-AIにコードを書いてもらうのが当たり前になってきました。
-でも、こんなモヤモヤはありませんか？
-
-AIが書いたコード、差分を全部読むのはもう限界
-
-テストは通っている。でも テストを書いていないケースは大丈夫？
-
-AIに「なぜ正しいの？」と聞いても、その説明が正...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b9e38c0584d4aa720d31</id>
-    <title>【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方</title>
-    <link rel="alternate" href="https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-01T22:19:29+09:00</updated>
-    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-11-01T17:41:55+09:00&lt;br/&gt;Updated: 2026-11-01T22:19:29+09:00&lt;br/&gt;はじめに
-こんにちは、Watanabe Jin(@Sicut_study)です。
-AIエージェントによる開発が当たり前になり、多くの現場でスピードを求められるようになりました。
-しかし、便利になったと感じると同時に、こんな瞬間はありませんでしたか？
-「一年前と比べて、ス...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6577a57b9b62c8f97e11</id>
@@ -1156,6 +1154,16 @@ Claude Code・Code...</summary>
 「Claude でショッピングエージェントを作るときの参考実装」で、動くコードがそのまま入っています。 何が入っているのかを整理します。
 
 ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3c3091a6142d3e05385b</id>
+    <title>生成 AI が進化する今こそ、「人材育成」が経営の重要課題ではないか</title>
+    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/3c3091a6142d3e05385b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-02T08:53:16+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-11-02T08:53:15+09:00&lt;br/&gt;Updated: 2026-11-02T08:53:16+09:00&lt;br/&gt;今の成果と、将来の組織の力は同じではない
+生成 AI をどう社内で活用するか。費用対効果は出ているのか。どれだけ業務を効率化できるのか。
+企業で生成 AI の活用を進める際、こうしたことが議論されています。もちろん、どれも大切です。
+ただ、生成 AI が急速に進化している...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8d965a85f2aac8ebcb12</id>
@@ -1298,6 +1306,19 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
     <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/iketani45664566&quot;&gt;iketani45664566&lt;/a&gt;&lt;br/&gt;Published: 2026-09-13T18:55:25+09:00&lt;br/&gt;Updated: 2026-09-13T18:55:25+09:00&lt;br/&gt;この記事で学ぶこと
 #25 から #31 まで、認証認可を土台から作り込みました。Part 5 はこれで完結です。今日から Part 6、Webアプリ全体を設計する編に入ります。
 ここまでの回は「アプリの中身」を見てきました。SQL の書き方、層の分け方、トークンの検証。...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:83535ce9f3dd7d56600e</id>
+    <title>営業こそコミュニティでは「No sell」でいよう</title>
+    <link rel="alternate" href="https://qiita.com/sadabon444/items/83535ce9f3dd7d56600e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-03T13:13:45+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-11-03T13:13:45+09:00&lt;br/&gt;Updated: 2026-11-03T13:13:45+09:00&lt;br/&gt;この記事は100%人力で書いています。
+
+忘れもしない、しばらく前のこと。
+とあるITコミュニティに、同僚の営業職が参加した。
+私は営業職ながら、そのコミュニティや、コミュニティにいる方々を良く知っている。
+そのため、善意で色んな人を繋ごうと、紹介しようとした。
+「こ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f7c44c74e437875b1399</id>
@@ -1513,16 +1534,6 @@ Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom and pl
 「何をすればいいか分からない」「何が分から...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3c3091a6142d3e05385b</id>
-    <title>生成 AI が進化する今こそ、「人材育成」が経営の重要課題ではないか</title>
-    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/3c3091a6142d3e05385b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-02T08:53:16+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-11-02T08:53:15+09:00&lt;br/&gt;Updated: 2026-11-02T08:53:16+09:00&lt;br/&gt;今の成果と、将来の組織の力は同じではない
-生成 AI をどう社内で活用するか。費用対効果は出ているのか。どれだけ業務を効率化できるのか。
-企業で生成 AI の活用を進める際、こうしたことが議論されています。もちろん、どれも大切です。
-ただ、生成 AI が急速に進化している...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:3ce4e1c1a39db64c5c32</id>
     <title>0から学ぶセキュリティの基礎　~XSS編~</title>
     <link rel="alternate" href="https://qiita.com/Pigeon_gate/items/3ce4e1c1a39db64c5c32?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1630,19 +1641,6 @@ GitHub Copilot や Claude Code などの AI コーディングツールが、開
 この考え方は、たしかに一面では真実です。以前なら何日もかかって...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:83535ce9f3dd7d56600e</id>
-    <title>営業こそコミュニティでは「No sell」でいよう</title>
-    <link rel="alternate" href="https://qiita.com/sadabon444/items/83535ce9f3dd7d56600e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-03T13:13:45+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-11-03T13:13:45+09:00&lt;br/&gt;Updated: 2026-11-03T13:13:45+09:00&lt;br/&gt;この記事は100%人力で書いています。
-
-忘れもしない、しばらく前のこと。
-とあるITコミュニティに、同僚の営業職が参加した。
-私は営業職ながら、そのコミュニティや、コミュニティにいる方々を良く知っている。
-そのため、善意で色んな人を繋ごうと、紹介しようとした。
-「こ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:534ca5aadd59bfd1f6b3</id>
     <title>パスワード管理ツールについて調べた（1Password・Bitwarden）</title>
     <link rel="alternate" href="https://qiita.com/kozakoza/items/534ca5aadd59bfd1f6b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1740,6 +1738,21 @@ SELECT AI RUNSQL
 こんにちは、事業会社で働いているデータサイエンティストです。
 
 専門は政治学方法論と計量経済学です。因果推論については大学院生の頃から勉強していて、単なる相関ではなく、興味のある変数がアウトカムに与える因果効果を厳密に議論できるところに大きな魅力を感じていま...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:f883c3cf009785c51bcc</id>
+    <title>どっちが人間？ AIで声をクローンして、本人と聞き比べてみた</title>
+    <link rel="alternate" href="https://qiita.com/nakata-sapeet/items/f883c3cf009785c51bcc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-04T14:39:19+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nakata-sapeet&quot;&gt;nakata-sapeet&lt;/a&gt;&lt;br/&gt;Published: 2026-11-04T09:30:10+09:00&lt;br/&gt;Updated: 2026-11-04T14:39:19+09:00&lt;br/&gt;どっちが人間？
+いきなりですが、クイズです。
+下の2つの音声、片方は本人がしゃべった声で、もう片方は AI が作った声です。どっちが本物か、わかりますか？
+(403エラーが発生する場合はシークレットウィンドウで再生可能か試してください。)
+音声A
+
+音声B
+
+正解はこちら...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:147bf8e5fdb1b04f6d54</id>
@@ -2010,17 +2023,5 @@ async fu...</summary>
     <updated>2026-09-28T16:06:27+09:00</updated>
     <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-28T16:06:27+09:00&lt;br/&gt;Updated: 2026-09-28T16:06:27+09:00&lt;br/&gt;「AI を使ったサイバー攻撃が急増」という見出しや、「攻撃の速さは人の能力を超えた」というセキュリティ製品の発表を見ると、守る側も AI を入れなければ間に合わないのでは、と考えるのは自然です。
 ただ、先に知りたいのは、AI で攻撃の何が変わったのか、それに合わせて守りの...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:99b9a1e6213857126c66</id>
-    <title>ｽﾀｯｸﾁｬﾝの会話の判断を Jev に任せてみた</title>
-    <link rel="alternate" href="https://qiita.com/kamo-shika/items/99b9a1e6213857126c66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-19T18:32:10+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kamo-shika&quot;&gt;kamo-shika&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T18:01:19+09:00&lt;br/&gt;Updated: 2026-09-19T18:32:10+09:00&lt;br/&gt;はじめに
-最近ｽﾀｯｸﾁｬﾝと Fitbit Air を買いました。Databricks も合わせて、自分の健康データをいろいろ収集・集計して遊んでいます。
-いま実装しているのは、以下の機能です。
-
-朝・昼・晩に、健康データをもとにｽﾀｯｸﾁｬﾝから報告させる
-本体を軽く...</summary>
   </entry>
 </feed>
