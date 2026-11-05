@@ -635,18 +635,6 @@ Fixed /update-config writing Write(path) permission rules, which file permission
 そんな中、パスキーを利用していても攻撃を受ける可能性がある手法として、「デバイスコード フローを悪用したフィッシング攻撃」の存...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:0fa7c0d9ed83aaa1c914</id>
-    <title>【2026年版】無料から使えるパブリックAPI 16選！定番からおもしろAPIまで</title>
-    <link rel="alternate" href="https://qiita.com/hashiryu_/items/0fa7c0d9ed83aaa1c914?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-03T23:38:16+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/hashiryu_&quot;&gt;hashiryu_&lt;/a&gt;&lt;br/&gt;Published: 2026-09-03T23:38:15+09:00&lt;br/&gt;Updated: 2026-09-03T23:38:16+09:00&lt;br/&gt;1. はじめに
-今回は、学習や個人開発などの用途で無料利用できるパブリックAPIをまとめてみました。
-よく利用される定番APIから、探している中で見つけたおもしろAPIまで16選をご紹介します。
-
-※本記事の情報は2026年8月時点のものです。
-APIの料金体系、利用条件...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:8d17257a9778a086c7cd</id>
     <title>Argo RolloutsのBlue-Greenは「2つの環境の交代」じゃなかった ― 名前に引きずられて誤解していた話</title>
     <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/8d17257a9778a086c7cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -731,6 +719,16 @@ Jevが話題ですね。
 
 ざっくりまとめ
 Jevは、文章で書かれた状況を読み、あらかじめ用意された選択...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9364a0a175893bb15219</id>
+    <title>AI駆動開発の次の段階: ソフトウェアファクトリー</title>
+    <link rel="alternate" href="https://qiita.com/Syoitu/items/9364a0a175893bb15219?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-04T20:43:31+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-11-04T20:38:50+09:00&lt;br/&gt;Updated: 2026-11-04T20:43:31+09:00&lt;br/&gt;前書き
+最近、Claude Codeの開発者であるFelix Riesebergさんの記事『AIモデルを扱う人類のための「志を高く持つ」チュートリアル』を読みました。その考え方に刺激を受けたので、少し引用して紹介します。
+
+記事によると、Claudeは最近、新しい惑星...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c8705ed320aa15dc9db0</id>
@@ -849,16 +847,6 @@ AIエージェントが開発を行うようになり、多くのエンジニア
 「なんで非同期で書かないといけないの？」と聞かれても、「非同期じゃないと処理が終わるまで画面が表示されなくて、重くなるから」くらいしか答えら...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:9364a0a175893bb15219</id>
-    <title>AI駆動開発の次の段階: ソフトウェアファクトリー</title>
-    <link rel="alternate" href="https://qiita.com/Syoitu/items/9364a0a175893bb15219?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-04T20:43:31+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-11-04T20:38:50+09:00&lt;br/&gt;Updated: 2026-11-04T20:43:31+09:00&lt;br/&gt;前書き
-最近、Claude Codeの開発者であるFelix Riesebergさんの記事『AIモデルを扱う人類のための「志を高く持つ」チュートリアル』を読みました。その考え方に刺激を受けたので、少し引用して紹介します。
-
-記事によると、Claudeは最近、新しい惑星...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:454fc975b095230565c7</id>
     <title>高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜</title>
     <link rel="alternate" href="https://qiita.com/ast-24/items/454fc975b095230565c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -879,14 +867,17 @@ AIエージェントが開発を行うようになり、多くのエンジニア
 もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:524a76ad04930e774829</id>
-    <title>【実験】ECSのサービス間を繋ぐ6つの繋ぎ方、実際どれくらい速さが違うのか</title>
-    <link rel="alternate" href="https://qiita.com/sh_fukatsu/items/524a76ad04930e774829?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-03T23:56:35+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sh_fukatsu&quot;&gt;sh_fukatsu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-03T23:36:40+09:00&lt;br/&gt;Updated: 2026-09-03T23:56:35+09:00&lt;br/&gt;1. はじめに
-先日、JAWS-UGコンテナ支部×NW-JAWSのコラボイベント「コンテナネットワークを学ぼう！！」会に参加し、ECS Service ConnectとVPC Latticeをハンズオンで実際に構築してきました。
+    <id>tag:qiita.com,2026:83535ce9f3dd7d56600e</id>
+    <title>営業こそコミュニティでは「No sell」でいよう</title>
+    <link rel="alternate" href="https://qiita.com/sadabon444/items/83535ce9f3dd7d56600e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-03T13:13:45+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-11-03T13:13:45+09:00&lt;br/&gt;Updated: 2026-11-03T13:13:45+09:00&lt;br/&gt;この記事は100%人力で書いています。
 
-ハンズオンでは各サービスを実際に動か...</summary>
+忘れもしない、しばらく前のこと。
+とあるITコミュニティに、同僚の営業職が参加した。
+私は営業職ながら、そのコミュニティや、コミュニティにいる方々を良く知っている。
+そのため、善意で色んな人を繋ごうと、紹介しようとした。
+「こ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3c3091a6142d3e05385b</id>
@@ -992,19 +983,6 @@ Claude Codeに「この画面、Figmaに起こして」と頼むと、Figma上�
     <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fuga-if&quot;&gt;fuga-if&lt;/a&gt;&lt;br/&gt;Published: 2026-10-14T04:41:55+09:00&lt;br/&gt;Updated: 2026-10-14T04:41:55+09:00&lt;br/&gt;はじめまして、都内でエンジニアを8年ほどやっているものです。
 生成AIの台頭により、個人開発のハードルが極限まで下がったことで、新卒の頃からずっとやりたかった自分のサービスを持つことができました。
 ついに自分のサービスで前月の収益で合計17万ほどを得ることができたので、どう...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:83535ce9f3dd7d56600e</id>
-    <title>営業こそコミュニティでは「No sell」でいよう</title>
-    <link rel="alternate" href="https://qiita.com/sadabon444/items/83535ce9f3dd7d56600e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-03T13:13:45+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sadabon444&quot;&gt;sadabon444&lt;/a&gt;&lt;br/&gt;Published: 2026-11-03T13:13:45+09:00&lt;br/&gt;Updated: 2026-11-03T13:13:45+09:00&lt;br/&gt;この記事は100%人力で書いています。
-
-忘れもしない、しばらく前のこと。
-とあるITコミュニティに、同僚の営業職が参加した。
-私は営業職ながら、そのコミュニティや、コミュニティにいる方々を良く知っている。
-そのため、善意で色んな人を繋ごうと、紹介しようとした。
-「こ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:81e6a6737b2254bdc6ed</id>
@@ -1843,6 +1821,15 @@ LIMIT 件数
 以前の記事では、個人情報・機微情報・アイデアといったデータの「種類」から見た漏れ方をまとめました（どの情報なら AI に入れてよいか）。ですが、写真📷・録音🎙・PDF📄・コード💻・いいね👍といったデータ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8225fd0ff29603549ab8</id>
+    <title>Oracle AI World 2026 振り返り：Larry Ellison、Sam Altmanらの6講演から、AIに仕事を任せる仕組みを整理してみてみた</title>
+    <link rel="alternate" href="https://qiita.com/shirok/items/8225fd0ff29603549ab8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-05T11:27:37+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-11-04T07:40:08+09:00&lt;br/&gt;Updated: 2026-11-05T11:27:37+09:00&lt;br/&gt;基調講演のステージに、本物の救急車が入ってきました。
+
+車内の救急隊から、患者のバイタルや超音波画像が病院側へ次々に届きます。それを見た&quot;ER医師役&quot;のMike Sicilia氏が輸血をオーダーすると、救急隊は保管庫から血液を取り出し、搬送中に投与を始めました。演出ではあり...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:46f00fbe8b5bac009c1c</id>
     <title>Amazon Linux 2023 の PHP を CVE-2026-109618 修正版へ先行ビルドする</title>
     <link rel="alternate" href="https://qiita.com/amu-kuroneko/items/46f00fbe8b5bac009c1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1901,15 +1888,6 @@ console.log...</summary>
 
 今回のGameDayは
 AWS GameDayは、チーム対抗でリアルなA...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8225fd0ff29603549ab8</id>
-    <title>Oracle AI World 2026 振り返り：Larry Ellison、Sam Altmanらの6講演から、AIに仕事を任せる仕組みを整理してみてみた</title>
-    <link rel="alternate" href="https://qiita.com/shirok/items/8225fd0ff29603549ab8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-05T11:27:37+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-11-04T07:40:08+09:00&lt;br/&gt;Updated: 2026-11-05T11:27:37+09:00&lt;br/&gt;基調講演のステージに、本物の救急車が入ってきました。
-
-車内の救急隊から、患者のバイタルや超音波画像が病院側へ次々に届きます。それを見た&quot;ER医師役&quot;のMike Sicilia氏が輸血をオーダーすると、救急隊は保管庫から血液を取り出し、搬送中に投与を始めました。演出ではあり...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7cbf2881a9c8c8cf3656</id>
@@ -2029,5 +2007,23 @@ async fu...</summary>
 
 朝・昼・晩に、健康データをもとにｽﾀｯｸﾁｬﾝから報告させる
 本体を軽く...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5f594cf3d150f17f8bbd</id>
+    <title>:has()で不要になったJavaScript 10選</title>
+    <link rel="alternate" href="https://qiita.com/tofu_frontend/items/5f594cf3d150f17f8bbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-13T20:38:46+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tofu_frontend&quot;&gt;tofu_frontend&lt;/a&gt;&lt;br/&gt;Published: 2026-09-13T20:38:46+09:00&lt;br/&gt;Updated: 2026-09-13T20:38:46+09:00&lt;br/&gt;:has() が全モダンブラウザで使えるようになって（Baseline widely available / 2023年12月〜）、そろそろ3年が経ちました。
+それなのに、現場のコードにはまだこういうJavaScriptが残っています。
+// 入力エラーになったら親要素にク...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b019a99daaca6687cdf7</id>
+    <title>GPT-5.6 Lunaを2ヶ月使い倒した結果、ガチでコスパ最強だった</title>
+    <link rel="alternate" href="https://qiita.com/nolanlover0527/items/b019a99daaca6687cdf7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-09T11:03:14+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nolanlover0527&quot;&gt;nolanlover0527&lt;/a&gt;&lt;br/&gt;Published: 2026-09-07T08:57:05+09:00&lt;br/&gt;Updated: 2026-09-09T11:03:14+09:00&lt;br/&gt;GPT-5.6 Lunaを実務で使い倒してみた
+7月頭に発表されたGPT-5.6シリーズの中で、圧倒的最安モデル「GPT-5.6 Luna」を実務で2ヶ月近く使ってみました。
+主にコーディング、コード調査、資料作成などで利用し、最安モデルがどの程度使い物になるのか検...</summary>
   </entry>
 </feed>
