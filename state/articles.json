@@ -313,18 +313,6 @@
       "last_seen": "2026-10-16T07:03:42.048968915+00:00"
     },
     {
-      "key": "1960963c3c59591763ab",
-      "item_id": "1960963c3c59591763ab",
-      "title": "「在宅勤務って本当にラク？」未経験でIT業界を目指すなら知っておきたいリモートワークのこと",
-      "link": "https://qiita.com/m__ikeda/items/1960963c3c59591763ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "自己紹介\nこんにちは。株式会社PRUMで採用広報を担当している池田です。\n未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊\nもしIT業界に興味があるけど、...",
-      "published": "2026-09-03T17:12:02+09:00",
-      "updated": "2026-09-03T17:12:02+09:00",
-      "author_name": "m__ikeda",
-      "likes_count": 37,
-      "last_seen": "2026-09-06T04:26:51.532526187+00:00"
-    },
-    {
       "key": "1b6a05842724fc1fff66",
       "item_id": "1b6a05842724fc1fff66",
       "title": "BedrockのClaudeに暗黙的なプロンプトキャッシュが登場！！とドキュメントにある（暗黙的とは？）",
@@ -337,18 +325,6 @@
       "last_seen": "2026-10-01T18:49:00.106838243+00:00"
     },
     {
-      "key": "1b902f20dfc2c64ad44f",
-      "item_id": "1b902f20dfc2c64ad44f",
-      "title": "トークン課金を気にせず生成AIを使いたい！OpenAI互換APIで“社内生成AI”を構築できるOracle Private AI Services Containerを試してみた",
-      "link": "https://qiita.com/ssfujita/items/1b902f20dfc2c64ad44f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "生成AIを業務システムに組み込みたい一方で、「機密データを外部AIサービスに送れない」「閉域環境でLLMを動かしたい」「APIのトークン料金を気にせず使いたい」といった課題があります。\nOracle Private AI Services Containerは、こうしたニー...",
-      "published": "2026-09-03T17:14:41+09:00",
-      "updated": "2026-09-04T09:37:12+09:00",
-      "author_name": "ssfujita",
-      "likes_count": 18,
-      "last_seen": "2026-09-06T04:26:51.532526187+00:00"
-    },
-    {
       "key": "1bf18c5f749d05d8c2ff",
       "item_id": "1bf18c5f749d05d8c2ff",
       "title": "「見るだけ」から「操作できる」へ ― MinecraftサーバーへのRCON実行を、個人開発でどう安全に作ったか",
@@ -359,18 +335,6 @@
       "author_name": "jqit-yukiono",
       "likes_count": 51,
       "last_seen": "2026-09-29T08:21:18.204529534+00:00"
-    },
-    {
-      "key": "1c0f27da8eb685f6ba05",
-      "item_id": "1c0f27da8eb685f6ba05",
-      "title": "Anthropic がコマース用エージェントをオープンソース化した",
-      "link": "https://qiita.com/suwa_nobu/items/1c0f27da8eb685f6ba05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "9月2日、Anthropic が anthropics/commerce-agents を公開しました。Apache 2.0 です。\n「Claude でショッピングエージェントを作るときの参考実装」で、動くコードがそのまま入っています。 何が入っているのかを整理します。\n\n...",
-      "published": "2026-09-03T08:39:19+09:00",
-      "updated": "2026-09-03T08:39:20+09:00",
-      "author_name": "suwa_nobu",
-      "likes_count": 32,
-      "last_seen": "2026-09-06T04:26:51.532526187+00:00"
     },
     {
       "key": "1cfd627bd1ba30e2dc9c",
@@ -1381,6 +1345,18 @@
       "last_seen": "2026-09-16T20:01:56.404342375+00:00"
     },
     {
+      "key": "5fa1e302097552255fb7",
+      "item_id": "5fa1e302097552255fb7",
+      "title": "IT未経験の私がAIに頼りすぎて挫折し、自分の頭で考えるようになるまで",
+      "link": "https://qiita.com/yu_tsukamoto/items/5fa1e302097552255fb7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nIT未経験でエンジニアになった私は、配属後の勉強期間中、AIに頼りすぎていました。\n\nコードの書き方に悩めば、すぐにAIに聞く\nエラーが出ても、原因を自分で考えずにAIに頼る\n\nその結果、先輩から質問されたときに何も説明できず、完全に止まってしまいました。\n自分...",
+      "published": "2026-11-04T13:44:11+09:00",
+      "updated": "2026-11-04T13:44:11+09:00",
+      "author_name": "yu_tsukamoto",
+      "likes_count": 11,
+      "last_seen": "2026-11-05T12:11:01.125878584+00:00"
+    },
+    {
       "key": "6191b5ad83520d181f38",
       "item_id": "6191b5ad83520d181f38",
       "title": "判断特化型GraphRAGをJevを使って構築してみた（ベクトル未使用）",
@@ -1413,8 +1389,8 @@
       "published": "2026-11-03T12:31:46+09:00",
       "updated": "2026-11-03T21:41:16+09:00",
       "author_name": "ssfujita",
-      "likes_count": 11,
-      "last_seen": "2026-11-05T03:26:24.933646279+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-11-05T12:11:01.125878584+00:00"
     },
     {
       "key": "62ec43fbe3b4da83795d",
@@ -1809,8 +1785,8 @@
       "published": "2026-11-04T09:40:41+09:00",
       "updated": "2026-11-04T09:40:42+09:00",
       "author_name": "tomo-ryo",
-      "likes_count": 12,
-      "last_seen": "2026-11-05T03:26:24.933646279+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-11-05T12:11:01.125878584+00:00"
     },
     {
       "key": "7e5241176f3eead2a2f5",
@@ -1893,8 +1869,8 @@
       "published": "2026-11-04T07:40:08+09:00",
       "updated": "2026-11-05T11:27:37+09:00",
       "author_name": "shirok",
-      "likes_count": 12,
-      "last_seen": "2026-11-05T03:26:24.933646279+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-11-05T12:11:01.125878584+00:00"
     },
     {
       "key": "83349e8b4cdf07b97cd1",
@@ -1917,8 +1893,8 @@
       "published": "2026-11-03T13:13:45+09:00",
       "updated": "2026-11-03T13:13:45+09:00",
       "author_name": "sadabon444",
-      "likes_count": 34,
-      "last_seen": "2026-11-05T03:26:24.933646279+00:00"
+      "likes_count": 36,
+      "last_seen": "2026-11-05T12:11:01.125878584+00:00"
     },
     {
       "key": "84cd50fda97df62cff88",
@@ -2241,8 +2217,8 @@
       "published": "2026-11-04T20:38:50+09:00",
       "updated": "2026-11-04T20:43:31+09:00",
       "author_name": "Syoitu",
-      "likes_count": 22,
-      "last_seen": "2026-11-05T03:26:24.933646279+00:00"
+      "likes_count": 42,
+      "last_seen": "2026-11-05T12:11:01.125878584+00:00"
     },
     {
       "key": "945479177d4dcbb80f69",
@@ -2254,19 +2230,7 @@
       "updated": "2026-11-04T08:51:28+09:00",
       "author_name": "songchong",
       "likes_count": 15,
-      "last_seen": "2026-11-05T03:26:24.933646279+00:00"
-    },
-    {
-      "key": "94661f31fcc95117bfc7",
-      "item_id": "94661f31fcc95117bfc7",
-      "title": "Figmaの基本操作を学ぶためにQiitaのUIを使って操作してみる",
-      "link": "https://qiita.com/usui0623/items/94661f31fcc95117bfc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nソーイ株式会社の臼井です。\n業務では、デザイナーからFigmaで作成されたデザインを受け取り、その内容をもとにフロントエンドの改修を行うことがあります。\nこれまでは完成したデザインを確認して実装することが中心で、Figma上でどのように要素が作られ、調整されてい...",
-      "published": "2026-09-03T11:46:15+09:00",
-      "updated": "2026-09-03T11:46:15+09:00",
-      "author_name": "usui0623",
-      "likes_count": 14,
-      "last_seen": "2026-09-06T04:26:51.532526187+00:00"
+      "last_seen": "2026-11-05T12:11:01.125878584+00:00"
     },
     {
       "key": "94df4fbdeabaaf8f8ef5",
@@ -2349,8 +2313,8 @@
       "published": "2026-11-03T22:54:09+09:00",
       "updated": "2026-11-04T00:57:56+09:00",
       "author_name": "kikuziro",
-      "likes_count": 15,
-      "last_seen": "2026-11-05T03:26:24.933646279+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-11-05T12:11:01.125878584+00:00"
     },
     {
       "key": "9c9cbb97df7e4a631660",
@@ -3477,8 +3441,8 @@
       "published": "2026-11-02T21:28:21+09:00",
       "updated": "2026-11-03T13:56:14+09:00",
       "author_name": "rana_kualu",
-      "likes_count": 10,
-      "last_seen": "2026-11-05T03:26:24.933646279+00:00"
+      "likes_count": 11,
+      "last_seen": "2026-11-05T12:11:01.125878584+00:00"
     },
     {
       "key": "dec5350f38c748cb5b6e",
@@ -3565,18 +3529,6 @@
       "last_seen": "2026-09-27T18:17:51.344520253+00:00"
     },
     {
-      "key": "e7eb24f896749fd3f190",
-      "item_id": "e7eb24f896749fd3f190",
-      "title": "BigQuery × AI で 300 万円溶かそう",
-      "link": "https://qiita.com/na0/items/e7eb24f896749fd3f190?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "ここ 1.5 年ほど各組織でデータ分析に関する LLM エージェントを開発するのが人気だ。\nしかしながら、LLM エージェントから BigQuery を使うと一瞬でお金を溶かせる。紹介しよう。\n\nこれは 100% 手書きの一発書きです。\n\nAI.GENERATE 関数...",
-      "published": "2026-09-03T10:57:03+09:00",
-      "updated": "2026-09-04T14:21:59+09:00",
-      "author_name": "na0",
-      "likes_count": 12,
-      "last_seen": "2026-09-06T04:26:51.532526187+00:00"
-    },
-    {
       "key": "e8441ea251adbdd3b9e1",
       "item_id": "e8441ea251adbdd3b9e1",
       "title": "DroidKaigi 2026で驚いたことメモ",
@@ -3621,8 +3573,8 @@
       "published": "2026-11-04T12:02:13+09:00",
       "updated": "2026-11-04T12:02:14+09:00",
       "author_name": "AkiraTakasaki",
-      "likes_count": 10,
-      "last_seen": "2026-11-05T03:26:24.933646279+00:00"
+      "likes_count": 11,
+      "last_seen": "2026-11-05T12:11:01.125878584+00:00"
     },
     {
       "key": "eb2e60b469a148c2fb8b",
