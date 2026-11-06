@@ -97,18 +97,6 @@
       "last_seen": "2026-09-29T08:21:18.204529534+00:00"
     },
     {
-      "key": "0bec9b5d0fedde9ab81b",
-      "item_id": "0bec9b5d0fedde9ab81b",
-      "title": "【JavaScript】基礎から学ぶ！イベントハンドラ／リスナと主要イベント一覧",
-      "link": "https://qiita.com/kasumi_sato/items/0bec9b5d0fedde9ab81b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "こんにちは！JavaScriptで「ボタンを押したらポップアップを出したい」「スクロールに合わせてアニメーションさせたい」と思ったことはありませんか？\nこれらWebサイトの「動き」を実現しているのが、今回解説する 「イベント」 の仕組みです！\nユーザーの操作に反応してページ...",
-      "published": "2026-09-04T09:59:04+09:00",
-      "updated": "2026-09-04T09:59:05+09:00",
-      "author_name": "kasumi_sato",
-      "likes_count": 12,
-      "last_seen": "2026-09-07T04:25:39.925378448+00:00"
-    },
-    {
       "key": "0d759f44eb26f332b897",
       "item_id": "0d759f44eb26f332b897",
       "title": "AI エージェントに鍵を任せて大丈夫か — API キー操作5種類、Claude Code・Codex・Gemini に51 回頼み、危険・要注意・安全なやり方を分けた",
@@ -333,8 +321,8 @@
       "published": "2026-11-05T08:04:01+09:00",
       "updated": "2026-11-05T08:04:03+09:00",
       "author_name": "yuji-arakawa",
-      "likes_count": 12,
-      "last_seen": "2026-11-06T01:29:28.212072404+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-11-06T09:16:42.263316272+00:00"
     },
     {
       "key": "1cfd627bd1ba30e2dc9c",
@@ -611,18 +599,6 @@
       "author_name": "Nao52",
       "likes_count": 34,
       "last_seen": "2026-09-09T18:30:44.220736533+00:00"
-    },
-    {
-      "key": "365a4437aad4c939d1cc",
-      "item_id": "365a4437aad4c939d1cc",
-      "title": "AIに設計を任せるときに気をつけたい。「正しく動く」と「増えても耐えられる」は別だった",
-      "link": "https://qiita.com/adgjmptw0/items/365a4437aad4c939d1cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "生成AIを使ってPush通知機能の設計を進めていたとき、性能面で気になる構造に気付きました。\n設計上、通知対象者1人を処理するために最大約11回、DBへ問い合わせる可能性がある状態でした。\n\n通知対象者\nDBへの問い合わせ\n\n1人\n約11回\n\n100人\n約1,1...",
-      "published": "2026-09-04T09:39:25+09:00",
-      "updated": "2026-09-04T09:39:25+09:00",
-      "author_name": "adgjmptw0",
-      "likes_count": 30,
-      "last_seen": "2026-09-07T04:25:39.925378448+00:00"
     },
     {
       "key": "365d2561809fe1da8541",
@@ -1165,18 +1141,6 @@
       "last_seen": "2026-10-20T05:55:58.079552866+00:00"
     },
     {
-      "key": "54762eaae03b84252a3f",
-      "item_id": "54762eaae03b84252a3f",
-      "title": "Rust + OpenTelemetryで分散トレーシング入門 ― ECS FargateからAWS X-Rayへ",
-      "link": "https://qiita.com/Ota1022/items/54762eaae03b84252a3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "この記事は「2026 Japan AWS Jr. Champions 真夏のQiitaリレー」の記事となります。\n過去の投稿は以下のリンク集からご覧ください。\n\nはじめに\nこんにちは。株式会社スリーシェイクの太田暢です。\n今回は分散トレーシング入門として、Ru...",
-      "published": "2026-09-04T10:15:06+09:00",
-      "updated": "2026-09-04T13:04:45+09:00",
-      "author_name": "Ota1022",
-      "likes_count": 13,
-      "last_seen": "2026-09-07T04:25:39.925378448+00:00"
-    },
-    {
       "key": "54abb56d67ffe3c830d0",
       "item_id": "54abb56d67ffe3c830d0",
       "title": "底辺校1年生が2ヶ月(実質)で入茶しました",
@@ -1341,8 +1305,8 @@
       "published": "2026-11-04T13:44:11+09:00",
       "updated": "2026-11-04T13:44:11+09:00",
       "author_name": "yu_tsukamoto",
-      "likes_count": 15,
-      "last_seen": "2026-11-06T01:29:28.212072404+00:00"
+      "likes_count": 17,
+      "last_seen": "2026-11-06T09:16:42.263316272+00:00"
     },
     {
       "key": "6191b5ad83520d181f38",
@@ -1773,8 +1737,8 @@
       "published": "2026-11-04T09:40:41+09:00",
       "updated": "2026-11-04T09:40:42+09:00",
       "author_name": "tomo-ryo",
-      "likes_count": 17,
-      "last_seen": "2026-11-06T01:29:28.212072404+00:00"
+      "likes_count": 23,
+      "last_seen": "2026-11-06T09:16:42.263316272+00:00"
     },
     {
       "key": "7e5241176f3eead2a2f5",
@@ -1858,7 +1822,7 @@
       "updated": "2026-11-05T11:27:37+09:00",
       "author_name": "shirok",
       "likes_count": 17,
-      "last_seen": "2026-11-06T01:29:28.212072404+00:00"
+      "last_seen": "2026-11-06T09:16:42.263316272+00:00"
     },
     {
       "key": "83349e8b4cdf07b97cd1",
@@ -2205,8 +2169,8 @@
       "published": "2026-11-04T20:38:50+09:00",
       "updated": "2026-11-04T20:43:31+09:00",
       "author_name": "Syoitu",
-      "likes_count": 55,
-      "last_seen": "2026-11-06T01:29:28.212072404+00:00"
+      "likes_count": 65,
+      "last_seen": "2026-11-06T09:16:42.263316272+00:00"
     },
     {
       "key": "945479177d4dcbb80f69",
@@ -2917,18 +2881,6 @@
       "last_seen": "2026-10-14T18:30:37.209737837+00:00"
     },
     {
-      "key": "bb7788d1db6df66446b4",
-      "item_id": "bb7788d1db6df66446b4",
-      "title": "Power AutomateとPower Appsを活用し、セキュリティ担当者の月次確認業務を50％削減！",
-      "link": "https://qiita.com/AyakoYamada/items/bb7788d1db6df66446b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nセキュリティ担当者や情シスのみなさん、毎月の確認作業や未対応者へのリマインドに時間を取られていませんか？\n私たちの部門では、月次セキュリティチェックにおいて、セキュリティ担当者がまとめて複数の提出物や申請状況を確認し、未対応者へ個別にTeamsでリマインドする運...",
-      "published": "2026-09-04T10:57:27+09:00",
-      "updated": "2026-09-04T11:18:28+09:00",
-      "author_name": "AyakoYamada",
-      "likes_count": 13,
-      "last_seen": "2026-09-07T04:25:39.925378448+00:00"
-    },
-    {
       "key": "bd8052e938a343c82555",
       "item_id": "bd8052e938a343c82555",
       "title": "AI時代真っ只中に、ほぼ未経験で自社開発エンジニアとして新卒入社した僕が思うこと",
@@ -3107,18 +3059,6 @@
       "author_name": "suwa_nobu",
       "likes_count": 57,
       "last_seen": "2026-09-21T19:19:18.412708859+00:00"
-    },
-    {
-      "key": "c8705ed320aa15dc9db0",
-      "item_id": "c8705ed320aa15dc9db0",
-      "title": "IT面接で職務経歴書で見ているのは「すごい実績」だけではありません",
-      "link": "https://qiita.com/m__ikeda/items/c8705ed320aa15dc9db0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "自己紹介\nこんにちは。株式会社PRUMで採用広報を担当している池田です。\n未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊\nもしIT業界に興味があるけど、...",
-      "published": "2026-09-04T11:56:14+09:00",
-      "updated": "2026-09-04T11:56:14+09:00",
-      "author_name": "m__ikeda",
-      "likes_count": 47,
-      "last_seen": "2026-09-07T04:25:39.925378448+00:00"
     },
     {
       "key": "c9cccdd64e71a731a58d",
@@ -3659,18 +3599,6 @@
       "author_name": "jqit-yukiono",
       "likes_count": 51,
       "last_seen": "2026-09-29T08:21:18.204529534+00:00"
-    },
-    {
-      "key": "effb9105cf6267312d9e",
-      "item_id": "effb9105cf6267312d9e",
-      "title": "30代薬剤師が2ヶ月でITエンジニアをクビになって求職活動した",
-      "link": "https://qiita.com/kentyo0813/items/effb9105cf6267312d9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "こんにちは。\n今回は直近の離職～求職活動の話を書きます。\n\n要約\n2017年薬学部卒の30代男が1年でCCNAや基本情報や応用情報などを取得してITエンジニア転職をしたが、2ヶ月でクビになった。\n2026年8月に求職活動をはじめ、複数の企業から400万～550万のレンジで内...",
-      "published": "2026-09-04T10:43:28+09:00",
-      "updated": "2026-09-04T17:36:42+09:00",
-      "author_name": "kentyo0813",
-      "likes_count": 13,
-      "last_seen": "2026-09-07T04:25:39.925378448+00:00"
     },
     {
       "key": "f0ed9ec5cff12106978e",
