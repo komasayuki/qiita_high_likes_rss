@@ -304,7 +304,7 @@ Jevで画像入力が使え...</summary>
     <title>AI駆動開発の次の段階: ソフトウェアファクトリー</title>
     <link rel="alternate" href="https://qiita.com/Syoitu/items/9364a0a175893bb15219?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-11-04T20:43:31+09:00</updated>
-    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-11-04T20:38:50+09:00&lt;br/&gt;Updated: 2026-11-04T20:43:31+09:00&lt;br/&gt;前書き
+    <summary type="html">Likes: 76&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-11-04T20:38:50+09:00&lt;br/&gt;Updated: 2026-11-04T20:43:31+09:00&lt;br/&gt;前書き
 最近、Claude Codeの開発者であるFelix Riesebergさんの記事『AIモデルを扱う人類のための「志を高く持つ」チュートリアル』を読みました。その考え方に刺激を受けたので、少し引用して紹介します。
 
 記事によると、Claudeは最近、新しい惑星...</summary>
@@ -361,16 +361,6 @@ Jevで画像入力が使え...</summary>
     <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/square1001&quot;&gt;square1001&lt;/a&gt;&lt;br/&gt;Published: 2026-10-02T22:28:45+09:00&lt;br/&gt;Updated: 2026-10-03T01:27:07+09:00&lt;br/&gt;こんにちは、米田寛峻 (square1001) です！
 Qiita では、前回記事 直感でわかる、ヒューリスティック問題の羅針盤 ～貪欲法から山登り法まで～ 以来 4 年ぶりの投稿になります。
 私も大学院の修士 2 年生になって、最先端の研究に取り組むようになりました。主に...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d6a54f3694726b9141f3</id>
-    <title>CLAUDE.mdをそろそろ見直す時期かも ── Claude 5世代向けの最適化手順・スキル・プロジェクト種類別の例</title>
-    <link rel="alternate" href="https://qiita.com/nogataka/items/d6a54f3694726b9141f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-05T12:19:18+09:00</updated>
-    <summary type="html">Likes: 68&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nogataka&quot;&gt;nogataka&lt;/a&gt;&lt;br/&gt;Published: 2026-09-05T12:19:18+09:00&lt;br/&gt;Updated: 2026-09-05T12:19:18+09:00&lt;br/&gt;要点
-
-Anthropic は 2026年7月24日のブログで、Claude Opus 5 / Fable 5 向けに Claude Code のシステムプロンプトを 80% 以上削り、社内コーディング評価で性能低下が測定できなかったと公表しました。
-理由は「制約の多くは...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ee7565d212fd3ae1adcb</id>
@@ -1517,6 +1507,18 @@ Claude Codeには、permissions.deny で .env を読ませない設定があり�
 手...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:1c6d0ae4400ca2b4bae3</id>
+    <title>【マンガ】はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～（コミカライズ版）</title>
+    <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/1c6d0ae4400ca2b4bae3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-05T08:04:03+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuji-arakawa&quot;&gt;yuji-arakawa&lt;/a&gt;&lt;br/&gt;Published: 2026-11-05T08:04:01+09:00&lt;br/&gt;Updated: 2026-11-05T08:04:03+09:00&lt;br/&gt;表紙・紹介・目次の文字をテキストで読む
+データのそばに、AIを。
+アイと先輩の保守支援システム設計
+制作・原作：荒川裕二（日本オラクル）
+このマンガについて
+保守窓口の支援システムを任された新人エンジニアの青山アイが、同じ開発チームの先輩の神宮寺と、文書検索・契約照...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:d38d616dce3b3e3109c0</id>
     <title>APEXlangでVibe Coding：画面デザイン集</title>
     <link rel="alternate" href="https://qiita.com/araidon/items/d38d616dce3b3e3109c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1721,18 +1723,6 @@ SELECT AI RUNSQL
     <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TamakiSeki&quot;&gt;TamakiSeki&lt;/a&gt;&lt;br/&gt;Published: 2026-09-30T17:34:13+09:00&lt;br/&gt;Updated: 2026-09-30T17:34:14+09:00&lt;br/&gt;はじめに
 生成AIやAIエージェントを業務に活用しようとすると、「どの業務に適用するか」「人とAIの役割をどう分けるか」で迷うことがあります。
 文章作成や要約など個人単位の作業にはAIを導入しやすい一方、AIエージェントを作ること自体が目的になると、個別タスクの効率化にと...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1c6d0ae4400ca2b4bae3</id>
-    <title>【マンガ】はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～（コミカライズ版）</title>
-    <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/1c6d0ae4400ca2b4bae3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-05T08:04:03+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuji-arakawa&quot;&gt;yuji-arakawa&lt;/a&gt;&lt;br/&gt;Published: 2026-11-05T08:04:01+09:00&lt;br/&gt;Updated: 2026-11-05T08:04:03+09:00&lt;br/&gt;表紙・紹介・目次の文字をテキストで読む
-データのそばに、AIを。
-アイと先輩の保守支援システム設計
-制作・原作：荒川裕二（日本オラクル）
-このマンガについて
-保守窓口の支援システムを任された新人エンジニアの青山アイが、同じ開発チームの先輩の神宮寺と、文書検索・契約照...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:235bed0f8c72f268477e</id>
@@ -2024,5 +2014,20 @@ async fu...</summary>
     <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nolanlover0527&quot;&gt;nolanlover0527&lt;/a&gt;&lt;br/&gt;Published: 2026-09-07T08:57:05+09:00&lt;br/&gt;Updated: 2026-09-09T11:03:14+09:00&lt;br/&gt;GPT-5.6 Lunaを実務で使い倒してみた
 7月頭に発表されたGPT-5.6シリーズの中で、圧倒的最安モデル「GPT-5.6 Luna」を実務で2ヶ月近く使ってみました。
 主にコーディング、コード調査、資料作成などで利用し、最安モデルがどの程度使い物になるのか検...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:a5b9a6acf097ade52c9f</id>
+    <title>【React】default exportは無名関数でコンポーネントを作っても動いてしまう</title>
+    <link rel="alternate" href="https://qiita.com/J-T_ky2g/items/a5b9a6acf097ade52c9f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-07T23:53:37+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/J-T_ky2g&quot;&gt;J-T_ky2g&lt;/a&gt;&lt;br/&gt;Published: 2026-09-06T07:40:14+09:00&lt;br/&gt;Updated: 2026-09-07T23:53:37+09:00&lt;br/&gt;はじめに
+
+この記事は修正版です。教えて頂いた方々ありがとうございます 
+
+無名関数でdefault exportしてコンポーネントを定義することが、ポジティブな便利機能のようにも受け取れる文章だったので全体的に修正しております
+
+問題
+
+極論、以下のようにしても動作し...</summary>
   </entry>
 </feed>

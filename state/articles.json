@@ -321,8 +321,8 @@
       "published": "2026-11-05T08:04:01+09:00",
       "updated": "2026-11-05T08:04:03+09:00",
       "author_name": "yuji-arakawa",
-      "likes_count": 18,
-      "last_seen": "2026-11-07T02:42:51.449999916+00:00"
+      "likes_count": 21,
+      "last_seen": "2026-11-07T09:56:13.317264748+00:00"
     },
     {
       "key": "1cfd627bd1ba30e2dc9c",
@@ -1702,7 +1702,7 @@
       "updated": "2026-11-05T16:37:56+09:00",
       "author_name": "nr_ishibashi",
       "likes_count": 10,
-      "last_seen": "2026-11-07T02:42:51.449999916+00:00"
+      "last_seen": "2026-11-07T09:56:13.317264748+00:00"
     },
     {
       "key": "7affa2e2ef22ebf93fa6",
@@ -2169,8 +2169,8 @@
       "published": "2026-11-04T20:38:50+09:00",
       "updated": "2026-11-04T20:43:31+09:00",
       "author_name": "Syoitu",
-      "likes_count": 74,
-      "last_seen": "2026-11-07T02:42:51.449999916+00:00"
+      "likes_count": 76,
+      "last_seen": "2026-11-07T09:56:13.317264748+00:00"
     },
     {
       "key": "945479177d4dcbb80f69",
@@ -2183,18 +2183,6 @@
       "author_name": "songchong",
       "likes_count": 15,
       "last_seen": "2026-11-05T12:11:01.125878584+00:00"
-    },
-    {
-      "key": "94df4fbdeabaaf8f8ef5",
-      "item_id": "94df4fbdeabaaf8f8ef5",
-      "title": "AIエージェント14製品を徹底比較｜暴走せず社内業務を任せられるのは？ Claude・Cursor・Devin・Manus…【中小企業の導入判断ガイド】",
-      "link": "https://qiita.com/songchong/items/94df4fbdeabaaf8f8ef5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "「AIに社内システムを触らせて、事故は起きないのか？」\n「エンジニア専用？ 一般業務にも使えるのか？」\n「操作ミスは戻せるのか？ 費用は青天井にならないか？」\n\n1. 業務視点での結論：AIエージェント 14製品の総合比較マトリクス\n\n「AIエージェントを導入すれば、毎...",
-      "published": "2026-09-07T01:02:59+09:00",
-      "updated": "2026-09-07T16:06:25+09:00",
-      "author_name": "songchong",
-      "likes_count": 16,
-      "last_seen": "2026-09-08T04:25:17.468836359+00:00"
     },
     {
       "key": "95147e22ed5ac542ba58",
@@ -2651,6 +2639,18 @@
       "author_name": "nolanlover0527",
       "likes_count": 16,
       "last_seen": "2026-09-10T04:35:19.250856815+00:00"
+    },
+    {
+      "key": "b13d72afb085891e4fc9",
+      "item_id": "b13d72afb085891e4fc9",
+      "title": "Figmaのリアルタイム同期の仕組みを、Node.js + WebSocketの最小構成で実装してみた",
+      "link": "https://qiita.com/keishin_nishiura/items/b13d72afb085891e4fc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "1. はじめに\nソーイ株式会社の西浦です。\n前回の記事「Figmaの同時編集、なぜこんなになめらか？CRDTに着想を得た同期設計を公式ブログから読み解く」は、Figmaで他の人が動かしているオブジェクトが、自分の操作のようになめらかに追従してくることへの違和感から始まりま...",
+      "published": "2026-11-06T12:11:21+09:00",
+      "updated": "2026-11-06T12:24:30+09:00",
+      "author_name": "keishin_nishiura",
+      "likes_count": 10,
+      "last_seen": "2026-11-07T09:56:13.317264748+00:00"
     },
     {
       "key": "b15321f2efd73ff248df",
@@ -3181,18 +3181,6 @@
       "last_seen": "2026-10-10T06:58:30.300214483+00:00"
     },
     {
-      "key": "d1e1e908a1b76d6995b1",
-      "item_id": "d1e1e908a1b76d6995b1",
-      "title": "APIあるのに手入力？ 業務システムから分かるデータ連携の罠｜「項目名1つ1つの突合」から見えてきた現実",
-      "link": "https://qiita.com/songchong/items/d1e1e908a1b76d6995b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "「API連携に対応しています」\n\nSaaSの製品カタログや営業資料で、この言葉を見かけない日はありません。\nしかし、いざ導入されたあと、情シスや社内SEが現場から突きつけられるのは、こんなクレームです。\n\n「APIで自動化したはずなのに、毎月画面を開いて手入力する作業がど...",
-      "published": "2026-09-06T16:34:22+09:00",
-      "updated": "2026-09-06T21:21:17+09:00",
-      "author_name": "songchong",
-      "likes_count": 13,
-      "last_seen": "2026-09-08T04:25:17.468836359+00:00"
-    },
-    {
       "key": "d1f17a1dd4f050dbfd7f",
       "item_id": "d1f17a1dd4f050dbfd7f",
       "title": "Amazon S3+vsftpdでFTPサーバを構築する",
@@ -3275,18 +3263,6 @@
       "author_name": "nisshii0",
       "likes_count": 14,
       "last_seen": "2026-11-01T07:25:12.672267852+00:00"
-    },
-    {
-      "key": "d6a54f3694726b9141f3",
-      "item_id": "d6a54f3694726b9141f3",
-      "title": "CLAUDE.mdをそろそろ見直す時期かも ── Claude 5世代向けの最適化手順・スキル・プロジェクト種類別の例",
-      "link": "https://qiita.com/nogataka/items/d6a54f3694726b9141f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "要点\n\nAnthropic は 2026年7月24日のブログで、Claude Opus 5 / Fable 5 向けに Claude Code のシステムプロンプトを 80% 以上削り、社内コーディング評価で性能低下が測定できなかったと公表しました。\n理由は「制約の多くは...",
-      "published": "2026-09-05T12:19:18+09:00",
-      "updated": "2026-09-05T12:19:18+09:00",
-      "author_name": "nogataka",
-      "likes_count": 68,
-      "last_seen": "2026-09-08T04:25:17.468836359+00:00"
     },
     {
       "key": "d78130c065835a6343a5",
