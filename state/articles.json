@@ -322,7 +322,7 @@
       "updated": "2026-11-05T08:04:03+09:00",
       "author_name": "yuji-arakawa",
       "likes_count": 22,
-      "last_seen": "2026-11-08T00:26:20.559087219+00:00"
+      "last_seen": "2026-11-08T07:12:26.248338197+00:00"
     },
     {
       "key": "1cfd627bd1ba30e2dc9c",
@@ -349,18 +349,6 @@
       "last_seen": "2026-10-23T19:06:12.795874384+00:00"
     },
     {
-      "key": "1fc232b42c344260021d",
-      "item_id": "1fc232b42c344260021d",
-      "title": "マジックリンクでログインできない原因はメールのURLスキャンだった",
-      "link": "https://qiita.com/kuma_3838/items/1fc232b42c344260021d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n本番環境で、マジックリンクでログインできないことがあるという報告を受けました。\nメールに届いたリンクを押すと「この認証リンクは使用済みまたは期限切れです」と表示され、ログインできないという内容です。\n利用者からは「メールのリンクを押すと一瞬 Cisco のリンク...",
-      "published": "2026-09-07T06:48:44+09:00",
-      "updated": "2026-09-07T06:48:44+09:00",
-      "author_name": "kuma_3838",
-      "likes_count": 29,
-      "last_seen": "2026-09-09T04:34:22.445327173+00:00"
-    },
-    {
       "key": "2042d48f9700ccf42e6f",
       "item_id": "2042d48f9700ccf42e6f",
       "title": "超低レベルC言語プログラミング・三流エンジニア（私）のくだらないこだわり",
@@ -383,6 +371,18 @@
       "author_name": "jqit-yukiono",
       "likes_count": 50,
       "last_seen": "2026-09-26T19:47:32.989195455+00:00"
+    },
+    {
+      "key": "21c4ad96de4d8df2f047",
+      "item_id": "21c4ad96de4d8df2f047",
+      "title": "周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？",
+      "link": "https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n周りはみんな使っている。でも、私は使えなかった\n私の周りには、Microsoft MVP や、AI をフル活用されている方々がいます。\nやまぱん (@aktsmm) さん、Yuya (@yuyanz) さん、あいぼーい(@iboy)さん。\nみんな GitHub ...",
+      "published": "2026-11-07T06:05:58+09:00",
+      "updated": "2026-11-08T14:50:24+09:00",
+      "author_name": "carol0226",
+      "likes_count": 10,
+      "last_seen": "2026-11-08T07:12:26.248338197+00:00"
     },
     {
       "key": "226062f17e55202e8c47",
@@ -955,10 +955,10 @@
       "link": "https://qiita.com/inoyu-qiita/items/48094b9b40752483f5cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "一緒にQiita書きましょう！！！！！\nこの熱量で社内に呼びかけました。\n一時的にはみんなが記事を書いてくれて、Qiita Organizationの週間投稿数ランキングで1位にもなれました。でも、約3か月後に投稿一覧を見たら、、、、\nQiita投稿文化を社内に広めようと...",
       "published": "2026-11-06T12:09:39+09:00",
-      "updated": "2026-11-07T21:40:55+09:00",
+      "updated": "2026-11-08T11:52:57+09:00",
       "author_name": "inoyu-qiita",
-      "likes_count": 11,
-      "last_seen": "2026-11-08T00:26:20.559087219+00:00"
+      "likes_count": 13,
+      "last_seen": "2026-11-08T07:12:26.248338197+00:00"
     },
     {
       "key": "4bf77973ab94453a2699",
@@ -2593,18 +2593,6 @@
       "last_seen": "2026-11-03T06:34:10.397670968+00:00"
     },
     {
-      "key": "ad31bbbecc661f0a5876",
-      "item_id": "ad31bbbecc661f0a5876",
-      "title": "Git リモートで削除されたローカルブランチの自動クリーンアップ",
-      "link": "https://qiita.com/tomo-ryo/items/ad31bbbecc661f0a5876?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "GitHubでPRをマージしてリモートブランチを消しても、手元のローカルブランチって地味に残り続けますよね。\ngit fetch -p を実行すればリモート追跡ブランチは更新されますが、手元のローカルブランチ自体は自動では削除されず溜まっていきます。\ngit branch ...",
-      "published": "2026-09-07T09:55:05+09:00",
-      "updated": "2026-09-07T15:08:54+09:00",
-      "author_name": "tomo-ryo",
-      "likes_count": 10,
-      "last_seen": "2026-09-09T04:34:22.445327173+00:00"
-    },
-    {
       "key": "ae5a8c1609c794a74a25",
       "item_id": "ae5a8c1609c794a74a25",
       "title": "Claude Code の新しい監査コマンドは、そのままでは自分のスキル49本を見なかった",
@@ -2625,8 +2613,8 @@
       "published": "2026-11-07T18:11:57+09:00",
       "updated": "2026-11-08T00:12:08+09:00",
       "author_name": "kitao",
-      "likes_count": 12,
-      "last_seen": "2026-11-08T00:26:20.559087219+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-11-08T07:12:26.248338197+00:00"
     },
     {
       "key": "b019a99daaca6687cdf7",
@@ -2650,7 +2638,7 @@
       "updated": "2026-11-06T12:24:30+09:00",
       "author_name": "keishin_nishiura",
       "likes_count": 13,
-      "last_seen": "2026-11-08T00:26:20.559087219+00:00"
+      "last_seen": "2026-11-08T07:12:26.248338197+00:00"
     },
     {
       "key": "b15321f2efd73ff248df",

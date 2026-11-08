@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-11-05T11:27:37+09:00</updated>
+  <updated>2026-11-08T00:12:08+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1177,16 +1177,6 @@ terraformで管理しているリソースが増えてきて、tfstateが肥大�
 根本解決は、適度な粒度にtfstate分割ですが、もっとお手軽な小手先のテクニック...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:1fc232b42c344260021d</id>
-    <title>マジックリンクでログインできない原因はメールのURLスキャンだった</title>
-    <link rel="alternate" href="https://qiita.com/kuma_3838/items/1fc232b42c344260021d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-07T06:48:44+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-09-07T06:48:44+09:00&lt;br/&gt;Updated: 2026-09-07T06:48:44+09:00&lt;br/&gt;はじめに
-本番環境で、マジックリンクでログインできないことがあるという報告を受けました。
-メールに届いたリンクを押すと「この認証リンクは使用済みまたは期限切れです」と表示され、ログインできないという内容です。
-利用者からは「メールのリンクを押すと一瞬 Cisco のリンク...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:1781531150821e2f0491</id>
     <title>パスキーはなぜ偽サイトに強い？登録とログインの流れを図で追う</title>
     <link rel="alternate" href="https://qiita.com/kuma_3838/items/1781531150821e2f0491?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1887,6 +1877,15 @@ console.log...</summary>
 
 今回のGameDayは
 AWS GameDayは、チーム対抗でリアルなA...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:af92619297d5563f2a0e</id>
+    <title>【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！</title>
+    <link rel="alternate" href="https://qiita.com/kitao/items/af92619297d5563f2a0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-08T00:12:08+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-11-07T18:11:57+09:00&lt;br/&gt;Updated: 2026-11-08T00:12:08+09:00&lt;br/&gt;Pyxel 3.0をリリースしました！
+Python向けレトロゲームエンジンPyxel の新バージョンである3.0をリリースしました。2018年の公開から8年、2.0のリリースから約3年。ようやくのメジャーバージョンアップです。
+気がつけば、GitHubのスター数 も1....</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:ac9779bb8e8838b546b9</id>
