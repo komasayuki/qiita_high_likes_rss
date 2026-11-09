@@ -367,10 +367,10 @@
       "link": "https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "はじめに\n周りはみんな使っている。でも、私は使えなかった\n私の周りには、Microsoft MVP や、AI をフル活用されている方々がいます。\nやまぱん (@aktsmm) さん、Yuya (@yuyanz) さん、あいぼーい(@iboy)さん。\nみんな GitHub ...",
       "published": "2026-11-07T06:05:58+09:00",
-      "updated": "2026-11-09T10:01:10+09:00",
+      "updated": "2026-11-09T21:43:48+09:00",
       "author_name": "carol0226",
-      "likes_count": 18,
-      "last_seen": "2026-11-09T06:05:23.545533056+00:00"
+      "likes_count": 22,
+      "last_seen": "2026-11-09T16:04:12.079262030+00:00"
     },
     {
       "key": "226062f17e55202e8c47",
@@ -801,8 +801,8 @@
       "published": "2026-11-09T04:10:12+09:00",
       "updated": "2026-11-09T04:10:12+09:00",
       "author_name": "songchong",
-      "likes_count": 14,
-      "last_seen": "2026-11-09T06:05:23.545533056+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-11-09T16:04:12.079262030+00:00"
     },
     {
       "key": "41c9402a5dd9d80fc7a9",
@@ -1125,8 +1125,8 @@
       "published": "2026-11-06T22:18:11+09:00",
       "updated": "2026-11-06T22:18:11+09:00",
       "author_name": "yama3133",
-      "likes_count": 11,
-      "last_seen": "2026-11-09T06:05:23.545533056+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-11-09T16:04:12.079262030+00:00"
     },
     {
       "key": "542892c6d4c569c9c15f",
@@ -1523,6 +1523,18 @@
       "author_name": "fe1ix",
       "likes_count": 23,
       "last_seen": "2026-09-17T07:34:06.139210818+00:00"
+    },
+    {
+      "key": "6e466fb974972a79a323",
+      "item_id": "6e466fb974972a79a323",
+      "title": "【AWS】結果を返すか、答えを返すか。Web SearchとWeb Answerの使い分け【AgentCore】",
+      "link": "https://qiita.com/Nana_777/items/6e466fb974972a79a323?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nAIエージェントに最新のウェブ情報を渡したい場面は多いです。これまでは、検索APIを呼び、ページを取得し、要約して、出典を付ける、というパイプラインを自分で組む必要がありました。\nAmazon Bedrock AgentCoreには、この部分をマネージドで提供す...",
+      "published": "2026-11-08T15:26:43+09:00",
+      "updated": "2026-11-08T18:43:07+09:00",
+      "author_name": "Nana_777",
+      "likes_count": 11,
+      "last_seen": "2026-11-09T16:04:12.079262030+00:00"
     },
     {
       "key": "6f3936d9f7255a4259d9",
@@ -2577,8 +2589,8 @@
       "published": "2026-11-07T18:11:57+09:00",
       "updated": "2026-11-08T00:12:08+09:00",
       "author_name": "kitao",
-      "likes_count": 36,
-      "last_seen": "2026-11-09T06:05:23.545533056+00:00"
+      "likes_count": 45,
+      "last_seen": "2026-11-09T16:04:12.079262030+00:00"
     },
     {
       "key": "b13d72afb085891e4fc9",
@@ -2685,8 +2697,8 @@
       "published": "2026-11-08T18:00:22+09:00",
       "updated": "2026-11-08T18:54:47+09:00",
       "author_name": "songchong",
-      "likes_count": 19,
-      "last_seen": "2026-11-09T06:05:23.545533056+00:00"
+      "likes_count": 23,
+      "last_seen": "2026-11-09T16:04:12.079262030+00:00"
     },
     {
       "key": "b465ef863f8d8608f497",
@@ -2699,6 +2711,18 @@
       "author_name": "suwa_nobu",
       "likes_count": 23,
       "last_seen": "2026-09-16T20:01:56.404342375+00:00"
+    },
+    {
+      "key": "b5318ef2040a9f59224a",
+      "item_id": "b5318ef2040a9f59224a",
+      "title": "AI「テスト通りました」← これ､本当？  Stryker でテストの穴を塞いだ話",
+      "link": "https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "AI にテストを書いてもらって、「すべてのテストが通りました」と返ってくる。最近はこれが日常になりました。ただ、そのテストが 本当に何かを確かめているのか と聞かれると、正直、自信を持って答えられない。緑のチェックが並んでいるだけで、壊れても気づかないテストかもしれないから...",
+      "published": "2026-11-09T16:45:09+09:00",
+      "updated": "2026-11-09T16:45:09+09:00",
+      "author_name": "Dingu-suke",
+      "likes_count": 20,
+      "last_seen": "2026-11-09T16:04:12.079262030+00:00"
     },
     {
       "key": "b5805321eaef46b75459",
@@ -3083,6 +3107,18 @@
       "author_name": "ry-harada",
       "likes_count": 16,
       "last_seen": "2026-10-17T04:13:47.563886154+00:00"
+    },
+    {
+      "key": "cce40cb5b9cdfc1f8787",
+      "item_id": "cce40cb5b9cdfc1f8787",
+      "title": "集中力散漫＆過集中持ちエンジニアがAWS DEAを突破した「過集中スイッチ」の入れ方",
+      "link": "https://qiita.com/kohYoung_I/items/cce40cb5b9cdfc1f8787?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "1. はじめに（自己紹介）\nどうも！最近ゴルフにハマっている注意力散漫＆過集中持ちのエンジニアです。\n普段はシステムエンジニアとして働いており、これまで約4年間、データベース関連の開発に携わってきました。\nそんな私が今回挑戦し、無事に合格できたのが、AWS Certifi...",
+      "published": "2026-11-09T08:21:58+09:00",
+      "updated": "2026-11-09T08:21:59+09:00",
+      "author_name": "kohYoung_I",
+      "likes_count": 12,
+      "last_seen": "2026-11-09T16:04:12.079262030+00:00"
     },
     {
       "key": "cec37ce5a6141bb3eefc",
