@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-11-08T18:54:47+09:00</updated>
+  <updated>2026-11-09T10:01:10+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -165,16 +165,6 @@ Jevは超短い回答だけを超速で返してくれるAIです。
 私は国際学部国際学科出身の正真正銘の文系です。...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:24ee07122dd4d0523069</id>
-    <title>Docker環境をガチで軽量化するための鉄板設定まとめ</title>
-    <link rel="alternate" href="https://qiita.com/nolanlover0527/items/24ee07122dd4d0523069?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-09T11:02:47+09:00</updated>
-    <summary type="html">Likes: 107&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nolanlover0527&quot;&gt;nolanlover0527&lt;/a&gt;&lt;br/&gt;Published: 2026-09-07T08:56:41+09:00&lt;br/&gt;Updated: 2026-09-09T11:02:47+09:00&lt;br/&gt;はじめに
-Docker環境が重すぎて頭を抱えている人は多いのではないでしょうか。
-私自身も激重なDocker環境を触っていて、原因を一つずつ潰していった経験が何度かあります。
-今回は、ローカルのDocker環境（Windows）を軽量化するための方法について、実際に...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:59783841e48f5467594f</id>
     <title>目指せClaude全冠！4つの試験を全部受けたので攻略法を紹介します</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/59783841e48f5467594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -257,16 +247,6 @@ Playloadの基本仕様は以下...</summary>
 運転免許証の画像まで漏えい...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:f27e52d2f852ba017a7e</id>
-    <title>ジュニアの「AIが書いたコードが理解できない」問題の対応策</title>
-    <link rel="alternate" href="https://qiita.com/im_yoneda/items/f27e52d2f852ba017a7e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-07T11:53:07+09:00</updated>
-    <summary type="html">Likes: 84&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/im_yoneda&quot;&gt;im_yoneda&lt;/a&gt;&lt;br/&gt;Published: 2026-09-07T11:53:07+09:00&lt;br/&gt;Updated: 2026-09-07T11:53:07+09:00&lt;br/&gt;はじめに
-私は新卒でエンジニアになって1年が経ちました。
-生成AIに実装を依頼すると、コードを書く時間そのものは大きく短縮できることを実感しています。
-一方、私のようなジュニアエンジニアの場合、生成されたコードを理解するまでに時間がかかるため、 期待したほど開発全体は速く...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:0134c989bb86519eec2e</id>
     <title>元ヤフーエンジニア社長が考える、AIに仕事が奪われないと思う理由</title>
     <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/0134c989bb86519eec2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -308,20 +288,6 @@ Jevで画像入力が使え...</summary>
 
 アイコンやサブネットの角が丸っぽくてAI感ありますよね。「これじゃ自分で書いたほうがいいや」となっちゃいます。
 コー...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:00cb0b8d61ca76769c88</id>
-    <title>最近取り入れたClaude Codeの個人的tips 4選</title>
-    <link rel="alternate" href="https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-07T06:48:30+09:00</updated>
-    <summary type="html">Likes: 74&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-09-07T06:48:30+09:00&lt;br/&gt;Updated: 2026-09-07T06:48:30+09:00&lt;br/&gt;はじめに
-ここ最近取り入れた Claude Code の tips を4つ紹介します。1つだけツールの話です。
-どれも大がかりな仕組みではないので、気になったものだけ拾ってもらえればと思います。
-
-この記事をざっくり図解
-
-1. セッション名を自動で付ける
-知っている方...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:636c519c0b1d347c79b7</id>
@@ -946,6 +912,15 @@ Claude Codeに「この画面、Figmaに起こして」と頼むと、Figma上�
 ついに自分のサービスで前月の収益で合計17万ほどを得ることができたので、どう...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:af92619297d5563f2a0e</id>
+    <title>【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！</title>
+    <link rel="alternate" href="https://qiita.com/kitao/items/af92619297d5563f2a0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-08T00:12:08+09:00</updated>
+    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-11-07T18:11:57+09:00&lt;br/&gt;Updated: 2026-11-08T00:12:08+09:00&lt;br/&gt;Pyxel 3.0をリリースしました！
+Python向けレトロゲームエンジンPyxel の新バージョンである3.0をリリースしました。2018年の公開から8年、2.0のリリースから約3年。ようやくのメジャーバージョンアップです。
+気がつけば、GitHubのスター数 も1....</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:81e6a6737b2254bdc6ed</id>
     <title>【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた</title>
     <link rel="alternate" href="https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1147,6 +1122,16 @@ terraformで管理しているリソースが増えてきて、tfstateが肥大�
 根本解決は、適度な粒度にtfstate分割ですが、もっとお手軽な小手先のテクニック...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:48094b9b40752483f5cd</id>
+    <title>Qiita投稿文化を社内に広めようとしたけど、うまくいかなかった話</title>
+    <link rel="alternate" href="https://qiita.com/inoyu-qiita/items/48094b9b40752483f5cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-08T11:52:57+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inoyu-qiita&quot;&gt;inoyu-qiita&lt;/a&gt;&lt;br/&gt;Published: 2026-11-06T12:09:39+09:00&lt;br/&gt;Updated: 2026-11-08T11:52:57+09:00&lt;br/&gt;一緒にQiita書きましょう！！！！！
+この熱量で社内に呼びかけました。
+一時的にはみんなが記事を書いてくれて、Qiita Organizationの週間投稿数ランキングで1位にもなれました。でも、3か月後に投稿一覧を見たら、、、、
+Qiita投稿文化を社内に広めようとし...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1781531150821e2f0491</id>
     <title>パスキーはなぜ偽サイトに強い？登録とログインの流れを図で追う</title>
     <link rel="alternate" href="https://qiita.com/kuma_3838/items/1781531150821e2f0491?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1201,15 +1186,6 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
     <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/iketani45664566&quot;&gt;iketani45664566&lt;/a&gt;&lt;br/&gt;Published: 2026-09-13T18:55:25+09:00&lt;br/&gt;Updated: 2026-09-13T18:55:25+09:00&lt;br/&gt;この記事で学ぶこと
 #25 から #31 まで、認証認可を土台から作り込みました。Part 5 はこれで完結です。今日から Part 6、Webアプリ全体を設計する編に入ります。
 ここまでの回は「アプリの中身」を見てきました。SQL の書き方、層の分け方、トークンの検証。...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:af92619297d5563f2a0e</id>
-    <title>【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！</title>
-    <link rel="alternate" href="https://qiita.com/kitao/items/af92619297d5563f2a0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-08T00:12:08+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kitao&quot;&gt;kitao&lt;/a&gt;&lt;br/&gt;Published: 2026-11-07T18:11:57+09:00&lt;br/&gt;Updated: 2026-11-08T00:12:08+09:00&lt;br/&gt;Pyxel 3.0をリリースしました！
-Python向けレトロゲームエンジンPyxel の新バージョンである3.0をリリースしました。2018年の公開から8年、2.0のリリースから約3年。ようやくのメジャーバージョンアップです。
-気がつけば、GitHubのスター数 も1....</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:7cbf2881a9c8c8cf3656</id>
@@ -1653,14 +1629,12 @@ SELECT AI RUNSQL
 専門は政治学方法論と計量経済学です。因果推論については大学院生の頃から勉強していて、単なる相関ではなく、興味のある変数がアウトカムに与える因果効果を厳密に議論できるところに大きな魅力を感じていま...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:48094b9b40752483f5cd</id>
-    <title>Qiita投稿文化を社内に広めようとしたけど、うまくいかなかった話</title>
-    <link rel="alternate" href="https://qiita.com/inoyu-qiita/items/48094b9b40752483f5cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-08T11:52:57+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inoyu-qiita&quot;&gt;inoyu-qiita&lt;/a&gt;&lt;br/&gt;Published: 2026-11-06T12:09:39+09:00&lt;br/&gt;Updated: 2026-11-08T11:52:57+09:00&lt;br/&gt;一緒にQiita書きましょう！！！！！
-この熱量で社内に呼びかけました。
-一時的にはみんなが記事を書いてくれて、Qiita Organizationの週間投稿数ランキングで1位にもなれました。でも、3か月後に投稿一覧を見たら、、、、
-Qiita投稿文化を社内に広めようとし...</summary>
+    <id>tag:qiita.com,2026:b3c6c879f03f9bb665d3</id>
+    <title>脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった</title>
+    <link rel="alternate" href="https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-08T18:54:47+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-11-08T18:00:22+09:00&lt;br/&gt;Updated: 2026-11-08T18:54:47+09:00&lt;br/&gt;AI を使ったサイバー攻撃で、脆弱性が公表されてから悪用されるまでの時間は、週から日の単位に縮みました。日本政府も、2026 年 5 月の Project YATA-Shield で、AI の悪用で攻撃のスピードと規模が劇的に増加していると書いています。
+では、悪用される...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f883c3cf009785c51bcc</id>
@@ -1702,6 +1676,17 @@ Qiita投稿文化を社内に広めようとし...</summary>
     <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TamakiSeki&quot;&gt;TamakiSeki&lt;/a&gt;&lt;br/&gt;Published: 2026-09-30T17:34:13+09:00&lt;br/&gt;Updated: 2026-09-30T17:34:14+09:00&lt;br/&gt;はじめに
 生成AIやAIエージェントを業務に活用しようとすると、「どの業務に適用するか」「人とAIの役割をどう分けるか」で迷うことがあります。
 文章作成や要約など個人単位の作業にはAIを導入しやすい一方、AIエージェントを作ること自体が目的になると、個別タスクの効率化にと...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:21c4ad96de4d8df2f047</id>
+    <title>周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？</title>
+    <link rel="alternate" href="https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-09T10:01:10+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-11-07T06:05:58+09:00&lt;br/&gt;Updated: 2026-11-09T10:01:10+09:00&lt;br/&gt;はじめに
+周りはみんな使っている。でも、私は使えなかった
+私の周りには、Microsoft MVP や、AI をフル活用されている方々がいます。
+やまぱん (@aktsmm) さん、Yuya (@yuyanz) さん、あいぼーい(@iboy)さん。
+みんな GitHub ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:235bed0f8c72f268477e</id>
@@ -1783,25 +1768,6 @@ LIMIT 件数
     <updated>2026-09-14T16:13:05+09:00</updated>
     <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-14T04:32:07+09:00&lt;br/&gt;Updated: 2026-09-14T16:13:05+09:00&lt;br/&gt;「会議の録音を AI で文字起こししたら、内容がバレる心配はないか？」
 以前の記事では、個人情報・機微情報・アイデアといったデータの「種類」から見た漏れ方をまとめました（どの情報なら AI に入れてよいか）。ですが、写真📷・録音🎙・PDF📄・コード💻・いいね👍といったデータ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b3c6c879f03f9bb665d3</id>
-    <title>脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった</title>
-    <link rel="alternate" href="https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-08T18:54:47+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-11-08T18:00:22+09:00&lt;br/&gt;Updated: 2026-11-08T18:54:47+09:00&lt;br/&gt;AI を使ったサイバー攻撃で、脆弱性が公表されてから悪用されるまでの時間は、週から日の単位に縮みました。日本政府も、2026 年 5 月の Project YATA-Shield で、AI の悪用で攻撃のスピードと規模が劇的に増加していると書いています。
-では、悪用される...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:21c4ad96de4d8df2f047</id>
-    <title>周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？</title>
-    <link rel="alternate" href="https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-08T14:50:24+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-11-07T06:05:58+09:00&lt;br/&gt;Updated: 2026-11-08T14:50:24+09:00&lt;br/&gt;はじめに
-周りはみんな使っている。でも、私は使えなかった
-私の周りには、Microsoft MVP や、AI をフル活用されている方々がいます。
-やまぱん (@aktsmm) さん、Yuya (@yuyanz) さん、あいぼーい(@iboy)さん。
-みんな GitHub ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8225fd0ff29603549ab8</id>
@@ -2005,20 +1971,52 @@ async fu...</summary>
 // 入力エラーになったら親要素にク...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b019a99daaca6687cdf7</id>
-    <title>GPT-5.6 Lunaを2ヶ月使い倒した結果、ガチでコスパ最強だった</title>
-    <link rel="alternate" href="https://qiita.com/nolanlover0527/items/b019a99daaca6687cdf7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-09T11:03:14+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nolanlover0527&quot;&gt;nolanlover0527&lt;/a&gt;&lt;br/&gt;Published: 2026-09-07T08:57:05+09:00&lt;br/&gt;Updated: 2026-09-09T11:03:14+09:00&lt;br/&gt;GPT-5.6 Lunaを実務で使い倒してみた
-7月頭に発表されたGPT-5.6シリーズの中で、圧倒的最安モデル「GPT-5.6 Luna」を実務で2ヶ月近く使ってみました。
-主にコーディング、コード調査、資料作成などで利用し、最安モデルがどの程度使い物になるのか検...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:945479177d4dcbb80f69</id>
     <title>「⚪︎⚪︎はしないで」は効かない？AI Agent の危険行動を制限する 5 つの方法と守られる強さで比べた</title>
     <link rel="alternate" href="https://qiita.com/songchong/items/945479177d4dcbb80f69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-11-04T08:51:28+09:00</updated>
     <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-11-04T04:35:02+09:00&lt;br/&gt;Updated: 2026-11-04T08:51:28+09:00&lt;br/&gt;AI エージェントに「⚪︎⚪︎はしないで」と書けば、その通りにしてくれるのでしょうか。
 答えは、🔴 危険: 「しないで」と禁止だけを頼むと、守られないことがありました、です。IT連携マップ編集部は、AI エージェント（Claude Code・Antigravity CLI・...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:73bd326df5069f07f0fe</id>
+    <title>GMO、うそをついてハッカーに呆れられてしまう</title>
+    <link rel="alternate" href="https://qiita.com/Q11Q/items/73bd326df5069f07f0fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-26T23:53:37+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Q11Q&quot;&gt;Q11Q&lt;/a&gt;&lt;br/&gt;Published: 2026-10-26T22:49:02+09:00&lt;br/&gt;Updated: 2026-10-26T23:53:37+09:00&lt;br/&gt;GMOに関しては賃金の問題ではない
+
+ 
+ かつもくせよ。
+@katsumoku__
+日本でのハッキング問題はさらに深刻化していくのは確実だと思っていますが、根本的要因のひとつがこれです。
+日本のIT業界で深刻なのは、人手不足ではなく「技術者にお金が届かない構造」だと...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:7144594b0ad9529a168b</id>
+    <title>トークン代 9 割減？プロンプトキャッシュの仕組みと効果の実測 — 保持時間が過ぎるとコスト 11 倍に</title>
+    <link rel="alternate" href="https://qiita.com/songchong/items/7144594b0ad9529a168b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-26T08:07:38+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-10-26T04:00:26+09:00&lt;br/&gt;Updated: 2026-10-26T08:07:38+09:00&lt;br/&gt;AI エージェントの料金の話では、よく「プロンプトキャッシュで入力が 9 割安くなる」と言われます。上の図のとおり、キャッシュから読む料金は、Claude Sonnet 5.5 で通常の入力の 0.05 倍（95% 引き）、OpenAI の GPT-5.6 以降と Gem...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b15321f2efd73ff248df</id>
+    <title>SQL初心者の基本のキ</title>
+    <link rel="alternate" href="https://qiita.com/komaba/items/b15321f2efd73ff248df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-20T11:20:46+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/komaba&quot;&gt;komaba&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T11:20:46+09:00&lt;br/&gt;Updated: 2026-10-20T11:20:46+09:00&lt;br/&gt;はじめに
+業務でoracleについて扱うことが出てきたので、初心者なりに書籍や実務で身につけたSQLについて記載してこうと思います。
+データベース全般初心者なので簡単な内容から記載していきます。。
+
+SQLとは
+そもそもSQLとはなんぞやから始まり調べればすぐ出てくるんで...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3c14cf36091495d8880b</id>
+    <title>NWの自動化はなぜ進まないのか(1) - 「割に合わない」が積み上がる構造</title>
+    <link rel="alternate" href="https://qiita.com/corestate55/items/3c14cf36091495d8880b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-19T18:07:36+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/corestate55&quot;&gt;corestate55&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T18:07:36+09:00&lt;br/&gt;Updated: 2026-10-19T18:07:36+09:00&lt;br/&gt;はじめに
+何をいまさら…という話ですが、クラウドの世界では Infrastructure as Code や Kubernetes による運用の自動化が当たり前になりました。
+NW運用領域でも、Ansible などで設定変更や情報収集をしているところは多いでしょう。では、...</summary>
   </entry>
 </feed>

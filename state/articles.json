@@ -1,18 +1,6 @@
 {
   "items": [
     {
-      "key": "00cb0b8d61ca76769c88",
-      "item_id": "00cb0b8d61ca76769c88",
-      "title": "最近取り入れたClaude Codeの個人的tips 4選",
-      "link": "https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nここ最近取り入れた Claude Code の tips を4つ紹介します。1つだけツールの話です。\nどれも大がかりな仕組みではないので、気になったものだけ拾ってもらえればと思います。\n\nこの記事をざっくり図解\n\n1. セッション名を自動で付ける\n知っている方...",
-      "published": "2026-09-07T06:48:30+09:00",
-      "updated": "2026-09-07T06:48:30+09:00",
-      "author_name": "kuma_3838",
-      "likes_count": 74,
-      "last_seen": "2026-09-10T04:35:19.250856815+00:00"
-    },
-    {
       "key": "0134c989bb86519eec2e",
       "item_id": "0134c989bb86519eec2e",
       "title": "元ヤフーエンジニア社長が考える、AIに仕事が奪われないと思う理由",
@@ -379,10 +367,10 @@
       "link": "https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "はじめに\n周りはみんな使っている。でも、私は使えなかった\n私の周りには、Microsoft MVP や、AI をフル活用されている方々がいます。\nやまぱん (@aktsmm) さん、Yuya (@yuyanz) さん、あいぼーい(@iboy)さん。\nみんな GitHub ...",
       "published": "2026-11-07T06:05:58+09:00",
-      "updated": "2026-11-08T14:50:24+09:00",
+      "updated": "2026-11-09T10:01:10+09:00",
       "author_name": "carol0226",
-      "likes_count": 17,
-      "last_seen": "2026-11-08T23:39:02.766671091+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-11-09T06:05:23.545533056+00:00"
     },
     {
       "key": "226062f17e55202e8c47",
@@ -407,18 +395,6 @@
       "author_name": "songchong",
       "likes_count": 18,
       "last_seen": "2026-10-28T15:56:32.387523805+00:00"
-    },
-    {
-      "key": "24ee07122dd4d0523069",
-      "item_id": "24ee07122dd4d0523069",
-      "title": "Docker環境をガチで軽量化するための鉄板設定まとめ",
-      "link": "https://qiita.com/nolanlover0527/items/24ee07122dd4d0523069?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nDocker環境が重すぎて頭を抱えている人は多いのではないでしょうか。\n私自身も激重なDocker環境を触っていて、原因を一つずつ潰していった経験が何度かあります。\n今回は、ローカルのDocker環境（Windows）を軽量化するための方法について、実際に...",
-      "published": "2026-09-07T08:56:41+09:00",
-      "updated": "2026-09-09T11:02:47+09:00",
-      "author_name": "nolanlover0527",
-      "likes_count": 107,
-      "last_seen": "2026-09-10T04:35:19.250856815+00:00"
     },
     {
       "key": "252947681e7914cd9e2c",
@@ -817,6 +793,18 @@
       "last_seen": "2026-10-05T06:54:22.884299909+00:00"
     },
     {
+      "key": "41a88eb41845af761b19",
+      "item_id": "41a88eb41845af761b19",
+      "title": "部品の脆弱性は、どこまで広がるのか？ 主要 64 製品と 8 部品の依存関係をたどったら、OpenSSL は 20、SQLite は 16、PHP は 11 だった",
+      "link": "https://qiita.com/songchong/items/41a88eb41845af761b19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "AI が、広く使われるソフトウェア部品（コンポーネント）の脆弱性を見つけ始めました。Google の AI のエージェント（Big Sleep） は SQLite の脆弱性を、Google の AI で作ったテスト（OSS-Fuzz） は OpenSSL の脆弱性を見つけ...",
+      "published": "2026-11-09T04:10:12+09:00",
+      "updated": "2026-11-09T04:10:12+09:00",
+      "author_name": "songchong",
+      "likes_count": 14,
+      "last_seen": "2026-11-09T06:05:23.545533056+00:00"
+    },
+    {
       "key": "41c9402a5dd9d80fc7a9",
       "item_id": "41c9402a5dd9d80fc7a9",
       "title": "ローカル動作するJevっぽいものを調べてたら、なんとマルチモーダル対応もできてた！",
@@ -945,8 +933,8 @@
       "published": "2026-11-06T12:09:39+09:00",
       "updated": "2026-11-08T11:52:57+09:00",
       "author_name": "inoyu-qiita",
-      "likes_count": 19,
-      "last_seen": "2026-11-08T23:39:02.766671091+00:00"
+      "likes_count": 28,
+      "last_seen": "2026-11-09T06:05:23.545533056+00:00"
     },
     {
       "key": "4bf77973ab94453a2699",
@@ -1127,6 +1115,18 @@
       "author_name": "yasu1109",
       "likes_count": 10,
       "last_seen": "2026-09-28T15:19:41.791193799+00:00"
+    },
+    {
+      "key": "5416c243e14a5406dd6f",
+      "item_id": "5416c243e14a5406dd6f",
+      "title": "東京リージョンで使っていてもバージニア北部に依存しているもの",
+      "link": "https://qiita.com/yama3133/items/5416c243e14a5406dd6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n2025年10月20日、us-east-1(バージニア北部)で大規模な障害が起きました。\n東京リージョンでシステムを動かしている人にも影響が出ました。\n一方で、AWS の設定には\n「ロググループは us-east-1 に作ること」\nのように、東京で使っていても ...",
+      "published": "2026-11-06T22:18:11+09:00",
+      "updated": "2026-11-06T22:18:11+09:00",
+      "author_name": "yama3133",
+      "likes_count": 11,
+      "last_seen": "2026-11-09T06:05:23.545533056+00:00"
     },
     {
       "key": "542892c6d4c569c9c15f",
@@ -1993,18 +1993,6 @@
       "last_seen": "2026-09-27T18:17:51.344520253+00:00"
     },
     {
-      "key": "8b48962aa6d5408abe86",
-      "item_id": "8b48962aa6d5408abe86",
-      "title": "MCPサーバーを1つ作って分かった、「MCP対応」の前にやること｜業務システム56件・MCP提供は25.0%",
-      "link": "https://qiita.com/songchong/items/8b48962aa6d5408abe86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "「うちのシステムも MCP に対応すべきか」\n「これからは API ではなく MCP なのか」\n——こうした声を聞くことが増えました。しかし、流行しているからといって安易に飛びつくのは危険です。\n\nそこで編集部では、両側の一次仕様書の突き合わせと、IT連携マップ で公開して...",
-      "published": "2026-09-08T23:00:53+09:00",
-      "updated": "2026-09-09T13:30:42+09:00",
-      "author_name": "songchong",
-      "likes_count": 14,
-      "last_seen": "2026-09-10T04:35:19.250856815+00:00"
-    },
-    {
       "key": "8b663db633dde3c49d62",
       "item_id": "8b663db633dde3c49d62",
       "title": "Claude Code ModsとJevでモデルルーターを構築（サブスクで使えるゾ！！）",
@@ -2589,20 +2577,8 @@
       "published": "2026-11-07T18:11:57+09:00",
       "updated": "2026-11-08T00:12:08+09:00",
       "author_name": "kitao",
-      "likes_count": 26,
-      "last_seen": "2026-11-08T23:39:02.766671091+00:00"
-    },
-    {
-      "key": "b019a99daaca6687cdf7",
-      "item_id": "b019a99daaca6687cdf7",
-      "title": "GPT-5.6 Lunaを2ヶ月使い倒した結果、ガチでコスパ最強だった",
-      "link": "https://qiita.com/nolanlover0527/items/b019a99daaca6687cdf7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "GPT-5.6 Lunaを実務で使い倒してみた\n7月頭に発表されたGPT-5.6シリーズの中で、圧倒的最安モデル「GPT-5.6 Luna」を実務で2ヶ月近く使ってみました。\n主にコーディング、コード調査、資料作成などで利用し、最安モデルがどの程度使い物になるのか検...",
-      "published": "2026-09-07T08:57:05+09:00",
-      "updated": "2026-09-09T11:03:14+09:00",
-      "author_name": "nolanlover0527",
-      "likes_count": 16,
-      "last_seen": "2026-09-10T04:35:19.250856815+00:00"
+      "likes_count": 36,
+      "last_seen": "2026-11-09T06:05:23.545533056+00:00"
     },
     {
       "key": "b13d72afb085891e4fc9",
@@ -2709,8 +2685,8 @@
       "published": "2026-11-08T18:00:22+09:00",
       "updated": "2026-11-08T18:54:47+09:00",
       "author_name": "songchong",
-      "likes_count": 17,
-      "last_seen": "2026-11-08T23:39:02.766671091+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-11-09T06:05:23.545533056+00:00"
     },
     {
       "key": "b465ef863f8d8608f497",
@@ -3575,18 +3551,6 @@
       "author_name": "minorun365",
       "likes_count": 39,
       "last_seen": "2026-10-02T02:10:43.369883985+00:00"
-    },
-    {
-      "key": "f27e52d2f852ba017a7e",
-      "item_id": "f27e52d2f852ba017a7e",
-      "title": "ジュニアの「AIが書いたコードが理解できない」問題の対応策",
-      "link": "https://qiita.com/im_yoneda/items/f27e52d2f852ba017a7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n私は新卒でエンジニアになって1年が経ちました。\n生成AIに実装を依頼すると、コードを書く時間そのものは大きく短縮できることを実感しています。\n一方、私のようなジュニアエンジニアの場合、生成されたコードを理解するまでに時間がかかるため、 期待したほど開発全体は速く...",
-      "published": "2026-09-07T11:53:07+09:00",
-      "updated": "2026-09-07T11:53:07+09:00",
-      "author_name": "im_yoneda",
-      "likes_count": 84,
-      "last_seen": "2026-09-10T04:35:19.250856815+00:00"
     },
     {
       "key": "f5a44b09241bdb21907e",
