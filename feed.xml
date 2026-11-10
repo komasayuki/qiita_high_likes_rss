@@ -592,15 +592,6 @@ Fixed /update-config writing Write(path) permission rules, which file permission
 この記事は、サーバに SSH で入れる Web 担当者・サイト運営者・制作会社...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c9cccdd64e71a731a58d</id>
-    <title>パスキーでも被害に遭うデバイスコードフロー攻撃とは？ ～ Entra ID での防御と検証方法を解説</title>
-    <link rel="alternate" href="https://qiita.com/carol0226/items/c9cccdd64e71a731a58d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-10T19:48:41+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-09-09T02:38:46+09:00&lt;br/&gt;Updated: 2026-09-10T19:48:41+09:00&lt;br/&gt;はじめに
-私はパスキーに出会って以来、「これこそが本来あるべき認証の姿だ」と強く感じるようになり、それ以降、積極的にパスキーを推進してきました。
-そんな中、パスキーを利用していても攻撃を受ける可能性がある手法として、「デバイスコード フローを悪用したフィッシング攻撃」の存...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:8d17257a9778a086c7cd</id>
     <title>Argo RolloutsのBlue-Greenは「2つの環境の交代」じゃなかった ― 名前に引きずられて誤解していた話</title>
     <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/8d17257a9778a086c7cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -674,6 +665,16 @@ Fixed /update-config writing Write(path) permission rules, which file permission
 前回の記事では「Goライクな構文のまま、libcフリーでわずか2.56KBのW...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cce40cb5b9cdfc1f8787</id>
+    <title>集中力散漫＆過集中持ちエンジニアがAWS DEAを突破した「過集中スイッチ」の入れ方</title>
+    <link rel="alternate" href="https://qiita.com/kohYoung_I/items/cce40cb5b9cdfc1f8787?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-09T08:21:59+09:00</updated>
+    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kohYoung_I&quot;&gt;kohYoung_I&lt;/a&gt;&lt;br/&gt;Published: 2026-11-09T08:21:58+09:00&lt;br/&gt;Updated: 2026-11-09T08:21:59+09:00&lt;br/&gt;1. はじめに（自己紹介）
+どうも！最近ゴルフにハマっている注意力散漫＆過集中持ちのエンジニアです。
+普段はシステムエンジニアとして働いており、これまで約4年間、データベース関連の開発に携わってきました。
+そんな私が今回挑戦し、無事に合格できたのが、AWS Certifi...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:472325ce548da370ed5d</id>
     <title>話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説</title>
     <link rel="alternate" href="https://qiita.com/yushibats/items/472325ce548da370ed5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -685,16 +686,6 @@ Jevが話題ですね。
 
 ざっくりまとめ
 Jevは、文章で書かれた状況を読み、あらかじめ用意された選択...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:cce40cb5b9cdfc1f8787</id>
-    <title>集中力散漫＆過集中持ちエンジニアがAWS DEAを突破した「過集中スイッチ」の入れ方</title>
-    <link rel="alternate" href="https://qiita.com/kohYoung_I/items/cce40cb5b9cdfc1f8787?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-09T08:21:59+09:00</updated>
-    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kohYoung_I&quot;&gt;kohYoung_I&lt;/a&gt;&lt;br/&gt;Published: 2026-11-09T08:21:58+09:00&lt;br/&gt;Updated: 2026-11-09T08:21:59+09:00&lt;br/&gt;1. はじめに（自己紹介）
-どうも！最近ゴルフにハマっている注意力散漫＆過集中持ちのエンジニアです。
-普段はシステムエンジニアとして働いており、これまで約4年間、データベース関連の開発に携わってきました。
-そんな私が今回挑戦し、無事に合格できたのが、AWS Certifi...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6b4e0a5e4946d1a941ac</id>
@@ -808,7 +799,7 @@ AIエージェントが開発を行うようになり、多くのエンジニア
     <title>AI「テスト通りました」← これ､本当？  Stryker でテストの穴を塞いだ話</title>
     <link rel="alternate" href="https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-11-09T16:45:09+09:00</updated>
-    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Dingu-suke&quot;&gt;Dingu-suke&lt;/a&gt;&lt;br/&gt;Published: 2026-11-09T16:45:09+09:00&lt;br/&gt;Updated: 2026-11-09T16:45:09+09:00&lt;br/&gt;AI にテストを書いてもらって、「すべてのテストが通りました」と返ってくる。最近はこれが日常になりました。ただ、そのテストが 本当に何かを確かめているのか と聞かれると、正直、自信を持って答えられない。緑のチェックが並んでいるだけで、壊れても気づかないテストかもしれないから...</summary>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Dingu-suke&quot;&gt;Dingu-suke&lt;/a&gt;&lt;br/&gt;Published: 2026-11-09T16:45:09+09:00&lt;br/&gt;Updated: 2026-11-09T16:45:09+09:00&lt;br/&gt;AI にテストを書いてもらって、「すべてのテストが通りました」と返ってくる。最近はこれが日常になりました。ただ、そのテストが 本当に何かを確かめているのか と聞かれると、正直、自信を持って答えられない。緑のチェックが並んでいるだけで、壊れても気づかないテストかもしれないから...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:83535ce9f3dd7d56600e</id>
@@ -2012,5 +2003,16 @@ NW運用領域でも、Ansible などで設定変更や情報収集をしてい�
     <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Eitaro_dotlog&quot;&gt;Eitaro_dotlog&lt;/a&gt;&lt;br/&gt;Published: 2026-10-16T14:47:27+09:00&lt;br/&gt;Updated: 2026-10-17T12:44:39+09:00&lt;br/&gt;はじめに
 建設業界向けのInstagram「建設AIラボ（@kensetsu_ai_lab）」の運用などなどを担当しておりますEitaroです！縦型のリールなど様々なクリエイティブを作っています。
 撮影はしていませんし、編集ソフトも開いていません。 写真も映像もナレーショ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b2f2d50f0a5c74d09348</id>
+    <title>コメント欄にはなぜチンパンジーしかいないのか</title>
+    <link rel="alternate" href="https://qiita.com/kotowazaman/items/b2f2d50f0a5c74d09348?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-12T10:18:35+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kotowazaman&quot;&gt;kotowazaman&lt;/a&gt;&lt;br/&gt;Published: 2026-10-09T17:28:24+09:00&lt;br/&gt;Updated: 2026-10-12T10:18:35+09:00&lt;br/&gt;チンパンジーに失礼なタイトルです。先に謝罪しておきます。
+
+チンパンジーだらけに見えるのは、人のせいではなく場の設計のせい
+YouTubeでもXでもヤフコメでも、コメント欄を開けば同じ光景です。
+本文を読んでいないとしか思えない断定、罵るためだけの短文、毎回現れるマウント。...</summary>
   </entry>
 </feed>
