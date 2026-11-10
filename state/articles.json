@@ -277,6 +277,18 @@
       "last_seen": "2026-10-16T07:03:42.048968915+00:00"
     },
     {
+      "key": "1a043190d8f00d2ebda6",
+      "item_id": "1a043190d8f00d2ebda6",
+      "title": "ひとりで作るOSSを、チームの基準でレビューする（Codex・Claude・CodeRabbit）",
+      "link": "https://qiita.com/figueiredoluiz/items/1a043190d8f00d2ebda6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nテストの重複を検出する静的解析ツールを、2つひとりでメンテナンスしている。Vitest向けの vitest-dedup と、Cucumber/Gherkin向けの cuke-dedup だ。どちらもRustで書かれていて、npmとGitHub Actionで配布...",
+      "published": "2026-11-10T01:24:42+09:00",
+      "updated": "2026-11-10T01:24:42+09:00",
+      "author_name": "figueiredoluiz",
+      "likes_count": 10,
+      "last_seen": "2026-11-10T08:19:14.162977665+00:00"
+    },
+    {
       "key": "1b6a05842724fc1fff66",
       "item_id": "1b6a05842724fc1fff66",
       "title": "BedrockのClaudeに暗黙的なプロンプトキャッシュが登場！！とドキュメントにある（暗黙的とは？）",
@@ -335,18 +347,6 @@
       "author_name": "yuji-arakawa",
       "likes_count": 14,
       "last_seen": "2026-10-23T19:06:12.795874384+00:00"
-    },
-    {
-      "key": "2042d48f9700ccf42e6f",
-      "item_id": "2042d48f9700ccf42e6f",
-      "title": "超低レベルC言語プログラミング・三流エンジニア（私）のくだらないこだわり",
-      "link": "https://qiita.com/metalaomishi/items/2042d48f9700ccf42e6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n私事ですが、過去に機器メーカーのソフトウェアエンジニア部隊に所属しておりまして、長いことC言語での組み込みソフトウェア開発に携わっていた人間です。\n仕事でソフトウェア開発に関わったことがある方なら大なり小なり経験はあると思いますが、この世界には、視点や考え方、時...",
-      "published": "2026-09-08T08:10:37+09:00",
-      "updated": "2026-09-08T08:10:37+09:00",
-      "author_name": "metalaomishi",
-      "likes_count": 10,
-      "last_seen": "2026-09-11T04:29:05.674977251+00:00"
     },
     {
       "key": "21973aaa1c605b34c174",
@@ -697,18 +697,6 @@
       "last_seen": "2026-11-05T03:26:24.933646279+00:00"
     },
     {
-      "key": "3cb311b037a975739948",
-      "item_id": "3cb311b037a975739948",
-      "title": "NL2SQL: Select AIが Metadataから SQLを生成する仕組みと AI Ready Dataを整理してみてみた",
-      "link": "https://qiita.com/shirok/items/3cb311b037a975739948?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Select AIを使用すると、例えば次のように業務用語でDatabaseへ問い合わせできます。\nSELECT AI RUNSQL\n関東の有効顧客について、確定済み売上金額を顧客別に表示してください;\n\nここで気になるのは、LLMが「有効顧客」や「確定済み売上」を、どの情...",
-      "published": "2026-09-08T06:37:46+09:00",
-      "updated": "2026-09-09T19:06:27+09:00",
-      "author_name": "shirok",
-      "likes_count": 20,
-      "last_seen": "2026-09-11T04:29:05.674977251+00:00"
-    },
-    {
       "key": "3ce4e1c1a39db64c5c32",
       "item_id": "3ce4e1c1a39db64c5c32",
       "title": "0から学ぶセキュリティの基礎　~XSS編~",
@@ -789,8 +777,8 @@
       "published": "2026-11-09T04:10:12+09:00",
       "updated": "2026-11-09T04:10:12+09:00",
       "author_name": "songchong",
-      "likes_count": 19,
-      "last_seen": "2026-11-10T00:11:13.146288624+00:00"
+      "likes_count": 21,
+      "last_seen": "2026-11-10T08:19:14.162977665+00:00"
     },
     {
       "key": "41c9402a5dd9d80fc7a9",
@@ -1225,18 +1213,6 @@
       "last_seen": "2026-09-18T05:49:50.940638287+00:00"
     },
     {
-      "key": "5ea6f13d2ee1a794e560",
-      "item_id": "5ea6f13d2ee1a794e560",
-      "title": "【破門覚悟】政治学と経済学の因果推論帝国主義者に物申す",
-      "link": "https://qiita.com/Gotoubun_taiwan/items/5ea6f13d2ee1a794e560?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nこんにちは、事業会社で働いているデータサイエンティストです。\n\n専門は政治学方法論と計量経済学です。因果推論については大学院生の頃から勉強していて、単なる相関ではなく、興味のある変数がアウトカムに与える因果効果を厳密に議論できるところに大きな魅力を感じていま...",
-      "published": "2026-09-08T21:12:24+09:00",
-      "updated": "2026-09-08T21:12:24+09:00",
-      "author_name": "Gotoubun_taiwan",
-      "likes_count": 20,
-      "last_seen": "2026-09-11T04:29:05.674977251+00:00"
-    },
-    {
       "key": "5ee39ef5b71510e36c2a",
       "item_id": "5ee39ef5b71510e36c2a",
       "title": "「シークレットスキャン」とは？漏れた API キー、誰が止めてくれるのか？ 業務システム 65 件と GitHub・GitLab を調べてみた",
@@ -1465,6 +1441,18 @@
       "last_seen": "2026-09-22T04:43:31.126048062+00:00"
     },
     {
+      "key": "6d13fdce2a31fe630840",
+      "item_id": "6d13fdce2a31fe630840",
+      "title": "WEBで画像を破くツールを作った",
+      "link": "https://qiita.com/ishi720/items/6d13fdce2a31fe630840?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nまずは、私が30秒くらいで描いたアボカドを破いて見せましょう！\n\nどうですか？破け方気持ちよくないですか？\n今回は、画像をなぞった線に沿ってビリビリと破れるWebアプリを作ってみました。\nVueやReact以外のフレームワークを使ってみたいので Svelte を...",
+      "published": "2026-11-09T06:44:47+09:00",
+      "updated": "2026-11-09T06:44:47+09:00",
+      "author_name": "ishi720",
+      "likes_count": 12,
+      "last_seen": "2026-11-10T08:19:14.162977665+00:00"
+    },
+    {
       "key": "6d477770254406c25188",
       "item_id": "6d477770254406c25188",
       "title": "【2026年版】サクラエディタの最初にやってほしい設定2+1選：Win + Rから起動と自動即時保存",
@@ -1510,7 +1498,7 @@
       "updated": "2026-11-08T18:43:07+09:00",
       "author_name": "Nana_777",
       "likes_count": 11,
-      "last_seen": "2026-11-10T00:11:13.146288624+00:00"
+      "last_seen": "2026-11-10T08:19:14.162977665+00:00"
     },
     {
       "key": "6f3936d9f7255a4259d9",
@@ -2553,8 +2541,8 @@
       "published": "2026-11-07T18:11:57+09:00",
       "updated": "2026-11-08T00:12:08+09:00",
       "author_name": "kitao",
-      "likes_count": 48,
-      "last_seen": "2026-11-10T00:11:13.146288624+00:00"
+      "likes_count": 54,
+      "last_seen": "2026-11-10T08:19:14.162977665+00:00"
     },
     {
       "key": "b13d72afb085891e4fc9",
@@ -2661,8 +2649,8 @@
       "published": "2026-11-08T18:00:22+09:00",
       "updated": "2026-11-08T18:54:47+09:00",
       "author_name": "songchong",
-      "likes_count": 25,
-      "last_seen": "2026-11-10T00:11:13.146288624+00:00"
+      "likes_count": 26,
+      "last_seen": "2026-11-10T08:19:14.162977665+00:00"
     },
     {
       "key": "b465ef863f8d8608f497",
@@ -2685,8 +2673,8 @@
       "published": "2026-11-09T16:45:09+09:00",
       "updated": "2026-11-09T16:45:09+09:00",
       "author_name": "Dingu-suke",
-      "likes_count": 22,
-      "last_seen": "2026-11-10T00:11:13.146288624+00:00"
+      "likes_count": 31,
+      "last_seen": "2026-11-10T08:19:14.162977665+00:00"
     },
     {
       "key": "b5805321eaef46b75459",
@@ -3069,8 +3057,8 @@
       "published": "2026-11-09T08:21:58+09:00",
       "updated": "2026-11-09T08:21:59+09:00",
       "author_name": "kohYoung_I",
-      "likes_count": 14,
-      "last_seen": "2026-11-10T00:11:13.146288624+00:00"
+      "likes_count": 36,
+      "last_seen": "2026-11-10T08:19:14.162977665+00:00"
     },
     {
       "key": "cec37ce5a6141bb3eefc",
@@ -3635,18 +3623,6 @@
       "author_name": "ryosuke_ohori",
       "likes_count": 11,
       "last_seen": "2026-09-13T19:22:10.684320202+00:00"
-    },
-    {
-      "key": "f8f00a1330b249830a3d",
-      "item_id": "f8f00a1330b249830a3d",
-      "title": "AI時代にコードの理解を「習慣にする」ために1日5問の学習アプリを作った話",
-      "link": "https://qiita.com/kitagawa_sapeet/items/f8f00a1330b249830a3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "1. AI駆動開発とコードレビューの変化\n昨今、AIによって実装速度は大きく向上しました。AIの作業量が増えることで、自分でコードを書くよりも確認の工数が増えていっているのは、多くの人に共通する流れだと思います。私のチームでも、人によるレビューに加えてAIにも別の観点から...",
-      "published": "2026-09-09T11:32:50+09:00",
-      "updated": "2026-09-09T11:33:46+09:00",
-      "author_name": "kitagawa_sapeet",
-      "likes_count": 34,
-      "last_seen": "2026-09-11T04:29:05.674977251+00:00"
     },
     {
       "key": "fa75e8e9cd61a2f2a22f",
