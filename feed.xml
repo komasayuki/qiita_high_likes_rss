@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-11-09T21:43:48+09:00</updated>
+  <updated>2026-11-11T11:03:51+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -401,6 +401,16 @@ https://prum.jp/
 2026年9月8日、生成AI が数学分野で有名なミレニアム懸賞問題のひとつ、ナビエ・ストークス方程式の存在と滑らかさに関する問題（の一部）を解決したという発表がありました。...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:cce40cb5b9cdfc1f8787</id>
+    <title>集中力散漫＆過集中持ちエンジニアがAWS DEAを突破した「過集中スイッチ」の入れ方</title>
+    <link rel="alternate" href="https://qiita.com/kohYoung_I/items/cce40cb5b9cdfc1f8787?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-09T08:21:59+09:00</updated>
+    <summary type="html">Likes: 60&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kohYoung_I&quot;&gt;kohYoung_I&lt;/a&gt;&lt;br/&gt;Published: 2026-11-09T08:21:58+09:00&lt;br/&gt;Updated: 2026-11-09T08:21:59+09:00&lt;br/&gt;1. はじめに（自己紹介）
+どうも！最近ゴルフにハマっている注意力散漫＆過集中持ちのエンジニアです。
+普段はシステムエンジニアとして働いており、これまで約4年間、データベース関連の開発に携わってきました。
+そんな私が今回挑戦し、無事に合格できたのが、AWS Certifi...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:92d4de34077b9ae02fca</id>
     <title>許可ルールを settings.json に書いても効かなかった。分かれ目はフォルダを信頼したかどうか</title>
     <link rel="alternate" href="https://qiita.com/suwa_nobu/items/92d4de34077b9ae02fca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -665,16 +675,6 @@ Fixed /update-config writing Write(path) permission rules, which file permission
 前回の記事では「Goライクな構文のまま、libcフリーでわずか2.56KBのW...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:cce40cb5b9cdfc1f8787</id>
-    <title>集中力散漫＆過集中持ちエンジニアがAWS DEAを突破した「過集中スイッチ」の入れ方</title>
-    <link rel="alternate" href="https://qiita.com/kohYoung_I/items/cce40cb5b9cdfc1f8787?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-09T08:21:59+09:00</updated>
-    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kohYoung_I&quot;&gt;kohYoung_I&lt;/a&gt;&lt;br/&gt;Published: 2026-11-09T08:21:58+09:00&lt;br/&gt;Updated: 2026-11-09T08:21:59+09:00&lt;br/&gt;1. はじめに（自己紹介）
-どうも！最近ゴルフにハマっている注意力散漫＆過集中持ちのエンジニアです。
-普段はシステムエンジニアとして働いており、これまで約4年間、データベース関連の開発に携わってきました。
-そんな私が今回挑戦し、無事に合格できたのが、AWS Certifi...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:472325ce548da370ed5d</id>
     <title>話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説</title>
     <link rel="alternate" href="https://qiita.com/yushibats/items/472325ce548da370ed5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -686,6 +686,13 @@ Jevが話題ですね。
 
 ざっくりまとめ
 Jevは、文章で書かれた状況を読み、あらかじめ用意された選択...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b5318ef2040a9f59224a</id>
+    <title>AI「テスト通りました」← これ､本当？  Stryker でテストの穴を塞いだ話</title>
+    <link rel="alternate" href="https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-11T11:03:51+09:00</updated>
+    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Dingu-suke&quot;&gt;Dingu-suke&lt;/a&gt;&lt;br/&gt;Published: 2026-11-09T16:45:09+09:00&lt;br/&gt;Updated: 2026-11-11T11:03:51+09:00&lt;br/&gt;AI にテストを書いてもらって、「すべてのテストが通りました」と返ってくる。最近はこれが日常になりました。ただ、そのテストが 本当に何かを確かめているのか と聞かれると、正直、自信を持って答えられない。緑のチェックが並んでいるだけで、壊れても気づかないテストかもしれないから...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6b4e0a5e4946d1a941ac</id>
@@ -793,13 +800,6 @@ AIエージェントが開発を行うようになり、多くのエンジニア
 今年の文化祭で、私のクラスは模擬店としてホットドッグを販売することになりました。
 そこで、注文から受け渡しまでを担うPOSシステムを1から開発・運用してみました！
 インフラには一番手軽に使えて自由度も高いCloudflareを採...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b5318ef2040a9f59224a</id>
-    <title>AI「テスト通りました」← これ､本当？  Stryker でテストの穴を塞いだ話</title>
-    <link rel="alternate" href="https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-09T16:45:09+09:00</updated>
-    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Dingu-suke&quot;&gt;Dingu-suke&lt;/a&gt;&lt;br/&gt;Published: 2026-11-09T16:45:09+09:00&lt;br/&gt;Updated: 2026-11-09T16:45:09+09:00&lt;br/&gt;AI にテストを書いてもらって、「すべてのテストが通りました」と返ってくる。最近はこれが日常になりました。ただ、そのテストが 本当に何かを確かめているのか と聞かれると、正直、自信を持って答えられない。緑のチェックが並んでいるだけで、壊れても気づかないテストかもしれないから...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:83535ce9f3dd7d56600e</id>
@@ -1103,6 +1103,14 @@ terraformで管理しているリソースが増えてきて、tfstateが肥大�
 根本解決は、適度な粒度にtfstate分割ですが、もっとお手軽な小手先のテクニック...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b3c6c879f03f9bb665d3</id>
+    <title>脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった</title>
+    <link rel="alternate" href="https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-08T18:54:47+09:00</updated>
+    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-11-08T18:00:22+09:00&lt;br/&gt;Updated: 2026-11-08T18:54:47+09:00&lt;br/&gt;AI を使ったサイバー攻撃で、脆弱性が公表されてから悪用されるまでの時間は、週から日の単位に縮みました。日本政府も、2026 年 5 月の Project YATA-Shield で、AI の悪用で攻撃のスピードと規模が劇的に増加していると書いています。
+では、悪用される...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:48094b9b40752483f5cd</id>
     <title>Qiita投稿文化を社内に広めようとしたけど、うまくいかなかった話</title>
     <link rel="alternate" href="https://qiita.com/inoyu-qiita/items/48094b9b40752483f5cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1150,14 +1158,6 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
     <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ktdatascience&quot;&gt;ktdatascience&lt;/a&gt;&lt;br/&gt;Published: 2026-09-19T12:51:02+09:00&lt;br/&gt;Updated: 2026-09-19T12:51:02+09:00&lt;br/&gt;はじめに
 海外で現地のSIMに差し替えた初日、銀行アプリにログインしようとして「SMSで確認コードを送信しました」の画面で止まりました。日本の番号のSIMは机の上。コードは日本の番号に飛んでいく。届くわけがない。結局その旅の間、銀行には一度も入れませんでした。
 一方で、同...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b3c6c879f03f9bb665d3</id>
-    <title>脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった</title>
-    <link rel="alternate" href="https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-08T18:54:47+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-11-08T18:00:22+09:00&lt;br/&gt;Updated: 2026-11-08T18:54:47+09:00&lt;br/&gt;AI を使ったサイバー攻撃で、脆弱性が公表されてから悪用されるまでの時間は、週から日の単位に縮みました。日本政府も、2026 年 5 月の Project YATA-Shield で、AI の悪用で攻撃のスピードと規模が劇的に増加していると書いています。
-では、悪用される...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cbd1d7bb724676a3b686</id>
@@ -1329,6 +1329,18 @@ Honoってあるじゃないですか。TypeScriptのWebフレームワークで
 そうなると、やることは決まっています。片っ端から入れるのです。
 自作47本を運用しながら1ヶ月ほど測った結果、増やすほど呼ばれなくなることが分かりました。
 重くなるから...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:6d13fdce2a31fe630840</id>
+    <title>WEBで画像を破くツールを作った</title>
+    <link rel="alternate" href="https://qiita.com/ishi720/items/6d13fdce2a31fe630840?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-09T06:44:47+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ishi720&quot;&gt;ishi720&lt;/a&gt;&lt;br/&gt;Published: 2026-11-09T06:44:47+09:00&lt;br/&gt;Updated: 2026-11-09T06:44:47+09:00&lt;br/&gt;はじめに
+まずは、私が30秒くらいで描いたアボカドを破いて見せましょう！
+
+どうですか？破け方気持ちよくないですか？
+今回は、画像をなぞった線に沿ってビリビリと破れるWebアプリを作ってみました。
+VueやReact以外のフレームワークを使ってみたいので Svelte を...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3dec10762fcc224d9133</id>
@@ -2003,16 +2015,5 @@ NW運用領域でも、Ansible などで設定変更や情報収集をしてい�
     <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Eitaro_dotlog&quot;&gt;Eitaro_dotlog&lt;/a&gt;&lt;br/&gt;Published: 2026-10-16T14:47:27+09:00&lt;br/&gt;Updated: 2026-10-17T12:44:39+09:00&lt;br/&gt;はじめに
 建設業界向けのInstagram「建設AIラボ（@kensetsu_ai_lab）」の運用などなどを担当しておりますEitaroです！縦型のリールなど様々なクリエイティブを作っています。
 撮影はしていませんし、編集ソフトも開いていません。 写真も映像もナレーショ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b2f2d50f0a5c74d09348</id>
-    <title>コメント欄にはなぜチンパンジーしかいないのか</title>
-    <link rel="alternate" href="https://qiita.com/kotowazaman/items/b2f2d50f0a5c74d09348?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-12T10:18:35+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kotowazaman&quot;&gt;kotowazaman&lt;/a&gt;&lt;br/&gt;Published: 2026-10-09T17:28:24+09:00&lt;br/&gt;Updated: 2026-10-12T10:18:35+09:00&lt;br/&gt;チンパンジーに失礼なタイトルです。先に謝罪しておきます。
-
-チンパンジーだらけに見えるのは、人のせいではなく場の設計のせい
-YouTubeでもXでもヤフコメでも、コメント欄を開けば同じ光景です。
-本文を読んでいないとしか思えない断定、罵るためだけの短文、毎回現れるマウント。...</summary>
   </entry>
 </feed>
