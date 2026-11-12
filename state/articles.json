@@ -273,8 +273,8 @@
       "published": "2026-11-10T01:24:42+09:00",
       "updated": "2026-11-10T01:24:42+09:00",
       "author_name": "figueiredoluiz",
-      "likes_count": 15,
-      "last_seen": "2026-11-12T01:28:51.171178376+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-11-12T09:42:56.037994516+00:00"
     },
     {
       "key": "1b6a05842724fc1fff66",
@@ -381,8 +381,8 @@
       "published": "2026-11-10T11:10:06+09:00",
       "updated": "2026-11-10T11:10:07+09:00",
       "author_name": "koshiro_esaki",
-      "likes_count": 20,
-      "last_seen": "2026-11-12T01:28:51.171178376+00:00"
+      "likes_count": 26,
+      "last_seen": "2026-11-12T09:42:56.037994516+00:00"
     },
     {
       "key": "235bed0f8c72f268477e",
@@ -453,8 +453,8 @@
       "published": "2026-11-09T20:13:44+09:00",
       "updated": "2026-11-09T20:13:44+09:00",
       "author_name": "teppei19980914",
-      "likes_count": 13,
-      "last_seen": "2026-11-12T01:28:51.171178376+00:00"
+      "likes_count": 16,
+      "last_seen": "2026-11-12T09:42:56.037994516+00:00"
     },
     {
       "key": "2f781a33643a2cbd0853",
@@ -745,6 +745,18 @@
       "last_seen": "2026-11-01T19:32:32.856424079+00:00"
     },
     {
+      "key": "3f3c71525d867b22c9f2",
+      "item_id": "3f3c71525d867b22c9f2",
+      "title": "【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】",
+      "link": "https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n2026年11月11日、AWSからAWS Emulatorが公式にリリースされました。AWS SDKやAWS CLIの呼び出しを、AWSアカウントなしで、ローカルやCI上のエミュレーターに向けられるツールです。公式は、実装されているAPIには有効な呼び出しにAW...",
+      "published": "2026-11-12T08:39:20+09:00",
+      "updated": "2026-11-12T12:22:50+09:00",
+      "author_name": "Nana_777",
+      "likes_count": 15,
+      "last_seen": "2026-11-12T09:42:56.037994516+00:00"
+    },
+    {
       "key": "4021ff4e6281b73f2d86",
       "item_id": "4021ff4e6281b73f2d86",
       "title": "2026年10月はパッチの魔女月だった。お化けが増えたのか、誰かが明かりをつけたのか",
@@ -1033,18 +1045,6 @@
       "last_seen": "2026-09-17T07:34:06.139210818+00:00"
     },
     {
-      "key": "522f0bcac1532e23048d",
-      "item_id": "522f0bcac1532e23048d",
-      "title": "【体験談】1年目、バッチ実装で3ヶ月溶かした話 — 『世界一流エンジニアの思考法』で振り返る",
-      "link": "https://qiita.com/suneo46/items/522f0bcac1532e23048d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nエンジニアになって4年目になりました。\n1年目の頃、あるバッチ処理の実装を行ったことがあります。\n見積もりは1週間でした。しかし実際は、完成するまでに3ヶ月かかりました。\n原因は、技術的に難しかったからではありません。\n「何をすればいいか分からない」「何が分から...",
-      "published": "2026-09-10T13:47:07+09:00",
-      "updated": "2026-09-10T13:47:07+09:00",
-      "author_name": "suneo46",
-      "likes_count": 23,
-      "last_seen": "2026-09-13T05:59:53.141995725+00:00"
-    },
-    {
       "key": "53465eeb52b464757555",
       "item_id": "53465eeb52b464757555",
       "title": "Claude Haiku 5.5 は判断特化モデルの代わりになるのか？",
@@ -1123,10 +1123,10 @@
       "link": "https://qiita.com/7mpy/items/5710fef43ba0e59204c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "ここから遊べます\n\n「GTA 6のようなオープンワールドゲームを、大阪を舞台にブラウザで動かしたい」——そんなテーマで、Claude Fable 5.2を使ってゲームを作ってみました。\n完成したのは、通天閣・新世界から天王寺・あべのハルカス周辺を自由に歩き回り、車を運転...",
       "published": "2026-11-10T22:38:25+09:00",
-      "updated": "2026-11-11T10:16:33+09:00",
+      "updated": "2026-11-12T11:33:49+09:00",
       "author_name": "7mpy",
-      "likes_count": 25,
-      "last_seen": "2026-11-12T01:28:51.171178376+00:00"
+      "likes_count": 33,
+      "last_seen": "2026-11-12T09:42:56.037994516+00:00"
     },
     {
       "key": "59783841e48f5467594f",
@@ -1451,18 +1451,6 @@
       "author_name": "ishi720",
       "likes_count": 36,
       "last_seen": "2026-11-12T01:28:51.171178376+00:00"
-    },
-    {
-      "key": "6d477770254406c25188",
-      "item_id": "6d477770254406c25188",
-      "title": "【2026年版】サクラエディタの最初にやってほしい設定2+1選：Win + Rから起動と自動即時保存",
-      "link": "https://qiita.com/Minotaurasu/items/6d477770254406c25188?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nサクラエディタのカスタマイズについては既に多くの素晴らしい記事が存在しますが、本記事の執筆にあたっては以下の 参考記事（moromi25 氏） の手順を大きく参考にさせていただいています。\n\n元記事と重複する内容も多く含まれますが、今回あえて新しく記事として...",
-      "published": "2026-09-10T11:56:03+09:00",
-      "updated": "2026-09-10T11:56:04+09:00",
-      "author_name": "Minotaurasu",
-      "likes_count": 12,
-      "last_seen": "2026-09-13T05:59:53.141995725+00:00"
     },
     {
       "key": "6d5b58ad0cb832d2a4c5",
@@ -1849,18 +1837,6 @@
       "last_seen": "2026-09-17T07:34:06.139210818+00:00"
     },
     {
-      "key": "86c54a078fefa954ce76",
-      "item_id": "86c54a078fefa954ce76",
-      "title": "日本初日本発AWS GameDayで優勝して思ったこと",
-      "link": "https://qiita.com/takano0131/items/86c54a078fefa954ce76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "2026/9/6の日本初・日本発 GameDayで優勝してきました。\n\n乳児の夜泣き（月齢2ヶ月）対応を優先しながらGameDayを遊ぶという暴挙でした。優勝が嬉しいので感想を記載します。\n\n今回のGameDayは\nAWS GameDayは、チーム対抗でリアルなA...",
-      "published": "2026-09-10T08:05:30+09:00",
-      "updated": "2026-09-10T08:05:30+09:00",
-      "author_name": "takano0131",
-      "likes_count": 17,
-      "last_seen": "2026-09-13T05:59:53.141995725+00:00"
-    },
-    {
       "key": "870b1d6c5502aca68f55",
       "item_id": "870b1d6c5502aca68f55",
       "title": "Claude Opus 5.5 の「40%安い」は、キャッシュの当たり方で24%にも59%にもなった",
@@ -1967,6 +1943,18 @@
       "author_name": "moritalous",
       "likes_count": 25,
       "last_seen": "2026-10-05T15:54:19.216750954+00:00"
+    },
+    {
+      "key": "8c1bbb97a191f8246cf0",
+      "item_id": "8c1bbb97a191f8246cf0",
+      "title": "心理的安全性を高める7つの質問と30日プラン — リーダーの言葉を変えるだけで始める現場実践",
+      "link": "https://qiita.com/teppei19980914/items/8c1bbb97a191f8246cf0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "この記事は約7分で読めます。\n\n「なんでこうなったの？」と「何が起きたか一緒に整理しよう」。同じ状況を聞いても、受け取る側の反応は大きく変わります。心理的安全性は、まとめて何かを施策化するものではなく、こうした日々の小さな言葉の積み重ねでつくられていきます。\n本記事は、社...",
+      "published": "2026-11-09T20:13:22+09:00",
+      "updated": "2026-11-09T20:13:22+09:00",
+      "author_name": "teppei19980914",
+      "likes_count": 12,
+      "last_seen": "2026-11-12T09:42:56.037994516+00:00"
     },
     {
       "key": "8cad27487cd0e67d088c",
@@ -3217,18 +3205,6 @@
       "last_seen": "2026-11-03T06:34:10.397670968+00:00"
     },
     {
-      "key": "dd8295164f2d84c9bf61",
-      "item_id": "dd8295164f2d84c9bf61",
-      "title": "勉強会文化ゼロの支社で、2026 Japan AWS Jr. Championsの私が立ち上げたクラウド勉強会——部署の壁を越えた交流とアウトプットの文化を作る",
-      "link": "https://qiita.com/MikuMatsuo/items/dd8295164f2d84c9bf61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "1. はじめに\nこんにちは。BIPROGY株式会社の松尾です。\nこの記事は「2026 Japan AWS Jr. Champions 真夏のQiitaリレー」の41日目の記事となります。\n過去の投稿（リンク集）はこちらからご覧ください。\n\n2. 「肩書を活かしたい」...",
-      "published": "2026-09-10T10:37:51+09:00",
-      "updated": "2026-09-10T10:37:51+09:00",
-      "author_name": "MikuMatsuo",
-      "likes_count": 14,
-      "last_seen": "2026-09-13T05:59:53.141995725+00:00"
-    },
-    {
       "key": "dd8e9a8e7d3759adf943",
       "item_id": "dd8e9a8e7d3759adf943",
       "title": "【Curl】致命傷じゃないセキュリティ脆弱性はフルオープンにするわ",
@@ -3361,6 +3337,18 @@
       "last_seen": "2026-11-06T01:29:28.212072404+00:00"
     },
     {
+      "key": "e8fa851317846aa24de6",
+      "item_id": "e8fa851317846aa24de6",
+      "title": "AIに書かせる時代だからこそ、コード1行を読む",
+      "link": "https://qiita.com/yukegineer/items/e8fa851317846aa24de6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n最近はAIを使ってアプリの修正をすることが増えました。指示を出せば、それなりに動くコードがすぐに出てきます。\nその一方で、「動いたからOK」とソースの中身を理解しないまま作業を終えてしまうことが、自分にもありました。\nだからこそ私は、AIにコードを書かせる時代だ...",
+      "published": "2026-11-10T09:38:48+09:00",
+      "updated": "2026-11-10T09:39:52+09:00",
+      "author_name": "yukegineer",
+      "likes_count": 11,
+      "last_seen": "2026-11-12T09:42:56.037994516+00:00"
+    },
+    {
       "key": "eb2e60b469a148c2fb8b",
       "item_id": "eb2e60b469a148c2fb8b",
       "title": "先週の PHP 祭りから見えた、業務システムの「止まり方」の共通点と違い — 予防的な停止・障害・計画メンテを、日本・海外・AI の告知 751 件で比べた",
@@ -3383,6 +3371,18 @@
       "author_name": "hamham999",
       "likes_count": 31,
       "last_seen": "2026-10-02T02:10:43.369883985+00:00"
+    },
+    {
+      "key": "eca888fc9dbaa3e3a8ea",
+      "item_id": "eca888fc9dbaa3e3a8ea",
+      "title": "ログ調査の流れとよく使うLinuxコマンド早見表",
+      "link": "https://qiita.com/y-hys/items/eca888fc9dbaa3e3a8ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nログ調査でよく使うLinuxコマンドをまとめました。\nサーバーの状態確認 → ログの絞り込み → 中身を読む、という調査の順番に沿って並べています。\n数十GBクラスの巨大なファイルを扱うときは、ディスクI/Oへの影響もあるので注意しましょう。\n不正アクセスが世の...",
+      "published": "2026-11-10T01:11:23+09:00",
+      "updated": "2026-11-10T01:11:25+09:00",
+      "author_name": "y-hys",
+      "likes_count": 11,
+      "last_seen": "2026-11-12T09:42:56.037994516+00:00"
     },
     {
       "key": "ed4c760f616cf3c0a958",
