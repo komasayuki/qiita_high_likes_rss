@@ -568,14 +568,6 @@ Fixed /update-config writing Write(path) permission rules, which file permission
 個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）のiOS側は、UIKi...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:7affa2e2ef22ebf93fa6</id>
-    <title>アクセスログから不正アクセスの兆候を見つける7つの集計(nginx/Apache対応・コピペOK)</title>
-    <link rel="alternate" href="https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-11T07:30:00+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jiis-sasaki&quot;&gt;jiis-sasaki&lt;/a&gt;&lt;br/&gt;Published: 2026-09-11T07:30:00+09:00&lt;br/&gt;Updated: 2026-09-11T07:30:00+09:00&lt;br/&gt;「うちのサイト、攻撃されていませんか?」と聞かれたとき、答えはたいていサーバのアクセスログの中にあります。ただ生ログを tail で眺めても、1 日数万行の中から異常だけを拾うことはできません。
-この記事は、サーバに SSH で入れる Web 担当者・サイト運営者・制作会社...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:8d17257a9778a086c7cd</id>
     <title>Argo RolloutsのBlue-Greenは「2つの環境の交代」じゃなかった ― 名前に引きずられて誤解していた話</title>
     <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/8d17257a9778a086c7cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -662,6 +654,18 @@ Jevが話題ですね。
 Jevは、文章で書かれた状況を読み、あらかじめ用意された選択...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:22b7e355068ac0dad571</id>
+    <title>個人情報流出ニュースが怖いので、パスワード対策をガチで見直してみた</title>
+    <link rel="alternate" href="https://qiita.com/koshiro_esaki/items/22b7e355068ac0dad571?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-10T11:10:07+09:00</updated>
+    <summary type="html">Likes: 46&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/koshiro_esaki&quot;&gt;koshiro_esaki&lt;/a&gt;&lt;br/&gt;Published: 2026-11-10T11:10:06+09:00&lt;br/&gt;Updated: 2026-11-10T11:10:07+09:00&lt;br/&gt;皆さんは「パスワードの使いまわし」やってませんか？
+良くないよなぁ、、、と分かっていても、心のどこかで高を括っていませんか？
+そして最近の個人情報流出のニュースを見て、ビビり散らかしてませんか？👀
+この記事を見たあなた！
+今こそ、その重～い腰を上げる時です！！
+という訳で、...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6b4e0a5e4946d1a941ac</id>
     <title>実はコミュニティ運営をやめようと思っていました</title>
     <link rel="alternate" href="https://qiita.com/sadabon444/items/6b4e0a5e4946d1a941ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -740,6 +744,16 @@ AIエージェントが開発を行うようになり、多くのエンジニア
 しかし、便利になったと感じると同時に、こんな瞬間は...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5710fef43ba0e59204c6</id>
+    <title>Fable 5.2でGTA 6 Osaka Cityを作ってみた</title>
+    <link rel="alternate" href="https://qiita.com/7mpy/items/5710fef43ba0e59204c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-12T11:33:49+09:00</updated>
+    <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/7mpy&quot;&gt;7mpy&lt;/a&gt;&lt;br/&gt;Published: 2026-11-10T22:38:25+09:00&lt;br/&gt;Updated: 2026-11-12T11:33:49+09:00&lt;br/&gt;ここから遊べます
+
+「GTA 6のようなオープンワールドゲームを、大阪を舞台にブラウザで動かしたい」——そんなテーマで、Claude Fable 5.2を使ってゲームを作ってみました。
+完成したのは、通天閣・新世界から天王寺・あべのハルカス周辺を自由に歩き回り、車を運転...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:184e06cd9744f94d4f3e</id>
     <title>JS初心者が『非同期』を理解してみた</title>
     <link rel="alternate" href="https://qiita.com/koxrtx/items/184e06cd9744f94d4f3e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -800,28 +814,6 @@ Xのこちらの投稿で、Claude Codeのスキルimozuruが話題になって�
 ブログの画像を差し替えたのに、Xに貼ると古い画像のまま。投稿した直後から、カードが灰色の枠になっている。TwitterがXになってから、こういうことがよく起きます。...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5710fef43ba0e59204c6</id>
-    <title>Fable 5.2でGTA 6 Osaka Cityを作ってみた</title>
-    <link rel="alternate" href="https://qiita.com/7mpy/items/5710fef43ba0e59204c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-12T11:33:49+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/7mpy&quot;&gt;7mpy&lt;/a&gt;&lt;br/&gt;Published: 2026-11-10T22:38:25+09:00&lt;br/&gt;Updated: 2026-11-12T11:33:49+09:00&lt;br/&gt;ここから遊べます
-
-「GTA 6のようなオープンワールドゲームを、大阪を舞台にブラウザで動かしたい」——そんなテーマで、Claude Fable 5.2を使ってゲームを作ってみました。
-完成したのは、通天閣・新世界から天王寺・あべのハルカス周辺を自由に歩き回り、車を運転...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:22b7e355068ac0dad571</id>
-    <title>個人情報流出ニュースが怖いので、パスワード対策をガチで見直してみた</title>
-    <link rel="alternate" href="https://qiita.com/koshiro_esaki/items/22b7e355068ac0dad571?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-10T11:10:07+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/koshiro_esaki&quot;&gt;koshiro_esaki&lt;/a&gt;&lt;br/&gt;Published: 2026-11-10T11:10:06+09:00&lt;br/&gt;Updated: 2026-11-10T11:10:07+09:00&lt;br/&gt;皆さんは「パスワードの使いまわし」やってませんか？
-良くないよなぁ、、、と分かっていても、心のどこかで高を括っていませんか？
-そして最近の個人情報流出のニュースを見て、ビビり散らかしてませんか？👀
-この記事を見たあなた！
-今こそ、その重～い腰を上げる時です！！
-という訳で、...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:3a1a9d1ba2b289b23244</id>
     <title>AIに証明を書かせてセキュアに開発できる言語 Tauto をリリースしました！</title>
     <link rel="alternate" href="https://qiita.com/ryo33/items/3a1a9d1ba2b289b23244?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -857,16 +849,6 @@ AIに「なぜ正しいの？」と聞いても、その説明が正...</summary
 ソースコード公開されているので、これをそのまま使えばいいのですが、せっかくなので、どういう仕組なのか調べてみました。
 
 きしださんが公...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:134e4f90c60aeeff7194</id>
-    <title>「IT業界ってドライ？」社外でも助け合うエンジニアたちが、実は誰よりも「仲間」を大事にしている理由</title>
-    <link rel="alternate" href="https://qiita.com/m__ikeda/items/134e4f90c60aeeff7194?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-11T15:18:03+09:00</updated>
-    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/m__ikeda&quot;&gt;m__ikeda&lt;/a&gt;&lt;br/&gt;Published: 2026-09-11T15:18:03+09:00&lt;br/&gt;Updated: 2026-09-11T15:18:03+09:00&lt;br/&gt;自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b9e38c0584d4aa720d31</id>
@@ -937,6 +919,14 @@ VueやReact以外のフレームワークを使ってみたいので Svelte を.
     <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-09-26T16:36:58+09:00&lt;br/&gt;Updated: 2026-09-26T19:02:57+09:00&lt;br/&gt;はじめに
 2026年9月25日、Microsoft から「新しい Copilot」が発表されました。Copilot アプリそのものの形が変わる大きな発表で、あわせて料金体系も「ユーザー単位のライセンス」と「利用量に応じた課金」の2本立てに整理されています。
 発表の内容自体...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:3f3c71525d867b22c9f2</id>
+    <title>【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】</title>
+    <link rel="alternate" href="https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-12T12:22:50+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nana_777&quot;&gt;Nana_777&lt;/a&gt;&lt;br/&gt;Published: 2026-11-12T08:39:20+09:00&lt;br/&gt;Updated: 2026-11-12T12:22:50+09:00&lt;br/&gt;はじめに
+2026年11月11日、AWSからAWS Emulatorが公式にリリースされました。AWS SDKやAWS CLIの呼び出しを、AWSアカウントなしで、ローカルやCI上のエミュレーターに向けられるツールです。公式は、実装されているAPIには有効な呼び出しにAW...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6577a57b9b62c8f97e11</id>
@@ -1027,14 +1017,6 @@ Claude Code・Code...</summary>
 また今後は、利用者自身だけでなく、AI エージェントが外部のコンテンツやサービスへア...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:aa30a54fc6f0849385a7</id>
-    <title>AWSのインフラ導入でAIを使っている箇所と手でやっている箇所</title>
-    <link rel="alternate" href="https://qiita.com/infra365/items/aa30a54fc6f0849385a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-11T14:51:35+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/infra365&quot;&gt;infra365&lt;/a&gt;&lt;br/&gt;Published: 2026-09-11T14:51:35+09:00&lt;br/&gt;Updated: 2026-09-11T14:51:35+09:00&lt;br/&gt;はじめに
-「AIはボトルネックを解消するものではなく、ボトルネックを他の工程に移しているだけ」という話を聞きました。私はシステム導入の中でAIを使いこなせているわけではないのですが、当然一部にはAIを活用しているため、改めてどのようにシステム導入の工程を実施していて、どこ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:8d965a85f2aac8ebcb12</id>
     <title>【Opus 級？】Jev でエンジニアとプロジェクトをマッチング ― LLM・埋め込みモデルと比較</title>
     <link rel="alternate" href="https://qiita.com/akimasanishida/items/8d965a85f2aac8ebcb12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1091,14 +1073,6 @@ Transformerの同じ層を何回か通すやつでしょ
 AI エージェントに知見や手順を渡すことで、これまで一部の人にしかできなかった仕事を、より多くの人ができるようにする。自分ができることを、ほかの人にもできるようにしていく。
 この方向性には、私も賛同しています。
 成功した取り組みだけでなく、失敗した経験も共有する...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3f3c71525d867b22c9f2</id>
-    <title>【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】</title>
-    <link rel="alternate" href="https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-12T12:22:50+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nana_777&quot;&gt;Nana_777&lt;/a&gt;&lt;br/&gt;Published: 2026-11-12T08:39:20+09:00&lt;br/&gt;Updated: 2026-11-12T12:22:50+09:00&lt;br/&gt;はじめに
-2026年11月11日、AWSからAWS Emulatorが公式にリリースされました。AWS SDKやAWS CLIの呼び出しを、AWSアカウントなしで、ローカルやCI上のエミュレーターに向けられるツールです。公式は、実装されているAPIには有効な呼び出しにAW...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:48094b9b40752483f5cd</id>
@@ -1515,6 +1489,16 @@ GitHub Copilot や Claude Code などの AI コーディングツールが、開
 この考え方は、たしかに一面では真実です。以前なら何日もかかって...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:e8fa851317846aa24de6</id>
+    <title>AIに書かせる時代だからこそ、コード1行を読む</title>
+    <link rel="alternate" href="https://qiita.com/yukegineer/items/e8fa851317846aa24de6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-10T09:39:52+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yukegineer&quot;&gt;yukegineer&lt;/a&gt;&lt;br/&gt;Published: 2026-11-10T09:38:48+09:00&lt;br/&gt;Updated: 2026-11-10T09:39:52+09:00&lt;br/&gt;はじめに
+最近はAIを使ってアプリの修正をすることが増えました。指示を出せば、それなりに動くコードがすぐに出てきます。
+その一方で、「動いたからOK」とソースの中身を理解しないまま作業を終えてしまうことが、自分にもありました。
+だからこそ私は、AIにコードを書かせる時代だ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:534ca5aadd59bfd1f6b3</id>
     <title>パスワード管理ツールについて調べた（1Password・Bitwarden）</title>
     <link rel="alternate" href="https://qiita.com/kozakoza/items/534ca5aadd59bfd1f6b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1715,16 +1699,6 @@ LIMIT 件数
     <updated>2026-09-14T16:13:05+09:00</updated>
     <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-14T04:32:07+09:00&lt;br/&gt;Updated: 2026-09-14T16:13:05+09:00&lt;br/&gt;「会議の録音を AI で文字起こししたら、内容がバレる心配はないか？」
 以前の記事では、個人情報・機微情報・アイデアといったデータの「種類」から見た漏れ方をまとめました（どの情報なら AI に入れてよいか）。ですが、写真📷・録音🎙・PDF📄・コード💻・いいね👍といったデータ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:e8fa851317846aa24de6</id>
-    <title>AIに書かせる時代だからこそ、コード1行を読む</title>
-    <link rel="alternate" href="https://qiita.com/yukegineer/items/e8fa851317846aa24de6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-10T09:39:52+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yukegineer&quot;&gt;yukegineer&lt;/a&gt;&lt;br/&gt;Published: 2026-11-10T09:38:48+09:00&lt;br/&gt;Updated: 2026-11-10T09:39:52+09:00&lt;br/&gt;はじめに
-最近はAIを使ってアプリの修正をすることが増えました。指示を出せば、それなりに動くコードがすぐに出てきます。
-その一方で、「動いたからOK」とソースの中身を理解しないまま作業を終えてしまうことが、自分にもありました。
-だからこそ私は、AIにコードを書かせる時代だ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8225fd0ff29603549ab8</id>
@@ -2008,5 +1982,35 @@ GitHub Copilot SDK (自分のアプリに Copilot の機能を組み込める SD
     <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-24T04:18:39+09:00&lt;br/&gt;Updated: 2026-09-25T18:24:07+09:00&lt;br/&gt;社内で生成 AI の利用ルールやセキュリティの規程を作るとき、必ずと言っていいほど聞かれる質問があります。
 「入力した業務の内容は、あとから上司や会社の管理者、AI の提供元に読まれませんか？」
 「画面から履歴を消せば大丈夫です」と答えているなら、それは半分しか合っていま...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:7306e0b1a9207e08d86e</id>
+    <title>生成AI を使ったら著作権侵害になる？ — 4 大リスクと対策を LLM のメカニズム・法務・補償条項から整理してみた</title>
+    <link rel="alternate" href="https://qiita.com/songchong/items/7306e0b1a9207e08d86e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-23T16:45:44+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-23T16:45:44+09:00&lt;br/&gt;Updated: 2026-09-23T16:45:44+09:00&lt;br/&gt;「生成 AI の出力は、単語を確率で並べ直した“新しい創作物”だから、他人の著作権を侵害することはない」
+AI ツールを入れようとするとき、営業の場や社内の勉強会で、こうした説明を聞いたことがある方は多いと思います。
+この記事では、この説明のどこまでが正しく、どこから先に...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5416c243e14a5406dd6f</id>
+    <title>東京リージョンで使っていてもバージニア北部に依存しているもの</title>
+    <link rel="alternate" href="https://qiita.com/yama3133/items/5416c243e14a5406dd6f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-06T22:18:11+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yama3133&quot;&gt;yama3133&lt;/a&gt;&lt;br/&gt;Published: 2026-11-06T22:18:11+09:00&lt;br/&gt;Updated: 2026-11-06T22:18:11+09:00&lt;br/&gt;はじめに
+2025年10月20日、us-east-1(バージニア北部)で大規模な障害が起きました。
+東京リージョンでシステムを動かしている人にも影響が出ました。
+一方で、AWS の設定には
+「ロググループは us-east-1 に作ること」
+のように、東京で使っていても ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:62b9502167c97f898b90</id>
+    <title>ナレッジグラフを自動生成!?Oracle AI Database 26aiの23.26.4で追加されたGraphRAG機能を試してみた</title>
+    <link rel="alternate" href="https://qiita.com/ssfujita/items/62b9502167c97f898b90?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-03T21:41:16+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssfujita&quot;&gt;ssfujita&lt;/a&gt;&lt;br/&gt;Published: 2026-11-03T12:31:46+09:00&lt;br/&gt;Updated: 2026-11-03T21:41:16+09:00&lt;br/&gt;GraphRAGは文書の意味的な類似性だけでなく、文書に含まれるエンティティ（人物・組織・製品など）とその関係性を活用して情報を検索する技術です。
+通常のベクトル検索では捉えにくい、複数の情報間のつながりを検索に利用できる点が特徴です。
+Oracle AI Database...</summary>
   </entry>
 </feed>
