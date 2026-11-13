@@ -632,15 +632,6 @@ Fixed /update-config writing Write(path) permission rules, which file permission
 前回の記事で、iOS（UIKit）+ FastAPI + Kubernetesで作ったMinecraftサーバー監視アプリ「MineWatch」が3回のリジェクトを...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a031d4928ddb7caa0784</id>
-    <title>うっかり世界最強のWasmコンパイラに並行処理（マルチスレッド）を載せたら、なぜか1.46KBまで縮んだ件</title>
-    <link rel="alternate" href="https://qiita.com/kanryu/items/a031d4928ddb7caa0784?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-11T21:15:58+09:00</updated>
-    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kanryu&quot;&gt;kanryu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-11T20:50:10+09:00&lt;br/&gt;Updated: 2026-09-11T21:15:58+09:00&lt;br/&gt;はじめに
-先日投稿した「うっかり世界最強のWasmコンパイラを作ってしまった件」が、気づけば2万PVを超え、多くの反響やスターをいただきました。読んでくださった方、本当にありがとうございます。
-前回の記事では「Goライクな構文のまま、libcフリーでわずか2.56KBのW...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:472325ce548da370ed5d</id>
     <title>話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説</title>
     <link rel="alternate" href="https://qiita.com/yushibats/items/472325ce548da370ed5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -763,6 +754,14 @@ AIエージェントが開発を行うようになり、多くのエンジニア
 「なんで非同期で書かないといけないの？」と聞かれても、「非同期じゃないと処理が終わるまで画面が表示されなくて、重くなるから」くらいしか答えら...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3f3c71525d867b22c9f2</id>
+    <title>【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】</title>
+    <link rel="alternate" href="https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-12T12:22:50+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nana_777&quot;&gt;Nana_777&lt;/a&gt;&lt;br/&gt;Published: 2026-11-12T08:39:20+09:00&lt;br/&gt;Updated: 2026-11-12T12:22:50+09:00&lt;br/&gt;はじめに
+2026年11月11日、AWSからAWS Emulatorが公式にリリースされました。AWS SDKやAWS CLIの呼び出しを、AWSアカウントなしで、ローカルやCI上のエミュレーターに向けられるツールです。公式は、実装されているAPIには有効な呼び出しにAW...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:454fc975b095230565c7</id>
     <title>高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜</title>
     <link rel="alternate" href="https://qiita.com/ast-24/items/454fc975b095230565c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -771,14 +770,6 @@ AIエージェントが開発を行うようになり、多くのエンジニア
 今年の文化祭で、私のクラスは模擬店としてホットドッグを販売することになりました。
 そこで、注文から受け渡しまでを担うPOSシステムを1から開発・運用してみました！
 インフラには一番手軽に使えて自由度も高いCloudflareを採...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3f3c71525d867b22c9f2</id>
-    <title>【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】</title>
-    <link rel="alternate" href="https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-12T12:22:50+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nana_777&quot;&gt;Nana_777&lt;/a&gt;&lt;br/&gt;Published: 2026-11-12T08:39:20+09:00&lt;br/&gt;Updated: 2026-11-12T12:22:50+09:00&lt;br/&gt;はじめに
-2026年11月11日、AWSからAWS Emulatorが公式にリリースされました。AWS SDKやAWS CLIの呼び出しを、AWSアカウントなしで、ローカルやCI上のエミュレーターに向けられるツールです。公式は、実装されているAPIには有効な呼び出しにAW...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:83535ce9f3dd7d56600e</id>
@@ -2012,5 +2003,17 @@ AI ツールを入れようとするとき、営業の場や社内の勉強会�
     <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssfujita&quot;&gt;ssfujita&lt;/a&gt;&lt;br/&gt;Published: 2026-11-03T12:31:46+09:00&lt;br/&gt;Updated: 2026-11-03T21:41:16+09:00&lt;br/&gt;GraphRAGは文書の意味的な類似性だけでなく、文書に含まれるエンティティ（人物・組織・製品など）とその関係性を活用して情報を検索する技術です。
 通常のベクトル検索では捉えにくい、複数の情報間のつながりを検索に利用できる点が特徴です。
 Oracle AI Database...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:65590daa94499e705850</id>
+    <title>ADRを書いて、AIに &quot;Why&quot; を理解させよう【Architecture Decision Record】</title>
+    <link rel="alternate" href="https://qiita.com/tetsuro731/items/65590daa94499e705850?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-31T14:39:28+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetsuro731&quot;&gt;tetsuro731&lt;/a&gt;&lt;br/&gt;Published: 2026-10-31T14:31:15+09:00&lt;br/&gt;Updated: 2026-10-31T14:39:28+09:00&lt;br/&gt;はじめに
+AIエージェントにコードを書かせるのが当たり前になった。
+AIはリポジトリのコードを読めば、「何がどう実装されているか」を正確に把握してくれる。
+ただ、コードをいくら読んでもわからないことがある。
+なぜその実装になっているのか、つまり「Why」の部分だ。
+この記...</summary>
   </entry>
 </feed>
