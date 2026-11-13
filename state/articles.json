@@ -381,8 +381,8 @@
       "published": "2026-11-10T11:10:06+09:00",
       "updated": "2026-11-10T11:10:07+09:00",
       "author_name": "koshiro_esaki",
-      "likes_count": 34,
-      "last_seen": "2026-11-12T18:09:55.310790102+00:00"
+      "likes_count": 38,
+      "last_seen": "2026-11-13T00:10:29.448525799+00:00"
     },
     {
       "key": "235bed0f8c72f268477e",
@@ -431,18 +431,6 @@
       "author_name": "kikuziro",
       "likes_count": 63,
       "last_seen": "2026-09-24T04:36:15.074337027+00:00"
-    },
-    {
-      "key": "2c2ad3d8d7398b89aee8",
-      "item_id": "2c2ad3d8d7398b89aee8",
-      "title": "3匹のAIエージェントだけで、Webアプリを企画〜本番デプロイまで作った話（人間はほぼ指示しただけ）",
-      "link": "https://qiita.com/chiitata/items/2c2ad3d8d7398b89aee8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "🐝 人間がやったのは、たった一言「作って」だけ。\nあとは Buzz 上で暮らす3匹のAIエージェント（Fizz / Honey / Pollen）が、企画からコーディング、ドキュメント、本番デプロイ、そして検証まで——チャットで会話しながらすべてやってしまいました。\n\nこ...",
-      "published": "2026-09-10T20:55:32+09:00",
-      "updated": "2026-09-10T20:55:32+09:00",
-      "author_name": "chiitata",
-      "likes_count": 11,
-      "last_seen": "2026-09-13T19:22:10.684320202+00:00"
     },
     {
       "key": "2e0fa85f1cc32a62fb0d",
@@ -753,8 +741,8 @@
       "published": "2026-11-12T08:39:20+09:00",
       "updated": "2026-11-12T12:22:50+09:00",
       "author_name": "Nana_777",
-      "likes_count": 25,
-      "last_seen": "2026-11-12T18:09:55.310790102+00:00"
+      "likes_count": 28,
+      "last_seen": "2026-11-13T00:10:29.448525799+00:00"
     },
     {
       "key": "4021ff4e6281b73f2d86",
@@ -1125,8 +1113,8 @@
       "published": "2026-11-10T22:38:25+09:00",
       "updated": "2026-11-12T11:33:49+09:00",
       "author_name": "7mpy",
-      "likes_count": 37,
-      "last_seen": "2026-11-12T18:09:55.310790102+00:00"
+      "likes_count": 38,
+      "last_seen": "2026-11-13T00:10:29.448525799+00:00"
     },
     {
       "key": "59783841e48f5467594f",
@@ -2051,18 +2039,6 @@
       "author_name": "songchong",
       "likes_count": 17,
       "last_seen": "2026-09-28T15:19:41.791193799+00:00"
-    },
-    {
-      "key": "92c094b554d090b54a17",
-      "item_id": "92c094b554d090b54a17",
-      "title": "terraform plan -minimal-refreshでplanを爆速にする",
-      "link": "https://qiita.com/minamijoyo/items/92c094b554d090b54a17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nterraformで管理しているリソースが増えてきて、tfstateが肥大化してくると、terraform planがどんどん遅くなり、待ってる間にインターネッツを眺めがちです。\n根本解決は、適度な粒度にtfstate分割ですが、もっとお手軽な小手先のテクニック...",
-      "published": "2026-09-11T10:46:51+09:00",
-      "updated": "2026-09-11T14:50:48+09:00",
-      "author_name": "minamijoyo",
-      "likes_count": 29,
-      "last_seen": "2026-09-13T19:22:10.684320202+00:00"
     },
     {
       "key": "92d4de34077b9ae02fca",
@@ -3346,7 +3322,7 @@
       "updated": "2026-11-10T09:39:52+09:00",
       "author_name": "yukegineer",
       "likes_count": 17,
-      "last_seen": "2026-11-12T18:09:55.310790102+00:00"
+      "last_seen": "2026-11-13T00:10:29.448525799+00:00"
     },
     {
       "key": "eb2e60b469a148c2fb8b",
@@ -3575,18 +3551,6 @@
       "author_name": "nakata-sapeet",
       "likes_count": 19,
       "last_seen": "2026-11-05T03:26:24.933646279+00:00"
-    },
-    {
-      "key": "f8eaad0ddba954e2ebb6",
-      "item_id": "f8eaad0ddba954e2ebb6",
-      "title": "ハーネスの次に来るもの ― Causal ReasoningでAIエージェントはどう変わるか？",
-      "link": "https://qiita.com/ryosuke_ohori/items/f8eaad0ddba954e2ebb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Causal LLMとAgentic Reasoning ― エージェントAIに「因果」と「内省」を組み込む\nみなさんこんにちは。私は株式会社ulusageの、技術ブログ生成AIです。\nこれからなるべく鮮度の高い情報や、実際の開発に役立つTipsを展開していきます。よろし...",
-      "published": "2026-09-10T21:55:44+09:00",
-      "updated": "2026-09-10T21:56:10+09:00",
-      "author_name": "ryosuke_ohori",
-      "likes_count": 11,
-      "last_seen": "2026-09-13T19:22:10.684320202+00:00"
     },
     {
       "key": "fa75e8e9cd61a2f2a22f",
