@@ -645,6 +645,14 @@ Jevが話題ですね。
 Jevは、文章で書かれた状況を読み、あらかじめ用意された選択...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3f3c71525d867b22c9f2</id>
+    <title>【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】</title>
+    <link rel="alternate" href="https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-14T18:20:43+09:00</updated>
+    <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nana_777&quot;&gt;Nana_777&lt;/a&gt;&lt;br/&gt;Published: 2026-11-12T08:39:20+09:00&lt;br/&gt;Updated: 2026-11-14T18:20:43+09:00&lt;br/&gt;はじめに
+2026年11月11日、AWSからAWS Emulatorが公式にリリースされました。AWS SDKやAWS CLIの呼び出しを、AWSアカウントなしで、ローカルやCI上のエミュレーターに向けられるツールです。公式は、実装されているAPIには有効な呼び出しにAW...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:22b7e355068ac0dad571</id>
     <title>個人情報流出ニュースが怖いので、パスワード対策をガチで見直してみた</title>
     <link rel="alternate" href="https://qiita.com/koshiro_esaki/items/22b7e355068ac0dad571?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -726,14 +734,6 @@ Xでもそこか...</summary>
 みなさんGraphRAGの判断を全部LLMにや...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3f3c71525d867b22c9f2</id>
-    <title>【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】</title>
-    <link rel="alternate" href="https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-14T18:20:43+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nana_777&quot;&gt;Nana_777&lt;/a&gt;&lt;br/&gt;Published: 2026-11-12T08:39:20+09:00&lt;br/&gt;Updated: 2026-11-14T18:20:43+09:00&lt;br/&gt;はじめに
-2026年11月11日、AWSからAWS Emulatorが公式にリリースされました。AWS SDKやAWS CLIの呼び出しを、AWSアカウントなしで、ローカルやCI上のエミュレーターに向けられるツールです。公式は、実装されているAPIには有効な呼び出しにAW...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b33b4e337c15dddae20a</id>
     <title>0から学ぶセキュリティの基礎　〜CSRF編〜</title>
     <link rel="alternate" href="https://qiita.com/Pigeon_gate/items/b33b4e337c15dddae20a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -770,6 +770,16 @@ AIエージェントが開発を行うようになり、多くのエンジニア
 今年の文化祭で、私のクラスは模擬店としてホットドッグを販売することになりました。
 そこで、注文から受け渡しまでを担うPOSシステムを1から開発・運用してみました！
 インフラには一番手軽に使えて自由度も高いCloudflareを採...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c9ab1e1c64474c341d77</id>
+    <title>「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない</title>
+    <link rel="alternate" href="https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-13T11:03:33+09:00</updated>
+    <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tsutorm&quot;&gt;tsutorm&lt;/a&gt;&lt;br/&gt;Published: 2026-11-13T11:03:33+09:00&lt;br/&gt;Updated: 2026-11-13T11:03:33+09:00&lt;br/&gt;はじめに
+「このアプリ作ろうと思ったら、ざっくり工数どのくらい？」
+こう聞かれて、つい「ざっくり 〇人月くらいですかね」と答えてしまった経験はないでしょうか。
+以前、「&quot;工数が足らない&quot; からの脱却」 という記事で、計画に対して工数が足らない局面の話を書きました。今回はそ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:83535ce9f3dd7d56600e</id>
@@ -1234,16 +1244,6 @@ Claude Code Mods（ https://...</summary>
     <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/har1101&quot;&gt;har1101&lt;/a&gt;&lt;br/&gt;Published: 2026-09-27T21:09:34+09:00&lt;br/&gt;Updated: 2026-09-27T21:09:34+09:00&lt;br/&gt;こんにちは、ふくちです。前回のブログを読んだうえで見ていただくと良いと思います。
 
 Honoってあるじゃないですか。TypeScriptのWebフレームワークでめーちゃ有名なやつです。私はこの辺ガチエアプなので、具体的に何が良いのかわかってませんでした。ざっくり軽くて速...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c9ab1e1c64474c341d77</id>
-    <title>「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない</title>
-    <link rel="alternate" href="https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-13T11:03:33+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tsutorm&quot;&gt;tsutorm&lt;/a&gt;&lt;br/&gt;Published: 2026-11-13T11:03:33+09:00&lt;br/&gt;Updated: 2026-11-13T11:03:33+09:00&lt;br/&gt;はじめに
-「このアプリ作ろうと思ったら、ざっくり工数どのくらい？」
-こう聞かれて、つい「ざっくり 〇人月くらいですかね」と答えてしまった経験はないでしょうか。
-以前、「&quot;工数が足らない&quot; からの脱却」 という記事で、計画に対して工数が足らない局面の話を書きました。今回はそ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b8bca096170d087e271d</id>
