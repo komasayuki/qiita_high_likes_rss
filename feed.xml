@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-11-13T11:03:33+09:00</updated>
+  <updated>2026-11-14T18:20:43+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -726,6 +726,14 @@ Xでもそこか...</summary>
 みなさんGraphRAGの判断を全部LLMにや...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3f3c71525d867b22c9f2</id>
+    <title>【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】</title>
+    <link rel="alternate" href="https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-14T18:20:43+09:00</updated>
+    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nana_777&quot;&gt;Nana_777&lt;/a&gt;&lt;br/&gt;Published: 2026-11-12T08:39:20+09:00&lt;br/&gt;Updated: 2026-11-14T18:20:43+09:00&lt;br/&gt;はじめに
+2026年11月11日、AWSからAWS Emulatorが公式にリリースされました。AWS SDKやAWS CLIの呼び出しを、AWSアカウントなしで、ローカルやCI上のエミュレーターに向けられるツールです。公式は、実装されているAPIには有効な呼び出しにAW...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b33b4e337c15dddae20a</id>
     <title>0から学ぶセキュリティの基礎　〜CSRF編〜</title>
     <link rel="alternate" href="https://qiita.com/Pigeon_gate/items/b33b4e337c15dddae20a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -752,14 +760,6 @@ AIエージェントが開発を行うようになり、多くのエンジニア
     <summary type="html">Likes: 43&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/koxrtx&quot;&gt;koxrtx&lt;/a&gt;&lt;br/&gt;Published: 2026-10-13T07:17:02+09:00&lt;br/&gt;Updated: 2026-10-13T14:04:51+09:00&lt;br/&gt;1. はじめに
 非同期とはなんか裏で重たい処理をいい感じにしてくれてるくらいで非同期が何をしているかあまり理解できてませんでした。
 「なんで非同期で書かないといけないの？」と聞かれても、「非同期じゃないと処理が終わるまで画面が表示されなくて、重くなるから」くらいしか答えら...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3f3c71525d867b22c9f2</id>
-    <title>【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】</title>
-    <link rel="alternate" href="https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-12T12:22:50+09:00</updated>
-    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nana_777&quot;&gt;Nana_777&lt;/a&gt;&lt;br/&gt;Published: 2026-11-12T08:39:20+09:00&lt;br/&gt;Updated: 2026-11-12T12:22:50+09:00&lt;br/&gt;はじめに
-2026年11月11日、AWSからAWS Emulatorが公式にリリースされました。AWS SDKやAWS CLIの呼び出しを、AWSアカウントなしで、ローカルやCI上のエミュレーターに向けられるツールです。公式は、実装されているAPIには有効な呼び出しにAW...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:454fc975b095230565c7</id>
@@ -1236,6 +1236,16 @@ Claude Code Mods（ https://...</summary>
 Honoってあるじゃないですか。TypeScriptのWebフレームワークでめーちゃ有名なやつです。私はこの辺ガチエアプなので、具体的に何が良いのかわかってませんでした。ざっくり軽くて速...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c9ab1e1c64474c341d77</id>
+    <title>「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない</title>
+    <link rel="alternate" href="https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-13T11:03:33+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tsutorm&quot;&gt;tsutorm&lt;/a&gt;&lt;br/&gt;Published: 2026-11-13T11:03:33+09:00&lt;br/&gt;Updated: 2026-11-13T11:03:33+09:00&lt;br/&gt;はじめに
+「このアプリ作ろうと思ったら、ざっくり工数どのくらい？」
+こう聞かれて、つい「ざっくり 〇人月くらいですかね」と答えてしまった経験はないでしょうか。
+以前、「&quot;工数が足らない&quot; からの脱却」 という記事で、計画に対して工数が足らない局面の話を書きました。今回はそ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b8bca096170d087e271d</id>
     <title>AIはどれくらい動画編集ができるのか!? Claude CodeでYouTube動画編集した話</title>
     <link rel="alternate" href="https://qiita.com/tsukasa_japan/items/b8bca096170d087e271d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1684,14 +1694,6 @@ LIMIT 件数
 これを見て「何が何やら」となった方も多いと思います。順番に日本語へ変...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:e630bf05f4adf0c16ce5</id>
-    <title>写真📷録音🎙PDF📄コード💻いいね👍｜私の情報はどこへ漏れていくのか？ AI製品36件の規約とプライバシーポリシーを形式別に調べてみた</title>
-    <link rel="alternate" href="https://qiita.com/songchong/items/e630bf05f4adf0c16ce5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-14T16:13:05+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-14T04:32:07+09:00&lt;br/&gt;Updated: 2026-09-14T16:13:05+09:00&lt;br/&gt;「会議の録音を AI で文字起こししたら、内容がバレる心配はないか？」
-以前の記事では、個人情報・機微情報・アイデアといったデータの「種類」から見た漏れ方をまとめました（どの情報なら AI に入れてよいか）。ですが、写真📷・録音🎙・PDF📄・コード💻・いいね👍といったデータ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:8225fd0ff29603549ab8</id>
     <title>Oracle AI World 2026 振り返り：Larry Ellison、Sam Altmanらの6講演から、AIに仕事を任せる仕組みを整理してみてみた</title>
     <link rel="alternate" href="https://qiita.com/shirok/items/8225fd0ff29603549ab8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1751,16 +1753,6 @@ IT未経験でエンジニアになった私は、配属後の勉強期間中、
 こんにちは。KDDIアジャイル開発センターの溝渕です。
 ここ 2 か月ほど、Claude Code での個人開発を進めながら、精度を極力下げずにトークンの消費を抑える仕組みづくりと効果の計測に挑戦してました。
 8月の約 1 か月の計測で、かなりトークン消費を抑え...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c9ab1e1c64474c341d77</id>
-    <title>「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない</title>
-    <link rel="alternate" href="https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-13T11:03:33+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tsutorm&quot;&gt;tsutorm&lt;/a&gt;&lt;br/&gt;Published: 2026-11-13T11:03:33+09:00&lt;br/&gt;Updated: 2026-11-13T11:03:33+09:00&lt;br/&gt;はじめに
-「このアプリ作ろうと思ったら、ざっくり工数どのくらい？」
-こう聞かれて、つい「ざっくり 〇人月くらいですかね」と答えてしまった経験はないでしょうか。
-以前、「&quot;工数が足らない&quot; からの脱却」 という記事で、計画に対して工数が足らない局面の話を書きました。今回はそ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1a043190d8f00d2ebda6</id>
@@ -2013,5 +2005,17 @@ AI ツールを入れようとするとき、営業の場や社内の勉強会�
     <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssfujita&quot;&gt;ssfujita&lt;/a&gt;&lt;br/&gt;Published: 2026-11-03T12:31:46+09:00&lt;br/&gt;Updated: 2026-11-03T21:41:16+09:00&lt;br/&gt;GraphRAGは文書の意味的な類似性だけでなく、文書に含まれるエンティティ（人物・組織・製品など）とその関係性を活用して情報を検索する技術です。
 通常のベクトル検索では捉えにくい、複数の情報間のつながりを検索に利用できる点が特徴です。
 Oracle AI Database...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:65590daa94499e705850</id>
+    <title>ADRを書いて、AIに &quot;Why&quot; を理解させよう【Architecture Decision Record】</title>
+    <link rel="alternate" href="https://qiita.com/tetsuro731/items/65590daa94499e705850?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-31T14:39:28+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetsuro731&quot;&gt;tetsuro731&lt;/a&gt;&lt;br/&gt;Published: 2026-10-31T14:31:15+09:00&lt;br/&gt;Updated: 2026-10-31T14:39:28+09:00&lt;br/&gt;はじめに
+AIエージェントにコードを書かせるのが当たり前になった。
+AIはリポジトリのコードを読めば、「何がどう実装されているか」を正確に把握してくれる。
+ただ、コードをいくら読んでもわからないことがある。
+なぜその実装になっているのか、つまり「Why」の部分だ。
+この記...</summary>
   </entry>
 </feed>
