@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-11-12T12:22:50+09:00</updated>
+  <updated>2026-11-13T11:03:33+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1753,6 +1753,16 @@ IT未経験でエンジニアになった私は、配属後の勉強期間中、
 8月の約 1 か月の計測で、かなりトークン消費を抑え...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c9ab1e1c64474c341d77</id>
+    <title>「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない</title>
+    <link rel="alternate" href="https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-13T11:03:33+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tsutorm&quot;&gt;tsutorm&lt;/a&gt;&lt;br/&gt;Published: 2026-11-13T11:03:33+09:00&lt;br/&gt;Updated: 2026-11-13T11:03:33+09:00&lt;br/&gt;はじめに
+「このアプリ作ろうと思ったら、ざっくり工数どのくらい？」
+こう聞かれて、つい「ざっくり 〇人月くらいですかね」と答えてしまった経験はないでしょうか。
+以前、「&quot;工数が足らない&quot; からの脱却」 という記事で、計画に対して工数が足らない局面の話を書きました。今回はそ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:1a043190d8f00d2ebda6</id>
     <title>ひとりで作るOSSを、チームの基準でレビューする（Codex・Claude・CodeRabbit）</title>
     <link rel="alternate" href="https://qiita.com/figueiredoluiz/items/1a043190d8f00d2ebda6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2003,17 +2013,5 @@ AI ツールを入れようとするとき、営業の場や社内の勉強会�
     <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ssfujita&quot;&gt;ssfujita&lt;/a&gt;&lt;br/&gt;Published: 2026-11-03T12:31:46+09:00&lt;br/&gt;Updated: 2026-11-03T21:41:16+09:00&lt;br/&gt;GraphRAGは文書の意味的な類似性だけでなく、文書に含まれるエンティティ（人物・組織・製品など）とその関係性を活用して情報を検索する技術です。
 通常のベクトル検索では捉えにくい、複数の情報間のつながりを検索に利用できる点が特徴です。
 Oracle AI Database...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:65590daa94499e705850</id>
-    <title>ADRを書いて、AIに &quot;Why&quot; を理解させよう【Architecture Decision Record】</title>
-    <link rel="alternate" href="https://qiita.com/tetsuro731/items/65590daa94499e705850?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-31T14:39:28+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tetsuro731&quot;&gt;tetsuro731&lt;/a&gt;&lt;br/&gt;Published: 2026-10-31T14:31:15+09:00&lt;br/&gt;Updated: 2026-10-31T14:39:28+09:00&lt;br/&gt;はじめに
-AIエージェントにコードを書かせるのが当たり前になった。
-AIはリポジトリのコードを読めば、「何がどう実装されているか」を正確に把握してくれる。
-ただ、コードをいくら読んでもわからないことがある。
-なぜその実装になっているのか、つまり「Why」の部分だ。
-この記...</summary>
   </entry>
 </feed>
