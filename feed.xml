@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-11-14T18:20:43+09:00</updated>
+  <updated>2026-11-15T23:56:23+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -385,16 +385,6 @@ https://prum.jp/
 で...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:7b38e5977dc97747d2d9</id>
-    <title>『Lean で証明できた』は何を保証するのか？  〜 Lean の無矛盾性と信頼の根拠 〜</title>
-    <link rel="alternate" href="https://qiita.com/kyamaz/items/7b38e5977dc97747d2d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-15T09:35:32+09:00</updated>
-    <summary type="html">Likes: 61&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kyamaz&quot;&gt;kyamaz&lt;/a&gt;&lt;br/&gt;Published: 2026-09-13T22:27:30+09:00&lt;br/&gt;Updated: 2026-09-15T09:35:32+09:00&lt;br/&gt;こんにちは｜こんばんは。カエルのアイコンで活動しております @kyamaz  1 です。
-
-はじめに
-2026年9月8日、生成AI が数学分野で有名なミレニアム懸賞問題のひとつ、ナビエ・ストークス方程式の存在と滑らかさに関する問題（の一部）を解決したという発表がありました。...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:92d4de34077b9ae02fca</id>
     <title>許可ルールを settings.json に書いても効かなかった。分かれ目はフォルダを信頼したかどうか</title>
     <link rel="alternate" href="https://qiita.com/suwa_nobu/items/92d4de34077b9ae02fca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -490,7 +480,7 @@ Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENT
     <title>「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない</title>
     <link rel="alternate" href="https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-11-13T11:03:33+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tsutorm&quot;&gt;tsutorm&lt;/a&gt;&lt;br/&gt;Published: 2026-11-13T11:03:33+09:00&lt;br/&gt;Updated: 2026-11-13T11:03:33+09:00&lt;br/&gt;はじめに
+    <summary type="html">Likes: 56&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tsutorm&quot;&gt;tsutorm&lt;/a&gt;&lt;br/&gt;Published: 2026-11-13T11:03:33+09:00&lt;br/&gt;Updated: 2026-11-13T11:03:33+09:00&lt;br/&gt;はじめに
 「このアプリ作ろうと思ったら、ざっくり工数どのくらい？」
 こう聞かれて、つい「ざっくり 〇人月くらいですかね」と答えてしまった経験はないでしょうか。
 以前、「&quot;工数が足らない&quot; からの脱却」 という記事で、計画に対して工数が足らない局面の話を書きました。今回はそ...</summary>
@@ -1318,15 +1308,6 @@ Microsoft 365 Copilot のエージェントビルダーに「スキル」を追�
 Generative AI Developer - Professional(AIP)で宇宙最速(...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b465ef863f8d8608f497</id>
-    <title>Claude Code のサブエージェントにも CLAUDE.md は全部渡る。外す設定ができた</title>
-    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/b465ef863f8d8608f497?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-15T09:18:39+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-15T09:06:10+09:00&lt;br/&gt;Updated: 2026-09-15T09:18:39+09:00&lt;br/&gt;Claude Code 2.1.271（2026-09-14）の changelog に、こう書かれています。
-
-Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom and pl...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:6d78460c9be9cacc1fce</id>
     <title>コードレビューで「正しいけど刺さる」コメントをして後輩に距離を置かれた話</title>
     <link rel="alternate" href="https://qiita.com/fe1ix/items/6d78460c9be9cacc1fce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1858,15 +1839,6 @@ async fu...</summary>
 本体を軽く...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5f594cf3d150f17f8bbd</id>
-    <title>:has()で不要になったJavaScript 10選</title>
-    <link rel="alternate" href="https://qiita.com/tofu_frontend/items/5f594cf3d150f17f8bbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-13T20:38:46+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tofu_frontend&quot;&gt;tofu_frontend&lt;/a&gt;&lt;br/&gt;Published: 2026-09-13T20:38:46+09:00&lt;br/&gt;Updated: 2026-09-13T20:38:46+09:00&lt;br/&gt;:has() が全モダンブラウザで使えるようになって（Baseline widely available / 2023年12月〜）、そろそろ3年が経ちました。
-それなのに、現場のコードにはまだこういうJavaScriptが残っています。
-// 入力エラーになったら親要素にク...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:945479177d4dcbb80f69</id>
     <title>「⚪︎⚪︎はしないで」は効かない？AI Agent の危険行動を制限する 5 つの方法と守られる強さで比べた</title>
     <link rel="alternate" href="https://qiita.com/songchong/items/945479177d4dcbb80f69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1972,6 +1944,14 @@ AI ツールを入れようとするとき、営業の場や社内の勉強会�
 この記事では、この説明のどこまでが正しく、どこから先に...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:fa50cc82e49b24925fe3</id>
+    <title>日本語の脆弱性 DB は 4.6 日かかる。待てないので、46 秒でセキュリティ情報が載るようにした</title>
+    <link rel="alternate" href="https://qiita.com/songchong/items/fa50cc82e49b24925fe3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-15T23:56:23+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-11-15T17:20:40+09:00&lt;br/&gt;Updated: 2026-11-15T23:56:23+09:00&lt;br/&gt;使っている技術の脆弱性を、自分に関係する分だけ、早く知りたい。知ったら、何を、いつまでにすればよいのかも知りたい。脆弱性の情報を追う人の目的は、この 2 つにまとまります。
+IT連携マップ編集部は、2026 年 11 月 15 日に、この目的のための IT連携マップのセキ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5416c243e14a5406dd6f</id>
     <title>東京リージョンで使っていてもバージニア北部に依存しているもの</title>
     <link rel="alternate" href="https://qiita.com/yama3133/items/5416c243e14a5406dd6f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2021,5 +2001,25 @@ Oracle AI World 2026にて発表
     <updated>2026-10-24T23:42:12+09:00</updated>
     <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/softbase&quot;&gt;softbase&lt;/a&gt;&lt;br/&gt;Published: 2026-10-24T23:42:12+09:00&lt;br/&gt;Updated: 2026-10-24T23:42:12+09:00&lt;br/&gt;AIはソフトウェア開発を効率化するだけなのか。それとも、ソフトウェアエンジニアリングという仕事そのものを根本から変えてしまうのか。
 2026年9月19日、ソフトウェアエンジニアの Thorsten Ball氏 が、X（旧Twitter）で「What I believe ab...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:1df29b844478f9df5960</id>
+    <title>はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～</title>
+    <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/1df29b844478f9df5960?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-22T10:40:13+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuji-arakawa&quot;&gt;yuji-arakawa&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T16:34:12+09:00&lt;br/&gt;Updated: 2026-10-22T10:40:13+09:00&lt;br/&gt;はじめに
+この記事は 2026/10/21 の Oracle AI Jam Session #41 はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～ にてご紹介させていただいたものです。
+
+生成AIを業務で活用するには、社内ナレッジや業務デー...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:7e5241176f3eead2a2f5</id>
+    <title>Codexでゲームを作っていたら、小さなAI開発組織を回す実験になった</title>
+    <link rel="alternate" href="https://qiita.com/Masato_Iwasaki/items/7e5241176f3eead2a2f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-19T18:10:19+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Masato_Iwasaki&quot;&gt;Masato_Iwasaki&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T17:33:01+09:00&lt;br/&gt;Updated: 2026-10-19T18:10:19+09:00&lt;br/&gt;ゲームを作ってみようとCodexを使い始めたら、気付けばAIに役割を付け、Sprintまで回していました。ゲーム作りの横で、AIの仕事の割り振りまで試し始めています。
+
+1. 最初は、Codexにゲームを一本作ってもらった
+ゲーム開発の苦労を味わってみたい、というところから...</summary>
   </entry>
 </feed>
