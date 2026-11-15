@@ -486,6 +486,16 @@ Python向けレトロゲームエンジンPyxel の新バージョンである3.
 Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENT...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c9ab1e1c64474c341d77</id>
+    <title>「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない</title>
+    <link rel="alternate" href="https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-13T11:03:33+09:00</updated>
+    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tsutorm&quot;&gt;tsutorm&lt;/a&gt;&lt;br/&gt;Published: 2026-11-13T11:03:33+09:00&lt;br/&gt;Updated: 2026-11-13T11:03:33+09:00&lt;br/&gt;はじめに
+「このアプリ作ろうと思ったら、ざっくり工数どのくらい？」
+こう聞かれて、つい「ざっくり 〇人月くらいですかね」と答えてしまった経験はないでしょうか。
+以前、「&quot;工数が足らない&quot; からの脱却」 という記事で、計画に対して工数が足らない局面の話を書きました。今回はそ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cc82e6e4e4c215eac99f</id>
     <title>新しいRAG「Decision RAG」は速い！安い！上手い！🍜</title>
     <link rel="alternate" href="https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -630,16 +640,6 @@ Fixed /update-config writing Write(path) permission rules, which file permission
     <updated>2026-09-25T20:38:44+09:00</updated>
     <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit-yukiono&quot;&gt;jqit-yukiono&lt;/a&gt;&lt;br/&gt;Published: 2026-09-25T20:38:43+09:00&lt;br/&gt;Updated: 2026-09-25T20:38:44+09:00&lt;br/&gt;個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故
 前回の記事で、iOS（UIKit）+ FastAPI + Kubernetesで作ったMinecraftサーバー監視アプリ「MineWatch」が3回のリジェクトを...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c9ab1e1c64474c341d77</id>
-    <title>「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない</title>
-    <link rel="alternate" href="https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-13T11:03:33+09:00</updated>
-    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tsutorm&quot;&gt;tsutorm&lt;/a&gt;&lt;br/&gt;Published: 2026-11-13T11:03:33+09:00&lt;br/&gt;Updated: 2026-11-13T11:03:33+09:00&lt;br/&gt;はじめに
-「このアプリ作ろうと思ったら、ざっくり工数どのくらい？」
-こう聞かれて、つい「ざっくり 〇人月くらいですかね」と答えてしまった経験はないでしょうか。
-以前、「&quot;工数が足らない&quot; からの脱却」 という記事で、計画に対して工数が足らない局面の話を書きました。今回はそ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:472325ce548da370ed5d</id>
@@ -1668,6 +1668,18 @@ LIMIT 件数
 これを見て「何が何やら」となった方も多いと思います。順番に日本語へ変...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:9e7c02b749037238b2bc</id>
+    <title>ちょっと見ない間にClaude APIが進化してた！</title>
+    <link rel="alternate" href="https://qiita.com/moritalous/items/9e7c02b749037238b2bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-14T15:32:07+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-11-14T15:32:07+09:00&lt;br/&gt;Updated: 2026-11-14T15:32:07+09:00&lt;br/&gt;ClaudeのAPI、ただモデル呼び出すだけでしょと思ってたんですが、どんどん進化してました！
+
+環境
+Pythonのプロジェクトを作成し、Anthropicの公式SDKをインストールします。
+uv init app --python 3.13 --no-package
+c...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8225fd0ff29603549ab8</id>
     <title>Oracle AI World 2026 振り返り：Larry Ellison、Sam Altmanらの6講演から、AIに仕事を任せる仕組みを整理してみてみた</title>
     <link rel="alternate" href="https://qiita.com/shirok/items/8225fd0ff29603549ab8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1853,18 +1865,6 @@ async fu...</summary>
     <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/tofu_frontend&quot;&gt;tofu_frontend&lt;/a&gt;&lt;br/&gt;Published: 2026-09-13T20:38:46+09:00&lt;br/&gt;Updated: 2026-09-13T20:38:46+09:00&lt;br/&gt;:has() が全モダンブラウザで使えるようになって（Baseline widely available / 2023年12月〜）、そろそろ3年が経ちました。
 それなのに、現場のコードにはまだこういうJavaScriptが残っています。
 // 入力エラーになったら親要素にク...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9e7c02b749037238b2bc</id>
-    <title>ちょっと見ない間にClaude APIが進化してた！</title>
-    <link rel="alternate" href="https://qiita.com/moritalous/items/9e7c02b749037238b2bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-14T15:32:07+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/moritalous&quot;&gt;moritalous&lt;/a&gt;&lt;br/&gt;Published: 2026-11-14T15:32:07+09:00&lt;br/&gt;Updated: 2026-11-14T15:32:07+09:00&lt;br/&gt;ClaudeのAPI、ただモデル呼び出すだけでしょと思ってたんですが、どんどん進化してました！
-
-環境
-Pythonのプロジェクトを作成し、Anthropicの公式SDKをインストールします。
-uv init app --python 3.13 --no-package
-c...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:945479177d4dcbb80f69</id>
