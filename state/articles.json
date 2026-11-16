@@ -61,18 +61,6 @@
       "last_seen": "2026-10-09T02:02:12.736743400+00:00"
     },
     {
-      "key": "08e3bd535dbc79e0c738",
-      "item_id": "08e3bd535dbc79e0c738",
-      "title": "Claude Code のスキルを47本運用して測った、7つのこと",
-      "link": "https://qiita.com/suwa_nobu/items/08e3bd535dbc79e0c738?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Claude Code のスキルは、入れるだけなら1分で終わります。公開されているものも数多くあります。\nそうなると、やることは決まっています。片っ端から入れるのです。\n自作47本を運用しながら1ヶ月ほど測った結果、増やすほど呼ばれなくなることが分かりました。\n重くなるから...",
-      "published": "2026-09-14T09:52:44+09:00",
-      "updated": "2026-09-14T09:52:45+09:00",
-      "author_name": "suwa_nobu",
-      "likes_count": 24,
-      "last_seen": "2026-09-17T07:34:06.139210818+00:00"
-    },
-    {
       "key": "0a68cd4ab997e8c8213b",
       "item_id": "0a68cd4ab997e8c8213b",
       "title": "同一人物がApple/Googleどちらでログインしても同じアカウントにする ― Firebase純正のlink(with:)を使わなかった理由",
@@ -190,7 +178,7 @@
       "updated": "2026-11-14T01:43:26+09:00",
       "author_name": "yama3133",
       "likes_count": 12,
-      "last_seen": "2026-11-16T01:53:38.109382281+00:00"
+      "last_seen": "2026-11-16T09:28:22.477133123+00:00"
     },
     {
       "key": "145266dc899e8b490e59",
@@ -395,6 +383,18 @@
       "author_name": "koshiro_esaki",
       "likes_count": 46,
       "last_seen": "2026-11-13T07:49:24.961612982+00:00"
+    },
+    {
+      "key": "22f2836485ecc25ee527",
+      "item_id": "22f2836485ecc25ee527",
+      "title": "はじめてのAPIログ設計 — 「ログはあるのに調べられない」を防ぐには？",
+      "link": "https://qiita.com/masashige0904/items/22f2836485ecc25ee527?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "この記事はこんな人におすすめ\n\nAPIログを見直したいが、何を残すべきか迷っている方\nCloudWatch Logsにログはあるものの、調査に必要な記録を探しにくいと感じている方\nログレベルやJSON形式、ログライブラリの役割を整理したい方\n\nこの記事で得られること\n...",
+      "published": "2026-11-16T09:37:01+09:00",
+      "updated": "2026-11-16T09:37:01+09:00",
+      "author_name": "masashige0904",
+      "likes_count": 19,
+      "last_seen": "2026-11-16T09:28:22.477133123+00:00"
     },
     {
       "key": "235bed0f8c72f268477e",
@@ -805,6 +805,18 @@
       "last_seen": "2026-09-24T04:36:15.074337027+00:00"
     },
     {
+      "key": "43b360420d0cdcbf190c",
+      "item_id": "43b360420d0cdcbf190c",
+      "title": "社長の一言は重い。RAGにも忖度させてみた（重み付け検索）",
+      "link": "https://qiita.com/kikuziro/items/43b360420d0cdcbf190c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n皆さんこんな経験ありませんか？\n新人の頃に正しいことを言っても誰も賛同してくれないのに、同じことを社長が言うと全員が賛同する。理不尽ですよねー人間は「誰が言ったか」で情報に重みを付けています。じゃあRAGはどうか？チャンクは全部平等で社長の決定事項も新人のつぶ...",
+      "published": "2026-11-15T00:30:41+09:00",
+      "updated": "2026-11-16T11:52:06+09:00",
+      "author_name": "kikuziro",
+      "likes_count": 13,
+      "last_seen": "2026-11-16T09:28:22.477133123+00:00"
+    },
+    {
       "key": "43beaaabc2c0ef2dcb1c",
       "item_id": "43beaaabc2c0ef2dcb1c",
       "title": "AI生成コードを全部同じ密度で読む必要はある？―レビューを契約とテストで絞る設計",
@@ -1019,18 +1031,6 @@
       "author_name": "harusann2",
       "likes_count": 14,
       "last_seen": "2026-09-19T05:45:14.408790805+00:00"
-    },
-    {
-      "key": "5145961004e38e2fe316",
-      "item_id": "5145961004e38e2fe316",
-      "title": "拒否ルールを全部消しても、Claude Code は eval を止めた。守っていたのは別の仕組みだった",
-      "link": "https://qiita.com/suwa_nobu/items/5145961004e38e2fe316?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Claude Code 2.1.273（2026-09-15）の changelog に、こう書かれています。\n\nReverted a 2.1.268 change that checked Read and Edit deny rules on Bash lines th...",
-      "published": "2026-09-16T09:22:25+09:00",
-      "updated": "2026-09-16T09:22:25+09:00",
-      "author_name": "suwa_nobu",
-      "likes_count": 18,
-      "last_seen": "2026-09-17T07:34:06.139210818+00:00"
     },
     {
       "key": "53465eeb52b464757555",
@@ -1429,18 +1429,6 @@
       "last_seen": "2026-10-23T04:36:36.304429430+00:00"
     },
     {
-      "key": "6d78460c9be9cacc1fce",
-      "item_id": "6d78460c9be9cacc1fce",
-      "title": "コードレビューで「正しいけど刺さる」コメントをして後輩に距離を置かれた話",
-      "link": "https://qiita.com/fe1ix/items/6d78460c9be9cacc1fce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n新人リーダーになったばかりの頃、後輩のPRに「このロジックだと将来バグります。設計から見直したほうがいいです」ってコメントしたことがあるんですよね。\n技術的には間違ってなかったと思うんです。実際そのロジックには穴があって、指摘自体は妥当でした。でも次の日から、そ...",
-      "published": "2026-09-14T09:54:13+09:00",
-      "updated": "2026-09-14T09:54:13+09:00",
-      "author_name": "fe1ix",
-      "likes_count": 23,
-      "last_seen": "2026-09-17T07:34:06.139210818+00:00"
-    },
-    {
       "key": "6e466fb974972a79a323",
       "item_id": "6e466fb974972a79a323",
       "title": "【AWS】結果を返すか、答えを返すか。Web SearchとWeb Answerの使い分け【AgentCore】",
@@ -1583,6 +1571,18 @@
       "author_name": "kotowazaman",
       "likes_count": 115,
       "last_seen": "2026-10-10T18:28:56.365246281+00:00"
+    },
+    {
+      "key": "75bf50a67ca5370ec6bf",
+      "item_id": "75bf50a67ca5370ec6bf",
+      "title": "今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）",
+      "link": "https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "今週（11 月 16〜22 日）にやることは、図の 6 つです。①〜④ には、すでに悪用されている脆弱性があります。この 4 つから先に済ませてください。\n\n① の Outlook の脆弱性は、Microsoft が悪用を確認したと公表しています。IT連携マップの編集部は...",
+      "published": "2026-11-16T03:58:36+09:00",
+      "updated": "2026-11-16T09:58:11+09:00",
+      "author_name": "songchong",
+      "likes_count": 12,
+      "last_seen": "2026-11-16T09:28:22.477133123+00:00"
     },
     {
       "key": "78c8cccf8b11bde5c845",
@@ -1763,18 +1763,6 @@
       "author_name": "jqit-yukiono",
       "likes_count": 51,
       "last_seen": "2026-09-29T08:21:18.204529534+00:00"
-    },
-    {
-      "key": "86a44010e433b1d0081c",
-      "item_id": "86a44010e433b1d0081c",
-      "title": "【未経験】勉強する時間がない。それでも今の仕事の中で、ITにつながる経験はつくれる",
-      "link": "https://qiita.com/m__ikeda/items/86a44010e433b1d0081c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "自己紹介\nこんにちは。株式会社PRUMで採用広報を担当している池田です。\n未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊\nもしIT業界に興味があるけど、...",
-      "published": "2026-09-14T15:27:42+09:00",
-      "updated": "2026-09-14T15:27:42+09:00",
-      "author_name": "m__ikeda",
-      "likes_count": 46,
-      "last_seen": "2026-09-17T07:34:06.139210818+00:00"
     },
     {
       "key": "870b1d6c5502aca68f55",
@@ -2005,6 +1993,18 @@
       "last_seen": "2026-11-07T16:19:44.368222703+00:00"
     },
     {
+      "key": "93db73ccf114bad454f1",
+      "item_id": "93db73ccf114bad454f1",
+      "title": "pgvectorの距離を類似度に直して根拠不足を判定する：RAG検索層とpytest回帰",
+      "link": "https://qiita.com/takumi_engineer/items/93db73ccf114bad454f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "解きたい問題\nRAGで「根拠が弱ければ回答を控える」判定を入れようとして、最初につまずくのがスコアの向きです。pgvectorが返すのは距離で、類似度ではありません。\n距離のまま閾値に使うと、大小の判定が逆になります。本記事では、検索SQLで類似度に変換して返す層と、判定...",
+      "published": "2026-11-14T09:00:08+09:00",
+      "updated": "2026-11-14T09:00:08+09:00",
+      "author_name": "takumi_engineer",
+      "likes_count": 10,
+      "last_seen": "2026-11-16T09:28:22.477133123+00:00"
+    },
+    {
       "key": "945479177d4dcbb80f69",
       "item_id": "945479177d4dcbb80f69",
       "title": "「⚪︎⚪︎はしないで」は効かない？AI Agent の危険行動を制限する 5 つの方法と守られる強さで比べた",
@@ -2145,8 +2145,8 @@
       "published": "2026-11-14T15:32:07+09:00",
       "updated": "2026-11-14T15:32:07+09:00",
       "author_name": "moritalous",
-      "likes_count": 22,
-      "last_seen": "2026-11-16T01:53:38.109382281+00:00"
+      "likes_count": 23,
+      "last_seen": "2026-11-16T09:28:22.477133123+00:00"
     },
     {
       "key": "9fed3e53191b2b2604a5",
@@ -2243,6 +2243,18 @@
       "author_name": "vaon-luandv",
       "likes_count": 11,
       "last_seen": "2026-10-19T14:36:35.271480823+00:00"
+    },
+    {
+      "key": "a5145ee73f86646c64ec",
+      "item_id": "a5145ee73f86646c64ec",
+      "title": "『なぜ、あなたの仕事は終わらないのか』で学んだ目的意識と時間の使い方",
+      "link": "https://qiita.com/kuma_3838/items/a5145ee73f86646c64ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n社内勉強会で、同僚が中島聡さんの『なぜ、あなたの仕事は終わらないのか スピードは最強の武器である』を紹介していました。\n著者は、米 Microsoft 本社で Windows95 などの設計を担当したエンジニアです。\n最近の私は、時間の使い方を正直うまくできてい...",
+      "published": "2026-11-16T08:34:43+09:00",
+      "updated": "2026-11-16T08:34:43+09:00",
+      "author_name": "kuma_3838",
+      "likes_count": 18,
+      "last_seen": "2026-11-16T09:28:22.477133123+00:00"
     },
     {
       "key": "a5f34349c0b6ba8f3f62",
@@ -2601,8 +2613,8 @@
       "published": "2026-11-15T17:03:34+09:00",
       "updated": "2026-11-15T17:40:46+09:00",
       "author_name": "Sicut_study",
-      "likes_count": 16,
-      "last_seen": "2026-11-16T01:53:38.109382281+00:00"
+      "likes_count": 17,
+      "last_seen": "2026-11-16T09:28:22.477133123+00:00"
     },
     {
       "key": "b77ae011f4ba8df8135c",
@@ -2759,18 +2771,6 @@
       "author_name": "Eitaro_dotlog",
       "likes_count": 15,
       "last_seen": "2026-10-19T06:08:13.454349879+00:00"
-    },
-    {
-      "key": "c42534895d5ca89b91b1",
-      "item_id": "c42534895d5ca89b91b1",
-      "title": "2026年9月時点 Microsoft の AI 戦略について",
-      "link": "https://qiita.com/yoshioterada/items/c42534895d5ca89b91b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Microsoft の AI に関連するサービスは非常に多くあります。今まで私は開発中心だったため、M365関連を含む全体的な知識のアップデートが必要で、できるだけ早急にさまざまな技術やサービスをキャッチアップしたいと考えています。元々この資料は自分自身で理解するために、...",
-      "published": "2026-09-14T10:44:21+09:00",
-      "updated": "2026-09-14T10:44:23+09:00",
-      "author_name": "yoshioterada",
-      "likes_count": 58,
-      "last_seen": "2026-09-17T07:34:06.139210818+00:00"
     },
     {
       "key": "c4340fda4f660e9c2e4b",
@@ -3157,18 +3157,6 @@
       "last_seen": "2026-10-22T19:12:03.710925383+00:00"
     },
     {
-      "key": "e5d9ce6618523af1ffc5",
-      "item_id": "e5d9ce6618523af1ffc5",
-      "title": "生成AIが書いたドキュメントを読みたくない",
-      "link": "https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "株式会社ブレインパッドプロダクト開発部でRtoaster GenAIの開発をしている依田です。\nClaude CodeにDesign docやPRを書かせていて、「情報量は多いのに、何を決めたのかがなかなか頭に入ってこない」と感じたことはないでしょうか。私は何度もあります。...",
-      "published": "2026-09-14T13:55:10+09:00",
-      "updated": "2026-09-14T13:55:11+09:00",
-      "author_name": "take-yoda",
-      "likes_count": 220,
-      "last_seen": "2026-09-17T07:34:06.139210818+00:00"
-    },
-    {
       "key": "e6518a0d494006fac712",
       "item_id": "e6518a0d494006fac712",
       "title": "Lambda 関数 URL で Condition 句による IP アドレス制限が可能になったか検証する",
@@ -3203,6 +3191,18 @@
       "author_name": "suwa_nobu",
       "likes_count": 55,
       "last_seen": "2026-09-21T06:12:12.143280899+00:00"
+    },
+    {
+      "key": "e8a11dd95f319a1545d6",
+      "item_id": "e8a11dd95f319a1545d6",
+      "title": "日報mdをどの画面からもワンボタン表示！ Raycast × Obsidian",
+      "link": "https://qiita.com/kuma_3838/items/e8a11dd95f319a1545d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n日報は Obsidian に書いていて、ToDo も日報の md ファイルに書いています。\nRaycast の Obsidian 拡張機能にある「Daily Note」コマンドをホットキーに割り当て、ワンボタンで今日の日報を開けるようにしていました。\nただ、この...",
+      "published": "2026-11-16T08:34:57+09:00",
+      "updated": "2026-11-16T08:34:57+09:00",
+      "author_name": "kuma_3838",
+      "likes_count": 18,
+      "last_seen": "2026-11-16T09:28:22.477133123+00:00"
     },
     {
       "key": "e8cf442b5ace978e22b5",
@@ -3489,8 +3489,8 @@
       "published": "2026-11-15T17:20:40+09:00",
       "updated": "2026-11-16T09:58:07+09:00",
       "author_name": "songchong",
-      "likes_count": 14,
-      "last_seen": "2026-11-16T01:53:38.109382281+00:00"
+      "likes_count": 15,
+      "last_seen": "2026-11-16T09:28:22.477133123+00:00"
     },
     {
       "key": "fa75e8e9cd61a2f2a22f",
