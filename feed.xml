@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-11-16T09:58:07+09:00</updated>
+  <updated>2026-11-16T22:22:03+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -26,6 +26,17 @@
 Jevは、文章や業務データを読み取り、分類・採点・条件判定の結果を確率付きで返すAIモデルです。
 モデルが返す結果は、アプリケーションが処理を分岐する場面に利用することが想定されています。プログラムは条件を明確に判定し、複雑な制御に応用することが可能です。
 この...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9ee7c475a475e7527b0e</id>
+    <title>もういい加減&quot;技術勉強会&quot;やめませんか？</title>
+    <link rel="alternate" href="https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-16T22:22:03+09:00</updated>
+    <summary type="html">Likes: 178&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kotowazaman&quot;&gt;kotowazaman&lt;/a&gt;&lt;br/&gt;Published: 2026-11-16T15:26:17+09:00&lt;br/&gt;Updated: 2026-11-16T22:22:03+09:00&lt;br/&gt;毎週水曜の15時、普段残業続きで目が真っ赤なメンバーが会議室に10人が集められる。
+誰かがAIで作った綺麗なスライドを持ってきて、それを読み上げる。
+「いまさら聞けないKubernetesの基本」
+残りの9人は、うなずきながら手元でSlackを返している。
+説明が終わるなり...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5d733c267370e0e06661</id>
@@ -1082,6 +1093,17 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
 一方で、同...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b6d17933cc276dadf6d5</id>
+    <title>AI開発のセキュリティは設計で証明！今後エンジニアに求められるスキルを完全解説</title>
+    <link rel="alternate" href="https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-15T17:40:46+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-11-15T17:03:34+09:00&lt;br/&gt;Updated: 2026-11-15T17:40:46+09:00&lt;br/&gt;はじめに
+こんにちは、Watanabe Jin(@Sicut_study)です。
+ニュースを見るたびに、自分もセキュリティを勉強しないといけないと思ったことはないでしょうか。
+認証。ファイアウォール。脆弱性の名前。
+セキュリティと聞くと、そこを勉強すればいいと思う人が多...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cbd1d7bb724676a3b686</id>
     <title>生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方</title>
     <link rel="alternate" href="https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1349,6 +1371,20 @@ Claude Codeには、permissions.deny で .env を読ませない設定があり�
 手...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:22f2836485ecc25ee527</id>
+    <title>はじめてのAPIログ設計 — 「ログはあるのに調べられない」を防ぐには？</title>
+    <link rel="alternate" href="https://qiita.com/masashige0904/items/22f2836485ecc25ee527?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-16T09:37:01+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masashige0904&quot;&gt;masashige0904&lt;/a&gt;&lt;br/&gt;Published: 2026-11-16T09:37:01+09:00&lt;br/&gt;Updated: 2026-11-16T09:37:01+09:00&lt;br/&gt;この記事はこんな人におすすめ
+
+APIログを見直したいが、何を残すべきか迷っている方
+CloudWatch Logsにログはあるものの、調査に必要な記録を探しにくいと感じている方
+ログレベルやJSON形式、ログライブラリの役割を整理したい方
+
+この記事で得られること
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:41a88eb41845af761b19</id>
     <title>部品の脆弱性は、どこまで広がるのか？ 主要 64 製品と 8 部品の依存関係をたどったら、OpenSSL は 20、SQLite は 16、PHP は 11 だった</title>
     <link rel="alternate" href="https://qiita.com/songchong/items/41a88eb41845af761b19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1480,31 +1516,13 @@ LLMに「このチケットはどの部署宛てか」を答えさせるコー�
 JevはLLMのように文章を生成するモデルではなく、分類・判定・スコアリングなどの意思決定に特化したモデルです。TypeSafe AIはこの種類のモデルをSystem...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:f82f870ef8481d9b1f0b</id>
-    <title>【Porffor】JavaScriptをCにコンパイルして圧倒的パフォーマンスを見せる</title>
-    <link rel="alternate" href="https://qiita.com/rana_kualu/items/f82f870ef8481d9b1f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-14T21:34:39+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/rana_kualu&quot;&gt;rana_kualu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-14T21:34:39+09:00&lt;br/&gt;Updated: 2026-09-14T21:34:39+09:00&lt;br/&gt;と謳うライブラリPorfforが、先日2026/08/25にアルファ版に到達しました。
-とのことで、以下は公式サイトとGitHubの紹介です。
-
-porffor公式サイト
-
-PorfforはJavaScriptをコンパイラでリビルドします。
-これによってメモリ使用量とサイズ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:22f2836485ecc25ee527</id>
-    <title>はじめてのAPIログ設計 — 「ログはあるのに調べられない」を防ぐには？</title>
-    <link rel="alternate" href="https://qiita.com/masashige0904/items/22f2836485ecc25ee527?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-16T09:37:01+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/masashige0904&quot;&gt;masashige0904&lt;/a&gt;&lt;br/&gt;Published: 2026-11-16T09:37:01+09:00&lt;br/&gt;Updated: 2026-11-16T09:37:01+09:00&lt;br/&gt;この記事はこんな人におすすめ
-
-APIログを見直したいが、何を残すべきか迷っている方
-CloudWatch Logsにログはあるものの、調査に必要な記録を探しにくいと感じている方
-ログレベルやJSON形式、ログライブラリの役割を整理したい方
-
-この記事で得られること
-...</summary>
+    <id>tag:qiita.com,2026:43b360420d0cdcbf190c</id>
+    <title>社長の一言は重い。RAGにも忖度させてみた（重み付け検索）</title>
+    <link rel="alternate" href="https://qiita.com/kikuziro/items/43b360420d0cdcbf190c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-16T11:52:06+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-11-15T00:30:41+09:00&lt;br/&gt;Updated: 2026-11-16T11:52:06+09:00&lt;br/&gt;はじめに
+皆さんこんな経験ありませんか？
+新人の頃に正しいことを言っても誰も賛同してくれないのに、同じことを社長が言うと全員が賛同する。理不尽ですよねー人間は「誰が言ったか」で情報に重みを付けています。じゃあRAGはどうか？チャンクは全部平等で社長の決定事項も新人のつぶ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f883c3cf009785c51bcc</id>
@@ -1642,15 +1660,14 @@ LIMIT 件数
 これを見て「何が何やら」となった方も多いと思います。順番に日本語へ変...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b6d17933cc276dadf6d5</id>
-    <title>AI開発のセキュリティは設計で証明！今後エンジニアに求められるスキルを完全解説</title>
-    <link rel="alternate" href="https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-15T17:40:46+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-11-15T17:03:34+09:00&lt;br/&gt;Updated: 2026-11-15T17:40:46+09:00&lt;br/&gt;はじめに
-こんにちは、Watanabe Jin(@Sicut_study)です。
-ニュースを見るたびに、自分もセキュリティを勉強しないといけないと思ったことはないでしょうか。
-認証。ファイアウォール。脆弱性の名前。
-セキュリティと聞くと、そこを勉強すればいいと思う人が多...</summary>
+    <id>tag:qiita.com,2026:fa50cc82e49b24925fe3</id>
+    <title>日本語の脆弱性 DB は 4.6 日かかる。待てないので、46 秒でセキュリティ情報が載るようにした</title>
+    <link rel="alternate" href="https://qiita.com/songchong/items/fa50cc82e49b24925fe3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-16T09:58:07+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-11-15T17:20:40+09:00&lt;br/&gt;Updated: 2026-11-16T09:58:07+09:00&lt;br/&gt;1. なぜ今、脆弱性への対応を急ぐのか？
+
+今は、日本語の情報が出るのを待ってから動くと間に合わない時代です。図は、その理由を 3 つ並べたものです。
+1 つ目は、攻撃者が AI を使い、会社の大きさを問わず狙っていることです。内閣官房国家サイバー統括室は、2026 年 ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8225fd0ff29603549ab8</id>
@@ -1712,6 +1729,17 @@ IT未経験でエンジニアになった私は、配属後の勉強期間中、
 こんにちは。KDDIアジャイル開発センターの溝渕です。
 ここ 2 か月ほど、Claude Code での個人開発を進めながら、精度を極力下げずにトークンの消費を抑える仕組みづくりと効果の計測に挑戦してました。
 8月の約 1 か月の計測で、かなりトークン消費を抑え...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:141e960b0bab8015bdae</id>
+    <title>AIを介したやり取りは、放っておくとAI Slopを加速させるかも</title>
+    <link rel="alternate" href="https://qiita.com/inukai-masanori/items/141e960b0bab8015bdae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-16T09:52:08+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inukai-masanori&quot;&gt;inukai-masanori&lt;/a&gt;&lt;br/&gt;Published: 2026-11-16T09:52:08+09:00&lt;br/&gt;Updated: 2026-11-16T09:52:08+09:00&lt;br/&gt;はじめに
+まず初めに、私はマネージャーをしています。
+最近、チャットでの依頼や相談、レビューを見ていて「AIを介したコミュニケーションって、放っておくと良くない方向に転がりやすいな」と感じています。そのあたりについて、自分なりに意識していることも含めて書いてみます。
+
+...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1a043190d8f00d2ebda6</id>
@@ -1831,14 +1859,6 @@ async fu...</summary>
 本体を軽く...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:fa50cc82e49b24925fe3</id>
-    <title>日本語の脆弱性 DB は 4.6 日かかる。待てないので、46 秒でセキュリティ情報が載るようにした</title>
-    <link rel="alternate" href="https://qiita.com/songchong/items/fa50cc82e49b24925fe3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-16T09:58:07+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-11-15T17:20:40+09:00&lt;br/&gt;Updated: 2026-11-16T09:58:07+09:00&lt;br/&gt;使っている技術の脆弱性を、自分に関係する分だけ、早く知りたい。知ったら、何を、いつまでにすればよいのかも知りたい。脆弱性の情報を追う人の目的は、この 2 つにまとまります。
-IT連携マップ編集部は、2026 年 11 月 15 日に、この目的のための IT連携マップのセキ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:945479177d4dcbb80f69</id>
     <title>「⚪︎⚪︎はしないで」は効かない？AI Agent の危険行動を制限する 5 つの方法と守られる強さで比べた</title>
     <link rel="alternate" href="https://qiita.com/songchong/items/945479177d4dcbb80f69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1944,6 +1964,15 @@ AI ツールを入れようとするとき、営業の場や社内の勉強会�
 この記事では、この説明のどこまでが正しく、どこから先に...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:75bf50a67ca5370ec6bf</id>
+    <title>今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）</title>
+    <link rel="alternate" href="https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-16T09:58:11+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-11-16T03:58:36+09:00&lt;br/&gt;Updated: 2026-11-16T09:58:11+09:00&lt;br/&gt;今週（11 月 16〜22 日）にやることは、図の 6 つです。①〜④ には、すでに悪用されている脆弱性があります。この 4 つから先に済ませてください。
+
+① の Outlook の脆弱性は、Microsoft が悪用を確認したと公表しています。IT連携マップの編集部は...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5416c243e14a5406dd6f</id>
     <title>東京リージョンで使っていてもバージニア北部に依存しているもの</title>
     <link rel="alternate" href="https://qiita.com/yama3133/items/5416c243e14a5406dd6f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2003,35 +2032,5 @@ Oracle AI World 2026にて発表
 この記事は 2026/10/21 の Oracle AI Jam Session #41 はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～ にてご紹介させていただいたものです。
 
 生成AIを業務で活用するには、社内ナレッジや業務デー...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7e5241176f3eead2a2f5</id>
-    <title>Codexでゲームを作っていたら、小さなAI開発組織を回す実験になった</title>
-    <link rel="alternate" href="https://qiita.com/Masato_Iwasaki/items/7e5241176f3eead2a2f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-19T18:10:19+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Masato_Iwasaki&quot;&gt;Masato_Iwasaki&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T17:33:01+09:00&lt;br/&gt;Updated: 2026-10-19T18:10:19+09:00&lt;br/&gt;ゲームを作ってみようとCodexを使い始めたら、気付けばAIに役割を付け、Sprintまで回していました。ゲーム作りの横で、AIの仕事の割り振りまで試し始めています。
-
-1. 最初は、Codexにゲームを一本作ってもらった
-ゲーム開発の苦労を味わってみたい、というところから...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:542892c6d4c569c9c15f</id>
-    <title>重要な指示は最初か最後か？ AI 大手 3 社の助言が異なるので、資料→命令→指示の並び方を 8 通り試してみた</title>
-    <link rel="alternate" href="https://qiita.com/songchong/items/542892c6d4c569c9c15f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-19T13:25:17+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T03:30:44+09:00&lt;br/&gt;Updated: 2026-10-19T13:25:17+09:00&lt;br/&gt;長い資料を AI に渡して仕事を頼むとき、守らせたい指示は資料の前に書くべきか、後に書くべきか。Anthropic・Google・OpenAI の 3 社の手引きを読むと、この答えが会社によって異なります。
-そこで IT連携マップ編集部は、4 つのモデルで 3 つの実験を...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a8620f54cf953ad67365</id>
-    <title>GitHubに競プロライブラリを保管したい！を叶える備忘録</title>
-    <link rel="alternate" href="https://qiita.com/Un_titled/items/a8620f54cf953ad67365?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-17T23:43:13+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Un_titled&quot;&gt;Un_titled&lt;/a&gt;&lt;br/&gt;Published: 2026-10-17T23:43:13+09:00&lt;br/&gt;Updated: 2026-10-17T23:43:13+09:00&lt;br/&gt;Hello, World
-Un_titledです。その辺の高校生をしています
-AtCoderのルール変更を機にライブラリをようやくGitHubで管理する機運が高まってきたので、競プロ純粋培養として知らなかったことを備忘録として残しておきます。
-主に
-
-リポジトリで気になっ...</summary>
   </entry>
 </feed>
