@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-11-17T11:40:09+09:00</updated>
+  <updated>2026-11-17T22:52:59+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -11,7 +11,7 @@
     <title>もういい加減&quot;技術勉強会&quot;やめませんか？</title>
     <link rel="alternate" href="https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-11-17T11:40:09+09:00</updated>
-    <summary type="html">Likes: 465&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kotowazaman&quot;&gt;kotowazaman&lt;/a&gt;&lt;br/&gt;Published: 2026-11-16T15:26:17+09:00&lt;br/&gt;Updated: 2026-11-17T11:40:09+09:00&lt;br/&gt;毎週水曜の15時、普段残業続きで目が真っ赤なメンバーが会議室に10人が集められる。
+    <summary type="html">Likes: 507&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kotowazaman&quot;&gt;kotowazaman&lt;/a&gt;&lt;br/&gt;Published: 2026-11-16T15:26:17+09:00&lt;br/&gt;Updated: 2026-11-17T11:40:09+09:00&lt;br/&gt;毎週水曜の15時、普段残業続きで目が真っ赤なメンバーが会議室に10人が集められる。
 誰かがAIで作った綺麗なスライドを持ってきて、それを読み上げる。
 「いまさら聞けないKubernetesの基本」
 残りの9人は、うなずきながら手元でSlackを返している。
@@ -271,6 +271,18 @@ Jevで画像入力が使え...</summary>
 また、コードレビューをして...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b279477cbcdbe5921abd</id>
+    <title>部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい</title>
+    <link rel="alternate" href="https://qiita.com/nuco_d/items/b279477cbcdbe5921abd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-17T09:58:19+09:00</updated>
+    <summary type="html">Likes: 70&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nuco_d&quot;&gt;nuco_d&lt;/a&gt;&lt;br/&gt;Published: 2026-11-17T09:58:19+09:00&lt;br/&gt;Updated: 2026-11-17T09:58:19+09:00&lt;br/&gt;はじめに
+AIはプログラミングだけでなく、営業資料や発表資料まで作れるようになった。
+部下に資料を頼むと、AIで作ったスライドが返ってくることも増えたのではないだろうか。
+そして諸君は、そのスライドをひと目見てこう思ったはずだ。
+「これ、生成AIで作ったでしょ？」
+と。本...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:65fba77555a13af6b8a5</id>
     <title>最近サイバー攻撃多いから、基本対策を見直そう</title>
     <link rel="alternate" href="https://qiita.com/HIsui0921/items/65fba77555a13af6b8a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -501,6 +513,17 @@ Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENT
 Fixed /update-config writing Write(path) permission rules, which file permission...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b6d17933cc276dadf6d5</id>
+    <title>AI開発のセキュリティは設計で証明！今後エンジニアに求められるスキルを完全解説</title>
+    <link rel="alternate" href="https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-15T17:40:46+09:00</updated>
+    <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-11-15T17:03:34+09:00&lt;br/&gt;Updated: 2026-11-15T17:40:46+09:00&lt;br/&gt;はじめに
+こんにちは、Watanabe Jin(@Sicut_study)です。
+ニュースを見るたびに、自分もセキュリティを勉強しないといけないと思ったことはないでしょうか。
+認証。ファイアウォール。脆弱性の名前。
+セキュリティと聞くと、そこを勉強すればいいと思う人が多...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9d4f86c185dda6fd24a7</id>
     <title>【2026年10月 最新版】AIモデル徹底比較 | GPT-6.1 Sol  / Claude Opus 5.5  / Claude Sonnet 5.5 / Gemini 4 Argon</title>
     <link rel="alternate" href="https://qiita.com/nuco_d/items/9d4f86c185dda6fd24a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -600,17 +623,6 @@ Fixed /update-config writing Write(path) permission rules, which file permission
     <updated>2026-09-28T20:26:30+09:00</updated>
     <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit-yukiono&quot;&gt;jqit-yukiono&lt;/a&gt;&lt;br/&gt;Published: 2026-09-28T20:26:30+09:00&lt;br/&gt;Updated: 2026-09-28T20:26:30+09:00&lt;br/&gt;個人開発アプリ「MineWatch」の記事まとめ（随時更新）
 個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、iOS UIKit + FastAPI + Kubernetes）について書いた記事が増えてきたので、リンク集としてまとめ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b6d17933cc276dadf6d5</id>
-    <title>AI開発のセキュリティは設計で証明！今後エンジニアに求められるスキルを完全解説</title>
-    <link rel="alternate" href="https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-15T17:40:46+09:00</updated>
-    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-11-15T17:03:34+09:00&lt;br/&gt;Updated: 2026-11-15T17:40:46+09:00&lt;br/&gt;はじめに
-こんにちは、Watanabe Jin(@Sicut_study)です。
-ニュースを見るたびに、自分もセキュリティを勉強しないといけないと思ったことはないでしょうか。
-認証。ファイアウォール。脆弱性の名前。
-セキュリティと聞くと、そこを勉強すればいいと思う人が多...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8675266928f574677d9e</id>
@@ -713,18 +725,6 @@ Xでもそこか...</summary>
 みなさんGraphRAGの判断を全部LLMにや...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:b279477cbcdbe5921abd</id>
-    <title>部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい</title>
-    <link rel="alternate" href="https://qiita.com/nuco_d/items/b279477cbcdbe5921abd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-17T09:58:19+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nuco_d&quot;&gt;nuco_d&lt;/a&gt;&lt;br/&gt;Published: 2026-11-17T09:58:19+09:00&lt;br/&gt;Updated: 2026-11-17T09:58:19+09:00&lt;br/&gt;はじめに
-AIはプログラミングだけでなく、営業資料や発表資料まで作れるようになった。
-部下に資料を頼むと、AIで作ったスライドが返ってくることも増えたのではないだろうか。
-そして諸君は、そのスライドをひと目見てこう思ったはずだ。
-「これ、生成AIで作ったでしょ？」
-と。本...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b33b4e337c15dddae20a</id>
     <title>0から学ぶセキュリティの基礎　〜CSRF編〜</title>
     <link rel="alternate" href="https://qiita.com/Pigeon_gate/items/b33b4e337c15dddae20a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -802,6 +802,17 @@ Xのこちらの投稿で、Claude Codeのスキルimozuruが話題になって�
     <updated>2026-09-29T21:20:26+09:00</updated>
     <summary type="html">Likes: 39&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-09-29T16:16:02+09:00&lt;br/&gt;Updated: 2026-09-29T21:20:26+09:00&lt;br/&gt;こんにちは、Claude Codeです。著者のみのるんが忙しそうだったので、代わりにこの記事を書いています。
 ブログの画像を差し替えたのに、Xに貼ると古い画像のまま。投稿した直後から、カードが灰色の枠になっている。TwitterがXになってから、こういうことがよく起きます。...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:141e960b0bab8015bdae</id>
+    <title>AIを介したやり取りは、放っておくとAI Slopを加速させるかも</title>
+    <link rel="alternate" href="https://qiita.com/inukai-masanori/items/141e960b0bab8015bdae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-16T09:52:08+09:00</updated>
+    <summary type="html">Likes: 38&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inukai-masanori&quot;&gt;inukai-masanori&lt;/a&gt;&lt;br/&gt;Published: 2026-11-16T09:52:08+09:00&lt;br/&gt;Updated: 2026-11-16T09:52:08+09:00&lt;br/&gt;はじめに
+まず初めに、私はマネージャーをしています。
+最近、チャットでの依頼や相談、レビューを見ていて「AIを介したコミュニケーションって、放っておくと良くない方向に転がりやすいな」と感じています。そのあたりについて、自分なりに意識していることも含めて書いてみます。
+
+...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3a1a9d1ba2b289b23244</id>
@@ -965,17 +976,6 @@ VueやReact以外のフレームワークを使ってみたいので Svelte を.
 簡単...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:141e960b0bab8015bdae</id>
-    <title>AIを介したやり取りは、放っておくとAI Slopを加速させるかも</title>
-    <link rel="alternate" href="https://qiita.com/inukai-masanori/items/141e960b0bab8015bdae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-16T09:52:08+09:00</updated>
-    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/inukai-masanori&quot;&gt;inukai-masanori&lt;/a&gt;&lt;br/&gt;Published: 2026-11-16T09:52:08+09:00&lt;br/&gt;Updated: 2026-11-16T09:52:08+09:00&lt;br/&gt;はじめに
-まず初めに、私はマネージャーをしています。
-最近、チャットでの依頼や相談、レビューを見ていて「AIを介したコミュニケーションって、放っておくと良くない方向に転がりやすいな」と感じています。そのあたりについて、自分なりに意識していることも含めて書いてみます。
-
-...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:bf4a3a2185db2d28eee5</id>
     <title>実際に試したClaude便利術20選 まとめ</title>
     <link rel="alternate" href="https://qiita.com/N-Kyo/items/bf4a3a2185db2d28eee5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1117,6 +1117,16 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
 現在、Webエンジニアを目指して学習を進める中で、AI駆動開発についても学んでいます。今回は、Happiness Chainのカリキュラムで生成AIセキュリティについて学ぶ機会があり、Prompt InjectionやJailbreak、情報漏洩、RAGのセキュ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:a5145ee73f86646c64ec</id>
+    <title>『なぜ、あなたの仕事は終わらないのか』で学んだ目的意識と時間の使い方</title>
+    <link rel="alternate" href="https://qiita.com/kuma_3838/items/a5145ee73f86646c64ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-16T08:34:43+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-11-16T08:34:43+09:00&lt;br/&gt;Updated: 2026-11-16T08:34:43+09:00&lt;br/&gt;はじめに
+社内勉強会で、同僚が中島聡さんの『なぜ、あなたの仕事は終わらないのか スピードは最強の武器である』を紹介していました。
+著者は、米 Microsoft 本社で Windows95 などの設計を担当したエンジニアです。
+最近の私は、時間の使い方を正直うまくできてい...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:7cbf2881a9c8c8cf3656</id>
     <title>そろそろ共通鍵暗号・公開鍵暗号についてちゃんと理解する</title>
     <link rel="alternate" href="https://qiita.com/tomo-ryo/items/7cbf2881a9c8c8cf3656?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1228,16 +1238,6 @@ Honoってあるじゃないですか。TypeScriptのWebフレームワークで
     <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-11-15T00:30:41+09:00&lt;br/&gt;Updated: 2026-11-16T11:52:06+09:00&lt;br/&gt;はじめに
 皆さんこんな経験ありませんか？
 新人の頃に正しいことを言っても誰も賛同してくれないのに、同じことを社長が言うと全員が賛同する。理不尽ですよねー人間は「誰が言ったか」で情報に重みを付けています。じゃあRAGはどうか？チャンクは全部平等で社長の決定事項も新人のつぶ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a5145ee73f86646c64ec</id>
-    <title>『なぜ、あなたの仕事は終わらないのか』で学んだ目的意識と時間の使い方</title>
-    <link rel="alternate" href="https://qiita.com/kuma_3838/items/a5145ee73f86646c64ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-16T08:34:43+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kuma_3838&quot;&gt;kuma_3838&lt;/a&gt;&lt;br/&gt;Published: 2026-11-16T08:34:43+09:00&lt;br/&gt;Updated: 2026-11-16T08:34:43+09:00&lt;br/&gt;はじめに
-社内勉強会で、同僚が中島聡さんの『なぜ、あなたの仕事は終わらないのか スピードは最強の武器である』を紹介していました。
-著者は、米 Microsoft 本社で Windows95 などの設計を担当したエンジニアです。
-最近の私は、時間の使い方を正直うまくできてい...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b8bca096170d087e271d</id>
@@ -1667,6 +1667,18 @@ AIとエンジニアについて〜
 ワーク①...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:439bda5ea9234b7d9013</id>
+    <title>【初投稿】「最近どう？」を卒業しよう！180cm95kg・青髪・ヒゲ面のインフラ中間管理職が1on1で意識している11の工夫</title>
+    <link rel="alternate" href="https://qiita.com/human_hub_T/items/439bda5ea9234b7d9013?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-17T11:34:03+09:00</updated>
+    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/human_hub_T&quot;&gt;human_hub_T&lt;/a&gt;&lt;br/&gt;Published: 2026-11-17T11:34:02+09:00&lt;br/&gt;Updated: 2026-11-17T11:34:03+09:00&lt;br/&gt;はじめに（自己紹介）
+はじめまして！この記事がQiita初投稿になります。
+まずは簡単に自己紹介をさせてください。
+
+経歴：社会人16年目（ITインフラ畑一筋16年）の30代中盤。現在は現場で手を動かしつつ、メンバーのマネジメントも担う中間管理職のポジションにいます。
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8225fd0ff29603549ab8</id>
     <title>Oracle AI World 2026 振り返り：Larry Ellison、Sam Altmanらの6講演から、AIに仕事を任せる仕組みを整理してみてみた</title>
     <link rel="alternate" href="https://qiita.com/shirok/items/8225fd0ff29603549ab8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1726,6 +1738,19 @@ IT未経験でエンジニアになった私は、配属後の勉強期間中、
 こんにちは。KDDIアジャイル開発センターの溝渕です。
 ここ 2 か月ほど、Claude Code での個人開発を進めながら、精度を極力下げずにトークンの消費を抑える仕組みづくりと効果の計測に挑戦してました。
 8月の約 1 か月の計測で、かなりトークン消費を抑え...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:8efff0925c0994dda6ee</id>
+    <title>AIっぽい日本語を直すスキル yomiyasu-mini を Microsoft Copilot の色々なところで使ってみた</title>
+    <link rel="alternate" href="https://qiita.com/Oyu3m/items/8efff0925c0994dda6ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-17T22:52:59+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Oyu3m&quot;&gt;Oyu3m&lt;/a&gt;&lt;br/&gt;Published: 2026-11-17T22:52:59+09:00&lt;br/&gt;Updated: 2026-11-17T22:52:59+09:00&lt;br/&gt;前提
+この記事は2026/11/16時点での公開情報や動作を私なりにまとめたものとなります。
+正確な情報はご自身でご確認ください。
+
+AIっぽい日本語を直してくれる「yomiyasu」
+Copilot に文章を書かせると、なんだか「AIっぽい日本語」になりますよねえ…
+「...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1a043190d8f00d2ebda6</id>
@@ -2011,23 +2036,5 @@ AIはリポジトリのコードを読めば、「何がどう実装されてい
 
 Oracle AI World 2026にて発表
 2026年10月に開催されたDB Product Spotlightにて、Oracle Database Technologies担当エグゼクティブ・バイスプ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:fb72de63c975fcbbd2f6</id>
-    <title>「コードレビューは死ぬ、ターミナルも消える」——海外著名エンジニアが予測するAI時代のソフトウェア開発の未来</title>
-    <link rel="alternate" href="https://qiita.com/softbase/items/fb72de63c975fcbbd2f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-24T23:42:12+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/softbase&quot;&gt;softbase&lt;/a&gt;&lt;br/&gt;Published: 2026-10-24T23:42:12+09:00&lt;br/&gt;Updated: 2026-10-24T23:42:12+09:00&lt;br/&gt;AIはソフトウェア開発を効率化するだけなのか。それとも、ソフトウェアエンジニアリングという仕事そのものを根本から変えてしまうのか。
-2026年9月19日、ソフトウェアエンジニアの Thorsten Ball氏 が、X（旧Twitter）で「What I believe ab...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1df29b844478f9df5960</id>
-    <title>はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～</title>
-    <link rel="alternate" href="https://qiita.com/yuji-arakawa/items/1df29b844478f9df5960?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-22T10:40:13+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuji-arakawa&quot;&gt;yuji-arakawa&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T16:34:12+09:00&lt;br/&gt;Updated: 2026-10-22T10:40:13+09:00&lt;br/&gt;はじめに
-この記事は 2026/10/21 の Oracle AI Jam Session #41 はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～ にてご紹介させていただいたものです。
-
-生成AIを業務で活用するには、社内ナレッジや業務デー...</summary>
   </entry>
 </feed>
