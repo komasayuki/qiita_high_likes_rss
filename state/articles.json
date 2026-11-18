@@ -145,18 +145,6 @@
       "last_seen": "2026-10-24T18:04:12.428821422+00:00"
     },
     {
-      "key": "116aa006fbf93b68d791",
-      "item_id": "116aa006fbf93b68d791",
-      "title": "Jevってなんだ？ — 文章を書かないAIに、LLMのif文判定を任せられるか",
-      "link": "https://qiita.com/GeneLab_999/items/116aa006fbf93b68d791?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに ── なぜこの記事を書くのか\nLLMに「このチケットはどの部署宛てか」を答えさせるコードを、筆者は何度も書いてきました。JSONで返させ、パースし、検証し、落ちたら再試行する。判断は1行なのに、防御コードのほうが長くなるのが常でした。\n2026年9月15日、米T...",
-      "published": "2026-09-17T00:11:29+09:00",
-      "updated": "2026-09-19T22:53:39+09:00",
-      "author_name": "GeneLab_999",
-      "likes_count": 20,
-      "last_seen": "2026-09-19T17:57:08.578319281+00:00"
-    },
-    {
       "key": "118144a5e0c707de12dd",
       "item_id": "118144a5e0c707de12dd",
       "title": "Gemini 4 Argonでロボットアームを動かしてみた",
@@ -189,8 +177,8 @@
       "published": "2026-11-16T09:52:08+09:00",
       "updated": "2026-11-16T09:52:08+09:00",
       "author_name": "inukai-masanori",
-      "likes_count": 39,
-      "last_seen": "2026-11-18T13:49:47.775486901+00:00"
+      "likes_count": 41,
+      "last_seen": "2026-11-18T21:50:19.552268327+00:00"
     },
     {
       "key": "145266dc899e8b490e59",
@@ -813,8 +801,8 @@
       "published": "2026-11-17T11:34:02+09:00",
       "updated": "2026-11-18T15:51:51+09:00",
       "author_name": "human_hub_T",
-      "likes_count": 27,
-      "last_seen": "2026-11-18T13:49:47.775486901+00:00"
+      "likes_count": 28,
+      "last_seen": "2026-11-18T21:50:19.552268327+00:00"
     },
     {
       "key": "43b360420d0cdcbf190c",
@@ -1141,6 +1129,18 @@
       "last_seen": "2026-09-25T07:40:40.546092579+00:00"
     },
     {
+      "key": "5a2dffdff4af6e9f45ce",
+      "item_id": "5a2dffdff4af6e9f45ce",
+      "title": "PostgreSQLとFastAPIで作る、状態遷移を守る更新APIと履歴テーブル",
+      "link": "https://qiita.com/takumi_engineer/items/5a2dffdff4af6e9f45ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "解決したい問題\n配送や案件の一覧画面を作ると、更新APIで必ず同じ問題が出ます。「配達済」から「出発」へ戻るような不正な遷移と、二人が同時に更新したときの上書きです。さらに「誰がいつ変えたか」も残す必要があります。\nこの記事では、遷移ルールを表で持ち、更新と履歴の記録を1...",
+      "published": "2026-11-16T09:00:17+09:00",
+      "updated": "2026-11-16T09:00:17+09:00",
+      "author_name": "takumi_engineer",
+      "likes_count": 13,
+      "last_seen": "2026-11-18T21:50:19.552268327+00:00"
+    },
+    {
       "key": "5a86ca330b449db0e6bc",
       "item_id": "5a86ca330b449db0e6bc",
       "title": "Claude Codeの.envを読ませない設定がどこまで効くのか試してみた",
@@ -1258,7 +1258,7 @@
       "updated": "2026-11-18T11:13:58+09:00",
       "author_name": "KYoshiyama",
       "likes_count": 23,
-      "last_seen": "2026-11-18T13:49:47.775486901+00:00"
+      "last_seen": "2026-11-18T21:50:19.552268327+00:00"
     },
     {
       "key": "62b9502167c97f898b90",
@@ -1581,8 +1581,8 @@
       "published": "2026-11-16T13:28:02+09:00",
       "updated": "2026-11-16T13:28:03+09:00",
       "author_name": "kizuku_tabata",
-      "likes_count": 14,
-      "last_seen": "2026-11-18T04:09:50.494721239+00:00"
+      "likes_count": 20,
+      "last_seen": "2026-11-18T21:50:19.552268327+00:00"
     },
     {
       "key": "7a062c2ed9b82571f91f",
@@ -1927,10 +1927,10 @@
       "link": "https://qiita.com/Oyu3m/items/8efff0925c0994dda6ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "summary": "前提\nこの記事は2026/11/16時点での公開情報や動作を私なりにまとめたものとなります。\n正確な情報はご自身でご確認ください。\n\nAIっぽい日本語を直してくれる「yomiyasu」\nCopilot に文章を書かせると、なんだか「AIっぽい日本語」になりますよねえ…\n「...",
       "published": "2026-11-17T22:52:59+09:00",
-      "updated": "2026-11-17T22:52:59+09:00",
+      "updated": "2026-11-18T23:25:15+09:00",
       "author_name": "Oyu3m",
-      "likes_count": 17,
-      "last_seen": "2026-11-18T13:49:47.775486901+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-11-18T21:50:19.552268327+00:00"
     },
     {
       "key": "906d86684fbcb92eedbd",
@@ -2145,8 +2145,8 @@
       "published": "2026-11-16T15:26:17+09:00",
       "updated": "2026-11-17T11:40:09+09:00",
       "author_name": "kotowazaman",
-      "likes_count": 545,
-      "last_seen": "2026-11-18T13:49:47.775486901+00:00"
+      "likes_count": 559,
+      "last_seen": "2026-11-18T21:50:19.552268327+00:00"
     },
     {
       "key": "9fed3e53191b2b2604a5",
@@ -2267,18 +2267,6 @@
       "author_name": "shirok",
       "likes_count": 11,
       "last_seen": "2026-09-26T07:33:58.836984232+00:00"
-    },
-    {
-      "key": "a63285193c854a3b19da",
-      "item_id": "a63285193c854a3b19da",
-      "title": "「AI があればプログラマーはいらない」という風潮が危険な理由",
-      "link": "https://qiita.com/tomokusaba/items/a63285193c854a3b19da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\nGitHub Copilot や Claude Code などの AI コーディングツールが、開発者の身近な存在になってきました。\n「アイデアがあり、それを AI に正しく伝えられれば、形にできる」\nこの考え方は、たしかに一面では真実です。以前なら何日もかかって...",
-      "published": "2026-09-16T21:10:39+09:00",
-      "updated": "2026-09-16T21:10:39+09:00",
-      "author_name": "tomokusaba",
-      "likes_count": 21,
-      "last_seen": "2026-09-19T17:57:08.578319281+00:00"
     },
     {
       "key": "a79f056fab859293e0b3",
@@ -2481,8 +2469,8 @@
       "published": "2026-11-17T09:58:19+09:00",
       "updated": "2026-11-17T09:58:19+09:00",
       "author_name": "nuco_d",
-      "likes_count": 124,
-      "last_seen": "2026-11-18T13:49:47.775486901+00:00"
+      "likes_count": 141,
+      "last_seen": "2026-11-18T21:50:19.552268327+00:00"
     },
     {
       "key": "b2ef2f7a6ee0dbbf0001",
@@ -2926,7 +2914,7 @@
       "updated": "2026-11-17T21:58:35+09:00",
       "author_name": "kikuziro",
       "likes_count": 17,
-      "last_seen": "2026-11-18T13:49:47.775486901+00:00"
+      "last_seen": "2026-11-18T21:50:19.552268327+00:00"
     },
     {
       "key": "ce71bf981e5cdd0bd8f5",
@@ -3105,8 +3093,8 @@
       "published": "2026-11-18T12:05:06+09:00",
       "updated": "2026-11-18T12:05:07+09:00",
       "author_name": "Masato_Iwasaki",
-      "likes_count": 10,
-      "last_seen": "2026-11-18T13:49:47.775486901+00:00"
+      "likes_count": 11,
+      "last_seen": "2026-11-18T21:50:19.552268327+00:00"
     },
     {
       "key": "dccd98d85a31c0cec279",
@@ -3277,6 +3265,18 @@
       "last_seen": "2026-10-28T15:56:32.387523805+00:00"
     },
     {
+      "key": "ebd90aa7ce654c9c8c97",
+      "item_id": "ebd90aa7ce654c9c8c97",
+      "title": "Kubernetesの構成要素にガチ入門する",
+      "link": "https://qiita.com/har1101/items/ebd90aa7ce654c9c8c97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "こんにちは、ふくちです。\n最近Kubernetesが話題ですね。色んな企業のソフトウェアファクトリー事例で活用されているのを見ています。どちらかというと先進的な事業会社さんの取り組み例な気がしますが、そういうトレンドが若干あるのかなと。\n\nとはいえ私は...",
+      "published": "2026-11-17T20:21:35+09:00",
+      "updated": "2026-11-17T20:21:35+09:00",
+      "author_name": "har1101",
+      "likes_count": 10,
+      "last_seen": "2026-11-18T21:50:19.552268327+00:00"
+    },
+    {
       "key": "ebee7540a82db6933854",
       "item_id": "ebee7540a82db6933854",
       "title": "荒れたテストケースをコード管理で立て直してみた",
@@ -3323,18 +3323,6 @@
       "author_name": "shirakurak",
       "likes_count": 67,
       "last_seen": "2026-10-07T01:27:02.609413627+00:00"
-    },
-    {
-      "key": "ef1a9e40c4cdf15d8e21",
-      "item_id": "ef1a9e40c4cdf15d8e21",
-      "title": "macOS 27にはローカルLLMが入っている",
-      "link": "https://qiita.com/chibicco/items/ef1a9e40c4cdf15d8e21?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "macOS 27にはローカルLLMが入っている\nmacOS 27には、Appleの言語モデルをTerminalから直接使える fm コマンドが入っています。\n追加のアプリをインストールする必要はなく、APIキーもいりません。対応するMacなら、Terminalを開いて次の...",
-      "published": "2026-09-17T01:42:53+09:00",
-      "updated": "2026-09-17T01:46:26+09:00",
-      "author_name": "chibicco",
-      "likes_count": 13,
-      "last_seen": "2026-09-19T17:57:08.578319281+00:00"
     },
     {
       "key": "ef77b084ff2dee1f859c",
