@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-11-19T17:44:06+09:00</updated>
+  <updated>2026-11-19T21:47:20+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -492,15 +492,6 @@ Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENT
 実際に一緒に働く時のコミュニケーションな事は前回の①でお話しましたが、今回は【教育】について記載いたしま...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:e867493a5cbcdfaa40c9</id>
-    <title>Write() で拒否しても、Claude Code は12回とも書き込んだ。効いていたのは Edit() だけだった</title>
-    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/e867493a5cbcdfaa40c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-18T08:43:55+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T08:43:54+09:00&lt;br/&gt;Updated: 2026-09-18T08:43:55+09:00&lt;br/&gt;Claude Code 2.1.275（2026-09-17）の changelog に、こう書かれています。
-
-Fixed /update-config writing Write(path) permission rules, which file permission...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:9d4f86c185dda6fd24a7</id>
     <title>【2026年10月 最新版】AIモデル徹底比較 | GPT-6.1 Sol  / Claude Opus 5.5  / Claude Sonnet 5.5 / Gemini 4 Argon</title>
     <link rel="alternate" href="https://qiita.com/nuco_d/items/9d4f86c185dda6fd24a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -508,18 +499,6 @@ Fixed /update-config writing Write(path) permission rules, which file permission
     <summary type="html">Likes: 54&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nuco_d&quot;&gt;nuco_d&lt;/a&gt;&lt;br/&gt;Published: 2026-10-14T11:48:28+09:00&lt;br/&gt;Updated: 2026-10-14T11:48:28+09:00&lt;br/&gt;はじめに
 本記事では、Gemini 4 Argon、GPT-6.1 Sol、Claude Opus 5.5、Claude Sonnet 5.5 の4モデルを、スペック・公式ベンチマーク・料金の3つの観点で比較します。
 記載している数値は、すべて2026年10月13日時点の...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b5805321eaef46b75459</id>
-    <title>元ヤフーエンジニア社長が考える、AIを使いこなす人と使えない人の決定的な差</title>
-    <link rel="alternate" href="https://qiita.com/ryoheiiwamoto/items/b5805321eaef46b75459?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-18T16:02:13+09:00</updated>
-    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ryoheiiwamoto&quot;&gt;ryoheiiwamoto&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T16:02:13+09:00&lt;br/&gt;Updated: 2026-09-18T16:02:13+09:00&lt;br/&gt;「一部だけ任せる」か「全部任せられないか考える」か
-
-こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。
-▶ PRUM採用ページはこちら
-「AI使ってますか?」と聞かれたら、たぶん今はほとんどの人が「はい」と答えると思います。
-でも僕は、AI...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a8d8177d02cc4f7f2553</id>
@@ -628,19 +607,6 @@ Fixed /update-config writing Write(path) permission rules, which file permission
 
 経歴：社会人16年目（ITインフラ畑一筋16年）の30代中盤。現在は現場で手を動かしつつ、メンバーのマネジメントも担う中間管理職のポジションにいます。
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:472325ce548da370ed5d</id>
-    <title>話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説</title>
-    <link rel="alternate" href="https://qiita.com/yushibats/items/472325ce548da370ed5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-18T22:07:53+09:00</updated>
-    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yushibats&quot;&gt;yushibats&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T14:21:55+09:00&lt;br/&gt;Updated: 2026-09-18T22:07:53+09:00&lt;br/&gt;はじめに
-Jevが話題ですね。
-文章を書かないAIと紹介されていますが、では代わりに何を返すんでしょうか。
-この記事は、Jevが何をするものかの解像度を上げるために自分なりに整理したものです。
-
-ざっくりまとめ
-Jevは、文章で書かれた状況を読み、あらかじめ用意された選択...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:3f3c71525d867b22c9f2</id>
@@ -965,6 +931,14 @@ VueやReact以外のフレームワークを使ってみたいので Svelte を.
 簡単...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:623e13ced9c119b614aa</id>
+    <title>AI も「一晩寝かせる」と考えがまとまる🥱 寝ている間に記憶を整理する Dreaming の仕組み</title>
+    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/623e13ced9c119b614aa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-18T11:13:58+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-11-18T11:13:57+09:00&lt;br/&gt;Updated: 2026-11-18T11:13:58+09:00&lt;br/&gt;「一晩寝かせる」と考えがまとまること、ありますよね。
+2026年5月に Anthropic が発表した「Dreaming」について、ついに、Anthropic 自身の研究結果が出ました。読んでみたら面白かったので、図解しながら紹介したいと思います。 後半では、この Drea...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bf4a3a2185db2d28eee5</id>
     <title>実際に試したClaude便利術20選 まとめ</title>
     <link rel="alternate" href="https://qiita.com/N-Kyo/items/bf4a3a2185db2d28eee5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1037,14 +1011,6 @@ Transformerの同じ層を何回か通すやつでしょ
     <updated>2026-11-08T18:54:47+09:00</updated>
     <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-11-08T18:00:22+09:00&lt;br/&gt;Updated: 2026-11-08T18:54:47+09:00&lt;br/&gt;AI を使ったサイバー攻撃で、脆弱性が公表されてから悪用されるまでの時間は、週から日の単位に縮みました。日本政府も、2026 年 5 月の Project YATA-Shield で、AI の悪用で攻撃のスピードと規模が劇的に増加していると書いています。
 では、悪用される...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:623e13ced9c119b614aa</id>
-    <title>AI も「一晩寝かせる」と考えがまとまる🥱 寝ている間に記憶を整理する Dreaming の仕組み</title>
-    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/623e13ced9c119b614aa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-18T11:13:58+09:00</updated>
-    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-11-18T11:13:57+09:00&lt;br/&gt;Updated: 2026-11-18T11:13:58+09:00&lt;br/&gt;「一晩寝かせる」と考えがまとまること、ありますよね。
-2026年5月に Anthropic が発表した「Dreaming」について、ついに、Anthropic 自身の研究結果が出ました。読んでみたら面白かったので、図解しながら紹介したいと思います。 後半では、この Drea...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:4fbf6144f4cab3f00123</id>
@@ -1267,14 +1233,16 @@ Honoってあるじゃないですか。TypeScriptのWebフレームワークで
 ありがたいことに思っていたよりも多くの方に読んでいただき、「転...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:61994be44d61c76716d3</id>
-    <title>「LLMじゃないAI」が来た! TypeSafe AI「Jev」はなぜ文字列生成を捨てたのか</title>
-    <link rel="alternate" href="https://qiita.com/shinkai_/items/61994be44d61c76716d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-18T16:05:56+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shinkai_&quot;&gt;shinkai_&lt;/a&gt;&lt;br/&gt;Published: 2026-09-18T15:48:33+09:00&lt;br/&gt;Updated: 2026-09-18T16:05:56+09:00&lt;br/&gt;はじめに
-最近のAIモデルの発表というと、だいたい「またLLM（大規模言語モデル）の新バージョンか」という受け止め方をされることが多いんじゃないでしょうか。
-パラメータ数が増えました、ベンチマークが伸びました、推論速度が上がりました。
-中身のアーキテクチャは基本的にトラン...</summary>
+    <id>tag:qiita.com,2026:7d474c38cd597869049e</id>
+    <title>【AI × PDF】 紙派だった私が、技術書を電子で買うようになった理由</title>
+    <link rel="alternate" href="https://qiita.com/Dingu-suke/items/7d474c38cd597869049e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-19T14:32:07+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Dingu-suke&quot;&gt;Dingu-suke&lt;/a&gt;&lt;br/&gt;Published: 2026-11-19T09:53:00+09:00&lt;br/&gt;Updated: 2026-11-19T14:32:07+09:00&lt;br/&gt;この記事を読む前に（著作権についての注意）
+
+この記事では、技術書の内容を AI に渡しながら読む方法を紹介します。書籍には著者や出版社の権利があるので、筆者は次のルールを守って使っていま
+す。この記事を参考にする場合も、同じルールを守るようにしてください。
+
+AI...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9e7c02b749037238b2bc</id>
@@ -1326,18 +1294,6 @@ Microsoft 365 Copilot のエージェントビルダーに「スキル」を追�
     <updated>2026-10-01T08:49:01+09:00</updated>
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ry-harada&quot;&gt;ry-harada&lt;/a&gt;&lt;br/&gt;Published: 2026-10-01T08:49:01+09:00&lt;br/&gt;Updated: 2026-10-01T08:49:01+09:00&lt;br/&gt;どうも、AWS認定宇宙最速(未遂)受験芸人のあるけみーです。最寄りの試験会場が10時開始の回しか選べず地の利がありません。9時からやってる会場を選べと言われたらその通りです。
 Generative AI Developer - Professional(AIP)で宇宙最速(...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7d474c38cd597869049e</id>
-    <title>【AI × PDF】 紙派だった私が、技術書を電子で買うようになった理由</title>
-    <link rel="alternate" href="https://qiita.com/Dingu-suke/items/7d474c38cd597869049e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-19T14:32:07+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Dingu-suke&quot;&gt;Dingu-suke&lt;/a&gt;&lt;br/&gt;Published: 2026-11-19T09:53:00+09:00&lt;br/&gt;Updated: 2026-11-19T14:32:07+09:00&lt;br/&gt;この記事を読む前に（著作権についての注意）
-
-この記事では、技術書の内容を AI に渡しながら読む方法を紹介します。書籍には著者や出版社の権利があるので、筆者は次のルールを守って使っていま
-す。この記事を参考にする場合も、同じルールを守るようにしてください。
-
-AI...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8efff0925c0994dda6ee</id>
@@ -1515,6 +1471,15 @@ AI時代に設計やテストを学ぶ意味を考えたい
 契...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5bb47c01a8513e52d1b5</id>
+    <title>人間がボトルネックになった時代のAIエージェント設計</title>
+    <link rel="alternate" href="https://qiita.com/Syoitu/items/5bb47c01a8513e52d1b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-18T14:49:32+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-11-18T14:37:05+09:00&lt;br/&gt;Updated: 2026-11-18T14:49:32+09:00&lt;br/&gt;前書き
+この 1 年でモデルがずいぶんと賢くなり、AI エージェントは、コードの修正やテストの実行くらいなら、1 つのタスクを人間が逐一指示しなくても進められるようになりました。
+ところが、エージェントを何本も並べて使い始めると、思ったほど仕事が速くなりません。詰まってい...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:cd1389f6a1601494895f</id>
     <title>[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？</title>
     <link rel="alternate" href="https://qiita.com/kikuziro/items/cd1389f6a1601494895f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1579,15 +1544,6 @@ OpenSearch全文検索のコストが高すぎてヒィヒィ言ってる方
 JevはLLMのように文章を生成するモデルではなく、分類・判定・スコアリングなどの意思決定に特化したモデルです。TypeSafe AIはこの種類のモデルをSystem...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5bb47c01a8513e52d1b5</id>
-    <title>人間がボトルネックになった時代のAIエージェント設計</title>
-    <link rel="alternate" href="https://qiita.com/Syoitu/items/5bb47c01a8513e52d1b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-18T14:49:32+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-11-18T14:37:05+09:00&lt;br/&gt;Updated: 2026-11-18T14:49:32+09:00&lt;br/&gt;前書き
-この 1 年でモデルがずいぶんと賢くなり、AI エージェントは、コードの修正やテストの実行くらいなら、1 つのタスクを人間が逐一指示しなくても進められるようになりました。
-ところが、エージェントを何本も並べて使い始めると、思ったほど仕事が速くなりません。詰まってい...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:f465d303f9902f5eec78</id>
     <title>PhotoCraft＋OpenFillで、ローカル生成AIによる画像修正を試す</title>
     <link rel="alternate" href="https://qiita.com/momoda_yzrh/items/f465d303f9902f5eec78?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1636,6 +1592,16 @@ JevはLLMのように文章を生成するモデルではなく、分類・判�
     <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TamakiSeki&quot;&gt;TamakiSeki&lt;/a&gt;&lt;br/&gt;Published: 2026-09-30T17:34:13+09:00&lt;br/&gt;Updated: 2026-09-30T17:34:14+09:00&lt;br/&gt;はじめに
 生成AIやAIエージェントを業務に活用しようとすると、「どの業務に適用するか」「人とAIの役割をどう分けるか」で迷うことがあります。
 文章作成や要約など個人単位の作業にはAIを導入しやすい一方、AIエージェントを作ること自体が目的になると、個別タスクの効率化にと...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c3bb4801c105d96fa79d</id>
+    <title>【朗報】Microsoft 365 CopilotがOneDriveのファイルを直接編集できるようになってた！CoworkなしでGitHub Copilotみたいに使える件</title>
+    <link rel="alternate" href="https://qiita.com/yuyanz/items/c3bb4801c105d96fa79d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-19T17:44:06+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuyanz&quot;&gt;yuyanz&lt;/a&gt;&lt;br/&gt;Published: 2026-11-19T12:56:02+09:00&lt;br/&gt;Updated: 2026-11-19T17:44:06+09:00&lt;br/&gt;はじめに
+Microsoft 365 Copilotくん、いつの間にかめちゃくちゃ進化していました。
+以前、Copilotのカスタム指示とOneDriveを組み合わせて、AIに自分専用の知識を蓄積させる仕組みを考えていました。
+ただ、当時はファイルの保存先や既存ファイルの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fa50cc82e49b24925fe3</id>
@@ -1756,14 +1722,13 @@ IT未経験でエンジニアになった私は、配属後の勉強期間中、
 入社してまだ半年ですが、業務の中でAIの存在があまりにも大きく、日々いろいろなことを考えるようになりました。そ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c3bb4801c105d96fa79d</id>
-    <title>【朗報】Microsoft 365 CopilotがOneDriveのファイルを直接編集できるようになってた！CoworkなしでGitHub Copilotみたいに使える件</title>
-    <link rel="alternate" href="https://qiita.com/yuyanz/items/c3bb4801c105d96fa79d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-19T17:44:06+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuyanz&quot;&gt;yuyanz&lt;/a&gt;&lt;br/&gt;Published: 2026-11-19T12:56:02+09:00&lt;br/&gt;Updated: 2026-11-19T17:44:06+09:00&lt;br/&gt;はじめに
-Microsoft 365 Copilotくん、いつの間にかめちゃくちゃ進化していました。
-以前、Copilotのカスタム指示とOneDriveを組み合わせて、AIに自分専用の知識を蓄積させる仕組みを考えていました。
-ただ、当時はファイルの保存先や既存ファイルの...</summary>
+    <id>tag:qiita.com,2026:c05efd7ac228fe85ab44</id>
+    <title>Muse の VM は約2時間で入れ替わる（実測と対策）</title>
+    <link rel="alternate" href="https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-19T21:47:20+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mryo0826&quot;&gt;mryo0826&lt;/a&gt;&lt;br/&gt;Published: 2026-11-19T21:47:20+09:00&lt;br/&gt;Updated: 2026-11-19T21:47:20+09:00&lt;br/&gt;生成AIと人間が協働して記事を書くシリーズです。
+パーソナルAIエージェントのMuseとの対話が大分慣れてきたので、github repoの引用？の仕方と画像を置くのとこのInfo以外はMuseに書いてもらってます。
+Museに聞いたら、タグってちゃんと効果あるみたいで...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1a043190d8f00d2ebda6</id>
@@ -1988,6 +1953,16 @@ AI ツールを入れようとするとき、営業の場や社内の勉強会�
 この記事では、この説明のどこまでが正しく、どこから先に...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5a069f9fce99a86efb05</id>
+    <title>【実験】Direct Connectの片系を落とすと、実際どれくらいで切り替わり、行きと戻りはどの回線を通るのか</title>
+    <link rel="alternate" href="https://qiita.com/sh_fukatsu/items/5a069f9fce99a86efb05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-18T22:42:33+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sh_fukatsu&quot;&gt;sh_fukatsu&lt;/a&gt;&lt;br/&gt;Published: 2026-11-18T22:42:33+09:00&lt;br/&gt;Updated: 2026-11-18T22:42:33+09:00&lt;br/&gt;1. はじめに
+先日、NW-JAWS DAYで「AWS Direct Connect Resiliency Workshop」に参加し、オンプレミス側のルーター2台とDirect Connect 2回線による冗長構成をハンズオンで構築してきました。
+
+ワークショップの...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:75bf50a67ca5370ec6bf</id>
     <title>今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）</title>
     <link rel="alternate" href="https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2037,5 +2012,23 @@ AIはリポジトリのコードを読めば、「何がどう実装されてい
 ただ、コードをいくら読んでもわからないことがある。
 なぜその実装になっているのか、つまり「Why」の部分だ。
 この記...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d68f789f6c9f9b6307a7</id>
+    <title>【Oracle】OAW2026 アプリケーションのセキュリティは、アプリケーションコードを書かずAPEXlangで守る</title>
+    <link rel="alternate" href="https://qiita.com/nisshii0/items/d68f789f6c9f9b6307a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-29T07:51:21+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nisshii0&quot;&gt;nisshii0&lt;/a&gt;&lt;br/&gt;Published: 2026-10-29T07:15:00+09:00&lt;br/&gt;Updated: 2026-10-29T07:51:21+09:00&lt;br/&gt;「AI時代、信頼は後付けできない。アーキテクチャに組み込む」
+
+Oracle AI World 2026にて発表
+2026年10月に開催されたDB Product Spotlightにて、Oracle Database Technologies担当エグゼクティブ・バイスプ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:fb72de63c975fcbbd2f6</id>
+    <title>「コードレビューは死ぬ、ターミナルも消える」——海外著名エンジニアが予測するAI時代のソフトウェア開発の未来</title>
+    <link rel="alternate" href="https://qiita.com/softbase/items/fb72de63c975fcbbd2f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-24T23:42:12+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/softbase&quot;&gt;softbase&lt;/a&gt;&lt;br/&gt;Published: 2026-10-24T23:42:12+09:00&lt;br/&gt;Updated: 2026-10-24T23:42:12+09:00&lt;br/&gt;AIはソフトウェア開発を効率化するだけなのか。それとも、ソフトウェアエンジニアリングという仕事そのものを根本から変えてしまうのか。
+2026年9月19日、ソフトウェアエンジニアの Thorsten Ball氏 が、X（旧Twitter）で「What I believe ab...</summary>
   </entry>
 </feed>
