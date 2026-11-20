@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-11-19T14:32:07+09:00</updated>
+  <updated>2026-11-19T17:44:06+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -18,6 +18,18 @@
 説明が終わるなり...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b279477cbcdbe5921abd</id>
+    <title>部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい</title>
+    <link rel="alternate" href="https://qiita.com/nuco_d/items/b279477cbcdbe5921abd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-17T09:58:19+09:00</updated>
+    <summary type="html">Likes: 317&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nuco_d&quot;&gt;nuco_d&lt;/a&gt;&lt;br/&gt;Published: 2026-11-17T09:58:19+09:00&lt;br/&gt;Updated: 2026-11-17T09:58:19+09:00&lt;br/&gt;はじめに
+AIはプログラミングだけでなく、営業資料や発表資料まで作れるようになった。
+部下に資料を頼むと、AIで作ったスライドが返ってくることも増えたのではないだろうか。
+そして諸君は、そのスライドをひと目見てこう思ったはずだ。
+「これ、生成AIで作ったでしょ？」
+と。本...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:b6a0743b070d7320c36d</id>
     <title>「ドパ資料」の作り方</title>
     <link rel="alternate" href="https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -27,18 +39,6 @@
 👀 対象読者
 
 技術記事を...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b279477cbcdbe5921abd</id>
-    <title>部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい</title>
-    <link rel="alternate" href="https://qiita.com/nuco_d/items/b279477cbcdbe5921abd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-17T09:58:19+09:00</updated>
-    <summary type="html">Likes: 283&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nuco_d&quot;&gt;nuco_d&lt;/a&gt;&lt;br/&gt;Published: 2026-11-17T09:58:19+09:00&lt;br/&gt;Updated: 2026-11-17T09:58:19+09:00&lt;br/&gt;はじめに
-AIはプログラミングだけでなく、営業資料や発表資料まで作れるようになった。
-部下に資料を頼むと、AIで作ったスライドが返ってくることも増えたのではないだろうか。
-そして諸君は、そのスライドをひと目見てこう思ったはずだ。
-「これ、生成AIで作ったでしょ？」
-と。本...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:0ffe6e74ecaf3aaa8b14</id>
@@ -618,6 +618,18 @@ Fixed /update-config writing Write(path) permission rules, which file permission
 前回の記事で、iOS（UIKit）+ FastAPI + Kubernetesで作ったMinecraftサーバー監視アプリ「MineWatch」が3回のリジェクトを...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:439bda5ea9234b7d9013</id>
+    <title>【初投稿】「最近どう？」を卒業しよう！180cm95kg・青髪・ヒゲ面のインフラ中間管理職が1on1で意識している11の工夫</title>
+    <link rel="alternate" href="https://qiita.com/human_hub_T/items/439bda5ea9234b7d9013?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-18T15:51:51+09:00</updated>
+    <summary type="html">Likes: 49&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/human_hub_T&quot;&gt;human_hub_T&lt;/a&gt;&lt;br/&gt;Published: 2026-11-17T11:34:02+09:00&lt;br/&gt;Updated: 2026-11-18T15:51:51+09:00&lt;br/&gt;はじめに（自己紹介）
+はじめまして！この記事がQiita初投稿になります。
+まずは簡単に自己紹介をさせてください。
+
+経歴：社会人16年目（ITインフラ畑一筋16年）の30代中盤。現在は現場で手を動かしつつ、メンバーのマネジメントも担う中間管理職のポジションにいます。
+...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:472325ce548da370ed5d</id>
     <title>話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説</title>
     <link rel="alternate" href="https://qiita.com/yushibats/items/472325ce548da370ed5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -700,18 +712,6 @@ Xでもそこか...</summary>
     <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-10-09T02:49:14+09:00&lt;br/&gt;Updated: 2026-10-09T06:07:56+09:00&lt;br/&gt;この記事のチャンクデータには名探偵コナンのデータを登録しています（ほかにONE PIECEと名探偵プリキュア!も少し）。 名探偵コナンを知らない方はアニメまたは単行本全巻読破してからこの記事を読むことをおすすめします。
 
 みなさんGraphRAGの判断を全部LLMにや...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:439bda5ea9234b7d9013</id>
-    <title>【初投稿】「最近どう？」を卒業しよう！180cm95kg・青髪・ヒゲ面のインフラ中間管理職が1on1で意識している11の工夫</title>
-    <link rel="alternate" href="https://qiita.com/human_hub_T/items/439bda5ea9234b7d9013?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-18T15:51:51+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/human_hub_T&quot;&gt;human_hub_T&lt;/a&gt;&lt;br/&gt;Published: 2026-11-17T11:34:02+09:00&lt;br/&gt;Updated: 2026-11-18T15:51:51+09:00&lt;br/&gt;はじめに（自己紹介）
-はじめまして！この記事がQiita初投稿になります。
-まずは簡単に自己紹介をさせてください。
-
-経歴：社会人16年目（ITインフラ畑一筋16年）の30代中盤。現在は現場で手を動かしつつ、メンバーのマネジメントも担う中間管理職のポジションにいます。
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b33b4e337c15dddae20a</id>
@@ -1039,6 +1039,14 @@ Transformerの同じ層を何回か通すやつでしょ
 では、悪用される...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:623e13ced9c119b614aa</id>
+    <title>AI も「一晩寝かせる」と考えがまとまる🥱 寝ている間に記憶を整理する Dreaming の仕組み</title>
+    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/623e13ced9c119b614aa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-18T11:13:58+09:00</updated>
+    <summary type="html">Likes: 29&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-11-18T11:13:57+09:00&lt;br/&gt;Updated: 2026-11-18T11:13:58+09:00&lt;br/&gt;「一晩寝かせる」と考えがまとまること、ありますよね。
+2026年5月に Anthropic が発表した「Dreaming」について、ついに、Anthropic 自身の研究結果が出ました。読んでみたら面白かったので、図解しながら紹介したいと思います。 後半では、この Drea...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4fbf6144f4cab3f00123</id>
     <title>その仕事、本当に「Skills」で再現できるのか考えてみる</title>
     <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/4fbf6144f4cab3f00123?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1047,14 +1055,6 @@ Transformerの同じ層を何回か通すやつでしょ
 AI エージェントに知見や手順を渡すことで、これまで一部の人にしかできなかった仕事を、より多くの人ができるようにする。自分ができることを、ほかの人にもできるようにしていく。
 この方向性には、私も賛同しています。
 成功した取り組みだけでなく、失敗した経験も共有する...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:623e13ced9c119b614aa</id>
-    <title>AI も「一晩寝かせる」と考えがまとまる🥱 寝ている間に記憶を整理する Dreaming の仕組み</title>
-    <link rel="alternate" href="https://qiita.com/KYoshiyama/items/623e13ced9c119b614aa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-18T11:13:58+09:00</updated>
-    <summary type="html">Likes: 28&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/KYoshiyama&quot;&gt;KYoshiyama&lt;/a&gt;&lt;br/&gt;Published: 2026-11-18T11:13:57+09:00&lt;br/&gt;Updated: 2026-11-18T11:13:58+09:00&lt;br/&gt;「一晩寝かせる」と考えがまとまること、ありますよね。
-2026年5月に Anthropic が発表した「Dreaming」について、ついに、Anthropic 自身の研究結果が出ました。読んでみたら面白かったので、図解しながら紹介したいと思います。 後半では、この Drea...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:48094b9b40752483f5cd</id>
@@ -1340,6 +1340,19 @@ Generative AI Developer - Professional(AIP)で宇宙最速(...</summary>
 AI...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:8efff0925c0994dda6ee</id>
+    <title>AIっぽい日本語を直すスキル yomiyasu-mini を Microsoft Copilot の色々なところで使ってみた</title>
+    <link rel="alternate" href="https://qiita.com/Oyu3m/items/8efff0925c0994dda6ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-18T23:25:15+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Oyu3m&quot;&gt;Oyu3m&lt;/a&gt;&lt;br/&gt;Published: 2026-11-17T22:52:59+09:00&lt;br/&gt;Updated: 2026-11-18T23:25:15+09:00&lt;br/&gt;前提
+この記事は2026/11/16時点での公開情報や動作を私なりにまとめたものとなります。
+正確な情報はご自身でご確認ください。
+
+AIっぽい日本語を直してくれる「yomiyasu」
+Copilot に文章を書かせると、なんだか「AIっぽい日本語」になりますよねえ…
+「...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:21c4ad96de4d8df2f047</id>
     <title>周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？</title>
     <link rel="alternate" href="https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1402,19 +1415,6 @@ Claude Codeには、permissions.deny で .env を読ませない設定があり�
 じゃあ実際どこまで止まるのか、偽物のキーを置いて48回試してみました。
 
 手...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8efff0925c0994dda6ee</id>
-    <title>AIっぽい日本語を直すスキル yomiyasu-mini を Microsoft Copilot の色々なところで使ってみた</title>
-    <link rel="alternate" href="https://qiita.com/Oyu3m/items/8efff0925c0994dda6ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-18T23:25:15+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Oyu3m&quot;&gt;Oyu3m&lt;/a&gt;&lt;br/&gt;Published: 2026-11-17T22:52:59+09:00&lt;br/&gt;Updated: 2026-11-18T23:25:15+09:00&lt;br/&gt;前提
-この記事は2026/11/16時点での公開情報や動作を私なりにまとめたものとなります。
-正確な情報はご自身でご確認ください。
-
-AIっぽい日本語を直してくれる「yomiyasu」
-Copilot に文章を書かせると、なんだか「AIっぽい日本語」になりますよねえ…
-「...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:79e3411b93aff5c46177</id>
@@ -1579,6 +1579,15 @@ OpenSearch全文検索のコストが高すぎてヒィヒィ言ってる方
 JevはLLMのように文章を生成するモデルではなく、分類・判定・スコアリングなどの意思決定に特化したモデルです。TypeSafe AIはこの種類のモデルをSystem...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:5bb47c01a8513e52d1b5</id>
+    <title>人間がボトルネックになった時代のAIエージェント設計</title>
+    <link rel="alternate" href="https://qiita.com/Syoitu/items/5bb47c01a8513e52d1b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-18T14:49:32+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-11-18T14:37:05+09:00&lt;br/&gt;Updated: 2026-11-18T14:49:32+09:00&lt;br/&gt;前書き
+この 1 年でモデルがずいぶんと賢くなり、AI エージェントは、コードの修正やテストの実行くらいなら、1 つのタスクを人間が逐一指示しなくても進められるようになりました。
+ところが、エージェントを何本も並べて使い始めると、思ったほど仕事が速くなりません。詰まってい...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:f465d303f9902f5eec78</id>
     <title>PhotoCraft＋OpenFillで、ローカル生成AIによる画像修正を試す</title>
     <link rel="alternate" href="https://qiita.com/momoda_yzrh/items/f465d303f9902f5eec78?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1696,15 +1705,6 @@ AIとエンジニアについて〜
 ワーク①...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5bb47c01a8513e52d1b5</id>
-    <title>人間がボトルネックになった時代のAIエージェント設計</title>
-    <link rel="alternate" href="https://qiita.com/Syoitu/items/5bb47c01a8513e52d1b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-18T14:49:32+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Syoitu&quot;&gt;Syoitu&lt;/a&gt;&lt;br/&gt;Published: 2026-11-18T14:37:05+09:00&lt;br/&gt;Updated: 2026-11-18T14:49:32+09:00&lt;br/&gt;前書き
-この 1 年でモデルがずいぶんと賢くなり、AI エージェントは、コードの修正やテストの実行くらいなら、1 つのタスクを人間が逐一指示しなくても進められるようになりました。
-ところが、エージェントを何本も並べて使い始めると、思ったほど仕事が速くなりません。詰まってい...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:8225fd0ff29603549ab8</id>
     <title>Oracle AI World 2026 振り返り：Larry Ellison、Sam Altmanらの6講演から、AIに仕事を任せる仕組みを整理してみてみた</title>
     <link rel="alternate" href="https://qiita.com/shirok/items/8225fd0ff29603549ab8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1754,6 +1754,16 @@ IT未経験でエンジニアになった私は、配属後の勉強期間中、
 はじめまして。
 2026年4月に、社員数150名規模で自社開発とSESの両軸でビジネスを展開している会社へ、自社開発エンジニアとして新卒入社しました。
 入社してまだ半年ですが、業務の中でAIの存在があまりにも大きく、日々いろいろなことを考えるようになりました。そ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:c3bb4801c105d96fa79d</id>
+    <title>【朗報】Microsoft 365 CopilotがOneDriveのファイルを直接編集できるようになってた！CoworkなしでGitHub Copilotみたいに使える件</title>
+    <link rel="alternate" href="https://qiita.com/yuyanz/items/c3bb4801c105d96fa79d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-19T17:44:06+09:00</updated>
+    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuyanz&quot;&gt;yuyanz&lt;/a&gt;&lt;br/&gt;Published: 2026-11-19T12:56:02+09:00&lt;br/&gt;Updated: 2026-11-19T17:44:06+09:00&lt;br/&gt;はじめに
+Microsoft 365 Copilotくん、いつの間にかめちゃくちゃ進化していました。
+以前、Copilotのカスタム指示とOneDriveを組み合わせて、AIに自分専用の知識を蓄積させる仕組みを考えていました。
+ただ、当時はファイルの保存先や既存ファイルの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:1a043190d8f00d2ebda6</id>
@@ -2027,15 +2037,5 @@ AIはリポジトリのコードを読めば、「何がどう実装されてい
 ただ、コードをいくら読んでもわからないことがある。
 なぜその実装になっているのか、つまり「Why」の部分だ。
 この記...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d68f789f6c9f9b6307a7</id>
-    <title>【Oracle】OAW2026 アプリケーションのセキュリティは、アプリケーションコードを書かずAPEXlangで守る</title>
-    <link rel="alternate" href="https://qiita.com/nisshii0/items/d68f789f6c9f9b6307a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-29T07:51:21+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nisshii0&quot;&gt;nisshii0&lt;/a&gt;&lt;br/&gt;Published: 2026-10-29T07:15:00+09:00&lt;br/&gt;Updated: 2026-10-29T07:51:21+09:00&lt;br/&gt;「AI時代、信頼は後付けできない。アーキテクチャに組み込む」
-
-Oracle AI World 2026にて発表
-2026年10月に開催されたDB Product Spotlightにて、Oracle Database Technologies担当エグゼクティブ・バイスプ...</summary>
   </entry>
 </feed>
