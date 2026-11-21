@@ -687,6 +687,16 @@ AIエージェントが開発を行うようになり、多くのエンジニア
 「なんで非同期で書かないといけないの？」と聞かれても、「非同期じゃないと処理が終わるまで画面が表示されなくて、重くなるから」くらいしか答えら...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c3bb4801c105d96fa79d</id>
+    <title>【朗報】Microsoft 365 CopilotがOneDriveのファイルを直接編集できるようになってた！CoworkなしでGitHub Copilotみたいに使える件</title>
+    <link rel="alternate" href="https://qiita.com/yuyanz/items/c3bb4801c105d96fa79d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-19T17:44:06+09:00</updated>
+    <summary type="html">Likes: 42&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuyanz&quot;&gt;yuyanz&lt;/a&gt;&lt;br/&gt;Published: 2026-11-19T12:56:02+09:00&lt;br/&gt;Updated: 2026-11-19T17:44:06+09:00&lt;br/&gt;はじめに
+Microsoft 365 Copilotくん、いつの間にかめちゃくちゃ進化していました。
+以前、Copilotのカスタム指示とOneDriveを組み合わせて、AIに自分専用の知識を蓄積させる仕組みを考えていました。
+ただ、当時はファイルの保存先や既存ファイルの...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:454fc975b095230565c7</id>
     <title>高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜</title>
     <link rel="alternate" href="https://qiita.com/ast-24/items/454fc975b095230565c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -706,16 +716,6 @@ AIエージェントが開発を行うようになり、多くのエンジニア
 最近、チャットでの依頼や相談、レビューを見ていて「AIを介したコミュニケーションって、放っておくと良くない方向に転がりやすいな」と感じています。そのあたりについて、自分なりに意識していることも含めて書いてみます。
 
 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:c3bb4801c105d96fa79d</id>
-    <title>【朗報】Microsoft 365 CopilotがOneDriveのファイルを直接編集できるようになってた！CoworkなしでGitHub Copilotみたいに使える件</title>
-    <link rel="alternate" href="https://qiita.com/yuyanz/items/c3bb4801c105d96fa79d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-19T17:44:06+09:00</updated>
-    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yuyanz&quot;&gt;yuyanz&lt;/a&gt;&lt;br/&gt;Published: 2026-11-19T12:56:02+09:00&lt;br/&gt;Updated: 2026-11-19T17:44:06+09:00&lt;br/&gt;はじめに
-Microsoft 365 Copilotくん、いつの間にかめちゃくちゃ進化していました。
-以前、Copilotのカスタム指示とOneDriveを組み合わせて、AIに自分専用の知識を蓄積させる仕組みを考えていました。
-ただ、当時はファイルの保存先や既存ファイルの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:83535ce9f3dd7d56600e</id>
@@ -1217,6 +1217,15 @@ Honoってあるじゃないですか。TypeScriptのWebフレームワークで
 ありがたいことに思っていたよりも多くの方に読んでいただき、「転...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:c05efd7ac228fe85ab44</id>
+    <title>Muse の VM は約2時間で入れ替わる（実測と対策）</title>
+    <link rel="alternate" href="https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-19T21:47:20+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mryo0826&quot;&gt;mryo0826&lt;/a&gt;&lt;br/&gt;Published: 2026-11-19T21:47:20+09:00&lt;br/&gt;Updated: 2026-11-19T21:47:20+09:00&lt;br/&gt;生成AIと人間が協働して記事を書くシリーズです。
+パーソナルAIエージェントのMuseとの対話が大分慣れてきたので、github repoの引用？の仕方と画像を置くのとこのInfo以外はMuseに書いてもらってます。
+Museに聞いたら、タグってちゃんと効果あるみたいで...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9e7c02b749037238b2bc</id>
     <title>ちょっと見ない間にClaude APIが進化してた！</title>
     <link rel="alternate" href="https://qiita.com/moritalous/items/9e7c02b749037238b2bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1345,15 +1354,6 @@ Claude Codeには、permissions.deny で .env を読ませない設定があり�
 手...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:c05efd7ac228fe85ab44</id>
-    <title>Muse の VM は約2時間で入れ替わる（実測と対策）</title>
-    <link rel="alternate" href="https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-19T21:47:20+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/mryo0826&quot;&gt;mryo0826&lt;/a&gt;&lt;br/&gt;Published: 2026-11-19T21:47:20+09:00&lt;br/&gt;Updated: 2026-11-19T21:47:20+09:00&lt;br/&gt;生成AIと人間が協働して記事を書くシリーズです。
-パーソナルAIエージェントのMuseとの対話が大分慣れてきたので、github repoの引用？の仕方と画像を置くのとこのInfo以外はMuseに書いてもらってます。
-Museに聞いたら、タグってちゃんと効果あるみたいで...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:5bb47c01a8513e52d1b5</id>
     <title>人間がボトルネックになった時代のAIエージェント設計</title>
     <link rel="alternate" href="https://qiita.com/Syoitu/items/5bb47c01a8513e52d1b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1459,6 +1459,16 @@ AI時代に設計やテストを学ぶ意味を考えたい
 この記事では、次の考え方を整理します。
 
 契...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5a069f9fce99a86efb05</id>
+    <title>【実験】Direct Connectの片系を落とすと、実際どれくらいで切り替わり、行きと戻りはどの回線を通るのか</title>
+    <link rel="alternate" href="https://qiita.com/sh_fukatsu/items/5a069f9fce99a86efb05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-21T17:22:48+09:00</updated>
+    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sh_fukatsu&quot;&gt;sh_fukatsu&lt;/a&gt;&lt;br/&gt;Published: 2026-11-18T22:42:33+09:00&lt;br/&gt;Updated: 2026-11-21T17:22:48+09:00&lt;br/&gt;1. はじめに
+先日、NW-JAWS DAYで「AWS Direct Connect Resiliency Workshop」に参加し、オンプレミス側のルーター2台とDirect Connect 2回線による冗長構成をハンズオンで構築してきました。
+
+ワークショップの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:cd1389f6a1601494895f</id>
@@ -1630,16 +1640,6 @@ Cloudflare無料プランで運用している静的サイトのセキュリテ�
 
 AIとエンジニアについて〜
 ワーク①...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:5a069f9fce99a86efb05</id>
-    <title>【実験】Direct Connectの片系を落とすと、実際どれくらいで切り替わり、行きと戻りはどの回線を通るのか</title>
-    <link rel="alternate" href="https://qiita.com/sh_fukatsu/items/5a069f9fce99a86efb05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-21T17:22:48+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/sh_fukatsu&quot;&gt;sh_fukatsu&lt;/a&gt;&lt;br/&gt;Published: 2026-11-18T22:42:33+09:00&lt;br/&gt;Updated: 2026-11-21T17:22:48+09:00&lt;br/&gt;1. はじめに
-先日、NW-JAWS DAYで「AWS Direct Connect Resiliency Workshop」に参加し、オンプレミス側のルーター2台とDirect Connect 2回線による冗長構成をハンズオンで構築してきました。
-
-ワークショップの...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8225fd0ff29603549ab8</id>
