@@ -1079,15 +1079,6 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
 以前【Po...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:4d27833640ff36b5d8c5</id>
-    <title>AWSの最軽量LLM「Amazon Nova Micro」がJevの代わりとなるか検証してみた</title>
-    <link rel="alternate" href="https://qiita.com/nasuvitz/items/4d27833640ff36b5d8c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-22T01:28:42+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/nasuvitz&quot;&gt;nasuvitz&lt;/a&gt;&lt;br/&gt;Published: 2026-09-20T21:47:53+09:00&lt;br/&gt;Updated: 2026-09-22T01:28:42+09:00&lt;br/&gt;はじめに
-判断や評価を確率として返すAIモデル「Jev」が注目を集めています。Jevは、用途を絞ることで、高速なレスポンスを実現している点も特徴です。
-一方、エンタープライズ用途で外部サービスを利用する場合、データ送信に伴う社内審査やセキュリティルールの確認が必要になりま...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:c05efd7ac228fe85ab44</id>
     <title>Muse の VM は約2時間で入れ替わる（実測と対策）</title>
     <link rel="alternate" href="https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1198,18 +1189,6 @@ Honoってあるじゃないですか。TypeScriptのWebフレームワークで
 そもそもどんな脆弱...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:aaa257c199fd094ae31e</id>
-    <title>終わってるエンジニアの転職履歴〜その後1年経ってどうなったか〜</title>
-    <link rel="alternate" href="https://qiita.com/bridgebook1125/items/aaa257c199fd094ae31e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-24T01:22:43+09:00</updated>
-    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/bridgebook1125&quot;&gt;bridgebook1125&lt;/a&gt;&lt;br/&gt;Published: 2026-09-21T03:47:34+09:00&lt;br/&gt;Updated: 2026-09-24T01:22:43+09:00&lt;br/&gt;はじめに
-お久しぶりです、bridge bookです。
-以前、終わってるエンジニアの転職履歴という記事を書きました。
-無職の状態で2か月間転職活動をして、なんとか自社開発企業に転職した、という内容です。
-
-ありがたいことに思っていたよりも多くの方に読んでいただき、「転...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:9e7c02b749037238b2bc</id>
     <title>ちょっと見ない間にClaude APIが進化してた！</title>
     <link rel="alternate" href="https://qiita.com/moritalous/items/9e7c02b749037238b2bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1259,6 +1238,15 @@ Microsoft 365 Copilot のエージェントビルダーに「スキル」を追�
     <updated>2026-10-01T08:49:01+09:00</updated>
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ry-harada&quot;&gt;ry-harada&lt;/a&gt;&lt;br/&gt;Published: 2026-10-01T08:49:01+09:00&lt;br/&gt;Updated: 2026-10-01T08:49:01+09:00&lt;br/&gt;どうも、AWS認定宇宙最速(未遂)受験芸人のあるけみーです。最寄りの試験会場が10時開始の回しか選べず地の利がありません。9時からやってる会場を選べと言われたらその通りです。
 Generative AI Developer - Professional(AIP)で宇宙最速(...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:76562c5c80032ad9e962</id>
+    <title>Agent Harnessを理解するために、150行ほどのPythonで自作してみた</title>
+    <link rel="alternate" href="https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-19T17:28:17+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yamamoto_a_genee&quot;&gt;yamamoto_a_genee&lt;/a&gt;&lt;br/&gt;Published: 2026-11-19T17:28:17+09:00&lt;br/&gt;Updated: 2026-11-19T17:28:17+09:00&lt;br/&gt;はじめに
+Claude Code、OpenAI Codex、OpenCode などの AI Coding Agent を使う機会が増えました。コードを読み、ファイルを編集し、テストを実行し、エラーを直す。複数のステップを自律的にこなしてくれます。
+ただ、使っていると疑問が...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8efff0925c0994dda6ee</id>
@@ -1507,6 +1495,17 @@ OpenSearch全文検索のコストが高すぎてヒィヒィ言ってる方
     <updated>2026-09-22T13:23:52+09:00</updated>
     <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/taihong&quot;&gt;taihong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-22T13:23:52+09:00&lt;br/&gt;Updated: 2026-09-22T13:23:52+09:00&lt;br/&gt;ブログ、Zenn/Qiitaの技術記事、あるいは社内ドキュメントにおいて、「内容は良いのになぜか離脱される」「文章が重く見える」という課題が発生することがあります。
 この原因の多くは「文字種構成比（Kanji Ratio / Character Type Distribut...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:bd6091f2599a0f37326b</id>
+    <title>【pre:Inventまとめ】AWSのAIエージェント認証がいろいろ進化！MCPサーバー構築を例に一挙解説</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/bd6091f2599a0f37326b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-21T14:12:23+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-11-21T13:03:14+09:00&lt;br/&gt;Updated: 2026-11-21T14:12:23+09:00&lt;br/&gt;AIエージェントの認証まわりがまとめて進化！
+もうすぐ12月ですね。AWS ユーザーにとっては、毎年ラスベガスで開かれる大型カンファレンス re:Invent の季節です。
+
+その直前の数週間は新機能の発表が相次ぎ、「pre:Invent」と呼ばれています。
+今年は ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f465d303f9902f5eec78</id>
@@ -1903,17 +1902,6 @@ AI ツールを入れようとするとき、営業の場や社内の勉強会�
 この記事では、この説明のどこまでが正しく、どこから先に...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:bd6091f2599a0f37326b</id>
-    <title>【pre:Inventまとめ】AWSのAIエージェント認証がいろいろ進化！MCPサーバー構築を例に一挙解説</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/bd6091f2599a0f37326b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-21T14:12:23+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-11-21T13:03:14+09:00&lt;br/&gt;Updated: 2026-11-21T14:12:23+09:00&lt;br/&gt;AIエージェントの認証まわりがまとめて進化！
-もうすぐ12月ですね。AWS ユーザーにとっては、毎年ラスベガスで開かれる大型カンファレンス re:Invent の季節です。
-
-その直前の数週間は新機能の発表が相次ぎ、「pre:Invent」と呼ばれています。
-今年は ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:75bf50a67ca5370ec6bf</id>
     <title>今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）</title>
     <link rel="alternate" href="https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2032,5 +2020,19 @@ AtCoderのルール変更を機にライブラリをようやくGitHubで管理�
 
 以前はどうやって品質を説明していたか
 ちょっと昔のシステム開発では、以下のよ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:53465eeb52b464757555</id>
+    <title>Claude Haiku 5.5 は判断特化モデルの代わりになるのか？</title>
+    <link rel="alternate" href="https://qiita.com/kikuziro/items/53465eeb52b464757555?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-13T09:08:12+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-10-12T22:07:07+09:00&lt;br/&gt;Updated: 2026-10-13T09:08:12+09:00&lt;br/&gt;🎯 対象読者
+
+LLMで分類・ルーティング・可否判定などの「判断」をさせたい人
+JevやStrands Decider 2Bなどの判断特化モデルと汎用LLMのどちらを使うか迷っている人
+LLMの判断をワークフローに組み込みたい人
+
+👋 はじめに
+2026年10月7日に出...</summary>
   </entry>
 </feed>
