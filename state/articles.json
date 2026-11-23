@@ -325,6 +325,18 @@
       "last_seen": "2026-10-10T06:58:30.300214483+00:00"
     },
     {
+      "key": "1d6751643b84db67812e",
+      "item_id": "1d6751643b84db67812e",
+      "title": "コードを書くコストが下がった今、ソフトウェアエンジニアリングの価値はどこにあるのか",
+      "link": "https://qiita.com/figueiredoluiz/items/1d6751643b84db67812e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nAIがコードを書くようになった今、ソフトウェアエンジニアの仕事は不要になるのでしょうか。\n私は日常的にAIを使って開発しています。数時間かかっていた実装を短時間で終えられるなら、手作業にこだわる理由はありません。その分、問題の理解や設計、品質の改善に時間を使える...",
+      "published": "2026-11-22T05:37:17+09:00",
+      "updated": "2026-11-22T05:37:17+09:00",
+      "author_name": "figueiredoluiz",
+      "likes_count": 16,
+      "last_seen": "2026-11-23T08:55:29.621086064+00:00"
+    },
+    {
       "key": "1df29b844478f9df5960",
       "item_id": "1df29b844478f9df5960",
       "title": "はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～",
@@ -431,18 +443,6 @@
       "author_name": "RioTakasu",
       "likes_count": 10,
       "last_seen": "2026-10-19T06:08:13.454349879+00:00"
-    },
-    {
-      "key": "2be9091b328d8b844640",
-      "item_id": "2be9091b328d8b844640",
-      "title": "JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた",
-      "link": "https://qiita.com/kikuziro/items/2be9091b328d8b844640?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "👋 はじめに\nRAGのあちこちにJevを差し込んでどこがどう変わるのか測ってみました！\n\n🎯 対象購読者\n\nぶっちゃけJevってRAG検索に使えるの？と思っている方\nRAG検索を愛している方\n\n⚡ Jevってなに？\nJevはTypeSafe AIが2026年9月15日に...",
-      "published": "2026-09-21T08:45:56+09:00",
-      "updated": "2026-09-21T09:02:09+09:00",
-      "author_name": "kikuziro",
-      "likes_count": 63,
-      "last_seen": "2026-09-24T04:36:15.074337027+00:00"
     },
     {
       "key": "2e0fa85f1cc32a62fb0d",
@@ -585,8 +585,8 @@
       "published": "2026-11-21T20:51:38+09:00",
       "updated": "2026-11-21T20:51:38+09:00",
       "author_name": "Maruo110",
-      "likes_count": 11,
-      "last_seen": "2026-11-23T00:12:39.047281027+00:00"
+      "likes_count": 14,
+      "last_seen": "2026-11-23T08:55:29.621086064+00:00"
     },
     {
       "key": "38afbfa4be6591b22f14",
@@ -793,18 +793,6 @@
       "last_seen": "2026-11-11T02:43:16.465631176+00:00"
     },
     {
-      "key": "41c9402a5dd9d80fc7a9",
-      "item_id": "41c9402a5dd9d80fc7a9",
-      "title": "ローカル動作するJevっぽいものを調べてたら、なんとマルチモーダル対応もできてた！",
-      "link": "https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "Jevが大流行してますね。\nすごいなーと思いつつ、ローカルでもできるのかなーと思ってたら、すでに試されてる方がいました！\n早い！！\n\nソースコード公開されているので、これをそのまま使えばいいのですが、せっかくなので、どういう仕組なのか調べてみました。\n\nきしださんが公...",
-      "published": "2026-09-21T11:47:44+09:00",
-      "updated": "2026-09-21T11:47:44+09:00",
-      "author_name": "moritalous",
-      "likes_count": 38,
-      "last_seen": "2026-09-24T04:36:15.074337027+00:00"
-    },
-    {
       "key": "439bda5ea9234b7d9013",
       "item_id": "439bda5ea9234b7d9013",
       "title": "【初投稿】「最近どう？」を卒業しよう！180cm95kg・青髪・ヒゲ面のインフラ中間管理職が1on1で意識している11の工夫",
@@ -947,18 +935,6 @@
       "author_name": "tatsuya582",
       "likes_count": 21,
       "last_seen": "2026-10-31T05:24:39.459802405+00:00"
-    },
-    {
-      "key": "4f037551f841d786c17d",
-      "item_id": "4f037551f841d786c17d",
-      "title": "言葉で頼んで AI 0 回・約 1 秒、手順書をマクロに焼いたら日々の業務から AI が消えた話",
-      "link": "https://qiita.com/shu15511551/items/4f037551f841d786c17d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに\n九月十九日の未明に、「秀エクセルマネージャー」を開発中のまま公開した、という記事を書きました。\n\n外から Python で Excel を掴み、Claude Code や Gemini に道具を握らせて、表の仕事を片付けさせる。\nその仕組みを追いかけて、お題...",
-      "published": "2026-09-21T14:44:19+09:00",
-      "updated": "2026-09-22T09:59:49+09:00",
-      "author_name": "shu15511551",
-      "likes_count": 10,
-      "last_seen": "2026-09-24T04:36:15.074337027+00:00"
     },
     {
       "key": "4fbf6144f4cab3f00123",
@@ -1533,8 +1509,8 @@
       "published": "2026-11-22T12:42:52+09:00",
       "updated": "2026-11-22T20:21:31+09:00",
       "author_name": "heki-dm",
-      "likes_count": 14,
-      "last_seen": "2026-11-23T00:12:39.047281027+00:00"
+      "likes_count": 19,
+      "last_seen": "2026-11-23T08:55:29.621086064+00:00"
     },
     {
       "key": "78c8cccf8b11bde5c845",
@@ -2437,18 +2413,6 @@
       "last_seen": "2026-11-20T03:01:15.710035934+00:00"
     },
     {
-      "key": "b2ef2f7a6ee0dbbf0001",
-      "item_id": "b2ef2f7a6ee0dbbf0001",
-      "title": "エンジニア不要論の真実！AIの進化と具体抽象から完全解説",
-      "link": "https://qiita.com/Sicut_study/items/b2ef2f7a6ee0dbbf0001?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "はじめに　　\nこんにちは、Watanabe Jin(@Sicut_study)です。\nAIエージェントが開発を行うようになり、多くのエンジニアがClaude Codeなどを利用して仕事を進められるようになりました。\nしかし、便利になったと感じると同時に、こんな瞬間は...",
-      "published": "2026-09-21T12:52:23+09:00",
-      "updated": "2026-09-21T12:52:23+09:00",
-      "author_name": "Sicut_study",
-      "likes_count": 44,
-      "last_seen": "2026-09-24T04:36:15.074337027+00:00"
-    },
-    {
       "key": "b2f2d50f0a5c74d09348",
       "item_id": "b2f2d50f0a5c74d09348",
       "title": "コメント欄にはなぜチンパンジーしかいないのか",
@@ -2637,8 +2601,8 @@
       "published": "2026-11-21T13:03:14+09:00",
       "updated": "2026-11-21T14:12:23+09:00",
       "author_name": "minorun365",
-      "likes_count": 19,
-      "last_seen": "2026-11-23T00:12:39.047281027+00:00"
+      "likes_count": 20,
+      "last_seen": "2026-11-23T08:55:29.621086064+00:00"
     },
     {
       "key": "bd8052e938a343c82555",
@@ -3265,18 +3229,6 @@
       "last_seen": "2026-11-12T18:09:55.310790102+00:00"
     },
     {
-      "key": "ed4c760f616cf3c0a958",
-      "item_id": "ed4c760f616cf3c0a958",
-      "title": "みのるん式 登壇資料の作成ノウハウをスキルとして公開しました！",
-      "link": "https://qiita.com/minorun365/items/ed4c760f616cf3c0a958?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "こんにちは、Claude Codeです。普段から、みのるんの登壇資料づくりを手伝っています。\nみのるんが登壇を重ねるなかで培ってきたスライド作成のノウハウを、私たちAIエージェントが読めるスキルの形にまとめて公開しました！\n\nこんな感じのスライドができます。\n\n何が入...",
-      "published": "2026-09-21T11:29:12+09:00",
-      "updated": "2026-09-21T11:56:53+09:00",
-      "author_name": "minorun365",
-      "likes_count": 96,
-      "last_seen": "2026-09-24T04:36:15.074337027+00:00"
-    },
-    {
       "key": "ee7565d212fd3ae1adcb",
       "item_id": "ee7565d212fd3ae1adcb",
       "title": "最近プロジェクトマネジメントで感じたこと",
@@ -3489,8 +3441,8 @@
       "published": "2026-11-22T20:56:55+09:00",
       "updated": "2026-11-22T21:26:14+09:00",
       "author_name": "minorun365",
-      "likes_count": 21,
-      "last_seen": "2026-11-23T00:12:39.047281027+00:00"
+      "likes_count": 44,
+      "last_seen": "2026-11-23T08:55:29.621086064+00:00"
     },
     {
       "key": "fb1d5dded8654002d2c1",
