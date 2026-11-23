@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-11-21T17:22:48+09:00</updated>
+  <updated>2026-11-22T21:26:14+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -1326,6 +1326,15 @@ Claude Codeには、permissions.deny で .env を読ませない設定があり�
 手...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:faa50b7662b86e1df29c</id>
+    <title>手書きをやめた途端、ブログが全部AI臭くなったあなたへ！ マシにする方法教えます</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/faa50b7662b86e1df29c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-22T21:26:14+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-11-22T20:56:55+09:00&lt;br/&gt;Updated: 2026-11-22T21:26:14+09:00&lt;br/&gt;友達のブログが AI slop だらけになって、がっかりしていませんか？
+この1年でブログをAIに書かせる人が増えましたよね。学んだことを面白く書いていた友達まで、情報量ばかりのビジーな記事を出すようになり、読まなくなった人も多いのではないでしょうか。
+とはいえ、アンチA...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:5bb47c01a8513e52d1b5</id>
     <title>人間がボトルネックになった時代のAIエージェント設計</title>
     <link rel="alternate" href="https://qiita.com/Syoitu/items/5bb47c01a8513e52d1b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1902,6 +1911,19 @@ AI ツールを入れようとするとき、営業の場や社内の勉強会�
 この記事では、この説明のどこまでが正しく、どこから先に...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:77ecaacd592d1c4459df</id>
+    <title>脆弱性の「CVSS 9.8」って結局なに？CVSSの読み方をちゃんと理解する</title>
+    <link rel="alternate" href="https://qiita.com/heki-dm/items/77ecaacd592d1c4459df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-22T20:21:31+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/heki-dm&quot;&gt;heki-dm&lt;/a&gt;&lt;br/&gt;Published: 2026-11-22T12:42:52+09:00&lt;br/&gt;Updated: 2026-11-22T20:21:31+09:00&lt;br/&gt;はじめに
+Dependabot のアラートや脆弱性情報を見ていると、こんな表記をよく目にします。
+
+CVSS 9.8 (Critical)
+CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
+「数字が大きいほどヤバいんだろうな」くら...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:75bf50a67ca5370ec6bf</id>
     <title>今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）</title>
     <link rel="alternate" href="https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2009,30 +2031,5 @@ AtCoderのルール変更を機にライブラリをようやくGitHubで管理�
 主に
 
 リポジトリで気になっ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:a1f4533a4d7c724c097f</id>
-    <title>AI時代、何をもってソフトウェアの品質を担保するのか</title>
-    <link rel="alternate" href="https://qiita.com/acsuzuki/items/a1f4533a4d7c724c097f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-15T16:23:06+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/acsuzuki&quot;&gt;acsuzuki&lt;/a&gt;&lt;br/&gt;Published: 2026-10-15T16:23:05+09:00&lt;br/&gt;Updated: 2026-10-15T16:23:06+09:00&lt;br/&gt;最近は、Claude CodeやCodexなどを使ってAIにコードを書かせることが当たり前になってきました。
-そんな中で皆さんは、何をもって「システムの品質が担保されている」と考えるでしょうか。
-
-以前はどうやって品質を説明していたか
-ちょっと昔のシステム開発では、以下のよ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:53465eeb52b464757555</id>
-    <title>Claude Haiku 5.5 は判断特化モデルの代わりになるのか？</title>
-    <link rel="alternate" href="https://qiita.com/kikuziro/items/53465eeb52b464757555?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-13T09:08:12+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-10-12T22:07:07+09:00&lt;br/&gt;Updated: 2026-10-13T09:08:12+09:00&lt;br/&gt;🎯 対象読者
-
-LLMで分類・ルーティング・可否判定などの「判断」をさせたい人
-JevやStrands Decider 2Bなどの判断特化モデルと汎用LLMのどちらを使うか迷っている人
-LLMの判断をワークフローに組み込みたい人
-
-👋 はじめに
-2026年10月7日に出...</summary>
   </entry>
 </feed>
