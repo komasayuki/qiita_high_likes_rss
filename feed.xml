@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-11-22T21:26:14+09:00</updated>
+  <updated>2026-11-23T08:11:23+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -528,6 +528,15 @@ Python向けレトロゲームエンジンPyxel の新バージョンである3.
 個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、iOS UIKit + FastAPI + Kubernetes）について書いた記事が増えてきたので、リンク集としてまとめ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:faa50b7662b86e1df29c</id>
+    <title>手書きをやめた途端、ブログが全部AI臭くなったあなたへ！ マシにする方法教えます</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/faa50b7662b86e1df29c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-22T21:26:14+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-11-22T20:56:55+09:00&lt;br/&gt;Updated: 2026-11-22T21:26:14+09:00&lt;br/&gt;友達のブログが AI slop だらけになって、がっかりしていませんか？
+この1年でブログをAIに書かせる人が増えましたよね。学んだことを面白く書いていた友達まで、情報量ばかりのビジーな記事を出すようになり、読まなくなった人も多いのではないでしょうか。
+とはいえ、アンチA...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8675266928f574677d9e</id>
     <title>JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI</title>
     <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/8675266928f574677d9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -613,15 +622,6 @@ Xでもそこか...</summary>
     <summary type="html">Likes: 45&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-10-09T02:49:14+09:00&lt;br/&gt;Updated: 2026-10-09T06:07:56+09:00&lt;br/&gt;この記事のチャンクデータには名探偵コナンのデータを登録しています（ほかにONE PIECEと名探偵プリキュア!も少し）。 名探偵コナンを知らない方はアニメまたは単行本全巻読破してからこの記事を読むことをおすすめします。
 
 みなさんGraphRAGの判断を全部LLMにや...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:faa50b7662b86e1df29c</id>
-    <title>手書きをやめた途端、ブログが全部AI臭くなったあなたへ！ マシにする方法教えます</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/faa50b7662b86e1df29c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-22T21:26:14+09:00</updated>
-    <summary type="html">Likes: 44&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-11-22T20:56:55+09:00&lt;br/&gt;Updated: 2026-11-22T21:26:14+09:00&lt;br/&gt;友達のブログが AI slop だらけになって、がっかりしていませんか？
-この1年でブログをAIに書かせる人が増えましたよね。学んだことを面白く書いていた友達まで、情報量ばかりのビジーな記事を出すようになり、読まなくなった人も多いのではないでしょうか。
-とはいえ、アンチA...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c3bb4801c105d96fa79d</id>
@@ -1147,6 +1147,19 @@ Honoってあるじゃないですか。TypeScriptのWebフレームワークで
 そもそもどんな脆弱...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:77ecaacd592d1c4459df</id>
+    <title>脆弱性の「CVSS 9.8」って結局なに？CVSSの読み方をちゃんと理解する</title>
+    <link rel="alternate" href="https://qiita.com/heki-dm/items/77ecaacd592d1c4459df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-22T20:21:31+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/heki-dm&quot;&gt;heki-dm&lt;/a&gt;&lt;br/&gt;Published: 2026-11-22T12:42:52+09:00&lt;br/&gt;Updated: 2026-11-22T20:21:31+09:00&lt;br/&gt;はじめに
+Dependabot のアラートや脆弱性情報を見ていると、こんな表記をよく目にします。
+
+CVSS 9.8 (Critical)
+CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
+「数字が大きいほどヤバいんだろうな」くら...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9e7c02b749037238b2bc</id>
     <title>ちょっと見ない間にClaude APIが進化してた！</title>
     <link rel="alternate" href="https://qiita.com/moritalous/items/9e7c02b749037238b2bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1466,19 +1479,6 @@ OpenSearch全文検索のコストが高すぎてヒィヒィ言ってる方
 この原因の多くは「文字種構成比（Kanji Ratio / Character Type Distribut...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:77ecaacd592d1c4459df</id>
-    <title>脆弱性の「CVSS 9.8」って結局なに？CVSSの読み方をちゃんと理解する</title>
-    <link rel="alternate" href="https://qiita.com/heki-dm/items/77ecaacd592d1c4459df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-22T20:21:31+09:00</updated>
-    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/heki-dm&quot;&gt;heki-dm&lt;/a&gt;&lt;br/&gt;Published: 2026-11-22T12:42:52+09:00&lt;br/&gt;Updated: 2026-11-22T20:21:31+09:00&lt;br/&gt;はじめに
-Dependabot のアラートや脆弱性情報を見ていると、こんな表記をよく目にします。
-
-CVSS 9.8 (Critical)
-CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
-
-「数字が大きいほどヤバいんだろうな」くら...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:f465d303f9902f5eec78</id>
     <title>PhotoCraft＋OpenFillで、ローカル生成AIによる画像修正を試す</title>
     <link rel="alternate" href="https://qiita.com/momoda_yzrh/items/f465d303f9902f5eec78?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1527,6 +1527,29 @@ CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
     <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/TamakiSeki&quot;&gt;TamakiSeki&lt;/a&gt;&lt;br/&gt;Published: 2026-09-30T17:34:13+09:00&lt;br/&gt;Updated: 2026-09-30T17:34:14+09:00&lt;br/&gt;はじめに
 生成AIやAIエージェントを業務に活用しようとすると、「どの業務に適用するか」「人とAIの役割をどう分けるか」で迷うことがあります。
 文章作成や要約など個人単位の作業にはAIを導入しやすい一方、AIエージェントを作ること自体が目的になると、個別タスクの効率化にと...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:1d6751643b84db67812e</id>
+    <title>コードを書くコストが下がった今、ソフトウェアエンジニアリングの価値はどこにあるのか</title>
+    <link rel="alternate" href="https://qiita.com/figueiredoluiz/items/1d6751643b84db67812e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-22T05:37:17+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/figueiredoluiz&quot;&gt;figueiredoluiz&lt;/a&gt;&lt;br/&gt;Published: 2026-11-22T05:37:17+09:00&lt;br/&gt;Updated: 2026-11-22T05:37:17+09:00&lt;br/&gt;はじめに
+AIがコードを書くようになった今、ソフトウェアエンジニアの仕事は不要になるのでしょうか。
+私は日常的にAIを使って開発しています。数時間かかっていた実装を短時間で終えられるなら、手作業にこだわる理由はありません。その分、問題の理解や設計、品質の改善に時間を使える...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:385b2c7ef5fbd074e6e2</id>
+    <title>情報漏えいを公表しないリスクの要点整理</title>
+    <link rel="alternate" href="https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-21T20:51:38+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Maruo110&quot;&gt;Maruo110&lt;/a&gt;&lt;br/&gt;Published: 2026-11-21T20:51:38+09:00&lt;br/&gt;Updated: 2026-11-21T20:51:38+09:00&lt;br/&gt;業務でセキュリティ動向を追う中で、情報漏えいの公表が毎日のように目につく。
+ただ、公表されているのは被害を受けた企業の一部だけだと思う。
+今はそれでも回っているが、前提が崩れつつある。自戒を込めて整理する。
+先にキーワードを出す。
+
+情報漏えい
+個人情報保護委員会への報告
+...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fa50cc82e49b24925fe3</id>
@@ -1647,15 +1670,6 @@ IT未経験でエンジニアになった私は、配属後の勉強期間中、
 入社してまだ半年ですが、業務の中でAIの存在があまりにも大きく、日々いろいろなことを考えるようになりました。そ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:1d6751643b84db67812e</id>
-    <title>コードを書くコストが下がった今、ソフトウェアエンジニアリングの価値はどこにあるのか</title>
-    <link rel="alternate" href="https://qiita.com/figueiredoluiz/items/1d6751643b84db67812e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-22T05:37:17+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/figueiredoluiz&quot;&gt;figueiredoluiz&lt;/a&gt;&lt;br/&gt;Published: 2026-11-22T05:37:17+09:00&lt;br/&gt;Updated: 2026-11-22T05:37:17+09:00&lt;br/&gt;はじめに
-AIがコードを書くようになった今、ソフトウェアエンジニアの仕事は不要になるのでしょうか。
-私は日常的にAIを使って開発しています。数時間かかっていた実装を短時間で終えられるなら、手作業にこだわる理由はありません。その分、問題の理解や設計、品質の改善に時間を使える...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:1a043190d8f00d2ebda6</id>
     <title>ひとりで作るOSSを、チームの基準でレビューする（Codex・Claude・CodeRabbit）</title>
     <link rel="alternate" href="https://qiita.com/figueiredoluiz/items/1a043190d8f00d2ebda6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1759,6 +1773,14 @@ async fu...</summary>
     <updated>2026-09-28T16:06:27+09:00</updated>
     <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-28T16:06:27+09:00&lt;br/&gt;Updated: 2026-09-28T16:06:27+09:00&lt;br/&gt;「AI を使ったサイバー攻撃が急増」という見出しや、「攻撃の速さは人の能力を超えた」というセキュリティ製品の発表を見ると、守る側も AI を入れなければ間に合わないのでは、と考えるのは自然です。
 ただ、先に知りたいのは、AI で攻撃の何が変わったのか、それに合わせて守りの...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4ad36f1857ba2b4ee4f1</id>
+    <title>セキュリティ情報 406 件を「脆弱性-手口-被害-対策」の1枚の分類図にまとめてから読めたこと</title>
+    <link rel="alternate" href="https://qiita.com/songchong/items/4ad36f1857ba2b4ee4f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-23T08:11:23+09:00</updated>
+    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-11-23T07:01:05+09:00&lt;br/&gt;Updated: 2026-11-23T08:11:23+09:00&lt;br/&gt;分類図は IT連携マップで操作できます → https://renkeimap.jp/security/map
+上の図は、分類図の全体を 1 枚の画像にした一例です。サイトの分類図では、分類を押すと、つながる前後の分類だけが残り、その分類に入った件の一覧が出ます。上の...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:82ccc38c04c3ea1e8d3b</id>
@@ -1871,29 +1893,6 @@ GitHub Copilot SDK (自分のアプリに Copilot の機能を組み込める SD
     <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-24T04:18:39+09:00&lt;br/&gt;Updated: 2026-09-25T18:24:07+09:00&lt;br/&gt;社内で生成 AI の利用ルールやセキュリティの規程を作るとき、必ずと言っていいほど聞かれる質問があります。
 「入力した業務の内容は、あとから上司や会社の管理者、AI の提供元に読まれませんか？」
 「画面から履歴を消せば大丈夫です」と答えているなら、それは半分しか合っていま...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:7306e0b1a9207e08d86e</id>
-    <title>生成AI を使ったら著作権侵害になる？ — 4 大リスクと対策を LLM のメカニズム・法務・補償条項から整理してみた</title>
-    <link rel="alternate" href="https://qiita.com/songchong/items/7306e0b1a9207e08d86e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-23T16:45:44+09:00</updated>
-    <summary type="html">Likes: 15&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-09-23T16:45:44+09:00&lt;br/&gt;Updated: 2026-09-23T16:45:44+09:00&lt;br/&gt;「生成 AI の出力は、単語を確率で並べ直した“新しい創作物”だから、他人の著作権を侵害することはない」
-AI ツールを入れようとするとき、営業の場や社内の勉強会で、こうした説明を聞いたことがある方は多いと思います。
-この記事では、この説明のどこまでが正しく、どこから先に...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:385b2c7ef5fbd074e6e2</id>
-    <title>情報漏えいを公表しないリスクの要点整理</title>
-    <link rel="alternate" href="https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-21T20:51:38+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Maruo110&quot;&gt;Maruo110&lt;/a&gt;&lt;br/&gt;Published: 2026-11-21T20:51:38+09:00&lt;br/&gt;Updated: 2026-11-21T20:51:38+09:00&lt;br/&gt;業務でセキュリティ動向を追う中で、情報漏えいの公表が毎日のように目につく。
-ただ、公表されているのは被害を受けた企業の一部だけだと思う。
-今はそれでも回っているが、前提が崩れつつある。自戒を込めて整理する。
-先にキーワードを出す。
-
-情報漏えい
-個人情報保護委員会への報告
-...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:75bf50a67ca5370ec6bf</id>

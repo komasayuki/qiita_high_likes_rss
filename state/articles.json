@@ -61,6 +61,18 @@
       "last_seen": "2026-10-09T02:02:12.736743400+00:00"
     },
     {
+      "key": "073f202bb0ca65611b30",
+      "item_id": "073f202bb0ca65611b30",
+      "title": "なぜ 11 月に日本のサイバー事故は「爆発」したのか — 605件を数えたら「日本が狙われている」だけではなかった",
+      "link": "https://qiita.com/songchong/items/073f202bb0ca65611b30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "この図は IT連携マップで操作できます → https://renkeimap.jp/security/incidents\n上の図は、セキュリティ事故の一覧の頭にある図「事故の時期と規模」を 1 枚の画像にしたものです。サイトの図では、円を押すと、その事故のカード（漏...",
+      "published": "2026-11-24T04:05:56+09:00",
+      "updated": "2026-11-24T04:05:56+09:00",
+      "author_name": "songchong",
+      "likes_count": 10,
+      "last_seen": "2026-11-23T21:13:58.431652858+00:00"
+    },
+    {
       "key": "0a68cd4ab997e8c8213b",
       "item_id": "0a68cd4ab997e8c8213b",
       "title": "同一人物がApple/Googleどちらでログインしても同じアカウントにする ― Firebase純正のlink(with:)を使わなかった理由",
@@ -333,8 +345,8 @@
       "published": "2026-11-22T05:37:17+09:00",
       "updated": "2026-11-22T05:37:17+09:00",
       "author_name": "figueiredoluiz",
-      "likes_count": 16,
-      "last_seen": "2026-11-23T08:55:29.621086064+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-11-23T21:13:58.431652858+00:00"
     },
     {
       "key": "1df29b844478f9df5960",
@@ -585,8 +597,8 @@
       "published": "2026-11-21T20:51:38+09:00",
       "updated": "2026-11-21T20:51:38+09:00",
       "author_name": "Maruo110",
-      "likes_count": 14,
-      "last_seen": "2026-11-23T08:55:29.621086064+00:00"
+      "likes_count": 18,
+      "last_seen": "2026-11-23T21:13:58.431652858+00:00"
     },
     {
       "key": "38afbfa4be6591b22f14",
@@ -901,6 +913,18 @@
       "last_seen": "2026-11-09T06:05:23.545533056+00:00"
     },
     {
+      "key": "4ad36f1857ba2b4ee4f1",
+      "item_id": "4ad36f1857ba2b4ee4f1",
+      "title": "セキュリティ情報 406 件を「脆弱性-手口-被害-対策」の1枚の分類図にまとめてから読めたこと",
+      "link": "https://qiita.com/songchong/items/4ad36f1857ba2b4ee4f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "分類図は IT連携マップで操作できます → https://renkeimap.jp/security/map\n上の図は、分類図の全体を 1 枚の画像にした一例です。サイトの分類図では、分類を押すと、つながる前後の分類だけが残り、その分類に入った件の一覧が出ます。上の...",
+      "published": "2026-11-23T07:01:05+09:00",
+      "updated": "2026-11-23T08:11:23+09:00",
+      "author_name": "songchong",
+      "likes_count": 15,
+      "last_seen": "2026-11-23T21:13:58.431652858+00:00"
+    },
+    {
       "key": "4bf77973ab94453a2699",
       "item_id": "4bf77973ab94453a2699",
       "title": "【JavaScript】Promise.resolveはPromiseでないオブジェクトもresolveするしそのせいで脆弱性がたくさんある",
@@ -1139,6 +1163,18 @@
       "author_name": "carol0226",
       "likes_count": 16,
       "last_seen": "2026-09-29T01:49:16.301213348+00:00"
+    },
+    {
+      "key": "5b4638fab7f9aefbd81a",
+      "item_id": "5b4638fab7f9aefbd81a",
+      "title": "LLMを呼ぶ、その先へ。12のGitHub教材で学ぶAIエンジニアリングのロードマップ",
+      "link": "https://qiita.com/ryosuke_ohori/items/5b4638fab7f9aefbd81a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "みなさん、こんにちは。株式会社ulusageの技術ブログ生成AIです。\n\nチャット画面を作ってLLMのAPIにつなぐと、思ったより早く「AIアプリらしいもの」が動きます。最近は開発支援AIもあるので、最初の手応えを得るまでの距離はずいぶん短くなりました。\nただ、ここから実際...",
+      "published": "2026-11-22T11:46:05+09:00",
+      "updated": "2026-11-22T11:46:05+09:00",
+      "author_name": "ryosuke_ohori",
+      "likes_count": 10,
+      "last_seen": "2026-11-23T21:13:58.431652858+00:00"
     },
     {
       "key": "5bb47c01a8513e52d1b5",
@@ -1429,18 +1465,6 @@
       "last_seen": "2026-10-01T05:40:55.248883995+00:00"
     },
     {
-      "key": "7306e0b1a9207e08d86e",
-      "item_id": "7306e0b1a9207e08d86e",
-      "title": "生成AI を使ったら著作権侵害になる？ — 4 大リスクと対策を LLM のメカニズム・法務・補償条項から整理してみた",
-      "link": "https://qiita.com/songchong/items/7306e0b1a9207e08d86e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "summary": "「生成 AI の出力は、単語を確率で並べ直した“新しい創作物”だから、他人の著作権を侵害することはない」\nAI ツールを入れようとするとき、営業の場や社内の勉強会で、こうした説明を聞いたことがある方は多いと思います。\nこの記事では、この説明のどこまでが正しく、どこから先に...",
-      "published": "2026-09-23T16:45:44+09:00",
-      "updated": "2026-09-23T16:45:44+09:00",
-      "author_name": "songchong",
-      "likes_count": 15,
-      "last_seen": "2026-09-24T19:03:05.126077826+00:00"
-    },
-    {
       "key": "73bd326df5069f07f0fe",
       "item_id": "73bd326df5069f07f0fe",
       "title": "GMO、うそをついてハッカーに呆れられてしまう",
@@ -1509,8 +1533,8 @@
       "published": "2026-11-22T12:42:52+09:00",
       "updated": "2026-11-22T20:21:31+09:00",
       "author_name": "heki-dm",
-      "likes_count": 19,
-      "last_seen": "2026-11-23T08:55:29.621086064+00:00"
+      "likes_count": 23,
+      "last_seen": "2026-11-23T21:13:58.431652858+00:00"
     },
     {
       "key": "78c8cccf8b11bde5c845",
@@ -3441,8 +3465,8 @@
       "published": "2026-11-22T20:56:55+09:00",
       "updated": "2026-11-22T21:26:14+09:00",
       "author_name": "minorun365",
-      "likes_count": 44,
-      "last_seen": "2026-11-23T08:55:29.621086064+00:00"
+      "likes_count": 50,
+      "last_seen": "2026-11-23T21:13:58.431652858+00:00"
     },
     {
       "key": "fb1d5dded8654002d2c1",
@@ -3503,6 +3527,18 @@
       "author_name": "hiroshi_ito9854",
       "likes_count": 16,
       "last_seen": "2026-10-11T20:11:47.802727593+00:00"
+    },
+    {
+      "key": "ffaa4a7e8008481a1d14",
+      "item_id": "ffaa4a7e8008481a1d14",
+      "title": "登壇時、画面共有時にモザイクをかける方法について",
+      "link": "https://qiita.com/Takashi_Masumori/items/ffaa4a7e8008481a1d14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\n画面共有や登壇をしている際に、よく、そのモザイクどうやってかけているんですか？と聞かれることがあります。\n今回は、私が普段使っているツールに関して、方法に関して紹介をしたいと思います。\n※紹介するツールを利用するかどうかは、ご自身の責任でご判断ください。\n\nTe...",
+      "published": "2026-11-23T07:20:58+09:00",
+      "updated": "2026-11-23T08:25:10+09:00",
+      "author_name": "Takashi_Masumori",
+      "likes_count": 13,
+      "last_seen": "2026-11-23T21:13:58.431652858+00:00"
     }
   ]
 }
