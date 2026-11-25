@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-11-24T08:34:01+09:00</updated>
+  <updated>2026-11-25T00:37:54+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -103,6 +103,15 @@ P...</summary>
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:faa50b7662b86e1df29c</id>
+    <title>手書きをやめた途端、ブログが全部AI臭くなったあなたへ！ マシにする方法教えます</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/faa50b7662b86e1df29c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-22T21:26:14+09:00</updated>
+    <summary type="html">Likes: 109&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-11-22T20:56:55+09:00&lt;br/&gt;Updated: 2026-11-22T21:26:14+09:00&lt;br/&gt;友達のブログが AI slop だらけになって、がっかりしていませんか？
+この1年でブログをAIに書かせる人が増えましたよね。学んだことを面白く書いていた友達まで、情報量ばかりのビジーな記事を出すようになり、読まなくなった人も多いのではないでしょうか。
+とはいえ、アンチA...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:e4cde327a910b5beba11</id>
     <title>AWS初心者がエンジニアを辞めた話</title>
     <link rel="alternate" href="https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -149,15 +158,6 @@ Claude認定（Claude Certified）はAnthropicの公式資格で、Claude Partne
     <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yama3133&quot;&gt;yama3133&lt;/a&gt;&lt;br/&gt;Published: 2026-10-06T14:19:43+09:00&lt;br/&gt;Updated: 2026-10-06T14:19:43+09:00&lt;br/&gt;はじめに
 2026年に入って、国内外で大きな情報漏洩が続いています。特に6月から10月初旬には、タイムズカー(約660万アカウント)、焼肉きんぐ(約1,079万件)、アフラック生命(約440万人)、デンマークの住民登録簿(約880万人)などが公表されました。
 この記事では...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:faa50b7662b86e1df29c</id>
-    <title>手書きをやめた途端、ブログが全部AI臭くなったあなたへ！ マシにする方法教えます</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/faa50b7662b86e1df29c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-22T21:26:14+09:00</updated>
-    <summary type="html">Likes: 95&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-11-22T20:56:55+09:00&lt;br/&gt;Updated: 2026-11-22T21:26:14+09:00&lt;br/&gt;友達のブログが AI slop だらけになって、がっかりしていませんか？
-この1年でブログをAIに書かせる人が増えましたよね。学んだことを面白く書いていた友達まで、情報量ばかりのビジーな記事を出すようになり、読まなくなった人も多いのではないでしょうか。
-とはいえ、アンチA...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:44664e57e2738614fccf</id>
@@ -394,13 +394,6 @@ Claude Fable 5.1
 ここ数日、セキュリティインシデントに関するニュースを目にする機会が増えています。こうしたニュースを見ると、「自分のWebサービスは大丈夫だろうか？」と考える方も多いのでは...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:1002367721b1650fcdf3</id>
-    <title>攻撃者の視点でセキュリティを理解したいエンジニアへ。bashで学ぶ侵入技術の実践書</title>
-    <link rel="alternate" href="https://qiita.com/yasu1109/items/1002367721b1650fcdf3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-23T08:56:43+09:00</updated>
-    <summary type="html">Likes: 59&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yasu1109&quot;&gt;yasu1109&lt;/a&gt;&lt;br/&gt;Published: 2026-09-23T08:56:43+09:00&lt;br/&gt;Updated: 2026-09-23T08:56:43+09:00&lt;br/&gt;脆弱性診断のレポートを読んでも、どういう手順で攻撃者がそこにたどり着くのか実感が湧かない。守る側の知識だけを積み上げていると、対策の優先順位を誤ってしまうことがある。『侵入技術入門 ―bashで学ぶ攻撃者の技法』は、あえて攻撃者の手順を追体験させることでその感覚のズレを埋め...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b6d17933cc276dadf6d5</id>
     <title>AI開発のセキュリティは設計で証明！今後エンジニアに求められるスキルを完全解説</title>
     <link rel="alternate" href="https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -447,18 +440,6 @@ AIがコードを書くようになった今、ソフトウェアエンジニア
     <updated>2026-11-02T10:19:12+09:00</updated>
     <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-11-01T23:05:25+09:00&lt;br/&gt;Updated: 2026-11-02T10:19:12+09:00&lt;br/&gt;⚖️ はじめに
 最近Jevをはじめとした判断特化型のモデルが続々と出てきていますよね。文章は書かずに「はい」の確からしさだけを返してくれるモデルです。この判断モデルをRAGの検索に使う「DecisionRAG」という論文が出ていたので自分なりに噛み砕いてみました。後半は通...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4591be7133e2f9d1d3cd</id>
-    <title>管理業務～私の実践～②</title>
-    <link rel="alternate" href="https://qiita.com/wawasaki2468/items/4591be7133e2f9d1d3cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-25T09:16:54+09:00</updated>
-    <summary type="html">Likes: 55&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/wawasaki2468&quot;&gt;wawasaki2468&lt;/a&gt;&lt;br/&gt;Published: 2026-09-25T09:16:54+09:00&lt;br/&gt;Updated: 2026-09-25T09:16:54+09:00&lt;br/&gt;初めまして。QAエンジニアのAIと申します。
-本日は管理について
-私の実際していることを記載します。
-参考になる方がいれば幸いです。
-今回は【管理】での【教育】について
-実際に一緒に働く時のコミュニケーションな事は前回の①でお話しましたが、今回は【教育】について記載いたしま...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9d4f86c185dda6fd24a7</id>
@@ -821,6 +802,18 @@ VueやReact以外のフレームワークを使ってみたいので Svelte を.
 発表の内容自体...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2bbdfbacab915773dad1</id>
+    <title>【完全解説】本質から学ぶSOLIDの原則｜なんとなく分かるから完全理解へ【設計シリーズ】</title>
+    <link rel="alternate" href="https://qiita.com/Sicut_study/items/2bbdfbacab915773dad1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-23T17:04:27+09:00</updated>
+    <summary type="html">Likes: 35&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-11-23T17:02:03+09:00&lt;br/&gt;Updated: 2026-11-23T17:04:27+09:00&lt;br/&gt;はじめに
+こんにちは、Watanabe Jin(@Sicut_study)です。
+今回から私が得意な設計に関するチュートリアルを投稿していこうと思います。
+ソフトウェア設計は学ぶのが難しいです。
+なぜかというと、抽象的な概念が多く、現実世界で利用しにくいためです。
+利用...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:6577a57b9b62c8f97e11</id>
     <title>【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/6577a57b9b62c8f97e11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -883,6 +876,19 @@ VueやReact以外のフレームワークを使ってみたいので Svelte を.
 簡単...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:17496db6ac5f64a5e61a</id>
+    <title>情報量が4倍のQRコードを作ろう</title>
+    <link rel="alternate" href="https://qiita.com/reipandada/items/17496db6ac5f64a5e61a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-24T08:48:24+09:00</updated>
+    <summary type="html">Likes: 32&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/reipandada&quot;&gt;reipandada&lt;/a&gt;&lt;br/&gt;Published: 2026-11-24T08:48:24+09:00&lt;br/&gt;Updated: 2026-11-24T08:48:24+09:00&lt;br/&gt;ネタ記事です。細かいところは適当なのでゆるく読んでください。
+
+世紀の大発明
+QRコードの向きは3つの角にある「回」のようなマークを見て、マークのない角の位置で判断しているそうです。
+そこでふと思いつきました。4隅すべてにマークを置いて1つを隠したら？
+
+隠す角によ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:bf4a3a2185db2d28eee5</id>
     <title>実際に試したClaude便利術20選 まとめ</title>
     <link rel="alternate" href="https://qiita.com/N-Kyo/items/bf4a3a2185db2d28eee5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -917,6 +923,18 @@ Claude Code・Code...</summary>
 また今後は、利用者自身だけでなく、AI エージェントが外部のコンテンツやサービスへア...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:ffaa4a7e8008481a1d14</id>
+    <title>登壇時、画面共有時にモザイクをかける方法について</title>
+    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/ffaa4a7e8008481a1d14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-23T08:25:10+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-11-23T07:20:58+09:00&lt;br/&gt;Updated: 2026-11-23T08:25:10+09:00&lt;br/&gt;はじめに
+画面共有や登壇をしている際に、よく、そのモザイクどうやってかけているんですか？と聞かれることがあります。
+今回は、私が普段使っているツールに関して、方法に関して紹介をしたいと思います。
+※紹介するツールを利用するかどうかは、ご自身の責任でご判断ください。
+
+Te...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:8d965a85f2aac8ebcb12</id>
     <title>【Opus 級？】Jev でエンジニアとプロジェクトをマッチング ― LLM・埋め込みモデルと比較</title>
     <link rel="alternate" href="https://qiita.com/akimasanishida/items/8d965a85f2aac8ebcb12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -947,18 +965,6 @@ Transformerの同じ層を何回か通すやつでしょ
 今いるチームでは、モバイルアプリのリリース前の確認を手動テストで行っています。
 テストケースの管理はずっとGoogleのスプレッドシート（以下スプシ）を使っていましたが、運用が破綻しかけていました。
 そこで、ケースの管理はコードベースで行い、実施だけをスプシで行...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:ffaa4a7e8008481a1d14</id>
-    <title>登壇時、画面共有時にモザイクをかける方法について</title>
-    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/ffaa4a7e8008481a1d14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-23T08:25:10+09:00</updated>
-    <summary type="html">Likes: 30&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-11-23T07:20:58+09:00&lt;br/&gt;Updated: 2026-11-23T08:25:10+09:00&lt;br/&gt;はじめに
-画面共有や登壇をしている際に、よく、そのモザイクどうやってかけているんですか？と聞かれることがあります。
-今回は、私が普段使っているツールに関して、方法に関して紹介をしたいと思います。
-※紹介するツールを利用するかどうかは、ご自身の責任でご判断ください。
-
-Te...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:b3c6c879f03f9bb665d3</id>
@@ -1029,18 +1035,6 @@ Qiita投稿文化を社内に広めようとし...</summary>
 2026/10/1、AWSから発表されたStrands Deciderを動かすハンズオンです。
 
 Strands Deciderは文章を生成せず、用意した選択肢...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2bbdfbacab915773dad1</id>
-    <title>【完全解説】本質から学ぶSOLIDの原則｜なんとなく分かるから完全理解へ【設計シリーズ】</title>
-    <link rel="alternate" href="https://qiita.com/Sicut_study/items/2bbdfbacab915773dad1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-23T17:04:27+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-11-23T17:02:03+09:00&lt;br/&gt;Updated: 2026-11-23T17:04:27+09:00&lt;br/&gt;はじめに
-こんにちは、Watanabe Jin(@Sicut_study)です。
-今回から私が得意な設計に関するチュートリアルを投稿していこうと思います。
-ソフトウェア設計は学ぶのが難しいです。
-なぜかというと、抽象的な概念が多く、現実世界で利用しにくいためです。
-利用...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a5145ee73f86646c64ec</id>
@@ -1515,6 +1509,15 @@ OpenSearch全文検索のコストが高すぎてヒィヒィ言ってる方
 要点
 
 意思決定モデル（System One Model）は、...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:7771db4dccb7ddf3ac4a</id>
+    <title>Rails（Sidekiq＋Selenium）経験者向け：Node.jsのBullMQ＋Playwrightでバッチ処理を組むときのハマりどころ</title>
+    <link rel="alternate" href="https://qiita.com/jinxin4869/items/7771db4dccb7ddf3ac4a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-25T00:37:54+09:00</updated>
+    <summary type="html">Likes: 19&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jinxin4869&quot;&gt;jinxin4869&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T00:37:54+09:00&lt;br/&gt;Updated: 2026-11-25T00:37:54+09:00&lt;br/&gt;はじめに
+Railsでバッチ処理を書くときは、ジョブキューにSidekiq、ブラウザ操作にSeleniumを使うことがよくあります。
+では、同じことをNode.js、TypeScriptでやるなら何を選べばいいのか。この記事では、ジョブキューにBullMQ、ブラウザ操作に...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:f465d303f9902f5eec78</id>
