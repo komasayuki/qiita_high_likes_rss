@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/qiita_high_likes_rss/feed.xml</id>
   <title>Qiita 人気記事 filtered</title>
-  <updated>2026-11-25T00:37:54+09:00</updated>
+  <updated>2026-11-25T21:41:17+09:00</updated>
   <link rel="self" href="https://komasayuki.github.io/qiita_high_likes_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/qiita_high_likes_rss/index.html"/>
   <subtitle>Qiita popular items filtered by likes threshold</subtitle>
@@ -433,6 +433,19 @@ AIがコードを書くようになった今、ソフトウェアエンジニア
 記載している数値は、すべて2026年10月13日時点の...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:17496db6ac5f64a5e61a</id>
+    <title>情報量が4倍のQRコードを作ろう</title>
+    <link rel="alternate" href="https://qiita.com/reipandada/items/17496db6ac5f64a5e61a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-24T08:48:24+09:00</updated>
+    <summary type="html">Likes: 53&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/reipandada&quot;&gt;reipandada&lt;/a&gt;&lt;br/&gt;Published: 2026-11-24T08:48:24+09:00&lt;br/&gt;Updated: 2026-11-24T08:48:24+09:00&lt;br/&gt;ネタ記事です。細かいところは適当なのでゆるく読んでください。
+
+世紀の大発明
+QRコードの向きは3つの角にある「回」のようなマークを見て、マークのない角の位置で判断しているそうです。
+そこでふと思いつきました。4隅すべてにマークを置いて1つを隠したら？
+
+隠す角によ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:a8d8177d02cc4f7f2553</id>
     <title>個人開発のMinecraft監視アプリに負荷試験をしてみた ― 読み取り専用のAPIが、実は毎回DBへ書き込んでいた</title>
     <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/a8d8177d02cc4f7f2553?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -623,6 +636,18 @@ Microsoft 365 Copilotくん、いつの間にかめちゃくちゃ進化して�
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:2bbdfbacab915773dad1</id>
+    <title>【完全解説】本質から学ぶSOLIDの原則｜なんとなく分かるから完全理解へ【設計シリーズ】</title>
+    <link rel="alternate" href="https://qiita.com/Sicut_study/items/2bbdfbacab915773dad1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-23T17:04:27+09:00</updated>
+    <summary type="html">Likes: 40&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-11-23T17:02:03+09:00&lt;br/&gt;Updated: 2026-11-23T17:04:27+09:00&lt;br/&gt;はじめに
+こんにちは、Watanabe Jin(@Sicut_study)です。
+今回から私が得意な設計に関するチュートリアルを投稿していこうと思います。
+ソフトウェア設計は学ぶのが難しいです。
+なぜかというと、抽象的な概念が多く、現実世界で利用しにくいためです。
+利用...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:83535ce9f3dd7d56600e</id>
     <title>営業こそコミュニティでは「No sell」でいよう</title>
     <link rel="alternate" href="https://qiita.com/sadabon444/items/83535ce9f3dd7d56600e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -688,19 +713,6 @@ AIに「なぜ正しいの？」と聞いても、その説明が正...</summary
 また、Google Apps Script（GAS）を使ったちょっとした業務改善などでも、AIを活用することがあ...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:17496db6ac5f64a5e61a</id>
-    <title>情報量が4倍のQRコードを作ろう</title>
-    <link rel="alternate" href="https://qiita.com/reipandada/items/17496db6ac5f64a5e61a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-24T08:48:24+09:00</updated>
-    <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/reipandada&quot;&gt;reipandada&lt;/a&gt;&lt;br/&gt;Published: 2026-11-24T08:48:24+09:00&lt;br/&gt;Updated: 2026-11-24T08:48:24+09:00&lt;br/&gt;ネタ記事です。細かいところは適当なのでゆるく読んでください。
-
-世紀の大発明
-QRコードの向きは3つの角にある「回」のようなマークを見て、マークのない角の位置で判断しているそうです。
-そこでふと思いつきました。4隅すべてにマークを置いて1つを隠したら？
-
-隠す角によ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b9e38c0584d4aa720d31</id>
     <title>【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方</title>
     <link rel="alternate" href="https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -729,18 +741,6 @@ Claude Codeに「この画面、Figmaに起こして」と頼むと、Figma上�
     <summary type="html">Likes: 37&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/fuga-if&quot;&gt;fuga-if&lt;/a&gt;&lt;br/&gt;Published: 2026-10-14T04:41:55+09:00&lt;br/&gt;Updated: 2026-10-14T04:41:55+09:00&lt;br/&gt;はじめまして、都内でエンジニアを8年ほどやっているものです。
 生成AIの台頭により、個人開発のハードルが極限まで下がったことで、新卒の頃からずっとやりたかった自分のサービスを持つことができました。
 ついに自分のサービスで前月の収益で合計17万ほどを得ることができたので、どう...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:2bbdfbacab915773dad1</id>
-    <title>【完全解説】本質から学ぶSOLIDの原則｜なんとなく分かるから完全理解へ【設計シリーズ】</title>
-    <link rel="alternate" href="https://qiita.com/Sicut_study/items/2bbdfbacab915773dad1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-23T17:04:27+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Sicut_study&quot;&gt;Sicut_study&lt;/a&gt;&lt;br/&gt;Published: 2026-11-23T17:02:03+09:00&lt;br/&gt;Updated: 2026-11-23T17:04:27+09:00&lt;br/&gt;はじめに
-こんにちは、Watanabe Jin(@Sicut_study)です。
-今回から私が得意な設計に関するチュートリアルを投稿していこうと思います。
-ソフトウェア設計は学ぶのが難しいです。
-なぜかというと、抽象的な概念が多く、現実世界で利用しにくいためです。
-利用...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:6d13fdce2a31fe630840</id>
@@ -989,7 +989,7 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
     <title>なぜ 11 月に日本のサイバー事故は「爆発」したのか — 605件を数えたら「日本が狙われている」だけではなかった</title>
     <link rel="alternate" href="https://qiita.com/songchong/items/073f202bb0ca65611b30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
     <updated>2026-11-24T04:05:56+09:00</updated>
-    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-11-24T04:05:56+09:00&lt;br/&gt;Updated: 2026-11-24T04:05:56+09:00&lt;br/&gt;この図は IT連携マップで操作できます → https://renkeimap.jp/security/incidents
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/songchong&quot;&gt;songchong&lt;/a&gt;&lt;br/&gt;Published: 2026-11-24T04:05:56+09:00&lt;br/&gt;Updated: 2026-11-24T04:05:56+09:00&lt;br/&gt;この図は IT連携マップで操作できます → https://renkeimap.jp/security/incidents
 上の図は、セキュリティ事故の一覧の頭にある図「事故の時期と規模」を 1 枚の画像にしたものです。サイトの図では、円を押すと、その事故のカード（漏...</summary>
   </entry>
   <entry>
@@ -1022,6 +1022,15 @@ Strands Deciderは文章を生成せず、用意した選択肢...</summary>
 業務であまり詳しくないサブシステムのテーブル構造をキャッチアップするため、過去に作成したテーブル定義書の出力ツールを改良しました。
 
 以前【Po...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b23e578d820d411bcb92</id>
+    <title>コピペでSSHしていた初心者が、仕組みから学び直してみる</title>
+    <link rel="alternate" href="https://qiita.com/Yuzuki-ki/items/b23e578d820d411bcb92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-25T12:08:12+09:00</updated>
+    <summary type="html">Likes: 25&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Yuzuki-ki&quot;&gt;Yuzuki-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T12:08:11+09:00&lt;br/&gt;Updated: 2026-11-25T12:08:12+09:00&lt;br/&gt;はじめに
+こんにちは！ソーイ株式会社の木寺です。
+業務で「このサーバーにSSHで入ってログを見ておいて」と言われて、「SSH……？とりあえずコマンドをコピペしたら入れたけど、何をしているのかはよく分からない」という経験はありませんか？実は私もまさに今その状態で、先輩に教わ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c05efd7ac228fe85ab44</id>
@@ -1861,6 +1870,26 @@ GitHub Copilot SDK (自分のアプリに Copilot の機能を組み込める SD
 ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:4416bd940ca0cd3aaabc</id>
+    <title>【技術書典21】Claudeと作った同人誌で初出展しました。部数の決め方と当日の売れ方の記録</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/4416bd940ca0cd3aaabc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-25T21:41:17+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T20:57:51+09:00&lt;br/&gt;Updated: 2026-11-25T21:41:17+09:00&lt;br/&gt;技術書典に初出展しました！
+技術書典21、おつかれさまでした！ 初めての出展で、Claude と一緒に作った同人誌を300部刷り、紙の本はおかげさまで全部お届けできました。
+
+お待ちしてます！#技術書典 pic.twitter.com/tOZ1NwRlsr— 🍊❄️ (@...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:46b64d3f76c9a4440298</id>
+    <title>海外で話題！「VS Codeが重い」を軽くする方法。まず測って、効く順に削る（2026年11月版）</title>
+    <link rel="alternate" href="https://qiita.com/shahin0809/items/46b64d3f76c9a4440298?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-25T20:41:16+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shahin0809&quot;&gt;shahin0809&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T20:24:47+09:00&lt;br/&gt;Updated: 2026-11-25T20:41:16+09:00&lt;br/&gt;はじめに
+こんにちは！VSCode/GitHubオタクのMicrosoft Student Ambassador/Github Copilot User Group Japan運営のロホマン シャヒンです
+
+この記事が少しでも参考になったら、ぜひいいね・共有をお願いしま...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:75bf50a67ca5370ec6bf</id>
     <title>今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）</title>
     <link rel="alternate" href="https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2014,36 +2043,5 @@ AWSのブログで、GitHub ActionsからAgentCore Evaluationsを呼んでエー
 100DL。
 大きなサービスから見れば、ほとんど誤差のような数字です。
 ただ、広告予算も知名度もほぼな...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1cfd627bd1ba30e2dc9c</id>
-    <title>Google Workspace Studioの「スキル（Skills）」とは？作り方・使い方とフローとの違いを解説</title>
-    <link rel="alternate" href="https://qiita.com/shibuya-ys/items/1cfd627bd1ba30e2dc9c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-07T17:07:42+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibuya-ys&quot;&gt;shibuya-ys&lt;/a&gt;&lt;br/&gt;Published: 2026-10-07T17:07:41+09:00&lt;br/&gt;Updated: 2026-10-07T17:07:42+09:00&lt;br/&gt;はじめに
-こんにちは。
-普段はGoogle Workspaceをあまり使っていないのですが、業務の効率化に活用してみようと模索している中で、最近「Google Workspace Studio」のスキル（Skills）という機能を触る機会がありました。
-これまで業務を自動...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9c9cbb97df7e4a631660</id>
-    <title>CORSエラーに遭遇したので、そもそもCORSとは何なのか理解する</title>
-    <link rel="alternate" href="https://qiita.com/megumi_i/items/9c9cbb97df7e4a631660?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-06T21:14:09+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/megumi_i&quot;&gt;megumi_i&lt;/a&gt;&lt;br/&gt;Published: 2026-10-06T21:14:09+09:00&lt;br/&gt;Updated: 2026-10-06T21:14:09+09:00&lt;br/&gt;はじめに
-開発中、APIへのリクエストでCORSエラーに遭遇しました。
-原因を調べて、リクエスト元が「許可するオリジン」として登録されていなかったことが分かったので、 https://example.com を許可設定に追加し、無事エラー解消！！
-...と思いきや、今度は...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d1f17a1dd4f050dbfd7f</id>
-    <title>Amazon S3+vsftpdでFTPサーバを構築する</title>
-    <link rel="alternate" href="https://qiita.com/naoaki-yzrh/items/d1f17a1dd4f050dbfd7f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-10-06T13:35:12+09:00</updated>
-    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/naoaki-yzrh&quot;&gt;naoaki-yzrh&lt;/a&gt;&lt;br/&gt;Published: 2026-10-06T13:35:12+09:00&lt;br/&gt;Updated: 2026-10-06T13:35:12+09:00&lt;br/&gt;当初はAWS Transfer Family for FTPで構築していましたが、あまりにもコストが高いのでEC2上に別途FTPサーバを構築した際のメモです
-
-AWS Transfer Familyとは
-
-AWS Transfer Familyを使用するとS3・EFSに...</summary>
   </entry>
 </feed>
