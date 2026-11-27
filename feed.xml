@@ -41,6 +41,19 @@ AIはプログラミングだけでなく、営業資料や発表資料まで作
 技術記事を...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:17496db6ac5f64a5e61a</id>
+    <title>情報量が4倍のQRコードを作ろう</title>
+    <link rel="alternate" href="https://qiita.com/reipandada/items/17496db6ac5f64a5e61a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-24T08:48:24+09:00</updated>
+    <summary type="html">Likes: 186&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/reipandada&quot;&gt;reipandada&lt;/a&gt;&lt;br/&gt;Published: 2026-11-24T08:48:24+09:00&lt;br/&gt;Updated: 2026-11-24T08:48:24+09:00&lt;br/&gt;ネタ記事です。細かいところは適当なのでゆるく読んでください。
+
+世紀の大発明
+QRコードの向きは3つの角にある「回」のようなマークを見て、マークのない角の位置で判断しているそうです。
+そこでふと思いつきました。4隅すべてにマークを置いて1つを隠したら？
+
+隠す角によ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:0ffe6e74ecaf3aaa8b14</id>
     <title>新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた</title>
     <link rel="alternate" href="https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -148,19 +161,6 @@ Claude認定（Claude Certified）はAnthropicの公式資格で、Claude Partne
     <summary type="html">Likes: 100&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yama3133&quot;&gt;yama3133&lt;/a&gt;&lt;br/&gt;Published: 2026-10-06T14:19:43+09:00&lt;br/&gt;Updated: 2026-10-06T14:19:43+09:00&lt;br/&gt;はじめに
 2026年に入って、国内外で大きな情報漏洩が続いています。特に6月から10月初旬には、タイムズカー(約660万アカウント)、焼肉きんぐ(約1,079万件)、アフラック生命(約440万人)、デンマークの住民登録簿(約880万人)などが公表されました。
 この記事では...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:17496db6ac5f64a5e61a</id>
-    <title>情報量が4倍のQRコードを作ろう</title>
-    <link rel="alternate" href="https://qiita.com/reipandada/items/17496db6ac5f64a5e61a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-24T08:48:24+09:00</updated>
-    <summary type="html">Likes: 97&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/reipandada&quot;&gt;reipandada&lt;/a&gt;&lt;br/&gt;Published: 2026-11-24T08:48:24+09:00&lt;br/&gt;Updated: 2026-11-24T08:48:24+09:00&lt;br/&gt;ネタ記事です。細かいところは適当なのでゆるく読んでください。
-
-世紀の大発明
-QRコードの向きは3つの角にある「回」のようなマークを見て、マークのない角の位置で判断しているそうです。
-そこでふと思いつきました。4隅すべてにマークを置いて1つを隠したら？
-
-隠す角によ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:44664e57e2738614fccf</id>
@@ -315,15 +315,6 @@ Micros...</summary>
 報連相。報告・連絡・相談。
 正直に言うと、僕はこの言葉がちょっと苦手でした。新人研修で最初に習うやつ。部下が上司に気をつかって、こまめに顔色をうかがうためのやつ。そんなイメージがあったんです。
 チームの若手から「報連相って、もう古いですよね」と言われたときも、内...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d21ff35b9329eecc6143</id>
-    <title>Claude Code の拒否ルールを7つの形で測った。最新版でまだ3つ残っている</title>
-    <link rel="alternate" href="https://qiita.com/suwa_nobu/items/d21ff35b9329eecc6143?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-28T11:28:10+09:00</updated>
-    <summary type="html">Likes: 63&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/suwa_nobu&quot;&gt;suwa_nobu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-25T10:29:40+09:00&lt;br/&gt;Updated: 2026-09-28T11:28:10+09:00&lt;br/&gt;permissions.deny に書いたルールが、書いたとおりに効かないことがあります。
-2026-09-11 から 09-24 までの2週間で、Claude Code の権限まわりの修正が7つの版に出ました
-（2.1.269 / 271 / 273 / 274 / 27...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:c9ab1e1c64474c341d77</id>
@@ -627,6 +618,15 @@ Microsoft 365 Copilotくん、いつの間にかめちゃくちゃ進化して�
 「なんで非同期で書かないといけないの？」と聞かれても、「非同期じゃないと処理が終わるまで画面が表示されなくて、重くなるから」くらいしか答えら...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b23e578d820d411bcb92</id>
+    <title>コピペでSSHしていた初心者が、仕組みから学び直してみる</title>
+    <link rel="alternate" href="https://qiita.com/Yuzuki-ki/items/b23e578d820d411bcb92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-25T12:08:12+09:00</updated>
+    <summary type="html">Likes: 41&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Yuzuki-ki&quot;&gt;Yuzuki-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T12:08:11+09:00&lt;br/&gt;Updated: 2026-11-25T12:08:12+09:00&lt;br/&gt;はじめに
+こんにちは！ソーイ株式会社の木寺です。
+業務で「このサーバーにSSHで入ってログを見ておいて」と言われて、「SSH……？とりあえずコマンドをコピペしたら入れたけど、何をしているのかはよく分からない」という経験はありませんか？実は私もまさに今その状態で、先輩に教わ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:141e960b0bab8015bdae</id>
     <title>AIを介したやり取りは、放っておくとAI Slopを加速させるかも</title>
     <link rel="alternate" href="https://qiita.com/inukai-masanori/items/141e960b0bab8015bdae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -785,15 +785,6 @@ VueやReact以外のフレームワークを使ってみたいので Svelte を.
 
 しかも免許証画像、いかれました（アウトー！）。
 ということで今回は、偶然にも...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b23e578d820d411bcb92</id>
-    <title>コピペでSSHしていた初心者が、仕組みから学び直してみる</title>
-    <link rel="alternate" href="https://qiita.com/Yuzuki-ki/items/b23e578d820d411bcb92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-25T12:08:12+09:00</updated>
-    <summary type="html">Likes: 34&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Yuzuki-ki&quot;&gt;Yuzuki-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T12:08:11+09:00&lt;br/&gt;Updated: 2026-11-25T12:08:12+09:00&lt;br/&gt;はじめに
-こんにちは！ソーイ株式会社の木寺です。
-業務で「このサーバーにSSHで入ってログを見ておいて」と言われて、「SSH……？とりあえずコマンドをコピペしたら入れたけど、何をしているのかはよく分からない」という経験はありませんか？実は私もまさに今その状態で、先輩に教わ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:623e13ced9c119b614aa</id>
@@ -980,6 +971,16 @@ Qiita投稿文化を社内に広めようとし...</summary>
 2026/10/1、AWSから発表されたStrands Deciderを動かすハンズオンです。
 
 Strands Deciderは文章を生成せず、用意した選択肢...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4416bd940ca0cd3aaabc</id>
+    <title>【技術書典21】Claudeと作った同人誌で初出展しました。部数の決め方と当日の売れ方の記録</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/4416bd940ca0cd3aaabc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-25T21:41:17+09:00</updated>
+    <summary type="html">Likes: 26&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T20:57:51+09:00&lt;br/&gt;Updated: 2026-11-25T21:41:17+09:00&lt;br/&gt;技術書典に初出展しました！
+技術書典21、おつかれさまでした！ 初めての出展で、Claude と一緒に作った同人誌を300部刷り、紙の本はおかげさまで全部お届けできました。
+
+お待ちしてます！#技術書典 pic.twitter.com/tOZ1NwRlsr— 🍊❄️ (@...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a5145ee73f86646c64ec</id>
@@ -1174,16 +1175,6 @@ Microsoft 365 Copilot のエージェントビルダーに「スキル」を追�
 Generative AI Developer - Professional(AIP)で宇宙最速(...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:4416bd940ca0cd3aaabc</id>
-    <title>【技術書典21】Claudeと作った同人誌で初出展しました。部数の決め方と当日の売れ方の記録</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/4416bd940ca0cd3aaabc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-25T21:41:17+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T20:57:51+09:00&lt;br/&gt;Updated: 2026-11-25T21:41:17+09:00&lt;br/&gt;技術書典に初出展しました！
-技術書典21、おつかれさまでした！ 初めての出展で、Claude と一緒に作った同人誌を300部刷り、紙の本はおかげさまで全部お届けできました。
-
-お待ちしてます！#技術書典 pic.twitter.com/tOZ1NwRlsr— 🍊❄️ (@...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:385b2c7ef5fbd074e6e2</id>
     <title>情報漏えいを公表しないリスクの要点整理</title>
     <link rel="alternate" href="https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1282,6 +1273,15 @@ Claude Codeには、permissions.deny で .env を読ませない設定があり�
 じゃあ実際どこまで止まるのか、偽物のキーを置いて48回試してみました。
 
 手...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:205353ed847956c45dd2</id>
+    <title>心理的安全性を現場で育てる ― 「なんで？」をやめただけで2チーム統合リーダーの現場が変わった話</title>
+    <link rel="alternate" href="https://qiita.com/teppei19980914/items/205353ed847956c45dd2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-25T19:03:41+09:00</updated>
+    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T19:03:41+09:00&lt;br/&gt;Updated: 2026-11-25T19:03:41+09:00&lt;br/&gt;この記事は約12分で読めます。
+
+心理的安全性は、制度を1つ導入すれば手に入るものではありません。2026年9月、私は自社の2チームを統合するリーダーとしてアサインされました。現場はお客様から「稼働負荷を下げてほしい」と要望され、成果物の品質も安定していませんでした。そこ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5bb47c01a8513e52d1b5</id>
@@ -1517,13 +1517,17 @@ Railsでバッチ処理を書くときは、ジョブキューにSidekiq、ブ�
 文章作成や要約など個人単位の作業にはAIを導入しやすい一方、AIエージェントを作ること自体が目的になると、個別タスクの効率化にと...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:205353ed847956c45dd2</id>
-    <title>心理的安全性を現場で育てる ― 「なんで？」をやめただけで2チーム統合リーダーの現場が変わった話</title>
-    <link rel="alternate" href="https://qiita.com/teppei19980914/items/205353ed847956c45dd2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-25T19:03:41+09:00</updated>
-    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T19:03:41+09:00&lt;br/&gt;Updated: 2026-11-25T19:03:41+09:00&lt;br/&gt;この記事は約12分で読めます。
+    <id>tag:qiita.com,2026:4b0e3752764eb13f15be</id>
+    <title>【個人開発】AIでバトルロイヤルゲームを作ってみた</title>
+    <link rel="alternate" href="https://qiita.com/yangon/items/4b0e3752764eb13f15be?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-25T17:14:14+09:00</updated>
+    <summary type="html">Likes: 18&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yangon&quot;&gt;yangon&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T17:14:14+09:00&lt;br/&gt;Updated: 2026-11-25T17:14:14+09:00&lt;br/&gt;はじめに
+「荒野行動みたいなバトロワを、ブラウザで、three.js なしで作って」
+そう AI に頼んだら、2日後にはこうなっていました。
 
-心理的安全性は、制度を1つ導入すれば手に入るものではありません。2026年9月、私は自社の2チームを統合するリーダーとしてアサインされました。現場はお客様から「稼働負荷を下げてほしい」と要望され、成果物の品質も安定していませんでした。そこ...</summary>
+ブラウザで動く30人バトルロイヤル（オンライン対戦 / ボット戦）
+
+Rust → WebAssembly のゲームコア、生...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:fa50cc82e49b24925fe3</id>
@@ -1591,19 +1595,6 @@ Cloudflare無料プランで運用している静的サイトのセキュリテ�
 
 AIとエンジニアについて〜
 ワーク①...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4b0e3752764eb13f15be</id>
-    <title>【個人開発】AIでバトルロイヤルゲームを作ってみた</title>
-    <link rel="alternate" href="https://qiita.com/yangon/items/4b0e3752764eb13f15be?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-25T17:14:14+09:00</updated>
-    <summary type="html">Likes: 17&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yangon&quot;&gt;yangon&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T17:14:14+09:00&lt;br/&gt;Updated: 2026-11-25T17:14:14+09:00&lt;br/&gt;はじめに
-「荒野行動みたいなバトロワを、ブラウザで、three.js なしで作って」
-そう AI に頼んだら、2日後にはこうなっていました。
-
-ブラウザで動く30人バトルロイヤル（オンライン対戦 / ボット戦）
-
-Rust → WebAssembly のゲームコア、生...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:8225fd0ff29603549ab8</id>
@@ -1880,6 +1871,15 @@ GitHub Copilot SDK (自分のアプリに Copilot の機能を組み込める SD
 こんにちは！VSCode/GitHubオタクのMicrosoft Student Ambassador/Github Copilot User Group Japan運営のロホマン シャヒンです
 
 この記事が少しでも参考になったら、ぜひいいね・共有をお願いしま...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:5d86711976b97c739e0b</id>
+    <title>システム思考を使って全体最適を考える ― Systems Thinking in Action 受講記</title>
+    <link rel="alternate" href="https://qiita.com/HiroyukiHonda/items/5d86711976b97c739e0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-25T10:35:56+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/HiroyukiHonda&quot;&gt;HiroyukiHonda&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T10:35:55+09:00&lt;br/&gt;Updated: 2026-11-25T10:35:56+09:00&lt;br/&gt;はじめに
+2026年10月7日、認定LeSSトレーナーである ヴォルフガング・シュテフェンス（Wolfgang Steffens） さん（以下、Wolfさん）のシステム思考研修「Systems Thinking in Action」を受講しました。
+私がシステム思考を深...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:75bf50a67ca5370ec6bf</id>
