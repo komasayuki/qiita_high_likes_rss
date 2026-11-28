@@ -163,17 +163,6 @@ Claude認定（Claude Certified）はAnthropicの公式資格で、Claude Partne
 この記事では...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:44664e57e2738614fccf</id>
-    <title>自分の頭で考えることって重要だよなと改めて思わされた話</title>
-    <link rel="alternate" href="https://qiita.com/ike_s_muramatsu/items/44664e57e2738614fccf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-26T12:37:47+09:00</updated>
-    <summary type="html">Likes: 95&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ike_s_muramatsu&quot;&gt;ike_s_muramatsu&lt;/a&gt;&lt;br/&gt;Published: 2026-09-26T12:37:47+09:00&lt;br/&gt;Updated: 2026-09-26T12:37:47+09:00&lt;br/&gt;Who am I?
-都内のSIerに勤務する社会人6年目になったインフラエンジニアです。
-今年からOJTを担当するようになりました。
-人材育成を専門にしているわけでも、これまで何人もの新人を育ててきたわけでもありません。
-本記事はあくまで、初めてOJTを担当したり、複数名...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:7fac93e8a7ad6015b0b0</id>
     <title>3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介</title>
     <link rel="alternate" href="https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -497,6 +486,15 @@ AIがコードを書くようになった今、ソフトウェアエンジニア
 個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、iOS UIKit + FastAPI + Kubernetes）について書いた記事が増えてきたので、リンク集としてまとめ...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:b23e578d820d411bcb92</id>
+    <title>コピペでSSHしていた初心者が、仕組みから学び直してみる</title>
+    <link rel="alternate" href="https://qiita.com/Yuzuki-ki/items/b23e578d820d411bcb92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-25T12:08:12+09:00</updated>
+    <summary type="html">Likes: 50&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Yuzuki-ki&quot;&gt;Yuzuki-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T12:08:11+09:00&lt;br/&gt;Updated: 2026-11-25T12:08:12+09:00&lt;br/&gt;はじめに
+こんにちは！ソーイ株式会社の木寺です。
+業務で「このサーバーにSSHで入ってログを見ておいて」と言われて、「SSH……？とりあえずコマンドをコピペしたら入れたけど、何をしているのかはよく分からない」という経験はありませんか？実は私もまさに今その状態で、先輩に教わ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:439bda5ea9234b7d9013</id>
     <title>【初投稿】「最近どう？」を卒業しよう！180cm95kg・青髪・ヒゲ面のインフラ中間管理職が1on1で意識している11の工夫</title>
     <link rel="alternate" href="https://qiita.com/human_hub_T/items/439bda5ea9234b7d9013?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -515,15 +513,6 @@ AIがコードを書くようになった今、ソフトウェアエンジニア
     <updated>2026-11-14T18:20:43+09:00</updated>
     <summary type="html">Likes: 48&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nana_777&quot;&gt;Nana_777&lt;/a&gt;&lt;br/&gt;Published: 2026-11-12T08:39:20+09:00&lt;br/&gt;Updated: 2026-11-14T18:20:43+09:00&lt;br/&gt;はじめに
 2026年11月11日、AWSからAWS Emulatorが公式にリリースされました。AWS SDKやAWS CLIの呼び出しを、AWSアカウントなしで、ローカルやCI上のエミュレーターに向けられるツールです。公式は、実装されているAPIには有効な呼び出しにAW...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:b23e578d820d411bcb92</id>
-    <title>コピペでSSHしていた初心者が、仕組みから学び直してみる</title>
-    <link rel="alternate" href="https://qiita.com/Yuzuki-ki/items/b23e578d820d411bcb92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-25T12:08:12+09:00</updated>
-    <summary type="html">Likes: 47&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Yuzuki-ki&quot;&gt;Yuzuki-ki&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T12:08:11+09:00&lt;br/&gt;Updated: 2026-11-25T12:08:12+09:00&lt;br/&gt;はじめに
-こんにちは！ソーイ株式会社の木寺です。
-業務で「このサーバーにSSHで入ってログを見ておいて」と言われて、「SSH……？とりあえずコマンドをコピペしたら入れたけど、何をしているのかはよく分からない」という経験はありませんか？実は私もまさに今その状態で、先輩に教わ...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:22b7e355068ac0dad571</id>
@@ -754,15 +743,6 @@ VueやReact以外のフレームワークを使ってみたいので Svelte を.
 タイムズカーは9月25日に不正アクセスを検知した。退会済みの人や、入会手続きを終えなかった人も含めて、約660万アカウントの情報が第三者に取得されている...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:6f65c23e580dd454d4c7</id>
-    <title>新しい Copilot（Home・Code・Autopilot）と料金体系を整理し、大企業で広く展開する際の課題を考えてみる</title>
-    <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/6f65c23e580dd454d4c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-26T19:02:57+09:00</updated>
-    <summary type="html">Likes: 36&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Takashi_Masumori&quot;&gt;Takashi_Masumori&lt;/a&gt;&lt;br/&gt;Published: 2026-09-26T16:36:58+09:00&lt;br/&gt;Updated: 2026-09-26T19:02:57+09:00&lt;br/&gt;はじめに
-2026年9月25日、Microsoft から「新しい Copilot」が発表されました。Copilot アプリそのものの形が変わる大きな発表で、あわせて料金体系も「ユーザー単位のライセンス」と「利用量に応じた課金」の2本立てに整理されています。
-発表の内容自体...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:6577a57b9b62c8f97e11</id>
     <title>【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察</title>
     <link rel="alternate" href="https://qiita.com/miruky/items/6577a57b9b62c8f97e11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -963,6 +943,19 @@ Qiita投稿文化を社内に広めようとし...</summary>
 Strands Deciderは文章を生成せず、用意した選択肢...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3151b515e4bf81e97349</id>
+    <title>勉強しているのに成長しない？20代エンジニアが「経験」と「体験」を混同してはいけない理由【権力シリーズA】</title>
+    <link rel="alternate" href="https://qiita.com/Nao52/items/3151b515e4bf81e97349?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-26T20:04:54+09:00</updated>
+    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-11-26T19:56:27+09:00&lt;br/&gt;Updated: 2026-11-26T20:04:54+09:00&lt;br/&gt;本記事は「AIに奪われない力＝権力」シリーズのA（20代・若手プレイヤー向け）です。
+全体の考え方は シリーズ総論 をご覧ください。
+
+■ この記事はこんな人におすすめ
+
+本やスクールで勉強しているのに、仕事で成長している実感がない20代のエンジニア
+「今の仕事は雑務ば...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:4416bd940ca0cd3aaabc</id>
     <title>【技術書典21】Claudeと作った同人誌で初出展しました。部数の決め方と当日の売れ方の記録</title>
     <link rel="alternate" href="https://qiita.com/minorun365/items/4416bd940ca0cd3aaabc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1114,6 +1107,15 @@ Honoってあるじゃないですか。TypeScriptのWebフレームワークで
 そもそもどんな脆弱...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:205353ed847956c45dd2</id>
+    <title>心理的安全性を現場で育てる ― 「なんで？」をやめただけで2チーム統合リーダーの現場が変わった話</title>
+    <link rel="alternate" href="https://qiita.com/teppei19980914/items/205353ed847956c45dd2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-25T19:03:41+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T19:03:41+09:00&lt;br/&gt;Updated: 2026-11-25T19:03:41+09:00&lt;br/&gt;この記事は約12分で読めます。
+
+心理的安全性は、制度を1つ導入すれば手に入るものではありません。2026年9月、私は自社の2チームを統合するリーダーとしてアサインされました。現場はお客様から「稼働負荷を下げてほしい」と要望され、成果物の品質も安定していませんでした。そこ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:9e7c02b749037238b2bc</id>
     <title>ちょっと見ない間にClaude APIが進化してた！</title>
     <link rel="alternate" href="https://qiita.com/moritalous/items/9e7c02b749037238b2bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1165,26 +1167,29 @@ Microsoft 365 Copilot のエージェントビルダーに「スキル」を追�
 Generative AI Developer - Professional(AIP)で宇宙最速(...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:3151b515e4bf81e97349</id>
-    <title>勉強しているのに成長しない？20代エンジニアが「経験」と「体験」を混同してはいけない理由【権力シリーズA】</title>
-    <link rel="alternate" href="https://qiita.com/Nao52/items/3151b515e4bf81e97349?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-26T20:04:54+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-11-26T19:56:27+09:00&lt;br/&gt;Updated: 2026-11-26T20:04:54+09:00&lt;br/&gt;本記事は「AIに奪われない力＝権力」シリーズのA（20代・若手プレイヤー向け）です。
+    <id>tag:qiita.com,2026:44e3911cb090e90768d9</id>
+    <title>「自分でやった方が早い」が部下を育てない ― 新人リーダーの壁と「自分を超える部下」のつくりかた【権力シリーズB】</title>
+    <link rel="alternate" href="https://qiita.com/Nao52/items/44e3911cb090e90768d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-26T20:02:51+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-11-26T19:57:35+09:00&lt;br/&gt;Updated: 2026-11-26T20:02:51+09:00&lt;br/&gt;本記事は「AIに奪われない力＝権力」シリーズのB（新人リーダー・チームリーダー向け）です。
 全体の考え方は シリーズ総論 をご覧ください。
 
 ■ この記事はこんな人におすすめ
 
-本やスクールで勉強しているのに、仕事で成長している実感がない20代のエンジニア
-「今の仕事は雑務ば...</summary>
+新しくリーダーになった、またはチームを任されたエンジニア
+「自分でやった方が早い」と感じて、...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:205353ed847956c45dd2</id>
-    <title>心理的安全性を現場で育てる ― 「なんで？」をやめただけで2チーム統合リーダーの現場が変わった話</title>
-    <link rel="alternate" href="https://qiita.com/teppei19980914/items/205353ed847956c45dd2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-25T19:03:41+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T19:03:41+09:00&lt;br/&gt;Updated: 2026-11-25T19:03:41+09:00&lt;br/&gt;この記事は約12分で読めます。
+    <id>tag:qiita.com,2026:d058c43b52d3a115a240</id>
+    <title>プレイングマネージャーから抜け出せない人が見落としている3つの視点 ― 権力を「大きく」し、腐らせないために【権力シリーズC】</title>
+    <link rel="alternate" href="https://qiita.com/Nao52/items/d058c43b52d3a115a240?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-26T20:00:55+09:00</updated>
+    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-11-26T20:00:02+09:00&lt;br/&gt;Updated: 2026-11-26T20:00:55+09:00&lt;br/&gt;本記事は「AIに奪われない力＝権力」シリーズのC（部長以上を目指す30〜40代向け）です。
+全体の考え方は シリーズ総論 をご覧ください。
 
-心理的安全性は、制度を1つ導入すれば手に入るものではありません。2026年9月、私は自社の2チームを統合するリーダーとしてアサインされました。現場はお客様から「稼働負荷を下げてほしい」と要望され、成果物の品質も安定していませんでした。そこ...</summary>
+■ この記事の位置づけ
+先に正直にお伝えします。私自身は、まだ部長以上の立場を経験していません。
+そのため、この記事は「部長とし...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:385b2c7ef5fbd074e6e2</id>
@@ -1285,18 +1290,6 @@ Claude Codeには、permissions.deny で .env を読ませない設定があり�
 じゃあ実際どこまで止まるのか、偽物のキーを置いて48回試してみました。
 
 手...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d058c43b52d3a115a240</id>
-    <title>プレイングマネージャーから抜け出せない人が見落としている3つの視点 ― 権力を「大きく」し、腐らせないために【権力シリーズC】</title>
-    <link rel="alternate" href="https://qiita.com/Nao52/items/d058c43b52d3a115a240?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-26T20:00:55+09:00</updated>
-    <summary type="html">Likes: 21&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-11-26T20:00:02+09:00&lt;br/&gt;Updated: 2026-11-26T20:00:55+09:00&lt;br/&gt;本記事は「AIに奪われない力＝権力」シリーズのC（部長以上を目指す30〜40代向け）です。
-全体の考え方は シリーズ総論 をご覧ください。
-
-■ この記事の位置づけ
-先に正直にお伝えします。私自身は、まだ部長以上の立場を経験していません。
-そのため、この記事は「部長とし...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5bb47c01a8513e52d1b5</id>
@@ -1404,19 +1397,6 @@ AI時代に設計やテストを学ぶ意味を考えたい
 この記事では、次の考え方を整理します。
 
 契...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:44e3911cb090e90768d9</id>
-    <title>「自分でやった方が早い」が部下を育てない ― 新人リーダーの壁と「自分を超える部下」のつくりかた【権力シリーズB】</title>
-    <link rel="alternate" href="https://qiita.com/Nao52/items/44e3911cb090e90768d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-26T20:02:51+09:00</updated>
-    <summary type="html">Likes: 20&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-11-26T19:57:35+09:00&lt;br/&gt;Updated: 2026-11-26T20:02:51+09:00&lt;br/&gt;本記事は「AIに奪われない力＝権力」シリーズのB（新人リーダー・チームリーダー向け）です。
-全体の考え方は シリーズ総論 をご覧ください。
-
-■ この記事はこんな人におすすめ
-
-新しくリーダーになった、またはチームを任されたエンジニア
-「自分でやった方が早い」と感じて、...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:5a069f9fce99a86efb05</id>
@@ -1752,15 +1732,6 @@ XPSビューアーとは
 Microsoftが開発し、XPSドキュメントに対して、読み取り、コピー、印刷、署名などが行えるます。（機能を表示...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:5b42b547f102fa8a17a4</id>
-    <title>情シス全員がグローバル管理者になっていませんか？ ～ Microsoft Entra PIM で始める特権管理</title>
-    <link rel="alternate" href="https://qiita.com/carol0226/items/5b42b547f102fa8a17a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-29T02:50:54+09:00</updated>
-    <summary type="html">Likes: 16&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/carol0226&quot;&gt;carol0226&lt;/a&gt;&lt;br/&gt;Published: 2026-09-26T11:36:22+09:00&lt;br/&gt;Updated: 2026-09-29T02:50:54+09:00&lt;br/&gt;はじめに
-あなたの組織では、情報システム部のメンバーへ、全員 グローバル管理者 のロールが永続的に付与されている状況になっているということは無いですか？
-管理操作を行うんだから当たり前じゃないか...と思われるかもしれませんが、これには大きなセキュリティリスクが潜んでいる...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:4bf77973ab94453a2699</id>
     <title>【JavaScript】Promise.resolveはPromiseでないオブジェクトもresolveするしそのせいで脆弱性がたくさんある</title>
     <link rel="alternate" href="https://qiita.com/rana_kualu/items/4bf77973ab94453a2699?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -2051,5 +2022,40 @@ AtCoderのルール変更を機にライブラリをようやくGitHubで管理�
 
 以前はどうやって品質を説明していたか
 ちょっと昔のシステム開発では、以下のよ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:53465eeb52b464757555</id>
+    <title>Claude Haiku 5.5 は判断特化モデルの代わりになるのか？</title>
+    <link rel="alternate" href="https://qiita.com/kikuziro/items/53465eeb52b464757555?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-13T09:08:12+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-10-12T22:07:07+09:00&lt;br/&gt;Updated: 2026-10-13T09:08:12+09:00&lt;br/&gt;🎯 対象読者
+
+LLMで分類・ルーティング・可否判定などの「判断」をさせたい人
+JevやStrands Decider 2Bなどの判断特化モデルと汎用LLMのどちらを使うか迷っている人
+LLMの判断をワークフローに組み込みたい人
+
+👋 はじめに
+2026年10月7日に出...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:6f3936d9f7255a4259d9</id>
+    <title>【AWS】GitHub ActionsとAgentCore Evaluationsでエージェントの評価をCI/CDに組み込んでみた</title>
+    <link rel="alternate" href="https://qiita.com/yakumo_09/items/6f3936d9f7255a4259d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-11T22:00:14+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/yakumo_09&quot;&gt;yakumo_09&lt;/a&gt;&lt;br/&gt;Published: 2026-10-11T21:51:19+09:00&lt;br/&gt;Updated: 2026-10-11T22:00:14+09:00&lt;br/&gt;はじめに
+AWSのブログで、GitHub ActionsからAgentCore Evaluationsを呼んでエージェントの品質ゲートを作る記事が出ていました。
+
+実案件でも dev → stg → prd と環境を上げながらAgentCoreを使っているので、...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:14b41ca99c3ae857f2d0</id>
+    <title>個人開発アプリを公開して2か月。100DLまでにやったこと、分かったこと</title>
+    <link rel="alternate" href="https://qiita.com/ys05181406/items/14b41ca99c3ae857f2d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-11T13:14:02+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ys05181406&quot;&gt;ys05181406&lt;/a&gt;&lt;br/&gt;Published: 2026-10-11T13:10:09+09:00&lt;br/&gt;Updated: 2026-10-11T13:14:02+09:00&lt;br/&gt;個人開発したiOSアプリ「Limitime」をApp Storeに公開して、約2か月が経ちました。
+8月15日にリリースして、ダウンロード数はようやく100を超えました。
+100DL。
+大きなサービスから見れば、ほとんど誤差のような数字です。
+ただ、広告予算も知名度もほぼな...</summary>
   </entry>
 </feed>
