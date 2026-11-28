@@ -406,86 +406,6 @@ AIがコードを書くようになった今、ソフトウェアエンジニア
 記載している数値は、すべて2026年10月13日時点の...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:a8d8177d02cc4f7f2553</id>
-    <title>個人開発のMinecraft監視アプリに負荷試験をしてみた ― 読み取り専用のAPIが、実は毎回DBへ書き込んでいた</title>
-    <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/a8d8177d02cc4f7f2553?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-28T20:27:10+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit-yukiono&quot;&gt;jqit-yukiono&lt;/a&gt;&lt;br/&gt;Published: 2026-09-28T20:26:30+09:00&lt;br/&gt;Updated: 2026-09-28T20:27:10+09:00&lt;br/&gt;個人開発のMinecraft監視アプリに負荷試験をしてみた ― 読み取り専用のAPIが、実は毎回DBへ書き込んでいた
-前回の記事の最後で、「負荷や長時間稼働に対する挙動は、自動では見ていません」と書きました。個人開発しているMinecraftサーバー監視アプリ「MineW...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0f7d52531f4370484101</id>
-    <title>Web/admin/iOSにE2Eテストを整備した話 ― 認証を迂回したら、次はテストコード自身の罠が待っていた</title>
-    <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/0f7d52531f4370484101?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-28T20:26:59+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit-yukiono&quot;&gt;jqit-yukiono&lt;/a&gt;&lt;br/&gt;Published: 2026-09-28T20:26:30+09:00&lt;br/&gt;Updated: 2026-09-28T20:26:59+09:00&lt;br/&gt;Web/admin/iOSにE2Eテストを整備した話 ― 認証を迂回したら、次はテストコード自身の罠が待っていた
-個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）は、Web・admin・iOSという3つの異な...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:0a68cd4ab997e8c8213b</id>
-    <title>同一人物がApple/Googleどちらでログインしても同じアカウントにする ― Firebase純正のlink(with:)を使わなかった理由</title>
-    <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/0a68cd4ab997e8c8213b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-28T20:26:57+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit-yukiono&quot;&gt;jqit-yukiono&lt;/a&gt;&lt;br/&gt;Published: 2026-09-28T20:26:30+09:00&lt;br/&gt;Updated: 2026-09-28T20:26:57+09:00&lt;br/&gt;同一人物がApple/Googleどちらでログインしても同じアカウントにする ― Firebase純正のlink(with:)を使わなかった理由
-個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）は、ログインに...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:9d8a5b91dbe3b81cb1b2</id>
-    <title>個人開発のiOS共通ライブラリをSSHフリー化した話 ― 「publicだから認証不要」の勘違いに、Dockerビルドだけが気づいていた</title>
-    <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/9d8a5b91dbe3b81cb1b2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-28T20:26:43+09:00</updated>
-    <summary type="html">Likes: 52&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit-yukiono&quot;&gt;jqit-yukiono&lt;/a&gt;&lt;br/&gt;Published: 2026-09-28T20:26:30+09:00&lt;br/&gt;Updated: 2026-09-28T20:26:43+09:00&lt;br/&gt;個人開発のiOS共通ライブラリをSSHフリー化した話 ― 「publicだから認証不要」の勘違いに、Dockerビルドだけが気づいていた
-個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）のiOS側は、UIKi...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:8d17257a9778a086c7cd</id>
-    <title>Argo RolloutsのBlue-Greenは「2つの環境の交代」じゃなかった ― 名前に引きずられて誤解していた話</title>
-    <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/8d17257a9778a086c7cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-29T06:36:37+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit-yukiono&quot;&gt;jqit-yukiono&lt;/a&gt;&lt;br/&gt;Published: 2026-09-28T20:26:30+09:00&lt;br/&gt;Updated: 2026-09-29T06:36:37+09:00&lt;br/&gt;Argo RolloutsのBlue-Greenは「2つの環境の交代」じゃなかった ― 名前に引きずられて誤解していた話
-個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）の本番環境は、Argo Rollout...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:defe0f80ac4c354aeb7b</id>
-    <title>GitHub CodeQLが個人アカウントでは使えなかった話 ― 開発ツールを9本まとめて入れた棚卸しの顛末</title>
-    <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/defe0f80ac4c354aeb7b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-28T20:26:54+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit-yukiono&quot;&gt;jqit-yukiono&lt;/a&gt;&lt;br/&gt;Published: 2026-09-28T20:26:30+09:00&lt;br/&gt;Updated: 2026-09-28T20:26:54+09:00&lt;br/&gt;GitHub CodeQLが個人アカウントでは使えなかった話 ― 開発ツールを9本まとめて入れた棚卸しの顛末
-個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）で、ある日「未導入のツールが9個ある」と気づいて、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:050ba069630b6d2b17da</id>
-    <title>「別々のアプリが似た症状で落ちる」を手がかりに、NFS越しのSonarQube・Nexus・Jenkinsが繰り返しクラッシュする原因を追った話</title>
-    <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/050ba069630b6d2b17da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-28T20:26:51+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit-yukiono&quot;&gt;jqit-yukiono&lt;/a&gt;&lt;br/&gt;Published: 2026-09-28T20:26:30+09:00&lt;br/&gt;Updated: 2026-09-28T20:26:51+09:00&lt;br/&gt;「別々のアプリが似た症状で落ちる」を手がかりに、NFS越しのSonarQube・Nexus・Jenkinsが繰り返しクラッシュする原因を追った話
-自宅のProxmox上に構築したKubernetesクラスタで、CI/CD基盤（Jenkins、パッケージミラーのNexus、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:1bf18c5f749d05d8c2ff</id>
-    <title>「見るだけ」から「操作できる」へ ― MinecraftサーバーへのRCON実行を、個人開発でどう安全に作ったか</title>
-    <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/1bf18c5f749d05d8c2ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-28T20:26:49+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit-yukiono&quot;&gt;jqit-yukiono&lt;/a&gt;&lt;br/&gt;Published: 2026-09-28T20:26:30+09:00&lt;br/&gt;Updated: 2026-09-28T20:26:49+09:00&lt;br/&gt;「見るだけ」から「操作できる」へ ― MinecraftサーバーへのRCON実行を、個人開発でどう安全に作ったか
-個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）は、当初は「見るだけ」の読み取り専用の監視アプ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:efc0e2b10bb1aa0a3792</id>
-    <title>GitHub Actionsの自動マージが、次のworkflowを起動しない ― 2ヶ月「直っていない」と思い込んでいたバグの正体</title>
-    <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/efc0e2b10bb1aa0a3792?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-28T20:26:39+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit-yukiono&quot;&gt;jqit-yukiono&lt;/a&gt;&lt;br/&gt;Published: 2026-09-28T20:26:30+09:00&lt;br/&gt;Updated: 2026-09-28T20:26:39+09:00&lt;br/&gt;GitHub Actionsの自動マージが、次のworkflowを起動しない ― 2ヶ月「直っていない」と思い込んでいたバグの正体
-前回の記事で、個人開発のMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）のPRを、AIレビュ...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:869751db9269dc2ce84a</id>
-    <title>個人開発アプリ「MineWatch」の記事まとめ（随時更新）</title>
-    <link rel="alternate" href="https://qiita.com/jqit-yukiono/items/869751db9269dc2ce84a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-09-28T20:26:30+09:00</updated>
-    <summary type="html">Likes: 51&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/jqit-yukiono&quot;&gt;jqit-yukiono&lt;/a&gt;&lt;br/&gt;Published: 2026-09-28T20:26:30+09:00&lt;br/&gt;Updated: 2026-09-28T20:26:30+09:00&lt;br/&gt;個人開発アプリ「MineWatch」の記事まとめ（随時更新）
-個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、iOS UIKit + FastAPI + Kubernetes）について書いた記事が増えてきたので、リンク集としてまとめ...</summary>
-  </entry>
-  <entry>
     <id>tag:qiita.com,2026:b23e578d820d411bcb92</id>
     <title>コピペでSSHしていた初心者が、仕組みから学び直してみる</title>
     <link rel="alternate" href="https://qiita.com/Yuzuki-ki/items/b23e578d820d411bcb92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -831,6 +751,29 @@ Claude Code・Code...</summary>
 また今後は、利用者自身だけでなく、AI エージェントが外部のコンテンツやサービスへア...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:3151b515e4bf81e97349</id>
+    <title>勉強しているのに成長しない？20代エンジニアが「経験」と「体験」を混同してはいけない理由【権力シリーズA】</title>
+    <link rel="alternate" href="https://qiita.com/Nao52/items/3151b515e4bf81e97349?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-26T20:04:54+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-11-26T19:56:27+09:00&lt;br/&gt;Updated: 2026-11-26T20:04:54+09:00&lt;br/&gt;本記事は「AIに奪われない力＝権力」シリーズのA（20代・若手プレイヤー向け）です。
+全体の考え方は シリーズ総論 をご覧ください。
+
+■ この記事はこんな人におすすめ
+
+本やスクールで勉強しているのに、仕事で成長している実感がない20代のエンジニア
+「今の仕事は雑務ば...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:4416bd940ca0cd3aaabc</id>
+    <title>【技術書典21】Claudeと作った同人誌で初出展しました。部数の決め方と当日の売れ方の記録</title>
+    <link rel="alternate" href="https://qiita.com/minorun365/items/4416bd940ca0cd3aaabc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-25T21:41:17+09:00</updated>
+    <summary type="html">Likes: 31&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T20:57:51+09:00&lt;br/&gt;Updated: 2026-11-25T21:41:17+09:00&lt;br/&gt;技術書典に初出展しました！
+技術書典21、おつかれさまでした！ 初めての出展で、Claude と一緒に作った同人誌を300部刷り、紙の本はおかげさまで全部お届けできました。
+
+お待ちしてます！#技術書典 pic.twitter.com/tOZ1NwRlsr— 🍊❄️ (@...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:ffaa4a7e8008481a1d14</id>
     <title>登壇時、画面共有時にモザイクをかける方法について</title>
     <link rel="alternate" href="https://qiita.com/Takashi_Masumori/items/ffaa4a7e8008481a1d14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -941,29 +884,6 @@ Qiita投稿文化を社内に広めようとし...</summary>
 2026/10/1、AWSから発表されたStrands Deciderを動かすハンズオンです。
 
 Strands Deciderは文章を生成せず、用意した選択肢...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:3151b515e4bf81e97349</id>
-    <title>勉強しているのに成長しない？20代エンジニアが「経験」と「体験」を混同してはいけない理由【権力シリーズA】</title>
-    <link rel="alternate" href="https://qiita.com/Nao52/items/3151b515e4bf81e97349?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-26T20:04:54+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-11-26T19:56:27+09:00&lt;br/&gt;Updated: 2026-11-26T20:04:54+09:00&lt;br/&gt;本記事は「AIに奪われない力＝権力」シリーズのA（20代・若手プレイヤー向け）です。
-全体の考え方は シリーズ総論 をご覧ください。
-
-■ この記事はこんな人におすすめ
-
-本やスクールで勉強しているのに、仕事で成長している実感がない20代のエンジニア
-「今の仕事は雑務ば...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:4416bd940ca0cd3aaabc</id>
-    <title>【技術書典21】Claudeと作った同人誌で初出展しました。部数の決め方と当日の売れ方の記録</title>
-    <link rel="alternate" href="https://qiita.com/minorun365/items/4416bd940ca0cd3aaabc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-25T21:41:17+09:00</updated>
-    <summary type="html">Likes: 27&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/minorun365&quot;&gt;minorun365&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T20:57:51+09:00&lt;br/&gt;Updated: 2026-11-25T21:41:17+09:00&lt;br/&gt;技術書典に初出展しました！
-技術書典21、おつかれさまでした！ 初めての出展で、Claude と一緒に作った同人誌を300部刷り、紙の本はおかげさまで全部お届けできました。
-
-お待ちしてます！#技術書典 pic.twitter.com/tOZ1NwRlsr— 🍊❄️ (@...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:a5145ee73f86646c64ec</id>
@@ -1080,6 +1000,28 @@ Claude Code Mods（ https://...</summary>
 Honoってあるじゃないですか。TypeScriptのWebフレームワークでめーちゃ有名なやつです。私はこの辺ガチエアプなので、具体的に何が良いのかわかってませんでした。ざっくり軽くて速...</summary>
   </entry>
   <entry>
+    <id>tag:qiita.com,2026:44e3911cb090e90768d9</id>
+    <title>「自分でやった方が早い」が部下を育てない ― 新人リーダーの壁と「自分を超える部下」のつくりかた【権力シリーズB】</title>
+    <link rel="alternate" href="https://qiita.com/Nao52/items/44e3911cb090e90768d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-26T20:02:51+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-11-26T19:57:35+09:00&lt;br/&gt;Updated: 2026-11-26T20:02:51+09:00&lt;br/&gt;本記事は「AIに奪われない力＝権力」シリーズのB（新人リーダー・チームリーダー向け）です。
+全体の考え方は シリーズ総論 をご覧ください。
+
+■ この記事はこんな人におすすめ
+
+新しくリーダーになった、またはチームを任されたエンジニア
+「自分でやった方が早い」と感じて、...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:205353ed847956c45dd2</id>
+    <title>心理的安全性を現場で育てる ― 「なんで？」をやめただけで2チーム統合リーダーの現場が変わった話</title>
+    <link rel="alternate" href="https://qiita.com/teppei19980914/items/205353ed847956c45dd2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-25T19:03:41+09:00</updated>
+    <summary type="html">Likes: 24&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T19:03:41+09:00&lt;br/&gt;Updated: 2026-11-25T19:03:41+09:00&lt;br/&gt;この記事は約12分で読めます。
+
+心理的安全性は、制度を1つ導入すれば手に入るものではありません。2026年9月、私は自社の2チームを統合するリーダーとしてアサインされました。現場はお客様から「稼働負荷を下げてほしい」と要望され、成果物の品質も安定していませんでした。そこ...</summary>
+  </entry>
+  <entry>
     <id>tag:qiita.com,2026:43b360420d0cdcbf190c</id>
     <title>社長の一言は重い。RAGにも忖度させてみた（重み付け検索）</title>
     <link rel="alternate" href="https://qiita.com/kikuziro/items/43b360420d0cdcbf190c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1107,13 +1049,16 @@ Honoってあるじゃないですか。TypeScriptのWebフレームワークで
 そもそもどんな脆弱...</summary>
   </entry>
   <entry>
-    <id>tag:qiita.com,2026:205353ed847956c45dd2</id>
-    <title>心理的安全性を現場で育てる ― 「なんで？」をやめただけで2チーム統合リーダーの現場が変わった話</title>
-    <link rel="alternate" href="https://qiita.com/teppei19980914/items/205353ed847956c45dd2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-25T19:03:41+09:00</updated>
-    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/teppei19980914&quot;&gt;teppei19980914&lt;/a&gt;&lt;br/&gt;Published: 2026-11-25T19:03:41+09:00&lt;br/&gt;Updated: 2026-11-25T19:03:41+09:00&lt;br/&gt;この記事は約12分で読めます。
+    <id>tag:qiita.com,2026:d058c43b52d3a115a240</id>
+    <title>プレイングマネージャーから抜け出せない人が見落としている3つの視点 ― 権力を「大きく」し、腐らせないために【権力シリーズC】</title>
+    <link rel="alternate" href="https://qiita.com/Nao52/items/d058c43b52d3a115a240?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-26T20:00:55+09:00</updated>
+    <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-11-26T20:00:02+09:00&lt;br/&gt;Updated: 2026-11-26T20:00:55+09:00&lt;br/&gt;本記事は「AIに奪われない力＝権力」シリーズのC（部長以上を目指す30〜40代向け）です。
+全体の考え方は シリーズ総論 をご覧ください。
 
-心理的安全性は、制度を1つ導入すれば手に入るものではありません。2026年9月、私は自社の2チームを統合するリーダーとしてアサインされました。現場はお客様から「稼働負荷を下げてほしい」と要望され、成果物の品質も安定していませんでした。そこ...</summary>
+■ この記事の位置づけ
+先に正直にお伝えします。私自身は、まだ部長以上の立場を経験していません。
+そのため、この記事は「部長とし...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:9e7c02b749037238b2bc</id>
@@ -1165,31 +1110,6 @@ Microsoft 365 Copilot のエージェントビルダーに「スキル」を追�
     <updated>2026-10-01T08:49:01+09:00</updated>
     <summary type="html">Likes: 23&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/ry-harada&quot;&gt;ry-harada&lt;/a&gt;&lt;br/&gt;Published: 2026-10-01T08:49:01+09:00&lt;br/&gt;Updated: 2026-10-01T08:49:01+09:00&lt;br/&gt;どうも、AWS認定宇宙最速(未遂)受験芸人のあるけみーです。最寄りの試験会場が10時開始の回しか選べず地の利がありません。9時からやってる会場を選べと言われたらその通りです。
 Generative AI Developer - Professional(AIP)で宇宙最速(...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:44e3911cb090e90768d9</id>
-    <title>「自分でやった方が早い」が部下を育てない ― 新人リーダーの壁と「自分を超える部下」のつくりかた【権力シリーズB】</title>
-    <link rel="alternate" href="https://qiita.com/Nao52/items/44e3911cb090e90768d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-26T20:02:51+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-11-26T19:57:35+09:00&lt;br/&gt;Updated: 2026-11-26T20:02:51+09:00&lt;br/&gt;本記事は「AIに奪われない力＝権力」シリーズのB（新人リーダー・チームリーダー向け）です。
-全体の考え方は シリーズ総論 をご覧ください。
-
-■ この記事はこんな人におすすめ
-
-新しくリーダーになった、またはチームを任されたエンジニア
-「自分でやった方が早い」と感じて、...</summary>
-  </entry>
-  <entry>
-    <id>tag:qiita.com,2026:d058c43b52d3a115a240</id>
-    <title>プレイングマネージャーから抜け出せない人が見落としている3つの視点 ― 権力を「大きく」し、腐らせないために【権力シリーズC】</title>
-    <link rel="alternate" href="https://qiita.com/Nao52/items/d058c43b52d3a115a240?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-    <updated>2026-11-26T20:00:55+09:00</updated>
-    <summary type="html">Likes: 22&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Nao52&quot;&gt;Nao52&lt;/a&gt;&lt;br/&gt;Published: 2026-11-26T20:00:02+09:00&lt;br/&gt;Updated: 2026-11-26T20:00:55+09:00&lt;br/&gt;本記事は「AIに奪われない力＝権力」シリーズのC（部長以上を目指す30〜40代向け）です。
-全体の考え方は シリーズ総論 をご覧ください。
-
-■ この記事の位置づけ
-先に正直にお伝えします。私自身は、まだ部長以上の立場を経験していません。
-そのため、この記事は「部長とし...</summary>
   </entry>
   <entry>
     <id>tag:qiita.com,2026:385b2c7ef5fbd074e6e2</id>
@@ -2057,5 +1977,108 @@ AWSのブログで、GitHub ActionsからAgentCore Evaluationsを呼んでエー
 100DL。
 大きなサービスから見れば、ほとんど誤差のような数字です。
 ただ、広告予算も知名度もほぼな...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:1cfd627bd1ba30e2dc9c</id>
+    <title>Google Workspace Studioの「スキル（Skills）」とは？作り方・使い方とフローとの違いを解説</title>
+    <link rel="alternate" href="https://qiita.com/shibuya-ys/items/1cfd627bd1ba30e2dc9c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-07T17:07:42+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shibuya-ys&quot;&gt;shibuya-ys&lt;/a&gt;&lt;br/&gt;Published: 2026-10-07T17:07:41+09:00&lt;br/&gt;Updated: 2026-10-07T17:07:42+09:00&lt;br/&gt;はじめに
+こんにちは。
+普段はGoogle Workspaceをあまり使っていないのですが、業務の効率化に活用してみようと模索している中で、最近「Google Workspace Studio」のスキル（Skills）という機能を触る機会がありました。
+これまで業務を自動...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:9c9cbb97df7e4a631660</id>
+    <title>CORSエラーに遭遇したので、そもそもCORSとは何なのか理解する</title>
+    <link rel="alternate" href="https://qiita.com/megumi_i/items/9c9cbb97df7e4a631660?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-06T21:14:09+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/megumi_i&quot;&gt;megumi_i&lt;/a&gt;&lt;br/&gt;Published: 2026-10-06T21:14:09+09:00&lt;br/&gt;Updated: 2026-10-06T21:14:09+09:00&lt;br/&gt;はじめに
+開発中、APIへのリクエストでCORSエラーに遭遇しました。
+原因を調べて、リクエスト元が「許可するオリジン」として登録されていなかったことが分かったので、 https://example.com を許可設定に追加し、無事エラー解消！！
+...と思いきや、今度は...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d1f17a1dd4f050dbfd7f</id>
+    <title>Amazon S3+vsftpdでFTPサーバを構築する</title>
+    <link rel="alternate" href="https://qiita.com/naoaki-yzrh/items/d1f17a1dd4f050dbfd7f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-10-06T13:35:12+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/naoaki-yzrh&quot;&gt;naoaki-yzrh&lt;/a&gt;&lt;br/&gt;Published: 2026-10-06T13:35:12+09:00&lt;br/&gt;Updated: 2026-10-06T13:35:12+09:00&lt;br/&gt;当初はAWS Transfer Family for FTPで構築していましたが、あまりにもコストが高いのでEC2上に別途FTPサーバを構築した際のメモです
+
+AWS Transfer Familyとは
+
+AWS Transfer Familyを使用するとS3・EFSに...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:d794f229ba4e97b541fc</id>
+    <title>oracle-ai-ready-data Skill 第3回：ANNOTATIONSとDomainの意味情報を可視化し、Select AIで確認してみてみた</title>
+    <link rel="alternate" href="https://qiita.com/shirok/items/d794f229ba4e97b541fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-30T12:27:29+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/shirok&quot;&gt;shirok&lt;/a&gt;&lt;br/&gt;Published: 2026-09-30T09:10:09+09:00&lt;br/&gt;Updated: 2026-09-30T12:27:29+09:00&lt;br/&gt;第2回では、BAD_AI_READYのコメント、主キー・外部キー、鮮度・出所などを整備し、AI Readyスコアを0.22から0.97へ改善しました。最後に、Select AIがそのメタデータを利用してSQLを生成できるかも確認しました。
+今回は、データの意味を説明するメ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:73c2102fe9a9827eed7b</id>
+    <title>具体と抽象の勉強会に参加してきた話</title>
+    <link rel="alternate" href="https://qiita.com/bisketoriba/items/73c2102fe9a9827eed7b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-27T21:16:17+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/bisketoriba&quot;&gt;bisketoriba&lt;/a&gt;&lt;br/&gt;Published: 2026-09-27T21:16:17+09:00&lt;br/&gt;Updated: 2026-09-27T21:16:17+09:00&lt;br/&gt;はじめに
+JISSENというコミュニティで「具体と抽象」に関する勉強会に参加してきたので、やったことや学びなどを記事として残しておこうと思います。今後もこの勉強会はやるみたいなので、具体で何をしたか等のネタバレは控えています。
+勉強会は以下の記事の実践バージョンという感じ...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:a3da7952f0183d8d9208</id>
+    <title>DatabricksとSnowflakeどっち？を毎回聞かれるので、機能表じゃない選び方を書く</title>
+    <link rel="alternate" href="https://qiita.com/y0shidahr/items/a3da7952f0183d8d9208?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-09-26T21:07:11+09:00</updated>
+    <summary type="html">Likes: 14&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/y0shidahr&quot;&gt;y0shidahr&lt;/a&gt;&lt;br/&gt;Published: 2026-09-26T21:07:11+09:00&lt;br/&gt;Updated: 2026-09-26T21:07:11+09:00&lt;br/&gt;機能比較表を見ても決められない
+業務でDatabricksとSnowflakeの両方を触っています。で、「結局どっち？」を定期的に聞かれます。
+機能比較表はもう腐るほどあるんですが、あれを読んで決められた人を見たことがありません。理由ははっきりしていて、2026年時点で機...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:7a4c618b1ded3350870f</id>
+    <title>[俺のターン！]Amazon Textract Insightsで遊戯王カードを分類・抽出してみた</title>
+    <link rel="alternate" href="https://qiita.com/kikuziro/items/7a4c618b1ded3350870f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-24T20:36:26+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/kikuziro&quot;&gt;kikuziro&lt;/a&gt;&lt;br/&gt;Published: 2026-11-24T19:47:50+09:00&lt;br/&gt;Updated: 2026-11-24T20:36:26+09:00&lt;br/&gt;※イメージです
+
+ ドローフェーズ（はじめに）
+2026年11月20日にGAしたAmazon Textract Insightsは、書類の種類を判定して、決めた項目を抜き出すサービスです。詳しくはこちらの記事が参考になります。
+
+これを見て真っ先に思い浮かんだのが請求...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:b566535aa04d982bb9c8</id>
+    <title>🥕難解言語Emojicodeで競プロがしたい！🐇</title>
+    <link rel="alternate" href="https://qiita.com/Un_titled/items/b566535aa04d982bb9c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-17T18:14:30+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/Un_titled&quot;&gt;Un_titled&lt;/a&gt;&lt;br/&gt;Published: 2026-11-17T18:14:30+09:00&lt;br/&gt;Updated: 2026-11-17T18:14:30+09:00&lt;br/&gt;😀 🔤Hello, World!🔤 ❗️
+こんにちは！Un_titledです。その辺の高校生をしています。
+みなさんは競プロで何の言語を使っていますか？
+私はC++を主に使っています。他にもPython、Rust、Java...
+Brainf**kやwhitespace、...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:a84c8eab09c878071daa</id>
+    <title>【改定前受験推奨】Claude Certified Architect – Professional（CCAR-P）今週受験してきました。【合格体験記】</title>
+    <link rel="alternate" href="https://qiita.com/takeshi_Qiita/items/a84c8eab09c878071daa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-13T15:36:42+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/takeshi_Qiita&quot;&gt;takeshi_Qiita&lt;/a&gt;&lt;br/&gt;Published: 2026-11-11T18:09:14+09:00&lt;br/&gt;Updated: 2026-11-13T15:36:42+09:00&lt;br/&gt;はじめに
+
+Claude 認定の最上位 Professionalにあたる CCAR-P に 837点で合格しました。
+勉強は、CCDV-F 合格後に みのるんさんの問題集を2周しました。
+
+重要な注意：2026年12月7日（月）から CCAO-F・CCDV-F・CCAR-...</summary>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2026:bdeb5537efc1f27af726</id>
+    <title>Unityを選ぶ企業は赤字体質である。</title>
+    <link rel="alternate" href="https://qiita.com/roripika/items/bdeb5537efc1f27af726?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+    <updated>2026-11-13T12:34:50+09:00</updated>
+    <summary type="html">Likes: 13&lt;br/&gt;Author: &lt;a href=&quot;https://qiita.com/roripika&quot;&gt;roripika&lt;/a&gt;&lt;br/&gt;Published: 2026-11-13T12:29:15+09:00&lt;br/&gt;Updated: 2026-11-13T12:34:50+09:00&lt;br/&gt;※本記事について
+本記事は、筆者がゲーム開発の現場で抱えている課題感や知見をもとに、AI（Antigravity / Gemini）と壁打ち・議論した内容をAIに整理・執筆させたものです。
+
+はじめに：なぜ「Unityにすれば早く作れる」が実現しないのか
+ゲーム開発の現...</summary>
   </entry>
 </feed>
